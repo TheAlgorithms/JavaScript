@@ -1,3 +1,9 @@
+/*
+* Linear search or sequential search is a method for finding a target
+* value within a list. It sequentially checks each element of the list
+* for the target value until a match is found or until all the elements
+* have been searched.
+*/
 function SearchArray(searchNum, ar) {
   var position = Search(ar, searchNum);
   if (position != -1) {
