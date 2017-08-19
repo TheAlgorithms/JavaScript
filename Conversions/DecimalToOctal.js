@@ -5,7 +5,7 @@ function decimalToOctal(num) {
   oct=oct+(r*Math.pow(10,c++));
   num =Math.floor(num/ 8); // basically /= 8 without remainder if any
   }
-  console.log("The decimal in binary is " + oct);
+  console.log("The decimal in octal is " + oct);
 }
 
  decimalToOctal(2);
