@@ -9,41 +9,29 @@
 
 var Queue = function() {
 
-  //This keeps track of where the end of the queue is
-  this.back = 0;
   //This is the array representation of the queue
-  this.queue = {};
+  this.queue = [];
 
   //Add a value to the end of the queue
   this.enqueue = function(item) {
-    this.queue[this.back] = item;
-    this.back++;
+    this.queue[this.queue.length] = item;
   }
 
   //Removes the value at the front of the queue
   this.dequeue = function() {
-    if (this.back === 0) {
+    if (this.queue.length === 0) {
       return "Queue is Empty";
     }
 
-    var result = this.queue[this.front];
-    delete this.queue[this.front];
-
-    //Shift all the other items forward
-    for (var i = 1; i < this.back; i++) {
-      this.queue[i - 1] = this.queue[i];
-    }
-
-    //clean up the leftover duplicated value at the back of the queue
-    delete this.queue[this.back];
-    this.back--;
+    var result = this.queue[0];
+    this.queue.splice(0, 1); //remove the item at position 0 from the array
 
     return result;
   }
 
   //Return the length of the queue
   this.length = function() {
-    return this.back;
+    return this.queue.length;
   }
 
   //Return the item at the front of the queue
@@ -53,17 +41,7 @@ var Queue = function() {
 
   //List all the items in the queue
   this.view = function() {
-    var str = "{"
-    //construct a single string to represent the items in the queue
-    for (var i = 0; i < this.back; i++) {
-      str += this.queue[i];
-      if (i !== this.back - 1) {
-        str += ", ";
-      }
-    }
-    str += "}";
-
-    console.log(str);
+    console.log(this.queue);
   }
 }
 
