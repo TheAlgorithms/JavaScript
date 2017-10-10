@@ -24,7 +24,7 @@ function radixSort(items, RADIX) {
 
     for (var j = 0; j < items.length; j++) {
       var tmp = items[j] / placement;
-      buckets[Math.round(tmp % RADIX)].push(j);
+      buckets[Math.floor(tmp % RADIX)].push(items[j]);
       if (maxLength && tmp > 0) {
         maxLength = false;
       }
@@ -34,7 +34,7 @@ function radixSort(items, RADIX) {
     for (var b = 0; b < RADIX; b++) {
       var buck = buckets[b];
       for (var k = 0; k < buck.length; k++) {
-        items[a] = k;
+        items[a] = buck[k];
         a++;
       }
     }
