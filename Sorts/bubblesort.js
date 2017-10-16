@@ -27,6 +27,7 @@ console.log("-----before sorting-----")
 console.log(ar);
 bubbleSort(ar);
 //Array after sort
+console.log("-----after sorting-----")
 console.log(ar);
 
 /*alternative implementation of bubble sort algorithm.
