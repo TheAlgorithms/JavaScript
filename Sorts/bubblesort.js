@@ -23,9 +23,43 @@ function bubbleSort(items) {
 
 var ar=[5,6,7,8,1,2,12,14];
 //Array before Sort
+console.log("-----before sorting-----")
 console.log(ar);
 bubbleSort(ar);
 //Array after sort
 console.log(ar);
+
+/*alternative implementation of bubble sort algorithm.
+ Using a while loop instead. For educational purposses only
+ */
+/*
+*In bubble sort, we keep iterating while something was swapped in
+*the previous inner-loop iteration. By swapped I mean, in the 
+*inner loop iteration, we check each number if the number proceeding 
+*it is greater than itself, if so we swap them.
+*/
+
+function bubbleSort(arr){
+    var swapped = true;
+    while(swapped){
+        var swapped = false;
+        for(var i = 0; i < arr.length; i++){
+            if(arr[i] > arr[i + 1]){
+                var temp = arr[i];
+                arr[i] = arr[i + 1];
+                arr[i + 1] = temp;
+                swapped = true;
+            }
+        }
+    }
+    return arr;
+}
+
+//test
+console.log("-----before sorting-----")
+var array = [10,5,3,8,2,6,4,7,9,1];
+console.log(array);
+console.log("-----after sorting-----")
+console.log(bubbleSort(array));
 
 
