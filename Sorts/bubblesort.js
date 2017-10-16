@@ -1,5 +1,5 @@
-/*Bubble Sort is a algorithm to sort a array it
-* copares adjacent element and swaps thier position
+/*Bubble Sort is a algorithm to sort an array. It
+* compares adjacent element and swaps thier position
 */
 function bubbleSort(items) {
     var length = items.length;
