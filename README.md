@@ -1,6 +1,6 @@
 # The Algorithms - Javascript
 
-### All algorithms implemented in Javascript (for education)
+### All algorithms implemented in Javascript (for educational purposes only)
 
 These are for demonstration purposes only. There are many implementations of sorts in the Javascript standard library that are much better for performance reasons.
 
