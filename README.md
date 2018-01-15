@@ -22,9 +22,13 @@ That said, many open source projects follow a similar organizational structure. 
 A typical open source project has the following types of people:
 
 **Author**: The person/s or organization that created the project
+
 **Owner**: The person/s who has administrative ownership over the organization or repository (not always the same as the original author)
+
 **Maintainers**: Contributors who are responsible for driving the vision and managing the organizational aspects of the project. (They may also be authors or owners of the project.)
+
 **Contributors**: Everyone who has contributed something back to the project.
+
 **Community Members**: People who use the project. They might be active in conversations or express their opinion on the project’s direction.
 
 Bigger projects may also have subcommittees or working groups focused on different tasks, such as tooling, triage, community moderation, and event organizing. Look on a project’s website for a “team” page, or in the repository for governance documentation, to find this information.
