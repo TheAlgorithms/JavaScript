@@ -1,5 +1,5 @@
 [@thisisAbdus](https://github.com/thisisabdus)
-[@F1r3byte](https://github.com/F1r3byte)
+[@samirjouni](https://github.com/samirjouni)
 [@aneagoie](https://github.com/aneagoie)
 [@drood87] (https://github.com/drood87)
 [@RizaneEves](https://github.com/RizaneEves)
