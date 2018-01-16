@@ -1,12 +1,12 @@
 # start-here-guidelines
 Guidelines on how this open source community works. Most information is from the amazing https://opensource.guide/how-to-contribute/
 
-## 5 Step guide to ger started:
+## 5 Step guide to get started:
 **1**. Read the "Anatomy of an open source project" below.
 
 **2**. Find out about which projects you can join: https://docs.google.com/spreadsheets/d/1eeitBHvjnPbd2JPhCRyKp5hD5TuTSmUtE8F76ADzbmc/edit#gid=1851151825
 
-**3**. Sing up for a project you would like to contribute to: nd here you sign up https://drive.google.com/open?id=1CXkfqNtYlHitkGoCuXTjxtt6DP6qwmZ1YWSyynr2AL0
+**3**. Sing up for a project you would like to contribute to and here you can sign up https://drive.google.com/open?id=1CXkfqNtYlHitkGoCuXTjxtt6DP6qwmZ1YWSyynr2AL0
 
 **4**. Make your first Pull Request (Free how-to tutorial at http://makeapullrequest.com/), by adding your name to the CONTRIBUTORS.md file in the start-here-guidelines project. (You can also use this walkthrough as a reference: https://github.com/Roshanjossey/first-contributions)
 
