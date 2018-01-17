@@ -1,6 +1,9 @@
 # start-here-guidelines
 Guidelines on how this open source community works. Most information is from the amazing https://opensource.guide/how-to-contribute/
 
+## One rule of this community:
+We don't care if you break things. This is a playground and we encourage failing often. Use this as a practice ground and enjoy contributing to projects you create with your fellow students.
+
 ## 5 Step guide to get started:
 **1**. Read the "Anatomy of an open source project" below.
 
