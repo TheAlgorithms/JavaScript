@@ -18,7 +18,7 @@ We don't care if you break things. This is a playground and we encourage failing
 ## Anatomy of an open source project
 Every open source community is different.
 
-Spending years on one open source project means you’ve gotten to know one open source project. Move to a different project, and you might find the vocabulary, norms, and communication styles are completely different.
+Spending years on one open source project means you’ve gotten to know _one_ open source project. Move to a different project, and you might find the vocabulary, norms, and communication styles are completely different.
 
 That said, many open source projects follow a similar organizational structure. Understanding the different community roles and overall process will help you get quickly oriented to any new project.
 
