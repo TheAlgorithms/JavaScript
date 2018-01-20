@@ -16,3 +16,4 @@
 
 -[@adrian-sarmas](https://github.com/adrian-sarmas)
 
+-[@wayofDao](https://github.com/wayofDao)
