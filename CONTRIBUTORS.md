@@ -35,3 +35,5 @@
 -[@Slerkas](https://github.com/Slerkas)
 
 -[@christine-aqui](https://github.com/christine-aqui)
+
+-[@deluxscript](https://github.com/deluxscript)
