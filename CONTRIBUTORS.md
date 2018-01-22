@@ -41,3 +41,5 @@
 -[@rankupdavid](https://github.com/rankupdavid)
 
 -[@WhoIsThat1](https://github.com/WhoIsThat1)
+
+-[@GiuliaMalaroda](https://github.com/GiuliaMalaroda)
