@@ -36,4 +36,6 @@
 
 -[@christine-aqui](https://github.com/christine-aqui)
 
+-[@deluxscript](https://github.com/deluxscript)
+
 -[@rankupdavid](https://github.com/rankupdavid)
