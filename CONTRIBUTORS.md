@@ -50,6 +50,8 @@
 
 -[@Lemidan](https://github.com/Lemidan)
 
+-[@jackbaber](https://github.com/jackbaber)
+
 -[@ATCran](http://github.com/ATCran)
 
 -[@Seviran](https://github.com/Seviran)
