@@ -14,7 +14,7 @@ What might look like a chaotic way of creating software (everybody focusing on t
 
 ## Why would I want to contribute?
 
-Here, praciticing would be our primary objective but there are also many pragmatic reasons for contributing to open source projects:
+Here, practicing would be our primary objective but there are also many pragmatic reasons for contributing to open source projects:
 
    **1.** To add a new feature / improvement to a project; or to fix an issue with a project
 
