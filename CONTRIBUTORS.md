@@ -47,3 +47,5 @@
 -[@ashlieghdawn](http://github.com/ashlieghdawn)
 
 -[@louisevdb84](https://github.com/louisevdb84)
+
+-[@Lemidan](https://github.com/Lemidan)
