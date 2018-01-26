@@ -28,9 +28,9 @@ Here, praciticing would be our primary objective but there are also many pragmat
 
 **1.** **Test :**  Start with testing the code for any bugs, if found raise an issue about it. (Always check first if someone has already raised an issue for the same.)
 
-**2.** **Suggest features:** Look for poosible imrovements and provide suggestions in the comment section. 
+**2.** **Suggest features:** Look for possible improvements and provide suggestions in the comment section. 
 
-**3.** **Design:** Considering the fact that, practice is the main objective try to make little changes on your forked repositry and make a pull-request about it. *Commit often and provide appropriate messages to your commits.*
+**3.** **Design:** Considering the fact that practice is the main objective, try to make little changes on your forked repositry and make a pull-request about it. *Commit often and provide appropriate messages to your commits.*
 
 **4.** You can also help in providing proper documentation of the various projects.
 
