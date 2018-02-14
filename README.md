@@ -5,7 +5,7 @@ Guidelines on how this open source community works. Most information is from the
 We don't care if you break things. This is a playground and we encourage failing often. Use this as a practice ground and enjoy contributing to projects you create with your fellow students.
 
 ## 5 Step guide to get started:
-**1**. Read the wonderful [*gitStarted Guide*](https://github.com/zero-to-mastery/start-here-guidelines/blob/master/git-started-guide.pdf) by our fellow student @wanraitelli
+**1**. Read the wonderful [*gitStarted Guide*](https://github.com/zero-to-mastery/start-here-guidelines/blob/master/gitstartedguideoptimized.pdf) by our fellow student @wanraitelli
 
 **2**. Find out about which projects you can join: https://docs.google.com/spreadsheets/d/1eeitBHvjnPbd2JPhCRyKp5hD5TuTSmUtE8F76ADzbmc/edit#gid=1851151825
 
