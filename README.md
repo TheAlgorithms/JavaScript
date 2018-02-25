@@ -9,7 +9,7 @@ We don't care if you break things. This is a playground and we encourage failing
 
 **2**. Find out about which projects you can join: https://docs.google.com/spreadsheets/d/1eeitBHvjnPbd2JPhCRyKp5hD5TuTSmUtE8F76ADzbmc/edit#gid=1851151825
 
-**3**. Sing up for a project you would like to contribute to and here you can sign up https://drive.google.com/open?id=1CXkfqNtYlHitkGoCuXTjxtt6DP6qwmZ1YWSyynr2AL0
+**3**. Sign up for a project you would like to contribute to and here you can sign up https://drive.google.com/open?id=1CXkfqNtYlHitkGoCuXTjxtt6DP6qwmZ1YWSyynr2AL0
 
 **4**. Make your first Pull Request (Free how-to tutorial at http://makeapullrequest.com/, and then check out Andrei's videos on github https://www.udemy.com/the-complete-web-developer-in-2018/learn/v4/t/lecture/8725782/), by adding your name to the CONTRIBUTORS.md file in the start-here-guidelines project. (You can also use this walkthrough as a reference: https://github.com/Roshanjossey/first-contributions)
 
