@@ -115,3 +115,5 @@
 -[@deltachannel](https://github.com/deltachannel)
 
 -[@andresrmts](https://github.com/andresrmts)
+
+-[@Dommodus](https://githhub.com/Dommodus)
