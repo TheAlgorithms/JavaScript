@@ -111,3 +111,5 @@
 -[@abraglam](https://github.com/abraglam)
 
 -[@gillenha](https://github.com/gillenha)
+
+-[@deltachannel](https://github.com/deltachannel)
