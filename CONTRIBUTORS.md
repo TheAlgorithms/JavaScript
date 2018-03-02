@@ -126,3 +126,6 @@
 
 -[@cmanalaysay](https://github.com/cmanalaysay)
 
+-[@ahrke](https://githhub.com/ahrke)
+
+-[@mi5ul](https://githhub.com/mi5ul)
