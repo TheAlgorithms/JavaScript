@@ -131,3 +131,5 @@
 -[@ahrke](https://githhub.com/ahrke)
 
 -[@mi5ul](https://githhub.com/mi5ul)
+
+-[@maniFullStackNerd](https://githhub.com/maniFullStackNerd)
