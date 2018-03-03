@@ -134,6 +134,8 @@
 
 -[@maniFullStackNerd](https://githhub.com/maniFullStackNerd)
 
+-[@hrishi7](https://githhub.com/hrishi7)
+
 -[@Ashwinira](https://githhub.com/Ashwinira)
 
 -[@slarti-42](https://github.com/slarti-42)
