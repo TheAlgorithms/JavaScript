@@ -133,3 +133,5 @@
 -[@mi5ul](https://githhub.com/mi5ul)
 
 -[@maniFullStackNerd](https://githhub.com/maniFullStackNerd)
+
+-[@hrishi7](https://githhub.com/hrishi7)
