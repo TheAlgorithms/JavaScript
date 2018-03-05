@@ -147,3 +147,5 @@
 -[@plasmadice](https://github.com/plasmadice)
 
 -[@cjue25](https://github.com/cjue25)
+
+-[@PvParisi](https://github.com/PvParisi)
