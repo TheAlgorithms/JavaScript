@@ -155,3 +155,5 @@
 -[@ktran031](https://github.com/ktran031)
 
 -[@nykko7](https://github.com/nykko7)
+
+-[@IsmaelVazquez](https://github.com/IsmaelVazquez)
