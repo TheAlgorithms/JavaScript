@@ -162,6 +162,8 @@
 
 -[@YoucefBnm](https://github.com/YoucefBnm)
 
+-[@Noufal2k](https://github.com/Noufal2k)
+
 -[@MrAFerreira](https://github.com/MrAFerreira)
 
 -[@NickPax](https://github.com/NickPax)
