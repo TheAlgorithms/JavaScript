@@ -183,3 +183,5 @@
 -[@fvalean](https://github.com/fvalean)
 
 -[@codeofrich](https://github.com/codeofrich/)
+
+-[@waqar3](https://github.com/waqar3)
