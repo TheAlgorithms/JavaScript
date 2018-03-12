@@ -188,8 +188,21 @@
 
 -[@waqar3](https://github.com/waqar3)
 
+-[@mikerobards](https://github.com/mikerobards)  
+
+-[@raulpetrisor](https://github.com/raulpetrisor)
+
 -[@mikerobards](https://github.com/mikerobards)
 
 -[@FredoDeveloper](https://github.com/FredoDeveloper)
 
 -[@rahulaakash26](https://github.com/rahulaakash26)
+
+-[@wpowers42](https://github.com/wpowers42)
+
+-[@Emirthestroj](https://github.com/Emirthestroj)
+
+-[@bukazoltan](https://github.com/bukazoltan)
+
+-[@tjhooper1](https://github.com/tjhooper1)
+
