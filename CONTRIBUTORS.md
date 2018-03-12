@@ -198,3 +198,5 @@
 
 -[@wpowers42](https://github.com/wpowers42)
 - [@Emirthestroj](https://github.com/Emirthestroj)
+
+- [@bukazoltan](https://github.com/bukazoltan)
