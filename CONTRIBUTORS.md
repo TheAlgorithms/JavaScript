@@ -74,6 +74,8 @@
 
 -[@2jiwon](https://github.com/2jiwon)
 
+-[@YvonneD](https://github.com/YvonneD)
+
 -[@aneagoie](https://github.com/aneagoie)
 
 -[@DMTrooper3](https://github.com/DMTrooper3)
@@ -189,3 +191,9 @@
 -[@mikerobards](https://github.com/mikerobards)  
 
 -[@raulpetrisor](https://github.com/raulpetrisor)
+
+-[@mikerobards](https://github.com/mikerobards)
+
+-[@FredoDeveloper](https://github.com/FredoDeveloper)
+
+-[@wpowers42](https://github.com/wpowers42)
