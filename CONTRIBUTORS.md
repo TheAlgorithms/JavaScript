@@ -211,3 +211,11 @@
 -[@tjhooper1](https://github.com/tjhooper1)
 
 -[@mikepyattara](https://github.com/mikepyattara)
+
+-[@Piotrrrek](https://github.com/Piotrrrek)
+
+-[@avdoseferovic](https://github.com/avdoseferovic)
+
+-[@subinvarghese99](https://github.com/subinvarghese99)
+
+-[@chengyeh](https://github.com/chengyeh)
