@@ -242,6 +242,8 @@
 
 -[@naufalfur](https://github.com/naufalfur)
 
+-[@kingdomstudios](https://github.com/kingdomstudios)
+
 -[@phawata](https://github.com/phawata)
 
 -[@VS](https://github.com/plyus1313)
