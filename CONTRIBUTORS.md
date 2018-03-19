@@ -200,6 +200,8 @@
 
 -[@wpowers42](https://github.com/wpowers42)
 
+-[@famousmighodaro](https://github.com/famousmighodaro)
+
 - [@Emirthestroj](https://github.com/Emirthestroj)
 
 -[@stahlwalker](https://github.com/Stahlwalker)
