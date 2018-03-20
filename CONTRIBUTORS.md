@@ -200,6 +200,8 @@
 
 -[@wpowers42](https://github.com/wpowers42)
 
+-[@famousmighodaro](https://github.com/famousmighodaro)
+
 - [@Emirthestroj](https://github.com/Emirthestroj)
 
 -[@stahlwalker](https://github.com/Stahlwalker)
@@ -239,3 +241,13 @@
 -[@Kenneth-Brisco](https://github.com/Kenneth-Brisco)
 
 -[@naufalfur](https://github.com/naufalfur)
+
+-[@kingdomstudios](https://github.com/kingdomstudios)
+
+-[@phawata](https://github.com/phawata)
+
+-[@VS](https://github.com/plyus1313)
+
+-[@marko](https://github.com/MarkoStevanovic993)
+
+-[@aearose](https://github.com/aearose)
