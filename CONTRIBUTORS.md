@@ -255,3 +255,8 @@
 -[@tejasmorkar](https://github.com/tejasmorkar)
 
 -[@clayton-lino](https://github.com/clayton-lino)
+
+-[@jiffyjumbo](https://github.com/jiffyjumbo)
+
+-[@Ktranfx](https://github.com/Ktranfx)
+
