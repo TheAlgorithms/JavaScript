@@ -267,4 +267,8 @@
 -[@Teva](https://github.com/TevaHenry)
 
 -[@NaveenVNaik](https://github.com/NaveenVNaik)
+
+-[@Nokkvi](https://github.com/Nokkvi)
+
 -[@tanmaylata](https://github.com/tanmaylata)
+
