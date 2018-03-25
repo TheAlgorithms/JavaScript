@@ -200,6 +200,8 @@
 
 -[@wpowers42](https://github.com/wpowers42)
 
+-[@famousmighodaro](https://github.com/famousmighodaro)
+
 - [@Emirthestroj](https://github.com/Emirthestroj)
 
 -[@stahlwalker](https://github.com/Stahlwalker)
@@ -210,6 +212,8 @@
 
 -[@tjhooper1](https://github.com/tjhooper1)
 
+-[@mikepyattara](https://github.com/mikepyattara)
+
 -[@Piotrrrek](https://github.com/Piotrrrek)
 
 -[@avdoseferovic](https://github.com/avdoseferovic)
@@ -219,5 +223,58 @@
 -[@chengyeh](https://github.com/chengyeh)
 
 -[@geraldanosike](https://github.com/geraldanosike)
+
+-[@kyang5](https://github.com/kyang5)
+
+-[@utknit05](https://github.com/utknit05)
+
+-[@w3bh4ck](https://github.com/w3bh4ck)
+
+-[@sbassah](https://github.com/sbassah)
+
+-[@jmassery](https://github.com/jmassery)
+
+-[@googlr](https://github.com/googlr)
+
+-[@laver0ck](https://github.com/laver0ck)
+
+-[@jbeyeah](https://github.com/jbeyeah)
+
+-[@Kenneth-Brisco](https://github.com/Kenneth-Brisco)
+
+-[@naufalfur](https://github.com/naufalfur)
+
+-[@kingdomstudios](https://github.com/kingdomstudios)
+
+-[@phawata](https://github.com/phawata)
+
+-[@VS](https://github.com/plyus1313)
+
+-[@marko](https://github.com/MarkoStevanovic993)
+
+-[@aearose](https://github.com/aearose)
+
+-[@tejasmorkar](https://github.com/tejasmorkar)
+
+-[@clayton-lino](https://github.com/clayton-lino)
+
+-[@jiffyjumbo](https://github.com/jiffyjumbo)
+
+-[@Ktranfx](https://github.com/Ktranfx)
+
+-[@gouthamkallempudi](https://github.com/gouthamkallempudi)
+
+-[@iAmAnsari](https://github.com/iAmAnsari)
+
+-[@Teva](https://github.com/TevaHenry)
+
+-[@NaveenVNaik](https://github.com/NaveenVNaik)
+
+-[@Nokkvi](https://github.com/Nokkvi)
+
+-[@tanmaylata](https://github.com/tanmaylata)
+
+-[@hasanalom](https://github.com/hasanalom)
+
 
 
