@@ -289,3 +289,5 @@
 -[@bradyburkle](https://github.com/bradyburkle)
 
 -[@lamngue](https://github.com/lamngue)
+
+-[@walimang](https://github.com/walimang)
