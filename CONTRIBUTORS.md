@@ -295,3 +295,5 @@
 -[@elymsh](https://github.com/elymsh)
 
 -[@pawelmisiak](https://github.com/pawelmisiak)
+
+-[@jadepage](https://github.com/jadepage)
