@@ -299,3 +299,5 @@
 -[@jadepage](https://github.com/jadepage)
 
 -[@tomasmejia](https://github.com/tomasmejia)
+
+-[@lucastlima](https://github.com/lucastlima)
