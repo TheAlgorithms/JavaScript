@@ -303,3 +303,5 @@
 -[@lucastlima](https://github.com/lucastlima)
 
 -[@thecodeworm](https://github.com/thecodeworm)
+
+-[@hadeybamz](https://github.com/hadeybamz)
