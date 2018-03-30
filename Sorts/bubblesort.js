@@ -5,7 +5,7 @@
 */
 function bubbleSort(items) {
     var length = items.length;
-    for (var i = (length - 1); i >= 0; i--) {
+    for (var i = (length - 1); i > 0; i--) {
         //Number of passes
         for (var j = (length - i); j > 0; j--) {
             //Compare the adjacent positions
@@ -44,7 +44,7 @@ function bubbleSort(arr){
     var swapped = true;
     while(swapped){
         var swapped = false;
-        for(var i = 0; i < arr.length; i++){
+        for(var i = 0; i < arr.length-1; i++){
             if(arr[i] > arr[i + 1]){
                 var temp = arr[i];
                 arr[i] = arr[i + 1];
