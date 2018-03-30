@@ -10,14 +10,14 @@ function gnomeSort(items) {
         return;
     }
 
-    var i = 1;
+    let i = 1;
 
     while (i < items.length) {
 
         if (items[i - 1] <= items[i]) {
             i++;
         } else {
-            var temp = items[i];
+            let temp = items[i];
             items[i] = items[i - 1];
             items[i - 1] = temp;
 
