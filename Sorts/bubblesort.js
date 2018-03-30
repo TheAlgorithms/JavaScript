@@ -4,14 +4,14 @@
  * Not efficient.
 */
 function bubbleSort(items) {
-    var length = items.length;
-    for (var i = (length - 1); i > 0; i--) {
+    let length = items.length;
+    for (let i = (length - 1); i > 0; i--) {
         //Number of passes
-        for (var j = (length - i); j > 0; j--) {
+        for (let j = (length - i); j > 0; j--) {
             //Compare the adjacent positions
             if (items[j] < items[j - 1]) {
                 //Swap the numbers
-                var tmp = items[j];
+                let tmp = items[j];
                 items[j] = items[j - 1];
                 items[j - 1] = tmp;
             }
@@ -41,12 +41,12 @@ console.log(ar);
 */
 
 function bubbleSort(arr){
-    var swapped = true;
+    let swapped = true;
     while(swapped){
-        var swapped = false;
-        for(var i = 0; i < arr.length-1; i++){
+        swapped = false;
+        for(let i = 0; i < arr.length-1; i++){
             if(arr[i] > arr[i + 1]){
-                var temp = arr[i];
+                let temp = arr[i];
                 arr[i] = arr[i + 1];
                 arr[i + 1] = temp;
                 swapped = true;
