@@ -6,12 +6,12 @@
  */
 function cocktailShakerSort(items) {
 
-    for (var i = items.length - 1; i > 0; i--) {
-        var swapped = false;
-        var temp, j;
+    for (let i = items.length - 1; i > 0; i--) {
+        let swapped = false;
+        let temp, j;
 
         // backwards
-        for (j = 0; j > i; j--) {
+        for (j = items.length -1; j > i; j--) {
             if (items[j] < items[j - 1]) {
                 temp = items[j];
                 items[j] = items[j - 1];
