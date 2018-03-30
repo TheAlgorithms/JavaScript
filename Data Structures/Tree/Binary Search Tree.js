@@ -81,7 +81,7 @@ var Tree = (function () {
 
   // Start by searching the root
   Tree.prototype.search = function (val) {
-    var found = this.root.search(val);
+    let found = this.root.search(val);
     if (found === null) {
       console.log(val + " not found");
     }
@@ -92,7 +92,7 @@ var Tree = (function () {
 
   // Add a new value to the tree
   Tree.prototype.addValue = function (val) {
-    var n = new Node(val);
+    let n = new Node(val);
     if (this.root == null) {
       this.root = n;
     } else {
