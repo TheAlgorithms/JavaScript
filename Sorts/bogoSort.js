@@ -4,13 +4,13 @@
 */
 Array.prototype.isSorted = function() {
 
-  var length = this.length;
+  let length = this.length;
 
   if (length < 2) {
     return true;
   }
 
-  for (var i = 0; i < length - 1; i++) {
+  for (let i = 0; i < length - 1; i++) {
     if (this[i] > this[i + 1]) {
       return false;
     }
@@ -23,9 +23,9 @@ Array.prototype.isSorted = function() {
 */
 Array.prototype.shuffle = function() {
 
-  for (var i = this.length; i; i--) {
-    var m = Math.floor(Math.random() * i);
-    var n = this[i - 1];
+  for (let i = this.length -1; i; i--) {
+    let m = Math.floor(Math.random() * i);
+    let n = this[i - 1];
     this[i - 1] = this[m];
     this[m] = n;
   }
