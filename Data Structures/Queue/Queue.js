@@ -7,43 +7,52 @@
 
 //Functions: enqueue, dequeue, peek, view, length
 
-var Queue = function() {
+var Queue = (function () {
 
-  //This is the array representation of the queue
-  this.queue = [];
+  // constructor
+  function Queue() {
 
-  //Add a value to the end of the queue
-  this.enqueue = function(item) {
-    this.queue[this.queue.length] = item;
+    //This is the array representation of the queue
+    this.queue = [];
+
   }
 
+  // methods 
+  //Add a value to the end of the queue
+  Queue.prototype.enqueue = function (item) {
+    this.queue[this.queue.length] = item;
+  };
+
   //Removes the value at the front of the queue
-  this.dequeue = function() {
+  Queue.prototype.dequeue = function () {
     if (this.queue.length === 0) {
-      return "Queue is Empty";
+      throw "Queue is Empty";
     }
 
     var result = this.queue[0];
     this.queue.splice(0, 1); //remove the item at position 0 from the array
 
     return result;
-  }
+  };
 
   //Return the length of the queue
-  this.length = function() {
+  Queue.prototype.length = function () {
     return this.queue.length;
-  }
+  };
 
   //Return the item at the front of the queue
-  this.peek = function() {
+  Queue.prototype.peek = function () {
     return this.queue[0];
-  }
+  };
 
   //List all the items in the queue
-  this.view = function() {
+  Queue.prototype.view = function () {
     console.log(this.queue);
-  }
-}
+  };
+
+  return Queue;
+
+}());
 
 //Implementation
 var myQueue = new Queue();
@@ -72,4 +81,4 @@ for (var i = 0; i < 5; i++) {
   myQueue.view();
 }
 
-console.log(myQueue.dequeue());
+//console.log(myQueue.dequeue()); // throws exception!
