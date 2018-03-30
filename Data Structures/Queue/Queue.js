@@ -9,6 +9,7 @@
 
 var Queue = (function () {
 
+  // constructor
   function Queue() {
 
     //This is the array representation of the queue
@@ -16,6 +17,7 @@ var Queue = (function () {
 
   }
 
+  // methods 
   //Add a value to the end of the queue
   Queue.prototype.enqueue = function (item) {
     this.queue[this.queue.length] = item;
@@ -79,4 +81,4 @@ for (var i = 0; i < 5; i++) {
   myQueue.view();
 }
 
-//console.log(myQueue.dequeue());
+//console.log(myQueue.dequeue()); // throws exception!
