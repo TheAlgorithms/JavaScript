@@ -307,3 +307,5 @@
 -[@hadeybamz](https://github.com/hadeybamz)
 
 -[@ironcoderxyz](https://github.com/ironcoderxyz)
+
+-[@jordimolinsv](https://github.com/jordimolinsv)
