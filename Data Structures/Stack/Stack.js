@@ -8,22 +8,24 @@
 // Functions: push, pop, peek, view, length
 
 //Creates a stack constructor
-var Stack = function () {
-  //The top of the Stack
-  this.top=0;
-  //The array representation of the stack
-  this.stack = new Array();
-}
+var Stack = (function () {
 
-  //Adds a value onto the end of the stack
-  Stack.prototype.push=function(value) {
-    this.stack[this.top]=value;
-    this.top++;
+  function Stack() {
+    //The top of the Stack
+    this.top = 0;
+    //The array representation of the stack
+    this.stack = new Array();
   }
 
+  //Adds a value onto the end of the stack
+  Stack.prototype.push = function (value) {
+    this.stack[this.top] = value;
+    this.top++;
+  };
+
   //Removes and returns the value at the end of the stack
-  Stack.prototype.pop = function(){
-    if(this.top === 0){
+  Stack.prototype.pop = function () {
+    if (this.top === 0) {
       return "Stack is Empty";
     }
 
@@ -31,23 +33,27 @@ var Stack = function () {
     var result = this.stack[this.top];
     delete this.stack[this.top];
     return result;
-  }
+  };
 
   //Returns the size of the stack
-  Stack.prototype.size = function(){
+  Stack.prototype.size = function () {
     return this.top;
-  }
+  };
 
   //Returns the value at the end of the stack
-  Stack.prototype.peek = function(){
-    return this.stack[this.top-1];
+  Stack.prototype.peek = function () {
+    return this.stack[this.top - 1];
   }
 
   //To see all the elements in the stack
-  Stack.prototype.view= function(){
-    for(var i=0;i<this.top;i++)
+  Stack.prototype.view = function () {
+    for (var i = 0; i < this.top; i++)
       console.log(this.stack[i]);
-  }
+  };
+
+  return Stack;
+
+}());
 
 //Implementation
 var myStack = new Stack();
