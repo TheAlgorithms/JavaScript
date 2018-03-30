@@ -18,19 +18,14 @@ function rot13(str) {
   for (let i =0; i < strLength; i++) {
     const char = str.charCodeAt(i);
 
-    switch(true) {
-      // Check for non-letter characters
-      case char < 65 || (char > 90 && char < 97) || char > 122:
-        response.push(str.charAt(i));
-        break;
-      // Letters from the second half of the alphabet
-      case (char > 77 && char <= 90 ) || (char > 109 && char <= 122):
-        response.push(String.fromCharCode(str.charCodeAt(i) - 13));
-        break;
-      // Letters from the first half of the alphabet
-      default:
-        response.push(String.fromCharCode(str.charCodeAt(i) + 13));
+    if (char < 65 || (char > 90 && char < 97) || char > 122) {
+      response.push(str.charAt(i));
+    } else if ((char > 77 && char <= 90 ) || (char > 109 && char <= 122)) {
+      response.push(String.fromCharCode(str.charCodeAt(i) - 13));
+    } else {
+      response.push(String.fromCharCode(str.charCodeAt(i) + 13));
     }
+    
   }
   return response.join('');
 }
