@@ -74,6 +74,8 @@
 
 -[@2jiwon](https://github.com/2jiwon)
 
+-[@rizim13](https://github.com/rizim13)
+
 -[@YvonneD](https://github.com/YvonneD)
 
 -[@aneagoie](https://github.com/aneagoie)
