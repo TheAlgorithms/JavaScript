@@ -373,3 +373,5 @@
 -[@mateuszdziuba](https://github.com/mateuszdziuba)
 
 -[@lovelanguage](https://github.com/lovelanguage)
+
+-[@davidcid](https://github.com/davidcid)
