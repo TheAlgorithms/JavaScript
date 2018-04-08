@@ -364,7 +364,7 @@
 
 -[@lucasbertolo](https://github.com/lucasbertolo)
 
--[@austinberner360](https://github.com/austinberner360
+-[@austinberner360](https://github.com/austinberner360)
 
 -[@Vish22101994](https://github.com/Vish22101994)
 
@@ -375,3 +375,5 @@
 -[@lovelanguage](https://github.com/lovelanguage)
 
 -[@davidcid](https://github.com/davidcid)
+
+-[@RickyMau](https://github.com/RickyMau)
