@@ -407,3 +407,5 @@
 - [@shimuni](https://github.com/shimuni)
 
 - [@bmills322](https://github.com/bmills322)
+
+- [@NicoReyH](https://github.com/NicoReyH)
