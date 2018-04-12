@@ -74,6 +74,8 @@
 
 -[@2jiwon](https://github.com/2jiwon)
 
+-[@PepoDyakov](https://github.com/PepoDyakov)
+
 -[@rizim13](https://github.com/rizim13)
 
 -[@YvonneD](https://github.com/YvonneD)
@@ -411,4 +413,3 @@
 - [@NicoReyH](https://github.com/NicoReyH)
 
 - [@andrewrmaxwell](https://github.com/andrewrmaxwell)
-
