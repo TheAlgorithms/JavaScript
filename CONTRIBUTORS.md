@@ -398,7 +398,7 @@
 
 -[@RayBDev](https://github.com/RayBDev)
 
--[@r4pt0s](https://github.com/r4pt0s/) 
+-[@r4pt0s](https://github.com/r4pt0s/)
 
 - [@Saga-sanga](https://github.com/Saga-sanga)
 
@@ -413,3 +413,5 @@
 - [@NicoReyH](https://github.com/NicoReyH)
 
 - [@andrewrmaxwell](https://github.com/andrewrmaxwell)
+
+- [@julia-candir](https://github.com/julia-candir)
