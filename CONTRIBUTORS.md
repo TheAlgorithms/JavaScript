@@ -423,3 +423,5 @@
 - [@tonydc1997](https://github.com/tonydc1997)
 
 - [@chinrar](https://github.com/chinrar)
+
+- [@GaLzZy](https://github.com/galzzy)
