@@ -424,4 +424,6 @@
 
 - [@chinrar](https://github.com/chinrar)
 
+- [@GaLzZy](https://github.com/galzzy)
+
 - [@cvonwilczur](https://github.com/cvonwilczur)
