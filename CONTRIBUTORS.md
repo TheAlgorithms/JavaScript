@@ -434,6 +434,8 @@
 
 - [@dimitristsaknakis](https://github.com/dimitristsaknakis)
 
+- [@krunalbhadresa](https://github.com/krunalbhadresa)
+
 - [@frankliuyh](https://github.com/frankliuyh)
 
 [@SeanPrentice1](https://github.com/SeanPrentice1)
