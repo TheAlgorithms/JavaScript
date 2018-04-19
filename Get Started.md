@@ -1,6 +1,6 @@
 # Getting Started
 
-Getting started with open-source can be a difficut task, not only because we are being introduced to some new technologies but also because most of us have never worked in a collaborative environment before, which is one of the most important skills anyone could acquire, not only in the coding and programming rea.
+Getting started with open-source can be a difficut task, not only because we are being introduced to some new technologies but also because most of us have never worked in a collaborative environment before, which is one of the most important skills anyone could acquire, not only in the coding and programming area.
 
 It may appear a very challenging and overwhelming task at first but it is, in fact, a fun and rewarding experience.
 
