@@ -430,7 +430,7 @@
 
 - [@sawphaung](https://github.com/sawphaung)
 
-[@adityapolkondwar](https://github.com/adityapolkondwar)
+- [@adityapolkondwar](https://github.com/adityapolkondwar)
 
 - [@dimitristsaknakis](https://github.com/dimitristsaknakis)
 
@@ -438,12 +438,16 @@
 
 - [@frankliuyh](https://github.com/frankliuyh)
 
-[@SeanPrentice1](https://github.com/SeanPrentice1)
+- [@SeanPrentice1](https://github.com/SeanPrentice1)
 
-[@darrylferdinands]  (https://github.com/darrylferdinands)
+- [@darrylferdinands]  (https://github.com/darrylferdinands)
 
 - [@manuarora700](https://github.com/manuarora700)
 
 - [@nicjohnryan](https://github.com/nicjohnryan)
 
 - [@chitrargpnirmal](https://github.com/chitrargpnirmal)
+
+- [@thomasdreyer](https://github.com/thomasdreyer)
+
+- [@amaechi-chuks](https://github.com/amaechi-chuks)
