@@ -445,4 +445,8 @@
 - [@manuarora700](https://github.com/manuarora700)
 
 - [@nicjohnryan](https://github.com/nicjohnryan)
+
+- [@thomasdreyer](https://github.com/thomasdreyer)
+
 [@amaechi-chuks](https://github.com/amaechi-chuks)
+
