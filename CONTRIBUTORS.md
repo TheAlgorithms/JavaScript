@@ -456,4 +456,6 @@
 
 - [@davidtenenbaum87](https://github.com/davidtenenbaum87)
 
+- [@fmayodev](https://github.com/fmayodev)
+
 - [@almarquez](https://github.com/almarquez)
