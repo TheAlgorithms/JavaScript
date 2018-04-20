@@ -455,3 +455,5 @@
 - [@herbertsu](https://github.com/HerbertSu)
 
 - [@davidtenenbaum87](https://github.com/davidtenenbaum87)
+
+- [@fmayodev](https://github.com/fmayodev)
