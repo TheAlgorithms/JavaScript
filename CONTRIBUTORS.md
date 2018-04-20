@@ -459,3 +459,5 @@
 - [@fmayodev](https://github.com/fmayodev)
 
 - [@almarquez](https://github.com/almarquez)
+
+- [@jammera](https://github.com/jammera)
