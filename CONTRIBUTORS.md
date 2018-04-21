@@ -461,4 +461,8 @@
 - [@almarquez](https://github.com/almarquez)
 
 - [@jammera](https://github.com/jammera)
-[@kaycobad](https://github.com/kaycobad)
+
+- [@kaycobad](https://github.com/kaycobad)
+
+- [@NathanCadiente](https://github.com/NathanCadiente)
+
