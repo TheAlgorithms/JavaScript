@@ -476,4 +476,7 @@
 
 - [@LOmger](https://github.com/LOmger)
 
+-[@ryanpatric](https://github.com/ryanpatric)
+
 -[@CyrilAntoni](https://github.com/CyrilAntoni)
+
