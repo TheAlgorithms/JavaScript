@@ -192,7 +192,7 @@
 
 -[@waqar3](https://github.com/waqar3)
 
--[@mikerobards](https://github.com/mikerobards)  
+-[@mikerobards](https://github.com/mikerobards)
 
 -[@raulpetrisor](https://github.com/raulpetrisor)
 
@@ -430,7 +430,7 @@
 
 - [@sawphaung](https://github.com/sawphaung)
 
-[@adityapolkondwar](https://github.com/adityapolkondwar)
+- [@adityapolkondwar](https://github.com/adityapolkondwar)
 
 - [@dimitristsaknakis](https://github.com/dimitristsaknakis)
 
@@ -438,8 +438,45 @@
 
 - [@frankliuyh](https://github.com/frankliuyh)
 
-[@SeanPrentice1](https://github.com/SeanPrentice1)
+- [@SeanPrentice1](https://github.com/SeanPrentice1)
 
-[@darrylferdinands]  (https://github.com/darrylferdinands)
+- [@darrylferdinands]  (https://github.com/darrylferdinands)
 
-[@ryanpatric](https://github.com/ryanpatric)
+- [@manuarora700](https://github.com/manuarora700)
+
+- [@nicjohnryan](https://github.com/nicjohnryan)
+
+- [@chitrargpnirmal](https://github.com/chitrargpnirmal)
+
+- [@thomasdreyer](https://github.com/thomasdreyer)
+
+- [@amaechi-chuks](https://github.com/amaechi-chuks)
+
+- [@herbertsu](https://github.com/HerbertSu)
+
+- [@davidtenenbaum87](https://github.com/davidtenenbaum87)
+
+- [@fmayodev](https://github.com/fmayodev)
+
+- [@almarquez](https://github.com/almarquez)
+
+- [@jammera](https://github.com/jammera)
+
+- [@kaycobad](https://github.com/kaycobad)
+
+- [@NathanCadiente](https://github.com/NathanCadiente)
+
+- [@wieczoreks](https://github.com/wieczoreks)
+
+- [@Renjiie](https://github.com/Renjiie)
+
+- [@NullCherry](https://github.com/NullCherry)
+
+- [@MikkelSandbag](https://github.com/MikkelSandbag)
+
+- [@LOmger](https://github.com/LOmger)
+
+-[@ryanpatric](https://github.com/ryanpatric)
+
+-[@CyrilAntoni](https://github.com/CyrilAntoni)
+
