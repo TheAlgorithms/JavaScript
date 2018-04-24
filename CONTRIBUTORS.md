@@ -481,3 +481,8 @@
 -[@CyrilAntoni](https://github.com/CyrilAntoni)
 
 -[@drmr-milan](https://github.com/drmr-milan)
+
+- [@jmitchemNWC](https://github.com/jmitchemNWC)
+
+- [@scratch342] (https://github.com/scratch342)
+
