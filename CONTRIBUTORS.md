@@ -482,8 +482,10 @@
 
 -[@drmr-milan](https://github.com/drmr-milan)
 
-- [@jmitchemNWC](https://github.com/jmitchemNWC)
+-[@jmitchemNWC](https://github.com/jmitchemNWC)
 
-- [@scratch342] (https://github.com/scratch342)
+-[@scratch342] (https://github.com/scratch342)
 
-- [@ForiDunk](https://github.com/ForiDunk)
+-[@ForiDunk](https://github.com/ForiDunk)
+
+-[@juliehudspeth](https://github.com/juliehudspeth)
