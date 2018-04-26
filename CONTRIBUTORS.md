@@ -496,4 +496,6 @@
 
 -[@boogeydude](https://github.com/boogeydude)
 
+-[@gabrielafroener](https://github.com/gabrielafroener)
+
 -[@ndobosz](https://github.com/ndobosz)
