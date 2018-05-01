@@ -525,3 +525,5 @@
 -[@frtgpo1](https://github.com/frtgpo1)
 
 -[@htharker42](https://github.com/htharker42)
+
+-[@juliangilquin](https://github.com/juliangilquin)
