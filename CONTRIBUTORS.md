@@ -490,6 +490,8 @@
 
 -[@juliehudspeth](https://github.com/juliehudspeth)
 
+-[@cholo5ntrol](https://github.com/cholo5ntrol)
+
 -[@spekachu](https://github.com/spekachu)
 
 -[@oxalc88](https://github.com/oxalc88)
