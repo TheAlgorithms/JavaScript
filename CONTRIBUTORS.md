@@ -564,3 +564,5 @@
 -[@PierretteG](https://github.com/PierretteG)
 
 -[@mehdiamlal](https://github.com/mehdiamlal)
+
+-[@danielc03](https://github.com/danielc03)
