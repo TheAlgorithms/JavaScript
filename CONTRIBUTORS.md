@@ -572,3 +572,5 @@
 -[@TatyanaKasyanenko](https://github.com/TatyanaKasyanenko)
 
 -[@filipe-falcao](https://github.com/filipe-falcao)
+
+-[@McNere](https://github.com/McNere)
