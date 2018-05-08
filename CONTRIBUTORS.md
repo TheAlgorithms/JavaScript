@@ -578,3 +578,9 @@
 -[@McNere](https://github.com/McNere)
 
 -[@rjvalencia](https://github.com/rjvalencia)
+
+-[@mauriciospesot](https://github.com/mauriciospesot)
+
+-[@Jgrabenbauer](https://github.com/Jgrabenbauer)
+
+
