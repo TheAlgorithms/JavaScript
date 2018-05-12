@@ -484,7 +484,7 @@
 
 -[@jmitchemNWC](https://github.com/jmitchemNWC)
 
--[@scratch342] (https://github.com/scratch342)
+-[@scratch342](https://github.com/scratch342)
 
 -[@ForiDunk](https://github.com/ForiDunk)
 
@@ -597,7 +597,7 @@
 
 -[@heyitzaamir](https://github.com/heyitzaamir)
 
--[@Stev0792] (https://github.com/Stev9207)
+-[@Stev0792](https://github.com/Stev9207)
 
 -[@msgirlperl](https://github.com/msgirlperl)
 
@@ -611,4 +611,7 @@
 
 -[@harshilps](https://github.com/harshilps)
 
+-[@dastgir518](https://github.com/dastgir518)
+
 -[@flicky](https://github.com/flickyz)
+
