@@ -1,5 +1,3 @@
--[@DisagreeWithD](https://github.com/DisagreeWithD)
-
 -[@thisisAbdus](https://github.com/thisisabdus)
 
 -[@samirjouni](https://github.com/samirjouni)
@@ -618,3 +616,5 @@
 -[@flicky](https://github.com/flickyz)
 
 -[@tomkrieg108](https://github.com/tomkrieg108)
+
+-[@DisagreeWithD](https://github.com/DisagreeWithD)
