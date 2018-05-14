@@ -622,3 +622,5 @@
 -[@Lemorz56](https://github.com/Lemorz56)
 
 -[@kudeh](https://github.com/kudeh)
+
+-[@nicolas-silva](https://github.com/nicolas-silva)
