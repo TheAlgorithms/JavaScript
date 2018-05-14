@@ -624,3 +624,5 @@
 -[@kudeh](https://github.com/kudeh)
 
 -[@nicolas-silva](https://github.com/nicolas-silva)
+
+-[@edsonha](https://github.com/edsonha)
