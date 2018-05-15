@@ -633,5 +633,7 @@
 
 -[@bryamedic25](https://github.com/bryamedic25)
 
+-[@cos22k](https://github.com/cos22k)
+
 -[@andyleeboo92](https://github.com/andyleeboo92)
 
