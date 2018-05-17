@@ -654,4 +654,4 @@
 
 -[@jamesbaine](https://github.com/jamesbaine)
 
--[@charlesscheuer](https://github.com/charlesscheuer)
+-[@charlesscheuer](http://github.com/charlesscheuer)
