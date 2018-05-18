@@ -1,3 +1,5 @@
+-[@mauricegreenland](https://github.com/mauricegreenland)
+
 -[@thisisAbdus](https://github.com/thisisabdus)
 
 -[@samirjouni](https://github.com/samirjouni)
@@ -632,6 +634,8 @@
 
 -[@bryamedic25](https://github.com/bryamedic25)
 
+-[@dcayme] (https://github.com/dcayme)
+
 -[@cos22k](https://github.com/cos22k)
 
 -[@andyleeboo92](https://github.com/andyleeboo92)
@@ -641,3 +645,23 @@
 -[@slavo7](https://github.com/slavo7)
 
 -[@A-Sm1th](https://github.com/A-Sm1th)
+
+-[@fredthepleb](https://github.com/fredthepleb)
+
+-[@rtechau](https://github.com/rtechau)
+
+-[@stephannielsen](https://github.com/stephannielsen)
+
+-[@AxelSaredo](https://github.com/AxelSaredo)
+
+-[@tagasimon](https://github.com/tagasimon)
+
+-[@jamesbaine](https://github.com/jamesbaine)
+
+-[@charlesscheuer](https://github.com/charlesscheuer)
+
+-[@piggehz](https://github.com/piggehz)
+
+-[@varshakande](https://github.com/varshakande)
+
+-[@colbyncolby](https://github.com/colbyncolby)
