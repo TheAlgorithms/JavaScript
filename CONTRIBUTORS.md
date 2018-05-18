@@ -644,6 +644,8 @@
 
 -[@slavo7](https://github.com/slavo7)
 
+-[@A-Sm1th](https://github.com/A-Sm1th)
+
 -[@fredthepleb](https://github.com/fredthepleb)
 
 -[@rtechau](https://github.com/rtechau)
