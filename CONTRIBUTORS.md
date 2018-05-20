@@ -675,3 +675,5 @@
 -[@KuyaShao](https://github.com/KuyaShao)
 
 -[@ArturVlasov](https://github.com/ArturVlasov)
+
+-[@DiegoSalas27](https://github.com/DiegoSalas27)
