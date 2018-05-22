@@ -682,13 +682,20 @@
 
 -[@jeppley16](https://github.com/jeppley16)
 
-- [@softabih](https://github.com/softabih)
+-[@softabih](https://github.com/softabih)
 
-- [@leighd2008](https://github.com/leighd2008)
+-[@leighd2008](https://github.com/leighd2008)
+
+-[@JayeshVS10](https://github.com/JayeshVS10)
+
+-[@lakshyajit165](https://github.com/lakshyajit165)
+
+-[@rshirts](https://github.com/rshirts)
 
 - [@JayeshVS10](https://github.com/JayeshVS10)
 
 - [@lakshyajit165](https://github.com/lakshyajit165)
+
 - [@pyshsrcr](https://github.com/pyshsrcr)
 
 -[@ErickRGL](https://github.com/ErickRGL)
