@@ -708,5 +708,14 @@
 
 -[@Sean_Dees](https://github.com/sdees82)
 
--[@Aloysb](https://github.com/aloysb)
+-[@shireen07](https://github.com/shireen07)
 
+-[@ronlambojon](https://github.com/ronlambojon)
+
+-[@peytonf15](https://github.com/peytonf15)
+
+-[@ankit1ag](https://github.com/ankit1ag)
+
+-[@BrianScalabrine](https://github.com/BrianScalabrine)
+
+-[@Aloysb](https://github.com/aloysb)
