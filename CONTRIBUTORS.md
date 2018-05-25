@@ -716,5 +716,10 @@
 
 -[@ankit1ag](https://github.com/ankit1ag)
 
--[@andipanda17](https://github.com/andipanda17)
+-[@BrianScalabrine](https://github.com/BrianScalabrine)
 
+-[@Aloysb](https://github.com/aloysb)
+
+-[@Chimaobi-Johnson](https://github.com/Chimaobi-Johnson)
+
+-[@andipanda17](https://github.com/andipanda17)
