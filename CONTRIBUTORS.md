@@ -748,3 +748,15 @@
 
 -[@anantankur](https://github.com/anantankur)
 
+-[@TheNamed](https://github.com/TheNamed)
+
+-[@mariana0pachon](https://github.com/mariana0pachon)
+
+-[@youssefhakkou](https://github.com/youssefhakkou)
+
+-[@mjhossain](https://github.com/mjhossain)
+
+-[@jenwr](https://github.com/jenwr)
+
+-[@sstpierre2](https://github.com/SSTPIERRE2)
+
