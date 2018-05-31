@@ -746,6 +746,8 @@
 
 -[@tjaitly1986](https://github.com/tjaitly1986)
 
+-[@anantankur](https://github.com/anantankur)
+
 -[@TheNamed](https://github.com/TheNamed)
 
 -[@mariana0pachon](https://github.com/mariana0pachon)
@@ -755,5 +757,9 @@
 -[@mjhossain](https://github.com/mjhossain)
 
 -[@jenwr](https://github.com/jenwr)
+
+-[@sstpierre2](https://github.com/SSTPIERRE2)
+
+-[@3NtliP](https://github.com/3NtliP)
 
 -[@iDada5](https://github.com/iDada5)
