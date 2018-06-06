@@ -813,3 +813,5 @@
 -[@Josh-Broomfield](https://github.com/Josh-Broomfield)
 
 -[@4RU](https://github.com/4RU)
+
+-[@edvegas](https://github.com/edvegas)
