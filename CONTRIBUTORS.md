@@ -818,8 +818,11 @@
 
 -[@greatgraphicdesign](https://github.com/greatgraphicdesign)
 
+-[@speedypard](https://github.com/speedypard)
+
 -[@thijsnijhof](https://github.com/thijsnijhof)
 
 -[@PointlessOtter](https://github.com/PointlessOtter)
 
 -[@sandrohp88](https://github.com/sandrohp88)
+
