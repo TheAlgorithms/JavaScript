@@ -13,7 +13,7 @@ We don't care if you break things. This is a playground and we encourage failing
 
 **4**. Go join a project and start contributing. This is a community to experiment and see what we create. Don't be shy and enjoy creating things together! [check out this guide for more information](https://github.com/zero-to-mastery/start-here-guidelines/blob/master/Get%20Started.md).
 
-**5** In order to see the Zero to Mastery Icon in your Github profile, follow this: https://help.github.com/articles/publicizing-or-hiding-organization-membership/​​
+**5**. In order to see the Zero to Mastery Icon in your Github profile, follow this: https://help.github.com/articles/publicizing-or-hiding-organization-membership/
 
 ## Anatomy of an open source project
 Every open source community is different.
