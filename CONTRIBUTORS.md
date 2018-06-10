@@ -850,6 +850,18 @@
 
 -[@AlexRant](https://github.com/AlexRant)
 
--[@FoolishWayne](https://github.com/FoolishWayne) +[@Manvi-Agrawal](https://github.com/Manvi-Agrawal -[@lperanni](https://github.com/lperanni)
+-[@FoolishWayne](https://github.com/FoolishWayne)
 
-[@Amagonzalez27](https://github.com/Amagonzalez27)
+-[@Manvi-Agrawal](https://github.com/Manvi-Agrawal)
+
+-[@lperanni](https://github.com/lperanni)
+
+-[@luckyyoda](https://github.com/luckyyoda)
+
+-[@praksahb](https://github.com/praksahb)
+
+-[@FoolishWayne](https://github.com/FoolishWayne) 
+
+- [@Manvi-Agrawal](https://github.com/Manvi-Agrawal -[@lperanni](https://github.com/lperanni)
+
+- [@Amagonzalez27](https://github.com/Amagonzalez27)
