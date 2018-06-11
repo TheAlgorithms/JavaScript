@@ -871,3 +871,5 @@
 - [@shreyas2047](https://github.com/shreyas2047)
 
 - [@sarthak4345](https://github.com/sarthak4345)
+
+- [@declanharrop](https://github.com/declanharrop)
