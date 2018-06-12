@@ -883,3 +883,5 @@
 - [@julianber](https://github.com/julianber)
 
 - [@ggbell](https://github.com/ggbell)
+
+- [@vahizan](https://github.com/vahizan)
