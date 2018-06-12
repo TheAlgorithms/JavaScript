@@ -860,7 +860,7 @@
 
 -[@praksahb](https://github.com/praksahb)
 
--[@FoolishWayne](https://github.com/FoolishWayne) 
+-[@FoolishWayne](https://github.com/FoolishWayne)
 
 - [@Manvi-Agrawal](https://github.com/Manvi-Agrawal -[@lperanni](https://github.com/lperanni)
 
@@ -879,3 +879,5 @@
 - [@maboeh](https://github.com/maboeh)
 
 - [@sowmyassrs](https://github.com/sowmyassrs)
+
+- [@julianber](https://github.com/julianber)
