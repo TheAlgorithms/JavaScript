@@ -884,13 +884,13 @@
 
 - [@ggbell](https://github.com/ggbell)
 
--[@vahizan](https://github.com/vahizan)
+- [@vahizan](https://github.com/vahizan)
 
--[@mpr555](https://github.com/mpr555)
+- [@mpr555](https://github.com/mpr555)
 
 - [@AndroEhab](https://github.com/AndroEhab)
 
--[@theorye](https://github.com/theorye)
+- [@theorye](https://github.com/theorye)
 
 - [@dmitriy227](https://github.com/dmitriy227)
 
@@ -900,3 +900,4 @@
 
 - [@minhkhiemm](https://github.com/minhkhiemm)
 
+- [@SamiHas](https://github.com/SamiHas) 
