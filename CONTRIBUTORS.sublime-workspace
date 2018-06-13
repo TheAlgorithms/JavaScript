@@ -523,8 +523,7 @@
 			"file": "README.md",
 			"settings":
 			{
-				"buffer_size": 4854,
-				"encoding": "UTF-8",
+				"buffer_size": 0,
 				"line_ending": "Windows"
 			}
 		},
@@ -532,7 +531,7 @@
 			"file": "LICENSE",
 			"settings":
 			{
-				"buffer_size": 1072,
+				"buffer_size": 0,
 				"line_ending": "Windows"
 			}
 		}
@@ -743,7 +742,7 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 4854,
+						"buffer_size": 0,
 						"regions":
 						{
 						},
@@ -921,7 +920,7 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1072,
+						"buffer_size": 0,
 						"regions":
 						{
 						},
