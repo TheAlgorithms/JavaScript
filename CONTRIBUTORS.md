@@ -884,13 +884,13 @@
 
 - [@ggbell](https://github.com/ggbell)
 
--[@vahizan](https://github.com/vahizan)
+- [@vahizan](https://github.com/vahizan)
 
--[@mpr555](https://github.com/mpr555)
+- [@mpr555](https://github.com/mpr555)
 
 - [@AndroEhab](https://github.com/AndroEhab)
 
--[@theorye](https://github.com/theorye)
+- [@theorye](https://github.com/theorye)
 
 - [@dmitriy227](https://github.com/dmitriy227)
 
@@ -901,3 +901,19 @@
 - [@minhkhiemm](https://github.com/minhkhiemm)
 
 - [@CKanishka](https://github.com/CKanishka)
+
+- [@SamiHas](https://github.com/SamiHas) 
+
+-[@BiswaViraj](https://github.com/BiswaViraj) 
+
+-[@peterpak90](https://github.com/peterpak90)
+
+-[@stevendols](https://github.com/stevendols)
+
+-[@madcoyot](https://github.com/madcoyot)
+
+-[@arduino731](https://github.com/arduino731)
+
+-[@Yang-Yanxiang](https://github.com/Yang-Yanxiang)
+
+-[@YashasReddy](https://github.com/YashasReddy)
