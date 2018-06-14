@@ -860,49 +860,51 @@
 
 -[@praksahb](https://github.com/praksahb)
 
--[@FoolishWayne](https://github.com/FoolishWayne)
+-@FoolishWayne](https://github.com/FoolishWayne)
 
-- [@Manvi-Agrawal](https://github.com/Manvi-Agrawal -[@lperanni](https://github.com/lperanni)
+-[@Manvi-Agrawal](https://github.com/Manvi-Agrawal) 
 
-- [@Amagonzalez27](https://github.com/Amagonzalez27)
+-[@lperanni](https://github.com/lperanni)
 
-- [@Visaali95](https://github.com/Visaali95)
+-[@Amagonzalez27](https://github.com/Amagonzalez27)
 
-- [@shreyas2047](https://github.com/shreyas2047)
+-[@Visaali95](https://github.com/Visaali95)
 
-- [@sarthak4345](https://github.com/sarthak4345)
+-[@shreyas2047](https://github.com/shreyas2047)
 
-- [@declanharrop](https://github.com/declanharrop)
+-[@sarthak4345](https://github.com/sarthak4345)
 
-- [@AlexeBarlescu](https://github.com/AlexeBarlescu)
+-[@declanharrop](https://github.com/declanharrop)
 
-- [@maboeh](https://github.com/maboeh)
+-[@AlexeBarlescu](https://github.com/AlexeBarlescu)
 
-- [@sowmyassrs](https://github.com/sowmyassrs)
+-[@maboeh](https://github.com/maboeh)
 
-- [@julianber](https://github.com/julianber)
+-[@sowmyassrs](https://github.com/sowmyassrs)
 
-- [@ggbell](https://github.com/ggbell)
+-[@julianber](https://github.com/julianber)
 
-- [@vahizan](https://github.com/vahizan)
+-[@ggbell](https://github.com/ggbell)
 
-- [@mpr555](https://github.com/mpr555)
+-[@vahizan](https://github.com/vahizan)
 
-- [@AndroEhab](https://github.com/AndroEhab)
+-[@mpr555](https://github.com/mpr555)
 
-- [@theorye](https://github.com/theorye)
+-[@AndroEhab](https://github.com/AndroEhab)
 
-- [@dmitriy227](https://github.com/dmitriy227)
+-[@theorye](https://github.com/theorye)
 
-- [@nayanika0208](https://github.com/nayanika0208)
+-[@dmitriy227](https://github.com/dmitriy227)
 
-- [@yuriian](https://github.com/yuriian)
+-[@nayanika0208](https://github.com/nayanika0208)
 
-- [@minhkhiemm](https://github.com/minhkhiemm)
+-[@yuriian](https://github.com/yuriian)
 
-- [@CKanishka](https://github.com/CKanishka)
+-[@minhkhiemm](https://github.com/minhkhiemm)
 
-- [@SamiHas](https://github.com/SamiHas) 
+-[@CKanishka](https://github.com/CKanishka)
+
+-[@SamiHas](https://github.com/SamiHas) 
 
 -[@BiswaViraj](https://github.com/BiswaViraj) 
 
