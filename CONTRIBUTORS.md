@@ -922,15 +922,10 @@
 
 -[@stefananlam](https://github.com/stefananlam)
 
-<<<<<<< HEAD
--[@gloomya](https://github.com/gloomya)
-
--[@ayanalikhan](https://github.com/ayanalikhan)
-=======
 -[@ayanalikhan](https://github.com/ayanalikhan)
 
 -[@gloomya](https://github.com/gloomya)
 
 -[@gpaperjar](https://github.com/paperjar)
 
->>>>>>> ccf5f6ead2548a38754514998d75d51b83430ed3
+
