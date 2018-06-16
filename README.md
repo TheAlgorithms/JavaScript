@@ -5,7 +5,7 @@ Guidelines on how this open source community works. Most information is from the
 ## One rule of this community:
 We don't care if you break things. This is a playground and we encourage failing often. Use this as a practice ground and enjoy contributing to projects you create with your fellow students.
 
-## 5 Step guide to get started:
+## 4 Step guide to get started:
 **1**. Read the wonderful [*gitStarted Guide*](https://github.com/zero-to-mastery/start-here-guidelines/blob/855a00243db60c71905f6e3afd95ebf2cf7459a0/gitstartedguideoptimized.pdf) by our fellow student @wanraitelli
 
 **2**. Make your first Pull Request (Free how-to tutorial at http://makeapullrequest.com/, and then check out Andrei's videos on github https://www.udemy.com/the-complete-web-developer-in-2018/learn/v4/t/lecture/8725782/), by adding your name to the CONTRIBUTORS.md file in the start-here-guidelines project. (You can also use this walkthrough as a reference: https://github.com/Roshanjossey/first-contributions)
