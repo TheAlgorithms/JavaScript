@@ -42,6 +42,8 @@
 
 -[@rankupdavid](https://github.com/rankupdavid)
 
+-[@abhinand5](https://github.com/abhinand5)
+
 -[@WhoIsThat1](https://github.com/WhoIsThat1)
 
 -[@GiuliaMalaroda](https://github.com/GiuliaMalaroda)
@@ -930,6 +932,20 @@
 
 -[@rjquindoza](https://github.com/rjquindoza)
 
+-[@sunitasen](https://github.com/sunitasen)
+
 -[@username](https://github.com/username)
 
 -[@axtell5000](https://github.com/axtell5000)
+
+-[@RAMSANKARHAZRA](https://github.com/RAMSANKARHAZRA)
+
+-[@arellanoluis](https://github.com/arellanoluis)
+
+-[@ThatGuy1597](https://github.com/ThatGuy1597)
+
+-[@AtymTima](https://github.com/AtymTima)
+
+-[@rohitlode](https://github.com/rohitlode)
+
+-[@dogbeide](https://github.com/dogbeide)
