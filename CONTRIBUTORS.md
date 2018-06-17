@@ -42,6 +42,8 @@
 
 -[@rankupdavid](https://github.com/rankupdavid)
 
+-[@abhinand5](https://github.com/abhinand5)
+
 -[@WhoIsThat1](https://github.com/WhoIsThat1)
 
 -[@GiuliaMalaroda](https://github.com/GiuliaMalaroda)
@@ -939,3 +941,7 @@
 -[@arellanoluis](https://github.com/arellanoluis)
 
 -[@AtymTima](https://github.com/AtymTima)
+
+-[@rohitlode](https://github.com/rohitlode)
+
+-[@dogbeide](https://github.com/dogbeide)
