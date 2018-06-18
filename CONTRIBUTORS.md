@@ -951,3 +951,5 @@
 -[@dogbeide](https://github.com/dogbeide)
 
 -[@steoneill](https://github.com/steoneill)
+
+-[@DanCHayes](https://github.com/DanCHayes)
