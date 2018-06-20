@@ -969,3 +969,7 @@
 -[@jsyarnall](https://github.com/jsyarnall)
 
 -[@aelan19](https://github.com/aelan19)
+
+-[@kaplantm](https://github.com/kaplantm)
+
+-[@gadfrey](https://github.com/gadfrey13)
