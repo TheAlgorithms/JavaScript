@@ -966,8 +966,6 @@
 
 -[@jsyarnall](https://github.com/jsyarnall)
 
--[@jsyarnall](https://github.com/jsyarnall)
-
 -[@aelan19](https://github.com/aelan19)
 
 -[@kaplantm](https://github.com/kaplantm)
@@ -979,5 +977,7 @@
 -[@JonHill24](https://github.com/JonHill24)
 
 -[@GabrielLomba](https://github.com/GabrielLomba)
+
+-[@ThinkAstute](https://github.com/ThinkAstute)
 
 -[@rafaewo](https://github.com/rafaewo)
