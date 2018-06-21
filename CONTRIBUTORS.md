@@ -983,3 +983,5 @@
 -[@rafaewo](https://github.com/rafaewo)
 
 -[@tupasjuancho](https://github.com/tupasjuancho)
+
+-[@magnumthetyrant1](https://github.com/magnumthetyrant1)
