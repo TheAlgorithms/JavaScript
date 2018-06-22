@@ -987,3 +987,4 @@
 -[@magnumthetyrant1](https://github.com/magnumthetyrant1)
 -[@IrenaNc](https://github.com/IrenaNc)
 
+-[@chlhardy](https://github.com/chlhardy)
