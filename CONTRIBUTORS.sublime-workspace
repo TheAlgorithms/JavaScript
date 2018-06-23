@@ -531,7 +531,7 @@
 			"file": "LICENSE",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 1072,
 				"line_ending": "Windows"
 			}
 		}
@@ -920,7 +920,7 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 1072,
 						"regions":
 						{
 						},
