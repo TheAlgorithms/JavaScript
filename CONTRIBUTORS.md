@@ -254,7 +254,7 @@
 
 -[@kingdomstudios](https://github.com/kingdomstudios)
 
--[@Koyoav] (https://github.com/Koyoav)
+-[@Koyoav](https://github.com/Koyoav)
 
 -[@phawata](https://github.com/phawata)
 
@@ -1081,3 +1081,37 @@
 -[@salex11](https://github.com/salex11)
 
 -[@DpnshMalik](https://github.com/DpnshMalik)
+
+-[savino9](https://github.com/savino9)
+
+-[@jayanthy](https://github.com/jayanthy)
+
+-[@CaptainMihir](https://github.com/CaptainMihir)
+
+-[@haraldsDev](https://github.com/haraldsDev)
+
+-[@VivekSingal98](https://github.com/VivekSingal98)
+
+-[@kris44n](https://github.com/kris44n)
+
+-[@oisinq](https://github.com/oisinq)
+
+-[@raghavbhatia120](https://github.com/raghavbhatia120)
+
+-[@papabass10](https://github.com/papabass10)
+
+-[@Craindrush](https://github.com/Craindrush)
+
+-[@YajashJhamb](https://github.com/YajashJhamb)
+
+-[@nibha64  ](https://github.com/nibha64)
+
+-[@alanbed  ](https://github.com/alanbed)
+
+-[@neopoole  ](https://github.com/neopoole)
+
+-[@Biker981  ](https://github.com/Biker981)
+
+-[@pablowbk](https://github.com/pablowbk)
+
+-[@psergiogps](https://github.com/psergiogps) 
