@@ -254,7 +254,7 @@
 
 -[@kingdomstudios](https://github.com/kingdomstudios)
 
--[@Koyoav] (https://github.com/Koyoav)
+-[@Koyoav](https://github.com/Koyoav)
 
 -[@phawata](https://github.com/phawata)
 
@@ -1109,3 +1109,5 @@
 -[@neopoole  ](https://github.com/neopoole)
 
 -[@Biker981  ](https://github.com/Biker981)
+
+-[@pablowbk](https://github.com/pablowbk)
