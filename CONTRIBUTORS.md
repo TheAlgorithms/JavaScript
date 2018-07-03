@@ -1114,6 +1114,8 @@
 
 -[@Biker981  ](https://github.com/Biker981)
 
+-[@pixzels](https://github.com/pixzels)
+
 -[@pablowbk](https://github.com/pablowbk)
 
 -[@psergiogps](https://github.com/psergiogps) 
@@ -1122,4 +1124,4 @@
 
 -[@anexis45](https://github.com/anexis45) 
 
--[@johnoct](https://github.com/johnoct) 
+-[@johnoct](https://github.com/johnoct)
