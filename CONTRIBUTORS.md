@@ -254,7 +254,7 @@
 
 -[@kingdomstudios](https://github.com/kingdomstudios)
 
--[@Koyoav] (https://github.com/Koyoav)
+-[@Koyoav](https://github.com/Koyoav)
 
 -[@phawata](https://github.com/phawata)
 
@@ -1110,6 +1110,6 @@
 
 -[@Biker981  ](https://github.com/Biker981)
 
--[@psergiogps](https://github.com/psergiogps) 
+-[@pablowbk](https://github.com/pablowbk)
 
- 
+-[@psergiogps](https://github.com/psergiogps) 
