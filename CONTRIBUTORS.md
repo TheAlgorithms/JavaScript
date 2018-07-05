@@ -1142,5 +1142,7 @@
 
 -[@Mona95](https://github.com/Mona95)
 
--[@glenndev}(https://github.com/glenndev)
+-[@glenndev](https://github.com/glenndev)
+
+-[@Angelicos](https://github.com/Angelicos)
 
