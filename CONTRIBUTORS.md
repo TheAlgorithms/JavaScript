@@ -1118,13 +1118,13 @@
 
 -[@pablowbk](https://github.com/pablowbk)
 
--[@psergiogps](https://github.com/psergiogps) 
+-[@psergiogps](https://github.com/psergiogps)
 
 -[@dokoede](https://github.com/dokoede)
 
--[@anexis45](https://github.com/anexis45) 
+-[@anexis45](https://github.com/anexis45)
 
--[@johnoct](https://github.com/johnoct) 
+-[@johnoct](https://github.com/johnoct)
 
 -[@mikewarden](https://github.com/mikewarden)
 
@@ -1149,3 +1149,5 @@
 -[@nipun24](https://github.com/nipun24)
 
 -[@charlesmoscofian](https://github.com/charlesmoscofian)
+
+-[@ChristianMarca](https://github.com/ChristianMarca)
