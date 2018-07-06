@@ -254,7 +254,7 @@
 
 -[@kingdomstudios](https://github.com/kingdomstudios)
 
--[@Koyoav] (https://github.com/Koyoav)
+-[@Koyoav](https://github.com/Koyoav)
 
 -[@phawata](https://github.com/phawata)
 
@@ -1080,6 +1080,8 @@
 
 -[@salex11](https://github.com/salex11)
 
+-[@DpnshMalik](https://github.com/DpnshMalik)
+
 -[savino9](https://github.com/savino9)
 
 -[@jayanthy](https://github.com/jayanthy)
@@ -1104,6 +1106,8 @@
 
 -[@nibha64  ](https://github.com/nibha64)
 
+-[@Ro008](https://github.com/Ro008)
+
 -[@alanbed  ](https://github.com/alanbed)
 
 -[@neopoole  ](https://github.com/neopoole)
@@ -1111,3 +1115,41 @@
 -[@Biker981  ](https://github.com/Biker981)
 
 -[@ManojSilag](https://github.com/ManojSilag)
+
+-[@pixzels](https://github.com/pixzels)
+
+-[@pablowbk](https://github.com/pablowbk)
+
+-[@psergiogps](https://github.com/psergiogps)
+
+-[@dokoede](https://github.com/dokoede)
+
+-[@anexis45](https://github.com/anexis45)
+
+-[@johnoct](https://github.com/johnoct)
+
+-[@mikewarden](https://github.com/mikewarden)
+
+-[@saiij](https://github.com/saiij)
+
+-[@PhantomX7](https://github.com/PhantomX7)
+
+-[@cobimr](https://github.com/cobimr)
+
+-[@lkre0](https://github.com/lkre0)
+
+-[@fuadmmnf](https://github.com/fuadmmnf)
+
+-[@shkaur](https://github.com/shkaur)
+
+-[@Mona95](https://github.com/Mona95)
+
+-[@glenndev](https://github.com/glenndev)
+
+-[@Angelicos](https://github.com/Angelicos)
+
+-[@nipun24](https://github.com/nipun24)
+
+-[@charlesmoscofian](https://github.com/charlesmoscofian)
+
+-[@ChristianMarca](https://github.com/ChristianMarca)
