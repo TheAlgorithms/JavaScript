@@ -1114,17 +1114,19 @@
 
 -[@Biker981  ](https://github.com/Biker981)
 
+-[@ManojSilag](https://github.com/ManojSilag)
+
 -[@pixzels](https://github.com/pixzels)
 
 -[@pablowbk](https://github.com/pablowbk)
 
--[@psergiogps](https://github.com/psergiogps) 
+-[@psergiogps](https://github.com/psergiogps)
 
 -[@dokoede](https://github.com/dokoede)
 
--[@anexis45](https://github.com/anexis45) 
+-[@anexis45](https://github.com/anexis45)
 
--[@johnoct](https://github.com/johnoct) 
+-[@johnoct](https://github.com/johnoct)
 
 -[@mikewarden](https://github.com/mikewarden)
 
@@ -1151,3 +1153,6 @@
 -[@charlesmoscofian](https://github.com/charlesmoscofian)
 
 -[@kgerdt](https://github.com/kgerdt)
+
+-[@ChristianMarca](https://github.com/ChristianMarca)
+
