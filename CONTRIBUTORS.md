@@ -4,6 +4,8 @@
 
 -[@samirjouni](https://github.com/samirjouni)
 
+-[@ccmurdoc](https://github.com/ccmurdoc)
+
 -[@aneagoie](https://github.com/aneagoie)
 
 -[@drood87](https://github.com/drood87)
