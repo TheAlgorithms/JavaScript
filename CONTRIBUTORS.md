@@ -1,3 +1,5 @@
+# Contributors
+
 -[@mauricegreenland](https://github.com/mauricegreenland)
 
 -[@thisisAbdus](https://github.com/thisisabdus)
@@ -802,7 +804,7 @@
 
 -[@JohnAyling1979](https://github.com/JohnAyling1979)
 
--[@daniilosmol]()
+-[@daniilosmol](https://github.com/daniilosmol)
 
 -[@poojamaurya22](https://github.com/poojamaurya22)
 
@@ -868,7 +870,7 @@
 
 -[@praksahb](https://github.com/praksahb)
 
--@FoolishWayne](https://github.com/FoolishWayne)
+-[@FoolishWayne](https://github.com/FoolishWayne)
 
 -[@Manvi-Agrawal](https://github.com/Manvi-Agrawal)
 
@@ -1106,15 +1108,15 @@
 
 -[@YajashJhamb](https://github.com/YajashJhamb)
 
--[@nibha64  ](https://github.com/nibha64)
+-[@nibha64](https://github.com/nibha64)
 
 -[@Ro008](https://github.com/Ro008)
 
--[@alanbed  ](https://github.com/alanbed)
+-[@alanbed](https://github.com/alanbed)
 
--[@neopoole  ](https://github.com/neopoole)
+-[@neopoole](https://github.com/neopoole)
 
--[@Biker981  ](https://github.com/Biker981)
+-[@Biker981](https://github.com/Biker981)
 
 -[@ManojSilag](https://github.com/ManojSilag)
 
