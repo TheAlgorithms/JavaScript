@@ -188,7 +188,7 @@
 
 -[@flevinkelming](https://github.com/flevinkelming)
 
--[Nathan Hung](https://github.com/nathanhung)
+-[@Nathan Hung](https://github.com/nathanhung)
 
 -[@laurenceRama](https://github.com/laurenceRama)
 
@@ -738,11 +738,11 @@
 
 -[@dirk005](https://github.com/dirk005)
 
--[@gadjacobs](https;//github.com/gadjacobs)
+-[@gadjacobs](http://github.com/gadjacobs)
 
--[@rfranca86](https;//github.com/rfranca86)
+-[@rfranca86](https://github.com/rfranca86)
 
--[@imfuhsin](https;//github.com/imfuhsin)
+-[@imfuhsin](https://github.com/imfuhsin)
 
 -[@yokutoro](https://github.com/yokutoro)
 
@@ -1050,7 +1050,7 @@
 
 -[@olayinkaraheem](https://github.com/olayinkaraheem)
 
--[amj358](https://github.com/amj358)
+-[@amj358](https://github.com/amj358)
 
 -[@itmegabby](https://github.com/itmegabby)
 
@@ -1086,7 +1086,7 @@
 
 -[@DpnshMalik](https://github.com/DpnshMalik)
 
--[savino9](https://github.com/savino9)
+-[@savino9](https://github.com/savino9)
 
 -[@jayanthy](https://github.com/jayanthy)
 
