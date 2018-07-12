@@ -1196,6 +1196,8 @@
 
 -[@KaemonIsland](https://github.com/KaemonIsland)
 
+-[@Slucwilu](https://github.com/Slucwilu)
+
 -[@Scymon](https://github.com/Scymon)
 
 -[@dotcomtron](https://github.com/dotcomtron)
@@ -1209,3 +1211,7 @@
 - [@adityapolkondwar](https://github.com/adityapolkondwar)
 
 -[@JohnMaster](https://github.com/rawman9x)
+
+-[@Martin Schilling](https://github.com/Mutz)
+
+-[@AimenZel](https://github.com/AimenZel)
