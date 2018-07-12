@@ -1196,6 +1196,8 @@
 
 -[@KaemonIsland](https://github.com/KaemonIsland)
 
+-[@Slucwilu](https://github.com/Slucwilu)
+
 -[@Scymon](https://github.com/Scymon)
 
 -[@dotcomtron](https://github.com/dotcomtron)
