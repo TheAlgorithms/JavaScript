@@ -1208,6 +1208,10 @@
 
 -[@eniro](https://github.com/eniro)
 
+- [@adityapolkondwar](https://github.com/adityapolkondwar)
+
+-[@JohnMaster](https://github.com/rawman9x)
+
 -[@Martin Schilling](https://github.com/Mutz)
 
 -[@AimenZel](https://github.com/AimenZel)
