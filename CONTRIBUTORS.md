@@ -1,3 +1,5 @@
+# Contributors
+
 -[@mauricegreenland](https://github.com/mauricegreenland)
 
 -[@thisisAbdus](https://github.com/thisisabdus)
@@ -186,7 +188,7 @@
 
 -[@flevinkelming](https://github.com/flevinkelming)
 
--[Nathan Hung](https://github.com/nathanhung)
+-[@Nathan Hung](https://github.com/nathanhung)
 
 -[@laurenceRama](https://github.com/laurenceRama)
 
@@ -736,11 +738,11 @@
 
 -[@dirk005](https://github.com/dirk005)
 
--[@gadjacobs](https;//github.com/gadjacobs)
+-[@gadjacobs](http://github.com/gadjacobs)
 
--[@rfranca86](https;//github.com/rfranca86)
+-[@rfranca86](https://github.com/rfranca86)
 
--[@imfuhsin](https;//github.com/imfuhsin)
+-[@imfuhsin](https://github.com/imfuhsin)
 
 -[@yokutoro](https://github.com/yokutoro)
 
@@ -802,7 +804,7 @@
 
 -[@JohnAyling1979](https://github.com/JohnAyling1979)
 
--[@daniilosmol]()
+-[@daniilosmol](https://github.com/daniilosmol)
 
 -[@poojamaurya22](https://github.com/poojamaurya22)
 
@@ -868,7 +870,7 @@
 
 -[@praksahb](https://github.com/praksahb)
 
--@FoolishWayne](https://github.com/FoolishWayne)
+-[@FoolishWayne](https://github.com/FoolishWayne)
 
 -[@Manvi-Agrawal](https://github.com/Manvi-Agrawal)
 
@@ -1048,7 +1050,7 @@
 
 -[@olayinkaraheem](https://github.com/olayinkaraheem)
 
--[amj358](https://github.com/amj358)
+-[@amj358](https://github.com/amj358)
 
 -[@itmegabby](https://github.com/itmegabby)
 
@@ -1084,7 +1086,7 @@
 
 -[@DpnshMalik](https://github.com/DpnshMalik)
 
--[savino9](https://github.com/savino9)
+-[@savino9](https://github.com/savino9)
 
 -[@jayanthy](https://github.com/jayanthy)
 
@@ -1106,15 +1108,15 @@
 
 -[@YajashJhamb](https://github.com/YajashJhamb)
 
--[@nibha64  ](https://github.com/nibha64)
+-[@nibha64](https://github.com/nibha64)
 
 -[@Ro008](https://github.com/Ro008)
 
--[@alanbed  ](https://github.com/alanbed)
+-[@alanbed](https://github.com/alanbed)
 
--[@neopoole  ](https://github.com/neopoole)
+-[@neopoole](https://github.com/neopoole)
 
--[@Biker981  ](https://github.com/Biker981)
+-[@Biker981](https://github.com/Biker981)
 
 -[@ManojSilag](https://github.com/ManojSilag)
 
@@ -1181,5 +1183,39 @@
 -[@dkphl](https://github.com/dkphl)
 
 -[@Roeyg](https://github.com/Roeyg)
+
+-[@Ryos2](https://github.com/Ryos2)
+
+-[@willhcurry](https://github.com/willhcurry)
+
+-[@kayrobin](https://github.com/kayrobin)
+
+-[@agpt8](https://github.com/agpt8)
+
+-[@ravraw](https://github.com/ravraw)
+
+-[@KaemonIsland](https://github.com/KaemonIsland)
+
+-[@Slucwilu](https://github.com/Slucwilu)
+
+-[@Scymon](https://github.com/Scymon)
+
+-[@dotcomtron](https://github.com/dotcomtron)
+
+-[@Spuntino](https://github.com/Spuntino)
+
+-[@Justin Marino](https://github.com/Juten420)
+
+-[@eniro](https://github.com/eniro)
+
+- [@adityapolkondwar](https://github.com/adityapolkondwar)
+
+-[@JohnMaster](https://github.com/rawman9x)
+
+-[@Martin Schilling](https://github.com/Mutz)
+
+-[@AimenZel](https://github.com/AimenZel)
+
+-[@Hamzakh777](https://github.com/Hamzakh777)
 
 -[@ajejoseph22](https://github.com/ajejoseph22)
