@@ -430,4 +430,6 @@
 
 - [@sawphaung](https://github.com/sawphaung)
 
-[@adityapolkondwar](https://github.com/adityapolkondwar)
+- [@adityapolkondwar](https://github.com/adityapolkondwar)
+
+- [@JohnMaster](https://github.com/rawman9x)
