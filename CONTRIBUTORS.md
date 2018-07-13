@@ -1196,6 +1196,8 @@
 
 -[@KaemonIsland](https://github.com/KaemonIsland)
 
+-[@Slucwilu](https://github.com/Slucwilu)
+
 -[@Scymon](https://github.com/Scymon)
 
 -[@dotcomtron](https://github.com/dotcomtron)
@@ -1206,6 +1208,20 @@
 
 -[@eniro](https://github.com/eniro)
 
+- [@adityapolkondwar](https://github.com/adityapolkondwar)
+
+-[@JohnMaster](https://github.com/rawman9x)
+
 -[@Martin Schilling](https://github.com/Mutz)
+
+-[@AimenZel](https://github.com/AimenZel)
+
+-[@Hamzakh777](https://github.com/Hamzakh777)
+
+-[@ajejoseph22](https://github.com/ajejoseph22)
+
+-[@bbeck2417](https://github.com/bbeck2417)
+
+-[@jiaxuanc](https://github.com/jiaxuanc)
 
 -[@Orinayo](https://github.com/orinayo)
