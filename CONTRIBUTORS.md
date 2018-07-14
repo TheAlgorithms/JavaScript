@@ -1208,7 +1208,7 @@
 
 -[@eniro](https://github.com/eniro)
 
-- [@adityapolkondwar](https://github.com/adityapolkondwar)
+-[@adityapolkondwar](https://github.com/adityapolkondwar)
 
 -[@JohnMaster](https://github.com/rawman9x)
 
@@ -1224,4 +1224,12 @@
 
 -[@jiaxuanc](https://github.com/jiaxuanc)
 
--[@Orinayo](https://github.com/orinayo)
+-[@justinwlin](https://github.com/justinwlin)
+
+-[@yvanpdev](https://github.com/yvanpdev)
+
+-[@vollucris](https://github.com/vollucris)
+
+-[@johnmutton](https://github.com/johnmutton)
+
+-[@reluss](https://github.com/reluss)
