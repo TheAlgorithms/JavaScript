@@ -1263,5 +1263,3 @@
 -[@Jerry141](https://github.com/Jerry141)
 
 -[@Lkleindesigns](https://github.com/Lkleindesigns)
-
--[@asciimancer](https://github.com/asciimancer)
