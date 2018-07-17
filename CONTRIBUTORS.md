@@ -1238,7 +1238,8 @@
 
 -[@vjvasiljev](https://github.com/vjvasiljev)
 
-- -[@trevjnels](https://github.com/trevjnels)
+-[@trevjnels](https://github.com/trevjnels)
+
 -[@DrGreenStar](https://github.com/DrGreenStar)
 
 -[@Anishgoofle](https://github.com/Anishgoofle)
@@ -1246,6 +1247,8 @@
 -[@AjayDextrous](https://github.com/AjayDextrous)
 
 -[@FerdinandNathaniel](https://github.com/FerdinandNathaniel)
+
+-[@mdpatel7](https://github.com/mdpatel7)
 
 -[@kachunma8](https://github.com/kachunma8)
 
