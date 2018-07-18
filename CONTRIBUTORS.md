@@ -1267,3 +1267,7 @@
 -[@asciimancer](https://github.com/asciimancer)
 
 -[@maxg29](https://github.com/maxg29)
+
+-[@axelzo](https://github.com/axelzo)
+
+-[@asciimancer](https://github.com/asciimancer)
