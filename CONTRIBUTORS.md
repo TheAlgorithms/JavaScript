@@ -1275,6 +1275,7 @@
 -[@robihid](https://github.com/robihid)
 
 -[@afnanhaq](https://github.com/afnanhaq)
+
 -[@efraim](https://github.com/efraimlorenzana)
 
 -[@Florin](https://github.com/LoposFlorin)
@@ -1300,3 +1301,7 @@
 -[@JevF1982](https://github.com/JevF1982)
 
 -[@yurinunes](https://github.com/yurinunes)
+
+-[@frenchie048](https://github.com/frenchie048)
+
+-[@madhvimathur](https://github.com/madhvimathur)
