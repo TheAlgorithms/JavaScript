@@ -1289,6 +1289,8 @@
 
 -[@WinsleyJ](https://github.com/winsleyj)
 
+-[@kerrizee](https://github.com/kerrizee)
+
 -[@ramnatla](https://github.com/ramnatla)
 
 -[@timotibagus](https://github.com/timotibagus)
