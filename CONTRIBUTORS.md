@@ -1314,3 +1314,18 @@
 
 -[@saniyad-hussain](https://github.com/saniyad-hussain)
 
+-[@tonyPH](https://github.com/tonvlad88)
+
+-[@AdamHinckley](https://github.com/adamhinckley) 
+
+-[@AcAntellAno](https://github.com/AcAntellAno) 
+
+-[@eslamabdo164](https://github.com/eslamabdo164)
+
+-[@Shabbir4](https://github.com/Shabbir4)
+
+-[@deefisher](https://github.com/deefisher)
+
+-[@mediocremn](https://github.com/mediocremn)
+
+-[@pinoywafer](https://github.com/pinoywafer)
