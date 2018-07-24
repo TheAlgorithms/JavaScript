@@ -1326,6 +1326,8 @@
 
 -[@deefisher](https://github.com/deefisher)
 
+-[@cedricliu](https://github.com/cedricliu)
+
 -[@mediocremn](https://github.com/mediocremn)
 
 -[@pinoywafer](https://github.com/pinoywafer)
