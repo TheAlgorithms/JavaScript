@@ -1346,3 +1346,6 @@
 
 -[@AValdez3](https://github.com/AValdez3)
 
+-[@trinity31](https://github.com/trinity31)
+
+-[@Toro2018](https://github.com/Toro2018)
