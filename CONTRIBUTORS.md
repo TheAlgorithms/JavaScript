@@ -1344,6 +1344,8 @@
 
 -[@JulieW23](https://github.com/JulieW23)
 
+-[@AValdez3](https://github.com/AValdez3)
+
 -[@trinity31](https://github.com/trinity31)
 
 -[@Toro2018](https://github.com/Toro2018)
