@@ -1350,4 +1350,6 @@
 
 -[@Toro2018](https://github.com/Toro2018)
 
+-[@BeastMaster07](https://github.com/BeastMaster07)
+
 -[@zhechka](https://github.com/zhechka)
