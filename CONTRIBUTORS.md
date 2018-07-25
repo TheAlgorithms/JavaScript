@@ -1316,9 +1316,9 @@
 
 -[@tonyPH](https://github.com/tonvlad88)
 
--[@AdamHinckley](https://github.com/adamhinckley) 
+-[@AdamHinckley](https://github.com/adamhinckley)
 
--[@AcAntellAno](https://github.com/AcAntellAno) 
+-[@AcAntellAno](https://github.com/AcAntellAno)
 
 -[@eslamabdo164](https://github.com/eslamabdo164)
 
@@ -1335,4 +1335,12 @@
 -[@pinoywafer](https://github.com/pinoywafer)
 
 -[@jcranwang](https://github.com/jcranwang)
+
 -[@KingME](https://github.com/RupokKadir)
+
+-[@MatthewStoddart](https://github.com/MatthewStoddart)
+
+-[@elloo](https://github.com/elloo)
+
+-[@JulieW23](https://github.com/JulieW23)
+
