@@ -1388,3 +1388,4 @@
 
 -[@raymonddev0](https://github.com/raymonddev0)
 
+-[@thiagolucas90](https://github.com/thiagolucas90)
