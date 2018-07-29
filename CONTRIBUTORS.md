@@ -1226,9 +1226,8 @@
 
 -[@jiaxuanc](https://github.com/jiaxuanc)
 
-<<<<<<< HEAD
 -[@DavidHanover](https://github.com/DavidHanover)
-=======
+
 -[@justinwlin](https://github.com/justinwlin)
 
 -[@yvanpdev](https://github.com/yvanpdev)
@@ -1389,5 +1388,3 @@
 
 -[@raymonddev0](https://github.com/raymonddev0)
 
-
->>>>>>> upstream/master
