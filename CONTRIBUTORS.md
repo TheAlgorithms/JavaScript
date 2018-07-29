@@ -1226,6 +1226,8 @@
 
 -[@jiaxuanc](https://github.com/jiaxuanc)
 
+-[@DavidHanover](https://github.com/DavidHanover)
+
 -[@justinwlin](https://github.com/justinwlin)
 
 -[@yvanpdev](https://github.com/yvanpdev)
@@ -1385,5 +1387,4 @@
 -[@HagTheDon](https://github.com/HagTheDon)
 
 -[@raymonddev0](https://github.com/raymonddev0)
-
 
