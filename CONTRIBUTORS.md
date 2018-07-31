@@ -280,8 +280,6 @@
 
 -[@gouthamkallempudi](https://github.com/gouthamkallempudi)
 
--[@tpohchai](https://github.com/tpohchai)
-
 -[@iAmAnsari](https://github.com/iAmAnsari)
 
 -[@Teva](https://github.com/TevaHenry)
@@ -315,6 +313,8 @@
 -[@pawelmisiak](https://github.com/pawelmisiak)
 
 -[@jadepage](https://github.com/jadepage)
+
+-[@tpohchai](https://github.com/tpohchai)
 
 -[@tomasmejia](https://github.com/tomasmejia)
 
