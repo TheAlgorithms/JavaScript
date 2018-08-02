@@ -1425,3 +1425,5 @@
 -[@blaqstar](https://github.com/Blaqstar)
 
 -[@mateNemeth](https://github.com/matenemeth)
+
+-[@mazzi](https://github.com/marcusazzi)
