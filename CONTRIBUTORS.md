@@ -42,6 +42,8 @@
 
 -[@Slerkas](https://github.com/Slerkas)
 
+-[@065rsh](https://github.com/065rsh)
+
 -[@christine-aqui](https://github.com/christine-aqui)
 
 -[@deluxscript](https://github.com/deluxscript)
