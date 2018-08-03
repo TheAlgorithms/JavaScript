@@ -1,5 +1,4 @@
 # start-here-guidelines
-Add onw sentence here
 Guidelines on how this open source community works. Most information is from the amazing https://opensource.guide/how-to-contribute/
 
 ## One rule of this community:
