@@ -1427,3 +1427,7 @@
 -[@mateNemeth](https://github.com/matenemeth)
 
 -[@ankitjatiya](https://github.com/ankitjatiya)
+
+-[@jvinjam](https://github.com/jvinjam)
+
+-[@mazzi](https://github.com/marcusazzi)
