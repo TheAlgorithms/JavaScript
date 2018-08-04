@@ -1432,4 +1432,6 @@
 
 -[@mazzi](https://github.com/marcusazzi)
 
--[@alexkayuda] (https://github.com/alexkayuda)
+-[@alexkayuda](https://github.com/alexkayuda)
+
+-[@jramon1995](https://github.com/jramon1995)
