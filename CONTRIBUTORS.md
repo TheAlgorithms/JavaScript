@@ -1445,3 +1445,5 @@
 -[@kssbro](https://github.com/KSSBro)
 
 -[@DmitryVdovichencko](https://github.com/DmitryVdovichencko)
+
+-[@JosephManriquez](https://github.com/JosephManriquez)
