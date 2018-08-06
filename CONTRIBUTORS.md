@@ -1446,4 +1446,6 @@
 
 -[@DmitryVdovichencko](https://github.com/DmitryVdovichencko)
 
+-[@JosephManriquez](https://github.com/JosephManriquez)
+
 -[@firattale](https://github.com/firattale)
