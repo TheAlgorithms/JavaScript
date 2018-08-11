@@ -1497,3 +1497,5 @@
 -[@ethialon](https://github.com/ethialon)
 
 -[@mnameerz](https://github.com/mnameerz)
+
+-[@danjaruss](https://github.com/danjaruss)
