@@ -1492,6 +1492,8 @@
 
 -[@ozgurcakmak](https://github.com/ozgurcakmak)
 
+-[@vitorfgd](https://github.com/vitorfgd)
+
 -[@ethialon](https://github.com/ethialon)
 
 -[@mnameerz](https://github.com/mnameerz)
