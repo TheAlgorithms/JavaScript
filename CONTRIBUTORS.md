@@ -1501,3 +1501,5 @@
 -[@danjaruss](https://github.com/danjaruss)
 
 -[@JamesXuM](https://github.com/JamesXuM)
+
+-[@JohnPaulFich](https://github.com/JohnPaulFich)
