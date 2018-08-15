@@ -1519,3 +1519,5 @@
 -[@prateek-codex](https://github.com/prateek-codex)
 
 -[@2imad](https://github.com/2imad)
+
+-[@mariobermudezjr](https://github.com/mariobermudezjr)
