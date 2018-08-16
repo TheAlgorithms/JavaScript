@@ -1520,4 +1520,6 @@
 
 -[@2imad](https://github.com/2imad)
 
+-[@mariobermudezjr](https://github.com/mariobermudezjr)
+
 -[@DeniSetiawan](https://github.com/DeniSetiawan7)
