@@ -1525,3 +1525,5 @@
 -[@mariobermudezjr](https://github.com/mariobermudezjr)
 
 -[@DeniSetiawan](https://github.com/DeniSetiawan7)
+
+-[@StuartDaniells](https://github.com/StuartDaniells)
