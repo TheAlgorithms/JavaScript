@@ -1527,3 +1527,5 @@
 -[@DeniSetiawan](https://github.com/DeniSetiawan7)
 
 -[@aaperine](https://github.com/aaperine)
+
+-[@StuartDaniells](https://github.com/StuartDaniells)
