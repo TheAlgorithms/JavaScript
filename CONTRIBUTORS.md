@@ -1520,6 +1520,8 @@
 
 -[@2imad](https://github.com/2imad)
 
+-[@mbrick](https://github.com/Michael-Bricker)
+
 -[@peteriscaurs](https://github.com/peteriscaurs)
 
 -[@mariobermudezjr](https://github.com/mariobermudezjr)
