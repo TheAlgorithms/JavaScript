@@ -1,5 +1,7 @@
 # Contributors
 
+-[@lfidelino](https://github.com/lfidelino)
+
 -[@mauricegreenland](https://github.com/mauricegreenland)
 
 -[@carrn7k](https://github.com/carrn7k)
