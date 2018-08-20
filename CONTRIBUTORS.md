@@ -1551,4 +1551,7 @@
 -[@iamhajemi](https://github.com/iamhajemi)
 
 -[@Vegitarius](https://github.com/Vegitarius/)
+
 -[@loreste](https://github.com/loreste/)
+
+-[@mgerassi](https://github.com/mgerassi)
