@@ -1569,3 +1569,7 @@
 -[@awadif](https://github.com/aminahassan)
 
 -[@okhaimie](https://github.com/okhaimie)
+
+-[@cassydo](https://github.com/Cassydo)
+
+-[@pgb4](https://github.com/pgb4)
