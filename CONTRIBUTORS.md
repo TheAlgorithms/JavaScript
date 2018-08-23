@@ -1577,3 +1577,5 @@
 -[@h1ghstrung](https://github.com/h1ghstrung)
 
 -[@Veene](https://github.com/Veene)
+
+-[@qm3](https://github.com/qm3)
