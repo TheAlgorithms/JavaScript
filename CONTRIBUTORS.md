@@ -6,6 +6,8 @@
 
 -[@carrn7k](https://github.com/carrn7k)
 
+-[@eranseg74](https://github.com/eranseg74)
+
 -[@thisisAbdus](https://github.com/thisisabdus)
 
 -[@samirjouni](https://github.com/samirjouni)
