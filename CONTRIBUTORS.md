@@ -1620,4 +1620,6 @@
 
 -[@Trumbleup](https://github.com/Trumbleup)
 
+-[@ChrisThauer](https://github.com/ChrisThauer)
+
 -[@danterasera](https://github.com/danterasera)
