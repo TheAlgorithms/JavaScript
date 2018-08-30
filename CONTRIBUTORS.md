@@ -1626,6 +1626,8 @@
 
 -[@paulonasc](https://github.com/paulonasc)
 
+-[@jadehawk](https://github.com/jadehawk)
+
 -[@danielahlers](https://github.com/danielahlers)
 
 -[@brianplynn](https://github.com/brianplynn)
