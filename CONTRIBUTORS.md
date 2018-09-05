@@ -1687,3 +1687,5 @@
 -[@Chr0n1c](https://github.com/Chr0n1c/)
 
 -[@RussellSoppe](https://github.com/RussellSoppe)
+
+-[@kutor](https://github.com/kutor)
