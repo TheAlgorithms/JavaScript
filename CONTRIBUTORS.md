@@ -1,6 +1,6 @@
 # Contributors
 
--[@longgamegoodstride] (https://github.com/longgamegoodstride)
+-[@longgamegoodstride](https://github.com/longgamegoodstride)
 
 -[@lfidelino](https://github.com/lfidelino)
 
@@ -1604,7 +1604,7 @@
 
 -[@useramrit](https://github.com/useramrit)
 
--[@AlexFil1983] (https://github.com/AlexFil1983)
+-[@AlexFil1983](https://github.com/AlexFil1983)
 
 -[@termoxin](https://github.com/termoxin)
 
@@ -1671,3 +1671,5 @@
 -[@rishi1305](https://github.com/rishi1305)
 
 -[@benrout](https://github.com/benrout)
+
+-[@Aerialwombat](https://github.com/AerialWombat/)
