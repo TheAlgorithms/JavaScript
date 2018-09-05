@@ -1,6 +1,6 @@
 # Contributors
 
--[@longgamegoodstride] (https://github.com/longgamegoodstride)
+-[@longgamegoodstride](https://github.com/longgamegoodstride)
 
 -[@lfidelino](https://github.com/lfidelino)
 
@@ -889,7 +889,7 @@
 -[@praksahb](https://github.com/praksahb)
 
 -[@FoolishWayne](https://github.com/FoolishWayne)
-
+    
 -[@Manvi-Agrawal](https://github.com/Manvi-Agrawal)
 
 -[@lperanni](https://github.com/lperanni)
@@ -1604,7 +1604,7 @@
 
 -[@useramrit](https://github.com/useramrit)
 
--[@AlexFil1983] (https://github.com/AlexFil1983)
+-[@AlexFil1983](https://github.com/AlexFil1983)
 
 -[@termoxin](https://github.com/termoxin)
 
@@ -1673,3 +1673,17 @@
 -[@benrout](https://github.com/benrout)
 
 -[@leomacode](https://github.com/leomacode)
+
+-[@yitzhak-bloy](https://github.com/yitzhak-bloy)
+
+-[@e-morales](https://github.com/e-morales)
+
+-[@Aerialwombat](https://github.com/AerialWombat/)
+  
+-[@ericzlmd](https://github.com/ericzlmd/)
+
+-[@tejas1597](https://github.com/tejas1597/)
+
+-[@Chr0n1c](https://github.com/Chr0n1c/)
+
+-[@RussellSoppe](https://github.com/RussellSoppe)
