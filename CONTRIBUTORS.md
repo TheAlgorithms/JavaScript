@@ -1681,3 +1681,5 @@
 -[@ericzlmd](https://github.com/ericzlmd/)
 
 -[@tejas1597](https://github.com/tejas1597/)
+
+-[@Chr0n1c](https://github.com/Chr0n1c/)
