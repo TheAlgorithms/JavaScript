@@ -1695,3 +1695,5 @@
 -[@codepol](https://github.com/codepol)
 
 -[@edybn22](https://github.com/edybn22)
+
+-[@majorshimo](https://github.com/majorshimo)
