@@ -672,6 +672,8 @@
 
 -[@slavo7](https://github.com/slavo7)
 
+-[@trrrey](https://github.com/trrrey)
+
 -[@A-Sm1th](https://github.com/A-Sm1th)
 
 -[@fredthepleb](https://github.com/fredthepleb)
