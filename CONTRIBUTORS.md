@@ -226,6 +226,8 @@
 
 -[@wpowers42](https://github.com/wpowers42)
 
+-[@vtam2012](https://github.com/vtam2012)
+
 -[@famousmighodaro](https://github.com/famousmighodaro)
 
 -[@Emirthestroj](https://github.com/Emirthestroj)
