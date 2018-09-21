@@ -1800,5 +1800,7 @@
 
 -[@ryub3n](https://github.com/ryub3n)
 
+-[@cpereirau](https://github.com/cpereirau)
+
 -[@cruzach](https://github.com/cruzach)
 
