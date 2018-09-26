@@ -1825,3 +1825,5 @@
 -[@caiovilas](https://github.com/caiovilas)
 
 -[@Shivendra30](https://github.com/Shivendra30)
+
+-[@kennithnichol](https://github.com/kennithnichol)
