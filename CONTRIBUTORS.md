@@ -1306,6 +1306,8 @@
 
 -[@axelzo](https://github.com/axelzo)
 
+-[@OhSnapdragon](https://github.com/OhSnapdragon)
+
 -[@asciimancer](https://github.com/asciimancer)
 
 -[@robihid](https://github.com/robihid)
