@@ -58,6 +58,8 @@
 
 -[@christine-aqui](https://github.com/christine-aqui)
 
+-[@Nilkamal](https://github.com/Nilkamal)
+
 -[@deluxscript](https://github.com/deluxscript)
 
 -[@rankupdavid](https://github.com/rankupdavid)
@@ -1862,4 +1864,8 @@
 
 -[@CarolMLGO](https://github.com/CarolMLGO)
 
+- [@Amagonzalez27](https://github.com/Amagonzalez27)
+
 -[@burright](https://github.com/burright)
+
+-[@Nilkamal](https://github.com/Nilkamal)
