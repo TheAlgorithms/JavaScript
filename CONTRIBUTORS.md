@@ -38,6 +38,8 @@
 
 -[@christine-aqui](https://github.com/christine-aqui)
 
+-[@Nilkamal](https://github.com/Nilkamal)
+
 -[@deluxscript](https://github.com/deluxscript)
 
 -[@rankupdavid](https://github.com/rankupdavid)
@@ -865,3 +867,5 @@
 - [@Manvi-Agrawal](https://github.com/Manvi-Agrawal -[@lperanni](https://github.com/lperanni)
 
 - [@Amagonzalez27](https://github.com/Amagonzalez27)
+
+-[@Nilkamal](https://github.com/Nilkamal)
