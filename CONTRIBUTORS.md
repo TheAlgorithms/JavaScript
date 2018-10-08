@@ -1918,4 +1918,8 @@
 
 -[@mitchellfontainemn](https://github.com/mitchellfontainemn)
 
+- [@laurenceRama](https://github.com/laurenceRama)
+
+- [@stevopritchard](https://github.com/stevopritchard)
+
 -[@rishi](https://github.com/rishi)
