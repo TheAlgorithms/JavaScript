@@ -1,0 +1,5 @@
+# Exclude irrelevant files on MacOS
+*.DS_Store
+/.vs/VSWorkspaceState.json
+/.vs/StartingGuidelines/v15/.suo
+/.vs/slnx.sqlite
