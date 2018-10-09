@@ -34,6 +34,8 @@
 
 -[@Ranacode](https://github.com/Ranacode)
 
+-[@kraulekrankzahn](https://github.com/kraulekrankzahn)
+
 -[@arjunkharbanda](https://github.com/arjunkharbanda)
 
 -[@denisrakhuba](https://github.com/denisrakhuba)
@@ -1927,3 +1929,5 @@
 -[@Scramblelock](https://github.com/Scramblelock)
 
 -[@bk797](https://github.com/bk797)
+
+-[@kraulekrankzahn](https://github.com/kraulekrankzahn)
