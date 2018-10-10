@@ -1936,6 +1936,8 @@
 
 -[@FBueth](https://github.com/FBueth)
 
--[@AhmedH14] (https://github.com/AhmedH14)
+-[@AhmedH14](https://github.com/AhmedH14)
 
 -[@DevRayHE](https://github.com/DevRayHE)
+
+-[@NathanAntebi](https://github.com/NathanAntebi)
