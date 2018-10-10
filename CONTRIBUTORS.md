@@ -1,5 +1,7 @@
 # Contributors
 
+-[@Edward2247](https://github.com/Edward2247)
+
 -[@longgamegoodstride](https://github.com/longgamegoodstride)
 
 -[@lfidelino](https://github.com/lfidelino)
