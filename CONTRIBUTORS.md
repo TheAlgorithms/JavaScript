@@ -1914,6 +1914,7 @@
 
 -[@tholidays](https://github.com/tholidays)
 
+
 -[@dkida](https://github.com/dkida)
 
 -[@katcode](https://github.com/katcode)
@@ -1955,3 +1956,17 @@
 -[@jasonbety](https://github.com/jasonbety)
 
 -[@peacebefore](https://github.com/peacebefore)
+
+-[@DevaVenkat](https://github.com/DevaVenkat)
+
+-[@Schlickmann](https://github.com/Schlickmann)
+
+-[@KR71](https://github.com/KR71)
+
+-[@justinj96](https://github.com/justinj96)
+
+-[@huy23tran11](https://github.com/huy23tran11)
+
+-[@RakshaKashyap](https://github.com/kashyap-raksha)
+
+-[@DylanGnatz](https://github.com/dylangnatz)
