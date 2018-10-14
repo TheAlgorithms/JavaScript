@@ -1982,3 +1982,5 @@
 -[@Sogastar](https://github.com/Sogastar)
 
 -[@siegblink](https://github.com/siegblink)
+
+-[@wendellrodrigues](https://github.com/wendellrodrigues)
