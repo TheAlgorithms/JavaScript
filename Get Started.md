@@ -16,13 +16,13 @@ What might look like a chaotic way of creating software (everybody focusing on t
 
 Here, practicing would be our primary objective but there are also many pragmatic reasons for contributing to open source projects:
 
-   **1.** To add a new feature / improvement to a project; or to fix an issue with a project
+   **1.** To add a new feature / improvement to a project; or to fix an issue with a project.
 
    **2.** To practice and learn about software development – contributing to a project is a great way to learn about the more hands on aspects of software development like using debuggers, version control systems, issue trackers, etc.
 
-   **3.** To practice/learn a particular programming language or technology which you are interested in
+   **3.** To practice/learn a particular programming language or technology which you are interested in.
 
-   **4.** To build your online presence – highlighting open source contributions relevant to the job makes your resume stand out from the rest
+   **4.** To build your online presence – highlighting open source contributions relevant to the job makes your resume stand out from the rest.
 
 ## How can I contribute to projects?
 
