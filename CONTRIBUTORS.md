@@ -364,6 +364,8 @@
 
 -[@IvanKj](https://github.com/IvanKj)
 
+-[@philippehartung](https://github.com/philippehartung)
+
 -[@ethanteng](https://github.com/ethanteng)
 
 -[@Vusal123](https://github.com/Vusal123)
