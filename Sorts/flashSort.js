@@ -30,7 +30,7 @@ function flashSort(arr) {
   }
   
   for (let j = 0; j < n; ++j) {
-    k = ~~(c1 * (arr[j] - min));
+    let k = ~~(c1 * (arr[j] - min));
     ++l[k];
   }
   
@@ -44,7 +44,7 @@ function flashSort(arr) {
   
   // permutation
   let move = 0, t, flash;
-  j = 0;
+  let j = 0;
   k = m - 1;
   
   while (move < (n - 1)) {
@@ -66,7 +66,7 @@ function flashSort(arr) {
   // insertion
   for (j = 1; j < n; j++) {
     hold = arr[j];
-    i = j - 1;
+    let i = j - 1;
     while (i >= 0 && arr[i] > hold) {
       arr[i + 1] = arr[i--];
     }
