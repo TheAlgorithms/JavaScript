@@ -45,7 +45,7 @@ function flashSort(arr) {
   // permutation
   let move = 0, t, flash;
   let j = 0;
-  k = m - 1;
+  let k = m - 1;
   
   while (move < (n - 1)) {
     while (j > (l[k] - 1)) {
