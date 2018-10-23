@@ -2026,8 +2026,10 @@
 
 -[@leonardoas10](https://github.com/leonardoas10)
 
--[@danIancuV] (https://github.com/danIancuV)
+-[@danIancuV](https://github.com/danIancuV)
 
 -[@Vrites](https://github.com/Vrites)
 
 -[@peggytao](https://github.com/peggytao)
+
+-[kjh5467](https://github.com/kjh5467)
