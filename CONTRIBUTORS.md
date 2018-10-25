@@ -2044,10 +2044,10 @@
 
 -[@iamrc1](https://github.com/iamrc1)
 
--[@szulima] (https://github.com/szulima)
+-[@szulima](https://github.com/szulima)
 
--[@ajl101] (https://github.com/ajl101)
+-[@ajl101](https://github.com/ajl101)
 
--[@JKDJames] (https://github.com/JKDJames)
+-[@JKDJames](https://github.com/JKDJames)
 
--[@Sabarish] (https://github.com/SabGalaxy)
+-[@Sabarish](https://github.com/SabGalaxy)
