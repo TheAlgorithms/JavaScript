@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+header {
+	font:			bold;
+	font-size:		200%;
+	font-family:		Times New Roman;
+	height:			72px; 
+}
+
+table {
+  float: left;
+  font-family: Times New Roman;
+  vertical-align: middle;
+  align-items: center;
+}
+
+</style>
+
+</head>
+
+<body>
+<form name="myForm" id="myFormID">
+  <header>Caesar cipher</header>
+	<table>
+	<tr>
+	<td>Secret</td>
+	<td><textarea rows="4" cols="67" id="secretID">I came, I saw, I conquered</textarea></td>
+	<td><button type="button" onclick="caesarCipher()">Shift to Caesar cipher</button></td>
+	</tr>
+
+	<tr>
+	<td>Caesar cipher text encrypted result:</td>
+	<td><textarea rows="4" cols="67" id="cipherTxtEncryptedID"></textarea></td>
+	<td></td>
+	</tr>
+
+	<tr>
+	<td>Encrypted</td>
+	<td><textarea rows="4" cols="67" id="encryptedID">gur vqrf bs znepu unir pbzr
+	</textarea></td>
+	<td><button type="button" onclick="deCaesarCipher(1)">Positive Decryption Method</button></br>
+	    <button type="button" onclick="deCaesarCipher(-1)">Negative Decryption Method</button></td>
+	</tr>
+
+	<tr>
+	<td>Decrypted</td>
+	<td><textarea rows="4" cols="67" id="decryptedID"></textarea></td>
+	</tr>
+
+	<tr>
+	<td>Debug: Show the number of Shifted to the character:</td>
+	<td><p id="debug"></p></td>
+	</tr>
+
+	<tr>
+	<td>Debug: Show diff value:</td>
+	<td><p id="diffID"></p></td>
+	</tr>
+
+	<tr>
+	<td>Number of Digits shifted:</td>
+	<td><input type="number" id="numShifted" value="0"></td>
+	</tr>
+
+	</table>
+</form>
+<script>
+
+function caesarCipherEncodeAndDecodeEngine(inStr, numShifted)
+{
+	var shiftNum = numShifted; 
+	var charCode = 0;
+	var outStr = "";
+	var shftedcharCode = 0;
+	var result = 0;
+
+	for (var i=0; i<inStr.length; i++){
+
+		charCode = inStr[i].charCodeAt();
+		shftedcharCode = charCode + shiftNum;
+		result = charCode;
+
+		if ( (charCode>=48 && charCode<=57))
+		{
+			if ( shftedcharCode < 48 ){
+
+		  		var diff = Math.abs(48-1-shftedcharCode)%10;
+
+				while( diff >= 10){
+		  			diff = diff%10;
+				}
+				document.getElementById("diffID").innerHTML = diff;
+
+				shftedcharCode = 57-diff;
+				
+				result = shftedcharCode;
+			}
+
+		  	else if ( shftedcharCode>=48 && shftedcharCode<=57 ){
+				result = shftedcharCode;
+			}
+
+			else if ( shftedcharCode > 57 ){
+
+		  		var diff = Math.abs(57+1-shftedcharCode)%10;
+
+				while( diff >= 10){
+		  			diff = diff%10;
+				}
+				document.getElementById("diffID").innerHTML = diff;
+
+				shftedcharCode = 48+diff;
+
+				result = shftedcharCode;
+			}
+
+
+		}
+
+		else if ( (charCode>=65 && charCode<=90) )
+		{
+
+		  	if (shftedcharCode <=64 ){
+
+		  		var diff = Math.abs(65-1-shftedcharCode)%26;
+
+				while( (diff%26) >= 26){
+		  			diff = diff%26;
+				}
+				shftedcharCode = 90-diff;
+				result = shftedcharCode;
+			}
+
+		  	else if ( shftedcharCode>=65 && shftedcharCode<=90 ){
+				result = shftedcharCode;
+			}
+
+			else if (shftedcharCode>90 ){
+				var diff = Math.abs(shftedcharCode-1-90)%26;
+
+				while( (diff%26) >= 26){
+		  			diff = diff%26;
+				}
+				shftedcharCode = 65+diff;
+				result = shftedcharCode;
+			}
+		
+		}
+
+		else if ( (charCode>=97 && charCode<=122))
+		{
+		  	if ( shftedcharCode<=96 ){
+
+		  		var diff = Math.abs(97-1-shftedcharCode)%26;
+
+				while( (diff%26) >= 26){
+		  			diff = diff%26;
+				}
+				shftedcharCode = 122-diff;
+				result = shftedcharCode;
+			}
+
+		  	else if ( shftedcharCode>=97 && shftedcharCode<=122 ){
+				result = shftedcharCode;
+			}
+
+			else if (shftedcharCode>122 ){
+				var diff = Math.abs(shftedcharCode-1-122)%26;
+
+				while( (diff%26) >= 26){
+		  			diff = diff%26;
+				}
+				shftedcharCode = 97+diff;
+				result = shftedcharCode;
+			}
+		
+		}
+		outStr = outStr + String.fromCharCode(parseInt(result));
+	}
+	return outStr;
+}
+
+function caesarCipher()
+{
+
+	var inStr = document.getElementById("secretID").value;
+
+	var shiftNum = parseInt(document.getElementById("numShifted").value); 
+
+	var outStr = "";
+
+	outStr = caesarCipherEncodeAndDecodeEngine(inStr,shiftNum);
+
+	
+	document.getElementById("cipherTxtEncryptedID").value = outStr;
+}
+
+function deCaesarCipher(onBuClicked)
+{
+
+	if (onBuClicked > 0){
+		document.getElementById("numShifted").value++;
+	}else if (onBuClicked < 0){
+		document.getElementById("numShifted").value--;
+	}else{
+		document.getElementById("numShifted").value;
+	}
+
+	var shiftNum = parseInt(document.getElementById("numShifted").value);
+
+	var str = document.getElementById("encryptedID").value;
+	var inStr = str.toString();
+
+	var charCode = 0;
+	var outStr = "";
+
+	document.getElementById("debug").innerHTML = shiftNum;
+
+	outStr = caesarCipherEncodeAndDecodeEngine(inStr,shiftNum);
+
+	document.getElementById("decryptedID").value = outStr;
+}
+
+/*
+function keyFinder(){ //Drafting
+
+	var result = "";
+	var key = 0;
+	var wordbank =["is","Is","am","Am","are","Are","have","Have","has","Has","may","May","be","Be"];
+
+	var shiftNum = 0;//1 key
+	var str = document.getElementById("encryptedID").value;//2 input
+	var inStr = str.toString();//2 input
+	var outStr = "";//3 output
+
+	document.getElementById("debug").innerHTML = shiftNum;
+
+	for (var i=0; i<26; i++){
+		outStr = caesarCipherEncodeAndDecodeEngine(inStr,i); //shiftNum=i
+		for ( var i=0; i<wordbank.length; i++){
+			if (wordbank[i].
+		}
+
+	}
+	outStr = caesarCipherEncodeAndDecodeEngine(inStr,shiftNum);
+
+	document.getElementById("decryptedID").value = outStr;
+
+	return key;
+}
+
+function checkDigit(str1,str2){ //Drafting
+
+	var d1,d2;
+	if (str1 contains a word digit == str2 word digit){
+
+		compare the first digit,get the distance between 2 digits;
+		decrypt(d1,d2);
+	}
+
+}
+*/
+</script>
+</body>
+</html>
