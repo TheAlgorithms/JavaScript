@@ -76,7 +76,7 @@
 
 -[@GiuliaMalaroda](https://github.com/GiuliaMalaroda)
 
--[@ashlieghdawn](http://github.com/ashlieghdawn)
+-[@ashlieghdawn](https://github.com/ashlieghdawn)
 
 -[@louisevdb84](https://github.com/louisevdb84)
 
@@ -84,7 +84,7 @@
 
 -[@jackbaber](https://github.com/jackbaber)
 
--[@ATCran](http://github.com/ATCran)
+-[@ATCran](https://github.com/ATCran)
 
 -[@Seviran](https://github.com/Seviran)
 
@@ -776,7 +776,7 @@
 
 -[@dirk005](https://github.com/dirk005)
 
--[@gadjacobs](http://github.com/gadjacobs)
+-[@gadjacobs](https://github.com/gadjacobs)
 
 -[@rfranca86](https://github.com/rfranca86)
 
