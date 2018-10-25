@@ -1,0 +1,39 @@
+<HTML>
+<HEAD>
+<TITLE>
+</TITLE>
+</HEAD>
+
+<BODY>
+
+	<h1>Binary to Decimal Conversion</h1> 
+	<p></p>
+	<p>Binary is: <span id="binaryID"></span></p>
+	<p>Decimal is: <span id="decimalID"></span></p>
+
+<script type="text/javascript" charset="UTF-8">
+
+	var bin = 0;
+	var binTmp = 0;
+	var dec = 0;
+	var x = 10;
+	var temp = "";
+	var powerOf2 = 1;
+
+	temp = window.prompt("Enter a binary number:",0); //default value of text field is 0
+	bin = parseInt(temp);
+	binTmp = bin;
+	while(binTmp > 0){
+		if( (binTmp%x) ==1 ){
+			dec = dec + powerOf2;
+		}
+		powerOf2 *= 2;
+		binTmp = Math.round(binTmp / x);
+	}
+
+	document.getElementById("binaryID").innerHTML = bin;
+	document.getElementById("decimalID").innerHTML = dec;
+
+</script>
+</BODY>
+</HTML>
