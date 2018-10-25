@@ -1884,8 +1884,6 @@
 
 -[@CarolMLGO](https://github.com/CarolMLGO)
 
-- [@Amagonzalez27](https://github.com/Amagonzalez27)
-
 -[@burright](https://github.com/burright)
 
 -[@Nilkamal](https://github.com/Nilkamal)
