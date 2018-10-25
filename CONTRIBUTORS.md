@@ -1802,7 +1802,7 @@
 
 -[@april9288](https://github.com/april9288)
 
--[@ea5](https://github.com/ea5)
+-[@EA5](https://github.com/EA5)
 
 -[@SyedUmar95](https://github.com/SyedUmar95)
 
@@ -1883,8 +1883,6 @@
 -[@g-zsomby](https://github.com/g-zsomby)
 
 -[@CarolMLGO](https://github.com/CarolMLGO)
-
-- [@Amagonzalez27](https://github.com/Amagonzalez27)
 
 -[@burright](https://github.com/burright)
 
@@ -2044,10 +2042,10 @@
 
 -[@iamrc1](https://github.com/iamrc1)
 
--[@szulima] (https://github.com/szulima)
+-[@szulima](https://github.com/szulima)
 
--[@ajl101] (https://github.com/ajl101)
+-[@ajl101](https://github.com/ajl101)
 
--[@JKDJames] (https://github.com/JKDJames)
+-[@JKDJames](https://github.com/JKDJames)
 
--[@Sabarish] (https://github.com/SabGalaxy)
+-[@Sabarish](https://github.com/SabGalaxy)
