@@ -1802,7 +1802,7 @@
 
 -[@april9288](https://github.com/april9288)
 
--[@ea5](https://github.com/ea5)
+-[@EA5](https://github.com/EA5)
 
 -[@SyedUmar95](https://github.com/SyedUmar95)
 
