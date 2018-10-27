@@ -1,5 +1,7 @@
 # Contributors
 
+-[@eduardoenari](https://github.com/eduardoenari)
+
 -[@tienpham94](https://github.com/tienpham94)
 
 -[@Edward2247](https://github.com/Edward2247)
@@ -2033,3 +2035,4 @@
 -[@jameschance1010](https://github.com/jameschance1010)
 
 -[@Roundy123](https://github.com/Roundy123)
+
