@@ -20,6 +20,8 @@
 
 -[@samirjouni](https://github.com/samirjouni)
 
+-[@uhayon](https://github.com/uhayon)
+
 -[@ccmurdoc](https://github.com/ccmurdoc)
 
 -[@aneagoie](https://github.com/aneagoie)
@@ -2039,4 +2041,3 @@
 -[@Roundy123](https://github.com/Roundy123)
 
 -[@mamta](https://github.com/palmamta)
-
