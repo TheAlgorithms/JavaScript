@@ -42,7 +42,7 @@ function bucketSort(list, size){
     // bucket fill
     for(let iBucket = 0; iBucket < list.length; iBucket++){
         let key = Math.floor((list[iBucket] - min) / size);
-        buckets[key].push(list[iBucket])
+        buckets[key].push(list[iBucket]);
     }
     let sorted = [];
     // now sort every bucket and merge it to the sorted list
