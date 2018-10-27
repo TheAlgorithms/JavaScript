@@ -146,6 +146,8 @@
 
 -[@DSDenisov](https://github.com/DSDenisov)
 
+-[@maximsan](https://github.com/maximsan)
+
 -[@Muhamed995](https://github.com/Muhamed995)
 
 -[@bloobloons](https://github.com/bloobloons)
