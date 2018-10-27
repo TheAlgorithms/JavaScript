@@ -10,14 +10,14 @@ function keyFinder(){
 	var str = document.getElementById("encryptedID").value; //get the input string
 	var inStr = str.toString(); //convert the input to String
 	var outStr = ""; // store the output value
- 	document.getElementById("debug").innerHTML = shiftNum;
+ 	document.getElementById("debug").innerHTML = shiftNum; // debug: display the shifted number(s) 
  	for (var i=0; i<26; i++){
 		outStr = caesarCipherEncodeAndDecodeEngine(inStr,i); // use the encrytpion engine to decrypt the input string, shiftNum=i
 		for ( var i=0; i<wordbank.length; i++){
 			if (wordbank[i] == outStr[i]+outStr[i+1]{
-        key=i;
-      }
+        			key=i;
+			}
 		}
- 	}
- 	return key;
+	}
+	return key;
 }
