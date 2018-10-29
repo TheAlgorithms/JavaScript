@@ -8,6 +8,8 @@
 
 -[@longgamegoodstride](https://github.com/longgamegoodstride)
 
+-[@Virtual1](https://github.com/Virtual1)
+
 -[@lfidelino](https://github.com/lfidelino)
 
 -[@mauricegreenland](https://github.com/mauricegreenland)
