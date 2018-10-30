@@ -2052,4 +2052,14 @@
 
 -[@agaogao](https://github.com/agaogao)
 
+-[@retozon](https://github.com/retozon)
+
+-[@iprelec](https://github.com/iprelec)
+
+-[@ZacharyLasky](https://github.com/ZacharyLasky)
+
+-[@varunmulay22](https://github.com/varunmulay22)
+
+-[@plattthompson](https://github.com/plattthompson)
+
 -[@excel61](https://github.com/excel61)
