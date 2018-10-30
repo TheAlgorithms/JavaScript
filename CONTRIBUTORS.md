@@ -2052,7 +2052,7 @@
 
 -[@agaogao](https://github.com/agaogao)
 
--[@retozon] (https://github.com/retozon)
+-[@retozon](https://github.com/retozon)
 
 -[@iprelec](https://github.com/iprelec)
 
@@ -2062,3 +2062,6 @@
 
 -[@bartholomewbd](https://github.com/bartholomewbd)
 
+-[@plattthompson](https://github.com/plattthompson)
+
+-[@excel61](https://github.com/excel61)
