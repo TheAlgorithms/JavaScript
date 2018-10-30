@@ -2060,6 +2060,8 @@
 
 -[@varunmulay22](https://github.com/varunmulay22)
 
+-[@bartholomewbd](https://github.com/bartholomewbd)
+
 -[@plattthompson](https://github.com/plattthompson)
 
 -[@excel61](https://github.com/excel61)
