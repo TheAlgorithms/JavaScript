@@ -3,24 +3,40 @@ Find and retrieve the encryption key automatically
 Note: This is a draft version, please help to modify, Thanks!
 ******************************************************/
 function keyFinder(str){ // str is used to get the input of encrypted string
-	const wordbank =["is","Is","am","Am","are","Are","have","Have","has","Has","may","May","be","Be"];
-	let key = 0; // return zero means the key can not be found
+	const wordbank =[" the ","The "," of "," is ","Is "," am ","Am "," are ","Are "," have ","Have "," has ","Has "," may ","May "," be ","Be "];
+	//let wordbankelementCounter = 0;
+	//let key = 0; // return zero means the key can not be found
 	let inStr = str.toString(); //convert the input to String
 	let outStr = ""; // store the output value
-	let wordInOutStr = ""; // temporary store the word inside the outStr, it is used for comparison
- 	for (let i=0; i<(52); i++){ //try the number of key shifted, the sum of character from a-z and A-Z is 26*2=52
-		outStr = caesarCipherEncodeAndDecodeEngine(inStr,i); // use the encrytpion engine to decrypt the input string, shiftNum=i
-		for ( let i=0; i<wordbank.length; i++){
-			// use a loop to find the next digit of wordbank element and compare with outStr's digit
-			for ( let j=0; j < wordbank[i].length; j++){
-				wordInOutStr += outStr[i+j];
-			}
-			// this part need to be optimize with the calculation of the number of occurance of word's probabilities
-			// linked list will be used in the next stage of development to calculate the number of occurace of the key
-			if (wordbank[i] == wordInOutStr){
-        			return key=i; // return the key number if founded
-			}
+	let outStrElement = ""; // temporary store the word inside the outStr, it is used for comparison
+ 	for (let k=0; k<26; k++){ //try the number of key shifted, the sum of character from a-z or A-Z is 26
+		outStr = caesarCipherEncodeAndDecodeEngine(inStr,k); // use the encrytpion engine to decrypt the input string
+
+		//loop through the whole input string
+		for ( let s=0; s < outStr.length; s++){
+
+			for ( let i=0; i < wordbank.length; i++){
+
+				// initialize the outStrElement which is a temp output string for comparison, 
+				// use a loop to find the next digit of wordbank element and compare with outStr's digit
+				for ( let w=0; w < wordbank[i].length; w++){
+					outStrElement += outStr[ s + w ];
+				}
+
+				//console.log( k + outStrElement + wordbank[i] );//debug
+
+				// this part need to be optimize with the calculation of the number of occurance of word's probabilities
+				// linked list will be used in the next stage of development to calculate the number of occurace of the key
+				if (wordbank[i] == outStrElement){
+        				return k; // return the key number if founded
+				}
+
+				outStrElement = ""; //reset the temp word
+
+			} // end for ( let i=0; i < wordbank.length; i++)
+
 		}
+
 	}
 	return 0; // return 0 if found nothing
 }
