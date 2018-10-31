@@ -3,7 +3,7 @@ Find and retrieve the encryption key automatically
 Note: This is a draft version, please help to modify, Thanks!
 ******************************************************/
 function keyFinder(str){ // str is used to get the input of encrypted string
-	const wordbank =[" the ","The "," of "," is ","Is "," am ","Am "," are ","Are "," have ","Have "," has ","Has "," may ","May "," be ","Be "];
+	const wordbank =["I ","You ","We ","They ","He ","She ","It "," the ","The "," of "," is ","Is "," am ","Am "," are ","Are "," have ","Have "," has ","Has "," may ","May "," be ","Be "];
 	//let wordbankelementCounter = 0;
 	//let key = 0; // return zero means the key can not be found
 	let inStr = str.toString(); //convert the input to String
