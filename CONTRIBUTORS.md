@@ -1998,7 +1998,7 @@
 
 -[@leonardoas10](https://github.com/leonardoas10)
 
--[@revnelson](https://github.com/revnelson) 
+-[@revnelson](https://github.com/revnelson)
 
 -[@danIancuV](https://github.com/danIancuV)
 
@@ -2077,3 +2077,7 @@
 -[@melaniel](https://github.com/melaniel)
 
 -[@UYasin](https://github.com/UYasin)
+
+-[@tomikonio](https://github.com/tomikonio)
+
+-[@DaopengShi](https://github.com/DaopengShi)
