@@ -1998,6 +1998,8 @@
 
 -[@leonardoas10](https://github.com/leonardoas10)
 
+-[@revnelson](https://github.com/revnelson) 
+
 -[@danIancuV](https://github.com/danIancuV)
 
 -[@Vrites](https://github.com/Vrites)
@@ -2025,6 +2027,8 @@
 -[@Sabarish](https://github.com/SabGalaxy)
 
 -[@Ezzu](https://github.com/Ezziu)
+
+-[@kashishkohli20](https://github.com/kashishkohli20)
 
 -[@Bnday01](https://github.com/bnday01)
 
@@ -2069,5 +2073,7 @@
 -[@waland1510](https://github.com/waland1510)
 
 -[@diegojp747](https://github.com/diegojp747)
+
+-[@melaniel](https://github.com/melaniel)
 
 -[@DaopengShi](https://github.com/DaopengShi)
