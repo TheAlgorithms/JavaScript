@@ -2113,3 +2113,22 @@
 -[@SNFernandes24](https://github.com/SNFernandes24)
 
 -[@deeulyana](https://github.com/deeulyana)
+
+-[@amslezak](https://github.com/amslezak)
+
+-[@marevh](https://github.com/marevh)
+
+-[@szeproductions](https://github.com/szeproductions)
+
+-[@LordNelson1](https://github.com/LordNelson1)
+
+-[@nurulhuda859](https://github.com/nurulhuda859)
+
+-[@jwright4810](https://github.com/jwright4810)
+
+-[@AkonTeeJay](https://github.com/AkonTeeJay)
+
+-[@eldaar](https://github.com/eldaar)
+
+-[@nilsfromhamburg](https://github.com/NilsFromHamburg)
+
