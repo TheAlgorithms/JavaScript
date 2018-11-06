@@ -2121,3 +2121,10 @@
 -[@LordNelson1](https://github.com/LordNelson1)
 
 -[@jwright4810](https://github.com/jwright4810)
+
+-[@AkonTeeJay](https://github.com/AkonTeeJay)
+
+-[@eldaar](https://github.com/eldaar)
+
+-[@nilsfromhamburg](https://github.com/NilsFromHamburg)
+
