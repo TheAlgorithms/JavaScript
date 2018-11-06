@@ -2122,3 +2122,7 @@
 
 -[@AkonTeeJay](https://github.com/AkonTeeJay)
 
+-[@eldaar](https://github.com/eldaar)
+
+-[@nilsfromhamburg](https://github.com/NilsFromHamburg)
+
