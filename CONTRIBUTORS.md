@@ -2122,6 +2122,8 @@
 
 -[@LordNelson1](https://github.com/LordNelson1)
 
+-[@thekingdomdev](https://github.com/thekingdomdev)
+
 -[@nurulhuda859](https://github.com/nurulhuda859)
 
 -[@jwright4810](https://github.com/jwright4810)
@@ -2131,4 +2133,5 @@
 -[@eldaar](https://github.com/eldaar)
 
 -[@nilsfromhamburg](https://github.com/NilsFromHamburg)
+
 -[@Code4Blessings](https://github.com/Code4Blessings)
