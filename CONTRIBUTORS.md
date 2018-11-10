@@ -2147,3 +2147,11 @@
 -[@AdrianLupu](https://github.com/ansharai94)
 
 -[@tbclandot](https://github.com/tbclandot)
+
+-[@fumblaya](https://github.com/fumblaya)
+
+-[@AdrianLupu](https://github.com/ansharai94)
+
+-[@kstapesdev](https://github.com/kstapesdev)
+
+-[@zstanford](https://github.com/zstanford)
