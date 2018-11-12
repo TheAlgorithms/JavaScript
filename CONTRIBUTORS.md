@@ -1972,7 +1972,7 @@
 
 -[@TimothyIvins](https://github.com/TimothyIvins)
 
--[@PutMyRobeOnRITE](https://github.com/PutMyRobeOnRITE)
+-[@salvatoreallegra](https://github.com/salvatoreallegra)
 
 -[@Ninad99](https://github.com/Ninad99)
 
@@ -2157,3 +2157,5 @@
 -[@zstanford](https://github.com/zstanford)
 
 -[@nikoskef](https://github.com/nikoskef/)
+
+-[@ZaurInvictus](https://github.com/ZaurInvictus)
