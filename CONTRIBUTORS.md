@@ -2181,3 +2181,15 @@
 -[@MegaMongooo](https://github.com/MegaMongooo)
 
 -[@PaulVargasDev](https://github.com/PaulVargasDev)
+
+[@saso78](https://github.com/saso78)
+
+-[@livingdev](https://github.com/livingdev)
+
+-[@GuichoEstrada](https://github.com/GuichoEstrada)
+
+-[@AndrejLitke](https://github.com/AndrejLitke)
+
+-[@PoeseToomata](https://github.com/PoeseToomata)
+
+-[@aabrockk](https://github.com/Aabrockk)
