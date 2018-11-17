@@ -6,6 +6,8 @@
 
 -[@Edward2247](https://github.com/Edward2247)
 
+-[@prathu9](https://github.com/prathu9)
+
 -[@longgamegoodstride](https://github.com/longgamegoodstride)
 
 -[@Virtual1](https://github.com/Virtual1)
