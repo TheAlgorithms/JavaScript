@@ -2176,7 +2176,7 @@
 
 -[@brittneydwilliams](https://github.com/brittneydwilliams)
 
--[@kcrites] (https://github.com/kcrites)
+-[@kcrites](https://github.com/kcrites)
 
 -[@adesanoyeovie](https://github.com/vijosak)
 
@@ -2205,5 +2205,7 @@
 -[@jeremyfox36](https://github.com/jeremyfox36)
 
 -[@wrightkontari](https://github.com/wrightkontari)
+
+-[@meun](https://github.com/meun)
 
 -[@SobiszeK](https://github.com/SobiszeK)
