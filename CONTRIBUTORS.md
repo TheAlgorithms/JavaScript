@@ -782,7 +782,7 @@
 
 -[@yokutoro](https://github.com/yokutoro)
 
--[@CristoAMH](hhtps://github.com/CristoAMH)
+-[@CristoAMH](https://github.com/CristoAMH)
 
 -[@planutius](https://github.com/planutius)
 
@@ -2096,7 +2096,7 @@
 
 -[@may-a](https://github.com/may-a)
 
--[@nkleene] (https://github.com/nkleene)
+-[@nkleene](https://github.com/nkleene)
 
 -[@SeunAkindele](https://github.com/SeunAkindele)
 
@@ -2186,7 +2186,7 @@
 
 -[@PaulVargasDev](https://github.com/PaulVargasDev)
 
-[@saso78](https://github.com/saso78)
+-[@saso78](https://github.com/saso78)
 
 -[@livingdev](https://github.com/livingdev)
 
@@ -2213,3 +2213,5 @@
 -[@dexypro](https://github.com/dexypro)
 
 -[@tanveerparhar](https://github.com/tanveerparhar)
+
+-[@psdcode](https://github.com/psdcode)
