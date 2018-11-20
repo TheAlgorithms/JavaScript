@@ -2096,7 +2096,7 @@
 
 -[@may-a](https://github.com/may-a)
 
--[@nkleene] (https://github.com/nkleene)
+-[@nkleene](https://github.com/nkleene)
 
 -[@SeunAkindele](https://github.com/SeunAkindele)
 
