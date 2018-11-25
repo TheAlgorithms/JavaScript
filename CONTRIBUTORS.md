@@ -2239,3 +2239,5 @@
 -[@mortenkos](https://github.com/mortenkos)
 
 -[@yarnFerret](https://github.com/yarnFerret)
+
+-[@katrick-dev](https://github.com/katrick-dev)
