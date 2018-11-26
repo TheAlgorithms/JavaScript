@@ -2243,3 +2243,5 @@
 -[@katrick-dev](https://github.com/katrick-dev)
 
 -[@zeztron](https://github.com/zeztron)
+
+-[@sid7631](https://github.com/sid7631)
