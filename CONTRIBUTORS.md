@@ -1650,6 +1650,8 @@
 
 -[@kermittman](https://github.com/kermittman)
 
+-[@zufre](https://github.com/zufre)
+
 -[@sanjithpk](https://github.com/sanjithpk)
 
 -[@zoliesq](https://github.com/zoliesq)
