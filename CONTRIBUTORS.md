@@ -1650,6 +1650,8 @@
 
 -[@kermittman](https://github.com/kermittman)
 
+-[@zufre](https://github.com/zufre)
+
 -[@sanjithpk](https://github.com/sanjithpk)
 
 -[@zoliesq](https://github.com/zoliesq)
@@ -1749,6 +1751,8 @@
 -[@stephenandears](https://github.com/stephenandears)
 
 -[@tolen](https://https://github.com/tolem)
+
+-[@chisishis](https://github.com/chisishis)
 
 -[@jhonattanbenitez](https://github.com/jhonattanbenitez)
 
@@ -2235,3 +2239,25 @@
 -[@JetsenLabs](https://github.com/JetsenLabs)
 
 -[@robingabor](https://github.com/robingabor)
+
+-[@KehindeOjapa](https://github.com/KehindeOjapa)
+
+-[@mortenkos](https://github.com/mortenkos)
+
+-[@yarnFerret](https://github.com/yarnFerret)
+
+-[@katrick-dev](https://github.com/katrick-dev)
+
+-[@zeztron](https://github.com/zeztron)
+
+-[@timdevcode](https://github.com/timdevcode)
+
+-[@sid7631](https://github.com/sid7631)
+
+-[@davemowery](https://github.com/davemowery)
+
+-[@IbrahimTarabay](https://github.com/IbrahimTarabay)
+
+-[@mkelley010](https://github.com/mkelley010)
+
+-[@sebastiancwk](https://github.com/sebastiancwk)
