@@ -2269,3 +2269,7 @@
 -[@YiannisKar](https://github.com/YiannisKar)
 
 -[@xeranox1](https://github.com/xeranox1)
+
+-[@Ivaant](https://github.com/ivaant)
+
+-[@JonathanR90](https://github.com/JonathanR90)
