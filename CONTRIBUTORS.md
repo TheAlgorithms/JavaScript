@@ -2268,8 +2268,14 @@
 
 -[@YiannisKar](https://github.com/YiannisKar)
 
+-[@xeranox1](https://github.com/xeranox1)
+
 -[@Ivaant](https://github.com/ivaant)
 
 -[@JonathanR90](https://github.com/JonathanR90)
 
 -[@serstyle](https://github.com/serstyle)
+
+-[@JonathanR90](https://github.com/JonathanR90)
+
+-[@nacongocoding](https://github.com/nacongocoding)
