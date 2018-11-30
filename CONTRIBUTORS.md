@@ -1,5 +1,7 @@
 # Contributors
 
+-[@antoinecatt](https://github.com/antoinecatt)
+
 -[@eduardoenari](https://github.com/eduardoenari)
 
 -[@tienpham94](https://github.com/tienpham94)
