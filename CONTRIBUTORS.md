@@ -64,6 +64,9 @@
 
 -[@alojzz](https://github.com/alojzz)
 
+-[@derekkenney](https://github.com/derekkenney)
+
+
 -[@gincos](https://github.com/gincos)
 
 -[@vkouk](https://github.com/vkouk)
