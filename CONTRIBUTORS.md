@@ -494,6 +494,8 @@
 
 -[@darrylferdinands](https://github.com/darrylferdinands)
 
+-[@darrylferdinands](https://github.com/darrylferdinands)
+
 -[@manuarora700](https://github.com/manuarora700)
 
 -[@nicjohnryan](https://github.com/nicjohnryan)
