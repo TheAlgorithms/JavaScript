@@ -440,7 +440,7 @@
 
 - [@SeanPrentice1](https://github.com/SeanPrentice1)
 
-- [@darrylferdinands]  (https://github.com/darrylferdinands)
+- [@darrylferdinands](https://github.com/darrylferdinands)
 
 - [@manuarora700](https://github.com/manuarora700)
 
@@ -484,7 +484,7 @@
 
 -[@jmitchemNWC](https://github.com/jmitchemNWC)
 
--[@scratch342] (https://github.com/scratch342)
+-[@scratch342](https://github.com/scratch342)
 
 -[@ForiDunk](https://github.com/ForiDunk)
 
@@ -519,3 +519,5 @@
 -[@farzini](https://github.com/farzini)
 
 -[@sujanth21](https://github.com/sujanth21)
+
+-[@arwasowski](https://github.com/arwasowski)
