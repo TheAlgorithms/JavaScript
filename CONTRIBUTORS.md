@@ -2333,3 +2333,5 @@
 -[@sergiopichardo](https://github.com/sergiopichardo)
 
 -[@DeweyHammers](https://github.com/DeweyHammers)
+
+-[@rbmanez](https://github.com/rbmanez)
