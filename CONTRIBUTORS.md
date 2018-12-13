@@ -1396,6 +1396,8 @@
 
 -[@Toro2018](https://github.com/Toro2018)
 
+-[@cjai32](https://github.com/cjai32)
+
 -[@BeastMaster07](https://github.com/BeastMaster07)
 
 -[@zhechka](https://github.com/zhechka)
@@ -2335,3 +2337,19 @@
 -[@DeweyHammers](https://github.com/DeweyHammers)
 
 -[@yurchenko-dmytro-mss](https://github.com/yurchenko-dmytro-mss)
+
+-[@rbmanez](https://github.com/rbmanez)
+
+-[@brimac1634](https://github.com/brimac1634)
+
+-[@NamelessKing](https://github.com/NamelessKing)
+
+-[@acpierc3](https://github.com/acpierc3)
+
+-[@BrettBlox](https://github.com/BrettBlox)
+
+-[@roberthugsy](https://github.com/roberthugsy)
+
+-[@PoYuTsai](https://github.com/PoYuTsai)
+
+-[@johndev86](https://github.com/johndev86)
