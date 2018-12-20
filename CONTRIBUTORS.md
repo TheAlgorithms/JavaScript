@@ -2378,6 +2378,8 @@
 
 -[@jordonpo](https://github.com/jordonpo)
 
+-[@jcredondo](https://github.com/jcredondo)
+
 -[@ImtananRaja](https://github.com/ImtananRaja)
 
 -[@singhVikram97](https://gitbub.com/singhVikram97)
