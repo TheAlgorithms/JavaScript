@@ -21,7 +21,7 @@ function buttonClassCreator() {
 });
 
 function listAddEventListener() {
-    return ["click", ListStyleAfterClick];
+    return ["click", ListStyleAfterClick]
 }
 
 
