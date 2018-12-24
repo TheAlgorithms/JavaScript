@@ -2397,3 +2397,7 @@
 -[@swapdroid](https://github.com/swapdroid)
 
 -[@anniebelkin](https://github.com/anniebelkin)
+
+-[@peacethekuma](https://github.com/peacethekuma)
+
+-[@KritikaSharmaKS](https://github.com/KritikaSharmaKS)
