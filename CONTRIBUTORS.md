@@ -2402,6 +2402,8 @@
 
 -[@KritikaSharmaKS](https://github.com/KritikaSharmaKS)
 
+-[@SumeetJoshi](https://github.com/joshi365)
+
 -[@PanosCS](https://github.com/PanosCS)
 
 -[@orpartz](https://github.com/orpartz)
