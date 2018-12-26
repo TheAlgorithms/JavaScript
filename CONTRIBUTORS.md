@@ -2406,6 +2406,8 @@
 
 -[@PanosCS](https://github.com/PanosCS)
 
+-[@BarricNL](https://github.com/BarricNL)
+
 -[@orpartz](https://github.com/orpartz)
 
 -[@ArtiSah](https://github.com/artisah)
