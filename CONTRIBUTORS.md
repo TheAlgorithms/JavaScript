@@ -1,4 +1,4 @@
-   # Contributors
+# Contributors
 
 -[@antoinecatt](https://github.com/antoinecatt)
 
@@ -268,9 +268,7 @@
 
 -[@Piotrrrek](https://github.com/Piotrrrek)
 
--[@avdoseferovic](https://github.com/avdoseferovic)
--[@codewithsupra](https://github.com/codewithsupra)
--[@subinvarghese99](https://github.com/subinvarghese99)
+-[@avdoseferovic](https://github.com/avdoseferovic) -[@codewithsupra](https://github.com/codewithsupra) -[@subinvarghese99](https://github.com/subinvarghese99)
 
 -[@chengyeh](https://github.com/chengyeh)
 
@@ -2447,3 +2445,5 @@
 -[@pratyakash](https://github.com/pratyakash)
 
 -[@rainbowmoonlight](https://github.com/rainbowmoonlight)
+
+-[@rmparr](https://github.com/rmparr)
