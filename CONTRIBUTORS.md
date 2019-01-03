@@ -2447,3 +2447,7 @@
 -[@rainbowmoonlight](https://github.com/rainbowmoonlight)
 
 -[@rmparr](https://github.com/rmparr)
+
+-[@royekott](https://github.com/royekott)
+
+-[@danielnoliva](https://github.com/danielnoliva)
