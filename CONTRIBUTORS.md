@@ -120,6 +120,8 @@
 
 -[@2jiwon](https://github.com/2jiwon)
 
+-[@Rizzwaan](https://github.com/Rizzwaan)
+
 -[@PepoDyakov](https://github.com/PepoDyakov)
 
 -[@amouchere](https://github.com/amouchere)
