@@ -1,5 +1,7 @@
 # Contributors
 
+-[@devinekadeni](https://github.com/devinekadeni)
+
 -[@antoinecatt](https://github.com/antoinecatt)
 
 -[@eduardoenari](https://github.com/eduardoenari)
