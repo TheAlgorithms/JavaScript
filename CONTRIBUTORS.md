@@ -1,5 +1,7 @@
 # Contributors
 
+-[@devinekadeni](https://github.com/devinekadeni)
+
 -[@antoinecatt](https://github.com/antoinecatt)
 
 -[@eduardoenari](https://github.com/eduardoenari)
@@ -119,6 +121,8 @@
 -[@ThiagoFontes](https://github.com/ThiagoFontes)
 
 -[@2jiwon](https://github.com/2jiwon)
+
+-[@Rizzwaan](https://github.com/Rizzwaan)
 
 -[@PepoDyakov](https://github.com/PepoDyakov)
 
@@ -268,9 +272,7 @@
 
 -[@Piotrrrek](https://github.com/Piotrrrek)
 
--[@avdoseferovic](https://github.com/avdoseferovic)
-
--[@subinvarghese99](https://github.com/subinvarghese99)
+-[@avdoseferovic](https://github.com/avdoseferovic) -[@codewithsupra](https://github.com/codewithsupra) -[@subinvarghese99](https://github.com/subinvarghese99)
 
 -[@chengyeh](https://github.com/chengyeh)
 
@@ -2368,6 +2370,8 @@
 
 -[@sanguliupo](https://github.com/sanguliupo)
 
+-[@balfe](https://github.com/balfe)
+
 -[@mecpl](https://github.com/mecpl)
 
 -[@satsaiinfocom](https://github.com/devavratsingh)
@@ -2443,3 +2447,51 @@
 -[@domgaulton](https://github.com/domgaulton)
 
 -[@aolamide](https://github.com/aolamide)
+
+-[@pratyakash](https://github.com/pratyakash)
+
+-[@rainbowmoonlight](https://github.com/rainbowmoonlight)
+
+-[@rmparr](https://github.com/rmparr)
+
+-[@royekott](https://github.com/royekott)
+
+-[@danielnoliva](https://github.com/danielnoliva)
+
+-[@adamalexali](https://github.com/adamalexali)
+
+-[@Eduardoalo](https://github.com/Eduardoalo)
+
+- [@StanleyXisco](https://github.com/StanleyXisco)
+
+- [@rishabbakshi](https://github.com/rishabbakshi)
+
+-[@waffleflopper](https://github.com/waffleflopper)
+
+-[@sberbom](https://github.com/sberbom)
+
+-[@A-Dolah](https://github.com/A-Dolah)
+
+-[@miczuk](https://github.com/miczuk)
+
+-[@IvanKram](https://github.com/IvanKram)
+
+-[@eriuni](https://github.com/eriuni)
+
+-[@Z-69](https://github.com/Z-69)
+
+-[@DiegoAHV](https://github.com/DiegoAHV)
+
+-[@Emyboy](https://github.com/Emyboy)
+
+-[@ttyson0311](https://github.com/ttyson0311)
+
+-[@Feythelus](https://github.com/Feythelus)
+
+-[@qboyq](https://github.com/qboyq)
+
+-[@BLiTz3R](https://github.com/BLiTz3R)
+
+-[@900bce](https://github.com/900bce)
+
+-[@jvdsouza](https://github.com/jvdsouza)
