@@ -272,7 +272,11 @@
 
 -[@Piotrrrek](https://github.com/Piotrrrek)
 
--[@avdoseferovic](https://github.com/avdoseferovic) -[@codewithsupra](https://github.com/codewithsupra) -[@subinvarghese99](https://github.com/subinvarghese99)
+-[@avdoseferovic](https://github.com/avdoseferovic) 
+
+-[@codewithsupra](https://github.com/codewithsupra) 
+
+-[@subinvarghese99](https://github.com/subinvarghese99)
 
 -[@chengyeh](https://github.com/chengyeh)
 
@@ -2495,3 +2499,5 @@
 -[@900bce](https://github.com/900bce)
 
 -[@jvdsouza](https://github.com/jvdsouza)
+
+-[@marcosandri-dev](https://github.com/marcosandri-dev)
