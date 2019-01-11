@@ -1,4 +1,5 @@
 # Contributors
+-[@crypt0nate](https://github.com/crypt0nate)
 
 -[@devinekadeni](https://github.com/devinekadeni)
 
@@ -2505,3 +2506,7 @@
 -[@saiadarsh](https://github.com/saiadarsh)
 
 -[@xiaoouwang](https://github.com/xiaoouwang)
+
+-[@aishaoyegunle](https://github.com/aishaoyegunle)
+
+-[@madelinejones](https://github.com/madelinejones)
