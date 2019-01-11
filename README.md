@@ -1,4 +1,4 @@
-# start-here-guidelines
+﻿# start-here-guidelines
 Guidelines on how this open source community works. Most information is from the amazing https://opensource.guide/how-to-contribute/
 
 ## One rule of this community:
@@ -6,6 +6,8 @@ We don't care if you break things. This is a playground and we encourage failing
 
 ## 4 Step guide to get started:
 **1**. Read the wonderful [*gitStarted Guide*](https://github.com/zero-to-mastery/start-here-guidelines/blob/855a00243db60c71905f6e3afd95ebf2cf7459a0/gitstartedguideoptimized.pdf) by our fellow student @wanraitelli
+
+//Changing things here and here//
 
 **2**. Make your first Pull Request (Free how-to tutorial at http://makeapullrequest.com/, and then check out Andrei's videos on github https://www.udemy.com/the-complete-web-developer-in-2018/learn/v4/t/lecture/8725782/), by adding your name to the CONTRIBUTORS.md file in the start-here-guidelines project. (You can also use this walkthrough as a reference: https://github.com/Roshanjossey/first-contributions)
 
@@ -17,6 +19,8 @@ We don't care if you break things. This is a playground and we encourage failing
 ## Anatomy of an open source project
 Every open source community is different.
 
+
+/and here and here //
 Spending years on one open source project means you’ve gotten to know _one_ open source project. Move to a different project, and you might find the vocabulary, norms, and communication styles are completely different.
 
 That said, many open source projects follow a similar organizational structure. Understanding the different community roles and overall process will help you get quickly oriented to any new project.

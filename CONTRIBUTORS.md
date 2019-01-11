@@ -1,4 +1,5 @@
 # Contributors
+-[@crypt0nate](https://github.com/crypt0nate)
 
 -[@devinekadeni](https://github.com/devinekadeni)
 
