@@ -1,4 +1,5 @@
 # Contributors
+-[@crypt0nate](https://github.com/crypt0nate)
 
 -[@devinekadeni](https://github.com/devinekadeni)
 
@@ -272,7 +273,11 @@
 
 -[@Piotrrrek](https://github.com/Piotrrrek)
 
--[@avdoseferovic](https://github.com/avdoseferovic) -[@codewithsupra](https://github.com/codewithsupra) -[@subinvarghese99](https://github.com/subinvarghese99)
+-[@avdoseferovic](https://github.com/avdoseferovic) 
+
+-[@codewithsupra](https://github.com/codewithsupra) 
+
+-[@subinvarghese99](https://github.com/subinvarghese99)
 
 -[@chengyeh](https://github.com/chengyeh)
 
@@ -2491,3 +2496,35 @@
 -[@qboyq](https://github.com/qboyq)
 
 -[@jashan007](https://github.com/jashan007)
+
+-[@BLiTz3R](https://github.com/BLiTz3R)
+
+-[@900bce](https://github.com/900bce)
+
+-[@jvdsouza](https://github.com/jvdsouza)
+
+-[@marcosandri-dev](https://github.com/marcosandri-dev)
+
+-[@saiadarsh](https://github.com/saiadarsh)
+
+-[@xiaoouwang](https://github.com/xiaoouwang)
+
+-[@aishaoyegunle](https://github.com/aishaoyegunle)
+
+-[@madelinejones](https://github.com/madelinejones)
+
+-[@sonle](https://github.com/leson238)
+
+-[@esme](https://github.com/esme)
+
+-[@Binlix26](https://github.com/Binlix26)
+
+-[@Aman1706](https://github.com/Aman1706)
+
+-[@tvanrijn](https://github.com/tvanrijn)
+
+-[@SamuelGillieron](https://github.com/SamuelGillieron)
+
+-[@Nico91470](https://github.com/nico91470)
+
+-[@Satan-69](https://github.com/Satan-69)
