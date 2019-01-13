@@ -2495,6 +2495,8 @@
 
 -[@qboyq](https://github.com/qboyq)
 
+-[@jashan007](https://github.com/jashan007)
+
 -[@BLiTz3R](https://github.com/BLiTz3R)
 
 -[@900bce](https://github.com/900bce)
@@ -2526,4 +2528,3 @@
 -[@Nico91470](https://github.com/nico91470)
 
 -[@Satan-69](https://github.com/Satan-69)
-
