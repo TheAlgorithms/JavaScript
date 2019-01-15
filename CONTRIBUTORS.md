@@ -11,6 +11,8 @@
 
 -[@yehorkalm](https://github.com/yehorkalm)
 
+-[@josahty](https://github.com/josahty/)
+
 -[@Edward2247](https://github.com/Edward2247)
 
 -[@prathu9](https://github.com/prathu9)
