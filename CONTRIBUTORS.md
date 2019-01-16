@@ -2535,6 +2535,10 @@
 
 -[@camasini](https://github.com/camasini)
 
+-[@arole1](https://github.com/arole1)
+
+-[@jhbest](https://github.com/jhbest)
+
 -[@josahty](https://github.com/josahty)
 
 -[@arole1](https://github.com/arole1)
