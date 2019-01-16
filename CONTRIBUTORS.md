@@ -11,9 +11,13 @@
 
 -[@yehorkalm](https://github.com/yehorkalm)
 
+-[@josahty](https://github.com/josahty/)
+
 -[@Edward2247](https://github.com/Edward2247)
 
 -[@prathu9](https://github.com/prathu9)
+
+-[@UnknownFearNG](https://github.com/UnknownFearNG)
 
 -[@longgamegoodstride](https://github.com/longgamegoodstride)
 
@@ -2534,3 +2538,25 @@
 -[@arole1](https://github.com/arole1)
 
 -[@jhbest](https://github.com/jhbest)
+
+-[@josahty](https://github.com/josahty)
+
+-[@arole1](https://github.com/arole1)
+
+-[@ShanShahOfficial](https://github.com/ShanShahOfficial)
+
+-[@arole1](https://github.com/arole1)
+
+-[@SaitejaVemula](https://github.com/SaitejaVemula)
+
+-[@wahwihwuh](https://github.com/wahwihwuh)
+
+-[@todd-clements](https://github.com/todd-clements)
+
+-[@arole1](https://github.com/arole1)
+
+-[@seouled81](https://github.com/seouled81)
+
+-[@srothenburger1](https://github.com/srothenburger1)
+
+-[@RCarvalhoDan](https://github.com/RCarvalhoDan)
