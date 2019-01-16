@@ -2557,6 +2557,10 @@
 
 -[@seouled81](https://github.com/seouled81)
 
+-[@RCarvalhoDan](https://github.com/RCarvalhoDan)
+
+-[@sem-levindry](https://github.com/sem-levindry)
+
 -[@srothenburger1](https://github.com/srothenburger1)
 
 -[@RCarvalhoDan](https://github.com/RCarvalhoDan)
