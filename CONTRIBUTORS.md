@@ -17,6 +17,8 @@
 
 -[@prathu9](https://github.com/prathu9)
 
+-[@UnknownFearNG](https://github.com/UnknownFearNG)
+
 -[@longgamegoodstride](https://github.com/longgamegoodstride)
 
 -[@Virtual1](https://github.com/Virtual1)
@@ -2552,3 +2554,5 @@
 -[@seouled81](https://github.com/seouled81)
 
 -[@srothenburger1](https://github.com/srothenburger1)
+
+-[@RCarvalhoDan](https://github.com/RCarvalhoDan)
