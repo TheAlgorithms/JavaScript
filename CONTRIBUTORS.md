@@ -2559,6 +2559,8 @@
 
 -[@RCarvalhoDan](https://github.com/RCarvalhoDan)
 
+-[@ruan](https://github.com/Ruandev96)
+
 -[@msoficaru](https://github.com/msoficaru)
 
 -[@sem-levindry](https://github.com/sem-levindry)
