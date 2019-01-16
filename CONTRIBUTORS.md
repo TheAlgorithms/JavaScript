@@ -2535,6 +2535,10 @@
 
 -[@camasini](https://github.com/camasini)
 
+-[@arole1](https://github.com/arole1)
+
+-[@jhbest](https://github.com/jhbest)
+
 -[@josahty](https://github.com/josahty)
 
 -[@arole1](https://github.com/arole1)
@@ -2556,3 +2560,7 @@
 -[@RCarvalhoDan](https://github.com/RCarvalhoDan)
 
 -[@sem-levindry](https://github.com/sem-levindry)
+
+-[@srothenburger1](https://github.com/srothenburger1)
+
+-[@RCarvalhoDan](https://github.com/RCarvalhoDan)
