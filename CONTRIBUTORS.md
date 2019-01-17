@@ -2576,3 +2576,11 @@
 -[@epratt86](https://github.com/epratt86)
 
 -[@kalimad924](https://github.com/kalimad924)
+
+-[@miyazh](https://github.com/miyazh)
+
+-[@darklordace](https://github.com/darklordace)
+
+-[@jbenderdev](https://github.com/jbenderdev)
+
+-[@sshifty](https://github.com/sshifty)
