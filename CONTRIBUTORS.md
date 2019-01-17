@@ -277,9 +277,9 @@
 
 -[@Piotrrrek](https://github.com/Piotrrrek)
 
--[@avdoseferovic](https://github.com/avdoseferovic) 
+-[@avdoseferovic](https://github.com/avdoseferovic)
 
--[@codewithsupra](https://github.com/codewithsupra) 
+-[@codewithsupra](https://github.com/codewithsupra)
 
 -[@subinvarghese99](https://github.com/subinvarghese99)
 
@@ -2574,6 +2574,8 @@
 -[@RCarvalhoDan](https://github.com/RCarvalhoDan)
 
 -[@epratt86](https://github.com/epratt86)
+
+-[@kalimad924](https://github.com/kalimad924)
 
 -[@miyazh](https://github.com/miyazh)
 
