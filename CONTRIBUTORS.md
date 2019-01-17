@@ -2574,3 +2574,5 @@
 -[@RCarvalhoDan](https://github.com/RCarvalhoDan)
 
 -[@epratt86](https://github.com/epratt86)
+
+-[@darklordace](https://github.com/darklordace)
