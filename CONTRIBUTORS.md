@@ -2575,6 +2575,8 @@
 
 -[@epratt86](https://github.com/epratt86)
 
+-[@miyazh](https://github.com/miyazh)
+
 -[@darklordace](https://github.com/darklordace)
 
 -[@jbenderdev](https://github.com/jbenderdev)
