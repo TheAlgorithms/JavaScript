@@ -15,6 +15,8 @@
 
 -[@Edward2247](https://github.com/Edward2247)
 
+-[@DusanKrcmarik](https://github.com/DusanKrcmarik)
+
 -[@prathu9](https://github.com/prathu9)
 
 -[@UnknownFearNG](https://github.com/UnknownFearNG)
