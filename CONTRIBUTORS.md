@@ -2588,3 +2588,7 @@
 -[@crux-in-lan](https://github.com/crux-in-lan)
 
 -[@ricwidjaya](https://github.com/ricwidjaya)
+
+-[@cyril-pallasigui](https://github.com/cyril-pallasigui)
+
+-[@orientboy1](https://github.com/orientboy1)
