@@ -15,6 +15,8 @@
 
 -[@Edward2247](https://github.com/Edward2247)
 
+-[@DusanKrcmarik](https://github.com/DusanKrcmarik)
+
 -[@prathu9](https://github.com/prathu9)
 
 -[@UnknownFearNG](https://github.com/UnknownFearNG)
@@ -2588,3 +2590,19 @@
 -[@crux-in-lan](https://github.com/crux-in-lan)
 
 -[@rajsrivastava0710](https://github.com/rajsrivastava0710)
+
+-[@ac030540](https://github.com/ac030540)
+
+-[@ochanissi](https://github.com/ochanissi)
+
+-[@ricwidjaya](https://github.com/ricwidjaya)
+
+-[@cyril-pallasigui](https://github.com/cyril-pallasigui)
+
+-[@orientboy1](https://github.com/orientboy1)
+
+-[@phillpeters](https://github.com/phillpeters)
+
+-[@grJDh](https://github.com/grJDh)
+
+-[@VodeniZeko](https://github.com/Vodenizeko)
