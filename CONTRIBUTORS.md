@@ -2616,3 +2616,5 @@
 -[@MelodicCrypter](https://github.com/MelodicCrypter)
 
 -[@Chadcramer](https://github.com/Chadcramer)
+
+-[@KamilWawrzynczuk](https://github.com/KamilWawrzynczuk)
