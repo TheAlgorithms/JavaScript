@@ -2628,6 +2628,10 @@
 
 -[@gazjosef](https://github.com/gazjosef)
 
+-[@hubertstrawa](https://github.com/hubertstrawa)
+
+-[@SuperSafie](https://github.com/SuperSafie)
+
 -[@sjwdevguy2](https://github.com/sjwdevguy2)
 
 -[@xFinality](https://github.com/xFinality)
