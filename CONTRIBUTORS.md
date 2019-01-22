@@ -1,4 +1,5 @@
 # Contributors
+
 -[@crypt0nate](https://github.com/crypt0nate)
 
 -[@devinekadeni](https://github.com/devinekadeni)
@@ -718,6 +719,8 @@
 -[@A-Sm1th](https://github.com/A-Sm1th)
 
 -[@fredthepleb](https://github.com/fredthepleb)
+
+-[@tpartridge1](https://github.com/tpartridge1)
 
 -[@rtechau](https://github.com/rtechau)
 
@@ -2620,3 +2623,5 @@
 -[@KamilWawrzynczuk](https://github.com/KamilWawrzynczuk)
 
 -[@zachshelton91](https://github.com/zachshelton91)
+
+-[@gazjosef](https://github.com/gazjosef)
