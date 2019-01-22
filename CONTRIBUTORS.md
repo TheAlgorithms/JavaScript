@@ -720,6 +720,8 @@
 
 -[@fredthepleb](https://github.com/fredthepleb)
 
+-[@tpartridge1](https://github.com/tpartridge1)
+
 -[@rtechau](https://github.com/rtechau)
 
 -[@stephannielsen](https://github.com/stephannielsen)
