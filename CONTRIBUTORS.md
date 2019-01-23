@@ -2632,7 +2632,7 @@
 
 -[@SuperSafie](https://github.com/SuperSafie)
 
--[sjwdevguy2](https://github.com/sjwdevguy2)
+-[@sjwdevguy2](https://github.com/sjwdevguy2)
 
 -[@xFinality](https://github.com/xFinality)
 
@@ -2643,3 +2643,5 @@
 -[@savio2928](https://github.com/savio2928)
 
 -[@Byung2523](http://github.com/Byung2523)
+
+-[@FriedDruit](https://github.com/FriedDruit)
