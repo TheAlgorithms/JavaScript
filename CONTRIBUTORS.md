@@ -2610,6 +2610,8 @@
 
 -[@VodeniZeko](https://github.com/Vodenizeko)
 
+-[@nirajnr7](https://github.com/nirajnr7)
+
 -[@StefanSelfTaught](https://github.com/StefanSelfTaught)
 
 -[@harrycjy1](https://github.com/harrycjy1)
@@ -2650,6 +2652,7 @@
 
 -[@rishabkbakshi](https://github.com/rishabkbakshi)
 
--[@NemoCatalog](https://github.com/NemoCatalog)
+-[@educastillo10](https://github.com/educastillo10)
 
+-[@NemoCatalog](https://github.com/NemoCatalog)
 
