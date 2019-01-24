@@ -1,4 +1,5 @@
 # Contributors
+
 -[@crypt0nate](https://github.com/crypt0nate)
 
 -[@devinekadeni](https://github.com/devinekadeni)
@@ -718,6 +719,8 @@
 -[@A-Sm1th](https://github.com/A-Sm1th)
 
 -[@fredthepleb](https://github.com/fredthepleb)
+
+-[@tpartridge1](https://github.com/tpartridge1)
 
 -[@rtechau](https://github.com/rtechau)
 
@@ -2609,3 +2612,42 @@
 
 -[@nirajnr7](https://github.com/nirajnr7)
 
+-[@StefanSelfTaught](https://github.com/StefanSelfTaught)
+
+-[@harrycjy1](https://github.com/harrycjy1)
+
+-[@PKnar](https://github.com/PKnar)
+
+-[@MelodicCrypter](https://github.com/MelodicCrypter)
+
+-[@Chadcramer](https://github.com/Chadcramer)
+
+-[@martynasarbak](https://github.com/martynasarbak)
+
+-[@KamilWawrzynczuk](https://github.com/KamilWawrzynczuk)
+
+-[@kenlopez13](https://github.com/kenlopez13)
+
+-[@gazjosef](https://github.com/gazjosef)
+
+-[@hubertstrawa](https://github.com/hubertstrawa)
+
+-[@SuperSafie](https://github.com/SuperSafie)
+
+-[@sjwdevguy2](https://github.com/sjwdevguy2)
+
+-[@xFinality](https://github.com/xFinality)
+
+-[@atikanvatikan](https://github.com/atikanvatikan)
+
+-[@SlyAtBest](https://github.com/SlyAtBest)
+
+-[@savio2928](https://github.com/savio2928)
+
+-[@Byung2523](http://github.com/Byung2523)
+
+-[@FriedDruit](https://github.com/FriedDruitv)
+
+-[@tpartridge1](https://github.com/tpartridge1)
+
+-[@rishabkbakshi](https://github.com/rishabkbakshi)
