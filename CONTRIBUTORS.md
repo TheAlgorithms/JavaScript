@@ -2665,4 +2665,8 @@
 
 -[@Tydotbaba](https://github.com/Tydotbaba)
 
+-[@edbeh](https://github.com/edbeh)
+
+-[@nidvar](https://github.com/nidvar)
+
 -[@rponnk](https://github.com/rponnk)
