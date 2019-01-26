@@ -1,5 +1,4 @@
 # Contributors
-
 -[@crypt0nate](https://github.com/crypt0nate)
 
 -[@devinekadeni](https://github.com/devinekadeni)
@@ -2665,3 +2664,7 @@
 -[@Tydotbaba](https://github.com/Tydotbaba)
 
 -[@edbeh](https://github.com/edbeh)
+
+-[@nidvar](https://github.com/nidvar)
+
+-[@rponnk](https://github.com/rponnk)
