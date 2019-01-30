@@ -2713,6 +2713,8 @@
 
 -[@kamirake](https://github.com//kamirake)
 
+-[@macrichie](https://github.com/Macrichie)
+
 -[@mrudulabapat](https://github.com/mrudulabapat)
 
 -[@kamirake](https://github.com/kamirake)
