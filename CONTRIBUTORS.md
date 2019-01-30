@@ -2712,3 +2712,5 @@
 -[@AlinaStasyachek](https://github.com AlinaStasyachek)
 
 -[@kamirake](https://github.com//kamirake)
+
+-[@macrichie](https://github.com/Macrichie)
