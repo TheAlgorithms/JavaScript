@@ -2709,6 +2709,8 @@
 
 -[@pmurph0305](https://github.com/pmurph0305)
 
--[@AlinaStasyachek](https://github.com AlinaStasyachek)
+-[@AlinaStasyachek](https://github.com/AlinaStasyachek)
 
--[@kamirake](https://github.com//kamirake)
+-[@kamirake](https://github.com/kamirake)
+
+-[@luccacodes](https://github.com/luccacodes)
