@@ -2727,6 +2727,8 @@
 
 -[@b-ed](https://github.com/b-ed)
 
+-[@edjunma](https://github.com/edjunma)
+
 -[@edwardrost](https://github.com/edwardrost)
 
 -[@prince](https://github.com/Princekelsey)
