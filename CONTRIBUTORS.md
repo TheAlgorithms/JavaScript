@@ -2728,3 +2728,13 @@
 -[@b-ed](https://github.com/b-ed)
 
 -[@miobi](https://github.com/miobi)
+
+-[@badumnici](https://github.com/adumnici)
+
+-[@edjunma](https://github.com/edjunma)
+
+-[@edwardrost](https://github.com/edwardrost)
+
+-[@prince](https://github.com/Princekelsey)
+
+-[@andu84](https://github.com/andu84)
