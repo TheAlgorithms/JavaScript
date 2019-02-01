@@ -2745,6 +2745,10 @@
 
 -[@andu84](https://github.com/andu84)
 
+-[@hamza-ibrahim](https://github.com/hamza-ibrahim)
+
+-[@ChandlerBaskins](https://github.com/ChandlerBaskins)
+
 -[@ChandlerBaskins](https://github.com/ChandlerBaskins)
 
 -[@p-haddadian](https://github.com/p-haddadian)
