@@ -2762,3 +2762,5 @@
 -[@jcccookie](https://github.com/jcccookie)
 
 -[@megan-d](https://github.com/megan-d)
+
+-[@emmanuelhashy](https://github.com/emmanuelhashy)
