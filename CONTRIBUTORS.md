@@ -2763,6 +2763,8 @@
 
 -[@megan-d](https://github.com/megan-d)
 
+-[@emmanuelhashy](https://github.com/emmanuelhashy)
+
 -[@z-carlson](https://github.com/z-carlson)
 
 -[@thegaribguy](https://github.com/thegaribguy)
