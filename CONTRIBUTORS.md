@@ -1,4 +1,7 @@
  # Contributors
+
+-[@vladimircreative](https://github.com/vladimircreative)
+
 -[@crypt0nate](https://github.com/crypt0nate)
 
 -[@devinekadeni](https://github.com/devinekadeni)
@@ -2818,3 +2821,9 @@
 -[@snikerslala](https://github.com/snikerslala)
 
 -[@AnnaDoh](https://github.com/AnnaDoh/)
+
+-[@skhurana](https://github.com/smiti-123)
+
+-[@kyedavey](https://github.com/kyedavey)
+
+-[@kshriva1](https://github.com/Kshriva1)
