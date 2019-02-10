@@ -1,4 +1,7 @@
  # Contributors
+
+-[@vladimircreative](https://github.com/vladimircreative)
+
 -[@crypt0nate](https://github.com/crypt0nate)
 
 -[@devinekadeni](https://github.com/devinekadeni)
@@ -2818,3 +2821,25 @@
 -[@snikerslala](https://github.com/snikerslala)
 
 -[@rizamoyii](https://github.com/Rizamoyi)
+
+-[@AnnaDoh](https://github.com/AnnaDoh/)
+
+-[@skhurana](https://github.com/smiti-123)
+
+-[@kyedavey](https://github.com/kyedavey)
+
+-[@kshriva1](https://github.com/Kshriva1)
+
+-[@surasnayak](https://github.com/surasnayak)
+
+-[@dsennerstam](https://github.com/dsennerstam)
+
+-[@UglyCode](https://github.com/UglyCode)
+
+-[@Stamwill](https://github.com/Stamwill)
+
+-[@joelacasse](https://github.com/joelacasse)
+
+-[@vignesh17](https://github.com/vignesh17)
+
+-[@GaryDotten](https://github.com/GaryDotten)
