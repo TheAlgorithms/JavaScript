@@ -2820,6 +2820,8 @@
 
 -[@snikerslala](https://github.com/snikerslala)
 
+-[@rizamoyii](https://github.com/Rizamoyi)
+
 -[@AnnaDoh](https://github.com/AnnaDoh/)
 
 -[@skhurana](https://github.com/smiti-123)
@@ -2841,3 +2843,5 @@
 -[@vignesh17](https://github.com/vignesh17)
 
 -[@mubarakshow](https://github.com/mubarakshow)
+
+-[@GaryDotten](https://github.com/GaryDotten)
