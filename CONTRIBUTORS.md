@@ -1,5 +1,7 @@
  # Contributors
 
+-[@maieuldelpino](https://github.com/maieuldelpino)
+
 -[@vladimircreative](https://github.com/vladimircreative)
 
 -[@crypt0nate](https://github.com/crypt0nate)
