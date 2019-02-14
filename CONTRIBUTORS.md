@@ -2484,9 +2484,9 @@
 
 -[@Eduardoalo](https://github.com/Eduardoalo)
 
-- [@StanleyXisco](https://github.com/StanleyXisco)
+-[@StanleyXisco](https://github.com/StanleyXisco)
 
-- [@rishabbakshi](https://github.com/rishabbakshi)
+-[@rishabbakshi](https://github.com/rishabbakshi)
 
 -[@waffleflopper](https://github.com/waffleflopper)
 
@@ -2876,6 +2876,4 @@
 
 -[@ej94](https://github.com/ej94)
 
-- [@asgSoftware](https://github.com/asgSoftware)
-
-- [@NewLomar](https://github.com/NewLomar)
+-[@NewLomar](https://github.com/NewLomar)
