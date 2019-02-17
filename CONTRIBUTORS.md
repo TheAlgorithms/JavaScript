@@ -1,4 +1,4 @@
- # Contributors
+# Contributors
 
 -[@maieuldelpino](https://github.com/maieuldelpino)
 
@@ -2901,3 +2901,7 @@
 -[@btoszegi](https://github.com/btoszegi)
 
 -[@Lauviah0622](https://github.com/Lauviah0622)
+
+-[@ritabradley](https://github.com/ritabradley)
+
+-[@deltapeng](https://github.com/DeltaPeng)
