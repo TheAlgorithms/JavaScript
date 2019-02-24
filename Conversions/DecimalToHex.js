@@ -9,11 +9,16 @@ function intToHex(num){
     }
     return num;
 }
+
 function decimalToHex(num){
     let hex_out = [];
     while(num > 15) {
         hex_out.push(intToHex(num%16));
         num = Math.floor(num / 16);
     }
-    return hex_out.join("");
+    return intToHex(num) + return hex_out.join("");
 }
+
+// test cases
+console.log(decimalToHex(999098) === "F3EBA");
+console.log(decimalToHex(123) === "7B");
