@@ -2989,3 +2989,19 @@
 -[@cfooMT93](https://github.com/cfooMT93)
 
 -[@Ahcom1019](https://github.com/Ahcom1019)
+
+-[@victory-a](https://github.com/victory-a)
+
+-[@PieterT2000](https://github.com/PieterT2000)
+
+-[@dwongdev](https://github.com/dwongdev)
+
+-[@maykl4iv](https://github.com/maykl4iv)
+
+-[@benjaminalcala](https://github.com/benjaminalcala)
+
+-[@NasalJack](https://github.com/nasaljack)
+
+-[@rodalbert](https://github.com/rodalbert)
+
+-[@multisonic](https://github.com/multisonic)
