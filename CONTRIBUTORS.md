@@ -3011,3 +3011,9 @@
 -[@golightly](https://github.com/golightly)
 
 -[@AaronPar](https://github.com/AaronPar)
+
+-[@sjodcre](https://github.com/sjodcre)
+
+-[@mariah](https://github.com/MariahFarnsworth)
+
+-[@UnselfconsciousLux](https://github.com/UnselfconsciousLux)
