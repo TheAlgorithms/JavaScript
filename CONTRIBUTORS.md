@@ -3039,3 +3039,5 @@
 -[@oh-sully](https://github.com/oh-sully)
 
 -[@jrodowick](https://github.com/jrodowick)
+
+-[@majorkira](https://github.com/majorkira)
