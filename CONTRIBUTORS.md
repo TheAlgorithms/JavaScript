@@ -1032,6 +1032,8 @@
 
 -[@jsyarnall](https://github.com/jsyarnall)
 
+-[@jazzyboi](https://github.com/jazzyboi)
+
 -[@aelan19](https://github.com/aelan19)
 
 -[@kaplantm](https://github.com/kaplantm)
