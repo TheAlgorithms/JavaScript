@@ -55,4 +55,4 @@ Finally, open source projects use the following tools to organize discussion. Re
 
 **Discussion forums or mailing lists**: Some projects may use these channels for conversational topics (for example, “How do I…“ or “What do you think about…“ instead of bug reports or feature requests). Others use the issue tracker for all conversations.
 
-**Synchronous chat channel**: Some projects use chat channels (such as Slack or IRC) for casual conversation, collaboration, and quick exchanges.
+**Synchronous chat channel**: Some projects use chat channels (such as Discord or IRC) for casual conversation, collaboration, and quick exchanges.
