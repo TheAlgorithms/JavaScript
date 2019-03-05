@@ -8,6 +8,8 @@
 
 -[@devinekadeni](https://github.com/devinekadeni)
 
+-[@zoeferencova](https://github.com/zoeferencova)
+
 -[@antoinecatt](https://github.com/antoinecatt)
 
 -[@eduardoenari](https://github.com/eduardoenari)
