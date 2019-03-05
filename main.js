@@ -94,12 +94,49 @@ const palindrome=(number)=>
     let reversenumber=number.split("").reverse().join("");
     if(number ===reversenumber)
     {
-        console.log('number is palindrome');
+        console.log(`${reversenumber} is palindrome number`);
     }
     else
     {
-        console.log('number is not palindrome');
+        console.log(`${reversenumber} is not palindrome number`);
     }
 }
 palindrome(123);
+const sumofcubes=(number)=>
+{
+    let sumofcubes=0;
+    while(number)
+    {
+        let remainder=number%10;
+        sumofcubes=sumofcubes+(remainder**3);
+        number=Math.floor(number/10);
+    }
+return sumofcubes;
+
+}
+const amstrong=(number)=>
+{
+   if(sumofcubes(number) ===number)
+   {
+        console.log(`${number} is amstrong`);
+   }
+   else
+   {
+        console.log(`${number} is not amstrong`);
+   }
+}
+amstrong(371);
+const factorial=(number)=>
+{
+    let fact=1;
+    for(let i=1;i<=number;i++)
+    {
+        fact=fact*i;
+    }
+    console.log(fact);
+}
+factorial(3);
+
+
+
 
