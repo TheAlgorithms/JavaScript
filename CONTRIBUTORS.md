@@ -3098,4 +3098,6 @@
 
 -[@Sijon14](https://github.com/sijon14)
 
+-[@Jrejoire](https://github.com/Jrejoire)
+
 -[@andy-mc](https://github.com/andy-mc)
