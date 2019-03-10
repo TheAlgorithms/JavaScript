@@ -3105,4 +3105,19 @@
 -[@andy-mc](https://github.com/andy-mc)
 
 -[@benjaminblazevic](https://github.com/benjaminblazevic)
+
 -[@ModestasBar](https://github.com/ModestasBar)
+
+-[@maythe4thbewithyou](https://github.com/maythe4thbewithyou)
+
+-[@dejiabiola](https://github.com/dejiabiola)
+
+-[@kushagra105](https://github.com/kushagra105)
+
+-[@khach2010](https://github.com/khach2010)
+
+-[@Averei](https://github.com/Averei)
+
+-[@patricklombardo](https://github.com/patricklombardo)
+
+-[@devchia254](https://github.com/devchia254)
