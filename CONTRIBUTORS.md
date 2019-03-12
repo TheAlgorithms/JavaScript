@@ -3132,3 +3132,8 @@
 
 -[@NewbieWebDev](https://github.com/NewbieWebDev)
 
+-[@porschefish](https://github.com/porschefish)
+
+-[@ShaneDel](https://github.com/ShaneDel)
+
+-[@hazza203](http://github.com/hazza203)
