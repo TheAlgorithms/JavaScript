@@ -3131,3 +3131,7 @@
 -[@ivqonsanada](https://github.com/ivqonsanada)
 
 -[@porschefish](https://github.com/porschefish)
+
+-[@ShaneDel](https://github.com/ShaneDel)
+
+-[@hazza203](http://github.com/hazza203)
