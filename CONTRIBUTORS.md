@@ -3157,3 +3157,7 @@
 -[@H-Brett](https://github.com/H-Brett)
 
 -[@H-StevenChen0824](https://github.com/StevenChen0824)
+
+-[@sigridnicole](https://github.com/sigridnicole)
+
+-[@IIonut05](https://github.com/IIonut05)
