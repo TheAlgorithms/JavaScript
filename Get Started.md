@@ -6,7 +6,7 @@ It may appear a very challenging and overwhelming task at first but it is, in fa
 
 ## What is open source?
 
-Open source is the original way of creating software – in an open, transparent and collaborative manner. “What is free software?” and “What is open source?” are good overviews of the subject.
+Open source is the original way of creating software – in an open, transparent and collaborative manner. [“What is free software?”](https://www.gnu.org/philosophy/free-sw.en.html) and [“What is open source?”](https://opensource.com/resources/what-open-source) are good overviews of the subject.
 
 Open source means that you get the final executable for a software project, and also have access to the source code from which it was produced. Having access to the source code means that you can better understand how the program functions and more importantly you can modify it to fix any problems you have with the software or add new features which you desire.
 
