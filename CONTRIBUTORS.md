@@ -3197,3 +3197,7 @@
 -[@itsmarkodowd](https://github.com/itsmarkodowd)
 
 -[@itscottpool](https://github.com/itscottpool)
+
+-[@LenaNguyen](https://github.com/LenaNguyen)
+
+-[@PaolaArz](https://github.com/PaolaArz)
