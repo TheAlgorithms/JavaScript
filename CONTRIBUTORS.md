@@ -3202,6 +3202,8 @@
 
 -[@LenaNguyen](https://github.com/LenaNguyen)
 
+-[@eqvt](https://github.com/eqvt)
+
 -[@PaolaArz](https://github.com/PaolaArz)
 
 -[@Cranky](https://github.com/crankygrey)
