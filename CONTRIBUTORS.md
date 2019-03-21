@@ -14,6 +14,8 @@
 
 -[@eduardoenari](https://github.com/eduardoenari)
 
+-[@Mia-Wenjin-Z](https://github.com/Mia-Wenjin-Z)
+
 -[@tienpham94](https://github.com/tienpham94)
 
 -[@yehorkalm](https://github.com/yehorkalm)
