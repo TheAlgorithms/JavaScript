@@ -14,6 +14,8 @@
 
 -[@eduardoenari](https://github.com/eduardoenari)
 
+-[@Mia-Wenjin-Z](https://github.com/Mia-Wenjin-Z)
+
 -[@tienpham94](https://github.com/tienpham94)
 
 -[@yehorkalm](https://github.com/yehorkalm)
@@ -3198,3 +3200,30 @@
 
 -[@razrinn](https://github.com/razrinn)
 
+-[@BoboFrank](https://github.com/BoboFrank)
+
+-[@itscottpool](https://github.com/itscottpool)
+
+-[@LenaNguyen](https://github.com/LenaNguyen)
+
+-[@eqvt](https://github.com/eqvt)
+
+-[@PaolaArz](https://github.com/PaolaArz)
+
+-[@Cranky](https://github.com/crankygrey)
+
+-[@JitenPatoliya](https://github.com/JitenPatoliya)
+
+-[@aviral-verma](https://github.com/aviral-verma)
+
+-[@sivin-code](https://github.com/SiVin-Code)
+
+-[@dseright](https://github.com/dseright)
+
+-[@taking-things](https://github.com/taking-things)
+
+-[@datonedoe](https://github.com/datonedoe)
+
+-[@k3r0s3x](https://github.com/k3r0s3x)
+
+-[@rperry99](https://github.com/rperry99)
