@@ -3238,7 +3238,7 @@
 
 -[@me-Nick](https://github.com/me-Nick)
 
--[@wymow](https://github.com/wymow) 
+-[@wymow](https://github.com/wymow)
 
 -[@eyeamkd](https://github.com/eyeamkd)
 
@@ -3247,3 +3247,13 @@
 -[@ralonsodeniz](https://github.com/ralonsodeniz)
 
 -[@DNUVision](https://github.com/DNUVision)
+
+-[@KeWa-io](https://github.com/KeWa-io)
+
+-[@lisapnct](https://github.com/lisapnct)
+
+-[@sirkells](https://github.com/sirkells)
+
+-[@tkwbdv](https://github.com/tkwbdv)
+
+-[@ipswebdev](https://github.com/ipswebdev)
