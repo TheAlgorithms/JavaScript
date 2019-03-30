@@ -10,6 +10,8 @@
 
 -[@zoeferencova](https://github.com/zoeferencova)
 
+-[@lucievr](https://github.com/lucievr)
+
 -[@antoinecatt](https://github.com/antoinecatt)
 
 -[@eduardoenari](https://github.com/eduardoenari)
