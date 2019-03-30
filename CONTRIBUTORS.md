@@ -10,6 +10,8 @@
 
 -[@zoeferencova](https://github.com/zoeferencova)
 
+-[@lucievr](https://github.com/lucievr)
+
 -[@antoinecatt](https://github.com/antoinecatt)
 
 -[@eduardoenari](https://github.com/eduardoenari)
@@ -51,6 +53,8 @@
 -[@ccmurdoc](https://github.com/ccmurdoc)
 
 -[@aneagoie](https://github.com/aneagoie)
+
+-[@navaneethreddy123](https://github.com/navaneethreddy123)
 
 -[@drood87](https://github.com/drood87)
 
@@ -1824,8 +1828,6 @@
 
 -[@gtrocki](https://github.com/gtrocki)
 
--[@april9288](https://github.com/april9288)
-
 -[@EA5](https://github.com/EA5)
 
 -[@SyedUmar95](https://github.com/SyedUmar95)
@@ -3302,3 +3304,7 @@
 -[@Metexo](https://github.com/Metexo)
 
 -[@gabrielcon6](https://github.com/gabrielcon6)
+
+-[@MattKim](https://github.com/Mattswkim)
+
+-[@april9288](https://github.com/april9288)
