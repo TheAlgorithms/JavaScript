@@ -12,6 +12,8 @@
 
 -[@lucievr](https://github.com/lucievr)
 
+-[@sandipguchait](https://github.com/sandipguchait)
+
 -[@antoinecatt](https://github.com/antoinecatt)
 
 -[@eduardoenari](https://github.com/eduardoenari)
