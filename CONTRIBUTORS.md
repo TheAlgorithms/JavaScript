@@ -10,6 +10,10 @@
 
 -[@zoeferencova](https://github.com/zoeferencova)
 
+-[@lucievr](https://github.com/lucievr)
+
+-[@sandipguchait](https://github.com/sandipguchait)
+
 -[@antoinecatt](https://github.com/antoinecatt)
 
 -[@eduardoenari](https://github.com/eduardoenari)
@@ -51,6 +55,8 @@
 -[@ccmurdoc](https://github.com/ccmurdoc)
 
 -[@aneagoie](https://github.com/aneagoie)
+
+-[@navaneethreddy123](https://github.com/navaneethreddy123)
 
 -[@drood87](https://github.com/drood87)
 
@@ -1824,8 +1830,6 @@
 
 -[@gtrocki](https://github.com/gtrocki)
 
--[@april9288](https://github.com/april9288)
-
 -[@EA5](https://github.com/EA5)
 
 -[@SyedUmar95](https://github.com/SyedUmar95)
@@ -1833,6 +1837,8 @@
 -[@Flaskfullofcoffee](https://github.com/Flaskfullofcoffee)
 
 -[@ryrupp](https://github.com/ryrupp)
+
+-[@fhulu84](https://github.com/fhulu84)
 
 -[@JulieStuneck](https://github.com/JulieStuneck)
 
@@ -2135,6 +2141,7 @@
 -[@AnonProgrammer007](https://github.com/AnonProgrammer007)
 
 -[@Vyper248](https://github.com/Vyper248)
+
 
 -[@may-a](https://github.com/may-a)
 
@@ -3291,3 +3298,21 @@
 -[@aloeandnatural](https://github.com/aloeandnatural)
 
 -[@SantiAndrade91](https://github.com/SantiAndrade91)
+
+-[@AxelZeta](https://github.com/AxelZeta)
+
+-[@ivsuleman](https://github.com/ivsuleman)
+
+-[@hhrishabh](https://github.com/hhrishabh)
+
+-[@Metexo](https://github.com/Metexo)
+
+-[@gabrielcon6](https://github.com/gabrielcon6)
+
+-[@MattKim](https://github.com/Mattswkim)
+
+-[@april9288](https://github.com/april9288)
+
+-[@Ghazalcode](https://github.com/Ghazalcode)
+
+-[@shubhamd99](https://github.com/shubhamd99/)
