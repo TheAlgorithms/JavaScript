@@ -3339,4 +3339,6 @@
 
 -[@kaniovsky](https://github.com/kaniovsky)
 
+-[@CaioQuirinoMedeiros](https://github.com/CaioQuirinoMedeiros)
+
 -[@melissendra](https://github.com/Melissendra)
