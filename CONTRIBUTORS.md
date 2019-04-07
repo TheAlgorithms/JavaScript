@@ -1,4 +1,4 @@
-# Contributors
+ # Contributors
 
 -[@maieuldelpino](https://github.com/maieuldelpino)
 
@@ -3370,3 +3370,5 @@
 -[@alium0978](https://github.com/alium0978)
 
 -[@finbarc](https://github.com/finbarc)
+
+-[@programmerRick](https://github.com/programmerRick)
