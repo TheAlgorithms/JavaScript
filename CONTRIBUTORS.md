@@ -35,6 +35,7 @@
 -[@UnknownFearNG](https://github.com/UnknownFearNG)
 
 -[@longgamegoodstride](https://github.com/longgamegoodstride)
+-[@toughguyas](https://github.com/toughguyas)
 
 -[@Virtual1](https://github.com/Virtual1)
 
@@ -3380,3 +3381,5 @@
 -[@dykrupp](https://github.com/dykrupp)
 
 -[@balagotb](https://github.com/balagotb)
+
+-[@GamerKingFaiz](https://github.com/GamerKingFaiz)
