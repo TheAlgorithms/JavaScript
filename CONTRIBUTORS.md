@@ -3397,3 +3397,7 @@
 -[@fusaeed](https://github.com/fusaeed)
 
 -[@pchandler858](https://github.com/pchandler858)
+
+-[@javascript2019](https://github.com/javascript2019)
+
+-[@devstudent89](https://github.com/devstudent89)
