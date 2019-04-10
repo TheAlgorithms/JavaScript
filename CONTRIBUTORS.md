@@ -3384,6 +3384,8 @@
 
 -[@HarshJoshiIIITV](https://github.com/HarshJoshiIIITV)
 
+-[@hafizjavaid](https://github.com/hafizjavaid)
+
 -[@thavadas](https://github.com/thavadas)
 
 -[@HaemeeNabors](https://github.com/HaemeeNabors)
