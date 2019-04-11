@@ -34,7 +34,9 @@
 
 -[@UnknownFearNG](https://github.com/UnknownFearNG)
 
--[@longgamegoodstride](https://github.com/longgamegoodstride) -[@toughguyas](https://github.com/toughguyas)
+-[@longgamegoodstride](https://github.com/longgamegoodstride)
+
+-[@toughguyas](https://github.com/toughguyas)
 
 -[@Virtual1](https://github.com/Virtual1)
 
@@ -3413,3 +3415,5 @@
 -[@DosticJelena](https://github.com/DosticJelena)
 
 -[@TechDan09](https://github.com/TechDan09)
+
+-[@mViolet](https://github.com/mViolet)
