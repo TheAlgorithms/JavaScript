@@ -3442,6 +3442,8 @@
 
 -[@JosePaya](https://github.com/JosePaya)
 
+-[@pasqat](https://github.com/Pasqat)
+
 -[@christhedn](https://github.com/christhedn)
 
 -[@shubhamsinghrathi](https://github.com/shubhamsinghrathi)
