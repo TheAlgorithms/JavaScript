@@ -2146,6 +2146,8 @@
 
 -[@Vyper248](https://github.com/Vyper248)
 
+-[@sherrybayor](https://github.com/sherrybayor)
+
 -[@may-a](https://github.com/may-a)
 
 -[@nkleene](https://github.com/nkleene)
