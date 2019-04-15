@@ -2146,6 +2146,8 @@
 
 -[@Vyper248](https://github.com/Vyper248)
 
+-[@sherrybayor](https://github.com/sherrybayor)
+
 -[@may-a](https://github.com/may-a)
 
 -[@nkleene](https://github.com/nkleene)
@@ -3441,3 +3443,17 @@
 -[@JosePaya](https://github.com/JosePaya)
 
 -[@Abd-Alwahab](https://github.com/Abd-Alwahab)
+
+-[@pasqat](https://github.com/Pasqat)
+
+-[@christhedn](https://github.com/christhedn)
+
+-[@shubhamsinghrathi](https://github.com/shubhamsinghrathi)
+
+-[@LucasPagliarin](https://github.com/lucaspagliarin)
+
+-[@DavidHDev](https://github.com/DavidHDev)
+
+-[@srkngrr](https://github.com/srkngrr)
+
+-[@chorzkie](https://github.com/chorzkie)
