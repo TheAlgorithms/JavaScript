@@ -46,6 +46,8 @@
 
 -[@carrn7k](https://github.com/carrn7k)
 
+-[@rnair98](https://github.com/rnair98)
+
 -[@eranseg74](https://github.com/eranseg74)
 
 -[@thisisAbdus](https://github.com/thisisabdus)
@@ -3076,7 +3078,7 @@
 
 -[@TheBawPilot06](https://github.com/TheBawPilot06)
 
--[@angeldev92](https://github.com/angeldev92)
+-[@angeltat](https://github.com/angeltat)
 
 -[@bhavik-desai](https://github.com/bhavik-desai)
 
@@ -3466,3 +3468,6 @@
 
 -[@allansendagi](https://github.com/allansendagi)
 
+-[@darshanaswani](https://github.com/darshanaswani)
+
+-[artofbeatbox](https://github.com/artofbeatbox)
