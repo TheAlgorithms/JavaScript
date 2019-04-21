@@ -3480,6 +3480,8 @@
 
 -[@VladimirMikulic](https://github.com/vladimirmikulic)
 
+-[@JeremyCurtis](https://github.com/jcurtis808)
+
 -[@mbhup](https://github.com/mbhup)
 
 -[@Thermiee](https://github.com/thermiee)
