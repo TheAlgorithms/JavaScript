@@ -3480,6 +3480,8 @@
 
 -[@VladimirMikulic](https://github.com/vladimirmikulic)
 
+-[@JeremyCurtis](https://github.com/jcurtis808)
+
 -[@mbhup](https://github.com/mbhup)
 
 -[@Thermiee](https://github.com/thermiee)
@@ -3491,3 +3493,5 @@
 -[@ssenyondobashir](https://github.com/ssenyondobashir/)
 
 -[@alhussuna](https://github.com/alhussuna)
+
+-[justjunkbinder](https://github.com/justjunkbinder/)
