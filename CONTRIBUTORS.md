@@ -1,5 +1,5 @@
 # Contributors
-
+-[@haack79](https://github.com/haack79)
 -[@maieuldelpino](https://github.com/maieuldelpino)
 
 -[@vladimircreative](https://github.com/vladimircreative)
