@@ -3540,3 +3540,5 @@
 -[@Tom-MengTong](https://github.com/Tom-MengTong)
 
 -[@abglassford](https://github.com/abglassford)
+
+-[@danielkri](https://github.com/danielkri)
