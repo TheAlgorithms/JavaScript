@@ -3541,4 +3541,6 @@
 
 -[@abglassford](https://github.com/abglassford)
 
+-[@danielkri](https://github.com/danielkri)
+
 -[@MartinBurton](https://github.com/MartinBurton)
