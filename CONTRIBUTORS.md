@@ -3519,6 +3519,8 @@
 
 -[@Wynforth33](https://github.com/Wynforth33)
 
+-[@jacqu3lin3](https://github.com/jacqu3lin3)
+
 -[@Kallinicos](https://github.com/Kallinicos)
 
 -[@ka-hn](https://github.com/ka-hn)
