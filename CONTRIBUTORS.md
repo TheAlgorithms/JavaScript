@@ -3555,7 +3555,7 @@
 
 -[@congw-syd](https://github.com/congw-syd)
 
--[@einat91] (https://github.com/einat91)
+-[@einat91](https://github.com/einat91)
 
 -[@mball028](https://github.com/mball028)
 
@@ -3568,3 +3568,7 @@
 -[@CigdemCos](https://github.com/CigdemCos)
 
 -[@githubannnn](https://github.com/githubannnn)
+
+-[@Get-Me-Josh](https://github.com/Get-Me-Josh)
+
+-[@shanesc](https://github.com/shanesc)
