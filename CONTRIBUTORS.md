@@ -1,4 +1,5 @@
 # Contributors
+-[@haack79](https://github.com/haack79)
 
 -[@maieuldelpino](https://github.com/maieuldelpino)
 
@@ -3164,6 +3165,8 @@
 
 -[@mrdor22](https://github.com/mrdor22)
 
+-[@RMF2PT](https://github.com/RMF2PT)
+
 -[@a510102](https://github.com/a510102)
 
 -[@alfredomota](https://github.com/alfredomota)
@@ -3517,3 +3520,57 @@
 -[@Wynforth33](https://github.com/Wynforth33)
 
 -[@jacqu3lin3](https://github.com/jacqu3lin3)
+
+-[@Kallinicos](https://github.com/Kallinicos)
+
+-[@ka-hn](https://github.com/ka-hn)
+
+-[@nbrown0000](https://github.com/nbrown0000)
+
+-[@lailaz1](https://github.com/lailaz1)
+
+-[@rjohnson91](https://github.com/rjohnson91)
+
+-[@jeremianGit](https://github.com/jeremianGit)
+
+-[@Manishbd17](https://github.com/Manishbd17)
+
+-[@droid021](https://github.com/droid021)
+
+-[@anup88born](https://github.com/anup88born)
+
+-[@Tom-MengTong](https://github.com/Tom-MengTong)
+
+-[@abglassford](https://github.com/abglassford)
+
+-[@Azghour-Saad](https://github.com/Azghour-Saad)
+
+-[@saborot](https://github.com/saborot)
+
+-[@danielkri](https://github.com/danielkri)
+
+-[@MartinBurton](https://github.com/MartinBurton)
+
+-[@aarveei](https://github.com/aarveei)
+
+-[@einat91](https://github.com/einat91)
+
+-[@congw-syd](https://github.com/congw-syd)
+
+-[@einat91](https://github.com/einat91)
+
+-[@mball028](https://github.com/mball028)
+
+-[@rasiyanir](https://github.com/rasiyanir)
+
+-[@lahla81](https://github.com/lahla81)
+
+-[@BassamKazemi](https://github.com/bassamkdev)
+
+-[@CigdemCos](https://github.com/CigdemCos)
+
+-[@githubannnn](https://github.com/githubannnn)
+
+-[@Get-Me-Josh](https://github.com/Get-Me-Josh)
+
+-[@shanesc](https://github.com/shanesc)
