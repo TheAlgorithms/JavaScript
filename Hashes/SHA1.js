@@ -45,7 +45,7 @@ function chunkify(str, size) {
 }
 
 /**
- * Rotates string represention of bits to th left
+ * Rotates string representation of bits to the left
  *
  * @param {string} bits - string representation of bits
  * @param {int} turns - number of rotations to make
@@ -65,7 +65,7 @@ function rotateLeft(bits, turns) {
  * @return {string} - processed message
  */
 function preProcess(message) {
-    //covert message to binary representation padded to
+    //convert message to binary representation padded to
     //8 bits, and add 1
     let m = message.split("")
         .map(e => e.charCodeAt(0))
