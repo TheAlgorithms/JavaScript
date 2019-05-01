@@ -113,7 +113,6 @@ function SHA1(message) {
         for (let i = 16; i < 80; i++) {
             let val = [words[i - 3], words[i - 8], words[i - 14], words[i - 16]]
                 .map(e => parseInt(e, 2))
-                .map(e => e >>> 0)
                 .reduce((acc, curr) => curr ^ acc, 0);
             let bin = (val >>> 0).toString(2);
             let paddedBin = pad(bin, 32);
