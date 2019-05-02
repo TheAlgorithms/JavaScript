@@ -7,6 +7,8 @@
 
 -[@crypt0nate](https://github.com/crypt0nate)
 
+-[@insertmike](https://github.com/insertmike)
+
 -[@devinekadeni](https://github.com/devinekadeni)
 
 -[@zoeferencova](https://github.com/zoeferencova)
