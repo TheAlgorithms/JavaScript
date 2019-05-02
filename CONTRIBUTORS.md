@@ -1,4 +1,5 @@
 # Contributors
+
 -[@haack79](https://github.com/haack79)
 
 -[@maieuldelpino](https://github.com/maieuldelpino)
@@ -3578,6 +3579,8 @@
 -[@shanesc](https://github.com/shanesc)
 
 -[@awijaya22](https://github.com/awijaya22)
+
+-[@itzr](https://github.com/itzr)
 
 -[@Maryghasemiau](https://github.com/Maryghasemiau)
 
