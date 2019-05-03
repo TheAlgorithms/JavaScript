@@ -1,4 +1,5 @@
 # Contributors
+
 -[@haack79](https://github.com/haack79)
 
 -[@maieuldelpino](https://github.com/maieuldelpino)
@@ -6,6 +7,8 @@
 -[@vladimircreative](https://github.com/vladimircreative)
 
 -[@crypt0nate](https://github.com/crypt0nate)
+
+-[@insertmike](https://github.com/insertmike)
 
 -[@devinekadeni](https://github.com/devinekadeni)
 
@@ -3519,6 +3522,8 @@
 
 -[@Wynforth33](https://github.com/Wynforth33)
 
+-[@jacqu3lin3](https://github.com/jacqu3lin3)
+
 -[@Kallinicos](https://github.com/Kallinicos)
 
 -[@ka-hn](https://github.com/ka-hn)
@@ -3555,10 +3560,32 @@
 
 -[@congw-syd](https://github.com/congw-syd)
 
--[@einat91] (https://github.com/einat91)
+-[@einat91](https://github.com/einat91)
 
 -[@mball028](https://github.com/mball028)
 
 -[@rasiyanir](https://github.com/rasiyanir)
 
 -[@keegansf](https://github.com/keegansf)
+
+-[@lahla81](https://github.com/lahla81)
+
+-[@BassamKazemi](https://github.com/bassamkdev)
+
+-[@CigdemCos](https://github.com/CigdemCos)
+
+-[@githubannnn](https://github.com/githubannnn)
+
+-[@Git-Me-Josh](https://github.com/Git-Me-Josh)
+
+-[@shanesc](https://github.com/shanesc)
+
+-[@awijaya22](https://github.com/awijaya22)
+
+-[@rakezt](https://github.com/rakezt)
+
+-[@itzr](https://github.com/itzr)
+
+-[@Maryghasemiau](https://github.com/Maryghasemiau)
+
+-[@ashkankardan](https://github.com/ashkankardan)
