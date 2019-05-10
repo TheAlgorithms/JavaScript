@@ -116,6 +116,18 @@ __Properties__
 * Average case performance	O(log n)
 * Worst case space complexity	O(1) 
 
+### Jump
+![alt-text][jump-image]
+
+From [Wikipedia][jump-wiki]: Jump search or block search refers to a search algorithm for ordered lists. It works by first checking all items Lkm, where {\displaystyle k\in \mathbb {N} } k\in \mathbb {N} and m is the block size, until an item is found that is larger than the search key. To find the exact position of the search key in the list a linear search is performed on the sublist L[(k-1)m, km].
+
+__Properties__
+* Worst case performance  O(n)
+* Best case performance O(√n)
+* Average case performance  O(√n)
+* Worst case space complexity O(1) 
+
+
 ----------------------------------------------------------------------------------------------------------------------
 
 ## Ciphers
@@ -176,6 +188,9 @@ The Luhn algorithm or Luhn formula, also known as the "modulus 10" or "mod 10" a
 
 [binary-wiki]: https://en.wikipedia.org/wiki/Binary_search_algorithm
 [binary-image]: https://upload.wikimedia.org/wikipedia/commons/f/f7/Binary_search_into_array.png
+
+[jump-wiki]: https://en.wikipedia.org/wiki/Jump_search
+[jump-image]: https://i1.wp.com/theoryofprogramming.com/wp-content/uploads/2016/11/jump-search-1.jpg
 
 
 [caesar]: https://upload.wikimedia.org/wikipedia/commons/4/4a/Caesar_cipher_left_shift_of_3.svg
