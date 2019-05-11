@@ -1,5 +1,7 @@
 # Contributors
 
+-[@priyo153](https://github.com/priyo153)
+
 -[@ron1722](https://github.com/ron1722)
 
 -[@haack79](https://github.com/haack79)
@@ -3616,6 +3618,8 @@
 
 -[@MichaelRendon](https://github.com/MichaelRendon)
 
+-[@hereisfahad](https://github.com/hereisfahad)
+
 -[@tjperez](https://github.com/tjperez)
 
 -[@AbbyJoe](https://github.com/AbbyJoe)
@@ -3651,3 +3655,8 @@
 -[@CarlaCarrasco](https://github.com/CarlaCarrasco)
 
 -[@kwesihackman](https://github.com/kwesihackman)
+
+-[@bavariah](https://github.com/bavariah)
+
+-[@rbabatunde](https://github.com/rbabatunde)
+
