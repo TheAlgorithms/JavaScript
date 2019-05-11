@@ -64,6 +64,8 @@
 
 -[@ccmurdoc](https://github.com/ccmurdoc)
 
+-[@DaveF118](https://github.com/DaveF118)
+
 -[@aneagoie](https://github.com/aneagoie)
 
 -[@navaneethreddy123](https://github.com/navaneethreddy123)
@@ -289,6 +291,8 @@
 -[@wpowers42](https://github.com/wpowers42)
 
 -[@vtam2012](https://github.com/vtam2012)
+
+-[@ddoyediran](https://github.com/ddoyediran)
 
 -[@famousmighodaro](https://github.com/famousmighodaro)
 
@@ -3643,3 +3647,5 @@
 -[@neoleecid](https://github.com/neoleecid)
 
 -[@MowlCoder](https://github.com/MowlCoder)
+
+-[@CarlaCarrasco](https://github.com/CarlaCarrasco)
