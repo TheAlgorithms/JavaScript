@@ -1,5 +1,7 @@
 # Contributors
 
+-[@priyo153](https://github.com/priyo153)
+
 -[@ron1722](https://github.com/ron1722)
 
 -[@haack79](https://github.com/haack79)
@@ -291,6 +293,8 @@
 -[@wpowers42](https://github.com/wpowers42)
 
 -[@vtam2012](https://github.com/vtam2012)
+
+-[@ddoyediran](https://github.com/ddoyediran)
 
 -[@famousmighodaro](https://github.com/famousmighodaro)
 
@@ -3614,6 +3618,8 @@
 
 -[@MichaelRendon](https://github.com/MichaelRendon)
 
+-[@hereisfahad](https://github.com/hereisfahad)
+
 -[@tjperez](https://github.com/tjperez)
 
 -[@AbbyJoe](https://github.com/AbbyJoe)
@@ -3644,6 +3650,11 @@
 
 -[@neoleecid](https://github.com/neoleecid)
 
+-[@MowlCoder](https://github.com/MowlCoder)
+
 -[@CarlaCarrasco](https://github.com/CarlaCarrasco)
 
 -[@bavariah](https://github.com/bavariah)
+
+-[@rbabatunde](https://github.com/rbabatunde)
+
