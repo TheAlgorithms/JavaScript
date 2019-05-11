@@ -64,6 +64,8 @@
 
 -[@ccmurdoc](https://github.com/ccmurdoc)
 
+-[@DaveF118](https://github.com/DaveF118)
+
 -[@aneagoie](https://github.com/aneagoie)
 
 -[@navaneethreddy123](https://github.com/navaneethreddy123)
