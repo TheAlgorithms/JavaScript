@@ -1,5 +1,9 @@
 # Contributors
 
+-[@priyo153](https://github.com/priyo153)
+
+-[@ron1722](https://github.com/ron1722)
+
 -[@haack79](https://github.com/haack79)
 
 -[@maieuldelpino](https://github.com/maieuldelpino)
@@ -61,6 +65,8 @@
 -[@uhayon](https://github.com/uhayon)
 
 -[@ccmurdoc](https://github.com/ccmurdoc)
+
+-[@DaveF118](https://github.com/DaveF118)
 
 -[@aneagoie](https://github.com/aneagoie)
 
@@ -287,6 +293,8 @@
 -[@wpowers42](https://github.com/wpowers42)
 
 -[@vtam2012](https://github.com/vtam2012)
+
+-[@ddoyediran](https://github.com/ddoyediran)
 
 -[@famousmighodaro](https://github.com/famousmighodaro)
 
@@ -3568,6 +3576,8 @@
 
 -[@keegansf](https://github.com/keegansf)
 
+-[@rahilhasnani95](https://github.com/rahilhasnani95)
+
 -[@lahla81](https://github.com/lahla81)
 
 -[@BassamKazemi](https://github.com/bassamkdev)
@@ -3609,3 +3619,37 @@
 -[@MichaelRendon](https://github.com/MichaelRendon)
 
 -[@hereisfahad](https://github.com/hereisfahad)
+
+-[@tjperez](https://github.com/tjperez)
+
+-[@AbbyJoe](https://github.com/AbbyJoe)
+
+-[@Surelinks](https://github.com/Surelinks)
+
+-[@Ron1722](https://github.com/ron1722)
+
+-[@rahilhasnani95](https://github.com/rahilhasnani95)
+
+-[@consDev](https://github.com/consDev)
+
+-[@RobLouisCK](https://github.com/Roblouisck)
+
+-[@annaperic](https://github.com/annaperic)
+
+-[@ialish](https://github.com/ialish)
+
+-[@kposlek](https://github.com/kposlek)
+
+-[@shnibble](https://github.com/shnibble)
+
+-[@rporopat](https://github.com/rporopat)
+
+-[@dwheeldo](https://github.com/dwheeldo)
+
+-[@rushingMarina](https://github.com/rushingMarina)
+
+-[@neoleecid](https://github.com/neoleecid)
+
+-[@MowlCoder](https://github.com/MowlCoder)
+
+-[@CarlaCarrasco](https://github.com/CarlaCarrasco)
