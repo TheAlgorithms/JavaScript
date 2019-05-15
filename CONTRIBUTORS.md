@@ -3670,6 +3670,8 @@
 
 -[@jenesh](https://github.com/jenesh)
 
+-[@trung](https://github.com/trung2012)
+
 -[@francofle](https://github.com/francofle)
 
 -[@florxgomez](https://github.com/florxgomez)
