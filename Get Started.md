@@ -17,13 +17,13 @@ Along with learning new skills, you will also gain experience on projects you ca
 # You have 2 options: Join an exisitng project or Create a new project:
 
 ## Option 1: Join a project
-Joining a project is pretty simple, checkout the [current projects below](https://github.com/MattCSmith/ZTM-Planning/new/master#mappypals) and find one you would like to participate in. Check out the project readme in its repo, it will have a guide on how to get started!
+Joining a project is pretty simple, checkout the [current projects](https://github.com/zero-to-mastery) and find one you would like to participate in. Check out the project README in its repo as it will have a guide on how to get started!
 
 **Please note:** Whilst working on any project is the Zero To Mastery community, you must adhere to our code of conduct, which can be found [here](https://github.com/zero-to-mastery/mappypals/blob/master/CONTRIBUTING.md#code-of-conduct)
 
 ## Option 2: Create a project
-We are always on the look out for new and exciting project to add to Zero to Mastery for you all to collaborate on! If you think you have an new and exciting project the community would love to get involved in, here is the process for getting it listed:
-- Reach out to a member of the Management Team, with a detailed project brief
+We are always on the look out for new and exciting project to add to Zero to Mastery for you all to collaborate on! If you think you have an new and exciting projec/idea the community would love to get involved in, here is the process for getting it listed:
+- Reach out to a member of the Management Team on our Discord server, with a detailed project brief
 - Management team will consider if the project is something that would work well with the community
 - A Repository will be created and the project will be announced in #current-project channel in our Discord server and featured during an upcoming announcement by Andrei
 - If the project has enough demand, a dedicated channel will be created to accomodate discussions. 
@@ -35,9 +35,7 @@ In order to ensure that students hard work and time are not exploited, there are
 - The project must contain and adher to the `code of conduct` guide found [here](https://github.com/zero-to-mastery/mappypals/blob/master/CONTRIBUTING.md#code-of-conduct)
 
 ## Current Projects
-You can view all current projects at 
-
-or you can view the specific #current-projects channel in our Discord Community that gives you a little more detail on each project. 
+You can view all current projects [here](https://github.com/zero-to-mastery) or you can view the specific #current-projects channel in our Discord Community that gives you a little more detail on each project. 
 
 ## What is open source?
 
