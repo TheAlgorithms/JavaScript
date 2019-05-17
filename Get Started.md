@@ -4,6 +4,40 @@ Getting started with open-source can be a difficult task, not only because we ar
 
 It may appear a very challenging and overwhelming task at first but it is, in fact, a fun and rewarding experience.
 
+# Community Collaboration Projects
+After the fantastic success that [Mappypals](https://github.com/zero-to-mastery/mappypals) is seeing and the high demand for similar projects, we would like to trial some community lead projects. 
+Providing the opportunity for you to flex you developer muscles, whilst working within a team of developers. Gaining valuable skills, employers are always seeking, such as:
+- **Communincation and collaboration** - Being able to work in a team and communicating effectivly is a very important skill
+- **Github and source control** - In these projects you will have the opportunity to understand, why branching is important along with other key github skills.
+- **New stacks and technologies** - Each project is likely to use slighly varying stacks, providing the opportunity to jump into something new
+
+Along with learning new skills, you will also gain experience and projects you can start to list on your Resume/CV and building out your commit history on Github, which employers love!
+
+# You have 2 options: Join an exisitng project or Create a new project:
+
+## Option 1: Join a project
+Joining a project is pretty simple, checkout the [current projects below](https://github.com/MattCSmith/ZTM-Planning/new/master#mappypals) and find one you would like to participate in. Check out the project readme in its repo, it will have a guide on how to get started!
+
+**Please note:** Whilst working on any project is the Zero To Mastery community, you must adhere to our code of conduct, which can be found [here](https://github.com/zero-to-mastery/mappypals/blob/master/CONTRIBUTING.md#code-of-conduct)
+
+## Option 2: Create a project
+We are always on the look out for new and exciting project to add to Zero to Mastery for you all to collaborate on! If you think you have an new and exciting project the community would love to get involved in, here is the process for getting it listed:
+- Reach out to a member of the Management Team, with a detailed project brief
+- Management team will consider if the project is something that would work well with the community
+- A Repository will be created and the project will be announced in #current-project channel in our Discord server and featured during an upcoming announcement by Andrei
+- If the project has enough demand, a dedicated channel will be created to accomodate discussions. 
+
+### **Rules**
+In order to ensure that students hard work and time are not exploited, there are a couple of rules that will need to be followed for any project:
+- The project repo and discussion channels, will be hosted under the Zero To Mastery Github organization/Discord Server
+- The project must use the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)
+- The project must contain and adher to the `code of conduct` guide found [here](https://github.com/zero-to-mastery/mappypals/blob/master/CONTRIBUTING.md#code-of-conduct)
+
+## Current Projects
+You can view all current projects at 
+
+or you can view the specific #current-projects channel in our Discord Community that gives you a little more detail on each project. 
+
 ## What is open source?
 
 Open source is the original way of creating software – in an open, transparent and collaborative manner. “[What is free software?](https://www.gnu.org/philosophy/free-sw.en.html)" and “[What is open source?](https://opensource.com/resources/what-open-source)" are good overviews of the subject.
