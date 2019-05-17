@@ -3691,3 +3691,9 @@
 -[@acwander](https://github.com/acwander)
 
 -[@david-mateogit](https://github.com/david-mateogit)
+
+-[@gmagnenat](https://github.com/gmagnenat)
+
+-[@juarezpistore](https://github.com/juarezpistore)
+
+-[@imdoingotherthings](https://github.com/imdoingotherthings)
