@@ -11,7 +11,8 @@ Providing the opportunity for you to flex you developer muscles, whilst working 
 - **Github and source control** - In these projects you will have the opportunity to understand, why branching is important along with other key github skills.
 - **New stacks and technologies** - Each project is likely to use slighly varying stacks, providing the opportunity to jump into something new
 
-Along with learning new skills, you will also gain experience and projects you can start to list on your Resume/CV and building out your commit history on Github, which employers love!
+# How You Benefit
+Along with learning new skills, you will also gain experience on projects you can start to list on your Resume/CV. In addition, you will build out your commit history on Github, which employers love! But most importantly, you will learn to work in teams which is one of the most important skills to be a top developer.
 
 # You have 2 options: Join an exisitng project or Create a new project:
 
