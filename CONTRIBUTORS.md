@@ -3690,4 +3690,6 @@
 
 -[@acwander](https://github.com/acwander)
 
+-[@juarezpistore](https://github.com/juarezpistore)
+
 -[@imdoingotherthings](https://github.com/imdoingotherthings)
