@@ -1520,6 +1520,8 @@
 
 -[@mazzi](https://github.com/marcusazzi)
 
+-[@trstevens](https://github.com/trstevens)
+
 -[@alexkayuda](https://github.com/alexkayuda)
 
 -[@jramon1995](https://github.com/jramon1995)
