@@ -3770,6 +3770,8 @@
 
 -[@ucod3](https://github.com/ucod3)
 
+-[@emersonfnascimento](https://github.com/emersonfnascimento)
+
 -[@rhparker10](https://github.com/rhparker10)
 
 -[@bpoklar](https://github.com/bpoklar)
