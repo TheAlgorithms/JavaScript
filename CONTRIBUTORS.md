@@ -20,6 +20,8 @@
 
 -[@zoeferencova](https://github.com/zoeferencova)
 
+-[@suvidsahay](https://github.com/suvidsahay)
+
 -[@lucievr](https://github.com/lucievr)
 
 -[@sandipguchait](https://github.com/sandipguchait)
@@ -3714,6 +3716,8 @@
 
 -[@danielgnz](https://github.com/danielgnz)
 
+-[@mfukazawa](https://github.com/MFukazawa)
+
 -[@Ablie](https://github.com/Ablie)
 
 -[@prkmhl](https://github.com/prkmhl)
@@ -3767,3 +3771,7 @@
 -[@ucod3](https://github.com/ucod3)
 
 -[@emersonfnascimento](https://github.com/emersonfnascimento)
+
+-[@rhparker10](https://github.com/rhparker10)
+
+-[@bpoklar](https://github.com/bpoklar)
