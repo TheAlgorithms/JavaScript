@@ -20,6 +20,8 @@
 
 -[@zoeferencova](https://github.com/zoeferencova)
 
+-[@suvidsahay](https://github.com/suvidsahay)
+
 -[@lucievr](https://github.com/lucievr)
 
 -[@sandipguchait](https://github.com/sandipguchait)
