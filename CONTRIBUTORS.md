@@ -1,5 +1,7 @@
 # Contributors
 
+-[@j-guerrero](https://github.com/j-guerrero)
+
 -[@priyo153](https://github.com/priyo153)
 
 -[@ron1722](https://github.com/ron1722)
@@ -17,6 +19,8 @@
 -[@devinekadeni](https://github.com/devinekadeni)
 
 -[@zoeferencova](https://github.com/zoeferencova)
+
+-[@suvidsahay](https://github.com/suvidsahay)
 
 -[@lucievr](https://github.com/lucievr)
 
@@ -1517,6 +1521,8 @@
 -[@jvinjam](https://github.com/jvinjam)
 
 -[@mazzi](https://github.com/marcusazzi)
+
+-[@trstevens](https://github.com/trstevens)
 
 -[@alexkayuda](https://github.com/alexkayuda)
 
@@ -3030,6 +3036,8 @@
 
 -[@dwongdev](https://github.com/dwongdev)
 
+-[@Niweera](https://github.com/Niweera)
+
 -[@maykl4iv](https://github.com/maykl4iv)
 
 -[@benjaminalcala](https://github.com/benjaminalcala)
@@ -3709,3 +3717,57 @@
 -[@danielgnz](https://github.com/danielgnz)
 
 -[@mfukazawa](https://github.com/MFukazawa)
+
+-[@Ablie](https://github.com/Ablie)
+
+-[@prkmhl](https://github.com/prkmhl)
+
+-[@D-Roberts-2019](https://github.com/D-Roberts-2019)
+
+-[@jvelardi](https://github.com/jvelardi)
+
+-[@Andrei-Ionita](https://github.com/Andrei-Ionita)
+
+-[@stathisR](https://github.com/stathisR)
+
+-[@ktaulman](https://github.com/ktaulman)
+
+-[@Gameboy98](https://github.com/Gameboy98)
+
+-[Christian Parraga](https://github.com/chispofish)
+
+-[@Sid200026](https://github.com/Sid200026)
+
+-[@boogcephas](https://github.com/boogcephas)
+
+-[@jtrcarlos](https://github.com/jtrcarlos)
+
+-[@ZooYo](https://github.com/ZooYo)
+
+-[@jiochoa](https://github.com/jiochoa)
+
+-[@VoidChips](https://github.com/VoidChips)
+
+-[@hightower86](https://github.com/hightower86)
+
+-[@halilguler](https://github.com/halilguler)
+
+-[@davidoliver278](https://github.com/davidoliver278)
+
+-[@mpardo590](https://github.com/mpardo590)
+
+-[@xoswabe](https://github.com/xoswabe)
+
+-[@BadarSaleem](https://github.com/BadarSaleem)
+
+-[@Doina](https://github.com/doina10)
+
+-[@dalicode](https://github.com/dalicode)
+
+-[@lucierabahi](https://github.com/lucierabahi)
+
+-[@nicolaslabellaciancio](https://github.com/nicolaslabellaciancio)
+
+-[@ucod3](https://github.com/ucod3)
+
+-[@bpoklar](https://github.com/bpoklar)
