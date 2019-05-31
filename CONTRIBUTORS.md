@@ -1,5 +1,7 @@
 # Contributors
 
+-[@TrojinCat](https://github.com/TrojinCat)
+
 -[@j-guerrero](https://github.com/j-guerrero)
 
 -[@priyo153](https://github.com/priyo153)
@@ -3799,3 +3801,5 @@
 -[@cesarmarroquin09](https://github.com/cesarmarroquin09)
 
 -[@ianholl](https://github.com/ianholl)
+
+-[@SergeZ11](https://github.com/SergeZ11)
