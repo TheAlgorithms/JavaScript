@@ -3785,3 +3785,13 @@
 -[@bpoklar](https://github.com/bpoklar)
 
 -[@escleonh](https://github.com/escleonh)
+
+-[@nivi888](https://github.com/nivi888)
+
+-[@michalkruk](https://github.com/michalkruk)
+
+-[@fescobar-2](https://github.com/fescobar-2)
+
+-[@sylmile](https://github.com/Sylmile)
+
+-[@cesarmarroquin09](https://github.com/cesarmarroquin09)
