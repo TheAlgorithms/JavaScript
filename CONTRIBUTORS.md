@@ -3814,4 +3814,8 @@
 
 -[@mscates](https://github.com/mscates)
 
+-[@gazjosef](https://github.com/gazjosef)
+
+-[@afreekamode](https://github.com/afreekamode)
+
 -[@bearnacki](https://github.com/bearnacki)
