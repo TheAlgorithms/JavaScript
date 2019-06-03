@@ -3813,3 +3813,15 @@
 -[@Kristian383](https://github.com/Kristian383)
 
 -[@afeezdev](https://github.com/afeezdev)
+
+-[@Himanshu-Dev1](https://github.com/Himanshu-Dev1)
+
+-[@mscates](https://github.com/mscates)
+
+-[@gazjosef](https://github.com/gazjosef)
+
+-[@afreekamode](https://github.com/afreekamode)
+
+-[@bearnacki](https://github.com/bearnacki)
+
+-[@ychalfari](https://github.com/YChalfari)
