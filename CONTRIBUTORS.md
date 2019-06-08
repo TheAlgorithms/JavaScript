@@ -3840,6 +3840,8 @@
 
 -[@codedCoderr](https://github.com/codedCoderr)
 
+-[@ashrofdev](https://github.com/ashrofdev)
+
 -[@DIMM96](https://github.com/DIMM96)
 
 -[@lilian-n](https://github.com/lilian-n)
@@ -3857,3 +3859,11 @@
 -[@leejooho77](https://github.com/leejooho77)
 
 -[@dominikbn](https://github.com/dominikbn)
+
+-[@AdarshPeri](https://github.com/AdarshPeri)
+
+-[@IDTitanium](https://github.com/IDTitanium)
+
+-[@daacode](https://github.com/daacode)
+
+-[@theodorenguyen45](https://github.com/theodorenguyen45)
