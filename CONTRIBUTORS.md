@@ -3696,6 +3696,8 @@
 
 -[@seckintayfun](https://github.com/seckintayfun)
 
+-[@ColdBadger](https://github.com/ColdBadger)
+
 -[@danishsharma13](https://github.com/danishsharma13)
 
 -[@acwander](https://github.com/acwander)
@@ -3898,6 +3900,10 @@
 
 -[@OceanU](https://github.com/OceanU)
 
+-[@masooddev](https://github.com/masooddev)
+
+-[@demhaq](https://github.com/demhaq)
+
 -[@SamRaha](https://github.com/SamRaha)
 
 -[@shantanu28sharma](https://github.com/shantanu28sharma)
@@ -3909,3 +3915,7 @@
 -[@masooddev](https://github.com/masooddev)
 
 -[@Arun179](https://github.com/Arun179)
+
+-[@jamaladnan](https://github.com/jamaladnan)
+
+-[@tejusk06](https://github.com/masooddev)
