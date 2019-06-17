@@ -403,6 +403,10 @@
 
 -[@jadepage](https://github.com/jadepage)
 
+-[@tomasmejia](https://github.com/tomasmejia)
+
+-[@tilakshrma](https://github.com/TilakShrma)
+
 -[@tpohchai](https://github.com/tpohchai)
 
 -[@tomasmejia](https://github.com/tomasmejia)
@@ -3929,8 +3933,14 @@
 
 -[@besartademi](https://github.com/besartademi)
 
+-[@mehul1011](https://github.com/mehul1011)
+
 -[@aryantane](https://github.com/aryantane)
 
 -[@drblack1](https://github.com/DrBlack1)
 
 -[@peteyjoe](https://github.com/peteyjoe)
+
+-[@percoscode](https://github.com/percoscode)
+
+-[@thomasgilmore95](https://github.com/thomasgilmore95)
