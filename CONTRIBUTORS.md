@@ -1055,6 +1055,8 @@
 
 -[@rohitlode](https://github.com/rohitlode)
 
+-[@VladimirKlimovProg](https://github.com/VladimirKlimovProg)
+
 -[@dogbeide](https://github.com/dogbeide)
 
 -[@steoneill](https://github.com/steoneill)
