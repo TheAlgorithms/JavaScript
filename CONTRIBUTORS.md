@@ -1055,6 +1055,8 @@
 
 -[@rohitlode](https://github.com/rohitlode)
 
+-[@VladimirKlimovProg](https://github.com/VladimirKlimovProg)
+
 -[@dogbeide](https://github.com/dogbeide)
 
 -[@steoneill](https://github.com/steoneill)
@@ -3958,3 +3960,18 @@
 -[@saurabhanand7](https://github.com/saurabhanand7)
 
 -[@Tanner016](https://github.com/Tanner016)
+
+-[@netanelfischer](https://github.com/netanelfischer)
+
+-[@rizwanrajput](https://github.com/rizwanrajput)
+
+-[@StrikerOne65](https://github.com/StrikerOne65)
+
+-[@venigallapraveen](https://github.com/venigallapraveen)
+
+-[@asathiya007](https://github.com/asathiya007)
+
+-[@illlama](https://github.com/illlama)
+
+-[@kamrannv](https://github.com/kamrannv)
+
