@@ -30,6 +30,8 @@
 
 -[@Geterp](https://github.com/Geterp)
 
+-[@Aravind](https://github.com/aravindeesh)
+
 -[@eduardoenari](https://github.com/eduardoenari)
 
 -[@Mia-Wenjin-Z](https://github.com/Mia-Wenjin-Z)
@@ -3958,6 +3960,8 @@
 
 -[@saurabhanand7](https://github.com/saurabhanand7)
 
+-[@Tanner016](https://github.com/Tanner016)
+
 -[@netanelfischer](https://github.com/netanelfischer)
 
 -[@rizwanrajput](https://github.com/rizwanrajput)
@@ -3973,3 +3977,35 @@
 -[@kamrannv](https://github.com/kamrannv)
 
 -[@mneamtu](https://github.com/mneamtu)
+
+-[@connectthapa](https://github.com/ThapaRahul)
+
+-[@srikanthkkolli](https://github.com/srikanthkkolli)
+
+-[@vincent11235](https://github.com/vincent11235)
+
+-[@robyoung91](https://github.com/robyoung91)
+
+-[@patyattack](https://github.com/patyattack)
+
+-[@dgovnor](https://github.com/dgovnor)
+
+-[@jindals18](https://github.com/jindals18)
+
+-[@tonyc0903](https://github.com/tonyc0903)
+
+-[@nealdennis](https://github.com/nealdennis)
+
+-[@henry1480](https://github.com/Henry1480)
+
+-[@UMN-HKC](https://github.com/UMN-HKC)
+
+-[@rsdourado](https://github.com/rsdourado)
+
+-[@yaellandau](https://github.com/yaellandau)
+
+-[@amenchrist](https://github.com/amenchrist)
+
+-[@andrewminai24](https://github.com/andrewminai24)
+
+-[@arvindx](https://github.com/arvindx)
