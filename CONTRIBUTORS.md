@@ -3959,6 +3959,8 @@
 
 -[@saurabhanand7](https://github.com/saurabhanand7)
 
+-[@Tanner016](https://github.com/Tanner016)
+
 -[@netanelfischer](https://github.com/netanelfischer)
 
 -[@rizwanrajput](https://github.com/rizwanrajput)
@@ -3972,4 +3974,9 @@
 -[@illlama](https://github.com/illlama)
 
 -[@kamrannv](https://github.com/kamrannv)
+
 -[@yaellandau](https://github.com/yaellandau)
+
+-[@amenchrist](https://github.com/amenchrist)
+
+-[@andrewminai24](https://github.com/andrewminai24)
