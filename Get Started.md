@@ -1,8 +1,8 @@
 # Getting Started
 
-Getting started with open-source can be a difficult task, not only because we are being introduced to some new technologies but also because most of us have never worked in a collaborative environment before, which is one of the most important skills anyone could acquire, not only in the coding and programming area.
+Getting started with open-source can be a difficult task, not only because we are being introduced to some new technologies, but also because most of us have never worked in a collaborative environment before. Being able to work in a collaborative environment is one of the most important skills anyone could acquire, not only in the coding and programming area, but in life. 
 
-It may appear a very challenging and overwhelming task at first but it is, in fact, a fun and rewarding experience.
+It may appear a very challenging and overwhelming task at first, but it is, in fact, a fun and rewarding experience.
 
 # Community Collaboration Projects
 After the fantastic success that [Mappypals](https://github.com/zero-to-mastery/mappypals) is seeing and the high demand for similar projects, we would like to trial some community lead projects. 
