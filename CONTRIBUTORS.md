@@ -1,5 +1,7 @@
 # Contributors
 
+-[@JARL076](https://github.com/JARL076)
+
 -[@TrojinCat](https://github.com/TrojinCat)
 
 -[@j-guerrero](https://github.com/j-guerrero)
