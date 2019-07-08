@@ -4095,3 +4095,7 @@
 -[@ivand521](https://github.com/ivand521)
 
 -[@steveburton](https://github.com/SteveBurtonWebDev)
+
+-[@PatrikPajer](https://github.com/PatrikPajer)
+
+-[@nishavlog](https://github.com/nishavlog)
