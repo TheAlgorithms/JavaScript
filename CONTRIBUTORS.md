@@ -8,6 +8,8 @@
 
 -[@j-guerrero](https://github.com/j-guerrero)
 
+-[@mmartin1123](https://github.com/mmartin1123)
+
 -[@priyo153](https://github.com/priyo153)
 
 -[@ron1722](https://github.com/ron1722)
@@ -3788,6 +3790,8 @@
 
 -[@lucierabahi](https://github.com/lucierabahi)
 
+-[@jakewaldock](https://githubcom/jakewaldock)
+
 -[@nicolaslabellaciancio](https://github.com/nicolaslabellaciancio)
 
 -[@ucod3](https://github.com/ucod3)
@@ -4153,3 +4157,7 @@
 -[@Joeyka009](https://github.com/joeyka009)
 
 -[@lachlanwhelan](https://github.com/lachlanwhelan)
+
+-[@AyoubIssaad](https://github.com/AyoubIssaad)
+
+-[@nathanrajkumar](https://github.com/nathanrajkumar)
