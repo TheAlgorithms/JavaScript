@@ -3790,6 +3790,8 @@
 
 -[@lucierabahi](https://github.com/lucierabahi)
 
+-[@jakewaldock](https://githubcom/jakewaldock)
+
 -[@nicolaslabellaciancio](https://github.com/nicolaslabellaciancio)
 
 -[@ucod3](https://github.com/ucod3)
