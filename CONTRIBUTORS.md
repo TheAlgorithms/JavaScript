@@ -4198,5 +4198,3 @@
 -[@lurkaround](https://github.com/lurkaround)
 
 -[@happilyeveranalyst](https://github.com/happilyeveranalyst)
-
--[@Tingate](https://github.com/Tingate)
