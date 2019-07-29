@@ -2764,6 +2764,7 @@
 -[@adam-weiler](https://github.com/adam-weiler)
 
 -[@johnbolling](https://github.com/johnbolling)
+-[@thecoderhero](https://github.com/thecoderhero)
 
 -[@ThaerMun](https://github.com/ThaerMun)
 
