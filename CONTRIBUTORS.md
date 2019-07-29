@@ -2764,6 +2764,7 @@
 -[@adam-weiler](https://github.com/adam-weiler)
 
 -[@johnbolling](https://github.com/johnbolling)
+-[@thecoderhero](https://github.com/thecoderhero)
 
 -[@ThaerMun](https://github.com/ThaerMun)
 
@@ -4250,3 +4251,5 @@
 -[@afraz](https://github.com/afrazz) 
 
 -[@Kossaby-Dev](https://github.com/Kossaby-Dev)
+
+-[@mihaibnk997](https://github.com/mihaibnk997)
