@@ -4262,6 +4262,8 @@
 
 -[@sevydev](https://github.com/sevydev)
 
+-[@naimiii](https://github.com/naimiii)
+
 -[@shivppatel](https://github.com/shivppatel)
 
 -[@lderum](https://github.com/lderum)
