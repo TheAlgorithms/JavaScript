@@ -4262,6 +4262,8 @@
 
 -[@sevydev](https://github.com/sevydev)
 
+-[@shivppatel](https://github.com/shivppatel)
+
 -[@lderum](https://github.com/lderum)
 
 -[@borason](https://github.com/borason)
