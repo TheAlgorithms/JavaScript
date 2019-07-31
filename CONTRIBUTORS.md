@@ -4248,7 +4248,7 @@
 
 -[@osumgbachiamaka](https://github.com/osumgbachiamaka)
 
--[@afraz](https://github.com/afrazz) 
+-[@afraz](https://github.com/afrazz)
 
 -[@mihaibnk997](https://github.com/mihaibnk997)
 
@@ -4263,3 +4263,9 @@
 -[@sevydev](https://github.com/sevydev)
 
 -[@naimiii](https://github.com/naimiii)
+
+-[@shivppatel](https://github.com/shivppatel)
+
+-[@lderum](https://github.com/lderum)
+
+-[@borason](https://github.com/borason)
