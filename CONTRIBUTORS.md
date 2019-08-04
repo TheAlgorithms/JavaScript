@@ -4294,6 +4294,8 @@
 
 -[@apatengr](https://github.com/apatengr)
 
--[@z3r0-cool](https://github.com/z3r0-cool)
+-[@z3r0-cool](https://github.com/z3r0-cool) 
+
+-[@herve-coder](https://github.com/herve-coder)
 
 -[@OdendaalG](https://github.com/OdendaalG)
