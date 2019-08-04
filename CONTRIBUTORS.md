@@ -4297,3 +4297,7 @@
 -[@z3r0-cool](https://github.com/z3r0-cool) 
 
 -[@eduardojoya](https://github.com/eduardojoya)
+
+-[@herve-coder](https://github.com/herve-coder)
+
+-[@OdendaalG](https://github.com/OdendaalG)
