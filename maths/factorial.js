@@ -11,9 +11,10 @@
         https://en.wikipedia.org/wiki/factorial
 */
 
+"use strict";
+
 function calc_range(num) {
     // Generate a range of numbers from 1 to `num`.
-    "use strict";
     var i = 1;
     var range = [];
     while (i <= num) {
@@ -24,7 +25,6 @@ function calc_range(num) {
 }
 
 function calc_factorial(num) {
-    "use strict";
     var factorial;
     var range = calc_range(num);
 
