@@ -4,7 +4,7 @@ function decimalToBinary(num) {
   bin.unshift(num % 2);
   num >>= 1; // basically /= 2 without remainder if any
   }
-  console.log("The decimal in binary is " + bin.join(''));
+  console.log("The decimal in binary is " + bin.join(""));
 }
 
 decimalToBinary(2);
