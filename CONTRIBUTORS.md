@@ -1,6 +1,8 @@
 # Contributors
 -[@phongnguyen39](https://github.com/phongnguyen39)
 
+-[@MichaelOgunsanmi](https://github.com/MichaelOgunsanmi)
+
 -[@EyalCode](https://github.com/EyalCode)
 
 -[@lgearen0528](https://github.com/lgearen0528)
