@@ -4300,9 +4300,9 @@
 
 -[@apatengr](https://github.com/apatengr)
 
--[@z3r0-cool](https://github.com/z3r0-cool) 
+-[@z3r0-cool](https://github.com/z3r0-cool)
 
--[@digvijaychouhan](https://github.com/digvijaychouhan) 
+-[@digvijaychouhan](https://github.com/digvijaychouhan)
 
 -[@MaGo1024](https://github.com/MaGo1024)
 
@@ -4348,8 +4348,10 @@
 
 -[@aixelsyd](https://github.com/aixelsyd)
 
--[@rhyad-js](https://github.com/rhyad-js) 
+-[@rhyad-js](https://github.com/rhyad-js)
 
 -[@Dragneel95](https://github.com/Dragneel95)
 
 -[@kimcasamina](https://github.com/kimcasamina)
+
+-[@khasanovsm](https://github.com/khasanovsm)
