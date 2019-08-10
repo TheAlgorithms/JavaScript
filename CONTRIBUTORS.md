@@ -4346,6 +4346,8 @@
 
 -[@synsss](https://github.com/synsss)
 
+-[@rhyad-js](https://github.com/rhyad-js) 
+
 -[@Dragneel95](https://github.com/Dragneel95)
 
 -[@kimcasamina](https://github.com/kimcasamina)
