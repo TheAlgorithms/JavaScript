@@ -405,6 +405,8 @@
 
 -[@s1cky](https://github.com/s1cky)
 
+-[@Litchstarken](https://github.com/Litchstarken)
+
 -[@AlvinDelito](https://github.com/AlvinDelito)
 
 -[@traceofwind](https://github.com/traceofwind)
@@ -4345,3 +4347,5 @@
 -[@synsss](https://github.com/synsss)
 
 -[@Dragneel95](https://github.com/Dragneel95)
+
+-[@kimcasamina](https://github.com/kimcasamina)
