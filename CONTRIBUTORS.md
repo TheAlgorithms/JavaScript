@@ -9,6 +9,8 @@
 
 -[@moeez96](https://github.com/moeez96)
 
+-[@Folahanmi](https://github.com/Folahanmi)
+
 -[@JARL076](https://github.com/JARL076)
 
 -[@TrojinCat](https://github.com/TrojinCat)
