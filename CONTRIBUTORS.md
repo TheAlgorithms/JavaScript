@@ -17,6 +17,8 @@
 
 -[@j-guerrero](https://github.com/j-guerrero)
 
+-[@enkienki](https://github.com/enkienki)
+
 -[@mmartin1123](https://github.com/mmartin1123)
 
 -[@priyo153](https://github.com/priyo153)
@@ -4360,6 +4362,8 @@
 
 -[@nalanirojas25](https://github.com/nalanirojas25)
 
+-[@chinodev](https://github.com/chinodev)
+
 -[@tomneo2004](https://github.com/tomneo2004)
 
 -[@carlpadilla](https://github.com/carlpadilla)
@@ -4371,3 +4375,7 @@
 -[@NandiniR77](https://github.com/NandiniR77)
 
 -[@Marcoswrc2](https://github.com/Marcoswrc2)
+
+-[@gokalpfirat](https://github.com/gokalpfirat)
+
+-[@stealthman22](https://github.com/stealthman22)
