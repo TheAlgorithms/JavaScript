@@ -4379,3 +4379,5 @@
 -[@gokalpfirat](https://github.com/gokalpfirat)
 
 -[@stealthman22](https://github.com/stealthman22)
+
+-[@JuanDaniel1995](https://github.com/JuanDaniel1995)
