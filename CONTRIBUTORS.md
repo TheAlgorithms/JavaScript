@@ -4362,6 +4362,8 @@
 
 -[@nalanirojas25](https://github.com/nalanirojas25)
 
+-[@chinodev](https://github.com/chinodev)
+
 -[@tomneo2004](https://github.com/tomneo2004)
 
 -[@carlpadilla](https://github.com/carlpadilla)
