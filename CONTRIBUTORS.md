@@ -4381,3 +4381,7 @@
 -[@stealthman22](https://github.com/stealthman22)
 
 -[@JuanDaniel1995](https://github.com/JuanDaniel1995)
+
+-[@chrisbrinkmann](https://github.com/chrisbrinkmann)
+
+-[@Nevlaa](https://github.com/Nevlaa)
