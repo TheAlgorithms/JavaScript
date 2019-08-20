@@ -41,7 +41,7 @@ function calc_factorial(num) {
     if (num > 0) {
         factorial = 1;
         range.forEach(function (i) {
-            factorial = factorial * i;
+            factorial *= i;
         });
         return "The factorial of " + num + " is " + factorial;
     }
