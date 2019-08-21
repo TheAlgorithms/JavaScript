@@ -1,4 +1,5 @@
 # Contributors
+
 -[@phongnguyen39](https://github.com/phongnguyen39)
 
 -[@MichaelOgunsanmi](https://github.com/MichaelOgunsanmi)
@@ -401,6 +402,7 @@
 
 -[@Nokkvi](https://github.com/Nokkvi)
 
+-[@silversavi](https://github.com/silversavi)
 -[@tanmaylata](https://github.com/tanmaylata)
 
 -[@hasanalom](https://github.com/hasanalom)
@@ -2773,8 +2775,7 @@
 
 -[@adam-weiler](https://github.com/adam-weiler)
 
--[@johnbolling](https://github.com/johnbolling)
--[@thecoderhero](https://github.com/thecoderhero)
+-[@johnbolling](https://github.com/johnbolling) -[@thecoderhero](https://github.com/thecoderhero)
 
 -[@ThaerMun](https://github.com/ThaerMun)
 
@@ -4408,8 +4409,14 @@
 
 -[@luisFebro](https://github.com/luisFebro)
 
--[@codyPenny] (https://github.com/CodyPenny/)
+-[@codyPenny](https://github.com/CodyPenny/)
 
 -[@yonatansnir](https://github.com/yonatansnir)
 
 -[@deonlobo](https://github.com/deonlobo)
+
+-[@satendrachowdhary](https://github.com/satendrachowdhary)
+
+-[@kartoos47](https://github.com/kartoos47)
+
+-[@Matasj98](https://github.com/Matasj98)
