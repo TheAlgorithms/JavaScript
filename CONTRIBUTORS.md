@@ -4444,3 +4444,17 @@
 -[@ale917k](https://github.com/ale917k)
 
 -[@akberkhan2121](https://github.com/akberkhan2121)
+
+-[@Itailevi420](https://github.com/Itailevi420)
+
+-[@Santishish](https://github.com/Santishish)
+
+-[@nitink167](https://github.com/nitink167)
+
+-[@ruturajjadeja](https://github.com/ruturajjadeja)
+
+-[@codeNameBerlin](https://github.com/codeNameBerlin)
+
+-[@or-yam](https://github.com/or-yam)
+
+-[@miles-au](https://github.com/miles-au)
