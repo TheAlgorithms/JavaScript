@@ -26,6 +26,8 @@
 
 -[@ron1722](https://github.com/ron1722)
 
+-[@alexacoronel](https://github.com/alexacoronel)
+
 -[@haack79](https://github.com/haack79)
 
 -[@maieuldelpino](https://github.com/maieuldelpino)
