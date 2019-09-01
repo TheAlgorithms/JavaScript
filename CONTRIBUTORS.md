@@ -4494,3 +4494,13 @@
 -[@leobade](https://github.com/leobade)
 
 -[@Ales851](https://github.com/Ales851)
+
+-[@RedJanvier](https://github.com/RedJanvier)
+
+-[@famebyproxy](https://github.com/famebyproxy)
+
+-[@alvinroe04](https://github.com/alvinroe04)
+
+-[@matthewlwang](https://github.com/matthewlwang)
+
+-[@efand](https://github.com/efand)
