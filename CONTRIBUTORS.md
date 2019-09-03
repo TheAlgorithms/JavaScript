@@ -1867,6 +1867,8 @@
 
 -[@VinhNguyen](https://github.com/VINCENGUYEN94)
 
+-[@Karlus44](https://github.com/Karlus44)
+
 -[@lukeswan23](https://github.com/lukeswan23)
 
 -[@funand](https://github.com/funand)
@@ -4440,7 +4442,7 @@
 -[@kpence](https://github.com/kpence)
 
 -[@Eder87rh](https://github.com/Eder87rh)
- 
+
 -[@amirovalex](https://github.com/amirovalex)
 
 -[@ale917k](https://github.com/ale917k)
