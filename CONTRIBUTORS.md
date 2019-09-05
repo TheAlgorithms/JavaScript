@@ -4491,7 +4491,7 @@
 
 -[@avishnegi](https://github.com/avishnegi)
 
--[@crhext] (https://github.com/crhext)
+-[@crhext](https://github.com/crhext)
 
 -[@leobade](https://github.com/leobade)
 
