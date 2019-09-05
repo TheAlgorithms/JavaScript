@@ -4491,7 +4491,7 @@
 
 -[@avishnegi](https://github.com/avishnegi)
 
--[@crhext] (https://github.com/crhext)
+-[@crhext](https://github.com/crhext)
 
 -[@leobade](https://github.com/leobade)
 
@@ -4520,3 +4520,5 @@
 -[@ofrankowska](https://github.com/ofrankowska)
 
 -[@sachinverma53121](https://github.com/sachinverma53121)
+
+-[@chantelletjie](https://github.com/chantelletjie)
