@@ -4519,6 +4519,10 @@
 
 -[@ofrankowska](https://github.com/ofrankowska)
 
+-[@chantelletjie](https://github.com/chantelletjie)
+
+-[@roli84](https://github.com/roli84)
+
 -[@britzdylan](https://github.com/britzdylan)
 
 -[@sachinverma53121](https://github.com/sachinverma53121)
