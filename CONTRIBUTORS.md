@@ -96,6 +96,8 @@
 
 -[@ccmurdoc](https://github.com/ccmurdoc)
 
+-[@menyw](https://github.com/menyw)
+
 -[@DaveF118](https://github.com/DaveF118)
 
 -[@aneagoie](https://github.com/aneagoie)
