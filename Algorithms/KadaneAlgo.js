@@ -1,6 +1,6 @@
 function KadaneAlgo (array) {
-    cummulativeSum = 0
-    maxSum = 0
+    let cummulativeSum = 0
+    let maxSum = 0
     for (var i = 0; i < array.length; i++) {
         cummulativeSum = cummulativeSum + array[i]
         if(cummulativeSum < 0 ) {
