@@ -4557,6 +4557,8 @@
 
 -[@hrithikkothari1234](https://github.com/hrithikkothari1234)
 
+-[@nickdorel](https://github.com/nickdorel)
+
 -[@amitsaroj001](https://github.com/amitsaroj001)
 
 -[@mscchapagain](https://github.com/mscchapagain)
@@ -4568,3 +4570,5 @@
 -[@debbieteakle](https://github.com/debbieteakle)
 
 -[@fsansalvadore](https://github.com/fsansalvadore)
+
+-[@ornel77](https://github.com/ornel77)
