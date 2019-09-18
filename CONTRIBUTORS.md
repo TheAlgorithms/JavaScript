@@ -408,7 +408,7 @@
 
 -[@silversavi](https://github.com/silversavi)
 
-- [@tanmaylata](https://github.com/tanmaylata)
+-[@tanmaylata](https://github.com/tanmaylata)
 
 -[@hasanalom](https://github.com/hasanalom)
 
@@ -4579,3 +4579,9 @@
 -[@ketuvishal](https://github.com/ketuvishal)
 
 -[@Matte0000](https://github.com/Matte0000)
+
+-[@alqurashim](https://github.com/alqurashim14)
+
+-[@AlvinTang1](https://github.com/AlvinTang1)
+
+-[@Rheece123](https://github.com/Rheece123)
