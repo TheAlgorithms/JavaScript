@@ -406,7 +406,9 @@
 
 -[@Nokkvi](https://github.com/Nokkvi)
 
--[@silversavi](https://github.com/silversavi) -[@tanmaylata](https://github.com/tanmaylata)
+-[@silversavi](https://github.com/silversavi)
+
+-[@tanmaylata](https://github.com/tanmaylata)
 
 -[@hasanalom](https://github.com/hasanalom)
 
@@ -3488,8 +3490,6 @@
 
 -[@mViolet](https://github.com/mViolet)
 
--[@Matte0000](https://github.com/Matte0000)
-
 -[@RaduRS](https://github.com/RaduRS)
 
 -[@Shambojf](https://github.com/Shambojf)
@@ -4577,6 +4577,8 @@
 -[@atizaz](https://github.com/atizazahsan)
 
 -[@ketuvishal](https://github.com/ketuvishal)
+
+-[@Matte0000](https://github.com/Matte0000)
 
 -[@alqurashim](https://github.com/alqurashim14)
 
