@@ -4620,6 +4620,8 @@
 
 -[@seunbayo](https://github.com/seunbayo)
 
+-[@danielt1988](https://github.com/danielt1988)
+
 -[@aminegui](https://github.com/aminegui)
 
 -[@gonza-garcia](https://github.com/gonza-garcia)
