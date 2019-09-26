@@ -1,4 +1,5 @@
 # Contributors
+-[@iuliab](https://github.com/iuliaaabaciu)
 
 -[@phongnguyen39](https://github.com/phongnguyen39)
 
@@ -4636,3 +4637,6 @@
 
 -[@sernadesigns](https://github.com/sernadesigns)
 
+-[@Prince666](https://github.com/Prince666)
+
+-[@mlsmall](https://github.com/mlsmall)
