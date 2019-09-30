@@ -19,6 +19,8 @@
 
 -[@j-guerrero](https://github.com/j-guerrero)
 
+-[@katharinabrx](https://github.com/katharinabrx)
+
 -[@enkienki](https://github.com/enkienki)
 
 -[@mmartin1123](https://github.com/mmartin1123)
@@ -4663,3 +4665,8 @@
 -[@chi](https://github.com/Zed-chi)
 
 -[@yellowswordy](https://github.com/yellowswordy)
+
+-[@paapoh](https://github.com/paapoh)
+
+-[@soumsps](https://github.com/soumsps)
+
