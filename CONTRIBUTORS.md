@@ -19,6 +19,8 @@
 
 -[@j-guerrero](https://github.com/j-guerrero)
 
+-[@katharinabrx](https://github.com/katharinabrx)
+
 -[@enkienki](https://github.com/enkienki)
 
 -[@mmartin1123](https://github.com/mmartin1123)
@@ -4610,7 +4612,7 @@
 -[@avelansh](https://github.com/Avelansh)
 
 -[@Lalit-Kumar-Khatri](https://github.com/Lalit-Kumar-Khatri)
- 
+
 -[@Bright3173](https://github.com/Bright3173)
 
 
@@ -4663,3 +4665,10 @@
 -[@chi](https://github.com/Zed-chi)
 
 -[@NimrodM0802](https://github.com/NimrodM0802)
+
+-[@yellowswordy](https://github.com/yellowswordy)
+
+-[@paapoh](https://github.com/paapoh)
+
+-[@soumsps](https://github.com/soumsps)
+
