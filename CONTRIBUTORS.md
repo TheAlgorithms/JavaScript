@@ -19,6 +19,8 @@
 
 -[@j-guerrero](https://github.com/j-guerrero)
 
+-[@katharinabrx](https://github.com/katharinabrx)
+
 -[@enkienki](https://github.com/enkienki)
 
 -[@mmartin1123](https://github.com/mmartin1123)
