@@ -83,6 +83,8 @@
 
 -[@mmmeyers](https://github.com/mmmeyers)
 
+-[@rffffy](https://github.com/rffffy)
+
 -[@mauricegreenland](https://github.com/mauricegreenland)
 
 -[@carrn7k](https://github.com/carrn7k)
