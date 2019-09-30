@@ -1,4 +1,6 @@
 # Contributors
+-[@ArthurDoom](https://github.com/ArthurDoom)
+
 -[@iuliab](https://github.com/iuliaaabaciu)
 
 -[@phongnguyen39](https://github.com/phongnguyen39)
