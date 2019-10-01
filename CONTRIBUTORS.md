@@ -85,6 +85,8 @@
 
 -[@lfidelino](https://github.com/lfidelino)
 
+-[@josiarod](https://github.com/josiarod)
+
 -[@mmmeyers](https://github.com/mmmeyers)
 
 -[@rffffy](https://github.com/rffffy)
@@ -4687,3 +4689,6 @@
 -[@Bibekpreet](https://github.com/bibekpreet99)
 
 -[@St3ve89](https://github.com/St3ve89)
+
+-[@atipaHy](https://github.com/atipaHy)
+
