@@ -85,6 +85,8 @@
 
 -[@lfidelino](https://github.com/lfidelino)
 
+-[@josiarod](https://github.com/josiarod)
+
 -[@mmmeyers](https://github.com/mmmeyers)
 
 -[@rffffy](https://github.com/rffffy)
