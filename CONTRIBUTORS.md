@@ -9,6 +9,8 @@
 
 -[@MichaelOgunsanmi](https://github.com/MichaelOgunsanmi)
 
+-[@ckanelin](https://github.com/ckanelin)
+
 -[@EyalCode](https://github.com/EyalCode)
 
 -[@lgearen0528](https://github.com/lgearen0528)
@@ -4694,6 +4696,13 @@
 
 -[@atipaHy](https://github.com/atipaHy)
 
+-[@kanwal-imtiaz](https://github.com/kanwal-imtiaz)
+
 -[@PawanKolhe](https://github.com/PawanKolhe)
 
 -[@dnyanu2713](https://github.com/dnyanu2713)
+
+-[@dhsgisc](https://github.com/dhsgisc)
+
+-[@ksteindals](https://github.com/ksteindals)
+
