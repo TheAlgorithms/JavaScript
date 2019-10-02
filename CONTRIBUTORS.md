@@ -9,6 +9,8 @@
 
 -[@MichaelOgunsanmi](https://github.com/MichaelOgunsanmi)
 
+-[@ckanelin](https://github.com/ckanelin)
+
 -[@EyalCode](https://github.com/EyalCode)
 
 -[@lgearen0528](https://github.com/lgearen0528)
