@@ -1,4 +1,7 @@
 # Contributors
+
+-[@Anmol270900](https://github.com/Anmol270900)
+
 -[@ArthurDoom](https://github.com/ArthurDoom)
 
 -[@iuliab](https://github.com/iuliaaabaciu)
@@ -772,6 +775,8 @@
 -[@dastgir518](https://github.com/dastgir518)
 
 -[@flicky](https://github.com/flickyz)
+
+-[@nhbduy](https://github.com/nhbduy)
 
 -[@tomkrieg108](https://github.com/tomkrieg108)
 
@@ -4721,3 +4726,6 @@
 -[@SpyrosKo](https://github.com/SpyrosKo)
 
 -[@MelodyReyes09](https://github.com/MelodyReyes09)
+
+-[@zeus990](https://github.com/zeus990)
+
