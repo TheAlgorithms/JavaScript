@@ -1,4 +1,7 @@
 # Contributors
+
+-[@Anmol270900](https://github.com/Anmol270900)
+
 -[@ArthurDoom](https://github.com/ArthurDoom)
 
 -[@iuliab](https://github.com/iuliaaabaciu)
