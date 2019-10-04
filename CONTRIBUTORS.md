@@ -2802,7 +2802,9 @@
 
 -[@adam-weiler](https://github.com/adam-weiler)
 
--[@johnbolling](https://github.com/johnbolling) -[@thecoderhero](https://github.com/thecoderhero)
+-[@johnbolling](https://github.com/johnbolling)
+
+-[@thecoderhero](https://github.com/thecoderhero)
 
 -[@ThaerMun](https://github.com/ThaerMun)
 
@@ -4730,3 +4732,5 @@
 -[@zeus990](https://github.com/zeus990)
 
 -[@NamanKhurana](https://github.com/NamanKhurana)
+
+-[@HeideQueen](https://github.com/HeideQueen)
