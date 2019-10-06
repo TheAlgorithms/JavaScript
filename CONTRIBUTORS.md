@@ -2008,8 +2008,6 @@
 
 -[@ijelen](https://github.com/ijelen)
 
--[@andrearizzello](https://github.com/andrearizzello)
-
 -[@hryciwcr](https://github.com/hryciwcr)
 
 -[@ktilk](https://github.com/ktilk)
@@ -4749,4 +4747,8 @@
 
 -[@mperez-33](https://github.com/m-perez33)
 
+-[@schupat](https://github.com/schupat)
 
+-[@andrearizzello](https://github.com/andrearizzello)
+
+-[@vaibhav-raj-pandey](https://github.com/vaibhav-raj-pandey)
