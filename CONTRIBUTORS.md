@@ -4766,3 +4766,5 @@
 - [@etarrosa](https://github.com/etarrosa/)
 
 - [@coolfield](https://github.com/coolfield/)
+
+- [@doughorne](https://github.com/doughorne/)
