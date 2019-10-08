@@ -4771,6 +4771,8 @@
 
 - [@doughorne](https://github.com/doughorne/)
 
+- [@ridbay](https://github.com/ridbay/)
+
 - [@bilalarifsiddiqui](https://github.com/bilalarifsiddiqui)
 
 - [@thesnitchseeker](https://github.com/thesnitchseeker)
