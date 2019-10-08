@@ -4772,3 +4772,6 @@
 - [@doughorne](https://github.com/doughorne/)
 
 - [@bilalarifsiddiqui](https://github.com/bilalarifsiddiqui)
+
+- [@thesnitchseeker](https://github.com/thesnitchseeker)
+
