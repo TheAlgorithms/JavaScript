@@ -3472,6 +3472,8 @@
 
 -[@balagotb](https://github.com/balagotb)
 
+-[@shanclayton](https://github.com/shanclayton/)
+
 -[@GamerKingFaiz](https://github.com/GamerKingFaiz)
 
 -[@HarshJoshiIIITV](https://github.com/HarshJoshiIIITV)
@@ -4768,3 +4770,30 @@
 -[@coolfield](https://github.com/coolfield/)
 
 -[@doughorne](https://github.com/doughorne/)
+
+-[@climb-ski-code](https://github.com/climb-ski-code)
+
+-[@dwedigital](https://github.com/dwedigital)
+
+-[@sanderdebr](https://github.com/sanderdebr/)
+
+-[@etarrosa](https://github.com/etarrosa/)
+
+-[@coolfield](https://github.com/coolfield/)
+
+-[@doughorne](https://github.com/doughorne/)
+
+-[@ridbay](https://github.com/ridbay/)
+
+-[@bilalarifsiddiqui](https://github.com/bilalarifsiddiqui)
+
+-[@thesnitchseeker](https://github.com/thesnitchseeker)
+
+- [@davio2321](https://github.com/Davio2321)
+
+- [@KatrinaRose14](https://github.com/KatrinaRose14)
+
+-[@tim0thylee](https://github.com/tim0thylee) 
+
+- [@vonguyenphu](https://github.com/vonguyenphu)
+
