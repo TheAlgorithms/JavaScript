@@ -1,19 +1,18 @@
+var Graph = (function () {
 
-class Graph {
-
-    constructor() {
+    function graph() {
         this.adjacencyMap = {}
     }
 
-    addVertex(v) {
+    graph.prototype.addVertex = function (v) {
         this.adjacencyMap[v] = [];
-    }
 
-    containsVertex(vertex) {
+    }
+    graph.prototype.containsVertex = function (vertex) {
         return typeof (this.adjacencyMap[vertex]) !== "undefined"
     }
 
-    addEdge(v, w) {
+    graph.prototype.addEdge = function (v, w) {
         let result = false
         if (this.containsVertex(v) && this.containsVertex(w)) {
             this.adjacencyMap[v].push(w);
@@ -23,9 +22,7 @@ class Graph {
         return result
     }
 
-
-
-    printGraph() {
+    graph.prototype.printGraph = function () {
         let keys = Object.keys(this.adjacencyMap);
         for (let i of keys) {
             let values = this.adjacencyMap[i];
@@ -36,15 +33,16 @@ class Graph {
         }
     }
 
-}
+    return graph;
+
+}())
 
 
-const example = () => {
-    let g = new Graph()
-    g.addVertex(1)
-    g.addVertex(2)
-    g.addVertex(3)
-    g.addEdge(1, 2)
-    g.addEdge(1, 3)
-    g.printGraph()
-}
+//test
+var g = new Graph();
+g.addVertex(1);
+g.addVertex(2);
+g.addVertex(3);
+g.addEdge(1, 2);
+g.addEdge(1, 3);
+g.printGraph();
