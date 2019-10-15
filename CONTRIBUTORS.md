@@ -4868,7 +4868,7 @@
 
 -[@Mainemirror](https://github.com/Mainemirror)
 
--[miguel-osuna](https://github.com/miguel-osuna/start-here-guidelines.git)
+-[@miguel-osuna](https://github.com/miguel-osuna/start-here-guidelines.git)
 
 -[@mwcgit](https://github.com/mwcgit)
 
