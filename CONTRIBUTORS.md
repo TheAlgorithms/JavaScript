@@ -4865,3 +4865,11 @@
 -[@meetmario](https://github.com/meetmario)
 
 -[miguel-osuna](https://github.com/miguel-osuna/start-here-guidelines.git)
+
+-[@mwcgit](https://github.com/mwcgit)
+
+-[@Futuregit](https://github.com/futuregit)
+
+-[@lexlopez-dev](https://github.com/lexlopez-dev/)
+
+-[@Yusadolat](https://github.com/yusadolat)
