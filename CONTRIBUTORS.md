@@ -4636,7 +4636,6 @@
 
 -[@Bright3173](https://github.com/Bright3173)
 
-
 -[@mohammadrezanamjoo](https://github.com/mohammadrezanamjoo)
 
 -[@mspatsy](https://github.com/mspatsy)
@@ -4795,7 +4794,7 @@
 
 - [@KatrinaRose14](https://github.com/KatrinaRose14)
 
--[@tim0thylee](https://github.com/tim0thylee) 
+-[@tim0thylee](https://github.com/tim0thylee)
 
 - [@vonguyenphu](https://github.com/vonguyenphu)
 
@@ -4864,3 +4863,5 @@
 -[@Agilulfe](https://github.com/Agilulfe)
 
 -[@meetmario](https://github.com/meetmario)
+
+-[miguel-osuna](https://github.com/miguel-osuna/start-here-guidelines.git)
