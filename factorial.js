@@ -21,13 +21,13 @@ function calc_factorial(num) {
     if (num === null || num === undefined) {
         return "Sorry, factorial does not exist for null or undefined numbers.";
     }
-  if (n === 0 || n === 1)
+  if (num === 0 || num === 1)
     return 1;
     
-  if (f[n] > 0)
-    return f[n];
+  if (f[num] > 0)
+    return f[num];
     
-  return f[n] = factorial(n-1) * n;
+  return f[num] = factorial(num-1) * num;
 } 
 
 
