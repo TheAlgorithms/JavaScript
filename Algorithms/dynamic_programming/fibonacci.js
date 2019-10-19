@@ -18,6 +18,25 @@ function fib(n) {
     console.log("Fibonacci #%d = %d", n, table[n - 1]);
 }
 
+
+/**
+ * Computes the nth fibonacci number using constant space
+ * @param {number} n the nth fibonacci number
+ * @returns {BigInteger} the value of the nth fibonacci number
+ */
+function fib_const_space(n) {
+    if(n < 1) return 0n;
+
+    const X = [0n, 1n];
+    for(let i = 1; i < n; i++) {
+        const prev = X[0];
+        X[0] = X[1];
+        X[1] += prev;
+    }
+    console.log(`Fibonacci #${n} = ${X[1]}`);
+    return X[1];
+}
+
 fib(1);
 fib(2);
 fib(200);
