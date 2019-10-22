@@ -1,6 +1,7 @@
 # The Algorithms - Javascript
 
-### All algorithms implemented in Javascript (for educational purposes only)
+### All algorithms are implemented in Javascript (for educational purposes only)
+## All algorithms are able to visualize on the screen using p5.js,this is the power of javaScript .
 
 These are for demonstration purposes only. There are many implementations of sorts in the Javascript standard library that are much better for performance reasons.
 
