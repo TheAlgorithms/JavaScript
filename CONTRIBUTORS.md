@@ -5018,6 +5018,8 @@
 
 -[@FrankGrullon](https://github.com/FrankGrullon)
 
+-[@BarrySchutte](https://github.com/BarrySchutte)
+
 -[@Ayoemma](https://github.com/Ayoemma)
 
 -[@isudilovskiy](https://github.com/isudilovskiy)
