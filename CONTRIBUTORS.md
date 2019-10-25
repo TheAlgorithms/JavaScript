@@ -1,5 +1,7 @@
 # Contributors
 
+-[@Simisoluwa] (https://github.com/Simisoluwa)
+
 -[@MaKloudz](https://github.com/MaKloudz)
 
 -[@anilchoudhary](https://github.com/anilchoudhary)
