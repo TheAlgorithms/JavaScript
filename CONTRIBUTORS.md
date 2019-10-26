@@ -1,5 +1,9 @@
 # Contributors
 
+-[@Simisoluwa](https://github.com/Simisoluwa)
+
+-[@MaKloudz](https://github.com/MaKloudz)
+
 -[@anilchoudhary](https://github.com/anilchoudhary)
 
 - [@neon-flights](https://github.com/neon-flights)
@@ -4998,6 +5002,8 @@
 
 -[@mahlqvist](https://github.com/mahlqvist/)
 
+-[@turazi](https://github.com/turazi)
+
 -[@pusendra](https://github.com/Pusendra)
 
 -[@SnehaParkar](https://github.com/SnehaParkar)
@@ -5015,3 +5021,51 @@
 -[@larryjl](https://github.com/larryjl)
 
 -[@Richybobbishly] (https://github.com/Richybobbishly2002)
+
+-[@benny603](https://github.com/benny603)
+
+-[@FrankGrullon](https://github.com/FrankGrullon)
+
+-[@ZehraRiz](https://github.com/ZehraRiz)
+
+-[@misraturp](https://github.com/misraturp)
+
+-[@IAMsozo](https://github.com/IAMsozo)
+
+-[@BarrySchutte](https://github.com/BarrySchutte)
+
+-[@Ayoemma](https://github.com/Ayoemma)
+
+-[@isudilovskiy](https://github.com/isudilovskiy)
+
+-[@safkar](https://github.com/safkar)
+
+-[@kaushik1406](https://github.com/kaushik1406)
+
+-[@ajikia](https://github.com/ajikia)
+
+-[@Sanj10k](https://github.com/Sanj10k)
+
+-[@aneesh4995](https://github.com/aneesh4995)
+
+-[@khalign](https://github.com/khalign)
+
+-[@JakhongirRasulov007](https://github.com/JakhongirRasulov007)
+
+-[@dishonestea](https://github.com/dishonestea)
+
+-[@lockjio](https://github.com/lockjio)
+
+-[@mizuki-i](https://github.com/mizuki-i)
+
+-[@gabcamilo](https://github.com/gabcamilo)
+
+-[@Simisoluwa](https://github.com/Simisoluwa)
+
+-[@guitarhub786](https://github.com/guitarhub786/)
+
+-[@VirtueAndTerror](https://github.com/VirtueAndTerror)
+
+-[@MynameisArthur](https://github.com/MynameisArthur/)
+
+-[@Rahul240499](https://github.com/Rahul240499/)
