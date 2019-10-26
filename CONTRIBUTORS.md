@@ -5054,12 +5054,14 @@
 
 -[@lockjio](https://github.com/lockjio)
 
-[@mizuki-i](https://github.com/mizuki-i)
+-[@mizuki-i](https://github.com/mizuki-i)
 
 -[@gabcamilo](https://github.com/gabcamilo)
 
 -[@Simisoluwa](https://github.com/Simisoluwa)
 
 -[@guitarhub786](https://github.com/guitarhub786/)
+
+-[@MynameisArthur](https://github.com/MynameisArthur/)
 
 -[@Rahul240499](https://github.com/Rahul240499/)
