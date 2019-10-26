@@ -1,6 +1,6 @@
 # Contributors
 
--[@Simisoluwa] (https://github.com/Simisoluwa)
+-[@Simisoluwa](https://github.com/Simisoluwa)
 
 -[@MaKloudz](https://github.com/MaKloudz)
 
@@ -5061,3 +5061,5 @@
 -[@Simisoluwa](https://github.com/Simisoluwa)
 
 -[@guitarhub786](https://github.com/guitarhub786/)
+
+-[@Rahul240499](https://github.com/Rahul240499/)
