@@ -1,6 +1,6 @@
 # Contributors
 
--[@Simisoluwa] (https://github.com/Simisoluwa)
+-[@Simisoluwa](https://github.com/Simisoluwa)
 
 -[@MaKloudz](https://github.com/MaKloudz)
 
@@ -5054,7 +5054,7 @@
 
 -[@lockjio](https://github.com/lockjio)
 
-[@mizuki-i](https://github.com/mizuki-i)
+-[@mizuki-i](https://github.com/mizuki-i)
 
 -[@gabcamilo](https://github.com/gabcamilo)
 
@@ -5064,3 +5064,4 @@
 
 -[@MynameisArthur](https://github.com/MynameisArthur/)
 
+-[@Rahul240499](https://github.com/Rahul240499/)
