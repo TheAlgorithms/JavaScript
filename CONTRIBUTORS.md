@@ -6,7 +6,9 @@
 
 -[@anilchoudhary](https://github.com/anilchoudhary)
 
-- [@neon-flights](https://github.com/neon-flights)
+-[@neon-flights](https://github.com/neon-flights)
+
+-[@fprokofiev](https://github.com/fprokofiev)
 
 -[@h4rdik11](https://github.com/h4rdik11)
 
@@ -4504,7 +4506,7 @@
 
 -[@miles-au](https://github.com/miles-au)
 
-[@oshioked](https://github.com/oshioked)
+-[@oshioked](https://github.com/oshioked)
 
 -[@ruvieeto](https://github.com/ruvieeto)
 
@@ -4802,21 +4804,21 @@
 
 -[@thesnitchseeker](https://github.com/thesnitchseeker)
 
-- [@davio2321](https://github.com/Davio2321)
+-[@davio2321](https://github.com/Davio2321)
 
-- [@KatrinaRose14](https://github.com/KatrinaRose14)
+-[@KatrinaRose14](https://github.com/KatrinaRose14)
 
 -[@tim0thylee](https://github.com/tim0thylee)
 
-- [@vonguyenphu](https://github.com/vonguyenphu)
+-[@vonguyenphu](https://github.com/vonguyenphu)
 
-- [@g-serban](https://https://github.com/g-serban)
+-[@g-serban](https://https://github.com/g-serban)
 
 -[@zilebe](https://github.com/zilebe)
 
-- [@sdangoy](https://github.com/sdangoy)
+-[@sdangoy](https://github.com/sdangoy)
 
-- [@pmnord](https://github.com/pmnord)
+-[@pmnord](https://github.com/pmnord)
 
 -[@smklick](https://github.com/smklick)
 
