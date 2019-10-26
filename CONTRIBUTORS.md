@@ -4454,7 +4454,7 @@
 
 -[@asd3er](https://github.com/asd3er)
 
-[@Sam5180](https://github.com/Sam5180)
+-[@Sam5180](https://github.com/Sam5180)
 
 -[@AlveeM](https://github.com/AlveeM)
 
@@ -4944,7 +4944,7 @@
 
 -[@atif-dev](https://github.com/atif-dev)
 
--[@cha1690] (https://github.com/cha1690)
+-[@cha1690](https://github.com/cha1690)
 
 -[@tusharhanda](https://github.com/tusharhanda/)
 
@@ -5022,7 +5022,7 @@
 
 -[@larryjl](https://github.com/larryjl)
 
--[@Richybobbishly] (https://github.com/Richybobbishly2002)
+-[@Richybobbishly](https://github.com/Richybobbishly2002)
 
 -[@benny603](https://github.com/benny603)
 
