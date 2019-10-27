@@ -1,5 +1,7 @@
 # Contributors
 
+-[@AbsMechanik](https://github.com/AbsMechanik)
+
 -[@Simisoluwa](https://github.com/Simisoluwa)
 
 -[@MaKloudz](https://github.com/MaKloudz)
