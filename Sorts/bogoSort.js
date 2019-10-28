@@ -45,11 +45,4 @@ function bogoSort(items) {
     return items;
 }
 
-//Implementation of bogoSort
-
-var ar = [5, 6, 7, 8, 1, 2, 12, 14];
-//Array before Sort
-console.log(ar);
-bogoSort(ar);
-//Array after sort
-console.log(ar);
+module.exports = bogoSort;
