@@ -1,5 +1,7 @@
 # Contributors
 
+-[@AbsMechanik](https://github.com/AbsMechanik)
+
 -[@Simisoluwa](https://github.com/Simisoluwa)
 
 -[@MaKloudz](https://github.com/MaKloudz)
@@ -5091,6 +5093,9 @@
 -[@khanzohan](https://github.com/khanzohan)
 
 -[@Thrinath17](https://github.com/Thrinath17)
+
+-[@damniha](https://github.com/damniha)
+
 
 -[@shubhamkumar96](https://github.com/shubhamkumar96)
 
