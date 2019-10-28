@@ -1,5 +1,7 @@
 # Contributors
 
+-[@AbsMechanik](https://github.com/AbsMechanik)
+
 -[@Simisoluwa](https://github.com/Simisoluwa)
 
 -[@MaKloudz](https://github.com/MaKloudz)
@@ -5091,3 +5093,15 @@
 -[@khanzohan](https://github.com/khanzohan)
 
 -[@Paulo1one](https://github.com/Paulo1one)
+
+-[@sylviasastroco](https://github.com/sylviacastroco)
+
+-[@afshin-mo](https://github.com/afshin-mo)
+
+-[@damniha](https://github.com/damniha)
+
+-[@shubhamkumar96](https://github.com/shubhamkumar96)
+
+-[@rohitkadamrb](https://github.com/rohitkadamrb)
+
+-[@amansinghal14](https://github.com/amansinghal14)
