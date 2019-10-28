@@ -1,0 +1,27 @@
+{
+  "name": "the-algorithms-javascript",
+  "version": "1.0.0",
+  "description": "Algorithms implemented in Javascript (for educational purposes only)",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha **/*.spec.js **/**/*.spec.js **/**/**/*.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheAlgorithms/Javascript.git"
+  },
+  "keywords": [
+    "Algorithms"
+  ],
+  "author": "",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/TheAlgorithms/Javascript/issues"
+  },
+  "homepage": "https://github.com/TheAlgorithms/Javascript#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.2"
+  }
+}
