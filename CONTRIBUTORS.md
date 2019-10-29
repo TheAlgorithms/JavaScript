@@ -50,6 +50,8 @@
 
 -[@priyo153](https://github.com/priyo153)
 
+-[@aortizoj15](https://github.com/aortizoj15)
+
 -[@ron1722](https://github.com/ron1722)
 
 -[@alexacoronel](https://github.com/alexacoronel)
