@@ -4306,6 +4306,8 @@
 
 -[@afraz](https://github.com/afrazz)
 
+-[@Vishal_Ranjan](https://github.com/vishalrranjan)
+
 -[@mihaibnk997](https://github.com/mihaibnk997)
 
 -[@danieljimenzg](https://github.com/danieljimenzg)
@@ -5121,5 +5123,15 @@
 -[@EndritH](https://github.com/EndritH)
 
 -[@gwenmengue](https://github.com/gwenmengue)
+<<<<<<< HEAD
 
+||||||| merged common ancestors
+=======
+
+-[@jmoore-code](https://github.com/jmoore-code)
+
+-[@karlbalagtey](https://github.com/karlbalagtey)
+
+-[aiwkz](https://github.com/aiwkz)
+>>>>>>> upstream/master
 -[@t-kowalewski](https://github.com/t-kowalewski)
