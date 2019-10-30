@@ -1,5 +1,4 @@
-# Exclude irrelevant files on MacOS
-*.DS_Store
-/.vs
-/.idea
-/.vscode
+.DS_Store
+.idea
+start-here-guidelines
+start
