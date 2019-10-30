@@ -1,4 +1,7 @@
-Guidelines on how this open source community works. Read below to see how you can join an existing project or create your own.
+    Happy Coding peeps!!!!
+Guidelines on how this open source community works.
+ 
+Read below to see how you can join an existing project or create your own.
 
 ## One rule of this community:
 We don't care if you break things. This is a playground and we encourage failing often. Use this as a practice ground and enjoy contributing to projects you create with your fellow students. Many students have gained real world experience "working in teams" by working on these projects
