@@ -3298,6 +3298,7 @@
 
 -[@JS50](https://github.com/JS50)
 
+-[@JamesHattersley83](https://github.com/JamesHattersley83)
 -[@Youssef11khaled99](https://github.com/Youssef11khaled99)
 
 -[@daconce](https://github.com/Daconce)
@@ -5131,3 +5132,11 @@
 -[aiwkz](https://github.com/aiwkz)
 
 -[@nadir.erkin](https://github.com/nadir817)
+
+-[@t-kowalewski](https://github.com/t-kowalewski)
+
+-[@SelariuAlex](https://github.com/SelariuAlex)
+
+-[@Narendra-150](https://github.com/Narendra-150)
+
+-[@Nipunagg](https://github.com/Nipunagg)
