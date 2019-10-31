@@ -1,5 +1,7 @@
 # Contributors
 
+-[@AbsMechanik](https://github.com/AbsMechanik)
+
 -[@Simisoluwa](https://github.com/Simisoluwa)
 
 -[@MaKloudz](https://github.com/MaKloudz)
@@ -47,6 +49,8 @@
 -[@mmartin1123](https://github.com/mmartin1123)
 
 -[@priyo153](https://github.com/priyo153)
+
+-[@aortizoj15](https://github.com/aortizoj15)
 
 -[@ron1722](https://github.com/ron1722)
 
@@ -3294,6 +3298,7 @@
 
 -[@JS50](https://github.com/JS50)
 
+-[@JamesHattersley83](https://github.com/JamesHattersley83)
 -[@Youssef11khaled99](https://github.com/Youssef11khaled99)
 
 -[@daconce](https://github.com/Daconce)
@@ -4302,6 +4307,8 @@
 
 -[@afraz](https://github.com/afrazz)
 
+-[@Vishal_Ranjan](https://github.com/vishalrranjan)
+
 -[@mihaibnk997](https://github.com/mihaibnk997)
 
 -[@danieljimenzg](https://github.com/danieljimenzg)
@@ -5090,4 +5097,59 @@
 
 -[@khanzohan](https://github.com/khanzohan)
 
+
 -[@sagorahmad](https://github.com/sagorahmad)
+
+-[@Thrinath17](https://github.com/Thrinath17)
+
+-[@Paulo1one](https://github.com/Paulo1one)
+
+-[@sylviasastroco](https://github.com/sylviacastroco)
+
+-[@afshin-mo](https://github.com/afshin-mo)
+
+-[@damniha](https://github.com/damniha)
+
+-[@shubhamkumar96](https://github.com/shubhamkumar96)
+
+-[@rohitkadamrb](https://github.com/rohitkadamrb)
+
+-[@amansinghal14](https://github.com/amansinghal14)
+
+-[@vronney](https://github.com/vronney)
+
+-[@fzpX](https://github.com/fzpX)
+
+-[@ovidiusf](https://github.com/ovidiusf)
+
+-[@ybakhshi](https://github.com/ybakhshi)
+
+-[@EndritH](https://github.com/EndritH)
+
+-[@gwenmengue](https://github.com/gwenmengue)
+
+-[@jmoore-code](https://github.com/jmoore-code)
+
+-[@karlbalagtey](https://github.com/karlbalagtey)
+
+-[aiwkz](https://github.com/aiwkz)
+
+-[@trout35](https://github.com/trout35)
+
+-[@chibameta](https://github.com/Chibameta)
+
+-[@nadir.erkin](https://github.com/nadir817)
+
+-[@t-kowalewski](https://github.com/t-kowalewski)
+
+-[@SelariuAlex](https://github.com/SelariuAlex)
+
+-[@Narendra-150](https://github.com/Narendra-150)
+
+-[@Nipunagg](https://github.com/Nipunagg)
+
+-[@MaheshPlus](https://github.com/MaheshPlus)
+
+-[@renaonfire](https://github.com/renaonfire)
+
+-[@suzynakayama](https://github.com/suzynakayama)
