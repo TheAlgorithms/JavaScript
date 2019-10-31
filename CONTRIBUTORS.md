@@ -5156,6 +5156,8 @@
 
 -[@suzynakayama](https://github.com/suzynakayama)
 
+-[@isasimo](https://github.com/isasimo)
+
 -[@AnEnglishDev](https://github.com/AnEnglishDev)
 
 -[@zainikun](https://github.com/zainikun)
