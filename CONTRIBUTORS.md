@@ -50,6 +50,8 @@
 
 -[@priyo153](https://github.com/priyo153)
 
+-[@aortizoj15](https://github.com/aortizoj15)
+
 -[@ron1722](https://github.com/ron1722)
 
 -[@alexacoronel](https://github.com/alexacoronel)
@@ -3296,6 +3298,7 @@
 
 -[@JS50](https://github.com/JS50)
 
+-[@JamesHattersley83](https://github.com/JamesHattersley83)
 -[@Youssef11khaled99](https://github.com/Youssef11khaled99)
 
 -[@daconce](https://github.com/Daconce)
@@ -4304,6 +4307,8 @@
 
 -[@afraz](https://github.com/afrazz)
 
+-[@Vishal_Ranjan](https://github.com/vishalrranjan)
+
 -[@mihaibnk997](https://github.com/mihaibnk997)
 
 -[@danieljimenzg](https://github.com/danieljimenzg)
@@ -5117,3 +5122,33 @@
 -[@ybakhshi](https://github.com/ybakhshi)
 
 -[@Mia-22](https://github.com/Mia-22)
+
+-[@EndritH](https://github.com/EndritH)
+
+-[@gwenmengue](https://github.com/gwenmengue)
+
+-[@jmoore-code](https://github.com/jmoore-code)
+
+-[@karlbalagtey](https://github.com/karlbalagtey)
+
+-[aiwkz](https://github.com/aiwkz)
+
+-[@trout35](https://github.com/trout35)
+
+-[@chibameta](https://github.com/Chibameta)
+
+-[@nadir.erkin](https://github.com/nadir817)
+
+-[@t-kowalewski](https://github.com/t-kowalewski)
+
+-[@SelariuAlex](https://github.com/SelariuAlex)
+
+-[@Narendra-150](https://github.com/Narendra-150)
+
+-[@Nipunagg](https://github.com/Nipunagg)
+
+-[@MaheshPlus](https://github.com/MaheshPlus)
+
+-[@renaonfire](https://github.com/renaonfire)
+
+-[@suzynakayama](https://github.com/suzynakayama)
