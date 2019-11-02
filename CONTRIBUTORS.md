@@ -5189,3 +5189,9 @@
 -[@aeyquem](https://github.com/aeyquem)
 
 -[@integrate-your-mind](https://github.com/integrate-your-mind)
+
+-[@anya-1](https://github.com/anya-1)
+
+-[@Hila-Ailon](https://github.com/Hila-Ailon)
+
+-[@DaveSaluk](https://github.com/DaveSaluk)
