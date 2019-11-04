@@ -28,7 +28,7 @@ A typical open source project has the following types of people:
 
 **Owner**: The person/s who has administrative ownership over the organization or repository (not always the same as the original author).
 
-**Maintainers**: Contributors who are responsible for driving the vision and managing the organizational aspects of the project.(They may also be authors or owners of the project.)
+**Maintainers**: Contributors who are responsible for driving the vision and managing the organizational aspects of the project (may also be authors or owners of the project).
 
 **Contributors**: Everyone who has contributed something back to the project.
 
