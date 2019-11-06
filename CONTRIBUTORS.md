@@ -222,6 +222,8 @@
 
 -[@2jiwon](https://github.com/2jiwon)
 
+-[@stone-coder](https://github.com/stone-coder)
+
 -[@kylenguyen1014](https://github.com/kylenguyen1014)
 
 -[@Rizzwaan](https://github.com/Rizzwaan)
@@ -5244,3 +5246,12 @@
 
 -[@aandoney](https://github.com/aandoney)
 
+-[@lDarkl](https://github.com/lDarkl)
+
+-[@kong00](https://github.com/kong00)
+
+-[@andresochoa91](https://github.com/andresochoa91)
+
+-[@Alon-Fabio](https://github.com/Alon-Fabio)
+
+-[@jmreguyal](https://github.com/jmreguyal)
