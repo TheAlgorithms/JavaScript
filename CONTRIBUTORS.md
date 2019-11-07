@@ -5260,6 +5260,8 @@
 
 -[@webdevwithomar](https://github.com/webdevwithomar)
 
+-[@webguy83](https://github.com/webguy83)
+
 -[@Derrick-lau](https://github.com/Derrick-lau)
 
 -[@qasiel](https://github.com/Qasiel)
@@ -5269,3 +5271,21 @@
 -[@YardenKatz](https://github.com/YardenKatz)
 
 -[@Yusufali19](https://github.com/Yusufali19)
+
+-[@ShimonOcean](https://github.com/ShimonOcean/)
+
+-[@kripson](https://github.com/kripson)
+
+-[@Ryan-F3107](https://github.com/Ryan-F3107)
+
+-[@PeterChen123](https://github.com/PeterChen123)
+
+-[@sleepypeggycarter](https://github.com/sleepypeggycarter)
+
+-[@giuianocernada](https://github.com/giulianocernada)
+
+-[@ArefHebri](https://github.com/ArefHebri)
+
+-[@asemfarhan](https://github.com/asemfarhan)
+
+-[@Scottly426](https://https://github.com/ScottLy426)
