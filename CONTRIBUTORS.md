@@ -5269,3 +5269,9 @@
 -[@YardenKatz](https://github.com/YardenKatz)
 
 -[@kripson](https://github.com/kripson)
+
+-[@Ryan-F3107](https://github.com/Ryan-F3107)
+
+-[@PeterChen123](https://github.com/PeterChen123)
+
+-[@sleepypeggycarter](https://github.com/sleepypeggycarter)
