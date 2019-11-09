@@ -5299,3 +5299,13 @@
 -[@divyamohan910](https://github.com/divyamohan910)
 
 -[@giantscode](https://github.com/giantscode)
+
+-[@angeldavila1997](https://github.com/AngelDavila1997)
+
+-[@fodfran](https://github.com/fodfran)
+
+-[@jabneel](https://github.com/jabneel)
+
+-[@Oseghr](https://github.com/oseghr)
+
+-[@SpencerDedrick](https://github.com/SpencerDedrick)
