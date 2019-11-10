@@ -5321,3 +5321,7 @@
 -[@IbuAR](https://github.com/IbuAR)
 
 -[@ChanMyaeOo](https://github.com/ChanMyaeOo)
+
+-[@ChristianGlrz](https://github.com/ChristianGalarza)
+
+-[@zhnedyalkow](https://github.com/zhnedyalkow)
