@@ -5319,4 +5319,15 @@
 -[@JonHualde](https://github.com/JonHualde)
 
 -[@IbuAR](https://github.com/IbuAR)
+
 -[@msaudagar](https://github.com/msaudagar)
+
+-[@arkiis](https://github.com/arkiis)
+
+-[@BonnieMan](https://github.com/BonnieMan)
+
+-[@ChanMyaeOo](https://github.com/ChanMyaeOo)
+
+-[@ChristianGlrz](https://github.com/ChristianGalarza)
+
+-[@zhnedyalkow](https://github.com/zhnedyalkow)
