@@ -5340,6 +5340,10 @@
 
 -[@Jurek33](https://github.com/Jurek33)
 
+-[@DaNuWa](https://github.com/DaNuWa)
+
+-[@Alon_lEiyahu](https://github.com/aloneliyahu)
+
 -[@cmsilvabarnbeck](https://github.com/cmsilvabarnbeck)
 
 -[@DaNuWa](https://github.com/DaNuWa)
