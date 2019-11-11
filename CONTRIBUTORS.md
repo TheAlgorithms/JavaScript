@@ -5312,6 +5312,8 @@
 
 -[@SpencerDedrick](https://github.com/SpencerDedrick)
 
+-[@sagarmore7](https://github.com/sagarmore7)
+
 -[@PanchoDaskalov](https://github.com/PanchoDaskalov)
 
 -[@anandblues](https://github.com/anandblues)
@@ -5341,3 +5343,7 @@
 -[@DaNuWa](https://github.com/DaNuWa)
 
 -[@Alon_lEiyahu](https://github.com/aloneliyahu)
+
+-[@cmsilvabarnbeck](https://github.com/cmsilvabarnbeck)
+
+-[@DaNuWa](https://github.com/DaNuWa)
