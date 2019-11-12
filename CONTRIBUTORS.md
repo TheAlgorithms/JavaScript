@@ -5340,8 +5340,22 @@
 
 -[@Jurek33](https://github.com/Jurek33)
 
+-[@DaNuWa](https://github.com/DaNuWa)
+
+-[@Alon_lEiyahu](https://github.com/aloneliyahu)
+
 -[@cmsilvabarnbeck](https://github.com/cmsilvabarnbeck)
 
 -[@DaNuWa](https://github.com/DaNuWa)
 
 -[@Bek-Tech](https://github.com/Bek-Tech)
+
+-[@tinahmgao](https://github.com/tinahmgao/)
+
+-[@bojosteph](https://github.com/bojosteph)
+
+-[@johncaloi7](https://github.com/johncaloi7)
+
+-[@igodev-ing](https://github.com/igodev-ing/)
+
+-[@nicoleiocana](https://github.com/nicoleiocana)
