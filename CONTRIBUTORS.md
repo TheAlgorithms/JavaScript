@@ -5364,6 +5364,8 @@
 
 -[@nicoleiocana](https://github.com/nicoleiocana)
 
+-[@liviuschera](https://github.com/liviuschera)
+
 -[@ndemps](https://github.com/ndemps)
 
 -[@nridkadri](https://github.com/ridkadri)
@@ -5387,3 +5389,13 @@
 -[@leloq](https://github.com/leloq)
 
 -[@linhp9-bep](https://github.com/linhp9-bep)
+
+-[@Rickychris](https://github.com/Rickychris)
+
+-[@Ahmed.C](https://github.com/Soliperso)
+
+-[@AnnaVlachou](https://github.com/AnnaVlachou)
+
+-[@tauqr-ahmd](https://github.io/tauqr-ahmd)
+
+-[@livain18](https://github.com/livain18)
