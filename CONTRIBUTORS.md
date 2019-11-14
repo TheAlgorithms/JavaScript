@@ -5385,5 +5385,3 @@
 -[@Anmol](https://github.com/anmol321)
 
 -[@leloq](https://github.com/leloq)
-
--[@tauqr-ahmd](https://github.io/tauqr-ahmd)
