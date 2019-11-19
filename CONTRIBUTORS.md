@@ -5456,6 +5456,8 @@
 
 -[@whwalter90](https://github.com/Whwalter90)
 
+-[@DerekShig](https://github.com/DerekShig)
+
 -[@nhbatdorf](https://github.com/nhbatdorf)
 
 -[@riya-shrivastav](https://github.com/riya-shrivastav)
