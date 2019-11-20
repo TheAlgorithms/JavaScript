@@ -3300,7 +3300,9 @@
 
 -[@JS50](https://github.com/JS50)
 
--[@JamesHattersley83](https://github.com/JamesHattersley83) -[@Youssef11khaled99](https://github.com/Youssef11khaled99)
+-[@JamesHattersley83](https://github.com/JamesHattersley83) 
+
+-[@Youssef11khaled99](https://github.com/Youssef11khaled99)
 
 -[@daconce](https://github.com/Daconce)
 
@@ -5282,7 +5284,7 @@
 
 -[@Kegbi](https://github.com/Kegbi)
 
--[@Matte0000](https://github.com/Matte0000)
+-[@paganim](https://github.com/paganim)
 
 -[@giuianocernada](https://github.com/giulianocernada)
 
@@ -5477,3 +5479,11 @@
 -[@Cyph3r](https://github.com/Cyph3r)
 
 -[@BlewEgg](https://github.com/BlewEgg)
+
+-[@LoneWolfUchiha](https://github.com/LoneWolfUchiha/)
+
+-[@EricZHANGSHIQING](https://github.com/EricZHANGSHIQING)
+
+-[@Greenpaulo](https://github.com/Greenpaulo)
+
+-[@Raffay2341](https://github.com/Raffay2341)
