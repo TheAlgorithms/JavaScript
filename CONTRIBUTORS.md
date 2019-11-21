@@ -5494,6 +5494,8 @@
 
 -[@rapkido](https://github.com/rapkido)
 
+-[@nicholasplachance](https://github.com/nicholasplachance)
+
 -[@nurdared](https://github.com/nurdared)
 
 -[@h-sarhan](https://github.com/h-sarhan)
