@@ -3300,7 +3300,7 @@
 
 -[@JS50](https://github.com/JS50)
 
--[@JamesHattersley83](https://github.com/JamesHattersley83) 
+-[@JamesHattersley83](https://github.com/JamesHattersley83)
 
 -[@Youssef11khaled99](https://github.com/Youssef11khaled99)
 
@@ -5495,3 +5495,35 @@
 -[@rapkido](https://github.com/rapkido)
 
 -[@kenjifire1](https://github.com/kenjifire1)
+
+-[@jtla3](https://github.com/jtla3)
+
+-[@nicholasplachance](https://github.com/nicholasplachance)
+
+-[@nurdared](https://github.com/nurdared)
+
+-[@h-sarhan](https://github.com/h-sarhan)
+
+-[@n3rdkid](https://github.com/n3rdkid)
+
+-[@jumno](https://github.com/yunoyunoyuno)
+
+-[@blackmacy](https://github.com/blackmacy)
+
+-[@jmw4900](https://github.com/jmw4900)
+
+-[@dennisbp](https://github.com/dennisbp)
+
+-[@tsangjacqueline](https://github.com/tsangjacqueline)
+
+-[@blackmacy](https://github.com/blackmacy)
+
+-[@jorgebarcos](https://github.com/jorgebarcos)
+
+-[@patrickDuque](https://github.com/patrickDuque)
+
+-[@parliachamp](https://github.com/parliachamp)
+
+-[@pauliusUzusenis](https://github.com/pauliusUzusenis)
+
+-[selchuck](https://github.com/selchuck)
