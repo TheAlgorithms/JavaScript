@@ -5512,6 +5512,8 @@
 
 -[@blackmacy](https://github.com/blackmacy)
 
+-[@patrickDuque](https://github.com/patrickDuque)
+
 -[@parliachamp](https://github.com/parliachamp)
 
 -[@pauliusUzusenis](https://github.com/pauliusUzusenis)
