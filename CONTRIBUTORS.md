@@ -3300,7 +3300,7 @@
 
 -[@JS50](https://github.com/JS50)
 
--[@JamesHattersley83](https://github.com/JamesHattersley83) 
+-[@JamesHattersley83](https://github.com/JamesHattersley83)
 
 -[@Youssef11khaled99](https://github.com/Youssef11khaled99)
 
@@ -5513,3 +5513,7 @@
 -[@blackmacy](https://github.com/blackmacy)
 
 -[@parliachamp](https://github.com/parliachamp)
+
+-[@pauliusUzusenis](https://github.com/pauliusUzusenis)
+
+-[selchuck](https://github.com/selchuck)
