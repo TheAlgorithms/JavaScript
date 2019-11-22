@@ -5511,3 +5511,5 @@
 -[@tsangjacqueline](https://github.com/tsangjacqueline)
 
 -[@blackmacy](https://github.com/blackmacy)
+
+-[@patrickDuque](https://github.com/patrickDuque)
