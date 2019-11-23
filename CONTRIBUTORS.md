@@ -5532,6 +5532,8 @@
 
 -[@selchuck](https://github.com/selchuck)
 
+-[@CINPIS](https://github.com/CINPIS)
+
 -[@marmola90](https://github.com/marmola90)
 
 -[@HopeEternal](https://github.com/HopeEternal)
