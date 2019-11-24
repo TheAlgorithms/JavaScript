@@ -5540,6 +5540,8 @@
 
 -[@WilsonChai](https://github.com/WilsonChai)
 
+-[@marcin1508](https://github.com/marcin1508)
+
 -[@ivandro](https://github.com/ivandro)
 
 -[@chrispulu](https://github.com/chrispulu)
@@ -5549,3 +5551,7 @@
 -[@SenikFarsyan](https://github.com/SenikFarsyan)
 
 -[@p4avinash](https://github.com/p4avinash)
+
+-[@dilipteegala](https://github.com/dilipteegala)
+
+-[@NickStallonaros](https://github.com/Stallonaros)
