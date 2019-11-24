@@ -5532,6 +5532,8 @@
 
 -[@selchuck](https://github.com/selchuck)
 
+-[@CINPIS](https://github.com/CINPIS)
+
 -[@marmola90](https://github.com/marmola90)
 
 -[@HopeEternal](https://github.com/HopeEternal)
@@ -5539,3 +5541,13 @@
 -[@WilsonChai](https://github.com/WilsonChai)
 
 -[@marcin1508](https://github.com/marcin1508)
+
+-[@ivandro](https://github.com/ivandro)
+
+-[@chrispulu](https://github.com/chrispulu)
+
+-[@iahmadart](https://github.com/iahmadart)
+
+-[@SenikFarsyan](https://github.com/SenikFarsyan)
+
+-[@NickStallonaros](https://github.com/Stallonaros)
