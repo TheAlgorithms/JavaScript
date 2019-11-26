@@ -5580,6 +5580,8 @@
 
 -[@ErikMoxley](https://github.com/ErikMoxley)
 
+-[@maximog](https://github.com/maximog)
+
 -[@dinhl](https://github.com/dinhl)
 
 -[@ccleandro](https://github.com/ccleandro)
