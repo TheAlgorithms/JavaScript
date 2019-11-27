@@ -2576,6 +2576,8 @@
 
 -[@alexat13](https://github.com/alexat13)
 
+-[@AnkitSalian](https://github.com/AnkitSalian)
+
 -[@NickWard414](http://github.com/NickWard414)
 
 -[@NathanCadiente](https://github.com/NathanCadiente)
@@ -5282,6 +5284,8 @@
 
 -[@sleepypeggycarter](https://github.com/sleepypeggycarter)
 
+-[@AnnaArakelyan909](https://github.com/AnnaArakelyan909/)
+
 -[@Kegbi](https://github.com/Kegbi)
 
 -[@paganim](https://github.com/paganim)
@@ -5563,4 +5567,35 @@
 -[@marinagjorgjievski](https://github.com/marinagjorgjievski)
 
 -[@Mietlicha](https://github.com/Mietlicha)
+
 -[@Abdifatah](htts://github.com/Horumarka123)
+
+-[@felixbec](https://github.com/felixbec)
+
+-[@rainoverme002](https://github.com/rainoverme002)
+
+-[@RTP2016](https://github.com/rtp2016)
+
+-[@DesCodes](https://github.com/DesCodes)
+
+-[@Dewey](https://github.com/dwikbtn)
+
+-[@PsyMadDoc](https://github.com/PsyMadDoc)
+
+-[@ErikMoxley](https://github.com/ErikMoxley)
+
+-[@Alexadejumo](https://github.com/alexadejumo)
+
+-[@mughees-asif](https://github.com/mughees-asif)
+
+-[@Angelus81](https://github.com/Angelus81)
+
+-[@maximog](https://github.com/maximog)
+
+-[@dinhl](https://github.com/dinhl)
+
+-[@ccleandro](https://github.com/ccleandro)
+
+-[@thomasPendleton](https://github.com/thomasPendleton)
+
+-[@iggh966380](https://github.com/iggh966380)
