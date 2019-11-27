@@ -5568,6 +5568,8 @@
 
 -[@Mietlicha](https://github.com/Mietlicha)
 
+-[@Abdifatah](htts://github.com/Horumarka123)
+
 -[@felixbec](https://github.com/felixbec)
 
 -[@rainoverme002](https://github.com/rainoverme002)
@@ -5575,6 +5577,8 @@
 -[@RTP2016](https://github.com/rtp2016)
 
 -[@DesCodes](https://github.com/DesCodes)
+
+-[@Dewey](https://github.com/dwikbtn)
 
 -[@PsyMadDoc](https://github.com/PsyMadDoc)
 
@@ -5593,3 +5597,9 @@
 -[@ccleandro](https://github.com/ccleandro)
 
 -[@realcollin](https://github.com/realcollin)
+
+-[@johnj-hernandez](https://github.com/johnj-hernandez)
+
+-[@thomasPendleton](https://github.com/thomasPendleton)
+
+-[@iggh966380](https://github.com/iggh966380)
