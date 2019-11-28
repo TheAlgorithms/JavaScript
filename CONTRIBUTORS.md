@@ -5609,3 +5609,15 @@
 -[@Gethric](https://github.com/Gethric)
 
 -[@FrancoMuniz](https://github.com/FrancoMuniz)
+
+-[@Funky20](https://github.com/Funky20)
+
+-[@alonzo0812](https://github.com/alonzo0812)
+
+-[@danilokujacic](https://github.com/danilokujacic)
+
+-[@sagihill](https://github.com/sagihill)
+
+-[@Yoavbenzvi](https://github.com/Yoavbenzvi)
+
+-[@asherkra](https://github.com/asherkra)
