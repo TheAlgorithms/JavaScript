@@ -5634,6 +5634,8 @@
 
 -[@Abdifatah](https://github.com/Horumarka123)
 
+-[@dcurrie96](https://github.com/dcurrie96)
+
 -[@MyNameIsNotDerek](https://github.com/MyNameIsNotDerek)
 
 -[@fatih-gunes](https://github.com/fatih-gunes)
