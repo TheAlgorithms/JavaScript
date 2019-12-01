@@ -80,6 +80,8 @@
 
 -[@Aravind](https://github.com/aravindeesh)
 
+
+
 -[@eduardoenari](https://github.com/eduardoenari)
 
 -[@Mia-Wenjin-Z](https://github.com/Mia-Wenjin-Z)
@@ -5554,6 +5556,8 @@
 
 -[@SenikFarsyan](https://github.com/SenikFarsyan)
 
+-[@morganputt](https://github.com/morganputt)
+
 -[@apwillett](https://github.com/apwillett)
 
 -[@codeninja404](https://github.com/codeninja404)
@@ -5633,3 +5637,33 @@
 -[@Abdifatah](https://github.com/Horumarka123)
 
 -[@shrishpandey08](https://github.com/shrishpandey08)
+
+-[@dcurrie96](https://github.com/dcurrie96)
+
+-[@MyNameIsNotDerek](https://github.com/MyNameIsNotDerek)
+
+-[@fatih-gunes](https://github.com/fatih-gunes)
+
+-[@GnarusGBaby](https://github.com/GnarusGBaby)
+
+-[@M4Anton](https://github.com/M4Anton)
+
+-[@roinisimi](https://github.com/roinisimi)
+
+-[@mcgrailtim](https://github.com/mcgrailtim)
+
+-[@pablogugarcia](https://github.com/pablogugarcia)
+
+-[@spacelamaa](https://github.com/spacelamaa)
+
+-[@ariskycode](https://github.com/ariskycode)
+
+-[@tastypurgen](https://github.com/tastypurgen)
+
+-[@tinkerer87](https://github.com/tinkerer87)
+
+-[@frank055019](http://github.com/frank055019)
+
+-[@phenoxp](https://github.com/phenoxp)
+
+-[@actll](https://github.com/actll)
