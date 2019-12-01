@@ -80,6 +80,8 @@
 
 -[@Aravind](https://github.com/aravindeesh)
 
+
+
 -[@eduardoenari](https://github.com/eduardoenari)
 
 -[@Mia-Wenjin-Z](https://github.com/Mia-Wenjin-Z)
@@ -5651,3 +5653,13 @@
 -[@pablogugarcia](https://github.com/pablogugarcia)
 
 -[@ariskycode](https://github.com/ariskycode)
+
+-[@tastypurgen](https://github.com/tastypurgen)
+
+-[@tinkerer87](https://github.com/tinkerer87)
+
+-[@frank055019](http://github.com/frank055019)
+
+-[@phenoxp](https://github.com/phenoxp)
+
+-[@actll](https://github.com/actll)
