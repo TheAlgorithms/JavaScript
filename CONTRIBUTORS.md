@@ -5672,6 +5672,8 @@
 
 -[@actll](https://github.com/actll)
 
+-[@DaoQuangThai](https://github.com/DaoQuangThai)
+
 -[@kkaranveer6](https://github.com/kkaranveer6)
 
 -[@alexander-alecsis](https://github.com/alexander-alecsis/)
