@@ -5704,8 +5704,12 @@
 
 -[@mohammadmaninang94](https://github.com/@mohammadmaninang94)
 
--[@ctimaru] (https://github.com/ctimaru)
+-[@ctimaru](https://github.com/ctimaru)
 
 -[@sorin66](https://github.com/sorin66)
 
 -[@StefanXLIV](https://github.com/StefanXLIV)
+
+-[@sovoessi](https://github.com/sovoessi)
+
+-[@sorin66](https://github.com/sorin66)
