@@ -5706,6 +5706,10 @@
 
 -[@ctimaru](https://github.com/ctimaru)
 
+-[@sorin66](https://github.com/sorin66)
+
+-[@StefanXLIV](https://github.com/StefanXLIV)
+
 -[@sovoessi](https://github.com/sovoessi)
 
 -[@sorin66](https://github.com/sorin66)
