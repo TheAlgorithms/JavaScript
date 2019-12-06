@@ -5731,6 +5731,8 @@
 
 -[@ImJustAsher](https://github.com/ImJustAsher)
 
+-[@laurentveyrat](https://github.com/laurentveyrat)
+
 -[@ArnoRG](https://github.com/ArnoRG)
 
 -[@tomrule007](https://github.com/tomrule007)
