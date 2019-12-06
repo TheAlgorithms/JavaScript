@@ -1,3 +1,4 @@
+
 # Contributors
 
 -[@AbsMechanik](https://github.com/AbsMechanik)
@@ -5727,3 +5728,15 @@
 -[@sachusanil](https://github.com/sachusanil)
 
 -[@drkphnx137](https://github.com/drkphnx137)
+
+-[@iArtz](https://github.com/iArtz)
+
+-[@ImJustAsher](https://github.com/ImJustAsher)
+
+-[@laurentveyrat](https://github.com/laurentveyrat)
+
+-[@ArnoRG](https://github.com/ArnoRG)
+
+-[@tomrule007](https://github.com/tomrule007)
+
+-[@ryangilbert](https://github.com/ryangilbert)
