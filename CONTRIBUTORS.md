@@ -5760,3 +5760,7 @@
 -[@anirban-s](https://github.com/anirban-s)
 
 -[@jmangafas](https://github.com/jmangafas)
+
+-[@Nikola-nova](https://github.com/Nikola-nova)
+
+-[@jezboa](https://github.com/JezBoa)
