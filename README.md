@@ -15,7 +15,7 @@
     * [Quick](#quick)
     * [Selection](#selection)
     * [Shell](#shell)
-* [Time Complexity Graphs](#time--complexity-graphs)
+* [Time Complexity Graphs](#time-complexity-graphs)
 * [Search Algorithms](#search-algorithms)
     * [Linear](#linear)
     * [Binary](#binary)
@@ -106,7 +106,7 @@ __Properties__
 
 ###### View the algorithm in [action][shell-toptal]
 
-### Time-Complexity Graphs
+### [Time-Complexity Graphs](#time-complexity-graphs)
 
 Comparing the complexity of sorting algorithms (Bubble Sort, Insertion Sort, Selection Sort)
 
