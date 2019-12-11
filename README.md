@@ -2,12 +2,36 @@
 
 ### All algorithms implemented in Javascript (for educational purposes only)
 
-These are for demonstration purposes only. There are many implementations of sorts in the Javascript standard library that are much better for performance reasons.
+
+```text
+👉 These are for demonstration purposes only. There are many implementations of sorts in the Javascript standard library that are much better for performance reasons.
+```
+
+### Algorithms
+* [Sort Algorithms](#sort-algorithms)
+    * [Bubble](#bubble)
+    * [Insertion](#insertion)
+    * [Merge](#merge)
+    * [Quick](#quick)
+    * [Selection](#selection)
+    * [Shell](#shell)
+* [Time Complexity Graphs](#time-compexity-graphs)
+* [Search Algorithms](#search-algorithms)
+    * [Linear](#linear)
+    * [Binary](#binary)
+    * [Jump](#jump)
+* [Ciphers](#ciphers)
+    * [Caesar](#caesar)
+    * [Vigenére](#vigenre)
+    * [Trasposition](#transposition)
+* [Checksums](#checksums)
+    * [Luhn's](#luhns)
+
 
 ## Sort Algorithms
 
 
-### Bubble
+### Bubble 
 ![alt text][bubble-image]
 
 From [Wikipedia][bubble-wiki]: Bubble sort, sometimes referred to as sinking sort, is a simple sorting algorithm that repeatedly steps through the list to be sorted, compares each pair of adjacent items and swaps them if they are in the wrong order. The pass through the list is repeated until no swaps are needed, which indicates that the list is sorted.
@@ -83,7 +107,7 @@ __Properties__
 
 ###### View the algorithm in [action][shell-toptal]
 
-### Time-Compexity Graphs
+### Time-Complexity Graphs
 
 Comparing the complexity of sorting algorithms (Bubble Sort, Insertion Sort, Selection Sort)
 
