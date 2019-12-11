@@ -22,7 +22,7 @@
     * [Jump](#jump)
 * [Ciphers](#ciphers)
     * [Caesar](#caesar)
-    * [Vigenére](#vigenre)
+    * [Vigenére](#vigenere)
     * [Trasposition](#transposition)
 * [Checksums](#checksums)
     * [Luhn's](#luhns)
