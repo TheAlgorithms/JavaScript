@@ -1,4 +1,3 @@
-
 # Contributors
 
 -[@AbsMechanik](https://github.com/AbsMechanik)
@@ -5655,6 +5654,8 @@
 
 -[@pablogugarcia](https://github.com/pablogugarcia)
 
+-[@frank055019](http://github.com/frank055019)
+
 -[@spacelamaa](https://github.com/spacelamaa)
 
 -[@ariskycode](https://github.com/ariskycode)
@@ -5792,3 +5793,31 @@
 -[@cspela](https://github.com/cspela)
 
 -[@dobrinov1](https://github.com/dobrinov1)
+
+-[@Kooki-eByte](https://github.com/Kooki-eByte)
+
+-[@MehdiHellal](https://github.com/MehdiHellal)
+
+-[@Sinziany](https://github.com/Sinziany)
+
+-[@LEO3IM](https://github.com/Leo3im)
+
+-[@benamipe](https://github.com/benamipe)
+
+-[@JaimeJangg](https://github.com/JaimeJangg)
+
+-[@Rival104](https://github.com/rival104)
+
+-[@Baile23](https://github.com/Baile23/)
+
+-[@BPankajsaha777](https://github.com/pankajsaha777)
+
+-[@oishi-Xii-iiX](https://github.com/oishi-Xii-iiX)
+
+-[@MunirMuratovic](https://github.com/MunirMuratovic/)
+
+-[@praneethpr](https://github.com/praneethpr)
+
+-[@rama99](https://github.com/rama99)
+
+-[@holufemy](https://github.com/holufemy/)
