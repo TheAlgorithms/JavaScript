@@ -179,7 +179,7 @@ Mathematically a bijective function is used on the characters' positions to encr
 
 ## Checksums
 
-### Luhn's
+### [Luhn's](#luhns)
 The Luhn algorithm or Luhn formula, also known as the "modulus 10" or "mod 10" algorithm, is a simple checksum formula used to validate a variety of identification numbers, such as credit card numbers, IMEI numbers, National Provider Identifier numbers in the United States, Canadian Social Insurance Numbers, Israel ID Numbers and Greek Social Security Numbers. It was created by IBM scientist Hans Peter Luhn and described in U.S. Patent No. 2,950,048, filed on January 6, 1954, and granted on August 23, 1960.
 ###### Source: [Wikipedia](https://en.wikipedia.org/wiki/Transposition_cipher)
 [bubble-toptal]: https://www.toptal.com/developers/sorting-algorithms/bubble-sort
