@@ -15,7 +15,7 @@
     * [Quick](#quick)
     * [Selection](#selection)
     * [Shell](#shell)
-* [Time Complexity Graphs](#time-compexity-graphs)
+* [Time Complexity Graphs](#time--complexity-graphs)
 * [Search Algorithms](#search-algorithms)
     * [Linear](#linear)
     * [Binary](#binary)
@@ -26,7 +26,6 @@
     * [Trasposition](#transposition)
 * [Checksums](#checksums)
     * [Luhn's](#luhns)
-
 
 ## Sort Algorithms
 
