@@ -5824,3 +5824,14 @@
 
 -[@OuedraogoAbdoul](https://github.com/OuedraogoAbdoul)
 
+-[@Fomachka](https://github.com/Fomachka/)
+
+-[@masbindev](https://github.com/masbindev)
+
+-[@bayramhayri](https://github.com/bayramhayri/)
+
+-[@thatchubbydev](https://github.com/holufemy/)
+
+-[@xfreddy2007](https://github.com/xfreddy2007)
+
+-[@yaminolight](https://github.com/yaminolight/)
