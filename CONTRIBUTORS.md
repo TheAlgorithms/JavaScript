@@ -1,4 +1,5 @@
 # Contributors
+-[@shabname](https://github.com/shabname)
 
 -[@AbsMechanik](https://github.com/AbsMechanik)
 
@@ -5822,6 +5823,8 @@
 
 -[@holufemy](https://github.com/holufemy/)
 
+-[@ddball14](https://github.com/ddball14/)
+
 -[@OuedraogoAbdoul](https://github.com/OuedraogoAbdoul)
 
 -[@Fomachka](https://github.com/Fomachka/)
@@ -5848,3 +5851,6 @@
 
 -[@d212digital](https://github.com/d212digital)
 
+-[@mrosenberg97](https://github.com/mrosenberg97)
+
+-[@MikePaz](https://github.com/MikePaz)
