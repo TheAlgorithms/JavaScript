@@ -5887,4 +5887,6 @@
 
 -[@deanantonic](https://github.com/deanantonic)
 
+-[@Jugo-JS](https://github.com/Jugo-JS)
+
 -[@hridhaymurali](https://github.com/hridhaymurali)
