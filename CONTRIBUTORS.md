@@ -1,4 +1,4 @@
-# Contributors
+.l# Contributors
 -[@shabname](https://github.com/shabname)
 
 -[@AbsMechanik](https://github.com/AbsMechanik)
@@ -5889,6 +5889,8 @@
 
 -[@deanantonic](https://github.com/deanantonic)
 
+-[@inky-jpg](https://github.com/inky-jpg)
+
 -[@mslh](https://github.com/mslh)
 
 -[@Longdh57](https://github.com/Longdh57)
@@ -5906,3 +5908,9 @@
 -[@hridhaymurali](https://github.com/hridhaymurali)
 
 -[@harshitsoni333](https://github.com/harshitsoni333)
+
+-[@brokerstir](https://github.com/brokerstir)
+
+-[@kaush-at](https://github.com/kaush-at/)
+
+-[@adijat-u](https://github.com/adijat-ui/)
