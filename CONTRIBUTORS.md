@@ -5915,6 +5915,8 @@
 
 -[@adijat-u](https://github.com/adijat-ui/)
 
+-[@Bernardus](https://github.com/Bernardus/)
+
 -[@JheyTim](https://github.com/JheyTim/)
 
 -[@bhu1tyagi](https://github.com/bhu1tyagi/)
@@ -5922,3 +5924,9 @@
 -[@bp96](https://github.com/bp96/)
 
 -[@jcarlorosco](https://github.com/jcarlorosco/)
+
+-[@lizbeth58](https://github.com/lizbeth58/)
+
+-[@999galk](https://github.com/999galk/)
+
+-[@lthirdtradel](https://github.com/lthirdtradel/)
