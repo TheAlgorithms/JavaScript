@@ -5942,3 +5942,19 @@
 -[@skorkoyah](https://github.com/skorkoyah)
 
 -[@Rovinox](https://github.com/rovinox)
+
+-[@crissesoto](https://github.com/crissesoto)
+
+-[@qurram-zaheer](https://github.com/qurram-zaheer)
+
+-[@archerzou](https://github.com/archerzou)
+
+-[@shubhsk88](https://github.com/shubhsk88/) 
+
+-[@jton307](https://github.com/jton307)
+
+-[@Calkines](https://github.com/Calkines)
+
+-[@Faschal](https://github.com/Faschal)
+
+-[@sirpeabody](https://gitub.com/sirpeabody)
