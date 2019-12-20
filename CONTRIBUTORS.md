@@ -5949,7 +5949,7 @@
 
 -[@archerzou](https://github.com/archerzou)
 
--[@shubhsk88](https://github.com/shubhsk88/) 
+-[@shubhsk88](https://github.com/shubhsk88/)
 
 -[@jton307](https://github.com/jton307)
 
@@ -5962,3 +5962,5 @@
 -[@wroblewskim95](https://github.com/wroblewskim95)
 
 -[@umex](https://github.com/umex)
+
+-[@daudsemab](https://github.com/daudsemab)
