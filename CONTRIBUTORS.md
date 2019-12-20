@@ -5951,7 +5951,7 @@
 
 -[@archerzou](https://github.com/archerzou)
 
--[@shubhsk88](https://github.com/shubhsk88/) 
+-[@shubhsk88](https://github.com/shubhsk88/)
 
 -[@jton307](https://github.com/jton307)
 
@@ -5965,7 +5965,8 @@
 
 -[@umex](https://github.com/umex)
 
+-[@daudsemab](https://github.com/daudsemab)
+
 -[@iamtodorg](https://github.com/iamtodorg/)
 
 -[@cocoxiang123](https://github.com/cocoxiang123)
-
