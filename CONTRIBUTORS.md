@@ -5941,6 +5941,8 @@
 
 -[@skorkoyah](https://github.com/skorkoyah)
 
+-[@AdrianaBogdanova](https://github.com/AdrianaBogdanova)
+
 -[@Rovinox](https://github.com/rovinox)
 
 -[@crissesoto](https://github.com/crissesoto)
@@ -5949,7 +5951,7 @@
 
 -[@archerzou](https://github.com/archerzou)
 
--[@shubhsk88](https://github.com/shubhsk88/) 
+-[@shubhsk88](https://github.com/shubhsk88/)
 
 -[@jton307](https://github.com/jton307)
 
@@ -5964,3 +5966,9 @@
 -[@umex](https://github.com/umex)
 
 -[@f228476653](https://github.com/f228476653)
+
+-[@daudsemab](https://github.com/daudsemab)
+
+-[@iamtodorg](https://github.com/iamtodorg/)
+
+-[@cocoxiang123](https://github.com/cocoxiang123)
