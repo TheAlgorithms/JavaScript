@@ -5995,4 +5995,14 @@
 
 -[@tylerfred](http://github.com/tylerfred)
 
+-[@bmatoga](http://github.com/bmatoga)
+
+-[@ArunJose](http://github.com/ArunJose)
+
+-[@kaiorosa1](http://github.com/kaiorosa1)
+
+-[@KevinGodinho](https://github.com/KevinGodinho)
+
+-[@hmarvi](https://github.com/hmarvi)
+
 -[@MantiMantilla](https://github.com/MantiMantilla)
