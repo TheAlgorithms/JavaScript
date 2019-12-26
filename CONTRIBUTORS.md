@@ -5922,6 +5922,8 @@
 
 -[@bp96](https://github.com/bp96/)
 
+-[@smorrsondev](https://github.com/smorrsondev/)
+
 -[@avilevant](https://github.com/avilevant/)
 
 -[@jcarlorosco](https://github.com/jcarlorosco/)
@@ -6063,3 +6065,7 @@
 -[@canberker](https://github.com/CanBerker)
 
 -[@sameedahmad](https://github.com/sameedahmad)
+
+-[@damian80](https://github.com/damian80)
+
+-[@S-FK](https://github.com/S-FK)
