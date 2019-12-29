@@ -6131,3 +6131,5 @@
 -[@sage4outlook](https://github.com/sage4outlook)
 
 -[@AdequatelyUnscrupulous](https://github.com/AdequatelyUnscrupulous)
+
+-[@Arthurmtro](https://github.com/Arthurmtro)
