@@ -1,4 +1,8 @@
-.l# Contributors -[@shabname](https://github.com/shabname)
+.l# Contributors 
+
+-[@dev-bash](https://github.com/dev-bash)
+
+-[@shabname](https://github.com/shabname)
 
 -[@AbsMechanik](https://github.com/AbsMechanik)
 
@@ -6157,3 +6161,7 @@
 -[@cefong](https://github.com/cefong/)
 
 -[@StephenBrooks220413](https://github.com/stephenBrooks220413/)
+
+-[@adamhartman5](https://github.com/adamhartman5/)
+
+-[@adimohankv](https://github.com/adimohankv)
