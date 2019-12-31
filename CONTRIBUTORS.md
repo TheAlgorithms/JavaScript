@@ -1,4 +1,8 @@
-.l# Contributors -[@shabname](https://github.com/shabname)
+.l# Contributors 
+
+-[@dev-bash](https://github.com/dev-bash)
+
+-[@shabname](https://github.com/shabname)
 
 -[@AbsMechanik](https://github.com/AbsMechanik)
 
