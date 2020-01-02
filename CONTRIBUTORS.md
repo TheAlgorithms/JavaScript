@@ -6172,11 +6172,11 @@
 
 -[@ubaydillah77](https://github.com/ubaydillah77/)
 
-- [@jordansmw](https://github.com/jordansmw/)
+-[@jordansmw](https://github.com/jordansmw/)
 
-- [@chameerakularathna](https://github.com/chameerakularathna/)
+-[@chameerakularathna](https://github.com/chameerakularathna/)
 
-- [@Tourier](https://github.com/Tourier/)
+-[@Tourier](https://github.com/Tourier/)
 
 -[KattaSarathTeja](https://github.com/KattaSarathTeja/)
 
@@ -6191,3 +6191,7 @@
 -[@Mouhamed27-99](https://github.com/Mouhamed27-99)
 
 -[@tavinogradova92](https://github.com/tavinogradova92)
+
+-[@david-is](https://github.com/david-is)
+
+-[@dro-1](https://github.com/dro-1)
