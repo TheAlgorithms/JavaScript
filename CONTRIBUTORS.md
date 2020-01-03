@@ -6206,6 +6206,8 @@
 
 -[@dro-1](https://github.com/dro-1)
 
+-[@Hsins](https://github.com/Hsins)
+
 -[KevinGueug](https://github.com/KevinGueug)
 
 -[@BexarYbarra](https://github.com/BexarYbarra)
