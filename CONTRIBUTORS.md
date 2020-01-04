@@ -282,6 +282,8 @@
 
 -[@gillenha](https://github.com/gillenha)
 
+-[@collinsmuriuki](https://github.com/collinsmuriuki)
+
 -[@deltachannel](https://github.com/deltachannel)
 
 -[@andresrmts](https://github.com/andresrmts)
