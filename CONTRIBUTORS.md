@@ -6229,3 +6229,13 @@
 -[@Perry-Olsson](https://github.com/Perry-Olsson)
 
 -[@rubendplaza](https://github.com/rubendplaza)
+
+-[@mateuzor](https://github.com/mateuzor)
+
+-[@trued-code](https://github.com/trued-code)
+
+-[@meifius](https://github.com/meifius)
+
+-[@Sanssy](https://github.com/Sanssy)
+
+-[@gianayang](https://github.com/gianayang)
