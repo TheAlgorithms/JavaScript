@@ -2,6 +2,8 @@
 
 -[@dev-bash](https://github.com/dev-bash)
 
+-[@mohitsoni-dev](https://github.com/mohitsoni-dev)
+
 -[@shabname](https://github.com/shabname)
 
 -[@AbsMechanik](https://github.com/AbsMechanik)
@@ -6265,3 +6267,11 @@
 -[@DS-B-BB-G](https://github.com/DS-B-BB-G)
 
 -[@malikmukhtar](https://github.com/malikmukhtar/)
+
+-[@MosheD1](https://github.com/MosheD1)
+
+-[@Bilaal96](https://github.com/Bilaal96/)
+
+-[@anshulsingh-py](https://github.com/anshulsingh-py)
+
+-[@chiranjit](https://github.com/Chiranjit9955)
