@@ -6270,6 +6270,8 @@
 
 -[@DS-B-BB-G](https://github.com/DS-B-BB-G)
 
+-[@shoheihagiwara](https://github.com/shoheihagiwara)
+
 -[@akim3245](https://github.com/akim3245)
 
 -[@quantos12](https://github.com/quantos12)
