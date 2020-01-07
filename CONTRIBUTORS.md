@@ -6292,6 +6292,8 @@
 
 -[@smil3cz](https://github.com/smil3cz)
 
+-[@VelizarStavrev](https://github.com/VelizarStavrev)
+
 -[@vaseapinkov](https://github.com/vaseapinkov)
 
 -[@bhavesh-gulabani](https://github.com/bhavesh-gulabani)
