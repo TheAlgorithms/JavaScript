@@ -2,6 +2,8 @@
 
 -[@dev-bash](https://github.com/dev-bash)
 
+-[@mohitsoni-dev](https://github.com/mohitsoni-dev)
+
 -[@shabname](https://github.com/shabname)
 
 -[@AbsMechanik](https://github.com/AbsMechanik)
@@ -6074,6 +6076,8 @@
 
 -[@canberker](https://github.com/CanBerker)
 
+-[@Ram-1984](https://github.com/Ram-1984)
+
 -[@sameedahmad](https://github.com/sameedahmad)
 
 -[@damian80](https://github.com/damian80)
@@ -6262,6 +6266,48 @@
 
 -[mszpila](https://github.com/mszpila)
 
+-[@JKeroz](https://github.com/JKeroz)
+
+-[@marvinesu](https://github.com/marvinesu/)
+
 -[@DS-B-BB-G](https://github.com/DS-B-BB-G)
 
 -[@Butters12](https://github.com/Butters12)
+
+-[@shoheihagiwara](https://github.com/shoheihagiwara)
+
+-[@akim3245](https://github.com/akim3245)
+
+-[@quantos12](https://github.com/quantos12)
+
+-[@malikmukhtar](https://github.com/malikmukhtar/)
+
+-[@MosheD1](https://github.com/MosheD1)
+
+-[@Bilaal96](https://github.com/Bilaal96/)
+
+-[@anshulsingh-py](https://github.com/anshulsingh-py)
+
+-[@chiranjit](https://github.com/Chiranjit9955)
+
+-[@mayIGit](https://github.com/mayIGit)
+
+-[@selva08](https://github.com/selva08)
+
+-[@smil3cz](https://github.com/smil3cz)
+
+-[@VelizarStavrev](https://github.com/VelizarStavrev)
+
+-[@vaseapinkov](https://github.com/vaseapinkov)
+
+-[@bhavesh-gulabani](https://github.com/bhavesh-gulabani)
+
+-[@areddin409](https://github.com/areddin409)
+
+-[@sanchit-mendiratta](https://github.com/sanchit-mendiratta)
+
+-[@alfredoTorreblanca](https://github.com/alfredoTorreblanca)
+
+-[@dj12589](https://github.com/dj12589)
+
+-[@MariaKnapic](https://github.com/MariaKnapic)
