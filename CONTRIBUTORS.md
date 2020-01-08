@@ -6314,8 +6314,7 @@
 
 -[@MariaKnapic](https://github.com/MariaKnapic)
 
-
--[@Luis0lo] (https://github.com/Luis0lo)
+-[@Luis0lo](https://github.com/Luis0lo)
 
 -[@Rbell71390](https://github.com/Rbell71390)
 
@@ -6329,3 +6328,4 @@
 
 -[@duynvh](https://github.com/duynvh)
 
+-[@Harshita-Kanal](https://github.com/Harshita-Kanal)
