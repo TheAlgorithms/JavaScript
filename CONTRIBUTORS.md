@@ -6272,6 +6272,8 @@
 
 -[@DS-B-BB-G](https://github.com/DS-B-BB-G)
 
+-[@Butters12](https://github.com/Butters12)
+
 -[@shoheihagiwara](https://github.com/shoheihagiwara)
 
 -[@akim3245](https://github.com/akim3245)
@@ -6294,6 +6296,8 @@
 
 -[@smil3cz](https://github.com/smil3cz)
 
+-[@SurabhiGupta1999](https://github.com/SurabhiGupta1999)
+
 -[@VelizarStavrev](https://github.com/VelizarStavrev)
 
 -[@vaseapinkov](https://github.com/vaseapinkov)
@@ -6310,4 +6314,18 @@
 
 -[@MariaKnapic](https://github.com/MariaKnapic)
 
+
 -[@Luis0lo] (https://github.com/Luis0lo)
+
+-[@Rbell71390](https://github.com/Rbell71390)
+
+-[@rathna-git](https://github.com/rathna-git)
+
+-[@dylangit01](https://github.com/dylangit01)
+
+-[@Ashut0shIT](https://github.com/Ashut0shIT)
+
+-[@nik0laveljanovski](https://github.com/nik0laveljanovski)
+
+-[@duynvh](https://github.com/duynvh)
+
