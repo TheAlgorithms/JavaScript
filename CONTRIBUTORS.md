@@ -2,6 +2,8 @@
 
 -[@dev-bash](https://github.com/dev-bash)
 
+-[@Dielem7](https://github.com/dielem7)
+
 -[@mohitsoni-dev](https://github.com/mohitsoni-dev)
 
 -[@shabname](https://github.com/shabname)
@@ -6232,6 +6234,8 @@
 
 -[@karthikshetty031](https://github.com/karthikshetty03)
 
+-[@narekz](https://github.com/narekz)
+
 -[@Perry-Olsson](https://github.com/Perry-Olsson)
 
 -[@rubendplaza](https://github.com/rubendplaza)
@@ -6328,6 +6332,10 @@
 
 -[@duynvh](https://github.com/duynvh)
 
+-[@dillonkmcquade](https://github.com/dillonkmcquade)
+
 -[@Harshita-Kanal](https://github.com/Harshita-Kanal)
 
--[@hannahstebnicki] (https://github.com/hannahstebnicki/)
+-[@hannahstebnicki](https://github.com/hannahstebnicki/)
+
+-[@ibrahimvid](https://github.com/ibrahimvid)
