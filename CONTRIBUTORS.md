@@ -2,6 +2,8 @@
 
 -[@dev-bash](https://github.com/dev-bash)
 
+-[@Dielem7](https://github.com/dielem7)
+
 -[@mohitsoni-dev](https://github.com/mohitsoni-dev)
 
 -[@shabname](https://github.com/shabname)
