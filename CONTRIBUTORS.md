@@ -1,5 +1,5 @@
 .l# Contributors
-- [@akashchakroborty](https://github.com/akashchakroborty)
+-[@akashchakroborty](https://github.com/akashchakroborty)
 
 -[@dev-bash](https://github.com/dev-bash)
 
@@ -6340,6 +6340,8 @@
 -[@hannahstebnicki](https://github.com/hannahstebnicki/)
 
 -[@ibrahimvid](https://github.com/ibrahimvid)
+
+-[@SIMPLYBOYS](https://github.com/SIMPLYBOYS)
 
 -[@Hadeel-wd](https://github.com/Hadeel-wd) 
 
