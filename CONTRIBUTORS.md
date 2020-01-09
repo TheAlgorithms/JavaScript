@@ -1,4 +1,5 @@
 .l# Contributors
+-[@akashchakroborty](https://github.com/akashchakroborty)
 
 -[@dev-bash](https://github.com/dev-bash)
 
@@ -6341,3 +6342,17 @@
 -[@ibrahimvid](https://github.com/ibrahimvid)
 
 -[@vinnieOrdobas](https://github.com/vinnieOrdobas)
+
+-[@versidio](https://github.com/versidio)
+
+-[@farhandesign](https://github.com/farhandesign)
+
+-[@basilizk](https://github.com/basilizk/)
+
+-[@SIMPLYBOYS](https://github.com/SIMPLYBOYS)
+
+-[@Hadeel-wd](https://github.com/Hadeel-wd) 
+
+-[@Avivshi](https://github.com/Avivshi/)
+
+-[@lincolnwolf](https:github.com/lincolnwolf)
