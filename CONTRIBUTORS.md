@@ -6341,6 +6341,8 @@
 
 -[@ibrahimvid](https://github.com/ibrahimvid)
 
+-[@kikotaz](https://github.com/kikotaz)
+
 -[@eyimo](https://github.com/eyimo/)
 
 -[@vinnieOrdobas](https://github.com/vinnieOrdobas)
