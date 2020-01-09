@@ -6341,6 +6341,8 @@
 
 -[@ibrahimvid](https://github.com/ibrahimvid)
 
+-[@versidio](https://github.com/versidio)
+
 -[@farhandesign](https://github.com/farhandesign)
 
 -[@basilizk](https://github.com/basilizk/)
