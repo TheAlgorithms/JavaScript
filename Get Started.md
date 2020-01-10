@@ -1,11 +1,11 @@
 # Getting Started
 
-Getting started with open-source can be a difficult task, not only because we are being introduced to some new technologies, but also because most of us have never worked in a collaborative environment before. Being able to work in a collaborative environment is one of the most important skills anyone could acquire, not only in the coding and programming area, but in life. 
+Getting started with open-source can be a difficult task, not only because we are being introduced to some new technologies, but also because most of us have never worked in a collaborative environment before. Being able to work in a collaborative environment is one of the most important skills anyone could acquire, not only in the coding and programming area, but in life.
 
 It may appear a very challenging and overwhelming task at first, but it is, in fact, a fun and rewarding experience.
 
 # Community Collaboration Projects
-After the fantastic success that [Mappypals](https://github.com/zero-to-mastery/mappypals) is seeing and the high demand for similar projects, we would like to trial some community lead projects. 
+After the fantastic success that [Mappypals](https://github.com/zero-to-mastery/mappypals) is seeing and the high demand for similar projects, we would like to trial some community lead projects.
 Providing the opportunity for you to flex you developer muscles, whilst working within a team of developers. Gaining valuable skills, employers are always seeking, such as:
 - **Communication and collaboration** - Being able to work in a team and communicating effectively is a very important skill
 - **Github and source control** - In these projects you will have the opportunity to understand, why branching is important along with other key github skills.
@@ -26,7 +26,7 @@ We are always on the look out for new and exciting project to add to Zero to Mas
 - Reach out to a member of the Management Team on our Discord server, with a detailed project brief
 - Management team will consider if the project is something that would work well with the community
 - A Repository will be created and the project will be announced in #current-project channel in our Discord server and featured during an upcoming announcement by Andrei
-- If the project has enough demand, a dedicated channel will be created to accomodate discussions. 
+- If the project has enough demand, a dedicated channel will be created to accomodate discussions.
 
 ### **Rules**
 In order to ensure that students hard work and time are not exploited, there are a couple of rules that will need to be followed for any project:
@@ -35,7 +35,7 @@ In order to ensure that students hard work and time are not exploited, there are
 - The project must contain and adhere to the `code of conduct` guide found [here](https://github.com/zero-to-mastery/start-here-guidelines/blob/master/CODE_OF_CONDUCT.md)
 
 ## Current Projects
-You can view all current projects [here](https://github.com/zero-to-mastery) or you can view the specific #current-projects channel in our Discord Community that gives you a little more detail on each project. 
+You can view all current projects [here](https://github.com/zero-to-mastery) or you can view the specific #current-projects channel in our Discord Community that gives you a little more detail on each project.
 
 ## What is open source?
 
@@ -61,14 +61,17 @@ Here, practicing would be our primary objective but there are also many pragmati
 
 **1.** **Test :**  Start with testing the code for any bugs, if found raise an issue about it. (Always check first if someone has already raised an issue for the same.)
 
-**2.** **Suggest features:** Look for possible improvements and provide suggestions in the comment section. 
+**2.** **Suggest features:** Look for possible improvements and provide suggestions in the comment section.
 
 **3.** **Design:** Considering the fact that practice is the main objective, try to make little changes on your forked repository and make a pull-request about it. *Commit often and provide appropriate messages to your commits.*
 
-**4.** You can also help in providing proper documentation of the various projects. 
+**4.** You can also help in providing proper documentation of the various projects.
 
 
 *I hope it helps you.*
 
 
 *Happy Coding!*
+
+
+*Here I am, Adding My OWN CONTRIBUTION* - andrew p 
