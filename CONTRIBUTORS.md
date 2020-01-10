@@ -6359,4 +6359,6 @@
 
 -[@Avivshi](https://github.com/Avivshi/)
 
--[@lincolnwolf](https:github.com/lincolnwolf)
+-[@lincolnwolf](https://github.com/lincolnwolf)
+
+-[@glentanner](https://github.com/glentanner)
