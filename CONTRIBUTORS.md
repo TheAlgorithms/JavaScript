@@ -5954,6 +5954,10 @@
 
 -[@skorkoyah](https://github.com/skorkoyah)
 
+-[@Calkines](https://github.com/Calkines)
+
+-[@jaykayomale](https://github.com/jaykayomale)
+
 -[@AdrianaBogdanova](https://github.com/AdrianaBogdanova)
 
 -[@Rovinox](https://github.com/rovinox)
@@ -6358,6 +6362,30 @@
 
 -[@Avivshi](https://github.com/Avivshi/)
 
+-[@lincolnwolf](https://github.com/lincolnwolf)
+
+-[@glentanner](https://github.com/glentanner)
+
 -[@lincolnwolf](https:github.com/lincolnwolf)
 
 -[@chenhe-henry](https://github.com/chenhe-henry)
+
+-[@borsalinokizaru](https://github.com/borsalinokizaru)
+
+-[@AnishHajare](https:github.com/AnishHajare)
+
+-[@DeniseAndron](https://github.com/DeniseAndron)
+
+-[@OVERLORDWRATH](https:github.com/OVERLORDWRATH/)
+
+-[@kevinyooky](https://github.com/kevinyooky)
+
+-[@wantedHorizon](https:github.com/wantedHorizon)
+
+-[@putskydee](https:github.com/putskydee)
+
+-[@Abderyett](https://github.com/Abderyett)
+
+-[@britlim](https://github.com/britlim)
+
+-[@andrewbaisden](https:github.com/andrewbaisden)
