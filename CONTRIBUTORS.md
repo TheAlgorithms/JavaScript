@@ -6359,7 +6359,7 @@
 
 -[@SIMPLYBOYS](https://github.com/SIMPLYBOYS)
 
--[@Hadeel-wd](https://github.com/Hadeel-wd) 
+-[@Hadeel-wd](https://github.com/Hadeel-wd)
 
 -[@Avivshi](https://github.com/Avivshi/)
 
@@ -6368,6 +6368,8 @@
 -[@glentanner](https://github.com/glentanner)
 
 -[@lincolnwolf](https:github.com/lincolnwolf)
+
+-[@AnishHajare](https:github.com/AnishHajare)
 
 -[@DeniseAndron](https://github.com/DeniseAndron)
 
