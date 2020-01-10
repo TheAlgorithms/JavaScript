@@ -5955,6 +5955,10 @@
 
 -[@skorkoyah](https://github.com/skorkoyah)
 
+-[@Calkines](https://github.com/Calkines)
+
+-[@jaykayomale](https://github.com/jaykayomale)
+
 -[@AdrianaBogdanova](https://github.com/AdrianaBogdanova)
 
 -[@Rovinox](https://github.com/rovinox)
