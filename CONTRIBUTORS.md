@@ -1,4 +1,6 @@
-.l# Contributors -[@akashchakroborty](https://github.com/akashchakroborty)
+# Contributors 
+
+-[@akashchakroborty](https://github.com/akashchakroborty)
 
 -[@dev-bash](https://github.com/dev-bash)
 
@@ -3177,6 +3179,8 @@
 -[@oh-sully](https://github.com/oh-sully)
 
 -[@jrodowick](https://github.com/jrodowick)
+
+-[@L3oneM](https://github.com/L3oneM)
 
 -[@majorkira](https://github.com/majorkira)
 
@@ -6391,3 +6395,25 @@
 -[@britlim](https://github.com/britlim)
 
 -[@andrewbaisden](https://github.com/andrewbaisden)
+
+-[@andrewbaisden](https:github.com/andrewbaisden)
+
+-[@rdo94](https://github.com/rdo94)
+
+-[@tumom](https:github.com/tumom)
+
+-[@klavenjones](https:github.com/klavenjones)
+
+-[@Souoishi](https:github.com/Souoishi)
+
+-[@ARAldhafeeri](https:github.com/ARAldhafeeri)
+
+-[@raghavagg01](https:github.com/raghavagg01)
+
+-[@nmrabet](https://github.com/nmrabet)  
+
+-[@Aryanak47](https:github.com/Aryanak47)
+
+-[@arnabuchiha](https://github.com/arnabuchiha)
+
+-[@NikosMpountalis](https://github.com/NikosMpountalis)
