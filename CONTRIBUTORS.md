@@ -6398,6 +6398,8 @@
 
 -[@andrewbaisden](https:github.com/andrewbaisden)
 
+-[@Jhonnynd](https:github.com/Jhonnynd)
+
 -[@rdo94](https://github.com/rdo94)
 
 -[@tumom](https:github.com/tumom)
@@ -6412,10 +6414,16 @@
 
 -[@nmrabet](https://github.com/nmrabet)  
 
--[@Aryanak47](https:github.com/Aryanak47)
+-[@Aryanak47](https://github.com/Aryanak47)
 
 -[@arnabuchiha](https://github.com/arnabuchiha)
 
 -[@NikosMpountalis](https://github.com/NikosMpountalis)
 
 -[@Dilsshad1Alam2](https://github.com/Dilsshad1Alam2)
+
+-[@vedantjoshi84](https://github.com/vedantjoshi84)
+
+-[@newmemes2020](https://github.com/newmemes2020)
+
+-[@breburdaTom](https://github.com/breburdaTom/)
