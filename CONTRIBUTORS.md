@@ -6398,6 +6398,8 @@
 
 -[@andrewbaisden](https:github.com/andrewbaisden)
 
+-[@Jhonnynd](https:github.com/Jhonnynd)
+
 -[@rdo94](https://github.com/rdo94)
 
 -[@tumom](https:github.com/tumom)
@@ -6419,3 +6421,7 @@
 -[@NikosMpountalis](https://github.com/NikosMpountalis)
 
 -[@vedantjoshi84](https://github.com/vedantjoshi84)
+
+-[@newmemes2020](https://github.com/newmemes2020)
+
+-[@breburdaTom](https://github.com/breburdaTom/)
