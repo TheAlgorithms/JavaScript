@@ -6441,4 +6441,9 @@
 -[@newmemes2020](https://github.com/newmemes2020)
 
 -[@breburdaTom](https://github.com/breburdaTom/)
+
 -[@TheAstutian](https://github.com/TheAstutian)
+
+-[@stiehlrobot](https://github.com/stiehlrobot)
+
+-[@redoz94](https://github.com/redoz94/)
