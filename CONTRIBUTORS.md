@@ -6442,6 +6442,8 @@
 
 -[@breburdaTom](https://github.com/breburdaTom/)
 
+-[@beniciodaniel](https://github.com/beniciodaniel/)
+
 -[@curiousGeek7](https://github.com/curiousGeek7/)
 
 -[@konstantindergachev](https://github.com/konstantindergachev)
