@@ -1,4 +1,4 @@
-# Contributors 
+# Contributors
 
 -[@akashchakroborty](https://github.com/akashchakroborty)
 
@@ -6441,6 +6441,8 @@
 -[@newmemes2020](https://github.com/newmemes2020)
 
 -[@breburdaTom](https://github.com/breburdaTom/)
+
+-[@TheAstutian](https://github.com/TheAstutian)
 
 -[@stiehlrobot](https://github.com/stiehlrobot)
 
