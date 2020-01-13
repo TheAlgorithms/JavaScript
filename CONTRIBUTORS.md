@@ -1,4 +1,4 @@
-# Contributors 
+# Contributors
 
 -[@akashchakroborty](https://github.com/akashchakroborty)
 
@@ -6443,3 +6443,11 @@
 -[@breburdaTom](https://github.com/breburdaTom/)
 
 -[@curiousGeek7](https://github.com/curiousGeek7/)
+
+-[@konstantindergachev](https://github.com/konstantindergachev)
+
+-[@TheAstutian](https://github.com/TheAstutian)
+
+-[@stiehlrobot](https://github.com/stiehlrobot)
+
+-[@redoz94](https://github.com/redoz94/)
