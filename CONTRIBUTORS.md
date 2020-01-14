@@ -6458,4 +6458,24 @@
 
 -[@MatthijsvandPlas](https://github.com/MatthijsvanderPlas)
 
+-[@bKedds](https://github.com/bKedds/)
+
+-[@andy890275](https://github.com/andy890275/)
+
+-[@NugBug](https://github.com/NugBug)
+
+-[@Amitsaig](https://github.com/Amitsaig)
+
+-[@dcordell99](https://github.com/dcordell99/)
+
+-[@TheMoonMoth](https://github.com/TheMoonMoth)
+
+-[@jdotchery] (https://github.com/jdotchery)
+
+-[@banhawchun](https://github.com/banhawchun)
+
+-[@sprucetonye](https://github.com/sprucetonye)
+
+-[@A-ElNawawy](https://github.com/A-ElNawawy)
+
 -[@heylo1](https://github.com/heylo1)
