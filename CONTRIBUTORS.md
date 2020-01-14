@@ -6458,4 +6458,12 @@
 
 -[@MatthijsvandPlas](https://github.com/MatthijsvanderPlas)
 
+-[@bKedds](https://github.com/bKedds/)
+
+-[@andy890275](https://github.com/andy890275/)
+
+-[@NugBug](https://github.com/NugBug)
+
+-[@Amitsaig](https://github.com/Amitsaig)
+
 -[@dcordell99](https://github.com/dcordell99/)
