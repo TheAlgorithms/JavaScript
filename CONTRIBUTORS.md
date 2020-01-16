@@ -254,7 +254,7 @@
 
 -[@blackchild](https://github.com/blackchild)
 
--[@khairulezwan](https://github.com/khairulezwangit)
+-[@khairulezwan](https://github.com/khairulezwan)
 
 -[@yonlu](https://github.com/yonlu)
 
