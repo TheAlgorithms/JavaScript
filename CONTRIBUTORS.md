@@ -6518,6 +6518,8 @@
 
 -[@LuPeter](https://github.com/LuPeter)
 
+-[@szocsmihai](https://github.com/szocsmihai)
+
 -[@krishan93985](https://github.com/krishan93985)
 
 -[@CTMBeast](https://github.com/CTMBeast)
