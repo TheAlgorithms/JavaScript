@@ -5186,6 +5186,9 @@
 
 -[@RohitTh69](https://github.com/RohitTh69)
 
+
+-[@dapriest01](https://github.com/dapriest01)
+
 -[@TheProrok29](https://github.com/TheProrok29)
 
 -[@aeonincode](https://github.com/aeonincode)
@@ -6414,7 +6417,7 @@
 
 -[@raghavagg01](https:github.com/raghavagg01)
 
--[@nmrabet](https://github.com/nmrabet)  
+-[@nmrabet](https://github.com/nmrabet)
 
 -[@Aryanak47](https://github.com/Aryanak47)
 
@@ -6583,5 +6586,11 @@
 -[@jojowabbit](https://github.com/jojowabbit/)
 
 -[@rylim](https://github.com/rylim)
+
+-[@alanerse](https://github.com/alanerse)
+
+-[@Nikhil-Saunshi](https://github.com/Nikhil-Saunshi)
+
+-[@pmind2015](https://github.com/pmind2015)
 
 -[@Chrononox](https://github.com/Chrononox)
