@@ -6572,4 +6572,10 @@
 
 -[@aidensung](https://github.com/aidensung)
 
+-[@nickm324](https://github.com/nickm324)
+
+-[@zoroot](https://github.com/zoroot)
+
+-[@neelesh17](https://github.com/neelesh17)
+
 -[@prajwal-mendon](https://github.com/prajwal-mendon)
