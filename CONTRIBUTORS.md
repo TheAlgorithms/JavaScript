@@ -1,6 +1,8 @@
 # Contributors
 
--[@olividir](https://github.com/olividir) -[@akashchakroborty](https://github.com/akashchakroborty)
+-[@olividir](https://github.com/olividir)
+
+-[@akashchakroborty](https://github.com/akashchakroborty)
 
 -[@dev-bash](https://github.com/dev-bash)
 
