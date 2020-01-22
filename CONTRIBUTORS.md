@@ -5186,6 +5186,9 @@
 
 -[@RohitTh69](https://github.com/RohitTh69)
 
+
+-[@dapriest01](https://github.com/dapriest01)
+
 -[@TheProrok29](https://github.com/TheProrok29)
 
 -[@aeonincode](https://github.com/aeonincode)
@@ -6414,7 +6417,7 @@
 
 -[@raghavagg01](https:github.com/raghavagg01)
 
--[@nmrabet](https://github.com/nmrabet)  
+-[@nmrabet](https://github.com/nmrabet)
 
 -[@Aryanak47](https://github.com/Aryanak47)
 
@@ -6571,5 +6574,39 @@
 -[@StirOvidiu](https://github.com/StirOvidiu)
 
 -[@aidensung](https://github.com/aidensung)
+
+-[@nickm324](https://github.com/nickm324)
+
+-[@zoroot](https://github.com/zoroot)
+
+-[@neelesh17](https://github.com/neelesh17)
+
+-[@prajwal-mendon](https://github.com/prajwal-mendon)
+
+-[@jojowabbit](https://github.com/jojowabbit/)
+
+-[@rylim](https://github.com/rylim)
+
+-[@alanerse](https://github.com/alanerse)
+
+-[@Nikhil-Saunshi](https://github.com/Nikhil-Saunshi)
+
+-[@pmind2015](https://github.com/pmind2015)
+
+-[@Chrononox](https://github.com/Chrononox)
+
+-[@Dacko2204](https://github.com/Dacko2204)
+
+-[@muddledluck](https://github.com/muddledluck)
+
+-[@adymon](https://github.com/adymon)
+
+-[@askat08](https://github.com/askat08)
+
+-[@sabamokhlesi](https://github.com/sabamokhlesi)
+
+-[@rodrigo-r-martins](https://github.com/rodrigo-r-martins)
+
+-[@Jguizarnotegui](https://github.com/Jguizarnotegui)
 
 -[gitAmelio](https://github.com/gitAmelio)
