@@ -1,7 +1,6 @@
 # Contributors
 
--[@olividir](https://github.com/olividir)
--[@akashchakroborty](https://github.com/akashchakroborty)
+-[@olividir](https://github.com/olividir) -[@akashchakroborty](https://github.com/akashchakroborty)
 
 -[@dev-bash](https://github.com/dev-bash)
 
@@ -42,7 +41,6 @@
 -[@EyalCode](https://github.com/EyalCode)
 
 -[@lgearen0528](https://github.com/lgearen0528)
-
 
 -[@moeez96](https://github.com/moeez96)
 
@@ -5186,7 +5184,6 @@
 
 -[@RohitTh69](https://github.com/RohitTh69)
 
-
 -[@dapriest01](https://github.com/dapriest01)
 
 -[@TheProrok29](https://github.com/TheProrok29)
@@ -6618,3 +6615,5 @@
 -[@stephaney92](https://github.com/stephaney92)
 
 -[@wissman77](https://github.com/wissman77/)
+
+-[@mhalgan](https://github.com/mhalgan)
