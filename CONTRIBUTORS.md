@@ -6605,4 +6605,12 @@
 
 -[@sabamokhlesi](https://github.com/sabamokhlesi)
 
+-[@rodrigo-r-martins](https://github.com/rodrigo-r-martins)
+
+-[@Jguizarnotegui](https://github.com/Jguizarnotegui)
+
+-[gitAmelio](https://github.com/gitAmelio)
+
+-[@Jain-sonal](https://github.com/Jain-sonal)
+
 -[@kimSpiegel04](https://github.com/kimSpiegel04)
