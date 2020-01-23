@@ -1,5 +1,4 @@
 # Contributors
--[@sarkar10425](https://github.com/sarkar10425/start-here-guidelines)
 -[@olividir](https://github.com/olividir)
 
 -[@akashchakroborty](https://github.com/akashchakroborty)
@@ -6643,3 +6642,5 @@
 -[@mkhawark](https://github.com/mkhawark)
 
 -[@JackSaunders93](https://https://github.com/JackSaunders93)
+
+-[@sarkar10425](https://https://github.com/sarkar10425)
