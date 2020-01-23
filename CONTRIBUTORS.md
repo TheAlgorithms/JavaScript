@@ -1,5 +1,4 @@
 # Contributors
-
 -[@olividir](https://github.com/olividir)
 
 -[@akashchakroborty](https://github.com/akashchakroborty)
@@ -6645,3 +6644,7 @@
 -[@JackSaunders93](https://https://github.com/JackSaunders93)
 
 -[@LeonardoGarcia2](https://https://github.com/LeonardoGarcia2)
+
+-[@sarkar10425](https://https://github.com/sarkar10425)
+
+-[@Bamz-west](https://github.com/Bamz-west)
