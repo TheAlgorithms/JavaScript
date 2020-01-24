@@ -6677,6 +6677,8 @@
 
 -[mremazeilles](https://github.com/mremazeilles)
 
+-[@oscaramos](https://github.com/oscaramos)
+
 -[@raviRvj](https://github.com/raviRvj/)
 
 -[@Laviniaxyz](https://github.com/Laviniaxyz)
