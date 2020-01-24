@@ -1,4 +1,6 @@
 # Contributors
+-[@dboland77] (https://github.com/dboland77)
+
 -[@olividir](https://github.com/olividir)
 
 -[@akashchakroborty](https://github.com/akashchakroborty)
@@ -4289,6 +4291,8 @@
 
 -[@Tingate](https://github.com/tingate)
 
+-[@jamesjaj](https://github.com/jamesjaj)
+
 -[@alexandrapricop](https://github.com/alexandrapricop)
 
 -[@MichalPillar](https://github.com/MichalPillar)
@@ -4718,6 +4722,8 @@
 -[@megmotion](https://github.com/megmotion)
 
 -[@chi](https://github.com/Zed-chi)
+
+-[@ZoranLautarevic](https://github.com/ZoranLautarevic/)
 
 -[@ChandalaSaturnino](https://github.com/ChandalaSaturnino)
 
@@ -6653,6 +6659,8 @@
 
 -[@Bamz-west](https://github.com/Bamz-west)
 
+-[@sidrasa](https://github.com/sidrasa)
+
 -[@sahariinfo](https://github.com/sahariinfo)
 
 -[@subhashini-19](https://github.com/subhashini-19)
@@ -6663,6 +6671,14 @@
 
 -[@Md-Shariful-Alam-Bhuiyan](https://github.com/Md-Shariful-Alam-Bhuiyan/)
 
+-[mremazeilles](https://github.com/mremazei	lles)
+
+-[@dzianislysionak](https://github.com/dzianislysionak)
+
 -[mremazeilles](https://github.com/mremazeilles)
 
 -[@raviRvj](https://github.com/raviRvj/)
+
+-[@Laviniaxyz](https://github.com/Laviniaxyz)
+
+-[@veronicapc92](https://github.com/veronicapc92/)
