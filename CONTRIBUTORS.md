@@ -6693,4 +6693,12 @@
 
 -[@jakesing](https://github.com/jakesing/)
 
-=[@GAMHnile](https://github.com/GAMHnile)
+-[@GAMHnile](https://github.com/GAMHnile)
+
+-[@bmgreenfield83@](https://github.com/bmgreenfield83)
+
+-[@JohnJorjill](https://github.com/JohnJorjill/)
+
+-[@kant707](https://github.com/kant707)
+
+-[@owenlawless](https://github.com/owenlawless)
