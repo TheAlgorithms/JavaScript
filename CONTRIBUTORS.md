@@ -6688,3 +6688,5 @@
 -[@veronicapc92](https://github.com/veronicapc92/)
 
 -[@Fletchlock](https://github.com/Fletchlock/)
+
+-[@jakesing](https://github.com/jakesing/)
