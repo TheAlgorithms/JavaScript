@@ -6689,4 +6689,6 @@
 
 -[@Fletchlock](https://github.com/Fletchlock/)
 
+-[@sami-svg](https://github.com/sami-svg/)
+
 -[@jakesing](https://github.com/jakesing/)
