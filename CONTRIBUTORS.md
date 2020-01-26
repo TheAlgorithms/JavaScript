@@ -6671,7 +6671,7 @@
 
 -[@Md-Shariful-Alam-Bhuiyan](https://github.com/Md-Shariful-Alam-Bhuiyan/)
 
--[mremazeilles](https://github.com/mremazei	lles)
+-[mremazeilles](https://github.com/mremazeilles)
 
 -[@dzianislysionak](https://github.com/dzianislysionak)
 
@@ -6704,3 +6704,7 @@
 -[@owenlawless](https://github.com/owenlawless)
 
 -[@nrhikmah](https://github.com/nrhikmah)
+
+-[@theofylaktos](https://github.com/Theofylaktos)
+
+-[@petra-at](https://github.com/petra-at)
