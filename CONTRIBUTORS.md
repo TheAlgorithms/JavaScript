@@ -6671,7 +6671,7 @@
 
 -[@Md-Shariful-Alam-Bhuiyan](https://github.com/Md-Shariful-Alam-Bhuiyan/)
 
--[mremazeilles](https://github.com/mremazei	lles)
+-[mremazeilles](https://github.com/mremazeilles)
 
 -[@dzianislysionak](https://github.com/dzianislysionak)
 
@@ -6704,3 +6704,35 @@
 -[@owenlawless](https://github.com/owenlawless)
 
 -[@elvis-b](https://github.com/elvis-b)
+
+-[@petra-at](https://github.com/petra-at)
+
+-[@lhcjun](https://github.com/lhcjun)
+
+-[@chueyee](https://github.com/chueyee)
+
+-[@jaijennison](https://github.com/jaijennison)
+
+-[@samirgaurav](https://github.com/samirgaurav)
+
+-[@nrhikmah](https://github.com/nrhikmah)
+
+-[@theofylaktos](https://github.com/Theofylaktos)
+
+-[@petra-at](https://github.com/petra-at)
+
+-[@Bibzzz42](https://github.com/Bibzzz42)
+
+-[@Edward-Rodriguez](https://github.com/Edward-Rodriguez)
+
+-[@RIKennedy](https://github.com/RIKennedy)
+
+-[@akumanara](https://github.com/akumanara/)
+
+-[@bgabor027](https://github.com/bgabor027)
+
+-[@tosibakoludo](https://github.com/tosibakoludo)
+
+-[@Ganesh-Kumar6](https://github.com/Ganesh-Kumar6)
+
+-[@taufiqmax](https://github.com/taufiqmax)
