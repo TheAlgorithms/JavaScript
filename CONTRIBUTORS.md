@@ -6724,3 +6724,5 @@
 -[@Edward-Rodriguez](https://github.com/Edward-Rodriguez)
 
 -[@Ganesh-Kumar6](https://github.com/Ganesh-Kumar6)
+
+-[@taufiqmax](https://github.com/taufiqmax)
