@@ -6723,6 +6723,8 @@
 
 -[@Edward-Rodriguez](https://github.com/Edward-Rodriguez)
 
+-[@RIKennedy](https://github.com/RIKennedy)
+
 -[@akumanara](https://github.com/akumanara/)
 
 -[@bgabor027](https://github.com/bgabor027)
