@@ -1,5 +1,8 @@
 # Contributors
--[@dboland77] (https://github.com/dboland77)
+
+-[@inalien](https://github.com/inalien)
+
+-[@dboland77](https://github.com/dboland77)
 
 -[@olividir](https://github.com/olividir)
 
@@ -6703,6 +6706,8 @@
 
 -[@owenlawless](https://github.com/owenlawless)
 
+-[@elvis-b](https://github.com/elvis-b)
+
 -[@petra-at](https://github.com/petra-at)
 
 -[@lhcjun](https://github.com/lhcjun)
@@ -6724,3 +6729,39 @@
 -[@Edward-Rodriguez](https://github.com/Edward-Rodriguez)
 
 -[@mamta31](https://github.com/mamta31/)
+
+-[@RIKennedy](https://github.com/RIKennedy)
+
+-[@akumanara](https://github.com/akumanara/)
+
+-[@bgabor027](https://github.com/bgabor027)
+
+-[@tosibakoludo](https://github.com/tosibakoludo)
+
+-[@Ganesh-Kumar6](https://github.com/Ganesh-Kumar6)
+
+-[@taufiqmax](https://github.com/taufiqmax)
+
+-[@RazvanRauta](https://github.com/RazvanRauta)
+
+-[@ronnythekid](https://github.com/ronnythekid/)
+
+-[@javbbk201](https://github.com/javbk201)
+
+-[@GabrielMcHugh](https://github.com/GabrielMcHugh)
+
+-[@btolan-karudev](https://github.com/btolan-karudev)
+
+-[@CostinBal](https://github.com/CostinBal/)
+
+-[@Scharite13](https://github.com/Scharite13)
+
+-[@gogadev](https://github.com/gogadev)
+
+-[@Leykwan132](https://github.com/Leykwan132)
+
+-[@iamnvt](https://github.com/iamnvt)
+
+-[@seinwave](https://github.com/seinwave)
+
+-[@StaceyAlexMiller90](https://github.com/StaceyAlexMiller90)
