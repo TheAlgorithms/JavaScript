@@ -6768,6 +6768,8 @@
 
 -[@jerbeck](https://github.com/jerbeck)
 
+-[@Krzysiek526](https://github.com/Krzysiek526)
+
 -[@tahagalata](https://github.com/tahagalata)
 
 -[@rezieljacob](https://github.com/rezieljacob)
