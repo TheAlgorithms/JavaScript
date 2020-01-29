@@ -6767,3 +6767,5 @@
 -[@StaceyAlexMiller90](https://github.com/StaceyAlexMiller90)
 
 -[@jerbeck](https://github.com/jerbeck)
+
+-[@Krzysiek526](https://github.com/Krzysiek526)
