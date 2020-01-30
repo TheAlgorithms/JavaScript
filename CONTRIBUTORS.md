@@ -1,5 +1,7 @@
 # Contributors
 
+-[@minshinkhant](https://github.com/minshinkhant)
+
 -[@inalien](https://github.com/inalien)
 
 -[@dboland77](https://github.com/dboland77)
