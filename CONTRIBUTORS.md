@@ -1,5 +1,7 @@
 # Contributors
 
+-[@minshinkhant](https://github.com/minshinkhant)
+
 -[@inalien](https://github.com/inalien)
 
 -[@dboland77](https://github.com/dboland77)
@@ -6778,6 +6780,8 @@
 
 -[@rezieljacob](https://github.com/rezieljacob)
 
+-[@rghim11](https://github.com/roshanghimire93)
+
 -[@ramiro000](https://github.com/ramiro000)
 
 -[@mshuber1981](https://github.com/mshuber1981)
@@ -6787,3 +6791,27 @@
 -[@edenv30](https://https://github.com/edenv30)
 
 -[@lhazy111](https://github.com/lhazy111/)
+
+-[@YemaneWeldu](https://https://github.com/YemaneWeldu)
+
+-[@xu3m4u6](https://https://github.com/xu3m4u6)
+
+-[@abrarrahman](https://github.com/abrarrahman)
+
+-[@seong7](https://github.com/seong7)
+
+-[@lucianogiusti](https://https://github.com/lucianogiusti)
+
+-[@T-2084](https://https://github.com/T-2084)
+
+-[@edenv30](https://github.com/edenv30)
+
+-[@tpszhao](https://github.com/tpszhao)
+
+-[@peter-wong-cy](https://github.com/peter-wong-cy)
+
+-[@Lokprakash-babu](https://github.com/Lokprakash-babu)
+
+-[@fergusonB](https://github.com/fergusonB)
+
+-[@mahmutsen](https://github.com/mahmutsen)
