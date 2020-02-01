@@ -6816,6 +6816,8 @@
 
 -[@mahmutsen](https://github.com/mahmutsen)
 
+-[@hfrogers](https://github.com/hfrogers)
+
 -[@navendu-pottekkat](https://github.com/navendu-pottekkat)
 
 -[@mkclark](https://github.com/mkclark)
@@ -6827,4 +6829,3 @@
 -[@TK202](https://github.com/TK202)
 
 -[@toto-titan-developer](https://github.com/toto-titan-developer)
-
