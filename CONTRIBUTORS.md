@@ -6816,6 +6816,8 @@
 
 -[@mahmutsen](https://github.com/mahmutsen)
 
+-[@patterson-dtaylor](https://github.com/patterson-dtaylor)
+
 -[@hfrogers](https://github.com/hfrogers)
 
 -[@navendu-pottekkat](https://github.com/navendu-pottekkat)
