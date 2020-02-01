@@ -6815,3 +6815,5 @@
 -[@fergusonB](https://github.com/fergusonB)
 
 -[@mahmutsen](https://github.com/mahmutsen)
+
+-[@patterson-dtaylor](https://github.com/patterson-dtaylor)
