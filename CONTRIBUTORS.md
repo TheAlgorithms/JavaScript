@@ -1,6 +1,6 @@
 # Contributors
 
--[@minshinkhant](https://github.com/minshinkhant)
+i-[@minshinkhant](https://github.com/minshinkhant)
 
 -[@inalien](https://github.com/inalien)
 
@@ -6817,3 +6817,29 @@
 -[@mahmutsen](https://github.com/mahmutsen)
 
 -[@shubham77768](https://github.com/shubham77768)
+
+-[@patterson-dtaylor](https://github.com/patterson-dtaylor)
+
+-[@hfrogers](https://github.com/hfrogers)
+
+-[@navendu-pottekkat](https://github.com/navendu-pottekkat)
+
+-[@mkclark](https://github.com/mkclark)
+
+-[@Tafadzwa-tracey](https://github.com/Tafadzwa-tracey)
+
+-[@BrManga](https://github.com/BrManga)
+
+-[@TK202](https://github.com/TK202)
+
+-[@toto-titan-developer](https://github.com/toto-titan-developer)
+
+-[@maugrim777](https://github.com/maugrim777)
+
+-[@sumitkumar2702](https://github.com/sumitkumar2702)
+
+-[@LonwaboMvovo](https://github.com/LonwaboMvovo)
+
+-[@kristenzeng94](https://github.com/kristenzeng94/)
+
+-[@Tc8283](https://github.com/Tc8283/)
