@@ -1,6 +1,6 @@
 # Contributors
 
--[@minshinkhant](https://github.com/minshinkhant)
+i-[@minshinkhant](https://github.com/minshinkhant)
 
 -[@inalien](https://github.com/inalien)
 
@@ -6831,5 +6831,7 @@
 -[@TK202](https://github.com/TK202)
 
 -[@toto-titan-developer](https://github.com/toto-titan-developer)
+
+-[@kristenzeng94](https://github.com/kristenzeng94/)
 
 -[@Tc8283](https://github.com/Tc8283/)
