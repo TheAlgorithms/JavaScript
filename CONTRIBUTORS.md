@@ -6844,4 +6844,6 @@ i-[@minshinkhant](https://github.com/minshinkhant)
 
 -[@Tc8283](https://github.com/Tc8283/)
 
--[@antonioeagomes] (https://github.com/antonioeagomes/)
+-[@antonioeagomes](https://github.com/antonioeagomes/)
+
+-[@ghedin-alison](https://github.com/ghedin-alison/)
