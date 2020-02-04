@@ -6864,4 +6864,6 @@ i-[@minshinkhant](https://github.com/minshinkhant)
 
 -[@ghedin-alison](https://github.com/ghedin-alison/)
 
+-[@cristoferarad](https://github.com/cristoferarad/)
+
 -[@BrunoSilva98](https://github.com/BrunoSilva98)
