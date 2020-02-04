@@ -6865,3 +6865,20 @@ i-[@minshinkhant](https://github.com/minshinkhant)
 -[@ghedin-alison](https://github.com/ghedin-alison/)
 
 -[@fflorezz](https://github.com/fflorezz/)
+
+-[@DJSkwarka](https://github.com/DJSkwarka/)
+
+-[@kharioki](https://github.com/kharioki/)
+
+-[@santos25](https://github.com/santos25/)
+
+-[@nrmculu](https://github.com/nrmculu/)
+
+-[@NtsakoMculu](https://github.com/NtsakoMculu/) 
+
+-[@agmaal1](https://github.com/agmaal1)
+
+-[@cristoferarad](https://github.com/cristoferarad/)
+
+-[@BrunoSilva98](https://github.com/BrunoSilva98)
+
