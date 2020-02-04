@@ -6864,6 +6864,8 @@ i-[@minshinkhant](https://github.com/minshinkhant)
 
 -[@ghedin-alison](https://github.com/ghedin-alison/)
 
+-[@fflorezz](https://github.com/fflorezz/)
+
 -[@DJSkwarka](https://github.com/DJSkwarka/)
 
 -[@kharioki](https://github.com/kharioki/)
