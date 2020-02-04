@@ -6867,3 +6867,9 @@ i-[@minshinkhant](https://github.com/minshinkhant)
 -[@nrmculu](https://github.com/nrmculu/)
 
 -[@NtsakoMculu](https://github.com/NtsakoMculu/) 
+
+-[@agmaal1](https://github.com/agmaal1)
+
+-[@cristoferarad](https://github.com/cristoferarad/)
+
+-[@BrunoSilva98](https://github.com/BrunoSilva98)
