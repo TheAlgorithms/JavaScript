@@ -6864,9 +6864,11 @@ i-[@minshinkhant](https://github.com/minshinkhant)
 
 -[@ghedin-alison](https://github.com/ghedin-alison/)
 
+-[@mikewiner](https://github.com/mikewiner/)
+
 -[@Sontiogo](https://github.com/Sontiogo)
 
--[@ivayloyovkov](https://github.com/ivayloyovkov]/)
+-[@ivayloyovkov](https://github.com/ivayloyovkov/)
 
 -[@Sprinster](https://github.com/Sprinster)
 
@@ -6891,3 +6893,15 @@ i-[@minshinkhant](https://github.com/minshinkhant)
 -[@BrunoSilva98](https://github.com/BrunoSilva98)
 
 -[@MartinStrekelj](https://github.com/MartinStrekelj)
+
+-[@realkelvinperez](https://github.com/realkelvinperez)
+
+-[@LordZeF](https://github.com/LordZeF)
+
+-[@Quadrizz](https://github.com/Quadrizz)
+
+-[@emily-egan](https://github.com/emily-egan)
+
+-[@Mbengparis](https://github.com/Mbengparis)
+
+-[@Brianmil73](https://github.com/Brianmil73)
