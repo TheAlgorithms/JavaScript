@@ -6868,7 +6868,7 @@ i-[@minshinkhant](https://github.com/minshinkhant)
 
 -[@Sontiogo](https://github.com/Sontiogo)
 
--[@ivayloyovkov](https://github.com/ivayloyovkov]/)
+-[@ivayloyovkov](https://github.com/ivayloyovkov/)
 
 -[@Sprinster](https://github.com/Sprinster)
 
