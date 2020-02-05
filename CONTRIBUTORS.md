@@ -6892,6 +6892,8 @@ i-[@minshinkhant](https://github.com/minshinkhant)
 
 -[@BrunoSilva98](https://github.com/BrunoSilva98)
 
+-[@Quadrizz](https://github.com/Quadrizz)
+
 -[@emily-egan](https://github.com/emily-egan)
 
 -[@Mbengparis](https://github.com/Mbengparis)
