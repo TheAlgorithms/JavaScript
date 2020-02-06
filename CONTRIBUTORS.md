@@ -1,4 +1,4 @@
-# Contributors
+ #Contributors
 
 i-[@minshinkhant](https://github.com/minshinkhant)
 
@@ -6866,6 +6866,8 @@ i-[@minshinkhant](https://github.com/minshinkhant)
 
 -[@ghedin-alison](https://github.com/ghedin-alison/)
 
+-[@DanielOttah](https://github.com/DanielOttah/)
+
 -[@drystar](https://github.com/drystar/)
 
 -[@hanstanawi](https://github.com/hanstanawi/)
@@ -6890,7 +6892,7 @@ i-[@minshinkhant](https://github.com/minshinkhant)
 
 -[@nrmculu](https://github.com/nrmculu/)
 
--[@NtsakoMculu](https://github.com/NtsakoMculu/) 
+-[@NtsakoMculu](https://github.com/NtsakoMculu/)
 
 -[@agmaal1](https://github.com/agmaal1)
 
@@ -6917,3 +6919,15 @@ i-[@minshinkhant](https://github.com/minshinkhant)
 -[@Brianmil73](https://github.com/Brianmil73)
 
 -[yjie28](https://github.com/yjie28)
+
+-[@RMrobb1e](https://github.com/RMrobb1e)
+
+-[@LisaVerhoeven](https://github.com/LisaVerhoeven)
+
+-[@VibhorThakral](https://github.com/VibhorThakral)
+
+-[@predeyo](https://github.com/predeyo)
+
+-[@IEchoEcho](https://github.com/IEchoEcho)
+
+-[@rose07a](https://github.com/rose07a)
