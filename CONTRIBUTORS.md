@@ -6890,7 +6890,7 @@ i-[@minshinkhant](https://github.com/minshinkhant)
 
 -[@nrmculu](https://github.com/nrmculu/)
 
--[@NtsakoMculu](https://github.com/NtsakoMculu/) 
+-[@NtsakoMculu](https://github.com/NtsakoMculu/)
 
 -[@agmaal1](https://github.com/agmaal1)
 
@@ -6917,3 +6917,11 @@ i-[@minshinkhant](https://github.com/minshinkhant)
 -[@Brianmil73](https://github.com/Brianmil73)
 
 -[@LisaVerhoeven](https://github.com/LisaVerhoeven)
+
+-[@VibhorThakral](https://github.com/VibhorThakral)
+
+-[@predeyo](https://github.com/predeyo)
+
+-[@IEchoEcho](https://github.com/IEchoEcho)
+
+-[@rose07a](https://github.com/rose07a)
