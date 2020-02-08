@@ -6942,6 +6942,8 @@ i-[@minshinkhant](https://github.com/minshinkhant)
 
 -[@rose07a](https://github.com/rose07a)
 
+-[@MAD96](https://github.com/MAD96)
+
 -[@paogrammer](https://github.com/paogrammer)
 
 -[@rauts](https://github.com/rauts)
