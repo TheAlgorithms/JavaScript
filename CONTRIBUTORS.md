@@ -1,6 +1,10 @@
  #Contributors
 
+-[@sirianw](https://github.com/sirianw)
+
 i-[@minshinkhant](https://github.com/minshinkhant)
+
+-[@Rahulm2310](https://github.com/Rahulm2310)
 
 -[@inalien](https://github.com/inalien)
 
@@ -4644,6 +4648,8 @@ i-[@minshinkhant](https://github.com/minshinkhant)
 
 -[@ornel77](https://github.com/ornel77)
 
+-[@ketuvishal](https://github.com/ketuvishal)
+
 -[@atizaz](https://github.com/atizazahsan)
 
 -[@ketuvishal](https://github.com/ketuvishal)
@@ -6918,6 +6924,8 @@ i-[@minshinkhant](https://github.com/minshinkhant)
 
 -[@Brianmil73](https://github.com/Brianmil73)
 
+-[@Elham13](https://github.com/Elham13)
+
 -[@kaleikaumaka](https://github.com/kaleikaumaka)
 
 -[yjie28](https://github.com/yjie28)
@@ -6935,3 +6943,35 @@ i-[@minshinkhant](https://github.com/minshinkhant)
 -[@rose07a](https://github.com/rose07a)
 
 -[@rachit000](https://github.com/rachit000)
+
+-[@MAD96](https://github.com/MAD96)
+
+-[@paogrammer](https://github.com/paogrammer)
+
+-[@rauts](https://github.com/rauts)
+
+-[@N-E-K-0](https://github.com/N-E-K-0)
+
+-[@vivekdogra02](https://github.com/vivekdogra02)
+
+-[@MohammedSabah96](https://github.com/MohammedSabah96)
+
+-[@Drizz159](https://github.com/Drizz159)
+
+-[@agilestrings](https://github.com/agilestrings)
+
+-[@ChrisB32-cloud](https://github.com/ChrisB32-cloud)
+
+-[@Esmail99](https://github.com/Esmail99)
+
+-[@SpecterIgancio](https://github.com/SpecterIgancio)
+
+-[@salahmak](https://github.com/salahmak)
+
+-[@Abhshek-RanA](https://github.com/Abhshek-RanA)
+
+-[@pingw206](https://github.com/pingw206)
+
+-[@Esmemega](https://github.com/Esemega)
+
+-[DomantasBazys](https://github.com/DomantasBazys)
