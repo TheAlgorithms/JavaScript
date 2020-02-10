@@ -2,7 +2,7 @@
 
 -[@sirianw](https://github.com/sirianw)
 
-i-[@minshinkhant](https://github.com/minshinkhant)
+-[@minshinkhant](https://github.com/minshinkhant)
 
 -[@Rahulm2310](https://github.com/Rahulm2310)
 
