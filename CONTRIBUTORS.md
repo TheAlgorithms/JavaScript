@@ -2,7 +2,7 @@
 
 -[@sirianw](https://github.com/sirianw)
 
-i-[@minshinkhant](https://github.com/minshinkhant)
+-[@minshinkhant](https://github.com/minshinkhant)
 
 -[@Rahulm2310](https://github.com/Rahulm2310)
 
@@ -6989,6 +6989,8 @@ i-[@minshinkhant](https://github.com/minshinkhant)
 -[@yellowful](https://github.com/yellowful)
 
 -[@DA-STIG](https://github.com/DA-STIG)
+
+-[@nghuiling](https://github.com/nghuiling)
 
 -[@gfellah45](https://github.com/gfellah45)
 
