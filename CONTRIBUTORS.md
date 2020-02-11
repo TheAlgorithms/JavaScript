@@ -6992,6 +6992,8 @@
 
 -[@DA-STIG](https://github.com/DA-STIG)
 
+-[@vladi-stanchev](https://github.com/vladi-stanchev/)
+
 -[@giorgi-maisuradze](https://github.com/giorgi-maisuradze)
 
 -[@tjtalhaa](https://github.com/tjtalhaa)
