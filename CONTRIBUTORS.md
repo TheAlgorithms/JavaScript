@@ -1,4 +1,4 @@
- #Contributors
+#Contributors
 
 -[@sirianw](https://github.com/sirianw)
 
@@ -6979,6 +6979,8 @@
 -[@Esmemega](https://github.com/Esemega)
 
 -[DomantasBazys](https://github.com/DomantasBazys)
+
+-[@maoritz](https://github.com/maoritz)
 
 -[@jRashad](http://github.com/jRashad)
 
