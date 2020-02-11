@@ -6990,6 +6990,8 @@ i-[@minshinkhant](https://github.com/minshinkhant)
 
 -[@DA-STIG](https://github.com/DA-STIG)
 
+-[@faustaleonardo](https://github.com/faustaleonardo)
+
 -[@AruranV](https://github.com/AruranV)
 
 -[@cobacobaya](https://github.com/cobacobaya)
