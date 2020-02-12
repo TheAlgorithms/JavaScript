@@ -7023,3 +7023,11 @@
 -[@IliasBarmpar](https://github.com/IliasBarmpar)
 
 -[@jawad1989](https://github.com/jawad1989)
+
+-[@cr8iv](https://github.com/cr8iv)
+
+-[@Retnuh1337](https://github.com/Retnuh1337)
+
+-[@paulogomesextp](https://github.com/paulogomesextp)
+
+-[@tipcat](https://github.com/tipcat)
