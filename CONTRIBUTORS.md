@@ -7050,6 +7050,8 @@
 
 -[@tipcat](https://github.com/tipcat)
 
+-[@HichamBenjelloun](https://github.com/HichamBenjelloun)
+
 -[@timlee](https://github.com/timlee)
 
 -[@vitorjuanh](https://github.com/vitorjuanh)
