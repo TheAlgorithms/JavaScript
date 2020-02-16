@@ -6786,6 +6786,8 @@
 
 -[@jerbeck](https://github.com/jerbeck)
 
+-[@synecders](https://github.com/synecders)
+
 -[@Krzysiek526](https://github.com/Krzysiek526)
 
 -[@tahagalata](https://github.com/tahagalata)
