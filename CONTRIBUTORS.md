@@ -1,4 +1,4 @@
-#Contributors
+# Contributors
 
 -[@akashjoffl](https://github.com/akashjoffl)
 
@@ -7067,4 +7067,17 @@
 -[@Rathru3704](https://github.com/Rathru3704)
 
 -[@PeterWilloughbyHart](https://github.com/PeterWilloughbyHart/)
+
 -[@regisadjihou](https://github.com/regisadjihou/)
+
+-[@happy-coding-0036](https://github.com/happy-coding-0036/)
+
+-[@KonKX](https://github.com/KonKX/)
+
+-[@joker7blue](https://github.com/joker7blue/)
+
+-[@Arthur-Rankin](https://github.com/Arthur-Rankin)
+
+-[@rundas912](https://github.com/rundas912/)
+
+-[@yufeiyan1220](https://github.com/yufeiyan1220/)
