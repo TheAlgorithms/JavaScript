@@ -1,4 +1,4 @@
-#Contributors
+# Contributors
 
 -[@akashjoffl](https://github.com/akashjoffl)
 
@@ -7026,6 +7026,8 @@
 
 -[@IliasBarmpar](https://github.com/IliasBarmpar)
 
+-[@swatiparge](https://github.com/swatiparge)
+
 -[@TheSeer507](https://github.com/TheSeer507)
 
 -[@advuong](https://github.com/advuong/)
@@ -7067,3 +7069,23 @@
 -[@Rathru3704](https://github.com/Rathru3704)
 
 -[@filippebr](https://github.com/filippebr)
+
+-[@PeterWilloughbyHart](https://github.com/PeterWilloughbyHart/)
+
+-[@sleam763](https://github.com/sleam763)
+
+-[@Robsonezequiel](https://github.com/Robsonezequiel/) 
+
+-[@regisadjihou](https://github.com/regisadjihou/)
+
+-[@happy-coding-0036](https://github.com/happy-coding-0036/)
+
+-[@KonKX](https://github.com/KonKX/)
+
+-[@joker7blue](https://github.com/joker7blue/)
+
+-[@Arthur-Rankin](https://github.com/Arthur-Rankin)
+
+-[@rundas912](https://github.com/rundas912/)
+
+-[@yufeiyan1220](https://github.com/yufeiyan1220/)
