@@ -1,4 +1,6 @@
-#Contributors
+# Contributors
+
+-[@akashjoffl](https://github.com/akashjoffl)
 
 -[@sirianw](https://github.com/sirianw)
 
@@ -6716,6 +6718,8 @@
 
 -[@owenlawless](https://github.com/owenlawless)
 
+-[@DhennisDavidLim](https://github.com/DhennisDavidLim)
+
 -[@elvis-b](https://github.com/elvis-b)
 
 -[@petra-at](https://github.com/petra-at)
@@ -7023,3 +7027,59 @@
 -[@IliasBarmpar](https://github.com/IliasBarmpar)
 
 -[@swatiparge](https://github.com/swatiparge)
+
+-[@TheSeer507](https://github.com/TheSeer507)
+
+-[@advuong](https://github.com/advuong/)
+
+-[@LoginALee](https://github.com/LoginALee)
+
+-[@J4FZ](https://github.com/J4FZ)
+
+-[@gabiristea](https://github.com/gabiristea)
+
+-[@SirFenton](https://github.com/SirFenton)
+
+-[@Bhagyashree204](https://github.com/Bhagyashree204)
+
+-[@jawad1989](https://github.com/jawad1989)
+
+-[@cr8iv](https://github.com/cr8iv)
+
+-[@Retnuh1337](https://github.com/Retnuh1337)
+
+-[@paulogomesextp](https://github.com/paulogomesextp)
+
+-[@tipcat](https://github.com/tipcat)
+
+-[@HichamBenjelloun](https://github.com/HichamBenjelloun)
+
+-[@timlee](https://github.com/timlee)
+
+-[@vitorjuanh](https://github.com/vitorjuanh)
+
+-[@RobbertVlak](https://github.com/RobbertVlak)
+
+-[@Pracdoer](https://github.com/Pracdoer)
+
+-[@scy0334](https://github.com/scy0334)
+
+-[@Apostolakopoulos](https://github.com/Apostolakopoulos)
+
+-[@Rathru3704](https://github.com/Rathru3704)
+
+-[@PeterWilloughbyHart](https://github.com/PeterWilloughbyHart/)
+
+-[@regisadjihou](https://github.com/regisadjihou/)
+
+-[@happy-coding-0036](https://github.com/happy-coding-0036/)
+
+-[@KonKX](https://github.com/KonKX/)
+
+-[@joker7blue](https://github.com/joker7blue/)
+
+-[@Arthur-Rankin](https://github.com/Arthur-Rankin)
+
+-[@rundas912](https://github.com/rundas912/)
+
+-[@yufeiyan1220](https://github.com/yufeiyan1220/)
