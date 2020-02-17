@@ -7125,3 +7125,25 @@
 -[@yufeiyan1220](https://github.com/yufeiyan1220/)
 
 -[@RicardoAVS](https://github.com/RicardoAVS)
+
+-[@stefanbpeterson](https://github.com/stefanbpeterson)
+
+-[@jmolina518](https://github.com/jmolina518/)
+
+-[@FadhlounDaly](https://github.com/FadhlounDaly/)
+
+-[@dongqiuyinggrace](https://github.com/dongqiuyinggrace/)
+
+-[@nick981837](https://github.com/nick981837/)
+
+-[@puja1-618](https://github.com/puja1-618/)
+
+-[@glowes](https://github.com/glowes)
+
+-[@aimforthehead](https://github.com/aimforthehead/)
+
+-[@andrew-braun](https://github.com/andrew-braun)
+
+-[@MinervaLong](https://github.com/MinervaLong)
+
+-[@tb0se](https://github.com/tb0se/)
