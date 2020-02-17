@@ -7081,7 +7081,7 @@
 -[@jong649](https://github.com/jong649)
 
 -[@vincejhan98](https://github.com/vincejhan98)
- 
+
 -[@DanishIrfann](https://github.com/DanishIrfann)
 
 -[@delfim-junior](https://github.com/delfim-junior/)
@@ -7108,7 +7108,7 @@
 
 -[@sleam763](https://github.com/sleam763)
 
--[@Robsonezequiel](https://github.com/Robsonezequiel/) 
+-[@Robsonezequiel](https://github.com/Robsonezequiel/)
 
 -[@regisadjihou](https://github.com/regisadjihou/)
 
@@ -7124,4 +7124,24 @@
 
 -[@yufeiyan1220](https://github.com/yufeiyan1220/)
 
--[@stefanbpeterson] (https://github.com/stefanbpeterson)
+-[@stefanbpeterson](https://github.com/stefanbpeterson)
+
+-[@jmolina518](https://github.com/jmolina518/)
+
+-[@FadhlounDaly](https://github.com/FadhlounDaly/)
+
+-[@dongqiuyinggrace](https://github.com/dongqiuyinggrace/)
+
+-[@nick981837](https://github.com/nick981837/)
+
+-[@puja1-618](https://github.com/puja1-618/)
+
+-[@glowes](https://github.com/glowes)
+
+-[@aimforthehead](https://github.com/aimforthehead/)
+
+-[@andrew-braun](https://github.com/andrew-braun)
+
+-[@MinervaLong](https://github.com/MinervaLong)
+
+-[@tb0se](https://github.com/tb0se/)
