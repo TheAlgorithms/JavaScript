@@ -7167,3 +7167,15 @@
 -[@lucasdellasala](https://github.com/lucasdellasala/)
 
 -[@TooBuKoo](https://github.com/TooBuKoo/)
+
+-[@hk2014](https://github.com/hk2014/)
+
+-[@JBeukman](https://github.com/JBeukman)
+
+-[@JayKiddo](https://github.com/JayKiddo?tab=repositories)
+
+-[@JohnDoeHimself](https://github.com/johndoehimself)
+
+-[@carlpadilla](https://github.com/carlpadilla/)
+
+-[@zshutosk](https://github.com/zshutosk/)
