@@ -7166,6 +7166,8 @@
 
 -[@lucasdellasala](https://github.com/lucasdellasala/)
 
+-[@JayKiddo](https://github.com/JayKiddo?tab=repositories)
+
 -[@JohnDoeHimself](https://github.com/johndoehimself)
 
 -[@carlpadilla](https://github.com/carlpadilla/)
