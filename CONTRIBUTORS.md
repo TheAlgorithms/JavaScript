@@ -7158,4 +7158,12 @@
 
 -[@tb0se](https://github.com/tb0se/)
 
+-[@ZaynePanaino](https://github.com/ZaynePanaino)
+
+-[@vilasini](https://github.com/vilasinisaida/)
+
+-[@mommotti](https://github.com/mommotti/)
+
+-[@lucasdellasala](https://github.com/lucasdellasala/)
+
 -[@hk2014](https://github.com/hk2014/)
