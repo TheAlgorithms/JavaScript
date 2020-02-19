@@ -7158,6 +7158,8 @@
 
 -[@tb0se](https://github.com/tb0se/)
 
+-[@legzy27](https://github.com/legzy27/)
+
 -[@ZaynePanaino](https://github.com/ZaynePanaino)
 
 -[@vilasini](https://github.com/vilasinisaida/)
