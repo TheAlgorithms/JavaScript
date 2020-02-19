@@ -7167,3 +7167,19 @@
 -[@lucasdellasala](https://github.com/lucasdellasala/)
 
 -[@ascobee](https://github.com/ascobee/)
+
+-[@TGAP4](https://github.com/TGAP4)
+
+-[@TooBuKoo](https://github.com/TooBuKoo/)
+
+-[@hk2014](https://github.com/hk2014/)
+
+-[@JBeukman](https://github.com/JBeukman)
+
+-[@JayKiddo](https://github.com/JayKiddo?tab=repositories)
+
+-[@JohnDoeHimself](https://github.com/johndoehimself)
+
+-[@carlpadilla](https://github.com/carlpadilla/)
+
+-[@zshutosk](https://github.com/zshutosk/)
