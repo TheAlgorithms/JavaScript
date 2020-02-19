@@ -7166,6 +7166,8 @@
 
 -[@lucasdellasala](https://github.com/lucasdellasala/)
 
+-[@razorlegacy](https://github.com/razorlegacy/)
+
 -[@demealer](https://github.com/Demealer)
 
 -[@ascobee](https://github.com/ascobee/)
