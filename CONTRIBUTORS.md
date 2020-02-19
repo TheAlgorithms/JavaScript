@@ -7165,4 +7165,13 @@
 -[@mommotti](https://github.com/mommotti/)
 
 -[@lucasdellasala](https://github.com/lucasdellasala/)
+
 -[@JBeukman](https://github.com/JBeukman)
+
+-[@JayKiddo](https://github.com/JayKiddo?tab=repositories)
+
+-[@JohnDoeHimself](https://github.com/johndoehimself)
+
+-[@carlpadilla](https://github.com/carlpadilla/)
+
+-[@zshutosk](https://github.com/zshutosk/)
