@@ -7172,6 +7172,8 @@
 
 -[@lucasdellasala](https://github.com/lucasdellasala/)
 
+-[@jgoad92](https://github.com/jgoad92/)
+
 -[@razorlegacy](https://github.com/razorlegacy/)
 
 -[@demealer](https://github.com/Demealer)
