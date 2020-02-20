@@ -54,6 +54,8 @@
 
 -[@EyalCode](https://github.com/EyalCode)
 
+
+
 -[@lgearen0528](https://github.com/lgearen0528)
 
 -[@moeez96](https://github.com/moeez96)
@@ -7158,6 +7160,10 @@
 
 -[@tb0se](https://github.com/tb0se/)
 
+-[@Samtabi](https://github.com/Samtabi)
+
+-[@legzy27](https://github.com/legzy27/)
+
 -[@ZaynePanaino](https://github.com/ZaynePanaino)
 
 -[@vilasini](https://github.com/vilasinisaida/)
@@ -7167,3 +7173,26 @@
 -[@lucasdellasala](https://github.com/lucasdellasala/)
 
 -[@jgoad92](https://github.com/jgoad92/)
+
+-[@razorlegacy](https://github.com/razorlegacy/)
+
+-[@demealer](https://github.com/Demealer)
+
+-[@ascobee](https://github.com/ascobee/)
+
+-[@TGAP4](https://github.com/TGAP4)
+
+-[@TooBuKoo](https://github.com/TooBuKoo/)
+
+-[@hk2014](https://github.com/hk2014/)
+
+-[@JBeukman](https://github.com/JBeukman)
+
+-[@JayKiddo](https://github.com/JayKiddo?tab=repositories)
+
+-[@JohnDoeHimself](https://github.com/johndoehimself)
+
+-[@carlpadilla](https://github.com/carlpadilla/)
+
+-[@zshutosk](https://github.com/zshutosk/)
+
