@@ -54,8 +54,6 @@
 
 -[@EyalCode](https://github.com/EyalCode)
 
-
-
 -[@lgearen0528](https://github.com/lgearen0528)
 
 -[@moeez96](https://github.com/moeez96)
@@ -7213,4 +7211,25 @@
 -[@ziaullahkhan545](https://github.com/ziaullahkhan545)
 
 -[@stanluxembourg](https://github.com/stanluxembourg)
+
 -[@YogeshThangavel](https://github.com/YogeshThangavel)
+
+-[@jomahay](https://github.com/jomahay/)
+
+-[@camposcristianeze](https://github.com/camposcristianeze)
+
+-[@frostillicus](https://github.com/frostillicus)
+
+-[@LHY-iS-Learning](https://github.com/LHY-iS-Learning)
+
+-[@AlexGioffDev](https://github.com/AlexGioffDev)
+
+-[@mefaba](https://github.com/mefaba)
+
+-[@rgtm](https://github.com/rgtm/)
+
+-[@Fab1ed](https://github.com/Fab1ed)
+
+-[@flofin](https://github.com/flofin)
+
+-[@Dobaizsolt97](https://github.com/Dobaizsolt97)
