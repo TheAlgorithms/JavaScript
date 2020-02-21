@@ -7213,3 +7213,17 @@
 -[@stanluxembourg](https://github.com/stanluxembourg)
 
 -[@frostillicus](https://github.com/frostillicus)
+
+-[@LHY-iS-Learning](https://github.com/LHY-iS-Learning)
+
+-[@AlexGioffDev](https://github.com/AlexGioffDev)
+
+-[@mefaba](https://github.com/mefaba)
+
+-[@rgtm](https://github.com/rgtm/)
+
+-[@Fab1ed](https://github.com/Fab1ed)
+
+-[@flofin](https://github.com/flofin)
+
+-[@Dobaizsolt97](https://github.com/Dobaizsolt97)
