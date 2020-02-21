@@ -54,8 +54,6 @@
 
 -[@EyalCode](https://github.com/EyalCode)
 
-
-
 -[@lgearen0528](https://github.com/lgearen0528)
 
 -[@moeez96](https://github.com/moeez96)
@@ -7214,4 +7212,8 @@
 
 -[@stanluxembourg](https://github.com/stanluxembourg)
 
--[@Fab1ed] (https://github.com/Fab1ed)
+-[@Fab1ed](https://github.com/Fab1ed)
+
+-[@flofin](https://github.com/flofin)
+
+-[@Dobaizsolt97](https://github.com/Dobaizsolt97)
