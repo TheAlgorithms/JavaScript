@@ -7239,3 +7239,15 @@
 -[@Dobaizsolt97](https://github.com/Dobaizsolt97)
 
 -[MindyLJohnson](https://github.com/MindyLJohnson)
+
+-[@LizzyKate](https://https://github.com/LizzyKate)
+
+-[@LisaHuang520](https://github.com/LisaHuang520)
+
+-[@laptite](https://github.com/laptite)
+
+-[@MarcelinaMM](https://github.com/MarcelinaMM)
+
+-[@FarukBD10](https://github.com/FarukBD10)
+
+-[@aimeehg](https://github.com/aimeehg)
