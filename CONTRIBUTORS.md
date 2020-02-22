@@ -7238,6 +7238,8 @@
 
 -[@Dobaizsolt97](https://github.com/Dobaizsolt97)
 
+-[@Kanadets](https://github.com/Kanadets)
+
 -[MindyLJohnson](https://github.com/MindyLJohnson)
 
 -[@LizzyKate](https://https://github.com/LizzyKate)
