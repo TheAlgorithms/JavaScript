@@ -5820,6 +5820,8 @@
 
 -[@ahmed-abdelhamid](https://github.com/ahmed-abdelhamid)
 
+-[@k083k]{https://github.com/k083k}
+
 -[@souvik88](https://github.com/souvik88)
 
 -[@yjcyun](https://github.com/yjcyun)
@@ -7239,3 +7241,51 @@
 -[@Dobaizsolt97](https://github.com/Dobaizsolt97)
 
 -[@hikariko92](https://github.com/hikariko92)
+
+-[@Haniismail](https://github.com/Haniismail)
+
+-[@marijedb](https://github.com/marijedb)
+
+-[@sohil22](https://github.com/sohil22)
+
+-[@Maidochi](https://github.com/Maidochi)
+
+-[@Kanadets](https://github.com/Kanadets)
+
+-[MindyLJohnson](https://github.com/MindyLJohnson)
+
+-[@LizzyKate](https://https://github.com/LizzyKate)
+
+-[@LisaHuang520](https://github.com/LisaHuang520)
+
+-[@laptite](https://github.com/laptite)
+
+-[@MarcelinaMM](https://github.com/MarcelinaMM)
+
+-[@FarukBD10](https://github.com/FarukBD10)
+
+-[@aimeehg](https://github.com/aimeehg)
+
+-[@winowiczL](https://github.com/winowiczl)
+
+-[@shra-one](https://github.com/shra-one)
+
+-[@papapacksoon](https://github.com/papapacksoon)
+
+-[@junggoh](https://github.com/junggoh)
+
+-[@rodsnts](https://github.com/rodsnts)
+
+-[@DarrenPE](https://github.com/DarrenPE)
+
+-[@MJW19](https://github.com/MJW19)
+
+-[@m-debnath](https://github.com/m-debnath)
+
+-[@Sedekil](https://github.com/Sedekil/)
+
+-[@smmurdock](https://github.com/smmurdock)
+
+-[@Batz005](https://github.com/Batz005/)
+
+-[@knarushoff](https://github.com/knarushoff/)
