@@ -5820,6 +5820,8 @@
 
 -[@ahmed-abdelhamid](https://github.com/ahmed-abdelhamid)
 
+-[@k083k]{https://github.com/k083k}
+
 -[@souvik88](https://github.com/souvik88)
 
 -[@yjcyun](https://github.com/yjcyun)
@@ -7238,6 +7240,8 @@
 
 -[@Dobaizsolt97](https://github.com/Dobaizsolt97)
 
+-[@hikariko92](https://github.com/hikariko92)
+
 -[@Haniismail](https://github.com/Haniismail)
 
 -[@marijedb](https://github.com/marijedb)
@@ -7281,3 +7285,11 @@
 -[@Sedekil](https://github.com/Sedekil/)
 
 -[@keiko15678](https://github.com/keiko15678/)
+
+-[@mushymane](https://github.com/mushymane)
+
+-[@smmurdock](https://github.com/smmurdock)
+
+-[@Batz005](https://github.com/Batz005/)
+
+-[@knarushoff](https://github.com/knarushoff/)
