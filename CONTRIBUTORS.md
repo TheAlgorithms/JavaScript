@@ -1,5 +1,7 @@
 # Contributors
 
+-[@cgould16](https://github.com/cgould16)
+
 -[@akashjoffl](https://github.com/akashjoffl)
 
 -[@sirianw](https://github.com/sirianw)
@@ -7293,4 +7295,15 @@
 -[@Batz005](https://github.com/Batz005/)
 
 -[@knarushoff](https://github.com/knarushoff/)
+
 -[@otaridi](https://github.com/otaridi/)
+
+-[@JHutnick](https://github.com/JHutnick)
+
+-[@renebesicke](https://github.com/renebesicke/)
+
+-[@shane-creates](https://github.com/shane-creates/)
+
+-[@KMozz](https://github.com/KMozz)
+
+-[@sgmalloy](https://https://github.com/sgmalloy/)
