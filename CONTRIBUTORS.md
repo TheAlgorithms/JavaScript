@@ -7296,6 +7296,8 @@
 
 -[@knarushoff](https://github.com/knarushoff/)
 
+-[@code-dart](https://github.com/code-dart/)
+
 -[@nickmbrown](https://github.com/nickmbrown)
 
 -[@otaridi](https://github.com/otaridi/)
