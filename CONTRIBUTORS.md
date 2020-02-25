@@ -7296,6 +7296,8 @@
 
 -[@knarushoff](https://github.com/knarushoff/)
 
+-[@JHutnick](https://github.com/JHutnick)
+
 -[@renebesicke](https://github.com/renebesicke/)
 
 -[@shane-creates](https://github.com/shane-creates/)
