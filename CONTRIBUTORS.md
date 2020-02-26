@@ -7313,3 +7313,5 @@
 -[@KMozz](https://github.com/KMozz)
 
 -[@sgmalloy](https://https://github.com/sgmalloy/)
+
+-[Brandon-G-Tripp](https://github.com/Brandon-G-Tripp/)
