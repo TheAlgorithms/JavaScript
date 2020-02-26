@@ -7320,6 +7320,8 @@
 
 -[@sgmalloy](https://https://github.com/sgmalloy/)
 
+-[@johanndavel](https://github.com/johanndavel)
+
 -[@raymik-design](https://github.com/raymik-design)
 
 -[@CHANG-CHING-CHUNG](https://https://github.com/CHANG-CHING-CHUNG/)
