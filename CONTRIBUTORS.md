@@ -7312,6 +7312,12 @@
 
 -[@KMozz](https://github.com/KMozz)
 
+-[@sgmalloy](https//github.com/sgmalloy/)
+
+-[@KongOU](https://github.com/KongOU/)
+
 -[@sgmalloy](https://https://github.com/sgmalloy/)
 
 -[@enoralecuyer](https://github.com/enoralecuyer)
+
+-[@devleinka](https://github.com/devleinka)
