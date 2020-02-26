@@ -7312,6 +7312,24 @@
 
 -[@KMozz](https://github.com/KMozz)
 
+-[@sgmalloy](https://github.com/sgmalloy/)
+
+-[@sgmalloy](https//github.com/sgmalloy/)
+
+-[@KongOU](https://github.com/KongOU/)
+
 -[@sgmalloy](https://https://github.com/sgmalloy/)
 
 -[@CHANG-CHING-CHUNG](https://https://github.com/CHANG-CHING-CHUNG/)
+
+-[@shuyin21](https://github.com/shuyin21)
+
+-[@amber-tamara](https://github.com/amber-tamara)
+
+-[@hhannuniemi](https://github.com/hhannuniemi/)
+
+-[@Samothui](https://github.com/samothui)
+
+-[@enoralecuyer](https://github.com/enoralecuyer)
+
+-[@devleinka](https://github.com/devleinka)
