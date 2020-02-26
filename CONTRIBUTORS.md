@@ -7320,6 +7320,8 @@
 
 -[@sgmalloy](https://https://github.com/sgmalloy/)
 
+-[@hhannuniemi](https://github.com/hhannuniemi/)
+
 -[@Samothui](https://github.com/samothui)
 
 -[@enoralecuyer](https://github.com/enoralecuyer)
