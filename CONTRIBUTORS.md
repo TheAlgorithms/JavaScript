@@ -7315,3 +7315,7 @@
 -[@sgmalloy](https//github.com/sgmalloy/)
 
 -[@KongOU](https://github.com/KongOU/)
+
+-[@sgmalloy](https://https://github.com/sgmalloy/)
+
+-[@devleinka](https://github.com/devleinka)
