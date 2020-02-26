@@ -7318,6 +7318,8 @@
 
 -[@sgmalloy](https://https://github.com/sgmalloy/)
 
+-[@Samothui](https://github.com/samothui)
+
 -[@enoralecuyer](https://github.com/enoralecuyer)
 
 -[@devleinka](https://github.com/devleinka)
