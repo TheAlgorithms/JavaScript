@@ -7320,6 +7320,8 @@
 
 -[@sgmalloy](https://https://github.com/sgmalloy/)
 
+-[Brandon-G-Tripp](https://github.com/Brandon-G-Tripp/)
+
 -[@itsprk](https://https://github.com/itsprk/)
 
 -[@johanndavel](https://github.com/johanndavel)
