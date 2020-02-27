@@ -7344,6 +7344,8 @@
 
 -[@devleinka](https://github.com/devleinka)
 
+-[@blacktomang](https://github.com/blacktomang/)
+
 -[@AquamanRanda](https://github.com/AquamanRanda/)
 
 -[@beevekmgr](https://github.com/beevekmgr)
