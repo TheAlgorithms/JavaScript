@@ -6994,8 +6994,6 @@
 
 -[DomantasBazys](https://github.com/DomantasBazys)
 
--[@GSuzui](https://github.com/GSuzui)
-
 -[@maoritz](https://github.com/maoritz)
 
 -[@jRashad](http://github.com/jRashad)
@@ -7353,3 +7351,5 @@
 -[@mikhlasnr](https://github.com/mikhlasnr)
 
 -[@HelloTakako](https://github.com/HelloTakako/)
+
+-[@GSuzui](https://github.com/GSuzui)
