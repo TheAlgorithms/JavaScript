@@ -7345,3 +7345,13 @@
 -[@devleinka](https://github.com/devleinka)
 
 -[@blacktomang](https://github.com/blacktomang/)
+
+-[@AquamanRanda](https://github.com/AquamanRanda/)
+
+-[@beevekmgr](https://github.com/beevekmgr)
+
+-[@mikhlasnr](https://github.com/mikhlasnr)
+
+-[@HelloTakako](https://github.com/HelloTakako/)
+
+-[@GSuzui](https://github.com/GSuzui)
