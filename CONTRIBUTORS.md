@@ -7366,6 +7366,8 @@
 
 -[@facutota](https://github.com/facutota)
 
+-[@horebedward](https://github.com/horebedward/)
+
 -[@ravispatel303](https://github.com/ravispatel303)
 
 -[@AVaunt-consulting](https://github.com/AVaunt-consulting)
