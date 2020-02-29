@@ -7366,6 +7366,8 @@
 
 -[@facutota](https://github.com/facutota)
 
+-[@AVaunt-consulting](https://github.com/AVaunt-consulting)
+
 -[@Kweyku](https://github.com/Kweyku)
 
 -[@crisemcon](https://github.com/crisemcon)
