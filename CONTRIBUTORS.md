@@ -7367,3 +7367,19 @@
 -[@facutota](https://github.com/facutota)
 
 -[@fvlly](https://github.com/fvlly)
+
+-[@franciscomelov](https://github.com/franciscomelov)
+
+-[@faysalswe](https://github.com/faysalswe)
+
+-[@eddie0mohammed](https://github.com/eddie0mohammed)
+
+-[@sudhirreddy1312](https://github.com/sudhirreddy1312)
+
+-[@lys0605](https://github.com/lys0605)
+
+-[@AdrienV17](https://github.com/AdrienV17)
+
+-[@divyanshi-agr](https://github.com/divyanshi-agr)
+
+-[@obulayumi](https://github.com/obulayumi)
