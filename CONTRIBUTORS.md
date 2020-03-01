@@ -7412,4 +7412,6 @@
 
 -[@adiaz-dev](https://github.com/adiaz-dev)
 
+-[@ta106](https://github.com/ta106/)
+
 -[@wedersonsilva](https://github.com/wedersonsilva)
