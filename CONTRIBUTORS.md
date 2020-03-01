@@ -5822,7 +5822,7 @@
 
 -[@ahmed-abdelhamid](https://github.com/ahmed-abdelhamid)
 
--[@k083k]{https://github.com/k083k}
+-[@k083k](https://github.com/k083k)
 
 -[@souvik88](https://github.com/souvik88)
 
@@ -7401,3 +7401,13 @@
 -[@obulayumi](https://github.com/obulayumi)
 
 -[@anathkantonda](https://github.com/anathkantonda)
+
+-[@yingtlee](https://github.com/yingtlee)
+
+-[@Vishnu-Prabhakaran](https://github.com/Vishnu-Prabhakaran)
+
+-[@fumiadeyemi](https://github.com/fumiadeyemi)
+
+-[@nmirce](https://github.com/nmirce)
+
+-[@adiaz-dev](https://github.com/adiaz-dev)
