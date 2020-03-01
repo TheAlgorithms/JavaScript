@@ -7400,4 +7400,8 @@
 
 -[@obulayumi](https://github.com/obulayumi)
 
--[@fumiadeyemi] (https://github.com/fumiadeyemi)
+-[@fumiadeyemi](https://github.com/fumiadeyemi)
+
+-[@nmirce](https://github.com/nmirce)
+
+-[@adiaz-dev](https://github.com/adiaz-dev)
