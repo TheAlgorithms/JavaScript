@@ -7366,6 +7366,8 @@
 
 -[@facutota](https://github.com/facutota)
 
+-[@dannytseng](https://github.com/dannytseng)
+
 -[@horebedward](https://github.com/horebedward/)
 
 -[@ravispatel303](https://github.com/ravispatel303)
@@ -7399,3 +7401,29 @@
 -[@divyanshi-agr](https://github.com/divyanshi-agr)
 
 -[@obulayumi](https://github.com/obulayumi)
+
+-[@anathkantonda](https://github.com/anathkantonda)
+
+-[@yingtlee](https://github.com/yingtlee)
+
+-[@Vishnu-Prabhakaran](https://github.com/Vishnu-Prabhakaran)
+
+-[@fumiadeyemi](https://github.com/fumiadeyemi)
+
+-[@nmirce](https://github.com/nmirce)
+
+-[@adiaz-dev](https://github.com/adiaz-dev)
+
+-[@ta106](https://github.com/ta106/)
+
+-[@Dmax37100](https://github.com/Dmax37100/)
+
+-[@greenlime21](https://github.com/greenlime21)
+
+-[@tormewah](https://github.com/tormewah)
+
+-[@Aigito](https://github.com/Aigito/)
+
+-[@elenaandersson](https://github.com/elenaandersson)
+
+-[@sunilma](https://github.com/sunilma/)
