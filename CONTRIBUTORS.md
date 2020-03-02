@@ -7416,6 +7416,8 @@
 
 -[@ta106](https://github.com/ta106/)
 
+-[@KlemenDobrota](https://github.com/KlemenDobrota)
+
 -[@wedersonsilva](https://github.com/wedersonsilva)
 
 -[@Dmax37100](https://github.com/Dmax37100/)
