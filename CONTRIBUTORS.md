@@ -7366,6 +7366,8 @@
 
 -[@facutota](https://github.com/facutota)
 
+-[@dannytseng](https://github.com/dannytseng)
+
 -[@horebedward](https://github.com/horebedward/)
 
 -[@ravispatel303](https://github.com/ravispatel303)
@@ -7415,3 +7417,9 @@
 -[@ta106](https://github.com/ta106/)
 
 -[@tormewah](https://github.com/tormewah)
+
+-[@Aigito](https://github.com/Aigito/)
+
+-[@elenaandersson](https://github.com/elenaandersson)
+
+-[@sunilma](https://github.com/sunilma/)
