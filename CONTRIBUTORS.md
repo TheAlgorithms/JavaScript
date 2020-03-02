@@ -7413,3 +7413,5 @@
 -[@adiaz-dev](https://github.com/adiaz-dev)
 
 -[@ta106](https://github.com/ta106/)
+
+-[@sziszimorak](https://github.com/sziszimorak/)
