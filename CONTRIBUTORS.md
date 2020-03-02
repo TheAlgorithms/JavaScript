@@ -5822,7 +5822,7 @@
 
 -[@ahmed-abdelhamid](https://github.com/ahmed-abdelhamid)
 
--[@k083k]{https://github.com/k083k}
+-[@k083k](https://github.com/k083k)
 
 -[@souvik88](https://github.com/souvik88)
 
@@ -7367,3 +7367,51 @@
 -[@facutota](https://github.com/facutota)
 
 -[@dannytseng](https://github.com/dannytseng)
+
+-[@horebedward](https://github.com/horebedward/)
+
+-[@ravispatel303](https://github.com/ravispatel303)
+
+-[@AVaunt-consulting](https://github.com/AVaunt-consulting)
+
+-[@Kweyku](https://github.com/Kweyku)
+
+-[@crisemcon](https://github.com/crisemcon)
+
+-[@HelioRochaCardoso](https://github.com/HelioRochaCardoso)
+
+-[@ShahG412](https://github.com/ShahG412)
+
+-[@lysychas](https://github.com/lysychas/)
+
+-[@fvlly](https://github.com/fvlly)
+
+-[@franciscomelov](https://github.com/franciscomelov)
+
+-[@faysalswe](https://github.com/faysalswe)
+
+-[@eddie0mohammed](https://github.com/eddie0mohammed)
+
+-[@sudhirreddy1312](https://github.com/sudhirreddy1312)
+
+-[@lys0605](https://github.com/lys0605)
+
+-[@AdrienV17](https://github.com/AdrienV17)
+
+-[@divyanshi-agr](https://github.com/divyanshi-agr)
+
+-[@obulayumi](https://github.com/obulayumi)
+
+-[@anathkantonda](https://github.com/anathkantonda)
+
+-[@yingtlee](https://github.com/yingtlee)
+
+-[@Vishnu-Prabhakaran](https://github.com/Vishnu-Prabhakaran)
+
+-[@fumiadeyemi](https://github.com/fumiadeyemi)
+
+-[@nmirce](https://github.com/nmirce)
+
+-[@adiaz-dev](https://github.com/adiaz-dev)
+
+-[@ta106](https://github.com/ta106/)
