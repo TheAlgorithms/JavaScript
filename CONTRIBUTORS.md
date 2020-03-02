@@ -7366,6 +7366,8 @@
 
 -[@facutota](https://github.com/facutota)
 
+-[@dannytseng](https://github.com/dannytseng)
+
 -[@horebedward](https://github.com/horebedward/)
 
 -[@ravispatel303](https://github.com/ravispatel303)
@@ -7415,3 +7417,21 @@
 -[@ta106](https://github.com/ta106/)
 
 -[@matic1909](https://github.com/matic1909)
+
+-[@sziszimorak](https://github.com/sziszimorak/)
+
+-[@KlemenDobrota](https://github.com/KlemenDobrota)
+
+-[@wedersonsilva](https://github.com/wedersonsilva)
+
+-[@Dmax37100](https://github.com/Dmax37100/)
+
+-[@greenlime21](https://github.com/greenlime21)
+
+-[@tormewah](https://github.com/tormewah)
+
+-[@Aigito](https://github.com/Aigito/)
+
+-[@elenaandersson](https://github.com/elenaandersson)
+
+-[@sunilma](https://github.com/sunilma/)
