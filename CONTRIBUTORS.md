@@ -7436,6 +7436,8 @@
 
 -[@sunilma](https://github.com/sunilma/)
 
+-[@fariTheCode](https://github.com/FariTheCoder)
+
 -[@vikilastiri](https://github.com/vikilastiri)
 
 -[@ah-meisami](https://github.com/ah-meisami/)
