@@ -7438,3 +7438,6 @@
 
 -[@syfon01](https://github.com/syfon01/)
 
+-[@deil1](https://github.com/deil1)
+
+-[@aliqsson](https://github.com/aliqsson)
