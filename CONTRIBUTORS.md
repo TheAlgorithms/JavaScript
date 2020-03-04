@@ -7460,6 +7460,8 @@ gi# Contributors
 
 -[@aliqsson](https://github.com/aliqsson)
 
+-[@Edzhevit](https://github.com/Edzhevit)
+
 -[@5zurcaledgj](https://github.com/5zurcaledgj)
 
 -[@CarlRN](https://github.com/CarlRN/)
