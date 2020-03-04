@@ -48,7 +48,7 @@ function get_remaining_chars(key) {
  * @return {String} alphabets - All the letters of the alphabet minus those used in key
  **/    
     
-    alphabets = "abcdefghiklmnopqrstuvwxyz"; // j is removed from the alphabet list
+    let alphabets = "abcdefghiklmnopqrstuvwxyz"; // j is removed from the alphabet list
     // The reason for removing j is because the 5x5 square can only hold 25 characters
     // whereas the total number of alphabets is 26
 
@@ -77,7 +77,7 @@ function encrypt(key, plainText) {
     let encryptedText = '';
 
     for (const diagraph of diagraphs) {
-        locations = search(key_square, diagraph);
+        let locations = search(key_square, diagraph);
         if (sameColumn(locations)) {
             // what if they're in the same column?
             encryptedText += (key_square[(locations[0][0] + 1) % 5][locations[0][1]]);
@@ -92,15 +92,15 @@ function encrypt(key, plainText) {
         }
         else {
             // what if they're neither in the same row nor the same column?
-            a = [locations[0][0], locations[0][1]]
-            b = [locations[1][0], locations[1][1]];
+            let a = [locations[0][0], locations[0][1]]
+            let b = [locations[1][0], locations[1][1]];
             /*
             If neither of the above rules is true: 
                 Form a rectangle with the two letters and take 
                 the letters on the horizontal opposite corner of the rectangle. 
             */
-            encryptedText += key_square[a[0]]  [[b[1]]]; 
-            encryptedText += key_square[  b[0] ]  [a[1]];
+            encryptedText += key_square[a[0]][b[1]]; 
+            encryptedText += key_square[b[0]][a[1]];
         }
     }
     return encryptedText;
@@ -114,7 +114,7 @@ function decrypt(key, cipherText) {
     let decryptedText = '';
 
     for (const diagraph of diagraphs) {
-        locations = search(key_square, diagraph);
+    let locations = search(key_square, diagraph);
         
         
         if (sameColumn(locations)) {
@@ -127,15 +127,15 @@ function decrypt(key, cipherText) {
         }
         else {
             // what if they're neither in the same row nor the same column?
-            a = [locations[0][0], locations[0][1]]
-            b = [locations[1][0], locations[1][1]];
+            let a = [locations[0][0], locations[0][1]]
+            let b = [locations[1][0], locations[1][1]];
             /*
             If neither of the above rules is true: 
                 Form a rectangle with the two letters and take 
                 the letters on the horizontal opposite corner of the rectangle. 
             */
-            decryptedText += key_square[a[0]]  [[b[1]]]; 
-            decryptedText += key_square[  b[0] ]  [a[1]];
+            decryptedText += key_square[a[0]]  [b[1]]; 
+            decryptedText += key_square[b[0]]  [a[1]];
         }
     }
     return decryptedText;
