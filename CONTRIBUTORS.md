@@ -7459,3 +7459,5 @@
 -[@deil1](https://github.com/deil1)
 
 -[@aliqsson](https://github.com/aliqsson)
+
+-[@diegodario88](https://github.com/diegodario88)
