@@ -7460,6 +7460,8 @@ gi# Contributors
 
 -[@aliqsson](https://github.com/aliqsson)
 
+-[@tau-bar](https://github.com/tau-bar)
+
 -[@Edzhevit](https://github.com/Edzhevit)
 
 -[@5zurcaledgj](https://github.com/5zurcaledgj)
