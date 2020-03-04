@@ -7460,4 +7460,4 @@ gi# Contributors
 
 -[@aliqsson](https://github.com/aliqsson)
 
-- [@morlimoore](https://github.com/morlimoore)
+-[@morlimoore](https://github.com/morlimoore)
