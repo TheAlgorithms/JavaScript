@@ -7460,6 +7460,8 @@ gi# Contributors
 
 -[@aliqsson](https://github.com/aliqsson)
 
+-[@milolatui12](https://github.com/milolatui12)
+
 -[@Alexxos](https://github.com/Alexxos/)
 
 -[@nitink66](https://github.com/nitink66)
