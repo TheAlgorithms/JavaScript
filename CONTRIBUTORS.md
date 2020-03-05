@@ -7495,3 +7495,9 @@ gi# Contributors
 -[@akbradley](https://github.com/akbradley)
 
 -[@jjcode01](https://github.com/jjCode01)
+
+-[@issacfriedman](https://github.com/issacfriedman)
+
+-[@Pgrover2001](https://github.com/Pgrover2001)
+
+-[@piecuchlukasz](https://github.com/piecuchlukasz)
