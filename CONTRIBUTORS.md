@@ -7494,6 +7494,8 @@ gi# Contributors
 
 -[@akbradley](https://github.com/akbradley)
 
+-[@CoachNooB](https://github.com/CoachNooB)
+
 -[@dma1979](https://github.com/dma1979)
 
 -[@Hudsonprem](https://github.com/Hudsonprem)
