@@ -7416,6 +7416,8 @@ gi# Contributors
 
 -[@ta106](https://github.com/ta106/)
 
+-[@sahilramteke4](https://github.com/sahilramteke4/)
+
 -[@matic1909](https://github.com/matic1909)
 
 -[@sziszimorak](https://github.com/sziszimorak/)
@@ -7493,4 +7495,21 @@ gi# Contributors
 -[@BilalAslam1](https://github.com/BilalAslam1)
 
 -[@akbradley](https://github.com/akbradley)
+
 -[@petertesfa99](https://github.com/petertesfa99)
+
+-[@terencehh](https://github.com/terencehh/)
+
+-[@CoachNooB](https://github.com/CoachNooB)
+
+-[@dma1979](https://github.com/dma1979)
+
+-[@Hudsonprem](https://github.com/Hudsonprem)
+
+-[@jjcode01](https://github.com/jjCode01)
+
+-[@issacfriedman](https://github.com/issacfriedman)
+
+-[@Pgrover2001](https://github.com/Pgrover2001)
+
+-[@piecuchlukasz](https://github.com/piecuchlukasz)
