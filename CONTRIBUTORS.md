@@ -7496,3 +7496,14 @@ gi# Contributors
 
 -[@CoachNooB](https://github.com/CoachNooB)
 
+-[@dma1979](https://github.com/dma1979)
+
+-[@Hudsonprem](https://github.com/Hudsonprem)
+
+-[@jjcode01](https://github.com/jjCode01)
+
+-[@issacfriedman](https://github.com/issacfriedman)
+
+-[@Pgrover2001](https://github.com/Pgrover2001)
+
+-[@piecuchlukasz](https://github.com/piecuchlukasz)
