@@ -7496,6 +7496,8 @@ gi# Contributors
 
 -[@akbradley](https://github.com/akbradley)
 
+-[@jrtorsa](https://github.com/jrtorsa)
+
 -[@mrtommyliang](https://github.com/mrtommyliang)
 
 -[@LiaPet](https://github.com/LiaPet)
