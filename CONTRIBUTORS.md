@@ -1,4 +1,4 @@
-# Contributors
+gi# Contributors
 
 -[@cgould16](https://github.com/cgould16)
 
@@ -7366,6 +7366,8 @@
 
 -[@facutota](https://github.com/facutota)
 
+-[@dannytseng](https://github.com/dannytseng)
+
 -[@horebedward](https://github.com/horebedward/)
 
 -[@ravispatel303](https://github.com/ravispatel303)
@@ -7415,3 +7417,82 @@
 -[@ta106](https://github.com/ta106/)
 
 -[@sahilramteke4](https://github.com/sahilramteke4/)
+
+-[@matic1909](https://github.com/matic1909)
+
+-[@sziszimorak](https://github.com/sziszimorak/)
+
+-[@KlemenDobrota](https://github.com/KlemenDobrota)
+
+-[@wedersonsilva](https://github.com/wedersonsilva)
+
+-[@Dmax37100](https://github.com/Dmax37100/)
+
+-[@greenlime21](https://github.com/greenlime21)
+
+-[@tormewah](https://github.com/tormewah)
+
+-[@Aigito](https://github.com/Aigito/)
+
+-[@elenaandersson](https://github.com/elenaandersson)
+
+-[@sunilma](https://github.com/sunilma/)
+
+-[@bmumz](https://github.com/bmumz/)
+
+-[@Bynor](https://github.com/Bynor/)
+
+-[@pathutt](https://github.com/pathutt)
+
+-[@prajeethv](https://github.com/prajeethv/)
+
+-[@Robsonvasouza](https://github.com/Robsonvasouza/)
+
+-[@fariTheCode](https://github.com/FariTheCoder)
+
+-[@vikilastiri](https://github.com/vikilastiri)
+
+-[@ah-meisami](https://github.com/ah-meisami/)
+
+-[@monika-sahay](https://github.com/monika-sahay)
+
+-[@syfon01](https://github.com/syfon01/)
+
+-[@deil1](https://github.com/deil1)
+
+-[@aliqsson](https://github.com/aliqsson)
+
+-[@layoayeni](https://github.com/layoayeni)
+
+-[@milolatui12](https://github.com/milolatui12)
+
+-[@Alexxos](https://github.com/Alexxos/)
+
+-[@nitink66](https://github.com/nitink66)
+
+-[@tau-bar](https://github.com/tau-bar)
+
+-[@Edzhevit](https://github.com/Edzhevit)
+
+-[@5zurcaledgj](https://github.com/5zurcaledgj)
+
+-[@CarlRN](https://github.com/CarlRN/)
+
+-[@harishankarsivaji](https://github.com/harishankarsivaji)
+
+-[@bsrisompong](https://github.com/bsrisompong)
+
+-[@morlimoore](https://github.com/morlimoore)
+
+-[@diegodario88](https://github.com/diegodario88)
+
+-[@KrishnaSharmaRS](https://github.com/KrishnaSharmaRS)
+
+-[@kartik7919](https://github.com/kartik7919)
+
+-[@jarmsden](https://github.com/jarmsden/)
+
+-[@BilalAslam1](https://github.com/BilalAslam1)
+
+-[@akbradley](https://github.com/akbradley)
+
