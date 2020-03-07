@@ -7522,4 +7522,6 @@ gi# Contributors
 
 -[@piecuchlukasz](https://github.com/piecuchlukasz)
 
+-[@velkovska](https://github.com/velkovska)
+
 -[@codymsnyder](https://github.com/codymsnyder)
