@@ -7524,6 +7524,8 @@ gi# Contributors
 
 -[@piecuchlukasz](https://github.com/piecuchlukasz)
 
+-[@rayreside](https://github.com/rayreside)
+
 -[@saadrazzak](https://github.com/saadrazzak)
 
 -[@YenTingWu](https://github.com/YenTingWu)
