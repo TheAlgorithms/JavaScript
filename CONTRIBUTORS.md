@@ -7524,6 +7524,8 @@ gi# Contributors
 
 -[@piecuchlukasz](https://github.com/piecuchlukasz)
 
+-[@tanngo1605](https://github.com/tanngo1605)
+
 -[@RobertoHongo](https://github.com/RobertoHongo)
 
 -[@mishalalex](https://github.com/mishalalex/)
