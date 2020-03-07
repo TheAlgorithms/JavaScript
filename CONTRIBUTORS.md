@@ -1,4 +1,4 @@
-git# Contributors
+gi# Contributors
 
 -[@cgould16](https://github.com/cgould16)
 
