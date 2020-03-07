@@ -1,5 +1,7 @@
 gi# Contributors
 
+-[@menNsloo](https://github.com/menNsloo)
+
 -[@cgould16](https://github.com/cgould16)
 
 -[@akashjoffl](https://github.com/akashjoffl)
