@@ -7524,6 +7524,8 @@ gi# Contributors
 
 -[@piecuchlukasz](https://github.com/piecuchlukasz)
 
+-[@jmGuitarte](https://github.com/jmGuitarte)
+
 -[@vengatesanns](https://github.com/vengatesanns)
 
 -[@confusionmatrix98](https://github.com/confusionmatrix98)
