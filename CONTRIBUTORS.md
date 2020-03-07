@@ -7524,6 +7524,8 @@ gi# Contributors
 
 -[@piecuchlukasz](https://github.com/piecuchlukasz)
 
+-[@brandicameron](https://github.com/brandicameron)
+
 -[@ebnsina](https://github.com/ebnsina)
 
 -[@bhr94](https://github.com/bhr94)
