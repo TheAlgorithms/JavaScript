@@ -1,5 +1,7 @@
 gi# Contributors
 
+-[@menNsloo](https://github.com/menNsloo)
+
 -[@cgould16](https://github.com/cgould16)
 
 -[@akashjoffl](https://github.com/akashjoffl)
@@ -7523,3 +7525,43 @@ gi# Contributors
 -[@piecuchlukasz](https://github.com/piecuchlukasz)
 
 -[@alan589](https://github.com/alan589)
+
+-[@brandicameron](https://github.com/brandicameron)
+
+-[@ebnsina](https://github.com/ebnsina)
+
+-[@bhr94](https://github.com/bhr94)
+
+-[@zahrataleb7](https://github.com/zahrataleb7/)
+
+-[@Balaji3049](https://github.com/Balaji3049)
+
+-[@jmGuitarte](https://github.com/jmGuitarte)
+
+-[@vengatesanns](https://github.com/vengatesanns)
+
+-[@confusionmatrix98](https://github.com/confusionmatrix98)
+
+-[@SuvashBudhathoki](https://github.com/SuvashBudhathoki)
+
+-[@ImtiazKun](https://github.com/ImtiazKun)
+
+-[@sbrew](https://github.com/sbrew/)
+
+-[@Vaishnavidighe](https://github.com/Vaishnavidighe/)
+
+-[@paakay](https://github.com/paakay)
+
+-[@myushchenko](https://github.com/myushchenko)
+
+-[@ssakib4050](https://github.com/ssakib4050)
+
+-[@Mehran9675](https://github.com/Mehran9675/)
+
+-[@keithmerritt](https://github.com/keithmerritt)
+
+-[@shibbybro](https://github.com/shibbybro)
+
+-[@velkovska](https://github.com/velkovska)
+
+-[@codymsnyder](https://github.com/codymsnyder)
