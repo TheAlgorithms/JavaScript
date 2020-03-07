@@ -7524,6 +7524,8 @@ gi# Contributors
 
 -[@piecuchlukasz](https://github.com/piecuchlukasz)
 
+-[@SuvashBudhathoki](https://github.com/SuvashBudhathoki)
+
 -[@ImtiazKun](https://github.com/ImtiazKun)
 
 -[@sbrew](https://github.com/sbrew/)
