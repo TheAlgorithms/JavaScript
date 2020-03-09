@@ -7442,6 +7442,8 @@ gi# Contributors
 
 -[@sunilma](https://github.com/sunilma/)
 
+-[@mihailo-maksa](https://github.com/mihailo-maksa)
+
 -[@bmumz](https://github.com/bmumz/)
 
 -[@Bynor](https://github.com/Bynor/)
@@ -7583,6 +7585,10 @@ gi# Contributors
 -[@codymsnyder](https://github.com/codymsnyder)
 
 -[@mahadamer99](https://github.com/mahadamer99)
+
+-[@ShimShon1](https://github.com/ShimShon1)
+
+-[@rzylim](https://github.com/rzylim)
 
 -[@SamuelLeiva](https://github.com/SamuelLeiva)
 
