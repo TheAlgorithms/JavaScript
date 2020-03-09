@@ -7581,3 +7581,5 @@ gi# Contributors
 -[@codymsnyder](https://github.com/codymsnyder)
 
 -[@HenryAballi]((https://github.com/HenryAballi)
+
+-[@PsySc0rpi0n](https://github.com/PsySc0rpi0n)
