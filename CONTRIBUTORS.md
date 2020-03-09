@@ -7442,6 +7442,8 @@ gi# Contributors
 
 -[@sunilma](https://github.com/sunilma/)
 
+-[@mihailo-maksa](https://github.com/mihailo-maksa)
+
 -[@bmumz](https://github.com/bmumz/)
 
 -[@Bynor](https://github.com/Bynor/)
