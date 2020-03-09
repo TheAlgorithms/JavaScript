@@ -434,6 +434,8 @@ gi# Contributors
 
 -[@laver0ck](https://github.com/laver0ck)
 
+-[@jbeyeah](https://github.com/jbeyeah/)
+
 -[@jbeyeah](https://github.com/jbeyeah)
 
 -[@Kenneth-Brisco](https://github.com/Kenneth-Brisco)
@@ -7581,3 +7583,31 @@ gi# Contributors
 -[@codymsnyder](https://github.com/codymsnyder)
 
 -[@ShimShon1](https://github.com/ShimShon1)
+
+-[@rzylim](https://github.com/rzylim)
+
+-[@SamuelLeiva](https://github.com/SamuelLeiva)
+
+-[@cernojit](https://github.com/cernojit)
+
+-[@jooami](https://github.com/jooami)
+
+-[@tpil](https://github.com/tpil)
+
+-[@AbkrSlh](https://github.com/AbkrSlh/)
+
+-[@AswinBarath](https://github.com/AswinBarath)
+
+-[@VideshLoya](https://github.com/VideshLoya)
+
+-[@tghimanshu](https://github.com/tghimanshu)
+
+-[@mulmar](https://github.com/mulmar)
+
+-[@dk649](https://github.com/dk649)
+
+-[@Benson727](https://github.com/Benson727)
+
+-[@HenryAballi]((https://github.com/HenryAballi)
+
+-[@PsySc0rpi0n](https://github.com/PsySc0rpi0n)
