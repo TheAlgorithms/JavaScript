@@ -7581,3 +7581,11 @@ gi# Contributors
 -[@codymsnyder](https://github.com/codymsnyder)
 
 -[@mulmar](https://github.com/mulmar)
+
+-[@dk649](https://github.com/dk649)
+
+-[@Benson727](https://github.com/Benson727)
+
+-[@HenryAballi]((https://github.com/HenryAballi)
+
+-[@PsySc0rpi0n](https://github.com/PsySc0rpi0n)
