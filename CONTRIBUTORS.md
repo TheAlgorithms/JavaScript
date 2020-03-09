@@ -7579,3 +7579,5 @@ gi# Contributors
 -[@velkovska](https://github.com/velkovska)
 
 -[@codymsnyder](https://github.com/codymsnyder)
+
+-[@PsySc0rpi0n](https://github.com/PsySc0rpi0n)
