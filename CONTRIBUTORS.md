@@ -7582,6 +7582,8 @@ gi# Contributors
 
 -[@codymsnyder](https://github.com/codymsnyder)
 
+-[@cernojit](https://github.com/cernojit)
+
 -[@jooami](https://github.com/jooami)
 
 -[@tpil](https://github.com/tpil)
