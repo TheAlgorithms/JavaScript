@@ -7582,6 +7582,8 @@ gi# Contributors
 
 -[@codymsnyder](https://github.com/codymsnyder)
 
+-[@SamuelLeiva](https://github.com/SamuelLeiva)
+
 -[@cernojit](https://github.com/cernojit)
 
 -[@jooami](https://github.com/jooami)
