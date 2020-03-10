@@ -7630,6 +7630,8 @@ gi# Contributors
 
 -[@PsySc0rpi0n](https://github.com/PsySc0rpi0n)
 
+-[@rahulkumarborah](https://github.com/rahulkumarborah)
+
 -[@CamJackson-Dev ](https://github.com/CamJackson-Dev)
 
 -[@JerylDEv](https://github.com/JerylDEv/)
