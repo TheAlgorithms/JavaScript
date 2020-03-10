@@ -7614,6 +7614,18 @@ gi# Contributors
 
 -[@HenryAballi](https://github.com/HenryAballi)
 
+-[@PsySc0rpi0n](https://github.com/PsySc0rpi0n
+
+-[@IvanTrifonov1](https://github.com/IvanTrifonov1)
+
 -[@PsySc0rpi0n](https://github.com/PsySc0rpi0n)
 
 -[@JerylDEv](https://github.com/JerylDEv/)
+
+-[@PnCodeBreaker](https://github.com/PnCodeBreaker)
+
+-[@Ivan22291](https://github.com/Ivan22291/)
+
+-[@priyajitm](https://github.com/priyajitm)
+
+-[@jeanniesarah](https://github.com/jeanniesarah)
