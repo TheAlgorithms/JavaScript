@@ -7616,6 +7616,8 @@ gi# Contributors
 
 -[@PsySc0rpi0n](https://github.com/PsySc0rpi0n)
 
+-[@himanshugawari](https://github.com/himanshugawari)
+
 -[@crosscy](https://github.com/crosscy)
 
 -[@dibakash](https://github.com/dibakash)
