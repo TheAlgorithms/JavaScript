@@ -7584,6 +7584,8 @@ gi# Contributors
 
 -[@codymsnyder](https://github.com/codymsnyder)
 
+-[@aal2015](https://github.com/aal2015)
+
 -[@mahadamer99](https://github.com/mahadamer99)
 
 -[@ShimShon1](https://github.com/ShimShon1)
@@ -7612,8 +7614,34 @@ gi# Contributors
 
 -[@Benson727](https://github.com/Benson727)
 
--[@HenryAballi]((https://github.com/HenryAballi)
+-[@HenryAballi](https://github.com/HenryAballi)
+
+-[@PsySc0rpi0n](https://github.com/PsySc0rpi0n)
+
+-[@himanshugawari](https://github.com/himanshugawari)
+
+-[@crosscy](https://github.com/crosscy)
+
+-[@dibakash](https://github.com/dibakash)
+
+-[@PsySc0rpi0n](https://github.com/PsySc0rpi0n
+
+-[@IvanTrifonov1](https://github.com/IvanTrifonov1)
 
 -[@PsySc0rpi0n](https://github.com/PsySc0rpi0n)
 
 -[@FernandoBritoA](https://github.com/FernandoBritoA)
+
+-[@rahulkumarborah](https://github.com/rahulkumarborah)
+
+-[@CamJackson-Dev ](https://github.com/CamJackson-Dev)
+
+-[@JerylDEv](https://github.com/JerylDEv/)
+
+-[@PnCodeBreaker](https://github.com/PnCodeBreaker)
+
+-[@Ivan22291](https://github.com/Ivan22291/)
+
+-[@priyajitm](https://github.com/priyajitm)
+
+-[@jeanniesarah](https://github.com/jeanniesarah)
