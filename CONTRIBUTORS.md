@@ -434,6 +434,8 @@ gi# Contributors
 
 -[@laver0ck](https://github.com/laver0ck)
 
+-[@jbeyeah](https://github.com/jbeyeah/)
+
 -[@jbeyeah](https://github.com/jbeyeah)
 
 -[@Kenneth-Brisco](https://github.com/Kenneth-Brisco)
@@ -7440,6 +7442,8 @@ gi# Contributors
 
 -[@sunilma](https://github.com/sunilma/)
 
+-[@mihailo-maksa](https://github.com/mihailo-maksa)
+
 -[@bmumz](https://github.com/bmumz/)
 
 -[@Bynor](https://github.com/Bynor/)
@@ -7581,3 +7585,59 @@ gi# Contributors
 -[@codymsnyder](https://github.com/codymsnyder)
 
 -[@aal2015](https://github.com/aal2015)
+
+-[@mahadamer99](https://github.com/mahadamer99)
+
+-[@ShimShon1](https://github.com/ShimShon1)
+
+-[@rzylim](https://github.com/rzylim)
+
+-[@SamuelLeiva](https://github.com/SamuelLeiva)
+
+-[@cernojit](https://github.com/cernojit)
+
+-[@jooami](https://github.com/jooami)
+
+-[@tpil](https://github.com/tpil)
+
+-[@AbkrSlh](https://github.com/AbkrSlh/)
+
+-[@AswinBarath](https://github.com/AswinBarath)
+
+-[@VideshLoya](https://github.com/VideshLoya)
+
+-[@tghimanshu](https://github.com/tghimanshu)
+
+-[@mulmar](https://github.com/mulmar)
+
+-[@dk649](https://github.com/dk649)
+
+-[@Benson727](https://github.com/Benson727)
+
+-[@HenryAballi](https://github.com/HenryAballi)
+
+-[@PsySc0rpi0n](https://github.com/PsySc0rpi0n)
+
+-[@himanshugawari](https://github.com/himanshugawari)
+
+-[@crosscy](https://github.com/crosscy)
+
+-[@dibakash](https://github.com/dibakash)
+
+-[@PsySc0rpi0n](https://github.com/PsySc0rpi0n
+
+-[@IvanTrifonov1](https://github.com/IvanTrifonov1)
+
+-[@PsySc0rpi0n](https://github.com/PsySc0rpi0n)
+
+-[@CamJackson-Dev ](https://github.com/CamJackson-Dev)
+
+-[@JerylDEv](https://github.com/JerylDEv/)
+
+-[@PnCodeBreaker](https://github.com/PnCodeBreaker)
+
+-[@Ivan22291](https://github.com/Ivan22291/)
+
+-[@priyajitm](https://github.com/priyajitm)
+
+-[@jeanniesarah](https://github.com/jeanniesarah)
