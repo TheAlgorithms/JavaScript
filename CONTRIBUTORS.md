@@ -7617,3 +7617,5 @@ gi# Contributors
 -[@PsySc0rpi0n](https://github.com/PsySc0rpi0n)
 
 -[@priyajitm](https://github.com/priyajitm)
+
+-[@jeanniesarah](https://github.com/jeanniesarah)
