@@ -7647,3 +7647,7 @@ gi# Contributors
 -[@jeanniesarah](https://github.com/jeanniesarah)
 
 -[@mobeendev](https://github.com/mobeendev)
+
+-[@RafiaZ](https://github.com/RafiaZ)
+
+-[@mauro-rodrigues](https://github.com/mauro-rodrigues)
