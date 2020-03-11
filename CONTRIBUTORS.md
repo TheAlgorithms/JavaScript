@@ -7647,3 +7647,23 @@ gi# Contributors
 -[@jeanniesarah](https://github.com/jeanniesarah)
 
 -[@Shacko13](https://github.com/Shacko13)
+
+-[@rodrez](https://github.com/rodrez)
+
+-[@gabnash](https://github.com/gabnash)
+
+-[@AgmarTorres](https://github.com/AgmarTorres)
+
+-[@mbihrle](https://github.com/mbihrle)
+
+-[@andyoe0102](https://github.com/andyoe0102)
+
+-[@xiraynedev](https://github.com/xiraynedev/)
+
+-[@hamza](https://github.com/hamzadeveloppementweb)
+
+-[@mobeendev](https://github.com/mobeendev)
+
+-[@RafiaZ](https://github.com/RafiaZ)
+
+-[@mauro-rodrigues](https://github.com/mauro-rodrigues)
