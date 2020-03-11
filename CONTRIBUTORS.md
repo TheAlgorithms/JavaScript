@@ -7624,8 +7624,6 @@ gi# Contributors
 
 -[@dibakash](https://github.com/dibakash)
 
--[@PsySc0rpi0n](https://github.com/PsySc0rpi0n
-
 -[@IvanTrifonov1](https://github.com/IvanTrifonov1)
 
 -[@PsySc0rpi0n](https://github.com/PsySc0rpi0n)
@@ -7645,6 +7643,8 @@ gi# Contributors
 -[@priyajitm](https://github.com/priyajitm)
 
 -[@jeanniesarah](https://github.com/jeanniesarah)
+
+-[@danotsonof](https://github.com/danotsonof)
 
 -[@Shacko13](https://github.com/Shacko13)
 
