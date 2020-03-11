@@ -7646,6 +7646,8 @@ gi# Contributors
 
 -[@jeanniesarah](https://github.com/jeanniesarah)
 
+-[@rodrez](https://github.com/rodrez)
+
 -[@gabnash](https://github.com/gabnash)
 
 -[@AgmarTorres](https://github.com/AgmarTorres)
