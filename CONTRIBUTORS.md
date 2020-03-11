@@ -7624,8 +7624,6 @@ gi# Contributors
 
 -[@dibakash](https://github.com/dibakash)
 
--[@PsySc0rpi0n](https://github.com/PsySc0rpi0n
-
 -[@IvanTrifonov1](https://github.com/IvanTrifonov1)
 
 -[@PsySc0rpi0n](https://github.com/PsySc0rpi0n)
@@ -7646,4 +7644,30 @@ gi# Contributors
 
 -[@jeanniesarah](https://github.com/jeanniesarah)
 
--[@ivankshu(https://github.com/ivankshu)
+-[@ivankshu](https://github.com/ivankshu)
+
+-[@sumgwork](https://github.com/sumgwork)
+
+-[@danotsonof](https://github.com/danotsonof)
+
+-[@Shacko13](https://github.com/Shacko13)
+
+-[@rodrez](https://github.com/rodrez)
+
+-[@gabnash](https://github.com/gabnash)
+
+-[@AgmarTorres](https://github.com/AgmarTorres)
+
+-[@mbihrle](https://github.com/mbihrle)
+
+-[@andyoe0102](https://github.com/andyoe0102)
+
+-[@xiraynedev](https://github.com/xiraynedev/)
+
+-[@hamza](https://github.com/hamzadeveloppementweb)
+
+-[@mobeendev](https://github.com/mobeendev)
+
+-[@RafiaZ](https://github.com/RafiaZ)
+
+-[@mauro-rodrigues](https://github.com/mauro-rodrigues)
