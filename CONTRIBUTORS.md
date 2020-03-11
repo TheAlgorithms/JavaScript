@@ -7645,3 +7645,5 @@ gi# Contributors
 -[@priyajitm](https://github.com/priyajitm)
 
 -[@jeanniesarah](https://github.com/jeanniesarah)
+
+-[@hamza](https://github.com/hamzadeveloppementweb)
