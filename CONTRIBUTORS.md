@@ -7646,6 +7646,8 @@ gi# Contributors
 
 -[@jeanniesarah](https://github.com/jeanniesarah)
 
+-[@xiraynedev](https://github.com/xiraynedev/)
+
 -[@hamza](https://github.com/hamzadeveloppementweb)
 
 -[@mobeendev](https://github.com/mobeendev)
