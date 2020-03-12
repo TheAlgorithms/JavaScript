@@ -3482,6 +3482,8 @@ gi# Contributors
 
 -[@WannaBeATree](https://github.com/WannaBeATree)
 
+-[@sylvaindessureault](https://github.com/sylvaindessureault)
+
 -[@MasterfulGear117](https://github.com/MasterfulGear117)
 
 -[@kaniovsky](https://github.com/kaniovsky)
@@ -7671,4 +7673,13 @@ gi# Contributors
 -[@RafiaZ](https://github.com/RafiaZ)
 
 -[@mauro-rodrigues](https://github.com/mauro-rodrigues)
+
 -[@KauffmannAko](https://github.com/KauffmannAko)
+
+-[@nlabrad](https://github.com/nlabrad)
+
+-[@k4in](https://github.com/k4in)
+
+-[@jaydip22](https://github.com/jaydip22)
+
+-[@evefonwu](https://github.com/evefonwu)
