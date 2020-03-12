@@ -3482,6 +3482,8 @@ gi# Contributors
 
 -[@WannaBeATree](https://github.com/WannaBeATree)
 
+-[@sylvaindessureault](https://github.com/sylvaindessureault)
+
 -[@MasterfulGear117](https://github.com/MasterfulGear117)
 
 -[@kaniovsky](https://github.com/kaniovsky)
