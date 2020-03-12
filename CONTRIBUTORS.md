@@ -7674,6 +7674,8 @@ gi# Contributors
 
 -[@mauro-rodrigues](https://github.com/mauro-rodrigues)
 
+-[@k4in](https://github.com/k4in)
+
 -[@jaydip22](https://github.com/jaydip22)
 
 -[@evefonwu](https://github.com/evefonwu)
