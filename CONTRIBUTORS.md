@@ -7674,6 +7674,8 @@ gi# Contributors
 
 -[@mauro-rodrigues](https://github.com/mauro-rodrigues)
 
+-[@KauffmannAko](https://github.com/KauffmannAko)
+
 -[@nlabrad](https://github.com/nlabrad)
 
 -[@k4in](https://github.com/k4in)
