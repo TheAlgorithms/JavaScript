@@ -3482,6 +3482,8 @@ gi# Contributors
 
 -[@WannaBeATree](https://github.com/WannaBeATree)
 
+-[@sylvaindessureault](https://github.com/sylvaindessureault)
+
 -[@MasterfulGear117](https://github.com/MasterfulGear117)
 
 -[@kaniovsky](https://github.com/kaniovsky)
@@ -7624,8 +7626,6 @@ gi# Contributors
 
 -[@dibakash](https://github.com/dibakash)
 
--[@PsySc0rpi0n](https://github.com/PsySc0rpi0n
-
 -[@IvanTrifonov1](https://github.com/IvanTrifonov1)
 
 -[@PsySc0rpi0n](https://github.com/PsySc0rpi0n)
@@ -7647,3 +7647,59 @@ gi# Contributors
 -[@jeanniesarah](https://github.com/jeanniesarah)
 
 -[@amritRaj789](https://github.com/amritRaj789)
+
+-[@ivankshu](https://github.com/ivankshu)
+
+-[@sumgwork](https://github.com/sumgwork)
+
+-[@danotsonof](https://github.com/danotsonof)
+
+-[@Shacko13](https://github.com/Shacko13)
+
+-[@rodrez](https://github.com/rodrez)
+
+-[@gabnash](https://github.com/gabnash)
+
+-[@AgmarTorres](https://github.com/AgmarTorres)
+
+-[@mbihrle](https://github.com/mbihrle)
+
+-[@andyoe0102](https://github.com/andyoe0102)
+
+-[@xiraynedev](https://github.com/xiraynedev/)
+
+-[@hamza](https://github.com/hamzadeveloppementweb)
+
+-[@mobeendev](https://github.com/mobeendev)
+
+-[@RafiaZ](https://github.com/RafiaZ)
+
+-[@mauro-rodrigues](https://github.com/mauro-rodrigues)
+
+-[@KauffmannAko](https://github.com/KauffmannAko)
+
+-[@nlabrad](https://github.com/nlabrad)
+
+-[@k4in](https://github.com/k4in)
+
+-[@jaydip22](https://github.com/jaydip22)
+
+-[@evefonwu](https://github.com/evefonwu)
+
+-[@TheDahish](https://github.com/TheDahish)
+
+-[@ssommerit](https://github.com/ssommerit)
+
+-[@amit781](https://github.com/amit781)
+
+-[@paytonjewell](https://github.com/paytonjewell)
+
+-[@pancharapon](https://github.com/pancharapon)
+
+-[@LeNguyenHoangNhan](https://github.com/LeNguyenHoangNhan)
+
+-[@r-ush](https://github.com/r-ush)
+
+-[@asmita-saha](https://github.com/asmita-saha)
+
+-[@Ravelonarivo](https://github.com/Ravelonarivo)
