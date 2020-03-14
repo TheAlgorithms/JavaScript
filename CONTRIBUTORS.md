@@ -7688,6 +7688,8 @@ gi# Contributors
 
 -[@evefonwu](https://github.com/evefonwu)
 
+-[@andreibindasov](https://github.com/andreibindasov)
+
 -[@TheDahish](https://github.com/TheDahish)
 
 -[@ssommerit](https://github.com/ssommerit)
