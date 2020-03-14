@@ -7646,6 +7646,8 @@ gi# Contributors
 
 -[@jeanniesarah](https://github.com/jeanniesarah)
 
+-[@amritRaj789](https://github.com/amritRaj789)
+
 -[@ivankshu](https://github.com/ivankshu)
 
 -[@sumgwork](https://github.com/sumgwork)
@@ -7685,3 +7687,21 @@ gi# Contributors
 -[@evefonwu](https://github.com/evefonwu)
 
 -[@andreibindasov](https://github.com/andreibindasov)
+
+-[@TheDahish](https://github.com/TheDahish)
+
+-[@ssommerit](https://github.com/ssommerit)
+
+-[@amit781](https://github.com/amit781)
+
+-[@paytonjewell](https://github.com/paytonjewell)
+
+-[@pancharapon](https://github.com/pancharapon)
+
+-[@LeNguyenHoangNhan](https://github.com/LeNguyenHoangNhan)
+
+-[@r-ush](https://github.com/r-ush)
+
+-[@asmita-saha](https://github.com/asmita-saha)
+
+-[@Ravelonarivo](https://github.com/Ravelonarivo)
