@@ -7686,6 +7686,10 @@ gi# Contributors
 
 -[@pancharapon](https://github.com/pancharapon)
 
+-[@LeNguyenHoangNhan](https://github.com/LeNguyenHoangNhan)
+
+-[@r-ush](https://github.com/r-ush)
+
 -[@asmita-saha](https://github.com/asmita-saha)
 
 -[@Ravelonarivo](https://github.com/Ravelonarivo)
