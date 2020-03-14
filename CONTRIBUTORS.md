@@ -7684,6 +7684,8 @@ gi# Contributors
 
 -[@evefonwu](https://github.com/evefonwu)
 
+-[@r-ush](https://github.com/r-ush)
+
 -[@asmita-saha](https://github.com/asmita-saha)
 
 -[@Ravelonarivo](https://github.com/Ravelonarivo)
