@@ -1,4 +1,4 @@
-gi# Contributors
+# Contributors
 
 -[@menNsloo](https://github.com/menNsloo)
 
@@ -7646,6 +7646,8 @@ gi# Contributors
 
 -[@jeanniesarah](https://github.com/jeanniesarah)
 
+-[@amritRaj789](https://github.com/amritRaj789)
+
 -[@ivankshu](https://github.com/ivankshu)
 
 -[@sumgwork](https://github.com/sumgwork)
@@ -7674,6 +7676,8 @@ gi# Contributors
 
 -[@mauro-rodrigues](https://github.com/mauro-rodrigues)
 
+-[ye-susan](https://github.com/ye-susan)
+
 -[@KauffmannAko](https://github.com/KauffmannAko)
 
 -[@nlabrad](https://github.com/nlabrad)
@@ -7685,3 +7689,31 @@ gi# Contributors
 -[@evefonwu](https://github.com/evefonwu)
 
 -[@dreywesson](https://github.com/DreyWesson)
+
+-[@andreibindasov](https://github.com/andreibindasov)
+
+-[@TheDahish](https://github.com/TheDahish)
+
+-[@ssommerit](https://github.com/ssommerit)
+
+-[@amit781](https://github.com/amit781)
+
+-[@paytonjewell](https://github.com/paytonjewell)
+
+-[@pancharapon](https://github.com/pancharapon)
+
+-[@LeNguyenHoangNhan](https://github.com/LeNguyenHoangNhan)
+
+-[@r-ush](https://github.com/r-ush)
+
+-[@asmita-saha](https://github.com/asmita-saha)
+
+-[@Ravelonarivo](https://github.com/Ravelonarivo)
+
+-[@wealiar](https://github.com/wealiar)
+
+-[@LukeNg3010](https://github.com/LukeNg3010)
+
+-[@JohnLawliet](https://github.com/JohnLawliet)
+
+-[@agieselm](https://github.com/agieselm)
