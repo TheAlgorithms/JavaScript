@@ -2,6 +2,8 @@ gi# Contributors
 
 -[@menNsloo](https://github.com/menNsloo)
 
+-[@jeancarlos-cpu](https://github.com/jeancarlos-cpu)
+
 -[@cgould16](https://github.com/cgould16)
 
 -[@akashjoffl](https://github.com/akashjoffl)
