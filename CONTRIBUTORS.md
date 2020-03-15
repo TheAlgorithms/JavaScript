@@ -7707,3 +7707,5 @@ gi# Contributors
 -[@asmita-saha](https://github.com/asmita-saha)
 
 -[@Ravelonarivo](https://github.com/Ravelonarivo)
+
+-[@wealiar](https://github.com/wealiar)
