@@ -1,4 +1,4 @@
-gi# Contributors
+# Contributors
 
 -[@menNsloo](https://github.com/menNsloo)
 
@@ -7688,6 +7688,8 @@ gi# Contributors
 
 -[@evefonwu](https://github.com/evefonwu)
 
+-[@dreywesson](https://github.com/DreyWesson)
+
 -[@andreibindasov](https://github.com/andreibindasov)
 
 -[@TheDahish](https://github.com/TheDahish)
@@ -7709,3 +7711,11 @@ gi# Contributors
 -[@Ravelonarivo](https://github.com/Ravelonarivo)
 
 -[@Sankarng](https://github.com/Sankarng)
+
+-[@wealiar](https://github.com/wealiar)
+
+-[@LukeNg3010](https://github.com/LukeNg3010)
+
+-[@JohnLawliet](https://github.com/JohnLawliet)
+
+-[@agieselm](https://github.com/agieselm)
