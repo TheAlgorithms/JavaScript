@@ -7722,4 +7722,6 @@
 
 -[@agieselm](https://github.com/agieselm)
 
+-[@ryrodrig](https://github.com/ryrodrig)
+
 -[@pbcarloz](https://github.com/pbcarloz)
