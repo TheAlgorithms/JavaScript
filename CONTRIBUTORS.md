@@ -7722,6 +7722,8 @@
 
 -[@agieselm](https://github.com/agieselm)
 
+-[@semicoloncoding](https://github.com/semicoloncoding)
+
 -[@peterko07](https://github.com/peterko07)
 
 -[@andrew-edmonds](https://github.com/andrew-edmonds)
