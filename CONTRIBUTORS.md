@@ -7722,6 +7722,8 @@
 
 -[@agieselm](https://github.com/agieselm)
 
+-[@LalitLohani](https://github.com/LalitLohani)
+
 -[@rajsinxh](https://github.com/rajsinxh)
 
 -[@shubhamgoel23](https://github.com/shubhamgoel23)
