@@ -7753,3 +7753,13 @@
 -[@pbcarloz](https://github.com/pbcarloz)
 
 -[qsim98](https://github.com/qsim98)
+
+-[@devevangel](https://github.com/devevangel)
+
+-[@icom-yassinghandri](https://github.com/icom-yassinghandri)
+
+-[@jmodonnell96](https://github.com/jmodonnell96/)
+
+-[@andreidanut](https://github.com/andreidanut)
+
+-[@DocLommi](https://github.com/DocLommi)
