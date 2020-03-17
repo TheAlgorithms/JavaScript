@@ -7753,3 +7753,7 @@
 -[@pbcarloz](https://github.com/pbcarloz)
 
 -[@jmodonnell96](https://github.com/jmodonnell96/)
+
+-[@andreidanut](https://github.com/andreidanut)
+
+-[@DocLommi](https://github.com/DocLommi)
