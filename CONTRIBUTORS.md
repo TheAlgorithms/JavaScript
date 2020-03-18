@@ -1,4 +1,5 @@
 # Contributors
+-[@adinautiyal](htpps://github.com/adinautiyal)
 
 -[@menNsloo](https://github.com/menNsloo)
 
