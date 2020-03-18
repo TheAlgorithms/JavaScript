@@ -1,4 +1,5 @@
 # Contributors
+-[@adinautiyal](htpps://github.com/adinautiyal)
 
 -[@menNsloo](https://github.com/menNsloo)
 
@@ -7777,3 +7778,11 @@
 -[@DocLommi](https://github.com/DocLommi)
 
 -[@jjhuangw](https://github.com/jjhuangw)
+
+-[Samrath](https://github.com/Samarath)
+
+-[@swapnilvishwakarma]((https://github.com/DocLommi/swapnilvishwakarma)
+
+-[@DrCardamom](https://github.com/DrCardamom)
+
+-[@MelbouVP](https://github.com/MelbouVP)
