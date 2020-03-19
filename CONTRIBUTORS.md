@@ -6589,6 +6589,8 @@
 
 -[@JeongHaeun3263](https://github.com/JeongHaeun3263)
 
+-[@rashid](https://github.com/rashidmakki)
+
 -[@ayank007](https://github.com/ayank007)
 
 -[@ricardopizarrod](https://github.com/ricardopizarrod)
@@ -7533,6 +7535,8 @@
 
 -[@piecuchlukasz](https://github.com/piecuchlukasz)
 
+-[@kosa4real](https://github.com/kosa4real)
+
 -[@tanngo1605](https://github.com/tanngo1605)
 
 -[@RobertoHongo](https://github.com/RobertoHongo)
@@ -7791,3 +7795,14 @@
 
 -[@satanrout](https://github.com/satanrout)
 
+-[@s00zn](https://github.com/s00zn)
+
+-[@speleoCode](https://github.com/speleoCode)
+
+-[@WesCole](https://github.com/WesCole)
+
+-[@Jkr777](https://github.com/Jkr777)
+
+-[@mchl71]((https://github.com/mchl71)
+
+-[@warrren8689](https://github.com/warrren8689)
