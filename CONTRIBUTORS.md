@@ -7783,13 +7783,15 @@
 
 -[Samrath](https://github.com/Samarath)
 
--[@swapnilvishwakarma]((https://github.com/DocLommi/swapnilvishwakarma)
+-[@swapnilvishwakarma](https://github.com/DocLommi/swapnilvishwakarma)
 
 -[@DrCardamom](https://github.com/DrCardamom)
 
 -[@MelbouVP](https://github.com/MelbouVP)
 
 -[@natan7366](https://github.com/natan7366)
+
+-[@s00zn](https://github.com/s00zn)
 
 -[@speleoCode](https://github.com/speleoCode)
 
