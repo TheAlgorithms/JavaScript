@@ -1,4 +1,5 @@
 # Contributors
+-[@adinautiyal](htpps://github.com/adinautiyal)
 
 -[@menNsloo](https://github.com/menNsloo)
 
@@ -6588,6 +6589,8 @@
 
 -[@JeongHaeun3263](https://github.com/JeongHaeun3263)
 
+-[@rashid](https://github.com/rashidmakki)
+
 -[@ayank007](https://github.com/ayank007)
 
 -[@ricardopizarrod](https://github.com/ricardopizarrod)
@@ -7532,6 +7535,8 @@
 
 -[@piecuchlukasz](https://github.com/piecuchlukasz)
 
+-[@kosa4real](https://github.com/kosa4real)
+
 -[@tanngo1605](https://github.com/tanngo1605)
 
 -[@RobertoHongo](https://github.com/RobertoHongo)
@@ -7766,8 +7771,6 @@
 
 -[qsim98](https://github.com/qsim98)
 
--[@devevangel](https://github.com/devevangel)
-
 -[@icom-yassinghandri](https://github.com/icom-yassinghandri)
 
 -[@jmodonnell96](https://github.com/jmodonnell96/)
@@ -7777,3 +7780,37 @@
 -[@DocLommi](https://github.com/DocLommi)
 
 -[@mannawar](https://github.com/mannawar)
+
+-[@jjhuangw](https://github.com/jjhuangw)
+
+-[Samrath](https://github.com/Samarath)
+
+-[@swapnilvishwakarma](https://github.com/DocLommi/swapnilvishwakarma)
+
+-[@DrCardamom](https://github.com/DrCardamom)
+
+-[@MelbouVP](https://github.com/MelbouVP)
+
+-[devevangel](https://github.com/devevangel)
+
+-[@natan7366](https://github.com/natan7366)
+
+-[@shekhar-kadam](https://github.com/shekhar-kadam)
+
+-[@shekhar-kadam](https://github.com/shekhar-kadam)
+
+-[@LucidDream](https://github.com/LucidDream-J/)
+
+-[@satanrout](https://github.com/satanrout)
+
+-[@s00zn](https://github.com/s00zn)
+
+-[@speleoCode](https://github.com/speleoCode)
+
+-[@WesCole](https://github.com/WesCole)
+
+-[@Jkr777](https://github.com/Jkr777)
+
+-[@mchl71]((https://github.com/mchl71)
+
+-[@warrren8689](https://github.com/warrren8689)
