@@ -7791,6 +7791,8 @@
 
 -[@natan7366](https://github.com/natan7366)
 
+-[@WesCole](https://github.com/WesCole)
+
 -[@Jkr777](https://github.com/Jkr777)
 
 -[@mchl71]((https://github.com/mchl71)
