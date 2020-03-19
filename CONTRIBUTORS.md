@@ -7533,6 +7533,8 @@
 
 -[@piecuchlukasz](https://github.com/piecuchlukasz)
 
+-[@kosa4real](https://github.com/kosa4real)
+
 -[@tanngo1605](https://github.com/tanngo1605)
 
 -[@RobertoHongo](https://github.com/RobertoHongo)
@@ -7790,3 +7792,13 @@
 -[@natan7366](https://github.com/natan7366)
 
 -[@s00zn](https://github.com/s00zn)
+
+-[@speleoCode](https://github.com/speleoCode)
+
+-[@WesCole](https://github.com/WesCole)
+
+-[@Jkr777](https://github.com/Jkr777)
+
+-[@mchl71]((https://github.com/mchl71)
+
+-[@warrren8689](https://github.com/warrren8689)
