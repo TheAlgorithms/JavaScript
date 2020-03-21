@@ -7824,6 +7824,8 @@
 
 -[@warrren8689](https://github.com/warrren8689)
 
+-[@cassandreperron](https://github.com/cassandreperron)
+
 -[@jasktin](https://github.com/jasktin)
 
 -[@BiancaHerbst](https://github.com/BiancaHerbst)
