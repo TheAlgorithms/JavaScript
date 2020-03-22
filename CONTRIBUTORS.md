@@ -7862,6 +7862,8 @@
 
 -[@robertkameni](https://github.com/robertkameni/)
 
+-[@svensoldin](https://github.com/svensoldin)
+
 -[@isamelb]((https://github.com/isamelb/)
 
 -[@berat-ademi](https://github.com/berat-ademi/)
