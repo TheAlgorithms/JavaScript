@@ -7826,6 +7826,8 @@ gt # Contributors
 
 -[@warrren8689](https://github.com/warrren8689)
 
+-[@chrisdalebrown](https://github.com/chrisdalebrown)
+
 -[@kopal960](https://github.com/kopal960)
 
 -[@rhutomo](https://github.com/rhutomo)
