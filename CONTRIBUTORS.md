@@ -5872,6 +5872,8 @@
 
 -[@holufemy](https://github.com/holufemy/)
 
+-[@banea9](https://github.com/banea9/)
+
 -[@wubuchako](https://github.com/wubuchako/)
 
 -[@ddball14](https://github.com/ddball14/)
@@ -7859,4 +7861,19 @@
 -[@teselkinV](https://github.com/teselkinV)
 
 -[@robertkameni](https://github.com/robertkameni/)
+
 -[@MeekMo](https://github.com/MeekMo)
+
+-[@cristianying](https://github.com/cristianying)
+
+-[@josephvalcancick](https://github.com/ByteAbyss/)
+
+-[@svensoldin](https://github.com/svensoldin)
+
+-[@isamelb]((https://github.com/isamelb/)
+
+-[@berat-ademi](https://github.com/berat-ademi/)
+
+-[@hasanthecoder](https://github.com/hasanthecoder)
+
+-[@laraib_sidd](https://github.com/laraib-sidd)
