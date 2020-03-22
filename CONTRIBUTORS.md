@@ -5872,6 +5872,8 @@ gt # Contributors
 
 -[@holufemy](https://github.com/holufemy/)
 
+-[@banea9](https://github.com/banea9/)
+
 -[@wubuchako](https://github.com/wubuchako/)
 
 -[@ddball14](https://github.com/ddball14/)
@@ -7824,6 +7826,8 @@ gt # Contributors
 
 -[@warrren8689](https://github.com/warrren8689)
 
+-[@kopal960](https://github.com/kopal960)
+
 -[@rhutomo](https://github.com/rhutomo)
 
 -[@cassandreperron](https://github.com/cassandreperron)
@@ -7861,3 +7865,21 @@ gt # Contributors
 -[@robertkameni](https://github.com/robertkameni/)
 
 -[@ZorziG](https://github.com/ZorziG)
+
+-[98296](https://github.com/98296)
+
+-[@MeekMo](https://github.com/MeekMo)
+
+-[@cristianying](https://github.com/cristianying)
+
+-[@josephvalcancick](https://github.com/ByteAbyss/)
+
+-[@svensoldin](https://github.com/svensoldin)
+
+-[@isamelb]((https://github.com/isamelb/)
+
+-[@berat-ademi](https://github.com/berat-ademi/)
+
+-[@hasanthecoder](https://github.com/hasanthecoder)
+
+-[@laraib_sidd](https://github.com/laraib-sidd)
