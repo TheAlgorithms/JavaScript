@@ -1,4 +1,5 @@
 # Contributors
+
 -[@adinautiyal](htpps://github.com/adinautiyal)
 
 -[@menNsloo](https://github.com/menNsloo)
@@ -5871,6 +5872,8 @@
 
 -[@holufemy](https://github.com/holufemy/)
 
+-[@banea9](https://github.com/banea9/)
+
 -[@wubuchako](https://github.com/wubuchako/)
 
 -[@ddball14](https://github.com/ddball14/)
@@ -7817,5 +7820,62 @@
 
 -[@mchl71]((https://github.com/mchl71)
 
+-[@warrren8689](https://github.com/warrren8689) 
+
+-[@S4logana](https://github.com/S4logana)
+
 -[@warrren8689](https://github.com/warrren8689)
+
 -[@kopal960](https://github.com/kopal960)
+
+-[@rhutomo](https://github.com/rhutomo)
+
+-[@cassandreperron](https://github.com/cassandreperron)
+
+-[@jasktin](https://github.com/jasktin)
+
+-[@BiancaHerbst](https://github.com/BiancaHerbst)
+
+-[@EleneKikalishvili](https://github.com/EleneKikalishvili/)
+
+-[@tynakpinska](https://github.com/tynakpinska)
+
+-[@YoniTint](https://github.com/YoniTint)
+
+-[@masterambi](https://github.com/masterambi)
+
+-[@Drod86](https://github.com/Drod86)
+
+-[@tigerfanxiao](https://github.com/tigerfanxiao)
+
+-[@Mohib008](https://github.com/Mohib008)
+
+-[@prayagcbose](https://github.com/prayagcbose)
+
+-[@iqbalalam07](https://github.com/iqbalalam07)
+
+-[@AnonDeceptions](https://github.com/AnonDeceptions)
+
+-[@AdarshaCR001](https://github.com/AdarshaCR001)
+
+-[@Miguel2521](https://github.com/Miguel2521)
+
+-[@teselkinV](https://github.com/teselkinV)
+
+-[@robertkameni](https://github.com/robertkameni/)
+
+-[@MeekMo](https://github.com/MeekMo)
+
+-[@cristianying](https://github.com/cristianying)
+
+-[@josephvalcancick](https://github.com/ByteAbyss/)
+
+-[@svensoldin](https://github.com/svensoldin)
+
+-[@isamelb]((https://github.com/isamelb/)
+
+-[@berat-ademi](https://github.com/berat-ademi/)
+
+-[@hasanthecoder](https://github.com/hasanthecoder)
+
+-[@laraib_sidd](https://github.com/laraib-sidd)
