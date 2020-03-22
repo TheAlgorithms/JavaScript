@@ -5872,6 +5872,8 @@
 
 -[@holufemy](https://github.com/holufemy/)
 
+-[@banea9](https://github.com/banea9/)
+
 -[@wubuchako](https://github.com/wubuchako/)
 
 -[@ddball14](https://github.com/ddball14/)
@@ -7861,3 +7863,9 @@
 -[@robertkameni](https://github.com/robertkameni/)
 
 -[@isamelb]((https://github.com/isamelb/)
+
+-[@berat-ademi](https://github.com/berat-ademi/)
+
+-[@hasanthecoder](https://github.com/hasanthecoder)
+
+-[@laraib_sidd](https://github.com/laraib-sidd)
