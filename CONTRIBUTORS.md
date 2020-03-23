@@ -7820,7 +7820,7 @@
 
 -[@mchl71]((https://github.com/mchl71)
 
--[@warrren8689](https://github.com/warrren8689) 
+-[@warrren8689](https://github.com/warrren8689)
 
 -[@S4logana](https://github.com/S4logana)
 
@@ -7861,3 +7861,43 @@
 -[@teselkinV](https://github.com/teselkinV)
 
 -[@robertkameni](https://github.com/robertkameni/)
+
+-[@renanfort](https://github.com/renanfort/)
+
+-[@MaitreyaSahu](https://github.com/MaitreyaSahu/)
+
+-[@ZorziG](https://github.com/ZorziG)
+
+-[98296](https://github.com/98296)
+
+-[@MeekMo](https://github.com/MeekMo)
+
+-[@cristianying](https://github.com/cristianying)
+
+-[@josephvalcancick](https://github.com/ByteAbyss/)
+
+-[@svensoldin](https://github.com/svensoldin)
+
+-[@isamelb](https://github.com/isamelb/)
+
+-[@berat-ademi](https://github.com/berat-ademi/)
+
+-[@hasanthecoder](https://github.com/hasanthecoder)
+
+-[@laraib_sidd](https://github.com/laraib-sidd)
+
+-[@rpbarone](https://github.com/rpbarone)
+
+-[@dev-aboali](https://github.com/dev-aboali)
+
+-[@rodguima](https://github.com/rodguima/)
+
+-[@rutefig](https://github.com/rutefig/)
+
+-[@sschaner](https://github.com/sschaner)
+
+-[@tmd747](https://github.com/tmd747)
+
+-[@tvasari](https://github.com/tvasari)
+
+-[@Ritu75](https://github.com/Ritu75/)
