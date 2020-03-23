@@ -7820,7 +7820,7 @@ gt # Contributors
 
 -[@mchl71]((https://github.com/mchl71)
 
--[@warrren8689](https://github.com/warrren8689) 
+-[@warrren8689](https://github.com/warrren8689)
 
 -[@S4logana](https://github.com/S4logana)
 
@@ -7889,6 +7889,8 @@ gt # Contributors
 -[@hasanthecoder](https://github.com/hasanthecoder)
 
 -[@laraib_sidd](https://github.com/laraib-sidd)
+
+-[@rutefig](https://github.com/rutefig/)
 
 -[@sschaner](https://github.com/sschaner)
 
