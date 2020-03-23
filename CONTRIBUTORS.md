@@ -7891,3 +7891,11 @@ gt # Contributors
 -[@laraib_sidd](https://github.com/laraib-sidd)
 
 -[@rutefig](https://github.com/rutefig/)
+
+-[@sschaner](https://github.com/sschaner)
+
+-[@tmd747](https://github.com/tmd747)
+
+-[@tvasari](https://github.com/tvasari)
+
+-[@Ritu75](https://github.com/Ritu75/)
