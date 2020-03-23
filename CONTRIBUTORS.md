@@ -7890,6 +7890,8 @@ gt # Contributors
 
 -[@laraib_sidd](https://github.com/laraib-sidd)
 
+-[@rpbarone](https://github.com/rpbarone)
+
 -[@dev-aboali](https://github.com/dev-aboali)
 
 -[@rodguima](https://github.com/rodguima/)
