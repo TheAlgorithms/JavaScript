@@ -7882,10 +7882,12 @@ gt # Contributors
 
 -[@svensoldin](https://github.com/svensoldin)
 
--[@isamelb]((https://github.com/isamelb/)
+-[@isamelb](https://github.com/isamelb/)
 
 -[@berat-ademi](https://github.com/berat-ademi/)
 
 -[@hasanthecoder](https://github.com/hasanthecoder)
 
 -[@laraib_sidd](https://github.com/laraib-sidd)
+
+-[@dev-aboali](https://github.com/dev-aboali)
