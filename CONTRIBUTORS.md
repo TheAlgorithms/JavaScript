@@ -1,6 +1,7 @@
-
-gt # Contributors
-
+# Contributors
+ 
+-[@rajindersingh751](https://github.com/rajindersingh751)
+ 
 -[@adinautiyal](htpps://github.com/adinautiyal)
 
 -[@menNsloo](https://github.com/menNsloo)
@@ -5873,8 +5874,6 @@ gt # Contributors
 
 -[@holufemy](https://github.com/holufemy/)
 
--[@banea9](https://github.com/banea9/)
-
 -[@wubuchako](https://github.com/wubuchako/)
 
 -[@ddball14](https://github.com/ddball14/)
@@ -7821,15 +7820,11 @@ gt # Contributors
 
 -[@mchl71]((https://github.com/mchl71)
 
--[@warrren8689](https://github.com/warrren8689) 
+-[@warrren8689](https://github.com/warrren8689)
 
 -[@S4logana](https://github.com/S4logana)
 
 -[@warrren8689](https://github.com/warrren8689)
-
--[@chrisdalebrown](https://github.com/chrisdalebrown)
-
--[@kopal960](https://github.com/kopal960)
 
 -[@rhutomo](https://github.com/rhutomo)
 
@@ -7867,6 +7862,10 @@ gt # Contributors
 
 -[@robertkameni](https://github.com/robertkameni/)
 
+-[@colsen12](https://github.com/colsen12/)
+
+-[@cankien](https://github.com/cankien93/)
+
 -[@renanfort](https://github.com/renanfort/)
 
 -[@MaitreyaSahu](https://github.com/MaitreyaSahu/)
@@ -7883,7 +7882,7 @@ gt # Contributors
 
 -[@svensoldin](https://github.com/svensoldin)
 
--[@isamelb]((https://github.com/isamelb/)
+-[@isamelb](https://github.com/isamelb/)
 
 -[@berat-ademi](https://github.com/berat-ademi/)
 
@@ -7892,3 +7891,19 @@ gt # Contributors
 -[@laraib_sidd](https://github.com/laraib-sidd)
 
 -[@dorisdys](https://github.com/dorisdys)
+
+-[@rpbarone](https://github.com/rpbarone)
+
+-[@dev-aboali](https://github.com/dev-aboali)
+
+-[@rodguima](https://github.com/rodguima/)
+
+-[@rutefig](https://github.com/rutefig/)
+
+-[@sschaner](https://github.com/sschaner)
+
+-[@tmd747](https://github.com/tmd747)
+
+-[@tvasari](https://github.com/tvasari)
+
+-[@Ritu75](https://github.com/Ritu75/)
