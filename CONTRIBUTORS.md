@@ -1,5 +1,7 @@
-gt # Contributors
-
+# Contributors
+ 
+-[@rajindersingh751](https://github.com/rajindersingh751)
+ 
 -[@adinautiyal](htpps://github.com/adinautiyal)
 
 -[@menNsloo](https://github.com/menNsloo)
@@ -5872,8 +5874,6 @@ gt # Contributors
 
 -[@holufemy](https://github.com/holufemy/)
 
--[@banea9](https://github.com/banea9/)
-
 -[@wubuchako](https://github.com/wubuchako/)
 
 -[@ddball14](https://github.com/ddball14/)
@@ -7825,10 +7825,6 @@ gt # Contributors
 -[@S4logana](https://github.com/S4logana)
 
 -[@warrren8689](https://github.com/warrren8689)
-
--[@chrisdalebrown](https://github.com/chrisdalebrown)
-
--[@kopal960](https://github.com/kopal960)
 
 -[@rhutomo](https://github.com/rhutomo)
 
