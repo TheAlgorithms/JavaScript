@@ -7910,6 +7910,8 @@
 
 -[@Ritu75](https://github.com/Ritu75/)
 
+-[@jacobchak](http://github.com/jacobchak/)
+
 -[@samyathakur](https://github.com/samyathakur/)
 
 -[@JanyaMehta](https://github.com/JanyaMehta)
