@@ -7890,6 +7890,8 @@
 
 -[@laraib_sidd](https://github.com/laraib-sidd)
 
+-[@leonchauhan](https://github.com/leonchauhan/)
+
 -[@dorisdys](https://github.com/dorisdys)
 
 -[@rpbarone](https://github.com/rpbarone)
@@ -7909,3 +7911,19 @@
 -[@Ritu75](https://github.com/Ritu75/)
 
 -[@Andreas-Hagstrom](https://github.com/Andreas-Hagstrom)
+
+-[@jacobchak](http://github.com/jacobchak/)
+
+-[@samyathakur](https://github.com/samyathakur/)
+
+-[@JanyaMehta](https://github.com/JanyaMehta)
+
+-[@ewldev](https://github.com/ewldev)
+
+-[@johngarciava](https://github.com/johngarciava)
+
+-[@ShadHelmes](https://github.com/ShadHelmes)
+
+-[@hartmayer](https://github.com/hartmayer)
+
+-[@jolipun](https://github.com/jolipun/)
