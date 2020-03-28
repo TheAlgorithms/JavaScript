@@ -7948,6 +7948,8 @@
 
 -[@SM-REIGNS](https://github.com/SM-REIGNS)
 
+-[@gitriyad](https://github.com/gitriyad)
+
 -[@jharitH](https://github.com/jharitH)
 
 -[@yrp1](https://github.com/yrp1/)
