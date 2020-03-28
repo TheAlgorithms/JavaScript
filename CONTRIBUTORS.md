@@ -7950,6 +7950,8 @@
 
 -[@SM-REIGNS](https://github.com/SM-REIGNS)
 
+-[@arthurbaldner](https://github.com/arthurbaldner)
+
 -[@RoyShatabdi](https://github.com/RoyShatabdi)
 
 -[@LokiFK](https://github.com/LokiFK)
