@@ -7950,6 +7950,8 @@
 
 -[@SM-REIGNS](https://github.com/SM-REIGNS)
 
+-[@felipedavid](https://github.com/felipedavid)
+
 -[@supraj-reddy](https://github.com/supraj-reddy)
 
 -[@sanskarkhare](https://github.com/sanskarkhare)
