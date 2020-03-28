@@ -7949,3 +7949,17 @@
 -[@SM-REIGNS](https://github.com/SM-REIGNS)
 
 -[@krish7777](https://github.com/krish7777)
+
+-[@gitriyad](https://github.com/gitriyad)
+
+-[@jharitH](https://github.com/jharitH)
+
+-[@yrp1](https://github.com/yrp1/)
+
+-[@Mantofka](https://github.com/Mantofka)
+
+-[@Hassang97](https://github.com/Hassang97)
+
+-[@TheSirion](https://github.com/TheSirion)
+
+-[@RanabirDey](https://github.com/RanabirDey)
