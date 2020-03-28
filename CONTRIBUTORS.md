@@ -7950,6 +7950,8 @@
 
 -[@SM-REIGNS](https://github.com/SM-REIGNS)
 
+-[@Cannoo082](https://github.com/cannoo082)
+
 -[@geroalberino](https://github.com/geroalberino)
 
 -[@Baclrary](https://github.com/Baclrary)
@@ -8022,4 +8024,4 @@
 
 -[@TheSirion](https://github.com/TheSirion)
 
--[@RanabirDey](https://github.com/RanabirDey
+-[@RanabirDey](https://github.com/RanabirDey)
