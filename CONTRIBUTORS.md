@@ -7948,6 +7948,8 @@
 
 -[@SM-REIGNS](https://github.com/SM-REIGNS)
 
+-[@etienne-de-jongh](https://github.com/etienne-de-jongh)
+
 -[@chaitali-more](https://github.com/chaitali-more)
 
 -[@eriksonlizandro](https://github.com/eriksonlizandro/)
