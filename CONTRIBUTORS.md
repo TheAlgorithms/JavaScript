@@ -7950,6 +7950,8 @@
 
 -[@SM-REIGNS](https://github.com/SM-REIGNS)
 
+-[@jeafreezy](https://github.com/jeafreezy)
+
 -[@kezza17](https://github.com/kezza17/)
 
 -[@TheNinza](https://github.com/TheNinza)
