@@ -7950,6 +7950,8 @@
 
 -[@SM-REIGNS](https://github.com/SM-REIGNS)
 
+-[@beancats](https://github.com/beancats)
+
 -[@amnesiasd](https://github.com/amnesiasd)
 
 -[@Derek747](https://github.com/Derek747)
