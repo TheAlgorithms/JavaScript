@@ -8046,6 +8046,8 @@
 
 -[@RanabirDey](https://github.com/RanabirDey)
 
+-[@HugoNoWorries](https://github.com/HugoNoWorries)
+
 -[@adel995](https://github.com/adel995)
 
 -[@srand01](https://github.com/srand01)
