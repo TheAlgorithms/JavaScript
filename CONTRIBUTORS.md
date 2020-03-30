@@ -8078,5 +8078,12 @@
 
 -[@fabianvieri](https://github.com/fabianvieri)
 
--[@rakeshpawar05](https://github.com/rakeshpawar05)
+-[@rakeshpawar05](https://github.com/rakeshpawar05)\
 
+-[@pranav2012](https://github.com/pranav2012)
+
+-[@MikePassetti](https://github.com/MikePassetti)
+
+-[@olokorDivine](https://github.com/divee789)
+
+-[@prashantchanne12](https://github.com/prashantchanne12)
