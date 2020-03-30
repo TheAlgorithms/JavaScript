@@ -7956,6 +7956,8 @@
 
 -[@SM-REIGNS](https://github.com/SM-REIGNS)
 
+-[@divyamgupta123](https://github.com/divyamgupta123)
+
 -[@Furuikeya](https://github.com/Furuikeya)
 
 -[@main18](https://github.com/main18)
@@ -8076,7 +8078,7 @@
 
 -[@fabianvieri](https://github.com/fabianvieri)
 
--[@rakeshpawar05](https://github.com/rakeshpawar05)
+-[@rakeshpawar05](https://github.com/rakeshpawar05)\
 
 -[@pranav2012](https://github.com/pranav2012)
 
