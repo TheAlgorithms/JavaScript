@@ -2,6 +2,8 @@
 
 # Contributors
 
+-[@haobrien](https://github.com/haobrien)
+
 -[@Emmaccen](https://github.com/Emmaccen)
 
 -[@rajindersingh751](https://github.com/rajindersingh751)
