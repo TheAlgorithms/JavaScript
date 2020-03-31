@@ -7956,6 +7956,8 @@
 
 -[@SM-REIGNS](https://github.com/SM-REIGNS)
 
+-[@divyamgupta123](https://github.com/divyamgupta123)
+
 -[@Furuikeya](https://github.com/Furuikeya)
 
 -[@main18](https://github.com/main18)
@@ -8077,4 +8079,33 @@
 -[@fabianvieri](https://github.com/fabianvieri)
 
 -[@rakeshpawar05](https://github.com/rakeshpawar05)
+
 -[@adanesam](https://github.com/adanesam/)
+
+-[@EliseWelch](https://github.com/EliseWelch)
+
+-[@luis-morel](https://github.com/luis-morel)
+
+-[@margubHere](https://github.com/margubHere)
+
+-[@jakepogo](https://github.com/jakepogo)
+
+-[@utpplus](https://github.com/utpplus)
+
+-[@ozblech](https://github.com/ozblech)
+
+-[@rakeshpawar05](https://github.com/rakeshpawar05)\
+
+-[@pranav2012](https://github.com/pranav2012)
+
+-[@MikePassetti](https://github.com/MikePassetti)
+
+-[@olokorDivine](https://github.com/divee789)
+
+-[@prashantchanne12](https://github.com/prashantchanne12)
+
+-[@younchriss](https://github.com/younchriss)
+
+-[@adi9415](https://github.com/adi9415)
+
+-[@CianRW](https://github.com/CianRW)
