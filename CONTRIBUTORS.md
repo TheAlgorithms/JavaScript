@@ -2,6 +2,8 @@
 
 # Contributors
 
+-[@haobrien](https://github.com/haobrien)
+
 -[@Emmaccen](https://github.com/Emmaccen)
 
 -[@rajindersingh751](https://github.com/rajindersingh751)
@@ -8080,6 +8082,8 @@
 
 -[@rakeshpawar05](https://github.com/rakeshpawar05)
 
+-[@adanesam](https://github.com/adanesam/)
+
 -[@EliseWelch](https://github.com/EliseWelch)
 
 -[@luis-morel](https://github.com/luis-morel)
@@ -8103,3 +8107,13 @@
 -[@prashantchanne12](https://github.com/prashantchanne12)
 
 -[@benmneb](https://github.com/benmneb)
+
+-[@maggiethingie](https://github.com/maggiethingie/)
+
+-[@alokrr](https://github.com/alokrr)
+
+-[@younchriss](https://github.com/younchriss)
+
+-[@adi9415](https://github.com/adi9415)
+
+-[@CianRW](https://github.com/CianRW)
