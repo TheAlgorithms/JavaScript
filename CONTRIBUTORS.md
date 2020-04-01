@@ -7606,6 +7606,8 @@
 
 -[@codymsnyder](https://github.com/codymsnyder)
 
+-[@Sid-web6306](https://github.com/Sid-web6306)
+
 -[@aal2015](https://github.com/aal2015)
 
 -[@mahadamer99](https://github.com/mahadamer99)
@@ -8052,6 +8054,8 @@
 
 -[@RanabirDey](https://github.com/RanabirDey)
 
+-[@MikeMor-fr](https://github.com/MikeMor-fr)
+
 -[@CostinCatescu](https://github.com/CostinCatescu)
 
 -[@ouafais](https://github.com/ouafais/)
@@ -8135,3 +8139,13 @@
 -[@CianRW](https://github.com/CianRW)
 
 -[@RrennM](https://github.com/RrennM)
+
+-[@Elkmar](https://github.com/Elkmar/)
+
+-[@RAJNEESH1708](https://github.com/RAJNEESH1708)
+
+-[@bunny-chow](https://github.com/bunny-chow)
+
+-[@OlivierLdcq](https://github.com/OlivierLdcq)
+
+-[@Kagankoc](https://github.com/Kagankoc)
