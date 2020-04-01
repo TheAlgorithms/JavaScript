@@ -8052,6 +8052,8 @@
 
 -[@RanabirDey](https://github.com/RanabirDey)
 
+-[@MikeMor-fr](https://github.com/MikeMor-fr)
+
 -[@CostinCatescu](https://github.com/CostinCatescu)
 
 -[@ouafais](https://github.com/ouafais/)
@@ -8135,3 +8137,9 @@
 -[@CianRW](https://github.com/CianRW)
 
 -[@RAJNEESH1708](https://github.com/RAJNEESH1708)
+
+-[@bunny-chow](https://github.com/bunny-chow)
+
+-[@OlivierLdcq](https://github.com/OlivierLdcq)
+
+-[@Kagankoc](https://github.com/Kagankoc)
