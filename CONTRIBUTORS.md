@@ -8052,6 +8052,8 @@
 
 -[@RanabirDey](https://github.com/RanabirDey)
 
+-[@MikeMor-fr](https://github.com/MikeMor-fr)
+
 -[@CostinCatescu](https://github.com/CostinCatescu)
 
 -[@ouafais](https://github.com/ouafais/)
