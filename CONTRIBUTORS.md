@@ -1,6 +1,18 @@
-gi# Contributors
+<!-- @format -->
+
+# Contributors
+
+-[@haobrien](https://github.com/haobrien)
+
+-[@Emmaccen](https://github.com/Emmaccen)
+
+-[@rajindersingh751](https://github.com/rajindersingh751)
+
+-[@adinautiyal](htpps://github.com/adinautiyal)
 
 -[@menNsloo](https://github.com/menNsloo)
+
+-[@jeancarlos-cpu](https://github.com/jeancarlos-cpu)
 
 -[@cgould16](https://github.com/cgould16)
 
@@ -433,6 +445,8 @@ gi# Contributors
 -[@googlr](https://github.com/googlr)
 
 -[@laver0ck](https://github.com/laver0ck)
+
+-[@jbeyeah](https://github.com/jbeyeah/)
 
 -[@jbeyeah](https://github.com/jbeyeah)
 
@@ -3480,6 +3494,8 @@ gi# Contributors
 
 -[@WannaBeATree](https://github.com/WannaBeATree)
 
+-[@sylvaindessureault](https://github.com/sylvaindessureault)
+
 -[@MasterfulGear117](https://github.com/MasterfulGear117)
 
 -[@kaniovsky](https://github.com/kaniovsky)
@@ -6518,6 +6534,8 @@ gi# Contributors
 
 -[@chameerakularathna](https://github.com/chameerakularathna/)
 
+-[@Manas588](https://github.com/Manas588)
+
 -[@olividir](https://github.com/olividir/)
 
 -[@amartinez2886](https://github.com/amartinez2886)
@@ -6581,6 +6599,8 @@ gi# Contributors
 -[@nayeong-lee1](https://github.com/nayeong-lee1)
 
 -[@JeongHaeun3263](https://github.com/JeongHaeun3263)
+
+-[@rashid](https://github.com/rashidmakki)
 
 -[@ayank007](https://github.com/ayank007)
 
@@ -6799,6 +6819,8 @@ gi# Contributors
 -[@tahagalata](https://github.com/tahagalata)
 
 -[@rezieljacob](https://github.com/rezieljacob)
+
+-[@rcc01](https://github.com/rcc01/)
 
 -[@rghim11](https://github.com/roshanghimire93)
 
@@ -7440,6 +7462,8 @@ gi# Contributors
 
 -[@sunilma](https://github.com/sunilma/)
 
+-[@mihailo-maksa](https://github.com/mihailo-maksa)
+
 -[@bmumz](https://github.com/bmumz/)
 
 -[@Bynor](https://github.com/Bynor/)
@@ -7523,6 +7547,8 @@ gi# Contributors
 -[@Pgrover2001](https://github.com/Pgrover2001)
 
 -[@piecuchlukasz](https://github.com/piecuchlukasz)
+
+-[@kosa4real](https://github.com/kosa4real)
 
 -[@tanngo1605](https://github.com/tanngo1605)
 
