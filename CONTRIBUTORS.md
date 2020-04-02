@@ -2,7 +2,7 @@
 
 # Contributors
 
--[@sankalpdass](https://github.com/sankalpdass)
+-[@codesankalp](https://github.com/codesankalp)
 
 -[@haobrien](https://github.com/haobrien)
 
