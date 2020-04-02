@@ -2,7 +2,7 @@
 
 # Contributors
 
--[@sankalpdass](https://github.com/sankalpdass)
+-[@codesankalp](https://github.com/codesankalp)
 
 -[@haobrien](https://github.com/haobrien)
 
@@ -7608,6 +7608,8 @@
 
 -[@codymsnyder](https://github.com/codymsnyder)
 
+-[@VideshLoya](https://github.com/VideshLoya)
+
 -[@Sid-web6306](https://github.com/Sid-web6306)
 
 -[@aal2015](https://github.com/aal2015)
@@ -8056,6 +8058,8 @@
 
 -[@RanabirDey](https://github.com/RanabirDey)
 
+-[@captain-rocket](https://github.com/captain-rocket)
+
 -[@MikeMor-fr](https://github.com/MikeMor-fr)
 
 -[@CostinCatescu](https://github.com/CostinCatescu)
@@ -8140,6 +8144,10 @@
 
 -[@CianRW](https://github.com/CianRW)
 
+-[@dangnhathuy](https://github.com/dangnhathuy)
+
+-[@DICHAMOTO](https://github.com/DICHAMOTO)
+
 -[@parot-99](https://github.com/parot-99)
 
 -[@tfraxe](https://github.com/tfraxe)
@@ -8167,3 +8175,37 @@
 -[@Kagankoc](https://github.com/Kagankoc)
 
 -[@8977shiva](https://github.com/shivareddy)
+
+-[@dgmills914eo](https://ithub.com/dgmills914eos)
+
+-[@hrp30](https://github.com/hrp30)
+
+-[@AnuragKr1999](https://github.com/AnuragKr1999)
+
+-[@dimor](https://github.com/dimor)
+
+-[@nadrav](https://github.com/nadrav/)
+
+-[@Rubenabdias1](https://github.com/Rubenabdias1)
+
+-[@wombed](https://github.com/wombed)
+
+-[@Karshtakavaar](https://github.com/Karshtakavaar)
+
+-[@ColbyGallagher](https://github.com/ColbyGallagher)
+
+-[@sanyavanya](https://github.com/sanyavanya)
+
+-[@destradaHU](https://github.com/destradaHU)
+
+-[@alexeigud](https://github.com/alexeigud)
+
+-[@keotshepilegaearwe](https://github.com/keotshepilegaearwe)
+
+-[@Rafsdias](https://github.com/Rafsdias)
+
+-[@LaalShaitaan](https://github.com/LaalShaitaan)
+
+-[@PmLombardo96](https://github.com/PmLombardo96)                   
+
+-[@bobby-webdev](https://github.com/bobby-webdev)
