@@ -2,7 +2,7 @@
 
 # Contributors
 
--[@sankalpdass](https://github.com/sankalpdass)
+-[@codesankalp](https://github.com/codesankalp)
 
 -[@haobrien](https://github.com/haobrien)
 
@@ -8167,3 +8167,15 @@
 -[@Kagankoc](https://github.com/Kagankoc)
 
 -[@destradaHU](https://github.com/destradaHU)
+
+-[@alexeigud](https://github.com/alexeigud)
+
+-[@keotshepilegaearwe](https://github.com/keotshepilegaearwe)
+
+-[@Rafsdias](https://github.com/Rafsdias)
+
+-[@LaalShaitaan](https://github.com/LaalShaitaan)
+
+-[@PmLombardo96](https://github.com/PmLombardo96)                   
+
+-[@bobby-webdev](https://github.com/bobby-webdev)
