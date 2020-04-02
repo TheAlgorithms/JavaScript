@@ -2,7 +2,7 @@
 
 # Contributors
 
--[@sankalpdass](https://github.com/sankalpdass)
+-[@codesankalp](https://github.com/codesankalp)
 
 -[@haobrien](https://github.com/haobrien)
 
@@ -7608,6 +7608,8 @@
 
 -[@codymsnyder](https://github.com/codymsnyder)
 
+-[@VideshLoya](https://github.com/VideshLoya)
+
 -[@Sid-web6306](https://github.com/Sid-web6306)
 
 -[@aal2015](https://github.com/aal2015)
@@ -8167,3 +8169,27 @@
 -[@Kagankoc](https://github.com/Kagankoc)
 
 -[@nadrav](https://github.com/nadrav/)
+
+-[@Rubenabdias1](https://github.com/Rubenabdias1)
+
+-[@wombed](https://github.com/wombed)
+
+-[@Karshtakavaar](https://github.com/Karshtakavaar)
+
+-[@ColbyGallagher](https://github.com/ColbyGallagher)
+
+-[@sanyavanya](https://github.com/sanyavanya)
+
+-[@destradaHU](https://github.com/destradaHU)
+
+-[@alexeigud](https://github.com/alexeigud)
+
+-[@keotshepilegaearwe](https://github.com/keotshepilegaearwe)
+
+-[@Rafsdias](https://github.com/Rafsdias)
+
+-[@LaalShaitaan](https://github.com/LaalShaitaan)
+
+-[@PmLombardo96](https://github.com/PmLombardo96)                   
+
+-[@bobby-webdev](https://github.com/bobby-webdev)
