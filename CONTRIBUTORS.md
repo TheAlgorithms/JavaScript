@@ -8174,6 +8174,10 @@
 
 -[@Kagankoc](https://github.com/Kagankoc)
 
+-[@KaoticNightmare](https://github.com/KaoticNightmare)
+
+-[@ojsem](https://github.com/ojsem)
+
 -[@8977shiva](https://github.com/shivareddy)
 
 -[@dgmills914eo](https://ithub.com/dgmills914eos)
@@ -8206,8 +8210,50 @@
 
 -[@LaalShaitaan](https://github.com/LaalShaitaan)
 
--[@PmLombardo96](https://github.com/PmLombardo96)                   
+-[@PmLombardo96](https://github.com/PmLombardo96)
 
 -[@bobby-webdev](https://github.com/bobby-webdev)
 
 -[@gbrandon21](https://github.com/GBrandon21)
+
+-[@luiavag](https://github.com/luiavag/) 
+
+-[@alesgainza](https://github.com/alesgainza)
+
+-[@Liamg27](https://github.com/Liamg27)
+
+[@RealVkram](https://github.com/RealVkram)
+
+-[@krpoe111](https://github.com/krpoe111)
+
+-[@qudusG](https://github.com/qudusG)
+
+-[@clearcutmediapro](https://github.com/ClearCutMediaPro)
+
+-[@Mozenn](https://github.com/Mozenn)
+
+-[@sambhavanand09](https://github.com/sambhavanand09)
+
+-[@danieltharding](https://github.com/danieltharding)
+
+-[@kotg-swya](https://github.com/kotg-swya)
+
+-[@tiagochicoo](https://github.com/Tiagochicoo)
+
+-[@ofisser86](https://github.com/ofisser86)
+
+-[@Garvit291](https://github.com/Garvit291)
+
+-[@arash-kariznovi](https://github.com/arash-kariznovi)
+
+-[@ADanailov899](https://github.com/ADanailov899)
+
+-[@Omarjabaly](https://github.com/Omarjabaly)
+
+-[@vmhunter03](https://github.com/vmhunter03)
+
+-[@hoa2000kxpt](https://github.com/hoa2000kxpt)
+
+-[@Ismail-del](https://github.com/Ismail-del)
+
+-[@nataliepina](https://github.com/nataliepina)
