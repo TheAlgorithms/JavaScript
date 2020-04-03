@@ -8210,6 +8210,8 @@
 
 -[@bobby-webdev](https://github.com/bobby-webdev)
 
+-[@danieltharding](https://github.com/danieltharding)
+
 -[@kotg-swya](https://github.com/kotg-swya)
 
 -[@tiagochicoo](https://github.com/Tiagochicoo)
