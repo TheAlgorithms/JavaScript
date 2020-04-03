@@ -8211,3 +8211,7 @@
 -[@bobby-webdev](https://github.com/bobby-webdev)
 
 -[@hoa2000kxpt](https://github.com/hoa2000kxpt)
+
+-[@Ismail-del](https://github.com/Ismail-del)
+
+-[@nataliepina](https://github.com/nataliepina)
