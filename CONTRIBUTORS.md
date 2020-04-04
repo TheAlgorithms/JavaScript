@@ -8266,6 +8266,8 @@
 
 -[@nataliepina](https://github.com/nataliepina)
 
+-[@karthikmaddala](https://github.com/karthikmaddala)
+
 -[@numbap](https://github.com/numbap)
 
 -[@emmeiwhite](https://github.com/emmeiwhite)
