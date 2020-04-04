@@ -8222,7 +8222,7 @@
 
 -[@gbrandon21](https://github.com/GBrandon21)
 
--[@luiavag](https://github.com/luiavag/) 
+-[@luiavag](https://github.com/luiavag/)
 
 -[@alesgainza](https://github.com/alesgainza)
 
@@ -8263,5 +8263,7 @@
 -[@Ismail-del](https://github.com/Ismail-del)
 
 -[@nataliepina](https://github.com/nataliepina)
+
+-[@eugenechanyc](https://github.com/eugenechanyc)
 
 -[@kiradesu](https://github.com/kiradesu)
