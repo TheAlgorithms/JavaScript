@@ -8172,6 +8172,8 @@
 
 -[@OlivierLdcq](https://github.com/OlivierLdcq)
 
+-[charan-web](https://github.com/charan-web)
+
 -[@Kagankoc](https://github.com/Kagankoc)
 
 -[@KaoticNightmare](https://github.com/KaoticNightmare)
@@ -8214,13 +8216,15 @@
 
 -[@bobby-webdev](https://github.com/bobby-webdev)
 
+-[@SergioTellezSanchez](https://github.com/SergioTellezSanchez)
+
 -[@nikeyambing](https://github.com/nikeyambing)
 
 -[@ankit554](https://github.com/ankit554)
 
 -[@gbrandon21](https://github.com/GBrandon21)
 
--[@luiavag](https://github.com/luiavag/) 
+-[@luiavag](https://github.com/luiavag/)
 
 -[@alesgainza](https://github.com/alesgainza)
 
@@ -8263,3 +8267,9 @@
 -[@nataliepina](https://github.com/nataliepina)
 
 -[@ManjunathaPatkar](https://github.com/ManjunathaPatkar)
+
+-[@sahotay](https://github.com/sahotay)
+
+-[@eugenechanyc](https://github.com/eugenechanyc)
+
+-[@kiradesu](https://github.com/kiradesu)
