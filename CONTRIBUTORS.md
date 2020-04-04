@@ -8266,6 +8266,8 @@
 
 -[@nataliepina](https://github.com/nataliepina)
 
+-[@ManjunathaPatkar](https://github.com/ManjunathaPatkar)
+
 -[@sahotay](https://github.com/sahotay)
 
 -[@eugenechanyc](https://github.com/eugenechanyc)
