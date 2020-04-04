@@ -8214,13 +8214,15 @@
 
 -[@bobby-webdev](https://github.com/bobby-webdev)
 
+-[@SergioTellezSanchez](https://github.com/SergioTellezSanchez)
+
 -[@nikeyambing](https://github.com/nikeyambing)
 
 -[@ankit554](https://github.com/ankit554)
 
 -[@gbrandon21](https://github.com/GBrandon21)
 
--[@luiavag](https://github.com/luiavag/) 
+-[@luiavag](https://github.com/luiavag/)
 
 -[@alesgainza](https://github.com/alesgainza)
 
@@ -8263,3 +8265,7 @@
 -[@nataliepina](https://github.com/nataliepina)
 
 -[@sahotay](https://github.com/sahotay)
+
+-[@eugenechanyc](https://github.com/eugenechanyc)
+
+-[@kiradesu](https://github.com/kiradesu)
