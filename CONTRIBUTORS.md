@@ -8264,6 +8264,8 @@
 
 -[@nataliepina](https://github.com/nataliepina)
 
+-[@sahotay](https://github.com/sahotay)
+
 -[@eugenechanyc](https://github.com/eugenechanyc)
 
 -[@kiradesu](https://github.com/kiradesu)
