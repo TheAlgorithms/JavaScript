@@ -8214,6 +8214,8 @@
 
 -[@bobby-webdev](https://github.com/bobby-webdev)
 
+-[@SergioTellezSanchez](https://github.com/SergioTellezSanchez)
+
 -[@nikeyambing](https://github.com/nikeyambing)
 
 -[@ankit554](https://github.com/ankit554)
@@ -8263,3 +8265,5 @@
 -[@nataliepina](https://github.com/nataliepina)
 
 -[@eugenechanyc](https://github.com/eugenechanyc)
+
+-[@kiradesu](https://github.com/kiradesu)
