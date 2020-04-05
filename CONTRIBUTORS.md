@@ -8270,6 +8270,10 @@
 
 -[@nataliepina](https://github.com/nataliepina)
 
+-[@kiradesu](https://github.com/kiradesu)
+
+-[@masanpoc](https://github.com/masanpoc)
+
 -[@Shuja-Butt](https://github.com/Shuja-Butt)
 
 -[@quantumRaven23](https://github.com/quantumRaven23)
