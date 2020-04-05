@@ -8288,6 +8288,8 @@
 
 -[@kiradesu](https://github.com/kiradesu)
 
+-[@mazaraki](https://github.com/mazaraki)
+
 -[@HamidGoudarzi1988](https://https://github.com/HamidGoudarzi1988)
 
 -[@jweb89](https://github.com/jweb89/start-here-guidelines.git)
