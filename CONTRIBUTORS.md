@@ -8281,3 +8281,5 @@
 -[@eugenechanyc](https://github.com/eugenechanyc)
 
 -[@kiradesu](https://github.com/kiradesu)
+
+-[@jweb89](https://github.com/jweb89/start-here-guidelines.git)
