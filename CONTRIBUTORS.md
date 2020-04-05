@@ -8286,6 +8286,8 @@
 
 -[@kiradesu](https://github.com/kiradesu)
 
+-[@jweb89](https://github.com/jweb89/start-here-guidelines.git)
+
 -[@panktishah62](https://github.com/panktishah62)
 
 -[@srivi15](https://github.com/srivi15)
