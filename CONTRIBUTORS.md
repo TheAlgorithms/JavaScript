@@ -8058,6 +8058,8 @@
 
 -[@RanabirDey](https://github.com/RanabirDey)
 
+-[@amir-molaei](https://github.com/amir-molaei)
+
 -[@captain-rocket](https://github.com/captain-rocket)
 
 -[@MikeMor-fr](https://github.com/MikeMor-fr)
@@ -8283,3 +8285,15 @@
 -[@kiradesu](https://github.com/kiradesu)
 
 -[@srivi15](https://github.com/srivi15)
+
+-[@fractalswift](https://github.com/fractalswift)
+
+-[@chiragragarwal](https://github.com/chiragragarwal)
+
+-[@BooGDaaN](https://github.com/boogdaan)
+
+-[@mallula](https://github.com/mallula)
+
+-[molaiea](https://github.com/molaiea)
+
+-[@Spiritusanti](https://github.com/Spiritusanti)
