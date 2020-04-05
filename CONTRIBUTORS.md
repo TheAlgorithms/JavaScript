@@ -8058,6 +8058,8 @@
 
 -[@RanabirDey](https://github.com/RanabirDey)
 
+-[@amir-molaei](https://github.com/amir-molaei)
+
 -[@captain-rocket](https://github.com/captain-rocket)
 
 -[@MikeMor-fr](https://github.com/MikeMor-fr)
@@ -8172,7 +8174,11 @@
 
 -[@OlivierLdcq](https://github.com/OlivierLdcq)
 
+-[charan-web](https://github.com/charan-web)
+
 -[@Kagankoc](https://github.com/Kagankoc)
+
+-[@JanetHuang](https://github.com/JanetHuang-78)
 
 -[@KaoticNightmare](https://github.com/KaoticNightmare)
 
@@ -8214,13 +8220,15 @@
 
 -[@bobby-webdev](https://github.com/bobby-webdev)
 
+-[@SergioTellezSanchez](https://github.com/SergioTellezSanchez)
+
 -[@nikeyambing](https://github.com/nikeyambing)
 
 -[@ankit554](https://github.com/ankit554)
 
 -[@gbrandon21](https://github.com/GBrandon21)
 
--[@luiavag](https://github.com/luiavag/) 
+-[@luiavag](https://github.com/luiavag/)
 
 -[@alesgainza](https://github.com/alesgainza)
 
@@ -8265,3 +8273,49 @@
 -[@kiradesu](https://github.com/kiradesu)
 
 -[@masanpoc](https://github.com/masanpoc)
+
+-[@Shuja-Butt](https://github.com/Shuja-Butt)
+
+-[@quantumRaven23](https://github.com/quantumRaven23)
+
+-[@karthikmaddala](https://github.com/karthikmaddala)
+
+-[@numbap](https://github.com/numbap)
+
+-[@emmeiwhite](https://github.com/emmeiwhite)
+
+-[@ManjunathaPatkar](https://github.com/ManjunathaPatkar)
+
+-[@sahotay](https://github.com/sahotay)
+
+-[@eugenechanyc](https://github.com/eugenechanyc)
+
+-[@kiradesu](https://github.com/kiradesu)
+
+-[@yorvinlunawisky](https://github.com/yorvinlunawisky)
+
+-[@arudolph10](https://github.com/arudolph10)
+
+-[@Ezekiel-Matomi](https://github.com/ezekiel444)
+
+-[@mazaraki](https://github.com/mazaraki)
+
+-[@HamidGoudarzi1988](https://https://github.com/HamidGoudarzi1988)
+
+-[@jweb89](https://github.com/jweb89/start-here-guidelines.git)
+
+-[@panktishah62](https://github.com/panktishah62)
+
+-[@srivi15](https://github.com/srivi15)
+
+-[@fractalswift](https://github.com/fractalswift)
+
+-[@chiragragarwal](https://github.com/chiragragarwal)
+
+-[@BooGDaaN](https://github.com/boogdaan)
+
+-[@mallula](https://github.com/mallula)
+
+-[molaiea](https://github.com/molaiea)
+
+-[@Spiritusanti](https://github.com/Spiritusanti)
