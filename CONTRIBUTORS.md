@@ -8283,3 +8283,7 @@
 -[@kiradesu](https://github.com/kiradesu)
 
 -[@mallula](https://github.com/mallula)
+
+-[molaiea](https://github.com/molaiea)
+
+-[@Spiritusanti](https://github.com/Spiritusanti)
