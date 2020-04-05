@@ -8058,6 +8058,8 @@
 
 -[@RanabirDey](https://github.com/RanabirDey)
 
+-[@amir-molaei](https://github.com/amir-molaei)
+
 -[@captain-rocket](https://github.com/captain-rocket)
 
 -[@MikeMor-fr](https://github.com/MikeMor-fr)
@@ -8266,6 +8268,8 @@
 
 -[@nataliepina](https://github.com/nataliepina)
 
+-[@Shuja-Butt](https://github.com/Shuja-Butt)
+
 -[@quantumRaven23](https://github.com/quantumRaven23)
 
 -[@karthikmaddala](https://github.com/karthikmaddala)
@@ -8283,3 +8287,19 @@
 -[@kiradesu](https://github.com/kiradesu)
 
 -[@jweb89](https://github.com/jweb89/start-here-guidelines.git)
+
+-[@panktishah62](https://github.com/panktishah62)
+
+-[@srivi15](https://github.com/srivi15)
+
+-[@fractalswift](https://github.com/fractalswift)
+
+-[@chiragragarwal](https://github.com/chiragragarwal)
+
+-[@BooGDaaN](https://github.com/boogdaan)
+
+-[@mallula](https://github.com/mallula)
+
+-[molaiea](https://github.com/molaiea)
+
+-[@Spiritusanti](https://github.com/Spiritusanti)
