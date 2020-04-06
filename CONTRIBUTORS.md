@@ -8324,11 +8324,13 @@
 
 -[Muddassir1234](https://github.com/Muddassir1234)
 
--[@chuck881111] (https://github.com/chuck881111)
+-[@chuck881111](https://github.com/chuck881111)
 
 -[@digender](https://github.com/digender)
 
 -[@gordnian](https://github.com/gordnian)
+
+-[@heet-vakharia](https://github.com/heet-vakharia)
 
 -[@tavolafourcade](https://github.com/tavolafourcade)
 
