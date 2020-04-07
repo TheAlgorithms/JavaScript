@@ -2,6 +2,8 @@
 
 # Contributors
 
+-[@gsonly](https://github.com/gsonly)
+
 -[@codesankalp](https://github.com/codesankalp)
 
 -[@haobrien](https://github.com/haobrien)
@@ -8348,3 +8350,27 @@
 -[@sagaquisces](https://github.com/sagaquisces)
 
 -[@bharath98mohan](https://github.com/bharath98mohan)
+
+-[@volume999](https://github.com/volume999)
+
+-[@aakash2019](https://github.com/aakash2019)
+
+-[@mattrinaldo](https://github.com/mattrinaldo)
+
+-[@gianniop](https://github.com/gianniop)
+
+-[@ilnweb](https://github.com/ilnweb)
+
+-[@sinemozen](https://github.com/sinemozenn)
+
+-[@blaker814](https://github.com/blaker814)
+
+-[@Saad-Ali-Sheikh](https://github.com/Saad-Ali-Sheikh)
+
+-[@jakob-17](https://github.com/jakob-17)
+
+-[@mnpenchev](https://github.com/mnpenchev/)
+
+-[@mohammedfarhan99](https://github.com/mohammedfarhan99)
+
+-[@kiritojx](https://github.com/kiritojx)
