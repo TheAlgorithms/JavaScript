@@ -8348,3 +8348,9 @@
 -[@sagaquisces](https://github.com/sagaquisces)
 
 -[@jakob-17](https://github.com/jakob-17)
+
+-[@mnpenchev](https://github.com/mnpenchev/)
+
+-[@mohammedfarhan99](https://github.com/mohammedfarhan99)
+
+-[@kiritojx](https://github.com/kiritojx)
