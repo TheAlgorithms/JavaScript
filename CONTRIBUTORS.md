@@ -8352,6 +8352,8 @@
 
 -[@sagaquisces](https://github.com/sagaquisces)
 
+-[@lorizace](https://github.com/lorizace)
+
 -[@chsoneal](https://github.com/chsoneal)
 
 -[@kaveeshwa](https://github.com/kaveeshwa)
