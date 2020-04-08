@@ -8296,6 +8296,8 @@
 
 -[@kiradesu](https://github.com/kiradesu)
 
+-[@yusLary](https://github.com/Larysmith)
+
 -[@yorvinlunawisky](https://github.com/yorvinlunawisky)
 
 -[@arudolph10](https://github.com/arudolph10)
@@ -8350,6 +8352,8 @@
 
 -[@sagaquisces](https://github.com/sagaquisces)
 
+-[@kaveeshwa](https://github.com/kaveeshwa)
+
 -[@diluxa](https://github.com/diluxa)
 
 -[@kaungmyathaywin](https://github.com/kaungmyathtaywin)
@@ -8381,3 +8385,27 @@
 -[@kiritojx](https://github.com/kiritojx)
 
 -[@sproutseeds](https://github.com/sproutseeds/)
+
+-[@zkr93](https://github.com/zkr93)
+
+-[@AgrisMag](https://github.com/AgrisMag)
+
+-[@albadevarroyo](https://github.com/albadevarroyo)
+
+-[@arroyocoder](https://github.com/arroyocoder)
+
+-[@RamyaShetty015](https://github.com/RamyaShetty015)
+
+-[@nikhilng99](https://github.com/nikhilng99)
+
+-[@sfz119](https://github.com/sfz119)
+
+-[@tidl](https://github.com/tidl)
+
+-[@sunilpreethikk](https://github.com/sunilpreethikk)
+
+-[@RupeshGhosh10](https://github.com/RupeshGhosh10)
+
+-[@greycellz](https://github.com/greycellz)
+
+-[@BlitzSlashes](https://github.com/BlitzSlashes/)
