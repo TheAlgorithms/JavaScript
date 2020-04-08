@@ -8384,6 +8384,8 @@
 
 -[@kiritojx](https://github.com/kiritojx)
 
+-[@AgrisMag](https://github.com/AgrisMag)
+
 -[@albadevarroyo](https://github.com/albadevarroyo)
 
 -[@arroyocoder](https://github.com/arroyocoder)
