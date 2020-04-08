@@ -8384,6 +8384,8 @@
 
 -[@kiritojx](https://github.com/kiritojx)
 
+-[@thiagomandrade87](https://github.com/thiagomandrade87)
+
 -[@sproutseeds](https://github.com/sproutseeds/)
 
 -[@zkr93](https://github.com/zkr93)
