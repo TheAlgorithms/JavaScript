@@ -2,6 +2,8 @@
 
 # Contributors
 
+-[@gsonly](https://github.com/gsonly)
+
 -[@codesankalp](https://github.com/codesankalp)
 
 -[@haobrien](https://github.com/haobrien)
@@ -8240,7 +8242,8 @@
 
 -[@qudusG](https://github.com/qudusG)
 
--[@AdeenaLathiya] (https://github.com/AdeenaLathiya)
+-[@AdeenaLathiya](https://github.com/AdeenaLathiya)
+
 -[@clearcutmediapro](https://github.com/ClearCutMediaPro)
 
 -[@Mozenn](https://github.com/Mozenn)
@@ -8292,6 +8295,8 @@
 -[@eugenechanyc](https://github.com/eugenechanyc)
 
 -[@kiradesu](https://github.com/kiradesu)
+
+-[@yusLary](https://github.com/Larysmith)
 
 -[@yorvinlunawisky](https://github.com/yorvinlunawisky)
 
@@ -8348,3 +8353,65 @@
 -[@sagaquisces](https://github.com/sagaquisces)
 
 -[@chsoneal](https://github.com/chsoneal)
+
+-[@kaveeshwa](https://github.com/kaveeshwa)
+
+-[@diluxa](https://github.com/diluxa)
+
+-[@kaungmyathaywin](https://github.com/kaungmyathtaywin)
+
+-[@bharath98mohan](https://github.com/bharath98mohan)
+
+-[@volume999](https://github.com/volume999)
+
+-[@aakash2019](https://github.com/aakash2019)
+
+-[@mattrinaldo](https://github.com/mattrinaldo)
+
+-[@gianniop](https://github.com/gianniop)
+
+-[@ilnweb](https://github.com/ilnweb)
+
+-[@sinemozen](https://github.com/sinemozenn)
+
+-[@blaker814](https://github.com/blaker814)
+
+-[@Saad-Ali-Sheikh](https://github.com/Saad-Ali-Sheikh)
+
+-[@jakob-17](https://github.com/jakob-17)
+
+-[@mnpenchev](https://github.com/mnpenchev/)
+
+-[@mohammedfarhan99](https://github.com/mohammedfarhan99)
+
+-[@kiritojx](https://github.com/kiritojx)
+
+-[@MariusLarsen](https://github.com/MariusLarsen)
+
+-[@thiagomandrade87](https://github.com/thiagomandrade87)
+
+-[@sproutseeds](https://github.com/sproutseeds/)
+
+-[@zkr93](https://github.com/zkr93)
+
+-[@AgrisMag](https://github.com/AgrisMag)
+
+-[@albadevarroyo](https://github.com/albadevarroyo)
+
+-[@arroyocoder](https://github.com/arroyocoder)
+
+-[@RamyaShetty015](https://github.com/RamyaShetty015)
+
+-[@nikhilng99](https://github.com/nikhilng99)
+
+-[@sfz119](https://github.com/sfz119)
+
+-[@tidl](https://github.com/tidl)
+
+-[@sunilpreethikk](https://github.com/sunilpreethikk)
+
+-[@RupeshGhosh10](https://github.com/RupeshGhosh10)
+
+-[@greycellz](https://github.com/greycellz)
+
+-[@BlitzSlashes](https://github.com/BlitzSlashes/)
