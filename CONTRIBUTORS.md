@@ -8382,6 +8382,8 @@
 
 -[@kiritojx](https://github.com/kiritojx)
 
+-[@arroyocoder](https://github.com/arroyocoder)
+
 -[@RamyaShetty015](https://github.com/RamyaShetty015)
 
 -[@nikhilng99](https://github.com/nikhilng99)
