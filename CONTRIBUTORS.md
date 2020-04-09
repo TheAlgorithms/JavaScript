@@ -8424,6 +8424,8 @@
 
 -[@hqnguyen1998](https://github.com/hqnguyen1998)
 
+-[@Mavictory](https://github.com/Mavictory)
+
 -[@dfredouille](https://github.com/dfredouille)
 
 -[@petrikjakab](https://github.com/petrikjakab)
