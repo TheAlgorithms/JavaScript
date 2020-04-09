@@ -8418,9 +8418,30 @@
 
 -[@BlitzSlashes](https://github.com/BlitzSlashes/)
 
+-[@Jabgone](https://github.com/Jabgone/)
+
 -[@dylan-ztm](https://github.com/dylan-ztm/)
 
 -[@hqnguyen1998](https://github.com/hqnguyen1998)
 
 -[@faizan47](https://github.com/faizan47/)
 
+-[@Mavictory](https://github.com/Mavictory)
+
+-[@dfredouille](https://github.com/dfredouille)
+
+-[@petrikjakab](https://github.com/petrikjakab)
+
+-[@rey2424](https://github.com/rey2424)
+
+-[men3malgmatti](https://github.com/men3malgmatti)
+
+-[@Navin420](https://github.com/Navin420)
+
+-[@itscarew](https://github.com/itscarew/)
+
+-[@stuartolive](https://github.com/stuartolive)
+
+-[@itsdb7](https://github.com/itsdb7)
+
+-[@rohitahuja552](https://github.com/rohitahuja552)
