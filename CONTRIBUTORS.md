@@ -8421,3 +8421,6 @@
 -[@dylan-ztm](https://github.com/dylan-ztm/)
 
 -[@hqnguyen1998](https://github.com/hqnguyen1998)
+
+-[@dfredouille](https://github.com/dfredouille)
+
