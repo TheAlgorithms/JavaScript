@@ -8418,8 +8418,14 @@
 
 -[@BlitzSlashes](https://github.com/BlitzSlashes/)
 
+-[@Jabgone](https://github.com/Jabgone/)
+
 -[@dylan-ztm](https://github.com/dylan-ztm/)
 
 -[@hqnguyen1998](https://github.com/hqnguyen1998)
 
 -[@stuartolive](https://github.com/stuartolive)
+
+-[@itsdb7](https://github.com/itsdb7)
+
+-[@rohitahuja552](https://github.com/rohitahuja552)
