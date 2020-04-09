@@ -8419,3 +8419,7 @@
 -[@BlitzSlashes](https://github.com/BlitzSlashes/)
 
 -[@Jabgone](https://github.com/Jabgone/)
+
+-[@dylan-ztm](https://github.com/dylan-ztm/)
+
+-[@hqnguyen1998](https://github.com/hqnguyen1998)
