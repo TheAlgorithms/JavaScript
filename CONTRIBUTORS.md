@@ -8336,6 +8336,8 @@
 
 -[@gordnian](https://github.com/gordnian)
 
+-[@Ajith_m](https://github.com/ajithadoor)
+
 -[@albadevarroyo](https://github.com/albadevarroyo)
 
 -[@sarbesh007](https://github.com/sarbesh007)
@@ -8447,3 +8449,11 @@
 -[@rohitahuja552](https://github.com/rohitahuja552)
 
 -[@bhav1kmaru](https://github.com/bhav1kmaru)
+
+-[@Pouya-A](https://github.com/Pouya-A)
+
+-[@Reklytics](https://github.com/Reklytics/)
+
+-[@frost86](https://github.com/frost86/)
+
+-[@valpioner](https://github.com/valpioner)
