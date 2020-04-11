@@ -8478,6 +8478,8 @@
 
 -[@valpioner](https://github.com/valpioner)
 
+-[@drdofx](https://github.com/drdofx)
+
 -[@jacobgirsky](https://github.com/jacobgirsky)
 
 -[@jcm005](https://github.com/jcm005/)
