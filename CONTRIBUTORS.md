@@ -8478,6 +8478,8 @@
 
 -[@valpioner](https://github.com/valpioner)
 
+-[@denistita](https://github.com/denistita)
+
 -[@glaizawagner](https://github.com/glaizawagner)
 
 -[@HamiltonMassango](https://github.com/HamiltonMassango)
