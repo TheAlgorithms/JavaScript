@@ -8390,6 +8390,8 @@
 
 -[@kiritojx](https://github.com/kiritojx)
 
+-[@sachingreen](https://github.com/sachingreen)
+
 -[@MariusLarsen](https://github.com/MariusLarsen)
 
 -[@thiagomandrade87](https://github.com/thiagomandrade87)
@@ -8479,3 +8481,27 @@
 -[@valpioner](https://github.com/valpioner)
 
 -[@vtmpenyana](https://github.com/vtmpenyana)
+
+-[@yogevHenig](https://github.com/yogevHenig)
+
+-[@ehsanhini](https://github.com/ehsanhini/)
+
+-[@Satishpokala124](https://github.com/Satishpokala124)
+
+-[@anishprj.github.io](https://github.com/anishprj/)
+
+-[@drdofx](https://github.com/drdofx)
+
+-[@jacobgirsky](https://github.com/jacobgirsky)
+
+-[@jcm005](https://github.com/jcm005/)
+
+-[@kalexoudis](https://github.com/kalexoudis)
+
+-[@rohithrajesh1](https://github.com/rohithrajesh1/)
+
+-[@denistita](https://github.com/denistita)
+
+-[@glaizawagner](https://github.com/glaizawagner)
+
+-[@HamiltonMassango](https://github.com/HamiltonMassango)
