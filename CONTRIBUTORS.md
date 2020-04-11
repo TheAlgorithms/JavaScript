@@ -8479,3 +8479,15 @@
 -[@valpioner](https://github.com/valpioner)
 
 -[@jacobgirsky](https://github.com/jacobgirsky)
+
+-[@jcm005](https://github.com/jcm005/)
+
+-[@kalexoudis](https://github.com/kalexoudis)
+
+-[@rohithrajesh1](https://github.com/rohithrajesh1/)
+
+-[@denistita](https://github.com/denistita)
+
+-[@glaizawagner](https://github.com/glaizawagner)
+
+-[@HamiltonMassango](https://github.com/HamiltonMassango)
