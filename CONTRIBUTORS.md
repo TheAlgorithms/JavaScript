@@ -8511,3 +8511,5 @@
 -[@glaizawagner](https://github.com/glaizawagner)
 
 -[@HamiltonMassango](https://github.com/HamiltonMassango)
+
+-[@cassidypignatello](https://github.com/cassidypignatello)
