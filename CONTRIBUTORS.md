@@ -8518,6 +8518,8 @@
 
 -[@HamiltonMassango](https://github.com/HamiltonMassango)
 
+-[@yutaAsato](https://github.com/yutaAsato)
+
 -[@KholoudAwad](https://github.com/KholoudAwad)
 
 -[@shashank-garg](https://github.com/shashank-garg)
