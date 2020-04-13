@@ -8511,4 +8511,11 @@
 -[@glaizawagner](https://github.com/glaizawagner)
 
 -[@HamiltonMassango](https://github.com/HamiltonMassango)
+
 -[@emPro-source](https://github.com/emPro-source)
+
+-[@EiraForGithub](https://github.com/EiraForGithub)
+
+-[@astro980](https://gist.github.com/astro980)
+
+-[@samandeveloper](https://github.com/samandeveloper)
