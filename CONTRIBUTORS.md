@@ -1,4 +1,4 @@
-<!-- @format -->
+ <!-- @format -->
 
 # Contributors
 
@@ -8513,3 +8513,25 @@
 -[@HamiltonMassango](https://github.com/HamiltonMassango)
 
 -[@MOHITBLAZE07](https://github.com/MOHITBLAZE07)
+
+-[@Muhammad-Usama-Arain](https://github.com/Muhammad-Usama-Arain)
+
+-[@ajilann](https://github.com/ajilann)
+
+-[@kensonpandey](https://github.com/kensonpandey)
+
+-[@dpat5941](https://github.com/dpat5941)
+
+-[@zvi741](https://github.com/zvi741)
+
+-[@ser-veresta](https://github.com/ser-veresta)
+
+-[@Ashel1](https://github.com/Ashel1)
+
+-[@emPro-source](https://github.com/emPro-source)
+
+-[@EiraForGithub](https://github.com/EiraForGithub)
+
+-[@astro980](https://gist.github.com/astro980)
+
+-[@samandeveloper](https://github.com/samandeveloper)
