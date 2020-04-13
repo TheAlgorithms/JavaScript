@@ -1,4 +1,4 @@
-<!-- @format -->
+ <!-- @format -->
 
 # Contributors
 
@@ -8464,6 +8464,8 @@
 
 -[@alexanderbarati](https://github.com/alexanderbarati)
 
+-[@blaiseai](https://github.com/blaiseai)
+
 -[@matt985](https://github.com/matt985)
 
 -[@franexmo81](https://github.com/franexmo81)
@@ -8515,3 +8517,70 @@
 
 -[@HamiltonMassango](https://github.com/HamiltonMassango)
 
+-[@andreiserbanzaha](https://github.com/andreiserbanzaha)
+
+-[@yaseenMohammed](https://yaseenaiman.github.io/)
+
+-[@Laxman007](https://github.com/Laxman007)
+
+-[@Abhijith-tee](https://github.com/Abhijith-tee/)
+
+-[@teodoravadani](https://github.com/teodoravadani/)
+
+-[@tommersl](https://github.com/tommersl)
+
+-[@Nadavlevi-99](https://github.com/Nadavlevi-99/)
+
+-[@keiken-shin](https://github.com/keiken-shin)
+
+-[@mithleshfreak](https://github.com/mithleshfreak)
+
+-[@DimaBrovko](https://github.com/DimaBrovko)
+
+-[@dosva](https://github.com/dosva)
+
+-[@tgoslee](https://github.com/tgoslee/)
+
+-[@golnazsn](https://github.com/golnazsn/)
+
+-[@hamza783](https://github.com/hamza783/)
+
+-[@DulioCagg](https://github.com/DulioCagg/)
+
+-[@sangthienGitHub](https://github.com/sangthienGitHub)
+
+-[@moguljon](https://github.com/moguljon)
+
+-[@swelbourn](https://github.com/swelbourn)
+
+-[@japhelec](https://github.com/japhelec)
+
+-[@sk9073](https://github.com/sk9073)
+
+-[@phoebeli23](https://github.com/phoebeli23)
+
+-[@sakshi-1](https://github.com/sakshi-1)
+
+-[@MOHITBLAZE07](https://github.com/MOHITBLAZE07)
+
+-[@Muhammad-Usama-Arain](https://github.com/Muhammad-Usama-Arain)
+
+-[@ajilann](https://github.com/ajilann)
+
+-[@kensonpandey](https://github.com/kensonpandey)
+
+-[@dpat5941](https://github.com/dpat5941)
+
+-[@zvi741](https://github.com/zvi741)
+
+-[@ser-veresta](https://github.com/ser-veresta)
+
+-[@Ashel1](https://github.com/Ashel1)
+
+-[@emPro-source](https://github.com/emPro-source)
+
+-[@EiraForGithub](https://github.com/EiraForGithub)
+
+-[@astro980](https://gist.github.com/astro980)
+
+-[@samandeveloper](https://github.com/samandeveloper)
