@@ -8518,6 +8518,8 @@
 
 -[@HamiltonMassango](https://github.com/HamiltonMassango)
 
+-[@cassidypignatello](https://github.com/cassidypignatello)
+
 -[@joeyqlim](https://github.com/joeyqlim)
 
 -[@hembthapa](https://github.com/hembthapa)
