@@ -8512,6 +8512,8 @@
 
 -[@HamiltonMassango](https://github.com/HamiltonMassango)
 
+-[@ser-veresta](https://github.com/ser-veresta)
+
 -[@Ashel1](https://github.com/Ashel1)
 
 -[@emPro-source](https://github.com/emPro-source)
