@@ -8513,3 +8513,13 @@
 -[@HamiltonMassango](https://github.com/HamiltonMassango)
 
 -[@ser-veresta](https://github.com/ser-veresta)
+
+-[@Ashel1](https://github.com/Ashel1)
+
+-[@emPro-source](https://github.com/emPro-source)
+
+-[@EiraForGithub](https://github.com/EiraForGithub)
+
+-[@astro980](https://gist.github.com/astro980)
+
+-[@samandeveloper](https://github.com/samandeveloper)
