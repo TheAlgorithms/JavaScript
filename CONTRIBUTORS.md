@@ -8605,3 +8605,25 @@
 -[@samandeveloper](https://github.com/samandeveloper)
 
 -[@barkon99](https://github.com/barkon99)
+
+-[@ReggieW](https://github.com/ReggieW)
+
+-[@noku-lab](https://github.com/noku-lab/)
+
+-[@werka619](https://github.com/werka619)
+
+-[@tonyvu197](https://github.com/tonyvu197)
+
+-[@farouk7484](https://github.com/farouk7484)
+
+-[@AFutureWebDev](https://github.com/AFutureWebDev)
+
+-[@VladimirKitanovski](https://github.com/VladimirKitanovski/)
+
+-[@dvru](https://github.com/dvru)
+
+-[@kildiv](https://github.com/kildiv)
+
+-[@timbacon](https://github.com/timbacon)
+
+-[@aguilerajul](https://github.com/aguilerajul)
