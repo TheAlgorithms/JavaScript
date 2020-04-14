@@ -8604,6 +8604,8 @@
 
 -[@samandeveloper](https://github.com/samandeveloper)
 
+-[@triqzzz123](https://github.com/triqzzz123)
+
 -[@Ayoubahida](https://github.com/Ayoubahida/)
 
 -[@imadhan](https://github.com/imadhan/)
