@@ -8605,3 +8605,15 @@
 -[@samandeveloper](https://github.com/samandeveloper)
 
 -[@farouk7484](https://github.com/farouk7484)
+
+-[@AFutureWebDev](https://github.com/AFutureWebDev)
+
+-[@VladimirKitanovski](https://github.com/VladimirKitanovski/)
+
+-[@dvru](https://github.com/dvru)
+
+-[@kildiv](https://github.com/kildiv)
+
+-[@timbacon](https://github.com/timbacon)
+
+-[@aguilerajul](https://github.com/aguilerajul)
