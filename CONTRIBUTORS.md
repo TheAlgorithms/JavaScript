@@ -8604,6 +8604,8 @@
 
 -[@samandeveloper](https://github.com/samandeveloper)
 
+-[@farouk7484](https://github.com/farouk7484)
+
 -[@AFutureWebDev](https://github.com/AFutureWebDev)
 
 -[@VladimirKitanovski](https://github.com/VladimirKitanovski/)
