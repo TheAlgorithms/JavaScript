@@ -1,6 +1,7 @@
  <!-- @format -->
 
 # Contributors
+-[@kamalpreet36](https://github.com/kamalpreet36)
 
 -[@gsonly](https://github.com/gsonly)
 
