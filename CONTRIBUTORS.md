@@ -8649,6 +8649,8 @@
 
 -[@aguilerajul](https://github.com/aguilerajul)
 
+-[@manu549](https://github.com/manu549)
+
 -[@naw7az](https://github.com/naw7az)
 
 -[@jordanmwebb](http://github.com/jordanmwebb)
