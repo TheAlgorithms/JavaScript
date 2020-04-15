@@ -1,6 +1,7 @@
  <!-- @format -->
 
 # Contributors
+-[@kamalpreet36](https://github.com/kamalpreet36)
 
 -[@gsonly](https://github.com/gsonly)
 
@@ -8614,7 +8615,7 @@
 
 -[@Mubasshir42](https://github.com/Mubasshir42)
 
--[@baxt01](https://github.com/baxt01) 
+-[@baxt01](https://github.com/baxt01)
 
 -[@imaqib101](https://github.com/imaqib101)
 
@@ -8648,4 +8649,30 @@
 
 -[@aguilerajul](https://github.com/aguilerajul)
 
--[@jayashri94] (https://github.com/jayashri94)
+-[@jayashri94](https://github.com/jayashri94)
+
+-[@deeweb150118](https://github.com/deeweb150118)
+
+-[@saaranshkaul](https://github.com/saaranshkaul)
+
+-[@kbansal77](https://github.com/kbansal77)
+
+-[@manu549](https://github.com/manu549)
+
+-[@naw7az](https://github.com/naw7az)
+
+-[@jordanmwebb](http://github.com/jordanmwebb)
+
+-[@salihbezai](https://github.com/salihbezai)
+
+-[@saurabhyadav1985](https://github.com/saurabhyadav1985)
+
+-[@miraclebanks](https://github.com/miraclebanks)
+
+-[@waleed-1993](https://github.com/waleed-1993)
+
+-[@Pawan376](https://github.com/Pawan376)
+
+-[@ELTEGANI](https://github.com/ELTEGANI)
+
+-[@tigerlight](https://github.com/tigerlight)
