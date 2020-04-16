@@ -8691,3 +8691,11 @@
 -[@tigerlight](https://github.com/tigerlight)
 
 -[@Anonster](https://github.com/Anonster)
+
+-[@AverageLeo](https://github.com/AverageLeo)
+
+-[@ArmandoHEV](https://github.com/ArmandoHEV)
+
+-[@PSaiSurya](https://github.com/PSaiSurya)
+
+-[@YuryLoureiro](https://github.com/YuryLoureiro)
