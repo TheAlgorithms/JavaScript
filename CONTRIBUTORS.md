@@ -1,6 +1,7 @@
  <!-- @format -->
 
 # Contributors
+
 -[@kamalpreet36](https://github.com/kamalpreet36)
 
 -[@gsonly](https://github.com/gsonly)
@@ -2244,6 +2245,8 @@
 -[@bisscay](https://github.com/bisscay)
 
 -[@Jaimaldullat](https://github.com/Jaimaldullat)
+
+-[@saurabh-commit](https://github.com/saurabh-commit/)
 
 -[@jameschance1010](https://github.com/jameschance1010)
 
@@ -8649,6 +8652,8 @@
 
 -[@aguilerajul](https://github.com/aguilerajul)
 
+-[@acwcheung](https://github.com/acwcheung)
+
 -[@nabiya15](https://github.com/nabiya15)
 
 -[@FZcuber](https://github.com/FZcuber)
@@ -8690,3 +8695,25 @@
 -[@tigerlight](https://github.com/tigerlight)
 
 -[@binghuabean](https://github.com/binghuabean)
+
+-[@AlexandruP28](https://github.com/AlexandruP28/)
+
+-[@RumorTv](https://github.com/rumortv)
+
+-[@jorgey1](https://github.com/jorgey1)
+
+-[Verdiane](https://github.com/Verdiane)
+
+-[@wirlleyd](https://github.com/wirlleyd)
+
+-[@monirulhasankomol](https://github.com/monirulhasankomol)
+
+-[@Anonster](https://github.com/Anonster)
+
+-[@AverageLeo](https://github.com/AverageLeo)
+
+-[@ArmandoHEV](https://github.com/ArmandoHEV)
+
+-[@PSaiSurya](https://github.com/PSaiSurya)
+
+-[@YuryLoureiro](https://github.com/YuryLoureiro)
