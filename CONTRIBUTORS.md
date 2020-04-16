@@ -8690,3 +8690,7 @@
 -[@tigerlight](https://github.com/tigerlight)
 
 -[@ArmandoHEV](https://github.com/ArmandoHEV)
+
+-[@PSaiSurya](https://github.com/PSaiSurya)
+
+-[@YuryLoureiro](https://github.com/YuryLoureiro)
