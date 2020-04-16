@@ -1,6 +1,7 @@
  <!-- @format -->
 
 # Contributors
+
 -[@kamalpreet36](https://github.com/kamalpreet36)
 
 -[@gsonly](https://github.com/gsonly)
@@ -8688,3 +8689,5 @@
 -[@ELTEGANI](https://github.com/ELTEGANI)
 
 -[@tigerlight](https://github.com/tigerlight)
+
+-[@Anonster](https://github.com/Anonster)
