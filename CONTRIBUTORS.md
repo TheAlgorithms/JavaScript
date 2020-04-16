@@ -8690,6 +8690,8 @@
 
 -[@tigerlight](https://github.com/tigerlight)
 
+-[@RumorTv](https://github.com/rumortv)
+
 -[@jorgey1](https://github.com/jorgey1)
 
 -[Verdiane](https://github.com/Verdiane)
