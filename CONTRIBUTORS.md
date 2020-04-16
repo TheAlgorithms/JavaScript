@@ -8690,6 +8690,8 @@
 
 -[@tigerlight](https://github.com/tigerlight)
 
+-[Verdiane](https://github.com/Verdiane)
+
 -[@wirlleyd](https://github.com/wirlleyd)
 
 -[@monirulhasankomol](https://github.com/monirulhasankomol)
