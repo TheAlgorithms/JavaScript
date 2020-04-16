@@ -1,6 +1,7 @@
  <!-- @format -->
 
 # Contributors
+
 -[@kamalpreet36](https://github.com/kamalpreet36)
 
 -[@gsonly](https://github.com/gsonly)
@@ -8690,3 +8691,13 @@
 -[@tigerlight](https://github.com/tigerlight)
 
 -[@monirulhasankomol](https://github.com/monirulhasankomol)
+
+-[@Anonster](https://github.com/Anonster)
+
+-[@AverageLeo](https://github.com/AverageLeo)
+
+-[@ArmandoHEV](https://github.com/ArmandoHEV)
+
+-[@PSaiSurya](https://github.com/PSaiSurya)
+
+-[@YuryLoureiro](https://github.com/YuryLoureiro)
