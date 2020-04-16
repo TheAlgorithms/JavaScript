@@ -2,6 +2,8 @@
 
 # Contributors
 
+-[@kamalpreet36](https://github.com/kamalpreet36)
+
 -[@gsonly](https://github.com/gsonly)
 
 -[@codesankalp](https://github.com/codesankalp)
@@ -2243,6 +2245,8 @@
 -[@bisscay](https://github.com/bisscay)
 
 -[@Jaimaldullat](https://github.com/Jaimaldullat)
+
+-[@saurabh-commit](https://github.com/saurabh-commit/)
 
 -[@jameschance1010](https://github.com/jameschance1010)
 
@@ -8614,7 +8618,7 @@
 
 -[@Mubasshir42](https://github.com/Mubasshir42)
 
--[@baxt01](https://github.com/baxt01) 
+-[@baxt01](https://github.com/baxt01)
 
 -[@imaqib101](https://github.com/imaqib101)
 
@@ -8650,3 +8654,64 @@
 
 -[@acwcheung](https://github.com/acwcheung)
 
+-[@nabiya15](https://github.com/nabiya15)
+
+-[@FZcuber](https://github.com/FZcuber)
+
+-[@Yashwantoo7](https://github.com/Yashwantoo7/)
+
+-[@conka98](https://github.com/conka98)
+
+-[@luissanmar10](https://github.com/luissanmar10)
+
+-[@SzymonJarek](https://github.com/SzymonJarek)
+
+-[@jayashri94](https://github.com/jayashri94)
+
+-[@deeweb150118](https://github.com/deeweb150118)
+
+-[@saaranshkaul](https://github.com/saaranshkaul)
+
+-[@kbansal77](https://github.com/kbansal77)
+
+-[@manu549](https://github.com/manu549)
+
+-[@naw7az](https://github.com/naw7az)
+
+-[@jordanmwebb](http://github.com/jordanmwebb)
+
+-[@salihbezai](https://github.com/salihbezai)
+
+-[@saurabhyadav1985](https://github.com/saurabhyadav1985)
+
+-[@miraclebanks](https://github.com/miraclebanks)
+
+-[@waleed-1993](https://github.com/waleed-1993)
+
+-[@Pawan376](https://github.com/Pawan376)
+
+-[@ELTEGANI](https://github.com/ELTEGANI)
+
+-[@tigerlight](https://github.com/tigerlight)
+
+-[@AlexandruP28](https://github.com/AlexandruP28/)
+
+-[@RumorTv](https://github.com/rumortv)
+
+-[@jorgey1](https://github.com/jorgey1)
+
+-[Verdiane](https://github.com/Verdiane)
+
+-[@wirlleyd](https://github.com/wirlleyd)
+
+-[@monirulhasankomol](https://github.com/monirulhasankomol)
+
+-[@Anonster](https://github.com/Anonster)
+
+-[@AverageLeo](https://github.com/AverageLeo)
+
+-[@ArmandoHEV](https://github.com/ArmandoHEV)
+
+-[@PSaiSurya](https://github.com/PSaiSurya)
+
+-[@YuryLoureiro](https://github.com/YuryLoureiro)
