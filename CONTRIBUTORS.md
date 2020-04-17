@@ -8732,6 +8732,8 @@
 
 -[@YuryLoureiro](https://github.com/YuryLoureiro)
 
+-[@tyagisomil1998](https://github.com/tyagisomil1998)
+
 -[@jacobmlucas](https://github.com/jacobmlucas)
 
 -[@Acsaralegui](https://github.com/acsaralegui)
