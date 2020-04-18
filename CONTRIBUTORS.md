@@ -8774,3 +8774,10 @@
 
 -[@VaskoBoshkov](https://github.com/VaskoBoshkov)
 
+-[@tessaCH](https://github.com/tessaCH)
+
+-[@mhavezov](https://github.com/mhavezov)
+
+-[@russellbot](https://github.com/russellbot)
+
+-[@phanat8](https://github.com/phanat8)
