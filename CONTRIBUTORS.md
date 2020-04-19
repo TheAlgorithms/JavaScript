@@ -8806,4 +8806,10 @@
 
 -[@phanat8](https://github.com/phanat8)
 
--[@Ouzzwalid] (https://github.com/Ouzzwalid)
+-[@Ouzzwalid](https://github.com/Ouzzwalid)
+
+-[@janoskocs](https://github.com/janoskocs)
+
+-[@helloam](https://github.com/helloam)
+
+-[@huynhcongbaotran](https://github.com/huynhcongbaotran)
