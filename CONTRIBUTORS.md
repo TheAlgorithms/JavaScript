@@ -1,6 +1,7 @@
  <!-- @format -->
 
 # Contributors
+-[@hatimmurtuza](https://github.com/LethalPants)
 
 -[@kamalpreet36](https://github.com/kamalpreet36)
 
@@ -8853,3 +8854,13 @@
 -[@huynhcongbaotran](https://github.com/huynhcongbaotran)
 
 -[@omaralmahdy1010](https://github.com/omaralmahdy1010)
+
+-[@nachiketkallapur](https://github.com/nachiketkallapur/)
+
+-[@Xavier-Charles](https://github.com/Xavier-Charles)
+
+-[@vadickpb](https://github.com/vadickpb)
+
+-[@kev2030](https://github.com/kev2030)
+
+-[@eddiesr123](https://github.com/eddiesr123)
