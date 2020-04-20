@@ -8855,6 +8855,8 @@
 
 -[@huynhcongbaotran](https://github.com/huynhcongbaotran)
 
+-[@freedamoore](https://github.com/freedamoore)
+
 -[@karolisracas](https://github.com/karolisracas)
 
 -[@shubham-rp](https://github.com/shubham-rp)
