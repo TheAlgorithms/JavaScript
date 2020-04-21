@@ -8894,6 +8894,8 @@
 
 -[@eddiesr123](https://github.com/eddiesr123)
 
+-[@JabariD](https://github.com/JabariD)
+
 -[@Paahn](https://github.com/Paahn/)
 
 -[@K-trac](https://github.com/K-trac)
