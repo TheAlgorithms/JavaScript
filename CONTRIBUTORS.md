@@ -4766,6 +4766,8 @@
 
 -[@chi](https://github.com/Zed-chi)
 
+-[@hyderumer](https://github.com/hyderumer)
+
 -[@ZoranLautarevic](https://github.com/ZoranLautarevic/)
 
 -[@ChandalaSaturnino](https://github.com/ChandalaSaturnino)
