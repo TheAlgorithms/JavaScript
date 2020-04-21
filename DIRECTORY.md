@@ -43,8 +43,10 @@
 ## maths
   * [abs](https://github.com/TheAlgorithms/Javascript/blob/master/maths/abs.js)
   * [average mean](https://github.com/TheAlgorithms/Javascript/blob/master/maths/average_mean.js)
+  * [DijkstraSmallestPath](https://github.com/TheAlgorithms/Javascript/blob/master/maths/DijkstraSmallestPath.js)
   * [factorial](https://github.com/TheAlgorithms/Javascript/blob/master/maths/factorial.js)
   * [find lcm](https://github.com/TheAlgorithms/Javascript/blob/master/maths/find_lcm.js)
+  * [graph](https://github.com/TheAlgorithms/Javascript/blob/master/maths/graph.js)
 
 ## Search
   * [binarySearch](https://github.com/TheAlgorithms/Javascript/blob/master/Search/binarySearch.js)
@@ -68,4 +70,5 @@
   * [radixSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/radixSort.js)
   * [selectionSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/selectionSort.js)
   * [shellSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/shellSort.js)
+  * [TopologicalSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/TopologicalSort.js)
   * [wiggleSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/wiggleSort.js)
