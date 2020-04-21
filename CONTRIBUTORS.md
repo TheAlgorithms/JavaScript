@@ -2,6 +2,8 @@
 
 # Contributors
 
+-[@hatimmurtuza](https://github.com/LethalPants)
+
 -[@kamalpreet36](https://github.com/kamalpreet36)
 
 -[@gsonly](https://github.com/gsonly)
@@ -4764,6 +4766,8 @@
 
 -[@chi](https://github.com/Zed-chi)
 
+-[@hyderumer](https://github.com/hyderumer)
+
 -[@ZoranLautarevic](https://github.com/ZoranLautarevic/)
 
 -[@ChandalaSaturnino](https://github.com/ChandalaSaturnino)
@@ -8772,6 +8776,8 @@
 
 -[@kelika86](https://github.com/kelika86)
 
+-[@dhirajkaushik321](https://github.com/dhirajkaushik321)
+
 -[@engammar111](https://github.com/engammar111)
 
 -[@eblanchard88](https://github.com/eblanchard88/)
@@ -8853,3 +8859,79 @@
 -[@huynhcongbaotran](https://github.com/huynhcongbaotran)
 
 -[@Row29](https://github.com/Row29)
+
+-[@Row29](https://github.com/Row29)
+
+-[@caiomartins1](https://github.com/caiomartins1)
+
+-[@freedamoore](https://github.com/freedamoore)
+
+-[@karolisracas](https://github.com/karolisracas)
+
+-[@shubham-rp](https://github.com/shubham-rp)
+
+-[@andbandu](https://github.com/andbandu)
+
+-[@alexgordontlv](https://github.com/alexgordontlv)
+
+-[@qucphng0205](https://github.com/qucphng0205)
+
+-[@antonius83](https://github.com/antonius83)
+
+-[@snakeage](https://github.com/snakeage)
+
+-[@liam1703](https://github.com/liam1703)
+
+-[@anna-m-b](https://github.com/anna-m-b)
+
+-[@billcates](https://github.com/billcates)
+
+-[@omaralmahdy1010](https://github.com/omaralmahdy1010)
+
+-[@nachiketkallapur](https://github.com/nachiketkallapur/)
+
+-[@Xavier-Charles](https://github.com/Xavier-Charles)
+
+-[@vadickpb](https://github.com/vadickpb)
+
+-[@kev2030](https://github.com/kev2030)
+
+-[@eddiesr123](https://github.com/eddiesr123)
+
+-[@CrisManrique](https://github.com/CrisManrique)
+
+-[@JabariD](https://github.com/JabariD)
+
+-[@Paahn](https://github.com/Paahn/)
+
+-[@K-trac](https://github.com/K-trac)
+
+-[@rklaumbach](https://github.com/rklaumbach)
+
+-[@artbalahadia](https://github.com/artbalahadia/)
+
+-[@caxefaizan](https://github.com/caxefaizan)
+
+-[@viraldoship](https://github.com/viraldoship)
+
+-[@elamarang](https://github.com/elamarang)
+
+-[@Ritavdas](https://github.com/Ritavdas)
+
+-[@grv1592](https://github.com/grv1592/)
+
+-[@uniqu3](https://github.com/uniqu3)
+
+-[@Aaditya-Dhanraj](https://github.com/Aaditya-Dhanraj/)
+
+-[@umur282](https://github/umur282/)
+
+-[@boran272](https://github.com/boran272)
+
+-[@Borche](https://github.com/Borche)
+
+-[@steviesocks](https://github.com/steviesocks)
+
+-[@mpcaples](https://github.com/mpcaples)
+
+-[@vsaikm](https://github.com/vsaikm)
