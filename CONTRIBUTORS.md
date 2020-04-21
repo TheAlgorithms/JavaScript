@@ -1,6 +1,7 @@
  <!-- @format -->
 
 # Contributors
+
 -[@hatimmurtuza](https://github.com/LethalPants)
 
 -[@kamalpreet36](https://github.com/kamalpreet36)
@@ -8890,6 +8891,8 @@
 -[@kev2030](https://github.com/kev2030)
 
 -[@eddiesr123](https://github.com/eddiesr123)
+
+-[@Borche](https://github.com/Borche)
 
 -[@steviesocks](https://github.com/steviesocks)
 
