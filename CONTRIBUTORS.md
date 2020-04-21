@@ -8894,6 +8894,8 @@
 
 -[@eddiesr123](https://github.com/eddiesr123)
 
+-[@CrisManrique](https://github.com/CrisManrique)
+
 -[@JabariD](https://github.com/JabariD)
 
 -[@Paahn](https://github.com/Paahn/)
