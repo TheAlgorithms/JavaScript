@@ -2116,6 +2116,10 @@
 
 -[@bk797](https://github.com/bk797)
 
+-[@kraulekrankzahn](https://github.com/kraulekrankzahn)
+
+-[@DevRayHE](https://github.com/DevRayHE)
+
 -[@FBueth](https://github.com/FBueth)
 
 -[@AhmedH14](https://github.com/AhmedH14)
@@ -8814,6 +8818,8 @@
 
 -[@phanat8](https://github.com/phanat8)
 
+-[@Kathydv](https://github.com/Kathydv)
+
 -[@eileen98034](https://github.com/eileen98034)
 
 -[@rodhash](https://github.com/rodhash)
@@ -8900,6 +8906,8 @@
 
 -[@eddiesr123](https://github.com/eddiesr123)
 
+-[@Toshman-hub](https://github.com/Toshman-hub)
+
 -[@CrisManrique](https://github.com/CrisManrique)
 
 -[@JabariD](https://github.com/JabariD)
@@ -8939,3 +8947,31 @@
 -[@vsaikm](https://github.com/vsaikm)
 
 -[lettuceketchup](https://github.com/lettuceketchup)
+
+-[@b3n3dict](https://github.com/b3n3dict)
+
+-[@joanClapes97](https://github.com/joanClapes97)
+
+-[@pelic86](https://github.com/pelic86)
+
+-[@StefanMdvs](https://github.com/StefanMdvs)
+
+-[@tomevertzen](https://github.com/tomevertzen)
+
+-[@supershivam13](https://github.com/supershivam13)
+
+-[@Ankit7Das](https://github.com/Ankit7Das)
+
+-[@astricus](https://github.com/astricus)
+
+-[@lhsthree](https://github.com/lhsthree)
+
+-[@shuaimxu](https://github.com/ShuaiMXu)
+
+-[@jpstanway](https://github.com/jpstanway)
+
+-[@Isidora94](https://github.com/Isidora94)
+
+-[@ScalingCreativity](https://github.com/ScalingCreativity)
+
+-[@0ludeaux](https://github.com/0ludeaux)
