@@ -8814,6 +8814,8 @@
 
 -[@phanat8](https://github.com/phanat8)
 
+-[@Kathydv](https://github.com/Kathydv)
+
 -[@eileen98034](https://github.com/eileen98034)
 
 -[@rodhash](https://github.com/rodhash)
@@ -8900,6 +8902,8 @@
 
 -[@eddiesr123](https://github.com/eddiesr123)
 
+-[@Toshman-hub](https://github.com/Toshman-hub)
+
 -[@CrisManrique](https://github.com/CrisManrique)
 
 -[@JabariD](https://github.com/JabariD)
@@ -8939,3 +8943,13 @@
 -[@vsaikm](https://github.com/vsaikm)
 
 -[@lhsthree](https://github.com/lhsthree)
+
+-[@shuaimxu](https://github.com/ShuaiMXu)
+
+-[@jpstanway](https://github.com/jpstanway)
+
+-[@Isidora94](https://github.com/Isidora94)
+
+-[@ScalingCreativity](https://github.com/ScalingCreativity)
+
+-[@0ludeaux](https://github.com/0ludeaux)
