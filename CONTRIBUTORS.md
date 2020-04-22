@@ -8946,6 +8946,8 @@
 
 -[@vsaikm](https://github.com/vsaikm)
 
+-[@b3n3dict](https://github.com/b3n3dict)
+
 -[@joanClapes97](https://github.com/joanClapes97)
 
 -[@pelic86](https://github.com/pelic86)
