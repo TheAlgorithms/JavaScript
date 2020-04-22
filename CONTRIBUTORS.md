@@ -8942,6 +8942,8 @@
 
 -[@vsaikm](https://github.com/vsaikm)
 
+-[@Isidora94](https://github.com/Isidora94)
+
 -[@ScalingCreativity](https://github.com/ScalingCreativity)
 
 -[@0ludeaux](https://github.com/0ludeaux)
