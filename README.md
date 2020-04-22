@@ -1,20 +1,20 @@
-# start-here-guidelines
-Guidelines on how this open source community works. Most information is from the amazing https://opensource.guide/how-to-contribute/
+Guidelines on how this open source community works :)
+ 
+Read below to see how you can join an existing project or create your own.
 
 ## One rule of this community:
-We don't care if you break things. This is a playground and we encourage failing often. Use this as a practice ground and enjoy contributing to projects you create with your fellow students.
+We don't care if you break things. This is a playground and we encourage failing often. Use this as a practice ground and enjoy contributing to projects you create with your fellow students. Many students have gained real world experience "working in teams" by working on these projects.
 
-## 4 Step guide to get started:
-**1**. Read the wonderful [*gitStarted Guide*](https://github.com/zero-to-mastery/start-here-guidelines/blob/855a00243db60c71905f6e3afd95ebf2cf7459a0/gitstartedguideoptimized.pdf) by our fellow student @wanraitelli
+## 4 Steps guide to get started:
+**1**. Read the wonderful [*gitStarted Guide*](https://github.com/zero-to-mastery/start-here-guidelines/blob/855a00243db60c71905f6e3afd95ebf2cf7459a0/gitstartedguideoptimized.pdf) by our fellow student @wanraitelli.
 
-**2**. Make your first Pull Request (Free how-to tutorial at http://makeapullrequest.com/, and then check out Andrei's videos on github https://www.udemy.com/the-complete-web-developer-in-2018/learn/v4/t/lecture/8725782/), by adding your name to the CONTRIBUTORS.md file in the start-here-guidelines project. (You can also use this walkthrough as a reference: https://github.com/Roshanjossey/first-contributions)
+**2**. Make your first Pull Request (check out [Andrei's videos on github](https://www.udemy.com/the-complete-web-developer-in-2018/learn/v4/t/lecture/8725782/) or this free how-to tutorial at http://makeapullrequest.com/), by adding your name to the `CONTRIBUTORS.md` file in the [start-here-guidelines](https://github.com/zero-to-mastery/start-here-guidelines) project.
 
-**3**. Go join a project and start contributing. This is a community to experiment and see what we create. Don't be shy and enjoy creating things together! [Explore The Projects](https://github.com/zero-to-mastery) and also
-[check out this guide for more information](https://github.com/zero-to-mastery/start-here-guidelines/blob/master/Get%20Started.md).
+**3**. Go join a project and start contributing or create your own group apps. Don't be shy and enjoy creating things together (We have over 20 projects for all level of programmers)! [Check out this guide](https://github.com/zero-to-mastery/start-here-guidelines/blob/master/Get%20Started.md) for more information on selecting a project. 
 
-**4**. In order to see the Zero to Mastery Icon in your Github profile, follow this: https://help.github.com/articles/publicizing-or-hiding-organization-membership/
-
-## Anatomy of an open source project
+**4**. In order to see the Zero to Mastery Icon in your Github profile, [follow these steps](https://help.github.com/articles/publicizing-or-hiding-organization-membership/) (you must complete step 1 and 2 for this to work).
+ 
+## Anatomy of an open source project:
 Every open source community is different.
 
 Spending years on one open source project means you’ve gotten to know _one_ open source project. Move to a different project, and you might find the vocabulary, norms, and communication styles are completely different.
@@ -23,11 +23,11 @@ That said, many open source projects follow a similar organizational structure. 
 
 A typical open source project has the following types of people:
 
-**Author**: The person/s or organization that created the project
+**Author**: The person/s or organization that created the project.
 
-**Owner**: The person/s who has administrative ownership over the organization or repository (not always the same as the original author)
+**Owner**: The person/s who has administrative ownership over the organization or repository (not always the same as the original author).
 
-**Maintainers**: Contributors who are responsible for driving the vision and managing the organizational aspects of the project. (They may also be authors or owners of the project.)
+**Maintainers**: Contributors who are responsible for driving the vision and managing the organizational aspects of the project (may also be authors or owners of the project).
 
 **Contributors**: Everyone who has contributed something back to the project.
 
@@ -55,4 +55,6 @@ Finally, open source projects use the following tools to organize discussion. Re
 
 **Discussion forums or mailing lists**: Some projects may use these channels for conversational topics (for example, “How do I…“ or “What do you think about…“ instead of bug reports or feature requests). Others use the issue tracker for all conversations.
 
-**Synchronous chat channel**: Some projects use chat channels (such as Slack or IRC) for casual conversation, collaboration, and quick exchanges.
+**Synchronous chat channel**: Some projects use chat channels (such as Discord or IRC) for casual conversation, collaboration, and quick exchanges.    
+
+**Buy Andrei's course**: [Here](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) it helps you a lot.

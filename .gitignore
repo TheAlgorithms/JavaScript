@@ -1,5 +1,31 @@
-# Exclude irrelevant files on MacOS
-*.DS_Store
-/.vs/VSWorkspaceState.json
-/.vs/StartingGuidelines/v15/.suo
-/.vs/slnx.sqlite
+# IDE files
+.DS_Store
+.vscode
+.idea
+.iml
+.history
+
+# dependencies
+node_modules
+start-here-guidelines
+start
+
+# Log file
+.log
+
+# Package Files
+.zip
+.gzip
+.tar.gz
+.rar
+
+# Compiled class file
+.class
+
+#Other folders
+lib
+logs
+target
+out
+out
+gen
