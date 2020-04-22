@@ -8937,3 +8937,5 @@
 -[@mpcaples](https://github.com/mpcaples)
 
 -[@vsaikm](https://github.com/vsaikm)
+
+-[@joanClapes97](https://github.com/joanClapes97)
