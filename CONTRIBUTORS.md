@@ -8942,6 +8942,8 @@
 
 -[@vsaikm](https://github.com/vsaikm)
 
+-[@shuaimxu](https://github.com/ShuaiMXu)
+
 -[@jpstanway](https://github.com/jpstanway)
 
 -[@Isidora94](https://github.com/Isidora94)
