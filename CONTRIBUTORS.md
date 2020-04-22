@@ -8946,6 +8946,8 @@
 
 -[@vsaikm](https://github.com/vsaikm)
 
+-[@joanClapes97](https://github.com/joanClapes97)
+
 -[@pelic86](https://github.com/pelic86)
 
 -[@StefanMdvs](https://github.com/StefanMdvs)
