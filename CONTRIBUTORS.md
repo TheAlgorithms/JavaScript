@@ -2116,6 +2116,10 @@
 
 -[@bk797](https://github.com/bk797)
 
+-[@kraulekrankzahn](https://github.com/kraulekrankzahn)
+
+-[@DevRayHE](https://github.com/DevRayHE)
+
 -[@FBueth](https://github.com/FBueth)
 
 -[@AhmedH14](https://github.com/AhmedH14)
