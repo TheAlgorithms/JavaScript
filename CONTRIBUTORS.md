@@ -8991,3 +8991,5 @@
 -[@ScalingCreativity](https://github.com/ScalingCreativity)
 
 -[@0ludeaux](https://github.com/0ludeaux)
+
+-[@claudiabringaseverett](https://github.com/claudiabringaseverett)
