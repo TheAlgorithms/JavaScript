@@ -12,9 +12,7 @@ function doubleLinkedList() {
     
     //Add new element
     this.append = function(element) {
-      let node = new Node(element),
-            current = head,
-            previous;
+      let node = new Node(element);
       
       if(!head){
             head = node;
