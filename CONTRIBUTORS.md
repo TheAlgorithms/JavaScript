@@ -1,6 +1,7 @@
                           <!-- @format -->
 
 # Contributors
+-[@ductringuyen](https://github.com/ductringuyen)
 
 -[@matan-sha](https://github.com/matan-sha)
 
