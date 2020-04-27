@@ -8997,6 +8997,8 @@
 
 -[@0ludeaux](https://github.com/0ludeaux)
 
+-[@claudiabringaseverett](https://github.com/claudiabringaseverett)
+
 -[meetkiran](https://github.com/meetkiran)
 
 -[@allansp9](https://github.com/allansp9)
