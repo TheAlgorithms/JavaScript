@@ -9003,6 +9003,8 @@
 
 -[@0ludeaux](https://github.com/0ludeaux)
 
+-[@fishix](https://github.com/fishix10)
+
 -[@hichamid4](https://github.com/hichamid4)
 
 -[@MansiSNawlani](https://github.com/MansiSNawlani)
@@ -9158,3 +9160,9 @@
 -[@Lak01](https://github.com/Lak01)
 
 -[@n0stalg1a](https://github.com/n0stalg1a)
+
+-[@Malekce23](https://github.com/Malekce23)
+
+-[@taufiq38](https://github.com/taufiq38)
+
+-[@kevin573](https://github.com/kevin573)
