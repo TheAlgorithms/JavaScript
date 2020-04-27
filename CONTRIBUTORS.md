@@ -9004,6 +9004,8 @@
 
 -[@0ludeaux](https://github.com/0ludeaux)
 
+-[@minkeetan](https://github.com/minkeetan)
+
 -[@mimnaghm](https://github.com/mimnaghm)
 
 -[@Awscr](https://github.com/Awscr)
