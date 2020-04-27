@@ -9003,6 +9003,26 @@
 
 -[@0ludeaux](https://github.com/0ludeaux)
 
+-[@fishix](https://github.com/fishix10)
+
+-[@hichamid4](https://github.com/hichamid4)
+
+-[@MansiSNawlani](https://github.com/MansiSNawlani)
+
+-[@natechnivan](https://github.com/natechnivan)
+
+-[@anandsingh84](https://github.com/anandsingh84)
+
+-[@pravindeva](https://github.com/pravindeva)
+
+-[@sanadsa](https://github.com/sanadsa)
+
+-[@vincey101](https://github.com/vincey101)
+
+-[@jakealistairwood](https://github.com/jakealistairwood)
+
+-[@mcmed3](https://github.com/mcmed3)
+
 -[@harshvardhan219](https://github.com/harshvardhan219)
 
 -[@mismail-541](https://github.com/mismail-541)
@@ -9141,3 +9161,12 @@
 
 -[@ram-kp](https://github.com/ram-kp)
 
+-[@Chakour19](https://github.com/Chakour19)
+
+-[@n0stalg1a](https://github.com/n0stalg1a)
+
+-[@Malekce23](https://github.com/Malekce23)
+
+-[@taufiq38](https://github.com/taufiq38)
+
+-[@kevin573](https://github.com/kevin573)
