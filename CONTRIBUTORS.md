@@ -9003,6 +9003,8 @@
 
 -[@0ludeaux](https://github.com/0ludeaux)
 
+-[@fishix](https://github.com/fishix10)
+
 -[@hichamid4](https://github.com/hichamid4)
 
 -[@MansiSNawlani](https://github.com/MansiSNawlani)
