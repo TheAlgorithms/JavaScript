@@ -8997,6 +8997,8 @@
 
 -[@0ludeaux](https://github.com/0ludeaux)
 
+-[@shitman0930](https://github.com/shitman0930/)
+
 -[@isimoon](https://github.com/isimoon)
 
 -[@rishik-00](https://github.com/rishik-00)
