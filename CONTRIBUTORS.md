@@ -1,6 +1,7 @@
  <!-- @format -->
 
 # Contributors
+-[@ductringuyen](https://github.com/ductringuyen)
 
 -[@hatimmurtuza](https://github.com/LethalPants)
 
