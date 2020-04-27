@@ -9003,6 +9003,8 @@
 
 -[@0ludeaux](https://github.com/0ludeaux)
 
+-[@vicky-wjz](https://github.com/vicky-wjz/)
+
 -[@tomashei](https://github.com/tomashei)
 
 -[@fishix](https://github.com/fishix10)
@@ -9039,11 +9041,11 @@
 
 -[@loganjohnson1911](https://github.com/loganjohnson1911)
 
--[@EmmanouilFragk] (https://github.com/EmmanouilFragk)
+-[@EmmanouilFragk](https://github.com/EmmanouilFragk)
 
 -[@Bjoernbom](https://github.com/Bjoernbom)
 
-[@I3lackMarius](https://github.com/I3lackMarius)
+-[@I3lackMarius](https://github.com/I3lackMarius)
 
 -[@mohak2020](https://github.com/mohak2020)
 
