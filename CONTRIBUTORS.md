@@ -8999,6 +8999,8 @@
 
 -[@0ludeaux](https://github.com/0ludeaux)
 
+-[@EdBurroughs](https://github.com/EdBurroughs)
+
 -[@M-Ostapchuk](https://github.com/M-Ostapchuk/)
 
 -[@gijo57](https://github.com/gijo57)
