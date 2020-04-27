@@ -8993,3 +8993,7 @@
 -[@0ludeaux](https://github.com/0ludeaux)
 
 -[@jnch009](https://github.com/jnch009)
+
+-[@prayingmantislab](https://github.com/prayingmantislab)
+
+-[@natansevero](https://github.com/natansevero)
