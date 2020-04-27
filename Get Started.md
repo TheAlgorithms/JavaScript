@@ -22,7 +22,7 @@ Joining a project is pretty simple, checkout the [current projects](https://gith
 **Please note:** Whilst working on any project in the Zero To Mastery community, you must adhere to our code of conduct, which can be found [here](https://github.com/zero-to-mastery/start-here-guidelines/blob/master/CODE_OF_CONDUCT.md)
 
 ## Option 2: Create a project
-We are always on the look out for new and exciting project to add to Zero to Mastery for you all to collaborate on! If you think you have an new and exciting project/idea the community would love to get involved in, here is the process for getting it listed:
+We are always on the look out for new and exciting project to add to Zero to Mastery for you all to collaborate on! If you think you have a new and exciting project/idea the community would love to get involved in, here is the process for getting it listed:
 - Reach out to a member of the Management Team on our Discord server, with a detailed project brief
 - Management team will consider if the project is something that would work well with the community
 - A Repository will be created and the project will be announced in #current-project channel in our Discord server and featured during an upcoming announcement by Andrei
