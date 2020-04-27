@@ -9004,6 +9004,8 @@
 
 -[@0ludeaux](https://github.com/0ludeaux)
 
+-[@davemac83](https://github.com/davemac83)
+
 -[@Imafont](https://github.com/Imafont)
 
 -[@bugemeister](https://github.com/bugemeister)
