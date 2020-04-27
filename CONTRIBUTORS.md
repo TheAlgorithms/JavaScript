@@ -8999,6 +8999,8 @@
 
 -[@0ludeaux](https://github.com/0ludeaux)
 
+-[@singhaniarahul](https://github.com/singhaniarahul)
+
 -[@lucvankerkvoort](https://github.com/lucvankerkvoort)
 
 -[@hkanju34](https://github.com/hkanju34)
