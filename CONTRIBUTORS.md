@@ -1,6 +1,7 @@
                           <!-- @format -->
 
 # Contributors
+
 -[@ductringuyen](https://github.com/ductringuyen)
 
 -[@matan-sha](https://github.com/matan-sha)
@@ -3891,7 +3892,7 @@
 
 -[Christian Parraga](https://github.com/chispofish)
 
--[@alvaroserrrano] (https://github.com/alvaroserrrano)
+-[@alvaroserrrano](https://github.com/alvaroserrrano)
 
 -[@Sid200026](https://github.com/Sid200026)
 
@@ -8959,7 +8960,6 @@
 
 -[@vsaikm](https://github.com/vsaikm)
 
-
 -[@Pixass](https://github.com/Pixass/)
 
 -[@Its-Shivanshu-Sharma](https://github.com/Its-Shivanshu-Sharma)
@@ -9022,7 +9022,7 @@
 
 -[@bugemeister](https://github.com/bugemeister)
 
--[@krishan1999](https://github.com/krishan1999)  
+-[@krishan1999](https://github.com/krishan1999)
 
 -[@ankitdeopurkar](https://github.com/ankitdeopurkar)
 
@@ -9215,3 +9215,5 @@
 -[@taufiq38](https://github.com/taufiq38)
 
 -[@kevin573](https://github.com/kevin573)
+
+-[@mubarak-byte](https://github.com/mubarak-byte)
