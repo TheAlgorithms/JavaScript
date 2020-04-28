@@ -1,6 +1,7 @@
                           <!-- @format -->
 
 # Contributors
+-[@ductringuyen](https://github.com/ductringuyen)
 
 -[@matan-sha](https://github.com/matan-sha)
 
@@ -9003,6 +9004,38 @@
 
 -[@0ludeaux](https://github.com/0ludeaux)
 
+-[@iOSTiago](https://github.com/iOSTiago)
+
+-[jrussell416](https://github.com/jrussell416)
+
+-[@minkeetan](https://github.com/minkeetan)
+
+-[@mimnaghm](https://github.com/mimnaghm)
+
+-[@Awscr](https://github.com/Awscr)
+
+-[@ionuts94](https://github.com/ionuts94)
+
+-[@davemac83](https://github.com/davemac83)
+
+-[@Imafont](https://github.com/Imafont)
+
+-[@bugemeister](https://github.com/bugemeister)
+
+-[@krishan1999](https://github.com/krishan1999)  
+
+-[@ankitdeopurkar](https://github.com/ankitdeopurkar)
+
+-[@Calcopod](https://github.com/Calcopod)
+
+-[@meow13th](https://github.com/meow13th)
+
+-[@brseeni](https://github.com/brseeni)
+
+-[@vicky-wjz](https://github.com/vicky-wjz/)
+
+-[@tomashei](https://github.com/tomashei)
+
 -[@fishix](https://github.com/fishix10)
 
 -[@hichamid4](https://github.com/hichamid4)
@@ -9037,11 +9070,11 @@
 
 -[@loganjohnson1911](https://github.com/loganjohnson1911)
 
--[@EmmanouilFragk] (https://github.com/EmmanouilFragk)
+-[@EmmanouilFragk](https://github.com/EmmanouilFragk)
 
 -[@Bjoernbom](https://github.com/Bjoernbom)
 
-[@I3lackMarius](https://github.com/I3lackMarius)
+-[@I3lackMarius](https://github.com/I3lackMarius)
 
 -[@mohak2020](https://github.com/mohak2020)
 
@@ -9119,7 +9152,7 @@
 
 -[@allansp9](https://github.com/allansp9)
 
-- [@Amberchen8892] (https://github.com/Amberchen8892)
+-[@Amberchen8892](https://github.com/Amberchen8892)
 
 -[@Yousf9](https://github.com/YousF9)
 
@@ -9157,6 +9190,32 @@
 
 -[@natansevero](https://github.com/natansevero)
 
+-[@NguyenGiaThuy](https://github.com/NguyenGiaThuy)
+
 -[@Lak01](https://github.com/Lak01)
+
 -[@heshamxa](https://github.com/heshamxa)
 
+-[@sankha10](https://github.com/sankha10)
+
+-[@NarasimhaNayan](https://github.com/NarasimhaNayan)
+
+-[@Zalaras](https://github.com/Zalaras)
+
+-[@NikhilNarendranNair](https://github.com/NikhilNarendranNair)
+
+-[@tatianaisabel](https://github.com/tatianaisabel)
+
+-[@ram-kp](https://github.com/ram-kp)
+
+-[@Chakour19](https://github.com/Chakour19)
+
+-[@n0stalg1a](https://github.com/n0stalg1a)
+
+-[@Malekce23](https://github.com/Malekce23)
+
+-[@taufiq38](https://github.com/taufiq38)
+
+-[@kevin573](https://github.com/kevin573)
+
+-[@coa16esp](https://github.com/coa16esp)
