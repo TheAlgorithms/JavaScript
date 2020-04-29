@@ -23,7 +23,7 @@
     * [MinPriorityQueue](https://github.com/TheAlgorithms/Javascript/blob/master/Data%20Structures/Heap/MinPriorityQueue.js)
   * Linked List
     * [singlylinklist](https://github.com/TheAlgorithms/Javascript/blob/master/Data%20Structures/Linked%20List/singlylinklist.js)
-    * [doublylinkedlist]C:\Users\Hamza\Desktop\junior prjct\Javascript\Data Structures\Linked List\DoublyLinkedList.js
+    * [doublylinkedlist](https://github.com/TheAlgorithms/Javascript/blob/master/Data%20Structures/Linked%20List/doublylinkedlist.js)
   * Queue
     * [Queue](https://github.com/TheAlgorithms/Javascript/blob/master/Data%20Structures/Queue/Queue.js)
   * Stack
