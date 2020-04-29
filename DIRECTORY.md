@@ -22,16 +22,15 @@
   * Heap
     * [MinPriorityQueue](https://github.com/TheAlgorithms/Javascript/blob/master/Data%20Structures/Heap/MinPriorityQueue.js)
   * Linked List
+    * [DoublyLinkedList](https://github.com/TheAlgorithms/Javascript/blob/master/Data%20Structures/Linked%20List/DoublyLinkedList.js)
     * [singlylinklist](https://github.com/TheAlgorithms/Javascript/blob/master/Data%20Structures/Linked%20List/singlylinklist.js)
-    * [doublylinkedlist](https://github.com/TheAlgorithms/Javascript/blob/master/Data%20Structures/Linked%20List/doublylinkedlist.js)
   * Queue
     * [Queue](https://github.com/TheAlgorithms/Javascript/blob/master/Data%20Structures/Queue/Queue.js)
   * Stack
     * [Stack](https://github.com/TheAlgorithms/Javascript/blob/master/Data%20Structures/Stack/Stack.js)
   * Tree
     * [Binary Search Tree](https://github.com/TheAlgorithms/Javascript/blob/master/Data%20Structures/Tree/Binary%20Search%20Tree.js)
-     
-    
+
 ## Hashes
   * [SHA1](https://github.com/TheAlgorithms/Javascript/blob/master/Hashes/SHA1.js)
   * [SHA256](https://github.com/TheAlgorithms/Javascript/blob/master/Hashes/SHA256.js)
