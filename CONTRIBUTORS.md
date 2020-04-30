@@ -2,8 +2,6 @@
 
 # Contributors
 
--[@rsamuell](https://github.com/rsamuell)
-
 -[@hatimmurtuza](https://github.com/LethalPants)
 
 -[@kamalpreet36](https://github.com/kamalpreet36)
@@ -8993,3 +8991,5 @@
 -[@ScalingCreativity](https://github.com/ScalingCreativity)
 
 -[@0ludeaux](https://github.com/0ludeaux)
+
+-[@rsamuell](https://github.com/rsamuell)
