@@ -22,6 +22,7 @@
   * Heap
     * [MinPriorityQueue](https://github.com/TheAlgorithms/Javascript/blob/master/Data%20Structures/Heap/MinPriorityQueue.js)
   * Linked List
+    * [DoublyLinkedList](https://github.com/TheAlgorithms/Javascript/blob/master/Data%20Structures/Linked%20List/DoublyLinkedList.js)
     * [singlylinklist](https://github.com/TheAlgorithms/Javascript/blob/master/Data%20Structures/Linked%20List/singlylinklist.js)
   * Queue
     * [Queue](https://github.com/TheAlgorithms/Javascript/blob/master/Data%20Structures/Queue/Queue.js)
@@ -43,8 +44,10 @@
 ## maths
   * [abs](https://github.com/TheAlgorithms/Javascript/blob/master/maths/abs.js)
   * [average mean](https://github.com/TheAlgorithms/Javascript/blob/master/maths/average_mean.js)
+  * [DijkstraSmallestPath](https://github.com/TheAlgorithms/Javascript/blob/master/maths/DijkstraSmallestPath.js)
   * [factorial](https://github.com/TheAlgorithms/Javascript/blob/master/maths/factorial.js)
   * [find lcm](https://github.com/TheAlgorithms/Javascript/blob/master/maths/find_lcm.js)
+  * [graph](https://github.com/TheAlgorithms/Javascript/blob/master/maths/graph.js)
 
 ## Search
   * [binarySearch](https://github.com/TheAlgorithms/Javascript/blob/master/Search/binarySearch.js)
@@ -68,4 +71,5 @@
   * [radixSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/radixSort.js)
   * [selectionSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/selectionSort.js)
   * [shellSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/shellSort.js)
+  * [TopologicalSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/TopologicalSort.js)
   * [wiggleSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/wiggleSort.js)
