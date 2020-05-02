@@ -27521,6 +27521,8 @@
 
 -[@coa16esp](https://github.com/coa16esp)
 
+-[@davidosky007](https://github.com/Davidosky007)
+
 -[@Snowton](https://github.com/Snowton)
 
 -[@stefbodhi](https://github.com/stefbodhi)
