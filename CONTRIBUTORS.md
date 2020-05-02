@@ -9265,6 +9265,8 @@
 
 -[@coa16esp](https://github.com/coa16esp)
 
+-[@wesleycheungg](https://github.com/wesleycheungg)
+
 -[@Wangsherpa](https://github.com/Wangsherpa)
 
 -[@georgesmarandache](https://github.com/georgesmarandache)
