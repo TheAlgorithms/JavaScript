@@ -9265,6 +9265,8 @@
 
 -[@coa16esp](https://github.com/coa16esp)
 
+-[@JorgeLyra](https://github.com/JorgeLyra)
+
 -[@magicdev007](https://github.com/magicdev007/)
 
 -[@KC-cyber](https://github.com/KC-cyber)
