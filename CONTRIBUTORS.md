@@ -28,6 +28,8 @@
 
 -[@cgould16](https://github.com/cgould16)
 
+-[@TerekhovaTS](https://github.com/TerekhovaTS)
+
 -[@aavesh1](https://github.com/aavesh1)
 
 -[@akashjoffl](https://github.com/akashjoffl)
