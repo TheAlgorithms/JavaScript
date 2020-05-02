@@ -28,6 +28,8 @@
 
 -[@cgould16](https://github.com/cgould16)
 
+-[@TerekhovaTS](https://github.com/TerekhovaTS)
+
 -[@aavesh1](https://github.com/aavesh1)
 
 -[@akashjoffl](https://github.com/akashjoffl)
@@ -9004,6 +9006,9 @@
 
 -[@0ludeaux](https://github.com/0ludeaux)
 
+
+-[@gprajkumar](https://github.com/gprajkumar/) 
+
 -[@delli-88](https://github.com/delli-88)
 
 -[@iOSTiago](https://github.com/iOSTiago)
@@ -9261,3 +9266,67 @@
 -[@coa16esp](https://github.com/coa16esp)
 
 -[@JorgeLyra](https://github.com/JorgeLyra)
+
+-[@magicdev007](https://github.com/magicdev007/)
+
+-[@KC-cyber](https://github.com/KC-cyber)
+
+-[@BaderElmehdi](https://github.com/BaderElmehdi)
+
+-[@ moonshot-aayushi](https://github.com/moonshot-aayushi)
+
+-[barisarabasuren](https://github.com/barisarabasuren)
+
+-[@dianajohn77](https://github.com/dianajohn77)
+
+-[@wesleycheungg](https://github.com/wesleycheungg)
+
+-[@Wangsherpa](https://github.com/Wangsherpa)
+
+-[@georgesmarandache](https://github.com/georgesmarandache)
+
+-[@MariamElbarbary](https://github.com/MariamElbarbary)
+
+-[@devo-l0per](https://github.com/devo-l0per)
+
+-[@prnv06](https://github.com/prnv06)
+
+-[@DeeDee43](https://github.com/DeeDee43)
+
+-[@magpiet](https://github.com/magpiet)
+
+-[@mykz1608](https://github.com/mykz1608)
+
+-[@TheCosmosGuardian](https://github.com/TheCosmosGuardian)
+
+-[@muhriz-khan](https://github.com/muhriz-khan)
+
+-[@RachnaPiurwar](https://github.com/RachnaPurwar)
+
+-[@manny471](https://github.com/manny471)
+
+-[basak-32](https://github.com/basak-32)
+
+-[@mittalvaibhav1](https://github.com/mittalvaibhav1/)
+
+-[@anabfaiaz](https://github.com/anabfaiaz/)
+
+-[@Yakraj](https://github.com/yakraj/)
+
+-[@Thushar-Sreenivas](https://github.com/Thushar-Sreenivas)
+
+-[@pranta-barua007](https://github.com/pranta-barua007)
+
+-[@RabbyJim](https://github.com/RabbyJim1)
+
+-[@indexindex](https://github.com/indexindex)
+
+-[@krishashah911](https://github.com/krishashah911/)
+
+-[@johnmichaelbutler](https://github.com/johnmichaelbutler)
+
+-[@kunstix](https://github.com/kunstix)
+
+-[@priyank-hub](https://github.com/priyank-hub)
+
+-[@AdrianJoooo](https://github.com/adrianjoooo)
