@@ -10,7 +10,7 @@ Welcome to [TheAlgorithms/Javascript](https://github.com/TheAlgorithms/Javascrip
 
 We are very happy that you consider implementing algorithms and data structure for others! This repository is referenced and used by learners from around the globe. Being one of our contributors, you agree and confirm that:
 
-- You did your work - no plagiarism allowed
+- You did your work - plagiarism is not allowed.
   - Any plagiarized work will not be merged.
 - Your work will be distributed under [GNU License](License) once your pull request is merged
 - You submitted work fulfils or mostly fulfils our styles and standards
