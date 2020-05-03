@@ -38,7 +38,7 @@ Algorithms should be packaged in a way that would make it easy for readers to pu
 
 Algorithms should:
 * have intuitive class and function names that make their purpose clear to readers
-* use Javascript naming conventions and intuitive variable names to ease comprehension
+* use JavaScript naming conventions and intuitive variable names to ease comprehension
 * be flexible to take different input values
 * have Javascript type hints for their input parameters and return values
 * raise Javascript exceptions (ValueError, etc.) on erroneous input values
