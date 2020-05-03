@@ -8990,8 +8990,8 @@
 
 -[@0ludeaux](https://github.com/0ludeaux)
 
--[@rsamuell](https://github.com/rsamuell)
-=======
+# -[@rsamuell](https://github.com/rsamuell)
+
 # Contributors
 
 -[@ductringuyen](https://github.com/ductringuyen)
@@ -18252,8 +18252,8 @@
 
 -[@coa16esp](https://github.com/coa16esp)
 
--[@njhnehf](https://github.com/njhnehf)
-=======
+# -[@njhnehf](https://github.com/njhnehf)
+
                           <!-- @format -->
 
 # Contributors
@@ -27264,7 +27264,7 @@
 
 -[@0ludeaux](https://github.com/0ludeaux)
 
--[@gprajkumar](https://github.com/gprajkumar/) 
+-[@gprajkumar](https://github.com/gprajkumar/)
 
 -[@delli-88](https://github.com/delli-88)
 
@@ -27723,3 +27723,5 @@
 -[@yadavsunny](https://github.com/yadavsunny)
 
 -[@samjsolomon](https://github.com/samjsolomon)
+
+-[@adamhills91](https://github.com/adamhills91)
