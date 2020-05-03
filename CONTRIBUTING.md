@@ -64,12 +64,12 @@ We want your work to be readable by others; therefore, we encourage you to note 
   - Always use 2 spaces for indentation of code blocks
     ```
 	function sumOfArray (arrayOfNumbers) {
-		let sum = 0
-		for (let i = 0; i < arrayOfNumbers.length; i++) {
-			sum += arrayOfNumbers[i]
-		}
-		return (sum)
-	}
+	    let sum = 0
+	    for (let i = 0; i < arrayOfNumbers.length; i++) {
+	      sum += arrayOfNumbers[i]
+	    }
+	    return (sum)
+	  }
 
 	```
 - Avoid using global variables and avoid '=='
