@@ -24,7 +24,7 @@ We are very happy that you consider implementing algorithms and data structure f
 We appreciate any contribution, from fixing grammar mistakes to implementing complex algorithms. Please read this section if you are contributing your work.
 
 
-Please help us keep our issue list small by adding fixes: #{$ISSUE_NO} to the commit message of pull requests that resolve open issues. GitHub will use this tag to auto close the issue when the PR is merged.
+If you submit a pull request that resolves an open issue, please help us to keep our issue list small by adding `fixes: #{$ISSUE_NO}` to your commit message. GitHub will use this tag to auto close the issue if your PR is merged.
 
 #### What is an Algorithm?
 
