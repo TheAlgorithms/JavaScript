@@ -72,7 +72,7 @@ To maximize the readability and correctness of our code, we require that new sub
 	```
 - Avoid using global variables and avoid '=='
 - Please use 'let' over 'var'
-- Better to use ECMAScript 6
+- We strongly recommend the use of ECMAScript 6
 - Avoid importing external libraries for basic algorithms. Only use those libraries for complicated algorithms.
 
 
