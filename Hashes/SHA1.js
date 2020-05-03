@@ -1,12 +1,12 @@
-//================================================================
+//= ===============================================================
 // SHA1.js
 //
-// Module that replicates the SHA-1 Cryptographic Hash 
+// Module that replicates the SHA-1 Cryptographic Hash
 // function in Javascript.
-//================================================================
+//= ===============================================================
 
-//main variables
-const CHAR_SIZE = 8;
+// main variables
+const CHAR_SIZE = 8
 
 /**
  * Adds padding to binary/hex string represention
@@ -18,12 +18,12 @@ const CHAR_SIZE = 8;
  * @example
  *      pad("10011", 8); // "00010011"
  */
-function pad(str, bits) {
-    let res = str;
-    while (res.length % bits !== 0) {
-        res = "0" + res;
-    }
-    return res;
+function pad (str, bits) {
+  let res = str
+  while (res.length % bits !== 0) {
+    res = '0' + res
+  }
+  return res
 }
 
 /**
@@ -36,12 +36,12 @@ function pad(str, bits) {
  * @example
  *      chunkify("this is a test", 2); // ["th", "is", " i", "s ", "a ", "te", "st"]
  */
-function chunkify(str, size) {
-    let chunks = [];
-    for (let i = 0; i < str.length; i += size) {
-        chunks.push(str.slice(i, i + size));
-    }
-    return chunks;
+function chunkify (str, size) {
+  const chunks = []
+  for (let i = 0; i < str.length; i += size) {
+    chunks.push(str.slice(i, i + size))
+  }
+  return chunks
 }
 
 /**
@@ -54,8 +54,8 @@ function chunkify(str, size) {
  * @example
  *      rotateLeft("1011", 3); // "1101"
  */
-function rotateLeft(bits, turns) {
-    return bits.substr(turns) + bits.substr(0, turns);
+function rotateLeft (bits, turns) {
+  return bits.substr(turns) + bits.substr(0, turns)
 }
 
 /**
@@ -64,27 +64,27 @@ function rotateLeft(bits, turns) {
  * @param {string} message - message to pre-process
  * @return {string} - processed message
  */
-function preProcess(message) {
-    //convert message to binary representation padded to
-    //8 bits, and add 1
-    let m = message.split("")
-        .map(e => e.charCodeAt(0))
-        .map(e => e.toString(2))
-        .map(e => pad(e, 8))
-        .join("") + "1";
+function preProcess (message) {
+  // convert message to binary representation padded to
+  // 8 bits, and add 1
+  let m = message.split('')
+    .map(e => e.charCodeAt(0))
+    .map(e => e.toString(2))
+    .map(e => pad(e, 8))
+    .join('') + '1'
 
-    //extend message by adding empty bits (0)
-    while (m.length % 512 !== 448) {
-        m += "0";
-    }
+  // extend message by adding empty bits (0)
+  while (m.length % 512 !== 448) {
+    m += '0'
+  }
 
-    //length of message in binary, padded, and extended
-    //to a 64 bit representation
-    let ml = (message.length * CHAR_SIZE).toString(2);
-    ml = pad(ml, 8);
-    ml = "0".repeat(64 - ml.length) + ml;
+  // length of message in binary, padded, and extended
+  // to a 64 bit representation
+  let ml = (message.length * CHAR_SIZE).toString(2)
+  ml = pad(ml, 8)
+  ml = '0'.repeat(64 - ml.length) + ml
 
-    return m + ml;
+  return m + ml
 }
 
 /**
@@ -93,90 +93,85 @@ function preProcess(message) {
  * @param {string} message - message to hash
  * @return {string} - message digest (hash value)
  */
-function SHA1(message) {
-    //main variables
-    let H0 = 0x67452301;
-    let H1 = 0xEFCDAB89;
-    let H2 = 0x98BADCFE;
-    let H3 = 0x10325476;
-    let H4 = 0xC3D2E1F0;
+function SHA1 (message) {
+  // main variables
+  let H0 = 0x67452301
+  let H1 = 0xEFCDAB89
+  let H2 = 0x98BADCFE
+  let H3 = 0x10325476
+  let H4 = 0xC3D2E1F0
 
-    //pre-process message and split into 512 bit chunks
-    let bits = preProcess(message);
-    let chunks = chunkify(bits, 512);
-    
-    chunks.forEach(function(chunk, i) {
-        //break each chunk into 16 32-bit words
-        let words = chunkify(chunk, 32);
+  // pre-process message and split into 512 bit chunks
+  const bits = preProcess(message)
+  const chunks = chunkify(bits, 512)
 
-        //extend 16 32-bit words to 80 32-bit words
-        for (let i = 16; i < 80; i++) {
-            let val = [words[i - 3], words[i - 8], words[i - 14], words[i - 16]]
-                .map(e => parseInt(e, 2))
-                .reduce((acc, curr) => curr ^ acc, 0);
-            let bin = (val >>> 0).toString(2);
-            let paddedBin = pad(bin, 32);
-            let word = rotateLeft(paddedBin, 1);
-            words.push(word);
-        }
+  chunks.forEach(function (chunk, i) {
+    // break each chunk into 16 32-bit words
+    const words = chunkify(chunk, 32)
 
-        //initialize variables for this chunk
-        let [a, b, c, d, e] = [H0, H1, H2, H3, H4];
+    // extend 16 32-bit words to 80 32-bit words
+    for (let i = 16; i < 80; i++) {
+      const val = [words[i - 3], words[i - 8], words[i - 14], words[i - 16]]
+        .map(e => parseInt(e, 2))
+        .reduce((acc, curr) => curr ^ acc, 0)
+      const bin = (val >>> 0).toString(2)
+      const paddedBin = pad(bin, 32)
+      const word = rotateLeft(paddedBin, 1)
+      words.push(word)
+    }
 
-        for (let i = 0; i < 80; i++) {
-            let f, k;
-            if (i < 20) {
-                f = (b & c) | (~b & d);
-                k = 0x5A827999;
-            }
-            else if (i < 40) {
-                f = b ^ c ^ d;
-                k = 0x6ED9EBA1;
-            }
-            else if (i < 60) {
-                f = (b & c) | (b & d) | (c & d);
-                k = 0x8F1BBCDC;
-            }
-            else {
-                f = b ^ c ^ d;
-                k = 0xCA62C1D6;
-            }
-            //make sure f is unsigned
-            f >>>= 0;
+    // initialize variables for this chunk
+    let [a, b, c, d, e] = [H0, H1, H2, H3, H4]
 
-            let aRot = rotateLeft(pad(a.toString(2), 32), 5);
-            let aInt = parseInt(aRot, 2) >>> 0;
-            let wordInt = parseInt(words[i], 2) >>> 0;
-            let t = aInt + f + e + k + wordInt;
-            e = d >>> 0;
-            d = c >>> 0;
-            let bRot = rotateLeft(pad(b.toString(2), 32), 30);
-            c = parseInt(bRot, 2) >>> 0;
-            b = a >>> 0;
-            a = t >>> 0;
+    for (let i = 0; i < 80; i++) {
+      let f, k
+      if (i < 20) {
+        f = (b & c) | (~b & d)
+        k = 0x5A827999
+      } else if (i < 40) {
+        f = b ^ c ^ d
+        k = 0x6ED9EBA1
+      } else if (i < 60) {
+        f = (b & c) | (b & d) | (c & d)
+        k = 0x8F1BBCDC
+      } else {
+        f = b ^ c ^ d
+        k = 0xCA62C1D6
+      }
+      // make sure f is unsigned
+      f >>>= 0
 
-        }
+      const aRot = rotateLeft(pad(a.toString(2), 32), 5)
+      const aInt = parseInt(aRot, 2) >>> 0
+      const wordInt = parseInt(words[i], 2) >>> 0
+      const t = aInt + f + e + k + wordInt
+      e = d >>> 0
+      d = c >>> 0
+      const bRot = rotateLeft(pad(b.toString(2), 32), 30)
+      c = parseInt(bRot, 2) >>> 0
+      b = a >>> 0
+      a = t >>> 0
+    }
 
-        //add values for this chunk to main hash variables (unsigned)
-        H0 = (H0 + a) >>> 0;
-        H1 = (H1 + b) >>> 0;
-        H2 = (H2 + c) >>> 0;
-        H3 = (H3 + d) >>> 0;
-        H4 = (H4 + e) >>> 0;
-    });
+    // add values for this chunk to main hash variables (unsigned)
+    H0 = (H0 + a) >>> 0
+    H1 = (H1 + b) >>> 0
+    H2 = (H2 + c) >>> 0
+    H3 = (H3 + d) >>> 0
+    H4 = (H4 + e) >>> 0
+  })
 
-    //combine hash values of main hash variables and return
-    let HH = [H0, H1, H2, H3, H4]
-        .map(e => e.toString(16))
-        .map(e => pad(e, 8))
-        .join("");
+  // combine hash values of main hash variables and return
+  const HH = [H0, H1, H2, H3, H4]
+    .map(e => e.toString(16))
+    .map(e => pad(e, 8))
+    .join('')
 
-    return HH;
+  return HH
 }
 
-console.log(SHA1("A Test"));
-console.log(SHA1("A Test"));
+console.log(SHA1('A Test'))
+console.log(SHA1('A Test'))
 
-//export SHA1 function
-module.exports = SHA1;
-
+// export SHA1 function
+module.exports = SHA1

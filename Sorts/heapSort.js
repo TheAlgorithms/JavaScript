@@ -6,54 +6,52 @@
 * Source: https://en.wikipedia.org/wiki/Heap_(data_structure)
 */
 Array.prototype.heapify = function (index, heapSize) {
-
-  let largest = index;
-  let leftIndex = 2 * index + 1;
-  let rightIndex = 2 * index + 2;
+  let largest = index
+  const leftIndex = 2 * index + 1
+  const rightIndex = 2 * index + 2
 
   if (leftIndex < heapSize && this[leftIndex] > this[largest]) {
-    largest = leftIndex;
+    largest = leftIndex
   }
 
   if (rightIndex < heapSize && this[rightIndex] > this[largest]) {
-    largest = rightIndex;
+    largest = rightIndex
   }
 
   if (largest !== index) {
-    let temp = this[largest];
-    this[largest] = this[index];
-    this[index] = temp;
+    const temp = this[largest]
+    this[largest] = this[index]
+    this[index] = temp
 
-    this.heapify(largest, heapSize);
+    this.heapify(largest, heapSize)
   }
-};
+}
 
 /*
 * Heap sort sorts an array by building a heap from the array and
 * utilizing the heap property.
 * For more information see: https://en.wikipedia.org/wiki/Heapsort
 */
-function heapSort(items) {
-
- let length = items.length;
+function heapSort (items) {
+  const length = items.length
 
   for (let i = Math.floor(length / 2) - 1; i > -1; i--) {
-    items.heapify(i, length);
+    items.heapify(i, length)
   }
-  for (let j = length -1; j > 0; j--) {
-    let tmp = items[0];
-    items[0] = items[j];
-    items[j] = tmp;
-    items.heapify(0, j);
+  for (let j = length - 1; j > 0; j--) {
+    const tmp = items[0]
+    items[0] = items[j]
+    items[j] = tmp
+    items.heapify(0, j)
   }
-  return items;
+  return items
 }
 
-//Implementation of heapSort
+// Implementation of heapSort
 
-var ar = [5, 6, 7, 8, 1, 2, 12, 14];
-//Array before Sort
-console.log(ar);
-heapSort(ar);
-//Array after sort
-console.log(ar);
+var ar = [5, 6, 7, 8, 1, 2, 12, 14]
+// Array before Sort
+console.log(ar)
+heapSort(ar)
+// Array after sort
+console.log(ar)

@@ -4,50 +4,49 @@
 * significant position.
 * For more information see: https://en.wikipedia.org/wiki/Radix_sort
 */
-function radixSort(items, RADIX) {
-
-  //default radix is then because we usually count to base 10
+function radixSort (items, RADIX) {
+  // default radix is then because we usually count to base 10
   if (RADIX === undefined || RADIX < 1) {
-    RADIX = 10;
+    RADIX = 10
   }
 
-  var maxLength = false;
-  var placement = 1;
+  var maxLength = false
+  var placement = 1
 
   while (!maxLength) {
-    maxLength = true;
-    var buckets = [];
+    maxLength = true
+    var buckets = []
 
     for (var i = 0; i < RADIX; i++) {
-      buckets.push([]);
+      buckets.push([])
     }
 
     for (var j = 0; j < items.length; j++) {
-      var tmp = items[j] / placement;
-      buckets[Math.floor(tmp % RADIX)].push(items[j]);
+      var tmp = items[j] / placement
+      buckets[Math.floor(tmp % RADIX)].push(items[j])
       if (maxLength && tmp > 0) {
-        maxLength = false;
+        maxLength = false
       }
     }
 
-    var a = 0;
+    var a = 0
     for (var b = 0; b < RADIX; b++) {
-      var buck = buckets[b];
+      var buck = buckets[b]
       for (var k = 0; k < buck.length; k++) {
-        items[a] = buck[k];
-        a++;
+        items[a] = buck[k]
+        a++
       }
     }
-    placement *= RADIX;
+    placement *= RADIX
   }
-  return items;
+  return items
 }
 
-//Implementation of radixSort
+// Implementation of radixSort
 
-var ar = [5, 6, 7, 8, 1, 2, 12, 14];
-//Array before Sort
-console.log(ar);
-radixSort(ar);
-//Array after sort
-console.log(ar);
+var ar = [5, 6, 7, 8, 1, 2, 12, 14]
+// Array before Sort
+console.log(ar)
+radixSort(ar)
+// Array after sort
+console.log(ar)
