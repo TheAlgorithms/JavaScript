@@ -27524,6 +27524,8 @@
 
 -[@coa16esp](https://github.com/coa16esp)
 
+-[@MisanEnemigin](https://github.com/MisanEnemigin)
+
 -[@mofarril](https://github.com/mofarril)
 
 -[@vipin978](https://github.com/vipin978)
@@ -27633,3 +27635,33 @@
 -[@passinho](https://github.com/passinho)
 
 -[@SamedYalniz](https://github.com/SamedYalnizz)
+
+-[@vivekrajx](https://github.com/vivekrajx)
+
+-[@ingvarr777](https://github.com/ingvarr777)
+
+-[@bdb5075](https://github.com/bdb5075)
+
+-[@mrkmcode](https://github.com/mrkmcode)
+
+-[@FareedKhan-dev](https://github.com/FareedKhan-dev)
+
+-[@eoNicholls](https://github.com/eoNicholls)
+
+-[@justforme7](https://github.com/justforme7)
+
+-[@kmhmubin](https://github.com/kmhmubin)
+
+-[@rash-eed-pixel](https://github.com/rash-eed-pixel)
+
+-[@subho2107](https://github.com/subho2107)
+
+-[@akirap3](https://github.com/akirap3)
+
+-[@chase46](https://github.com/chase46)
+
+-[@Ahren-with-an-h](https://github.com/Ahren-with-an-h)
+
+-[@yadavsunny](https://github.com/yadavsunny)
+
+-[@samjsolomon](https://github.com/samjsolomon)
