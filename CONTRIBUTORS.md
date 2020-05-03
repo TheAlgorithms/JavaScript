@@ -27634,6 +27634,8 @@
 
 -[@passinho](https://github.com/passinho)
 
+-[@FareedKhan-dev](https://github.com/FareedKhan-dev)
+
 -[@eoNicholls](https://github.com/eoNicholls)
 
 -[@justforme7](https://github.com/justforme7)
