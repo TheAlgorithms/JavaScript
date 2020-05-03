@@ -27524,6 +27524,8 @@
 
 -[@coa16esp](https://github.com/coa16esp)
 
+-[@chrischandler](https://github.com/chrischandler)
+
 -[@jibgittry](https://github.com/jibgittry)
 
 -[@Tusjain28](https://github.com/Tusjain28)
