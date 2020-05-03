@@ -5,22 +5,22 @@
  */
 
 Array.prototype.wiggleSort = function () {
-    for (let i = 0; i < this.length; ++i) {
-        const shouldNotBeLessThan = i % 2;
-        const isLessThan = this[i] < this[i + 1];
-        if (shouldNotBeLessThan && isLessThan) {
-            [this[i], this[i + 1]] = [this[i + 1], this[i]];
-        }
+  for (let i = 0; i < this.length; ++i) {
+    const shouldNotBeLessThan = i % 2
+    const isLessThan = this[i] < this[i + 1]
+    if (shouldNotBeLessThan && isLessThan) {
+      [this[i], this[i + 1]] = [this[i + 1], this[i]]
     }
-    return this;
-};
+  }
+  return this
+}
 
-//Implementation of wiggle sort
+// Implementation of wiggle sort
 
-var arr = [3, 5, 2, 1, 6, 4];
-//Array before Wiggle Sort
-console.log(arr); //[3, 5, 2, 1, 6, 4]
+var arr = [3, 5, 2, 1, 6, 4]
+// Array before Wiggle Sort
+console.log(arr) // [3, 5, 2, 1, 6, 4]
 
 arr.wiggleSort()
-//Array after wiggle sort
-console.log(arr); // [ 3, 5, 2, 6, 1, 4 ]
+// Array after wiggle sort
+console.log(arr) // [ 3, 5, 2, 6, 1, 4 ]
