@@ -48,18 +48,29 @@ Algorithms in this repo should not be how-to examples for existing Javascript pa
 #### Coding Style
 
 We want your work to be readable by others; therefore, we encourage you to note the following:
+- Must follow [JavaScript Standard Style](https://standardjs.com/)
+  - Command to  install JavaScript Standard Style
+    ```
+	  $ npm install standard --save-dev
+	```
+  - Usage
+    ```
+	$ standard
+	```
+
 - Use camelCase for identifier names (variables and functions)
 - Names start with a letter
 - follow code indentation
   - Always use 2 spaces for indentation of code blocks
     ```
-	function sumOfArray(arrayOfNumbers) {
-		let sum = 0;
+	function sumOfArray (arrayOfNumbers) {
+		let sum = 0
 		for (let i = 0; i < arrayOfNumbers.length; i++) {
-			sum += arrayOfNumbers[i];
+			sum += arrayOfNumbers[i]
 		}
-		return (sum);
+		return (sum)
 	}
+
 	```
 - Avoid using global variables and avoid '=='
 - use 'let' over 'var'
