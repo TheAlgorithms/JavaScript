@@ -56,7 +56,7 @@ To maximize the readability and correctness of our code, we require that new sub
     $ standard MyFile.js  // if that fails, try: npx standard MyFile.js
     ```
 
-- Use camelCase for identifier names (variables and functions)
+- Use camelCase for with leading character lowercase for identifier names (variables and functions)
 - Names start with a letter
 - follow code indentation
   - Always use 2 spaces for indentation of code blocks
