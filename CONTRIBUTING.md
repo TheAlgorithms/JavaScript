@@ -8,7 +8,7 @@ Welcome to [TheAlgorithms/Javascript](https://github.com/TheAlgorithms/Javascrip
 
 ### Contributor
 
-We are very happy that you consider implementing algorithms and data structure for others! This repository is referenced and used by learners from all over the globe. Being one of our contributors, you agree and confirm that:
+We are very happy that you consider implementing algorithms and data structure for others! This repository is referenced and used by learners from around the globe. Being one of our contributors, you agree and confirm that:
 
 - You did your work - no plagiarism allowed
   - Any plagiarized work will not be merged.
