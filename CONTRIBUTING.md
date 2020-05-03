@@ -42,7 +42,7 @@ Algorithms should:
 * be flexible to take different input values
 * raise JavaScript exceptions (RangeError, etc.) on erroneous input values
 
-Algorithms in this repo should not be how-to examples for existing Javascript packages.  Instead, they should perform internal calculations or manipulations to convert input values into different output values.  Those calculations or manipulations can use data types, classes, or functions of existing Javascript packages but each algorithm in this repo should add unique value.
+Algorithms in this repo should not be how-to examples for existing JavaScript packages.  Instead, they should perform internal calculations or manipulations to convert input values into different output values.  Those calculations or manipulations can use data types, classes, or functions of existing JavaScript packages but each algorithm in this repo should add unique value.
 
 #### Coding Style
 
