@@ -40,7 +40,6 @@ Algorithms should:
 * have intuitive class and function names that make their purpose clear to readers
 * use JavaScript naming conventions and intuitive variable names to ease comprehension
 * be flexible to take different input values
-* have Javascript type hints for their input parameters and return values
 * raise Javascript exceptions (ValueError, etc.) on erroneous input values
 
 Algorithms in this repo should not be how-to examples for existing Javascript packages.  Instead, they should perform internal calculations or manipulations to convert input values into different output values.  Those calculations or manipulations can use data types, classes, or functions of existing Javascript packages but each algorithm in this repo should add unique value.
