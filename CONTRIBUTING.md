@@ -46,16 +46,15 @@ Algorithms in this repo should not be how-to examples for existing JavaScript pa
 
 #### Coding Style
 
-We want your work to be readable by others; therefore, we encourage you to note the following:
-- Must follow [JavaScript Standard Style](https://standardjs.com/)
+To maximize the readability and correctness of our code, we require that new submissions follow [JavaScript Standard Style](https://standardjs.com/)
   - Command to  install JavaScript Standard Style
     ```
-	  $ npm install standard --save-dev
-	```
+    $ npm install standard --save-dev
+    ```
   - Usage
     ```
-	$ standard
-	```
+    $ standard MyFile.js  // if that fails, try: npx standard MyFile.js
+    ```
 
 - Use camelCase for identifier names (variables and functions)
 - Names start with a letter
