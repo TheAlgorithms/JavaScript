@@ -1,4 +1,3 @@
-
 class Graph {
   constructor () {
     this.adjacencyMap = {}
@@ -42,3 +41,4 @@ const example = () => {
   g.addEdge(1, 3)
   g.printGraph()
 }
+example()
