@@ -13,7 +13,7 @@ var Stack = (function () {
     // The top of the Stack
     this.top = 0
     // The array representation of the stack
-    this.stack = new Array()
+    this.stack = []
   }
 
   // Adds a value onto the end of the stack

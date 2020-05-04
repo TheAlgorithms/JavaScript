@@ -1,6 +1,6 @@
 /**
  * Check if the Character is letter or not
- * @param {String} character - character to check
+ * @param {String} str - character to check
  * @return {object} An array with the character or null if isn't a letter
  */
 function isLetter (str) {
@@ -13,10 +13,10 @@ function isLetter (str) {
  * @return {Boolean} result of the checking
  */
 function isUpperCase (character) {
-  if (character == character.toUpperCase()) {
+  if (character === character.toUpperCase()) {
     return true
   }
-  if (character == character.toLowerCase()) {
+  if (character === character.toLowerCase()) {
     return false
   }
 }
