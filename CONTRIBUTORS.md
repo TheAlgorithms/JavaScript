@@ -27264,7 +27264,7 @@
 
 -[@0ludeaux](https://github.com/0ludeaux)
 
--[@gprajkumar](https://github.com/gprajkumar/) 
+-[@gprajkumar](https://github.com/gprajkumar/)
 
 -[@delli-88](https://github.com/delli-88)
 
@@ -27524,6 +27524,8 @@
 
 -[@coa16esp](https://github.com/coa16esp)
 
+-[@OjimahGabriel](https://github.com/OjimahGabriel)
+
 -[@brandon-olin](https://github.com/brandon-olin)
 
 -[@chrischandler](https://github.com/chrischandler)
@@ -27731,3 +27733,31 @@
 -[@samjsolomon](https://github.com/samjsolomon)
 
 -[@ashish-puttaa](https://github.com/ashish-puttaa)
+
+-[@ztollef](https://github.com/ztollef)
+
+-[@byozdemr](https://github.com/byozdemr)
+
+-[@MustafaAlhamadani](https://github.com/MustafaAlhamadani)
+
+-[@pavanreddy560](https://github.com/pavanreddy560)
+
+-[@dev-abdel](https://github.com/dev-abdel)
+
+-[@SanketPatne](https://github.com/SanketPatne)
+
+-[@dnow2000](https://github.com/dnow2000)
+
+-[@ViktorijaSiktorija](https://github.com/ViktorijaSiktorija)
+
+-[@rezakar](https://github.com/rezakar)
+
+-[@Manik5](https://github.com/Manik5)
+
+-[@rgdeekshith](https://github.com/rgdeekshith)
+
+-[@veotaar](https://github.com/veotaar)
+
+-[@giladdek](https://github.com/giladdek)
+
+-[@janusonyte](https://github.com/janusonyte)
