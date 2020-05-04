@@ -13,21 +13,21 @@
 
 // Find the LCM of two numbers.
 function findLcm (num1, num2) {
-  var max_num
+  var maxNum
   var lcm
   // Check to see whether num1 or num2 is larger.
   if (num1 > num2) {
-    max_num = num1
+    maxNum = num1
   } else {
-    max_num = num2
+    maxNum = num2
   }
-  lcm = max_num
+  lcm = maxNum
 
   while (true) {
     if ((lcm % num1 === 0) && (lcm % num2 === 0)) {
       break
     }
-    lcm += max_num
+    lcm += maxNum
   }
   return lcm
 }
