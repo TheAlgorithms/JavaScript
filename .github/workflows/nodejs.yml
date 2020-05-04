@@ -18,6 +18,7 @@ jobs:
         npm ci
         npm run build --if-present
         npm test
+        cd ..
         npm install standard --save-dev
         npx standard || true  # several files are still on compliant
       env:
