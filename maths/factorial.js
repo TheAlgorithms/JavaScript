@@ -13,7 +13,7 @@
 
 'use strict'
 
-function calc_range (num) {
+function calcRange (num) {
   // Generate a range of numbers from 1 to `num`.
   var i = 1
   var range = []
@@ -24,9 +24,9 @@ function calc_range (num) {
   return range
 }
 
-function calc_factorial (num) {
+function calcFactorial (num) {
   var factorial
-  var range = calc_range(num)
+  var range = calcRange(num)
 
   // Check if the number is negative, positive, null, undefined, or zero
   if (num < 0) {
@@ -48,5 +48,6 @@ function calc_factorial (num) {
 }
 
 // Run `factorial` Function to find average of a list of numbers.
+// global alert, prompt
 var num = prompt('Enter a number: ')
-alert(calc_factorial(num))
+alert(calcFactorial(num))
