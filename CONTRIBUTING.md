@@ -12,7 +12,7 @@ We are very happy that you consider implementing algorithms and data structure f
 
 - You did your work - plagiarism is not allowed.
   - Any plagiarized work will not be merged.
-- Your work will be distributed under [GNU License](License) once your pull request is merged
+- Your work will be distributed under [GNU License](LICENSE) once your pull request is merged
 - You submitted work fulfils or mostly fulfils our styles and standards
 
 **New implementation** is welcome! For example, new solutions to a problem, different representations of a graph data structure or algorithm designs with different complexity.
