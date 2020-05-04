@@ -125,43 +125,43 @@ function SHA256 (message) {
 
     // extend 16 32-bit words to 80 32-bit words
     for (let i = 16; i < 64; i++) {
-        	const W1 = words[i - 15]
-        	const W2 = words[i - 2]
+      const W1 = words[i - 15]
+      const W2 = words[i - 2]
       const R1 = rotateRight(W1, 7)
       const R2 = rotateRight(W1, 18)
       const R3 = rotateRight(W2, 17)
       const R4 = rotateRight(W2, 19)
       const S0 = parseInt(R1, 2) ^ parseInt(R2, 2) ^ (parseInt(W1, 2) >>> 3)
-	    	const S1 = parseInt(R3, 2) ^ parseInt(R4, 2) ^ (parseInt(W2, 2) >>> 10)
-           	const val = parseInt(words[i - 16], 2) + S0 + parseInt(words[i - 7], 2) + S1
-           	words[i] = pad((val >>> 0).toString(2), 32)
+      const S1 = parseInt(R3, 2) ^ parseInt(R4, 2) ^ (parseInt(W2, 2) >>> 10)
+      const val = parseInt(words[i - 16], 2) + S0 + parseInt(words[i - 7], 2) + S1
+      words[i] = pad((val >>> 0).toString(2), 32)
     }
 
     // initialize variables for this chunk
     let [a, b, c, d, e, f, g, h] = [H0, H1, H2, H3, H4, H5, H6, H7]
 
     for (let i = 0; i < 64; i++) {
-        	const S1 = [6, 11, 25]
-	        	.map(turns => rotateRight(pad(e.toString(2), 32), turns))
-	        	.map(bitstring => parseInt(bitstring, 2))
-        		.reduce((acc, curr) => acc ^ curr, 0) >>> 0
-        	const CH = ((e & f) ^ (~e & g)) >>> 0
-        	const temp1 = (h + S1 + CH + K[i] + parseInt(words[i], 2)) >>> 0
-        	const S0 = [2, 13, 22]
-	        	.map(turns => rotateRight(pad(a.toString(2), 32), turns))
-	        	.map(bitstring => parseInt(bitstring, 2))
-        		.reduce((acc, curr) => acc ^ curr, 0) >>> 0
-        	const maj = ((a & b) ^ (a & c) ^ (b & c)) >>> 0
-        	const temp2 = (S0 + maj) >>> 0
+      const S1 = [6, 11, 25]
+        .map(turns => rotateRight(pad(e.toString(2), 32), turns))
+        .map(bitstring => parseInt(bitstring, 2))
+        .reduce((acc, curr) => acc ^ curr, 0) >>> 0
+      const CH = ((e & f) ^ (~e & g)) >>> 0
+      const temp1 = (h + S1 + CH + K[i] + parseInt(words[i], 2)) >>> 0
+      const S0 = [2, 13, 22]
+        .map(turns => rotateRight(pad(a.toString(2), 32), turns))
+        .map(bitstring => parseInt(bitstring, 2))
+        .reduce((acc, curr) => acc ^ curr, 0) >>> 0
+      const maj = ((a & b) ^ (a & c) ^ (b & c)) >>> 0
+      const temp2 = (S0 + maj) >>> 0
 
-        	h = g
-        	g = f
-        	f = e
-        	e = (d + temp1) >>> 0
-        	d = c
-        	c = b
-        	b = a
-        	a = (temp1 + temp2) >>> 0
+      h = g
+      g = f
+      f = e
+      e = (d + temp1) >>> 0
+      d = c
+      c = b
+      b = a
+      a = (temp1 + temp2) >>> 0
     }
 
     // add values for this chunk to main hash variables (unsigned)
