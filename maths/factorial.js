@@ -48,6 +48,6 @@ function calcFactorial (num) {
 }
 
 // Run `factorial` Function to find average of a list of numbers.
-// global alert, prompt
+/* global alert, prompt */
 var num = prompt('Enter a number: ')
 alert(calcFactorial(num))
