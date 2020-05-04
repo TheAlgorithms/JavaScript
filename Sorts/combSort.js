@@ -14,6 +14,7 @@ elements goes down (for each iteration of outer loop) in steps of
 a "shrink factor" k: [ n/k, n/k2, n/k3, ..., 1 ].
 
 */
+
 function combSort (list) {
   if (list.length === 0) {
     return list
@@ -45,6 +46,6 @@ function combSort (list) {
 const arrOrignal = [5, 6, 7, 8, 1, 2, 12, 14]
 // Array before Sort
 console.log(arrOrignal)
-arrSorted = combSort(arrOrignal)
+const arrSorted = combSort(arrOrignal)
 // Array after sort
 console.log(arrSorted)

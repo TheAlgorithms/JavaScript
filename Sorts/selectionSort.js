@@ -7,6 +7,7 @@
  *In every iteration of selection sort, the minimum element (considering ascending order)
  *from the unsorted subarray is picked and moved to the sorted subarray.
  */
+
 function selectionSort (items) {
   var length = items.length
   for (var i = 0; i < length - 1; i++) {
@@ -17,7 +18,7 @@ function selectionSort (items) {
         min = j // Change the current min number position if a smaller num is found
       }
     }
-    if (min != i) {
+    if (min !== i) {
       // After each pass, if the current min num != initial min num, exchange the position.
       // Swap the numbers
       var tmp = items[i]
