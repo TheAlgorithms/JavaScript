@@ -52,9 +52,11 @@ function bucketSort (list, size) {
   }
   return sorted
 }
+
+// Testing
 const arrOrignal = [5, 6, 7, 8, 1, 2, 12, 14]
 // Array before Sort
 console.log(arrOrignal)
-arrSorted = bucketSort(arrOrignal)
+const arrSorted = bucketSort(arrOrignal)
 // Array after sort
 console.log(arrSorted)

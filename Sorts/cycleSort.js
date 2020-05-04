@@ -5,6 +5,7 @@ number of writes to the original array, unlike any other in-place sorting
 algorithm. It is based on the idea that the permutation to be sorted can
 be factored into cycles, which can individually be rotated to give a sorted result.
 */
+
 function cycleSort (list) {
   let writes = 0
   for (let cycleStart = 0; cycleStart < list.length; cycleStart++) {
@@ -18,11 +19,11 @@ function cycleSort (list) {
       }
     }
     // if its the same continue
-    if (position == cycleStart) {
+    if (position === cycleStart) {
       continue
     }
 
-    while (value == list[position]) {
+    while (value === list[position]) {
       position++
     }
 
@@ -32,14 +33,14 @@ function cycleSort (list) {
     writes++
 
     // rotate the rest
-    while (position != cycleStart) {
+    while (position !== cycleStart) {
       position = cycleStart
       for (let i = cycleStart + 1; i < list.length; i++) {
         if (list[i] < value) {
           position++
         }
       }
-      while (value == list[position]) {
+      while (value === list[position]) {
         position++
       }
       const oldValueCycle = list[position]

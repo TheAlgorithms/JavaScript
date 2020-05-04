@@ -5,6 +5,7 @@
 * key (the value) of node P is greater than the key of node C"
 * Source: https://en.wikipedia.org/wiki/Heap_(data_structure)
 */
+
 Array.prototype.heapify = function (index, heapSize) {
   let largest = index
   const leftIndex = 2 * index + 1
