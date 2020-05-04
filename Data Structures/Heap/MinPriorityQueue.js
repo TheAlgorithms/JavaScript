@@ -12,7 +12,7 @@
 // Functions: insert, delete, peek, isEmpty, print, heapSort, sink
 
 class MinPriorityQueue {
-  // calss the constructor and initializes the capacity
+  // calls the constructor and initializes the capacity
   constructor (c) {
     this.heap = []
     this.capacity = c
@@ -43,13 +43,12 @@ class MinPriorityQueue {
 
   // returns boolean value whether the heap is empty or not
   isEmpty () {
-    if (this.size == 0) return true
-    return false
+    return this.size === 0
   }
 
   // returns boolean value whether the heap is full or not
   isFull () {
-    if (this.size == this.capacity) return true
+    if (this.size === this.capacity) return true
     return false
   }
 
@@ -111,7 +110,7 @@ class MinPriorityQueue {
 }
 
 // testing
-q = new MinPriorityQueue(8)
+const q = new MinPriorityQueue(8)
 
 q.insert(5)
 q.insert(2)

@@ -21,7 +21,7 @@ var Node = (function () {
 
   // Search the tree for a value
   Node.prototype.search = function (val) {
-    if (this.value == val) {
+    if (this.value === val) {
       return this
     } else if (val < this.value && this.left != null) {
       return this.left.search(val)

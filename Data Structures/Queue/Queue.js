@@ -23,7 +23,7 @@ var Queue = (function () {
   // Removes the value at the front of the queue
   Queue.prototype.dequeue = function () {
     if (this.queue.length === 0) {
-      throw 'Queue is Empty'
+      throw new Error('Queue is Empty')
     }
 
     var result = this.queue[0]
