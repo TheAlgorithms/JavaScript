@@ -2912,8 +2912,6 @@
 
 -[@ryanKim](https://github.com/RyanRyungKim)
 
--[@b-ed](https://github.com/b-ed)
-
 -[@meyer744](https://github.com/meyer744/)
 
 -[@jmar90](https://github.com/jmar90)
@@ -8990,8 +8988,8 @@
 
 -[@0ludeaux](https://github.com/0ludeaux)
 
--[@rsamuell](https://github.com/rsamuell)
-=======
+# -[@rsamuell](https://github.com/rsamuell)
+
 # Contributors
 
 -[@ductringuyen](https://github.com/ductringuyen)
@@ -18252,8 +18250,8 @@
 
 -[@coa16esp](https://github.com/coa16esp)
 
--[@njhnehf](https://github.com/njhnehf)
-=======
+# -[@njhnehf](https://github.com/njhnehf)
+
                           <!-- @format -->
 
 # Contributors
@@ -27264,7 +27262,7 @@
 
 -[@0ludeaux](https://github.com/0ludeaux)
 
--[@gprajkumar](https://github.com/gprajkumar/) 
+-[@gprajkumar](https://github.com/gprajkumar/)
 
 -[@delli-88](https://github.com/delli-88)
 
@@ -27524,6 +27522,8 @@
 
 -[@coa16esp](https://github.com/coa16esp)
 
+-[@OjimahGabriel](https://github.com/OjimahGabriel)
+
 -[@brandon-olin](https://github.com/brandon-olin)
 
 -[@chrischandler](https://github.com/chrischandler)
@@ -27732,3 +27732,54 @@
 
 -[@eachaab](https://github.com/eachaab/)
 
+-[@adamhills91](https://github.com/adamhills91)
+
+-[@brianjpow](https://github.com/brianjpow)
+
+-[@manjiri-vadujkar](https://github.com/manjiri-vadujkar)
+
+-[@ashish-puttaa](https://github.com/ashish-puttaa)
+
+-[@ztollef](https://github.com/ztollef)
+
+-[@byozdemr](https://github.com/byozdemr)
+
+-[@MustafaAlhamadani](https://github.com/MustafaAlhamadani)
+
+-[@pavanreddy560](https://github.com/pavanreddy560)
+
+-[@dev-abdel](https://github.com/dev-abdel)
+
+-[@SanketPatne](https://github.com/SanketPatne)
+
+-[@dnow2000](https://github.com/dnow2000)
+
+-[@ViktorijaSiktorija](https://github.com/ViktorijaSiktorija)
+
+-[@rezakar](https://github.com/rezakar)
+
+-[@Manik5](https://github.com/Manik5)
+
+-[@rgdeekshith](https://github.com/rgdeekshith)
+
+-[@veotaar](https://github.com/veotaar)
+
+-[@giladdek](https://github.com/giladdek)
+
+-[@janusonyte](https://github.com/janusonyte)
+
+-[@Ahajuu](https://github.com/Ahajuu)
+
+-[@abhishek9686](https://github.com/abhishek9686)
+
+-[@RohiniRG](https://github.com/RohiniRG)
+
+-[@aiswarya8110](https://github.com/aiswarya8110)
+
+-[@USBrido](https://github.com/USBrido)
+
+-[@b-ed](https://github.com/b-ed)
+
+-[@Ritika-soni](https://github.com/Ritika-soni)
+
+-[@rajputking1106](https://github.com/rajputking1106)
