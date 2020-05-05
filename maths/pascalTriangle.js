@@ -1,4 +1,4 @@
-const numRows = 5                                                                                                                                      
+const numRows = 5
 
 var generate = function (numRows) {
   const triangle = [[1], [1, 1]]
