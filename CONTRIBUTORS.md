@@ -27768,6 +27768,8 @@
 
 -[@janusonyte](https://github.com/janusonyte)
 
+-[@r3m00n](https://github.com/r3m00n)
+
 -[@sharma7276](https://github.com/sharma7276/)
 
 -[@davecade](https://github.com/davecade)
