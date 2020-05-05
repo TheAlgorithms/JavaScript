@@ -1,16 +1,33 @@
-/**
- * @param {number} lineNumber - zero based.
- * @return {number[]}
- */
-export default function pascalTriangle(lineNumber) {
-  const currentLine = [1];
+let numRows = 5
 
-  const currentLineSize = lineNumber + 1;
-
-  for (let numIndex = 1; numIndex < currentLineSize; numIndex += 1) {
-    // See explanation of this formula in README.
-    currentLine[numIndex] = currentLine[numIndex - 1] * (lineNumber - numIndex + 1) / numIndex;
-  }
-
-  return currentLine;
+var generate = function(numRows) {
+    let triangle = [[1], [1,1]]
+    
+    if(numRows === 0){
+        return []
+    } else if(numRows == 1){
+        return [[1]]       
+    } else if(numRows == 2){
+        return  [[1], [1,1]]
+    } else {      
+        for(let i = 2; i < numRows; i++){       
+            addRow(triangle)
+        }
+    }
+    return triangle
+    
+};
+var addRow = function(triangle){
+    let previous = triangle[triangle.length - 1]
+    let newRow = [1]
+    for(let i = 0; i < previous.length - 1; i++){
+        let current = previous[i]
+        let next = previous[i+1] 
+        newRow.push(current + next)
+    }
+    newRow.push(1)
+    return triangle.push(newRow)
+    
 }
+
+generate(numRows)
