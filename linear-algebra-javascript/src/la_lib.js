@@ -14,17 +14,19 @@ var LinearAlgebra;
   var Vector = /** @class */ (function () {
     // constructor
     function Vector (N, comps) {
-      if (comps === void 0) { comps = [] }
+      if (comps === undefined) {
+        comps = []
+      }
       this.components = new Array(N)
-      if (comps.length == 0) {
+      if (comps.length === 0) {
         for (var i = 0; i < N; i++) {
           this.components[i] = 0.0
         }
       } else {
-        if (N == comps.length) {
+        if (N === comps.length) {
           this.components = comps
         } else {
-          throw 'Vector: invalide size!'
+          throw new Error('Vector: invalide size!')
         }
       }
     } // end of constructor
@@ -51,12 +53,12 @@ var LinearAlgebra;
       if (index >= 0 && index < this.components.length) {
         this.components[index] = value
       } else {
-        throw 'changeComponent: index out of bounds!'
+        throw new Error('changeComponent: index out of bounds!')
       }
     }
     // vector addition
     Vector.prototype.add = function (other) {
-      if (this.size() == other.size()) {
+      if (this.size() === other.size()) {
         var SIZE = this.size()
         var ans = new Vector(SIZE)
         for (var i = 0; i < SIZE; i++) {
@@ -64,12 +66,12 @@ var LinearAlgebra;
         }
         return ans
       } else {
-        throw 'add: vector must have same size!'
+        throw new Error('add: vector must have same size!')
       }
     }
     // vector subtraction
     Vector.prototype.sub = function (other) {
-      if (this.size() == other.size()) {
+      if (this.size() === other.size()) {
         var SIZE = this.size()
         var ans = new Vector(SIZE)
         for (var i = 0; i < SIZE; i++) {
@@ -77,20 +79,20 @@ var LinearAlgebra;
         }
         return ans
       } else {
-        throw 'add: vector must have same size!'
+        throw new Error('add: vector must have same size!')
       }
     }
     // dot-product
     Vector.prototype.dot = function (other) {
       var sum = 0
-      if (other.size() == this.size()) {
+      if (other.size() === this.size()) {
         var SIZE = other.size()
         for (var i = 0; i < SIZE; i++) {
           sum += this.components[i] * other.component(i)
         }
         return sum
       } else {
-        throw 'dot: vectors must have same size!'
+        throw new Error('dot: vectors must have same size!')
       }
     }
     // scalar multiplication
@@ -120,14 +122,14 @@ var LinearAlgebra;
     Vector.prototype.createUnitBasis = function (pos) {
       if (pos >= 0 && pos < this.components.length) {
         for (var i = 0; i < this.components.length; i++) {
-          if (i == pos) {
+          if (i === pos) {
             this.components[i] = 1.0
           } else {
             this.components[i] = 0.0
           }
         }
       } else {
-        throw 'createUnitBasis: index out of bounds'
+        throw new Error('createUnitBasis: index out of bounds')
       }
       return this
     }
@@ -145,7 +147,7 @@ var LinearAlgebra;
       var ans = true
       var SIZE = this.size()
       var EPSILON = 0.001
-      if (SIZE == other.size()) {
+      if (SIZE === other.size()) {
         for (var i = 0; i < SIZE; i++) {
           if (Math.abs(this.components[i] - other.component(i)) > EPSILON) {
             ans = false
@@ -164,7 +166,7 @@ var LinearAlgebra;
   function unitBasisVector (N, pos) {
     var ans = new Vector(N)
     for (var i = 0; i < N; i++) {
-      if (i == pos) {
+      if (i === pos) {
         ans.changeComponent(i, 1.0)
       } else {
         ans.changeComponent(i, 0)
@@ -199,16 +201,18 @@ var LinearAlgebra;
   var Matrix = /** @class */ (function () {
     // constructor for zero-matrix or fix number matrix.
     function Matrix (row, col, comps) {
-      if (comps === void 0) { comps = [] }
-      if (comps.length == 0) {
-        this.matrix = new Array()
-        var rowVector = new Array()
+      if (comps === undefined) {
+        comps = []
+      }
+      if (comps.length === 0) {
+        this.matrix = []
+        var rowVector = []
         for (var i = 0; i < row; i++) {
           for (var j = 0; j < col; j++) {
             rowVector[j] = 0
           }
           this.matrix[i] = rowVector
-          rowVector = new Array()
+          rowVector = []
         }
       } else {
         this.matrix = comps
@@ -253,15 +257,15 @@ var LinearAlgebra;
     }
     // returns the dimension rows x cols as number array
     Matrix.prototype.dimension = function () {
-      var ans = new Array()
+      var ans = []
       ans[0] = this.rows
       ans[1] = this.cols
       return ans
     }
     // matrix addition. returns the result.
     Matrix.prototype.add = function (other) {
-      if (this.rows == other.dimension()[0] &&
-                this.cols == other.dimension()[1]) {
+      if (this.rows === other.dimension()[0] &&
+        this.cols === other.dimension()[1]) {
         var ans = new Matrix(this.rows, this.cols)
         for (var i = 0; i < this.rows; i++) {
           for (var j = 0; j < this.cols; j++) {
@@ -277,8 +281,8 @@ var LinearAlgebra;
     Matrix.prototype.equal = function (other) {
       var ans = true
       var EPSILON = 0.001
-      if (this.rows == other.dimension()[0] &&
-                this.cols == other.dimension()[1]) {
+      if (this.rows === other.dimension()[0] &&
+        this.cols === other.dimension()[1]) {
         for (var i = 0; i < this.rows; i++) {
           for (var j = 0; j < this.cols; j++) {
             if (Math.abs(this.matrix[i][j] - other.component(i, j)) > EPSILON) {
