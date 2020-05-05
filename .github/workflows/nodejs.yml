@@ -15,7 +15,7 @@ jobs:
     - name: npm install, build, and test
       run: |
         npm install standard --save-dev
-        npx standard || true  # several files are still on compliant
+        npx standard 
         cd linear-algebra-javascript
         npm ci
         npm run build --if-present
