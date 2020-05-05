@@ -2,6 +2,8 @@
  * A simple helper function that checks, if the array is
  * sorted in ascending order.
  */
+
+/* eslint no-extend-native: ["off", { "exceptions": ["Object"] }] */
 Array.prototype.isSorted = function () {
   const length = this.length
 

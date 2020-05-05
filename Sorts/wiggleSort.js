@@ -4,6 +4,7 @@
  *
  */
 
+/* eslint no-extend-native: ["off", { "exceptions": ["Object"] }] */
 Array.prototype.wiggleSort = function () {
   for (let i = 0; i < this.length; ++i) {
     const shouldNotBeLessThan = i % 2
