@@ -26,6 +26,7 @@
     * [singlylinklist](https://github.com/TheAlgorithms/Javascript/blob/master/Data%20Structures/Linked%20List/singlylinklist.js)
   * Queue
     * [Queue](https://github.com/TheAlgorithms/Javascript/blob/master/Data%20Structures/Queue/Queue.js)
+    * [QueueUsing2Stacks](https://github.com/TheAlgorithms/Javascript/blob/master/Data%20Structures/Queue/QueueUsing2Stacks.js)
   * Stack
     * [Stack](https://github.com/TheAlgorithms/Javascript/blob/master/Data%20Structures/Stack/Stack.js)
   * Tree
