@@ -1,7 +1,7 @@
 
 ## Algorithms
-  * dynamic programming
-    * [fibonacci](https://github.com/TheAlgorithms/Javascript/blob/master/Algorithms/dynamic_programming/fibonacci.js)
+  * Dynamic-Programming
+    * [Fibonacci](https://github.com/TheAlgorithms/Javascript/blob/master/Algorithms/Dynamic-Programming/Fibonacci.js)
   * [EucledianGCD](https://github.com/TheAlgorithms/Javascript/blob/master/Algorithms/EucledianGCD.js)
   * [KadaneAlgo](https://github.com/TheAlgorithms/Javascript/blob/master/Algorithms/KadaneAlgo.js)
   * [sieveOfEratosthenes](https://github.com/TheAlgorithms/Javascript/blob/master/Algorithms/sieveOfEratosthenes.js)
@@ -21,16 +21,16 @@
     * [Graph](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Graph/Graph.js)
   * Heap
     * [MinPriorityQueue](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Heap/MinPriorityQueue.js)
-  * Linked List
-    * [DoublyLinkedList](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Linked%20List/DoublyLinkedList.js)
-    * [singlylinklist](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Linked%20List/singlylinklist.js)
+  * Linked-List
+    * [DoublyLinkedList](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Linked-List/DoublyLinkedList.js)
+    * [SinglyLinkList](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Linked-List/SinglyLinkList.js)
   * Queue
     * [Queue](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Queue/Queue.js)
     * [QueueUsing2Stacks](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Queue/QueueUsing2Stacks.js)
   * Stack
     * [Stack](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Stack/Stack.js)
   * Tree
-    * [Binary Search Tree](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Tree/Binary%20Search%20Tree.js)
+    * [BinarySearchTree](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Tree/BinarySearchTree.js)
 
 ## Hashes
   * [SHA1](https://github.com/TheAlgorithms/Javascript/blob/master/Hashes/SHA1.js)
@@ -55,26 +55,26 @@
   * [PascalTriangle](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/PascalTriangle.js)
 
 ## Search
-  * [binarySearch](https://github.com/TheAlgorithms/Javascript/blob/master/Search/binarySearch.js)
-  * [jumpSearch](https://github.com/TheAlgorithms/Javascript/blob/master/Search/jumpSearch.js)
-  * [linearSearch](https://github.com/TheAlgorithms/Javascript/blob/master/Search/linearSearch.js)
+  * [BinarySearch](https://github.com/TheAlgorithms/Javascript/blob/master/Search/BinarySearch.js)
+  * [JumpSearch](https://github.com/TheAlgorithms/Javascript/blob/master/Search/JumpSearch.js)
+  * [LinearSearch](https://github.com/TheAlgorithms/Javascript/blob/master/Search/LinearSearch.js)
 
 ## Sorts
-  * [bogoSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/bogoSort.js)
-  * [bubblesort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/bubblesort.js)
-  * [bucketSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/bucketSort.js)
-  * [cocktailShakerSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/cocktailShakerSort.js)
-  * [combSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/combSort.js)
-  * [countingSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/countingSort.js)
-  * [cycleSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/cycleSort.js)
-  * [flashSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/flashSort.js)
-  * [gnomeSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/gnomeSort.js)
-  * [heapSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/heapSort.js)
-  * [insertionSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/insertionSort.js)
-  * [mergeSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/mergeSort.js)
-  * [quickSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/quickSort.js)
-  * [radixSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/radixSort.js)
-  * [selectionSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/selectionSort.js)
-  * [shellSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/shellSort.js)
+  * [BogoSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/BogoSort.js)
+  * [BubbleSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/BubbleSort.js)
+  * [BucketSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/BucketSort.js)
+  * [CocktailShakerSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/CocktailShakerSort.js)
+  * [CombSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/CombSort.js)
+  * [CountingSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/CountingSort.js)
+  * [CycleSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/CycleSort.js)
+  * [FlashSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/FlashSort.js)
+  * [GnomeSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/GnomeSort.js)
+  * [HeapSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/HeapSort.js)
+  * [InsertionSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/InsertionSort.js)
+  * [MergeSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/MergeSort.js)
+  * [QuickSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/QuickSort.js)
+  * [RadixSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/RadixSort.js)
+  * [SelectionSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/SelectionSort.js)
+  * [ShellSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/ShellSort.js)
   * [TopologicalSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/TopologicalSort.js)
-  * [wiggleSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/wiggleSort.js)
+  * [WiggleSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/WiggleSort.js)
