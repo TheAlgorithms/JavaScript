@@ -47,6 +47,7 @@
   * [average mean](https://github.com/TheAlgorithms/Javascript/blob/master/maths/average_mean.js)
   * [DijkstraSmallestPath](https://github.com/TheAlgorithms/Javascript/blob/master/maths/DijkstraSmallestPath.js)
   * [factorial](https://github.com/TheAlgorithms/Javascript/blob/master/maths/factorial.js)
+  * [Fibonacci](https://github.com/TheAlgorithms/Javascript/blob/master/maths/Fibonacci.js)
   * [find lcm](https://github.com/TheAlgorithms/Javascript/blob/master/maths/find_lcm.js)
   * [FindHcf](https://github.com/TheAlgorithms/Javascript/blob/master/maths/FindHcf.js)
   * [graph](https://github.com/TheAlgorithms/Javascript/blob/master/maths/graph.js)
