@@ -16,43 +16,43 @@
   * [DecimalToHex](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/DecimalToHex.js)
   * [DecimalToOctal](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/DecimalToOctal.js)
 
-## Data Structures
+## Data-Structures
   * Graph
-    * [Graph](https://github.com/TheAlgorithms/Javascript/blob/master/Data%20Structures/Graph/Graph.js)
+    * [Graph](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Graph/Graph.js)
   * Heap
-    * [MinPriorityQueue](https://github.com/TheAlgorithms/Javascript/blob/master/Data%20Structures/Heap/MinPriorityQueue.js)
+    * [MinPriorityQueue](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Heap/MinPriorityQueue.js)
   * Linked List
-    * [DoublyLinkedList](https://github.com/TheAlgorithms/Javascript/blob/master/Data%20Structures/Linked%20List/DoublyLinkedList.js)
-    * [singlylinklist](https://github.com/TheAlgorithms/Javascript/blob/master/Data%20Structures/Linked%20List/singlylinklist.js)
+    * [DoublyLinkedList](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Linked%20List/DoublyLinkedList.js)
+    * [singlylinklist](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Linked%20List/singlylinklist.js)
   * Queue
-    * [Queue](https://github.com/TheAlgorithms/Javascript/blob/master/Data%20Structures/Queue/Queue.js)
-    * [QueueUsing2Stacks](https://github.com/TheAlgorithms/Javascript/blob/master/Data%20Structures/Queue/QueueUsing2Stacks.js)
+    * [Queue](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Queue/Queue.js)
+    * [QueueUsing2Stacks](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Queue/QueueUsing2Stacks.js)
   * Stack
-    * [Stack](https://github.com/TheAlgorithms/Javascript/blob/master/Data%20Structures/Stack/Stack.js)
+    * [Stack](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Stack/Stack.js)
   * Tree
-    * [Binary Search Tree](https://github.com/TheAlgorithms/Javascript/blob/master/Data%20Structures/Tree/Binary%20Search%20Tree.js)
+    * [Binary Search Tree](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Tree/Binary%20Search%20Tree.js)
 
 ## Hashes
   * [SHA1](https://github.com/TheAlgorithms/Javascript/blob/master/Hashes/SHA1.js)
   * [SHA256](https://github.com/TheAlgorithms/Javascript/blob/master/Hashes/SHA256.js)
 
-## linear-algebra-javascript
+## Linear-Algebra-Javascript
   * src
-    * [la lib](https://github.com/TheAlgorithms/Javascript/blob/master/linear-algebra-javascript/src/la_lib.js)
+    * [la lib](https://github.com/TheAlgorithms/Javascript/blob/master/Linear-Algebra-Javascript/src/la_lib.js)
   * test
-    * [test](https://github.com/TheAlgorithms/Javascript/blob/master/linear-algebra-javascript/test/test.js)
+    * [test](https://github.com/TheAlgorithms/Javascript/blob/master/Linear-Algebra-Javascript/test/test.js)
 
-## maths
-  * [abs](https://github.com/TheAlgorithms/Javascript/blob/master/maths/abs.js)
-  * [average mean](https://github.com/TheAlgorithms/Javascript/blob/master/maths/average_mean.js)
-  * [DijkstraSmallestPath](https://github.com/TheAlgorithms/Javascript/blob/master/maths/DijkstraSmallestPath.js)
-  * [factorial](https://github.com/TheAlgorithms/Javascript/blob/master/maths/factorial.js)
-  * [Fibonacci](https://github.com/TheAlgorithms/Javascript/blob/master/maths/Fibonacci.js)
-  * [find lcm](https://github.com/TheAlgorithms/Javascript/blob/master/maths/find_lcm.js)
-  * [FindHcf](https://github.com/TheAlgorithms/Javascript/blob/master/maths/FindHcf.js)
-  * [graph](https://github.com/TheAlgorithms/Javascript/blob/master/maths/graph.js)
-  * [Palindrome](https://github.com/TheAlgorithms/Javascript/blob/master/maths/Palindrome.js)
-  * [pascalTriangle](https://github.com/TheAlgorithms/Javascript/blob/master/maths/pascalTriangle.js)
+## Maths
+  * [Abs](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/Abs.js)
+  * [AverageMean](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/AverageMean.js)
+  * [DijkstraSmallestPath](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/DijkstraSmallestPath.js)
+  * [Factorial](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/Factorial.js)
+  * [Fibonacci](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/Fibonacci.js)
+  * [FindHcf](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/FindHcf.js)
+  * [FindLcm](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/FindLcm.js)
+  * [Graph](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/Graph.js)
+  * [Palindrome](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/Palindrome.js)
+  * [PascalTriangle](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/PascalTriangle.js)
 
 ## Search
   * [binarySearch](https://github.com/TheAlgorithms/Javascript/blob/master/Search/binarySearch.js)
