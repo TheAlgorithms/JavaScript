@@ -49,6 +49,7 @@
   * [factorial](https://github.com/TheAlgorithms/Javascript/blob/master/maths/factorial.js)
   * [find lcm](https://github.com/TheAlgorithms/Javascript/blob/master/maths/find_lcm.js)
   * [graph](https://github.com/TheAlgorithms/Javascript/blob/master/maths/graph.js)
+  * [Palindrome](https://github.com/TheAlgorithms/Javascript/blob/master/maths/Palindrome.js)
   * [pascalTriangle](https://github.com/TheAlgorithms/Javascript/blob/master/maths/pascalTriangle.js)
 
 ## Search
