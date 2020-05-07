@@ -1,0 +1,3 @@
+ci:
+  tests:
+    unmaintained: skip

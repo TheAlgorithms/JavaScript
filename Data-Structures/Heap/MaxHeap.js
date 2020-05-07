@@ -21,14 +21,14 @@ class BinaryHeap {
     return this.size() === 0;
   }
 
-  //using iterative approach to reorder the heap after insertion
+  // using iterative approach to reorder the heap after insertion
   heapify() {
     let index = this.size() - 1;
 
     while (index > 0) {
-      let element = this.heap[index],
-        parentIndex = Math.floor((index - 1) / 2),
-        parent = this.heap[parentIndex];
+      const element = this.heap[index];
+      const parentIndex = Math.floor((index - 1) / 2);
+      const parent = this.heap[parentIndex];
 
       if (parent[0] >= element[0]) break;
       this.heap[index] = parent;
@@ -36,6 +36,7 @@ class BinaryHeap {
       index = parentIndex;
     }
   }
+
   // Extracting the maximum element from the Heap
   extractMax() {
     const max = this.heap[0];
@@ -46,11 +47,12 @@ class BinaryHeap {
     }
     return max;
   }
+
   // To restore the balance of the heap after extraction.
   sinkDown(index) {
-    let left = 2 * index + 1,
-      right = 2 * index + 2,
-      largest = index;
+    const left = 2 * index + 1;
+    const right = 2 * index + 2;
+    let largest = index;
     const length = this.size();
 
     if (left < length && this.heap[left][0] > this.heap[largest][0]) {
@@ -61,7 +63,7 @@ class BinaryHeap {
     }
     // swap
     if (largest !== index) {
-      let tmp = this.heap[largest];
+      const tmp = this.heap[largest];
       this.heap[largest] = this.heap[index];
       this.heap[index] = tmp;
       this.sinkDown(largest);
@@ -69,7 +71,7 @@ class BinaryHeap {
   }
 }
 
-let maxHeap = new BinaryHeap();
+const maxHeap = new BinaryHeap();
 maxHeap.insert([4]);
 maxHeap.insert([3]);
 maxHeap.insert([6]);
@@ -78,6 +80,6 @@ maxHeap.insert([8]);
 maxHeap.insert([2]);
 
 while (!maxHeap.empty()) {
-  let mx = maxHeap.extractMax();
+  const mx = maxHeap.extractMax();
   console.log(mx);
 }
