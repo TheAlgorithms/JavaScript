@@ -23,3 +23,17 @@ fib(2)
 fib(200)
 fib(5)
 fib(10)
+
+//function without using recursion
+function fibonacci(n) {
+  const fibArr = [0,1];  //Initialized using base condition
+
+  for(let i=2; i<=n; i++){
+    fibArr.push( fibArr[i-1] + fibArr[i-2] );
+  }
+
+  return fibArr[n-1];
+}
+
+fibonacci(2);
+fibonacci(5);
