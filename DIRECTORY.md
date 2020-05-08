@@ -4,12 +4,12 @@
     * [Fibonacci](https://github.com/TheAlgorithms/Javascript/blob/master/Algorithms/Dynamic-Programming/Fibonacci.js)
   * [EucledianGCD](https://github.com/TheAlgorithms/Javascript/blob/master/Algorithms/EucledianGCD.js)
   * [KadaneAlgo](https://github.com/TheAlgorithms/Javascript/blob/master/Algorithms/KadaneAlgo.js)
-  * [sieveOfEratosthenes](https://github.com/TheAlgorithms/Javascript/blob/master/Algorithms/sieveOfEratosthenes.js)
+  * [SieveOfEratosthenes](https://github.com/TheAlgorithms/Javascript/blob/master/Algorithms/SieveOfEratosthenes.js)
 
 ## Ciphers
-  * [caesarsCipher](https://github.com/TheAlgorithms/Javascript/blob/master/Ciphers/caesarsCipher.js)
-  * [keyFinder](https://github.com/TheAlgorithms/Javascript/blob/master/Ciphers/keyFinder.js)
-  * [vigenereCipher](https://github.com/TheAlgorithms/Javascript/blob/master/Ciphers/vigenereCipher.js)
+  * [CaesarsCipher](https://github.com/TheAlgorithms/Javascript/blob/master/Ciphers/CaesarsCipher.js)
+  * [KeyFinder](https://github.com/TheAlgorithms/Javascript/blob/master/Ciphers/KeyFinder.js)
+  * [VigenereCipher](https://github.com/TheAlgorithms/Javascript/blob/master/Ciphers/VigenereCipher.js)
 
 ## Conversions
   * [DecimalToBinary](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/DecimalToBinary.js)
