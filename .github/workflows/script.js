@@ -30,7 +30,31 @@ function good_filepaths(top_dir = ".") {
   })
 }
 
+function md_prefix(i) {
+  if (i) {
+    let res = '  '.repeat(i);
+    return res + "*";
+  } else {
+    return "\n##"
+  }
+}
+
+function print_path(old_path, new_path) {
+  let old_parts = old_path.split(path.sep);
+  let new_parts = new_path.split(path.sep);
+  for (let i = 0; i < new_parts.length; ++i) {
+    let new_part = new_parts[i];
+    if (i + 1 > old_parts.len || old_parts[i] != new_part) {
+      if (new_part) {
+        g_output.push(`${md_prefix(i)} ${new_part.replace('_', ' ')}`);
+        // console.log(`${md_prefix(i)} ${new_part.replace('_', ' ')}`);
+      }
+    }
+  }
+  return new_path;
+}
+
 good_filepaths();
 setTimeout(() => {
-  console.log(filepaths.length);
+  console.log(filepaths);
 }, 1000);
