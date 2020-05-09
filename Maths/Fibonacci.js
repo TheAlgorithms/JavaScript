@@ -48,6 +48,27 @@ const FibonacciRecursiveDP = (stairs) => {
   return res
 }
 
+// Algorithms
+// Calculates Fibonacci(n) such that Fibonacci(n) = Fibonacci(n - 1) + Fibonacci(n - 2)
+// Fibonacci(0) = Fibonacci(1) = 1
+// Uses a bottom up dynamic programming approach
+// Solve each sub-problem once, using results of previous sub-problems
+// which are n-1 and n-2 for Fibonacci numbers
+// Although this algorithm is linear in space and time as a function
+// of the input value n, it is exponential in the size of n as
+// a function of the number of input bits
+// @Satzyakiz
+
+const FibonacciDpWithoutRecursion = (number) => {
+  const table = []
+  table.push(1)
+  table.push(1)
+  for (var i = 2; i < number; ++i) {
+    table.push(table[i - 1] + table[i - 2])
+  }
+  return (table)
+}
+
 // testing
 
 console.log(FibonacciIterative(5))
@@ -57,3 +78,6 @@ console.log(FibonacciRecursive(5))
 
 console.log(FibonacciRecursiveDP(5))
 // Output: 5
+
+console.log(FibonacciDpWithoutRecursion(5))
+// Output: [ 1, 1, 2, 3, 5 ]
