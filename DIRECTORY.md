@@ -1,7 +1,5 @@
 
 ## Algorithms
-  * Dynamic-Programming
-    * [Fibonacci](https://github.com/TheAlgorithms/Javascript/blob/master/Algorithms/Dynamic-Programming/Fibonacci.js)
   * [EucledianGCD](https://github.com/TheAlgorithms/Javascript/blob/master/Algorithms/EucledianGCD.js)
   * [KadaneAlgo](https://github.com/TheAlgorithms/Javascript/blob/master/Algorithms/KadaneAlgo.js)
   * [SieveOfEratosthenes](https://github.com/TheAlgorithms/Javascript/blob/master/Algorithms/SieveOfEratosthenes.js)
