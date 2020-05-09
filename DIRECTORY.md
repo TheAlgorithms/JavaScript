@@ -53,9 +53,6 @@
   * [Palindrome](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/Palindrome.js)
   * [PascalTriangle](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/PascalTriangle.js)
 
-## maths
-  * [ReverseString](https://github.com/TheAlgorithms/Javascript/blob/master/maths/ReverseString.js)
-
 ## [QuickSelect](https://github.com/TheAlgorithms/Javascript/blob/master//QuickSelect.js)
 
 ## Search
@@ -83,3 +80,6 @@
   * [ShellSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/ShellSort.js)
   * [TopologicalSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/TopologicalSort.js)
   * [WiggleSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/WiggleSort.js)
+
+## String
+  * [ReverseString](https://github.com/TheAlgorithms/Javascript/blob/master/String/ReverseString.js)
