@@ -27824,6 +27824,8 @@ ear
 
 -[@rajputking1106](https://github.com/rajputking1106)
 
+-[@JericFederer97](https://github.com/JericFederer97)
+
 -[@vipink1203](https://github.com/vipink1203)
 
 -[@EvanGr](https://github.com/EvanGr)
