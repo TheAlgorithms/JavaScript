@@ -1,4 +1,4 @@
-# Welcome to Javascript community
+# Welcome to JavaScript community
 
 ### **Describe your change:**
 
@@ -12,7 +12,7 @@
 * [ ] This pull request is all my own work -- I have not plagiarized.
 * [ ] I know that pull requests will not be merged if they fail the automated tests.
 * [ ] This PR only changes one algorithm file.  To ease review, please open separate PRs for separate algorithms.
-* [ ] All new Javascript files are placed inside an existing directory.
+* [ ] All new JavaScript files are placed inside an existing directory.
 * [ ] All filenames should use the UpperCamelCase (PascalCase) style.  There should be no spaces in filenames.
      **Example:**`UserProfile.js` is allowed but `userprofile.js`,`Userprofile.js`,`user-Profile.js`,`userProfile.js` are not
 * [ ] All new algorithms have a URL in its comments that points to Wikipedia or other similar explanation.
