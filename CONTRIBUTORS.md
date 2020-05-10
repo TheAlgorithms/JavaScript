@@ -1,4 +1,3 @@
-ear
 # Contributors
 
 -[@henrysaba](https://github.com/henrysaba)
@@ -7677,6 +7676,8 @@ ear
 -[@IvanTrifonov1](https://github.com/IvanTrifonov1)
 
 -[@PsySc0rpi0n](https://github.com/PsySc0rpi0n)
+
+-[@jeremievalili](https://github.com/jeremievalili)
 
 -[@FernandoBritoA](https://github.com/FernandoBritoA)
 
