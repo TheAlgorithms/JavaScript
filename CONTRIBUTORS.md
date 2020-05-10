@@ -27876,3 +27876,9 @@
 -[@ariane-er](https://github.com/ariane-er)
 
 -[@TemidoRocha](https://github.com/TemidoRocha)
+
+-[@vedanshc66](https://github.com/vedanshc66)
+
+-[@gilbertekalea](https://github.com/gilbertekalea)
+
+-[@Rishikesh-12](https://github.com/Rishikesh-12)
