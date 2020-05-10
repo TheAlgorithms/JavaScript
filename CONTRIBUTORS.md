@@ -27876,6 +27876,8 @@
 
 -[@ariane-er](https://github.com/ariane-er)
 
+-[@dthorpe27](https://github.com/dthorpe27)
+
 -[@bossman-codex](https://github.com/bossman-codex)
 
 -[@aj709](https://github.com/aj709)
