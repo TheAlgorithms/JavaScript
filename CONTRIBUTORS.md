@@ -27882,6 +27882,8 @@
 
 -[@ariane-er](https://github.com/ariane-er)
 
+-[@joeldiffo](https://github.com/joeldiffo)
+
 -[@propelahed](https://github.com/propelahed)
 
 -[@vic-algonquin](https://github.com/vic-algonquin)
