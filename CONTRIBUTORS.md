@@ -133,7 +133,6 @@
 -[@Aravind](https://github.com/aravindeesh)
 
 -[@devgulati1](https://github.com/devgulati1)
- 
 
 -[@eduardoenari](https://github.com/eduardoenari)
 
@@ -28039,4 +28038,8 @@
 
 -[@Rishikesh-12](https://github.com/Rishikesh-12)
 
-- [@bergtr](https://github.com/bergtr/)
+-[@bergtr](https://github.com/bergtr/)
+
+-[@taicedtea](https://github.com/taicedtea)
+
+-[@ahmed-elnashar](https://github.com/ahmed-elnashar/)
