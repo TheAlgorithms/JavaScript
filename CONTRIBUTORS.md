@@ -133,7 +133,6 @@
 -[@Aravind](https://github.com/aravindeesh)
 
 -[@devgulati1](https://github.com/devgulati1)
- 
 
 -[@eduardoenari](https://github.com/eduardoenari)
 
@@ -28040,3 +28039,23 @@
 -[@Rishikesh-12](https://github.com/Rishikesh-12)
 
 -[@LSR91](https://github.com/LSR91)
+
+-[@lemarkwebdesign](https://github.com/lemarkwebdesign)
+
+-[@pranavupadhyay99](https://github.com/pranavupadhyay99/)
+
+-[@artin00098](https://github.com/artin00098)
+
+-[kaironvilla](https://github.com/kaironvilla/)
+
+-[@baesyc](https://github.com/baesyc)
+
+-[@zixan786](https://github.com/zixan786)
+
+-[@LuisMReyes](https://github.com/LuisMReyes)
+
+-[@bergtr](https://github.com/bergtr/)
+
+-[@taicedtea](https://github.com/taicedtea)
+
+-[@ahmed-elnashar](https://github.com/ahmed-elnashar/)
