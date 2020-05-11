@@ -33,7 +33,7 @@ class Graph {
 
   /**
    * Prints the Breadth first traversal of the graph from source.
-   * 
+   *
    * @param {number} source The source vertex to start BFS.
    */
   bfs (source) {
@@ -45,7 +45,7 @@ class Graph {
       const front = queue[0]
       const node = front[0]
       const level = front[1]
-      queue.shift(); // remove the front of the queue
+      queue.shift() // remove the front of the queue
       console.log(`Visited node ${node} at level ${level}.`)
       for (const next of this.adjacencyMap[node]) {
         if (!visited.has(next)) { // not visited
