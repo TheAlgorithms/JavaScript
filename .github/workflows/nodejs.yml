@@ -17,9 +17,13 @@ jobs:
         npm install doctest standard --save-dev
         pwd
         ls -la
-        doctest Sorts/BogoSort.js || true
+        echo "A"
+        node_modules/doctest Sorts/BogoSort.js || true
+        echo "B"
         npx doctest Sorts/BogoSort.js || true
-        node -e "doctest('Sorts/BogoSort.js', {})" || true
+        echo "C"
+        node -e "node_modules/doctest('Sorts/BogoSort.js', {})" || true
+        echo "D"
         # npm install standard --save-dev
         npx standard
         cd Linear-Algebra-Javascript
