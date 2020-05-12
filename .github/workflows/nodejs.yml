@@ -14,10 +14,10 @@ jobs:
         node-version: ${{ matrix.node-version }}
     - name: npm install, build, and test
       run: |
-        npm install doctest
-        ./doctest Sorts/BogoSort.js
+        npm install doctest standard --save-dev
+        doctest Sorts/BogoSort.js
         # node -e "doctest('Sorts/BogoSort.js', {})" //--module Sorts 
-        npm install standard --save-dev
+        # npm install standard --save-dev
         npx standard
         cd Linear-Algebra-Javascript
         npm ci
