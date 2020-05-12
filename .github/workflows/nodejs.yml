@@ -15,8 +15,8 @@ jobs:
     - name: npm install, build, and test
       run: |
         npm install doctest
-        doctest --module Sorts Sorts/BogoSort.js
-        # node -e "doctest('Sorts/BogoSort.js', {})"
+        ./doctest Sorts/BogoSort.js
+        # node -e "doctest('Sorts/BogoSort.js', {})" //--module Sorts 
         npm install standard --save-dev
         npx standard
         cd Linear-Algebra-Javascript
