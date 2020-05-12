@@ -7,9 +7,8 @@ jobs:
     steps:
       - uses: actions/checkout@master
       - uses: actions/setup-node@v1
-      - run: node UpdateDirectory.js
-      - name: Update DIRECTORY.md
-        run: |
+      - run: |
+          node .github/workflows/UpdateDirectory.js
           cat DIRECTORY.md
           git config --global user.name github-actions
           git config --global user.email '${GITHUB_ACTOR}@users.noreply.github.com'
