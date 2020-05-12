@@ -4,7 +4,7 @@
  */
 
 // > [].isSorted()
-// true
+// false
 // > [1].isSorted()
 // true
 // > [1,2,3].isSorted()
