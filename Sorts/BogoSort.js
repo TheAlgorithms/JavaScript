@@ -3,14 +3,17 @@
  * sorted in ascending order.
  */
 
+// > [].isSorted()
+// true
+// > [1].isSorted()
+// true
+// > [1,2,3].isSorted()
+// true
+// > [3,2,1].isSorted()
+// false
 /* eslint no-extend-native: ["off", { "exceptions": ["Object"] }] */
 Array.prototype.isSorted = function () {
   const length = this.length
-
-  if (length < 2) {
-    return true
-  }
-
   for (let i = 0; i < length - 1; i++) {
     if (this[i] > this[i + 1]) {
       return false
