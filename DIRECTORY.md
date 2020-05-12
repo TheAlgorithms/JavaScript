@@ -37,7 +37,7 @@
 
 ## Linear-Algebra-Javascript
   * src
-    * [la lib](https://github.com/TheAlgorithms/Javascript/blob/master/Linear-Algebra-Javascript/src/la_lib.js)
+    * [la_lib](https://github.com/TheAlgorithms/Javascript/blob/master/Linear-Algebra-Javascript/src/la_lib.js)
   * test
     * [test](https://github.com/TheAlgorithms/Javascript/blob/master/Linear-Algebra-Javascript/test/test.js)
 
@@ -70,8 +70,8 @@
   * [CycleSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/CycleSort.js)
   * [FlashSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/FlashSort.js)
   * [GnomeSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/GnomeSort.js)
-  * [Heapsort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/Heapsort.js)
   * [HeapSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/HeapSort.js)
+  * [Heapsort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/Heapsort.js)
   * [InsertionSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/InsertionSort.js)
   * [MergeSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/MergeSort.js)
   * [QuickSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/QuickSort.js)
