@@ -15,16 +15,7 @@ jobs:
     - name: npm install, build, and test
       run: |
         npm install doctest standard --save-dev
-        pwd
-        ls -la
-        echo "A"
-        node_modules/doctest Sorts/BogoSort.js || true
-        echo "B"
-        npx doctest Sorts/BogoSort.js || true
-        echo "C"
-        node -e "node_modules/doctest('Sorts/BogoSort.js', {})" || true
-        echo "D"
-        # npm install standard --save-dev
+        npx doctest Sorts/BogoSort.js
         npx standard
         cd Linear-Algebra-Javascript
         npm ci
