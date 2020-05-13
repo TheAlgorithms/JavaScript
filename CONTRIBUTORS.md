@@ -27940,6 +27940,8 @@
 
 -[@ariane-er](https://github.com/ariane-er)
 
+-[@saquib1998](https://github.com/saquib1998)
+
 -[@ehrlicht](https://github.com/ehrlicht)
 
 -[@yadav-a](https://github.com/yadav-a)
@@ -28101,3 +28103,47 @@
 -[@daanney](https://github.com/daanney/)
 
 -[@isaacgalvan10](https://github.com/isaacgalvan10/)
+
+-[@Donsingh2700](https://github.com/Donsingh2700/)
+
+-[@xeniaeo](https://github.com/xeniaeo/)
+
+-[@Shubhank92](https://github.com/Shubhank92/)
+
+-[@Trejon](https://github.com/Trejon)
+
+-[@Alejandro-Yanes](https://github.com/Alejandro-Yanes)
+
+-[@Attrevete](https://github.com/Attrevete/)
+
+-[@Hydra0509](https://github.com/Hydra0509)
+
+-[@nnorthey11](https://github.com/nnorthey11)
+
+-[@LeonNimoy](https://github.com/LeonNimoy/)
+
+-[@gheezl](https://github.com/gheezl/)
+
+-[@amanag7](https://github.com/amanag7/)
+
+-[@jtobin820](https://github.com/jtobin820/)
+
+-[@Djisu](https://github.com/Djisu/)
+
+-[@blairesc](https://github.com/blairesc/)
+
+-[@otaylor3](https://github.com/otaylor3)
+
+-[@anggipras](https://github.com/anggipras/)
+
+-[@m-elina](https://github.com/m-elina/)
+
+-[@SachaBog](https://github.com/SachaBog)
+
+-[@Akinolaaa](https://github.com/Akinolaaa/)
+
+-[@anacrm](https://github.com/anacrm/)
+
+-[@Makar985](https://github.com/Makar985/)
+
+-[@babygrootc](https://github.com/babygrootc)
