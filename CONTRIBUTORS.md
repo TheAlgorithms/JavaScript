@@ -28105,3 +28105,23 @@
 -[@amanag7](https://github.com/amanag7/)
 
 -[@jtobin820](https://github.com/jtobin820/)
+
+-[@Djisu](https://github.com/Djisu/)
+
+-[@blairesc](https://github.com/blairesc/)
+
+-[@otaylor3](https://github.com/otaylor3)
+
+-[@anggipras](https://github.com/anggipras/)
+
+-[@m-elina](https://github.com/m-elina/)
+
+-[@SachaBog](https://github.com/SachaBog)
+
+-[@Akinolaaa](https://github.com/Akinolaaa/)
+
+-[@anacrm](https://github.com/anacrm/)
+
+-[@Makar985](https://github.com/Makar985/)
+
+-[@babygrootc](https://github.com/babygrootc)
