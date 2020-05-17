@@ -22,7 +22,7 @@
 
 -[@rajindersingh751](https://github.com/rajindersingh751)
 
--[@adinautiyal](htpps://github.com/adinautiyal)
+-[@adinautiyal](https://github.com/adinautiyal)
 
 -[@menNsloo](https://github.com/menNsloo)
 
