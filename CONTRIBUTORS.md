@@ -3264,6 +3264,8 @@
 
 -[@Canary1711](https://github.com/Canary1711)
 
+-[@ZeidMag](https://github.com/ZeidMag)
+
 -[@ankurgupta255](https://github.com/ankurgupta255)
 
 -[@AlexGithubbb](https://github.com/AlexGithubbb)
@@ -28245,3 +28247,4 @@
 -[@theloftwaves](https://github.com/theloftwaves)
 
 -[@Sparksong](https://github.com/Sparksong)
+
