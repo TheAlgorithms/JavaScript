@@ -1,9 +1,4 @@
 
-## Algorithms
-  * [EucledianGCD](https://github.com/TheAlgorithms/Javascript/blob/master/Algorithms/EucledianGCD.js)
-  * [KadaneAlgo](https://github.com/TheAlgorithms/Javascript/blob/master/Algorithms/KadaneAlgo.js)
-  * [SieveOfEratosthenes](https://github.com/TheAlgorithms/Javascript/blob/master/Algorithms/SieveOfEratosthenes.js)
-
 ## Ciphers
   * [CaesarsCipher](https://github.com/TheAlgorithms/Javascript/blob/master/Ciphers/CaesarsCipher.js)
   * [KeyFinder](https://github.com/TheAlgorithms/Javascript/blob/master/Ciphers/KeyFinder.js)
@@ -15,8 +10,11 @@
   * [DecimalToOctal](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/DecimalToOctal.js)
 
 ## Data-Structures
+  * Array
+    * [QuickSelect](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Array/QuickSelect.js)
   * Graph
     * [Graph](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Graph/Graph.js)
+    * [Graph2](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Graph/Graph2.js)
   * Heap
     * [MaxHeap](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Heap/MaxHeap.js)
     * [MinPriorityQueue](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Heap/MinPriorityQueue.js)
@@ -31,15 +29,19 @@
   * Tree
     * [BinarySearchTree](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Tree/BinarySearchTree.js)
 
+## Dynamic-Programming
+  * [KadaneAlgo](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/KadaneAlgo.js)
+  * [SieveOfEratosthenes](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/SieveOfEratosthenes.js)
+
 ## Hashes
   * [SHA1](https://github.com/TheAlgorithms/Javascript/blob/master/Hashes/SHA1.js)
   * [SHA256](https://github.com/TheAlgorithms/Javascript/blob/master/Hashes/SHA256.js)
 
-## Linear-Algebra-Javascript
+## Linear-Algebra
   * src
-    * [la_lib](https://github.com/TheAlgorithms/Javascript/blob/master/Linear-Algebra-Javascript/src/la_lib.js)
+    * [la_lib](https://github.com/TheAlgorithms/Javascript/blob/master/Linear-Algebra/src/la_lib.js)
   * test
-    * [test](https://github.com/TheAlgorithms/Javascript/blob/master/Linear-Algebra-Javascript/test/test.js)
+    * [test](https://github.com/TheAlgorithms/Javascript/blob/master/Linear-Algebra/test/test.js)
 
 ## Maths
   * [Abs](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/Abs.js)
@@ -49,11 +51,11 @@
   * [Fibonacci](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/Fibonacci.js)
   * [FindHcf](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/FindHcf.js)
   * [FindLcm](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/FindLcm.js)
-  * [Graph](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/Graph.js)
   * [Palindrome](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/Palindrome.js)
   * [PascalTriangle](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/PascalTriangle.js)
 
-## [QuickSelect](https://github.com/TheAlgorithms/Javascript/blob/master//QuickSelect.js)
+## Recursive
+  * [EucledianGCD](https://github.com/TheAlgorithms/Javascript/blob/master/Recursive/EucledianGCD.js)
 
 ## Search
   * [BinarySearch](https://github.com/TheAlgorithms/Javascript/blob/master/Search/BinarySearch.js)
@@ -70,8 +72,8 @@
   * [CycleSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/CycleSort.js)
   * [FlashSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/FlashSort.js)
   * [GnomeSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/GnomeSort.js)
-  * [Heapsort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/Heapsort.js)
   * [HeapSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/HeapSort.js)
+  * [Heapsort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/Heapsort.js)
   * [InsertionSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/InsertionSort.js)
   * [MergeSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/MergeSort.js)
   * [QuickSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/QuickSort.js)
