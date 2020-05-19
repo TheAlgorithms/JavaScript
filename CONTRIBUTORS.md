@@ -1,5 +1,7 @@
 # Contributors
 
+-[@divyanshukumar10](https://github.com/divyanshukumar10)
+
 -[@DouglasKyrius](https://github.com/DouglasKyrius)
 
 -[@henrysaba](https://github.com/henrysaba)
