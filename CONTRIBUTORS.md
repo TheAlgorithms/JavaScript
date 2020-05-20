@@ -28356,6 +28356,8 @@
 
 -[@hiteshsingh1](https://github.com/hiteshsingh1)
 
+-[@HernanyLopes](https://github.com/HernanyLopes)
+
 -[@MochaJavaScript](https://github.com/MochaJavaScript)
 
 -[@KhushwantSahni](https://github.com/KhushwantSahni/)
