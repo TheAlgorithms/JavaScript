@@ -28344,7 +28344,7 @@
 
 -[@siddharthmagadum16](https://github.com/siddharthmagadum16/)
 
--[@sachin3973]((https://github.com/sachin3973/))
+-[@sachin3973](<(https://github.com/sachin3973/)>)
 
 -[@arfizurrahman](https://github.com/arfizurrahman)
 
@@ -28357,3 +28357,35 @@
 -[@hiteshsingh1](https://github.com/hiteshsingh1)
 
 -[@ieros-antras](https://github.com/ieros-antras)
+
+-[@IshworKhadka](https://github.com/KdkIshwor)
+
+-[@Jennyng2930](https://github.com/Jennyng2930)
+
+-[@rohithVR101](https://github.com/rohithvr101)
+
+-[@ceajae](https://github.com/ceajae)
+
+-[@varunwho](https://github.com/varunwho)
+
+-[@shubham9614](https://github.com/shubham9614)
+
+-[@phuctoan1495](https://github.com/phuctoan1495)
+
+-[@abdoessordo](https://github.com/abdoessordo)
+
+-[@nmistry45](https://github.com/nmistry45/)
+
+-[@kelvinabella](https://github.com/kelvinabella)
+
+-[@danieljschmid](https://github.com/Danieljschmid)
+
+-[@LissaGill](https://github.com/LissaGill/)
+
+-[@gustaviusRex](https://github.com/gustaviusRex)
+
+-[@dargap3](https://github.com/dargap3)
+
+-[@shanesfast](https://github.com/shanesfast)
+
+-[@QFinley5](https://github.com/QFinley5/)
