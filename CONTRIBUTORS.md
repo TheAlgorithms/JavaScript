@@ -1,5 +1,7 @@
 # Contributors
 
+-[@seakun](https://github.com/seakun)
+
 -[@DouglasKyrius](https://github.com/DouglasKyrius)
 
 -[@henrysaba](https://github.com/henrysaba)
