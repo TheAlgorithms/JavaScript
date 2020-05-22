@@ -31,6 +31,7 @@
 
 ## Dynamic-Programming
   * [KadaneAlgo](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/KadaneAlgo.js)
+  * [NumberOfSubsetEqualToGivenSum](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/NumberOfSubsetEqualToGivenSum.js)
   * [SieveOfEratosthenes](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/SieveOfEratosthenes.js)
 
 ## Hashes
