@@ -33,9 +33,7 @@ function combSort (list) {
 
     while (gap + i < list.length) {
       if (list[i] > list[i + gap]) {
-        const value = list[i]
-        list[i] = list[i + gap]
-        list[i + gap] = value
+        [list[i], list[i + gap]] = [list[i + gap], list[i]]
         isSwapped = true
       }
       i += 1

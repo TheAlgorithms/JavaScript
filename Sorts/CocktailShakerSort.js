@@ -7,14 +7,12 @@
 function cocktailShakerSort (items) {
   for (let i = items.length - 1; i > 0; i--) {
     let swapped = false
-    let temp, j
+    let j
 
     // backwards
     for (j = items.length - 1; j > i; j--) {
       if (items[j] < items[j - 1]) {
-        temp = items[j]
-        items[j] = items[j - 1]
-        items[j - 1] = temp
+        [items[j], items[j - 1]] = [items[j - 1], items[j]]
         swapped = true
       }
     }
@@ -22,9 +20,7 @@ function cocktailShakerSort (items) {
     // forwards
     for (j = 0; j < i; j++) {
       if (items[j] > items[j + 1]) {
-        temp = items[j]
-        items[j] = items[j + 1]
-        items[j + 1] = temp
+        [items[j], items[j + 1]] = [items[j + 1], items[j]]
         swapped = true
       }
     }

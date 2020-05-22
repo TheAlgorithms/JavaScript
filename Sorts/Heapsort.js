@@ -22,10 +22,7 @@ function heapRoot (input, i) {
 }
 
 function swap (input, indexA, indexB) {
-  const temp = input[indexA]
-
-  input[indexA] = input[indexB]
-  input[indexB] = temp
+  [input[indexA], input[indexB]] = [input[indexB], input[indexA]]
 }
 
 function heapSort (input) {
