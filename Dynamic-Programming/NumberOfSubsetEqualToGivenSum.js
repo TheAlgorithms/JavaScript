@@ -1,13 +1,13 @@
 /*
 Given an array of non-negative integers and a value sum,
-determine the total number of the subset with sum 
+determine the total number of the subset with sum
 equal to the given sum.
 */
 /*
- Given solution is O(n*sum) Time complexity and O(sum) space
+ Given solution is O(n*sum) Time complexity and O(sum) Space complexity
 */
-function NumberOfSubsetSum(array, sum) {
-  let dp = [] // create an dp array where dp[i] denote number of subset with sum equal to i 
+function NumberOfSubsetSum (array, sum) {
+  const dp = [] // create an dp array where dp[i] denote number of subset with sum equal to i
   for (let i = 1; i <= sum; i++) {
     dp[i] = 0
   }
@@ -23,10 +23,10 @@ function NumberOfSubsetSum(array, sum) {
   return dp[sum]
 }
 
-function main() {
-  let array = [1, 1, 2, 2, 3, 1, 1]
-  let sum = 4
-  let result = NumberOfSubsetSum(array, sum)
+function main () {
+  const array = [1, 1, 2, 2, 3, 1, 1]
+  const sum = 4
+  const result = NumberOfSubsetSum(array, sum)
   console.log(result)
 }
 main()
