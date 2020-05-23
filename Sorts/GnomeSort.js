@@ -14,9 +14,7 @@ function gnomeSort (items) {
     if (items[i - 1] <= items[i]) {
       i++
     } else {
-      const temp = items[i]
-      items[i] = items[i - 1]
-      items[i - 1] = temp
+      [items[i], items[i - 1]] = [items[i - 1], items[i]]
 
       i = Math.max(1, i - 1)
     }

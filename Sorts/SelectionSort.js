@@ -21,9 +21,7 @@ function selectionSort (items) {
     if (min !== i) {
       // After each pass, if the current min num != initial min num, exchange the position.
       // Swap the numbers
-      var tmp = items[i]
-      items[i] = items[min]
-      items[min] = tmp
+      [items[i], items[min]] = [items[min], [items[i]]]
     }
   }
 }

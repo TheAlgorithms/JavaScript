@@ -12,9 +12,7 @@ function bubbleSort (items) {
       // Compare the adjacent positions
       if (items[j] < items[j - 1]) {
         // Swap the numbers
-        const tmp = items[j]
-        items[j] = items[j - 1]
-        items[j - 1] = tmp
+        [items[j], items[j - 1]] = [items[j - 1], items[j]]
       }
     }
   }
@@ -47,9 +45,7 @@ function alternativeBubbleSort (arr) {
     swapped = false
     for (let i = 0; i < arr.length - 1; i++) {
       if (arr[i] > arr[i + 1]) {
-        const temp = arr[i]
-        arr[i] = arr[i + 1]
-        arr[i + 1] = temp
+        [arr[i], arr[i + 1]] = [arr[i + 1], arr[i]]
         swapped = true
       }
     }

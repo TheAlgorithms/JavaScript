@@ -59,9 +59,7 @@ function getRandomInt (min, max) {
 }
 
 function Swap (arr, x, y) {
-  const temp = arr[x]
-  arr[x] = arr[y]
-  arr[y] = temp
+  [arr[x], arr[y]] = [arr[y], arr[x]]
 }
 
 // testing
