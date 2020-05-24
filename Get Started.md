@@ -6,9 +6,9 @@ It may appear a very challenging and overwhelming task at first, but it is, in f
 
 # Community Collaboration Projects
 After the fantastic success that [Mappypals](https://github.com/zero-to-mastery/mappypals) is seeing and the high demand for similar projects, we would like to trial some community lead projects.
-Providing the opportunity for you to flex you developer muscles, whilst working within a team of developers. Gaining valuable skills, employers are always seeking, such as:
+Providing the opportunity for you to flex your developer muscles, whilst working within a team of developers. Gaining valuable skills, employers are always seeking, such as:
 - **Communication and collaboration** - Being able to work in a team and communicating effectively is a very important skill
-- **Github and source control** - In these projects you will have the opportunity to understand, why branching is important along with other key github skills.
+- **Github and source control** - In these projects you will have the opportunity to understand why branching is important along with other key github skills.
 - **New stacks and technologies** - Each project is likely to use slightly varying stacks, providing the opportunity to jump into something new
 
 # How You Benefit
@@ -22,7 +22,7 @@ Joining a project is pretty simple, checkout the [current projects](https://gith
 **Please note:** Whilst working on any project in the Zero To Mastery community, you must adhere to our code of conduct, which can be found [here](https://github.com/zero-to-mastery/start-here-guidelines/blob/master/CODE_OF_CONDUCT.md)
 
 ## Option 2: Create a project
-We are always on the look out for new and exciting project to add to Zero to Mastery for you all to collaborate on! If you think you have an new and exciting project/idea the community would love to get involved in, here is the process for getting it listed:
+We are always on the look out for new and exciting project to add to Zero to Mastery for you all to collaborate on! If you think you have a new and exciting project/idea the community would love to get involved in, here is the process for getting it listed:
 - Reach out to a member of the Management Team on our Discord server, with a detailed project brief
 - Management team will consider if the project is something that would work well with the community
 - A Repository will be created and the project will be announced in #current-project channel in our Discord server and featured during an upcoming announcement by Andrei
@@ -70,8 +70,7 @@ Here, practicing would be our primary objective but there are also many pragmati
 
 *I hope it helps you.*
 
-
-*Happy Coding!*
-
+*Happy Coding!🙂*
 
 *Here I am, Adding My OWN CONTRIBUTION* - andrew p 
+
