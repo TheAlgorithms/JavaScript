@@ -1,0 +1,14 @@
+function hhmmss(seconds) {
+  var h =(Math.floor(seconds/3600)).toString()
+  var m= (Math.floor(seconds%3600/60)).toString()
+  var s= (Math.floor(seconds%3600%60)).toString()
+  
+  if (h.length==1) h='0'+h
+  if (m.length==1) m='0'+m
+  if (s.length==1) s='0'+s
+  
+  
+
+  
+  return h+':'+m+':'+s
+}
