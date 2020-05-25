@@ -1,0 +1,36 @@
+function rgb(r, g, b){
+  var r =r.toString(16)
+  var g =g.toString(16)
+  var b =b.toString(16)
+  
+  if (r.length < 2) {
+       r = "0" + r
+  }
+  if (parseInt(r,16)>255){
+    r="FF"
+  }
+  if (parseInt(r,16)<0){
+    r="00"
+  }
+  if (g.length < 2) {
+       g = "0" + g
+  }
+  if (parseInt(g,16)>255){
+    g="FF"
+  }
+  if (parseInt(g,16)<0){
+    g="00"
+  }
+  if (b.length < 2) {
+       b = "0" + b
+  }
+  if (parseInt(b,16)>255){
+    b="FF"
+  }
+  if (parseInt(b,16)<0){
+    b="00"
+  }
+  
+  return (r+g+b).toUpperCase()
+  
+}
