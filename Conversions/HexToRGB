@@ -9,6 +9,4 @@ function hexStringToRGB(hexString) {
   var obj={r, g, b}
    
   return obj
-
-  
 }
