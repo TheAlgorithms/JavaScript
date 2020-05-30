@@ -4,6 +4,7 @@
 
 
 -[@seakun](https://github.com/seakun)
+-[@swatiidixit](https://github.com/swatiidixit)
 
 -[@divyanshukumar10](https://github.com/divyanshukumar10)
 
