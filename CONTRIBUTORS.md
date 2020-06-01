@@ -28540,6 +28540,8 @@ mk4i86/0/0 0000000000000000 000000000 0 0 0 0 0 0# Contributors
 
 -[@sara-ghiorzi](https://github.com/sara-ghiorzi/)
 
+-[@aragreco](https://github.com/aragreco/)
+
 -[@Kurroni](https://github.com/Kurroni/)
 
 -[@Zims](https://github.com/Zims/)
