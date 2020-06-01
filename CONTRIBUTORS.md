@@ -28532,6 +28532,8 @@ mk4i86/0/0 0000000000000000 000000000 0 0 0 0 0 0# Contributors
 
 -[@ndmx](https://github.com/ndmx/)
 
+-[@dmonitha](https://github.com/dmonitha)
+
 -[@cuttell2000](https://github.com/cuttell2000/)
 
 -[@yashtandon019](https://github.com/yashtandon019/)
@@ -28539,3 +28541,13 @@ mk4i86/0/0 0000000000000000 000000000 0 0 0 0 0 0# Contributors
 -[@sara-ghiorzi](https://github.com/sara-ghiorzi/)
 
 -[@Zims](https://github.com/Zims/)
+
+-[@brianmaxwell515](https://github.com/brianmaxwell515/)
+
+-[@marnixcools](https://github.com/marnixcools/)
+
+-[@AanchalCh](https://github.com/AanchalCh/)
+
+-[@tusharsingh2000](https://github.com/tusharsingh2000/)
+
+-[@tiagofbsantos](https://github.com/tiagofbsantos/)
