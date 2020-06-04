@@ -1,4 +1,4 @@
-mk4i86/0/0 0000000000000000 000000000 0 0 0 0 0 0# Contributors
+# Contributors
 
 -[@seakun](https://github.com/seakun)
 
@@ -28590,6 +28590,8 @@ mk4i86/0/0 0000000000000000 000000000 0 0 0 0 0 0# Contributors
 
 -[@tiagofbsantos](https://github.com/tiagofbsantos/)
 
+-[@ritikkuril](https://github.com/ritikkuril/)
+
 -[@galiarudenko](https://github.com/galiarudenko/)
 
 -[@ritikkuril](http://github.com/ritikkuril)
@@ -28609,3 +28611,49 @@ mk4i86/0/0 0000000000000000 000000000 0 0 0 0 0 0# Contributors
 -[@brianli96](https://github.com/brianli96/)
 
 -[@furkanarici](https://github.com/furkanarici)
+
+-[@mandar242](https://github.com/mandar242/)
+
+-[@xyphergrim](https://github.com/xyphergrim/)
+
+-[@theWorkMachine](https://github.com/theWorkMachine)
+
+-[@Humberto111](https://github.com/Humberto111/)
+
+-[@PhamFatale](https://github.com/PhamFatale/)
+
+-[@itsnou](https://github.com/itsnou/)
+
+-[@nuggetnchill](https://github.com/nuggetnchill)
+
+-[@devhuzi](https://github.com/devhuzi/)
+
+-[@ram-jee](https://github.com/ram-jee/)
+
+-[@ZeeshanAyub01](https://github.com/ZeeshanAyub01/)
+
+-[@zul110](https://github.com/zul110/)
+
+-[@aktarulrahul](https://github.com/aktarulrahul/)
+
+-[@kkuanhui](https://github.com/kkuanhui/)
+
+-[@hectovs](https://github.com/hectovs/)
+
+-[@royadeveloper01](https://github.com/royadeveloper01/)
+
+-[@dhaxor](https://github.com/dhaxor/)
+
+-[@pavanskipo](https://github.com/pavanskipo/)
+
+-[@pdr-clv](https://github.com/pdr-clv/)
+
+-[@pmsb-codes](https://github.com/pmsb-codes/)
+
+-[@amarjeetprasad](https://github.com/amarjeetprasad/)
+
+-[@ninaprimer](https://github.com/ninaprimer/)
+
+-[@Ngokapat](https://github.com/Ngokapat/)
+
+-[@nnhhiilliisstt](https://github.com/nnhhiilliisstt)
