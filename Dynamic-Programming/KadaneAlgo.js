@@ -6,7 +6,7 @@ function KadaneAlgo (array) {
     if (cummulativeSum < 0) {
       cummulativeSum = 0
     }
-    if (maxSum < cummulativeSum) {
+    else if (maxSum < cummulativeSum) {
       maxSum = cummulativeSum
     }
   }
