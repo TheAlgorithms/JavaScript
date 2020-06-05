@@ -788,6 +788,8 @@
 
 -[@eneax](https://github.com/eneax)
 
+-[@maegatro](https://github.com/maegatro)
+
 -[@cshape](https://github.com/cshape)
 
 -[@njwdev](https://github.com/njwdev)
