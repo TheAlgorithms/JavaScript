@@ -1,4 +1,5 @@
 # Contributors
+-[@AbhayHaridas](https://github.com/AbhayHaridas)
 
 -[@seakun](https://github.com/seakun)
 
@@ -28614,6 +28615,8 @@
 
 -[@brianli96](https://github.com/brianli96/)
 
+-[@karthik](https://github.com/karthik-mogilipuram)
+
 -[@levicrs](https://github.com/levicrs/)
 
 -[@SujayAmberkar](https://github.com/SujayAmberkar/)
@@ -28763,3 +28766,9 @@
 -[@Loukas4](https://github.com/Loukas4/)
 
 -[@meollem](https://github.com/meollem/)
+
+-[@VicodinAbuser](https://github.com/VicodinAbuser/)
+
+-[@tnguyen0393](https://github.com/tnguyen0393)
+
+-[@savvasg35](https://github.com/Savvasg35)
