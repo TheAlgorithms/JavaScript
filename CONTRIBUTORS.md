@@ -28787,7 +28787,7 @@
 
 -[@savvasg35](https://github.com/Savvasg35)
 
--[@JacDawn] (https://github.com/JacDawn)
+-[@JacDawn](https://github.com/JacDawn)
 
 -[@alericoj10](https://github.com/alericoj10)
 
@@ -28795,3 +28795,8 @@
 
 -[@drajczak](https://github.com/drajczak)
 
+-[@dinezszh](https://github.com/dinezszh)
+
+-[@Sfrench5](https://github.com/Sfrench5)
+
+-[@Borovnica1](https://github.com/Borovnica1)
