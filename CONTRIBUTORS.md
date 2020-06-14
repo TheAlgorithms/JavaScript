@@ -391,6 +391,8 @@
 
 -[@Noufal2k](https://github.com/Noufal2k)
 
+-[@erickwithack](https://github.com/erickwithack)
+
 -[@MrAFerreira](https://github.com/MrAFerreira)
 
 -[@NickPax](https://github.com/NickPax)
@@ -28800,3 +28802,7 @@
 -[@Borovnica1](https://github.com/Borovnica1)
 
 -[@arkeo01](https://github.com/arkeo01)
+
+-[@Deborah-R](https://github.com/Deborah-R/)
+
+-[@RituRajput](https://github.com/RituRajput)
