@@ -1,4 +1,5 @@
 # Contributors
+
 -[@seakun](https://github.com/seakun)
 
 -[@divyanshukumar10](https://github.com/divyanshukumar10)
@@ -28695,7 +28696,7 @@
 
 -[@wtom377](https://github.com/wtom377)
 
-- [@iamgriffon](https://github.com/iamgriffon)
+-   [@iamgriffon](https://github.com/iamgriffon)
 
 -[@ParthJ39](https://github.com/ParthJ39/)
 
@@ -28800,6 +28801,8 @@
 -[@Sfrench5](https://github.com/Sfrench5)
 
 -[@Borovnica1](https://github.com/Borovnica1)
+
+-[@tomasbruzza](https://github.com/tomasbruzza)
 
 -[@arkeo01](https://github.com/arkeo01)
 
