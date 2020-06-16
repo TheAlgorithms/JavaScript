@@ -28844,6 +28844,8 @@
 
 -[@persianboy221](https://github.com/persianboy221/)
 
+-[@amishavashishtha](https://github.com/amishavashishtha/)
+
 -[@eugene3231](https://github.com/eugene3231/)
 
 -[@saurabhsubham113](https://github.com/saurabhsubham113)
@@ -28875,3 +28877,21 @@
 -[@Fiyi-A](https://github.com/Fiyi-A)
 
 -[@Sudhip007](https://github.com/Sudhip007)
+
+-[@fares1994](https://github.com/fares1994)
+
+-[@vanishtachangea](https://github.com/vanishtachangea)
+
+-[@brianabplanalp1](https://github.com/brianabplanalp1)
+
+-[@ceafive](https://github.com/ceafive)
+
+-[@Vicwin13](https://github.com/Vicwin13)
+
+-[@Dertero](https://github.com/Dertero)
+
+-[@mag-d-alen](https://github.com/mag-d-alen)
+
+-[@svedula](https://github.com/svedula)
+
+-[@GWilczyk](https://github.com/GWilczyk/)
