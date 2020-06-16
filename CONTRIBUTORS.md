@@ -28873,5 +28873,3 @@
 -[@rafaelnq](https://github.com/rafaelnq)
 
 -[@Fiyi-A](https://github.com/Fiyi-A)
-
--[@AaryanSarnaik](https://github.com/AaryanSarnaik)
