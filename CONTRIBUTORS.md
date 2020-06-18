@@ -44,6 +44,8 @@
 
 -[@inalien](https://github.com/inalien)
 
+-[@anandsimmy](https://github.com/anandsimmy)
+
 -[@dboland77](https://github.com/dboland77)
 
 -[@olividir](https://github.com/olividir)
