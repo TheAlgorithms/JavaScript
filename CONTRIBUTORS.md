@@ -44,6 +44,8 @@
 
 -[@inalien](https://github.com/inalien)
 
+-[@anandsimmy](https://github.com/anandsimmy)
+
 -[@dboland77](https://github.com/dboland77)
 
 -[@olividir](https://github.com/olividir)
@@ -28913,3 +28915,31 @@
 -[@GWilczyk](https://github.com/GWilczyk/)
 
 -[@JanSobus](https://github.com/JanSobus)
+
+-[@srihas](https://github.com/srihas/)
+
+-[@m-couto](https://github.com/m-couto)
+
+-[@Akhilkmr78](https://github.com/Akhilkmr78/)
+
+-[@VinSanity8](https://github.com/VinSanity8)
+
+-[@Mahdi-Soultana](https://github.com/Mahdi-Soultana)
+
+-[@LuanoRodrigues](https://github.com/LuanoRodrigues)
+
+-[@nahegog](https://github.com/nahegog/)
+
+-[@kisborg](https://github.com/kisborg/)
+
+-[@gabiriya](https://github.com/gabiriya)
+
+-[@NoumanAziz](https://github.com/NoumanAziz)
+
+-[@Peter-Varga08](https://github.com/Peter-Varga08)
+
+-[@Farahdev](https://github.com/farahdev/)
+
+-[@TheGalekxy](https://github.com/TheGalekxy)
+
+-[@BenGraham-Git](https://github.com/BenGraham-Git)
