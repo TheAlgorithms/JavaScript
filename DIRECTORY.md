@@ -1,8 +1,4 @@
 
-## Algorithms
-  * [Dijkstra's](https://github.com/TheAlgorithms/Javascript/blob/master/Algorithms/Dijkstra's.js)
-  * [SieveOfEratosthenes](https://github.com/TheAlgorithms/Javascript/blob/master/Algorithms/SieveOfEratosthenes.js)
-
 ## Ciphers
   * [CaesarsCipher](https://github.com/TheAlgorithms/Javascript/blob/master/Ciphers/CaesarsCipher.js)
   * [KeyFinder](https://github.com/TheAlgorithms/Javascript/blob/master/Ciphers/KeyFinder.js)
@@ -39,6 +35,7 @@
   * [SieveOfEratosthenes](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/SieveOfEratosthenes.js)
 
 ## Graphs
+  * [Dijkstra](https://github.com/TheAlgorithms/Javascript/blob/master/Graphs/Dijkstra.js)
   * [DijkstraSmallestPath](https://github.com/TheAlgorithms/Javascript/blob/master/Graphs/DijkstraSmallestPath.js)
 
 ## Hashes
@@ -60,6 +57,7 @@
   * [FindLcm](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/FindLcm.js)
   * [Palindrome](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/Palindrome.js)
   * [PascalTriangle](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/PascalTriangle.js)
+  * [SieveOfEratosthenes](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/SieveOfEratosthenes.js)
 
 ## Recursive
   * [EucledianGCD](https://github.com/TheAlgorithms/Javascript/blob/master/Recursive/EucledianGCD.js)
