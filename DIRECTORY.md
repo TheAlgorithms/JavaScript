@@ -34,6 +34,9 @@
   * [NumberOfSubsetEqualToGivenSum](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/NumberOfSubsetEqualToGivenSum.js)
   * [SieveOfEratosthenes](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/SieveOfEratosthenes.js)
 
+## Graphs
+  * [DijkstraSmallestPath](https://github.com/TheAlgorithms/Javascript/blob/master/Graphs/DijkstraSmallestPath.js)
+
 ## Hashes
   * [SHA1](https://github.com/TheAlgorithms/Javascript/blob/master/Hashes/SHA1.js)
   * [SHA256](https://github.com/TheAlgorithms/Javascript/blob/master/Hashes/SHA256.js)
@@ -47,7 +50,6 @@
 ## Maths
   * [Abs](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/Abs.js)
   * [AverageMean](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/AverageMean.js)
-  * [DijkstraSmallestPath](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/DijkstraSmallestPath.js)
   * [Factorial](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/Factorial.js)
   * [Fibonacci](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/Fibonacci.js)
   * [FindHcf](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/FindHcf.js)
