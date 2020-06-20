@@ -1,4 +1,8 @@
 
+## Algorithms
+  * [Dijkstra's](https://github.com/TheAlgorithms/Javascript/blob/master/Algorithms/Dijkstra's.js)
+  * [SieveOfEratosthenes](https://github.com/TheAlgorithms/Javascript/blob/master/Algorithms/SieveOfEratosthenes.js)
+
 ## Ciphers
   * [CaesarsCipher](https://github.com/TheAlgorithms/Javascript/blob/master/Ciphers/CaesarsCipher.js)
   * [KeyFinder](https://github.com/TheAlgorithms/Javascript/blob/master/Ciphers/KeyFinder.js)
