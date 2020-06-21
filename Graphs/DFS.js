@@ -60,6 +60,11 @@ var tree = [
   { value: 1, left: null, right: null }
 ]
 
+searchDFS(tree, 9)
+searchDFS(tree, 10)
+
+traverseDFS(6)
+
 //            6
 //           / \
 //          5   7
