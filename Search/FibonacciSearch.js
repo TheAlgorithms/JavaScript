@@ -1,5 +1,5 @@
 /* In a sorted array, it uses the Fibonacci series to determine the index
-* position to be searched in the array. The idea is it find the Fibonacci number(Fn)
+* position to be searched in the array. The idea is to find the smallest Fibonacci number(Fn)
 * that is greater or equal to the size of the array. Then compare the item with the element
 * at (Fn-1) position in the array. If they are equal, the search is successful, and the element is at (Fn-1 + 1).
 * If the item is smaller, it is searched in the sublist left to (Fn-1).
@@ -7,10 +7,6 @@
 * Fibonacci number >= size of the sublist to be searched is taken, and the whole process is repeated
 * until the desired element is found, or the sublist is reduced to a single element that is not equal to item.
 */
-
-function minVal (x, y) {
-  return (x <= y) ? x : y
-}
 
 function fiboNacciSearch (arr, x, size) {
   let fibTwo = 0
@@ -26,7 +22,7 @@ function fiboNacciSearch (arr, x, size) {
   let offset = -1
 
   while (fibN > 1) {
-    const i = minVal(offset + fibTwo, size - 1)
+    const i = Math.min(offset + fibTwo, size - 1)
 
     if (arr[i] < x) {
       fibN = fibOne
