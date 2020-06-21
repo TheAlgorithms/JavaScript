@@ -1,0 +1,13 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "A repository for All algorithms implemented in Javascript (for educational purposes only)",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TheAlgorithms",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "node-fetch": "2.6.0"
+  }
+}
