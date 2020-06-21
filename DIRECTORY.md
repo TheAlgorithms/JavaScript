@@ -79,7 +79,7 @@
   * [FlashSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/FlashSort.js)
   * [GnomeSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/GnomeSort.js)
   * [HeapSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/HeapSort.js)
-  * [Heapsort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/Heapsort.js)
+  * [HeapSortV2](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/HeapSortV2.js)
   * [InsertionSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/InsertionSort.js)
   * [MergeSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/MergeSort.js)
   * [QuickSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/QuickSort.js)
@@ -92,3 +92,6 @@
 ## String
   * [ReverseString](https://github.com/TheAlgorithms/Javascript/blob/master/String/ReverseString.js)
   * [ReverseWords](https://github.com/TheAlgorithms/Javascript/blob/master/String/ReverseWords.js)
+
+## Web-Programming
+  * [OpenWeatherMaps](https://github.com/TheAlgorithms/Javascript/blob/master/Web-Programming/OpenWeatherMaps.js)
