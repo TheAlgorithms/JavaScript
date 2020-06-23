@@ -1,5 +1,13 @@
 # Contributors
 
+-[@MdTosif](https://github.com/MdTosif)
+
+-[@AbhayHaridas](https://github.com/AbhayHaridas)
+
+-[@moosefz](https://github.com/moosefz)
+
+-[@varunpusarla](https://github.com/varunpusarla)
+
 -[@seakun](https://github.com/seakun)
 
 -[@divyanshukumar10](https://github.com/divyanshukumar10)
@@ -28700,7 +28708,7 @@
 
 -[@wtom377](https://github.com/wtom377)
 
-- [@iamgriffon](https://github.com/iamgriffon)
+-  [@iamgriffon](https://github.com/iamgriffon)
 
 -[@ParthJ39](https://github.com/ParthJ39/)
 
@@ -28948,7 +28956,6 @@
 
 -[@BenGraham-Git](https://github.com/BenGraham-Git)
 
-
 -[@belbiad44](https://github.com/belbiad44)
 
 -[@akp04](https://github.com/akp04)
@@ -28989,6 +28996,10 @@
 
 -[@codeagainst](https://github.com/codeagainst)
 
+-[@aviad-manne](https://github.com/aviad-manne)
+
+-[@vishush1701](https://github.com/vishush1701)
+
 -[@mwilke08](https://github.com/mwilke08)
 
 -[@Tuffin-J](https://github.com/Tuffin-J)
@@ -29011,10 +29022,22 @@
 
 -[@Mhlekazi](https://github.com/Mhlekazi)
 
--[@ayoub222](https://github.com/ayoub222) 
+-[@ayoub222](https://github.com/ayoub222)
 
 -[@WeronikaMicyk](https://github.com/WeronikaMicyk)
 
 -[@nirmalieo3](https://github.com/nirmalieo3)
 
 -[@josegerard2000](https://github.com/josegerard2000/)
+
+-[@alexmadero](https://github.com/alexmadero)
+
+-[@VaheKhojayan](https://github.com/VaheKhojayan)
+
+-[@AndrewB21](https://github.com/AndrewB21)
+
+-[@skelleher2](https://github.com/skelleher2)
+
+-[@mohamed-lamselk](https://github.com/mohamed-lamselk/)
+
+-[@naibahmed96](https://github.com/naibahmed96)
