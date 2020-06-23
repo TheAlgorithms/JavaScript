@@ -3,6 +3,7 @@
   * [CaesarsCipher](https://github.com/TheAlgorithms/Javascript/blob/master/Ciphers/CaesarsCipher.js)
   * [KeyFinder](https://github.com/TheAlgorithms/Javascript/blob/master/Ciphers/KeyFinder.js)
   * [VigenereCipher](https://github.com/TheAlgorithms/Javascript/blob/master/Ciphers/VigenereCipher.js)
+  * [XORCipher](https://github.com/TheAlgorithms/Javascript/blob/master/Ciphers/XORCipher.js)
 
 ## Conversions
   * [DecimalToBinary](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/DecimalToBinary.js)
