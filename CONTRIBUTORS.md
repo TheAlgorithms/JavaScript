@@ -1,5 +1,7 @@
 # Contributors
 
+-[@moosefz](https://github.com/moosefz)
+
 -[@varunpusarla](https://github.com/varunpusarla)
 
 -[@seakun](https://github.com/seakun)
