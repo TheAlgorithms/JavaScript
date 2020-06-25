@@ -8,6 +8,7 @@
   "author": "TheAlgorithms",
   "license": "GPL-3.0",
   "dependencies": {
+    "doctest": "^0.17.1",
     "node-fetch": "2.6.0"
   }
 }
