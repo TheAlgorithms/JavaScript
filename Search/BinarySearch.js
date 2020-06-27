@@ -7,7 +7,7 @@
  * value is found or the interval is empty.
  */
 
-function binarySearch( arr, x, low = 0, high = arr.length - 1 ) {
+function binarySearch (arr, x, low = 0, high = arr.length - 1){
   const mid = Math.floor(low + (high - low) / 2)
 
   if (high >= low) {
@@ -31,7 +31,7 @@ function binarySearch( arr, x, low = 0, high = arr.length - 1 ) {
 
 /* ---------------------------------- Test ---------------------------------- */
 
-const arr = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+const arr = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 const stringArr = [
   'Alpha',
   'Bravo',
@@ -58,13 +58,13 @@ const stringArr = [
   'Whiskey',
   'X-Ray',
   'Yankee',
-  'Zulu',
-];
+  'Zulu'
+]
 
 console.log(binarySearch(arr, 3))
 console.log(binarySearch(arr, 7))
 console.log(binarySearch(arr, 13))
 
-console.log(binarySearch(stringArr, "Charlie"))
-console.log(binarySearch(stringArr, "Zulu"))
-console.log(binarySearch(stringArr, "Sierra"))
+console.log(binarySearch(stringArr, 'Charlie'))
+console.log(binarySearch(stringArr, 'Zulu'))
+console.log(binarySearch(stringArr, 'Sierra'))
