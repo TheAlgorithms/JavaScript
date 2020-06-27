@@ -7,7 +7,7 @@
  * value is found or the interval is empty.
  */
 
-function binarySearch (arr, x, low = 0, high = arr.length - 1){
+function binarySearch (arr, x, low = 0, high = arr.length - 1) {
   const mid = Math.floor(low + (high - low) / 2)
 
   if (high >= low) {
