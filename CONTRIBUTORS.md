@@ -1,5 +1,13 @@
 # Contributors
 
+-[@MdTosif](https://github.com/MdTosif)
+
+-[@AbhayHaridas](https://github.com/AbhayHaridas)
+
+-[@moosefz](https://github.com/moosefz)
+
+-[@varunpusarla](https://github.com/varunpusarla)
+
 -[@seakun](https://github.com/seakun)
 
 -[@divyanshukumar10](https://github.com/divyanshukumar10)
@@ -28794,6 +28802,8 @@
 
 -[@savvasg35](https://github.com/Savvasg35)
 
+-[@mrpandey1](https://github.com/mrpandey1)
+
 -[@JacDawn](https://github.com/JacDawn)
 
 -[@alericoj10](https://github.com/alericoj10)
@@ -28918,6 +28928,8 @@
 
 -[@GWilczyk](https://github.com/GWilczyk/)
 
+-[@GloryToTheEmpire](https://github.com/GloryToTheEmpire/)
+
 -[@JanSobus](https://github.com/JanSobus)
 
 -[@srihas](https://github.com/srihas/)
@@ -28947,7 +28959,6 @@
 -[@TheGalekxy](https://github.com/TheGalekxy)
 
 -[@BenGraham-Git](https://github.com/BenGraham-Git)
-
 
 -[@belbiad44](https://github.com/belbiad44)
 
@@ -28989,6 +29000,16 @@
 
 -[@codeagainst](https://github.com/codeagainst)
 
+-[@radha-rathore](https://github.com/radha-rathore)
+
+-[@ulvi199517](https://github.com/ulvi199517)
+
+-[@cuneyter](https://github.com/cuneyter)
+
+-[@aviad-manne](https://github.com/aviad-manne)
+
+-[@vishush1701](https://github.com/vishush1701)
+
 -[@mwilke08](https://github.com/mwilke08)
 
 -[@Tuffin-J](https://github.com/Tuffin-J)
@@ -29011,10 +29032,108 @@
 
 -[@Mhlekazi](https://github.com/Mhlekazi)
 
--[@ayoub222](https://github.com/ayoub222) 
+-[@ayoub222](https://github.com/ayoub222)
 
 -[@WeronikaMicyk](https://github.com/WeronikaMicyk)
 
 -[@nirmalieo3](https://github.com/nirmalieo3)
 
 -[@Pruthvi-Shivappa](https://github.com/Pruthvi-Shivappa)
+
+-[@Raz0rSharp](https://github.com/Raz0rSharp)
+
+-[@JoseNaime](https://github.com/JoseNaime)
+
+-[@gcbest](https://github.com/gcbest)
+
+-[@st875052018](https://github.com/st875052018)
+
+-[@josegerard2000](https://github.com/josegerard2000/)
+
+-[@alexmadero](https://github.com/alexmadero)
+
+-[@VaheKhojayan](https://github.com/VaheKhojayan)
+
+-[@AndrewB21](https://github.com/AndrewB21)
+
+-[@skelleher2](https://github.com/skelleher2)
+
+-[@mohamed-lamselk](https://github.com/mohamed-lamselk/)
+
+-[@naibahmed96](https://github.com/naibahmed96)
+
+-[@nilotpaldhar](https://github.com/nilotpaldhar)
+
+-[@riketag](https://github.com/riketag)
+
+-[@MHD22](https://github.com/MHD22)
+
+-[@neverdue](https://github.com/neverdue)
+
+-[@Pre2010](https://github.com/Pre2010)
+
+-[@Bastinda18](https://github.com/Bastinda18)
+
+-[@StephanieHarston](https://github.com/StephanieHarston/)
+
+-[@yuhashmi](https://github.com/yuhashmi)
+
+-[@Randle5118](https://github.com/Randle5118)
+
+-[@nmudd037](https://github.com/nmudd037/)
+
+-[@ChristyLucid](https://github.com/ChristyLucid/)
+
+-[@hbswimz](https://github.com/hbswimz)
+
+-[@imajaytyagi](https://github.com/imajaytyagi/)
+
+-[@mohittygithub](https://github.com/mohittygithub)
+
+-[@diegollanes](https://github.com/diegollanes/)
+
+-[@peteruche21](https://github.com/peteruche21)
+
+-[@gggTalbiggg](https://github.com/gggTalbiggg)
+
+-[@kfriden](https://github.com/kfriden/)
+
+-[@olsenme](https://github.com/olsenme)
+
+-[@khoaHyh](https://github.com/khoaHyh)
+
+-[@shantanusoam](https://github.com/shantanusoam)
+
+-[@yashyenpure](https://github.com/yashyenpure/)
+
+-[@evavlada](https://github.com/evavlada)
+
+-[@avishek04](https://github.com/avishek04)
+
+-[@chaseburklund](https://github.com/chaseburklund/)
+
+-[@a-chahande](https://github.com/a-chahande)
+
+-[@Himanshu-180875](https://github.com/Himanshu-180875)
+
+-[@mesubenjeemusu](https://github.com/mesubenjeemusu)
+
+-[@davidtheday](https://github.com/davidtheday)
+
+-[@Avani-M-Sanghvi](https://github.com/Avani-M-Sanghvi/)
+
+-[@asaralegui](https://github.com/asaralegui)
+
+-[@monika5942](https://github.com/monika5942/)
+
+-[@baocatsamac](https://github.com/baocatsamac)
+
+-[@Gal84](https://github.com/Gal84)
+
+-[@grigorgevorgyan](https://github.com/grigorgevorgyan)
+
+-[@gogpaule](https://github.com/gogpaulie/)
+
+-[@laynel2](https://github.com/laynel2)
+
+-[@eglove](https://github.com/eglove)
