@@ -29038,6 +29038,8 @@
 
 -[@nirmalieo3](https://github.com/nirmalieo3)
 
+-[@Pruthvi-Shivappa](https://github.com/Pruthvi-Shivappa)
+
 -[@Raz0rSharp](https://github.com/Raz0rSharp)
 
 -[@JoseNaime](https://github.com/JoseNaime)
@@ -29060,6 +29062,25 @@
 
 -[@naibahmed96](https://github.com/naibahmed96)
 
+-[@ruvenpinhasov](https://https://github.com/ruvenpinhasov)
+
+-[@sasa1sasa](https://github.com/sasa1sasa)
+
+-[@engineermaggie](https://github.com/engineermaggie/)
+
+-[@buriancl](https://github.com/buriancl)
+
+-[@yeidan79](https://github.com/yeidan79)
+
+-[@Resardo](https://github.com/Resardo)
+
+-[@AKP-github] (https://github.com/AKP-github/)
+
+-[@nilotpaldhar](https://github.com/nilotpaldhar)
+
+-[@riketag](https://github.com/riketag)
+
+-[@MHD22](https://github.com/MHD22)
 
 -[@neverdue](https://github.com/neverdue)
 
@@ -29132,3 +29153,5 @@
 -[@eglove](https://github.com/eglove)
 
 -[@palo1992](https://github.com/palo1992)
+
+-[@eglove](https://github.com/eglove)
