@@ -28708,7 +28708,7 @@
 
 -[@wtom377](https://github.com/wtom377)
 
--  [@iamgriffon](https://github.com/iamgriffon)
+- [@iamgriffon](https://github.com/iamgriffon)
 
 -[@ParthJ39](https://github.com/ParthJ39/)
 
@@ -29059,3 +29059,31 @@
 -[@naibahmed96](https://github.com/naibahmed96)
 
 -[@avishek04](https://github.com/avishek04)
+
+-[@chaseburklund](https://github.com/chaseburklund/)
+
+-[@a-chahande](https://github.com/a-chahande)
+
+-[@Himanshu-180875](https://github.com/Himanshu-180875)
+
+-[@mesubenjeemusu](https://github.com/mesubenjeemusu)
+
+-[@davidtheday](https://github.com/davidtheday)
+
+-[@Avani-M-Sanghvi](https://github.com/Avani-M-Sanghvi/)
+
+-[@asaralegui](https://github.com/asaralegui)
+
+-[@monika5942](https://github.com/monika5942/)
+
+-[@baocatsamac](https://github.com/baocatsamac)
+
+-[@Gal84](https://github.com/Gal84)
+
+-[@grigorgevorgyan](https://github.com/grigorgevorgyan)
+
+-[@gogpaule](https://github.com/gogpaulie/)
+
+-[@laynel2](https://github.com/laynel2)
+
+-[@eglove](https://github.com/eglove)
