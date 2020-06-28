@@ -42,7 +42,7 @@
   * [SieveOfEratosthenes](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/SieveOfEratosthenes.js)
 
 ## Graphs
-  * [DFS](https://github.com/TheAlgorithms/Javascript/blob/master/Graphs/DFS.js)
+  * [DepthFirstSearch](https://github.com/TheAlgorithms/Javascript/blob/master/Graphs/DepthFirstSearch.js)
   * [Dijkstra](https://github.com/TheAlgorithms/Javascript/blob/master/Graphs/Dijkstra.js)
   * [DijkstraSmallestPath](https://github.com/TheAlgorithms/Javascript/blob/master/Graphs/DijkstraSmallestPath.js)
 
