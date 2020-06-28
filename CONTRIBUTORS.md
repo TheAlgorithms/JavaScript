@@ -1,5 +1,7 @@
 # Contributors
 
+-[@shuashock](https://github.com/shuashock)
+
 -[@MdTosif](https://github.com/MdTosif)
 
 -[@AbhayHaridas](https://github.com/AbhayHaridas)
