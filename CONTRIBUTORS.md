@@ -29064,6 +29064,8 @@
 
 -[@jalonghurst](https://github.com/jalonghurst)
 
+-[@mrwaqass](https://github.com/mrwaqass)
+
 -[@ruvenpinhasov](https://https://github.com/ruvenpinhasov)
 
 -[@sasa1sasa](https://github.com/sasa1sasa)
@@ -29153,3 +29155,5 @@
 -[@laynel2](https://github.com/laynel2)
 
 -[@eglove](https://github.com/eglove)
+
+-[@palo1992](https://github.com/palo1992)
