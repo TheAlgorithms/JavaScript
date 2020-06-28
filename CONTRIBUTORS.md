@@ -28865,6 +28865,10 @@
 
 -[@RituRajput](https://github.com/RituRajput)
 
+-[@Shoumikh](https://github.com/Shoumikh/)
+
+-[@amohant8](https://github.com/amohant8)
+
 -[@arunspectator](https://github.com/arunspectator)
 
 -[@persianboy221](https://github.com/persianboy221/)
@@ -28901,6 +28905,12 @@
 
 -[@Fiyi-A](https://github.com/Fiyi-A)
 
+-[@HasselGR](https://github.com/HasselGR/)
+
+-[@AaryanSarnaik](https://github.com/AaryanSarnaik)
+
+-[isabelmarh] (https://github.com/isabelmarh)
+
 -[@jyun9504](https://github.com/jyun9504)
 
 -[@riddhax](https://github.com/riddhax)
@@ -28932,6 +28942,24 @@
 -[@svedula](https://github.com/svedula)
 
 -[@GWilczyk](https://github.com/GWilczyk/)
+
+-[@mleblanc94](https://github.com/mleblanc94/)
+
+-[@georgecorpus](https://github.com/georgecorpus)
+
+-[@mandimartins](https://github.com/mandimartins)
+
+-[@hiro246](https://github.com/hiro246/)
+
+-[@enkeipy](https://github.com/enkeipy/)
+
+-[@barbaro](https://github.com/barbaroreyes)
+
+-[@iCarlo](https://github.com/iCarlo/)
+
+-[@iahsanujunda](https://github.com/iahsanujunda)
+
+-[@GopinathSelvaraj7](https://github.com/GopinathSelvaraj7/)
 
 -[@cmchiquin](https://github.com/cmchiquin/)
 
@@ -29250,3 +29278,5 @@
 -[@Ryan-Solomon](https://github.com/Ryan-Solomon)
 
 -[@jadeutsch](https://github.com/jadeutsch)
+
+-[@yousufalaa10](https://github.com/yousufalaa10)
