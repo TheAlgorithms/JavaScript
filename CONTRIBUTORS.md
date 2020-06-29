@@ -28825,6 +28825,8 @@
 
 -[@Borovnica1](https://github.com/Borovnica1)
 
+-[@TechSynthesis](https://github.com/TechSynthesis)
+
 -[@TzarLN](https://github.com/TzarLN/)
 
 -[@Saam09](https://github.com/Saam09)
