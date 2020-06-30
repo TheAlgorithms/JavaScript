@@ -342,7 +342,7 @@
 -[@hashcodepk](https://github.com/Hashcodepk)
 
 -[@uniqueayo1988](https://github.com/uniqueayo1988)
-
+-[@kumarnitinsingh](https://github.com/kumarnitinsingh/)
 -[@krishnanath](https://github.com/krishnanath)
 
 -[@nnh242](https://github.com/nnh242)
