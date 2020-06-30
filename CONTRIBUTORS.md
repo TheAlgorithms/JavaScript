@@ -28396,7 +28396,6 @@
 
 -[@ShineTitus](https://github.com/ShineTitus/)
 
-
 -[@KurtAg1](https://github.com/KurtAg1)
 
 -[@theloftwaves](https://github.com/theloftwaves)
@@ -28572,6 +28571,8 @@
 -[@tejas5900](https://github.com/tejas5900/)
 
 -[@ndmx](https://github.com/ndmx/)
+
+-[@miochung7](https://github.com/miochung7)
 
 -[@NirmalSilwal](https://github.com/NirmalSilwal/)
 
@@ -29286,7 +29287,7 @@
 
 -[@Resardo](https://github.com/Resardo)
 
--[@AKP-github] (https://github.com/AKP-github/)
+-[@AKP-github](https://github.com/AKP-github/)
 
 -[@nilotpaldhar](https://github.com/nilotpaldhar)
 
@@ -29394,7 +29395,7 @@
 
 -[@Melkam-code](https://github.com/Melkam-code)
 
--[@rodrigofariasdeveloper] (https://github.com/rodrigofariasdeveloper)
+-[@rodrigofariasdeveloper](https://github.com/rodrigofariasdeveloper)
 
 -[@dsouza28](https://github.com/dsouza28/)
 
