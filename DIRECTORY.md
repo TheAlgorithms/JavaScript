@@ -98,6 +98,7 @@
   * [WiggleSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/WiggleSort.js)
 
 ## String
+  * [CheckPalindrome](https://github.com/TheAlgorithms/Javascript/blob/master/String/CheckPalindrome.js)
   * [ReverseString](https://github.com/TheAlgorithms/Javascript/blob/master/String/ReverseString.js)
   * [ReverseWords](https://github.com/TheAlgorithms/Javascript/blob/master/String/ReverseWords.js)
 
