@@ -28396,7 +28396,6 @@
 
 -[@ShineTitus](https://github.com/ShineTitus/)
 
-
 -[@KurtAg1](https://github.com/KurtAg1)
 
 -[@theloftwaves](https://github.com/theloftwaves)
@@ -28572,6 +28571,8 @@
 -[@tejas5900](https://github.com/tejas5900/)
 
 -[@ndmx](https://github.com/ndmx/)
+
+-[@miochung7](https://github.com/miochung7)
 
 -[@NirmalSilwal](https://github.com/NirmalSilwal/)
 
@@ -28853,6 +28854,8 @@
 -[@Sfrench5](https://github.com/Sfrench5)
 
 -[@Borovnica1](https://github.com/Borovnica1)
+
+-[@mohankumar210](https://github.com/mohankumar210)
 
 -[@Sainithin-bit](https://github.com/Sainithin-bit)
 
@@ -29284,7 +29287,7 @@
 
 -[@Resardo](https://github.com/Resardo)
 
--[@AKP-github] (https://github.com/AKP-github/)
+-[@AKP-github](https://github.com/AKP-github/)
 
 -[@nilotpaldhar](https://github.com/nilotpaldhar)
 
@@ -29392,11 +29395,13 @@
 
 -[@Melkam-code](https://github.com/Melkam-code)
 
--[@rodrigofariasdeveloper] (https://github.com/rodrigofariasdeveloper)
+-[@rodrigofariasdeveloper](https://github.com/rodrigofariasdeveloper)
 
 -[@dsouza28](https://github.com/dsouza28/)
 
 -[@jv-schwartz](https://github.com/jv-schwartz)
+
+-[@Aman-Rider](https://github.com/Aman-Rider)
 
 -[@Currygobig30](https://https://github.com/Currygobig30)
 
@@ -29421,3 +29426,9 @@
 -[@Anuj0103](https://github.com/Anuj0103/)
 
 -[@Ahmad-mu](https://github.com/Ahmad-mu/)
+
+-[@andbroz](https://github.com/andbroz/)
+
+-[@micaiah-effiong](https://github.com/micaiah-effiong)
+
+-[@ajayjarhad](https://github.com/ajayjarhad)
