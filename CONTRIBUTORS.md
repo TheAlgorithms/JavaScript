@@ -8,6 +8,8 @@
 
 -[@AbhayHaridas](https://github.com/AbhayHaridas)
 
+- [@avyasharma](https://github.com/avyasharma)
+
 -[@moosefz](https://github.com/moosefz)
 
 -[@varunpusarla](https://github.com/varunpusarla)
