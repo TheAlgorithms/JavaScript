@@ -41,6 +41,8 @@
 
 -[@Emmaccen](https://github.com/Emmaccen)
 
+-[@khushi](https://github.com/khushi0302001)
+
 -[@rajindersingh751](https://github.com/rajindersingh751)
 
 -[@adinautiyal](https://github.com/adinautiyal)
