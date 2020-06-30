@@ -3627,7 +3627,7 @@
 
 -[@mViolet](https://github.com/mViolet)
 
--[@RaduRS](https://github.com/RaduRS)
+-[@RS](https://github.com/RaduRS)
 
 -[@Shambojf](https://github.com/Shambojf)
 
@@ -9240,6 +9240,10 @@
 -[@Ranacode](https://github.com/Ranacode)
 
 -[@kraulekrankzahn](https://github.com/kraulekrankzahn)
+
+-[@kevin573](https://github.com/kevin573)
+
+-[@Radu-Ionut](https://github.com/Radu-Ionut
 
 -[@arjunkharbanda](https://github.com/arjunkharbanda)
 
