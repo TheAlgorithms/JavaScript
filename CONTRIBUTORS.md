@@ -16,6 +16,8 @@
 
 -[@divyanshukumar10](https://github.com/divyanshukumar10)
 
+-[@archanats](https://github.com/archanats)
+
 -[@DouglasKyrius](https://github.com/DouglasKyrius)
 
 -[@henrysaba](https://github.com/henrysaba)
