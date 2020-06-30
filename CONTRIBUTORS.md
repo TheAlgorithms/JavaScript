@@ -28685,8 +28685,7 @@
 -[@theWorkMachine](https://github.com/theWorkMachine)
 
 -[@Humberto111](https://github.com/Humberto111/)
-
--[@PhamFatale](https://github.com/PhamFatale/)
+7 -[@PhamFatale](https://github.com/PhamFatale/)
 
 -[@itsnou](https://github.com/itsnou/)
 
@@ -29434,12 +29433,18 @@
 
 -[@CCTSAI-tony](https://github.com/CCTSAI-Tony)
 
+-[@DW-Scientist](https://github.com/DW-Scientist/)
+
 -[@Comet466](https://github.com/Comet466)
 
 -[@thomaslebn](https://github.com/thomaslebn)
+
+-[@balazsjuhasz](https://github.com/balazsjuhasz/)
 
 -[@bboretzky](https://github.com/bboretzky)
 
 -[@algerieno](https://github.com/algerieno)
 
 -[@haase1020](https://github.com/haase1020)
+
+-[@ChrisPfeuffer](https://github.com/ChrisPfeuffer)
