@@ -29409,8 +29409,6 @@
 
 -[@Currygobig30](https://https://github.com/Currygobig30)
 
-
-
 -[@gilboa48](https://github.com/gilboa48)
 
 -[@akatul2885](https://github.com/akatul2885)
@@ -29446,3 +29444,7 @@
 -[@thomaslebn](https://github.com/thomaslebn)
 
 -[@balazsjuhasz](https://github.com/balazsjuhasz/)
+
+-[@bboretzky](https://github.com/bboretzky)
+
+-[@algerieno](https://github.com/algerieno)
