@@ -7856,7 +7856,7 @@
 
 -[@Yeswanth-kumar](https://github.com/Yeswanth-kumar)
 
--[qsim98](https://github.com/qsim98)
+-[@qsim98](https://github.com/qsim98)
 
 -[@icom-yassinghandri](https://github.com/icom-yassinghandri)
 
@@ -29498,3 +29498,7 @@
 -[@theNoobCoderd](https://github.com/theNoobCoderd)
 
 -[@TianHuangLab](https://github.com/TianHuangLab)
+
+-[@pramit94](https://github.com/pramit94)
+
+-[@PeterPython2020](https://github.com/PeterPython2020)
