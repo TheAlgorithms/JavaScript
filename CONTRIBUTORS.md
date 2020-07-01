@@ -7856,7 +7856,7 @@
 
 -[@Yeswanth-kumar](https://github.com/Yeswanth-kumar)
 
--[qsim98](https://github.com/qsim98)
+-[@qsim98](https://github.com/qsim98)
 
 -[@icom-yassinghandri](https://github.com/icom-yassinghandri)
 
@@ -29175,6 +29175,8 @@
 
 -[@codeagainst](https://github.com/codeagainst)
 
+-[@Rini1819](https://github.com/Rini1819)
+
 -[@yotam-bp](https://github.com/yotam-bp)
 
 -[@rakeshdmello](https://github.com/rakeshdmello)
@@ -29498,3 +29500,14 @@
 
 -[@vattcarter7](https://github.com/vattcarter7)
 
+-[@theNoobCoderd](https://github.com/theNoobCoderd)
+
+-[@Rinny073](https://github.com/Rinny073)
+
+-[@MBENKI](https://github.com/MBENKI)
+
+-[@TianHuangLab](https://github.com/TianHuangLab)
+
+-[@pramit94](https://github.com/pramit94)
+
+-[@PeterPython2020](https://github.com/PeterPython2020)
