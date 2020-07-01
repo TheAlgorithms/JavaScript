@@ -52,11 +52,7 @@ Algorithms in this repo should not be how-to examples for existing JavaScript pa
 #### Coding Style
 
 To maximize the readability and correctness of our code, we require that new submissions follow [JavaScript Standard Style](https://standardjs.com/)
-  - Command to  install JavaScript Standard Style
-    ```
-    $ npm install standard --save-dev
-    ```
-  - Usage
+  - Usage of JavaScript Standard Style
     ```
     $ standard MyFile.js  // if that fails, try: npx standard MyFile.js
     ```
