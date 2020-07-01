@@ -8,13 +8,15 @@
 
 -[@AbhayHaridas](https://github.com/AbhayHaridas)
 
-- [@avyasharma](https://github.com/avyasharma)
+-[@avyasharma](https://github.com/avyasharma)
 
 -[@moosefz](https://github.com/moosefz)
 
 -[@varunpusarla](https://github.com/varunpusarla)
 
--[@seakun](https://github.com/seakun) -[@swatiidixit](https://github.com/swatiidixit)
+-[@seakun](https://github.com/seakun)
+
+-[@swatiidixit](https://github.com/swatiidixit)
 
 -[@divyanshukumar10](https://github.com/divyanshukumar10)
 
@@ -344,7 +346,11 @@
 
 -[@hashcodepk](https://github.com/Hashcodepk)
 
--[@uniqueayo1988](https://github.com/uniqueayo1988) -[@kumarnitinsingh](https://github.com/kumarnitinsingh/) -[@krishnanath](https://github.com/krishnanath)
+-[@uniqueayo1988](https://github.com/uniqueayo1988)
+
+-[@kumarnitinsingh](https://github.com/kumarnitinsingh/)
+
+-[@krishnanath](https://github.com/krishnanath)
 
 -[@nnh242](https://github.com/nnh242)
 
@@ -8454,7 +8460,7 @@
 
 -[@kiritojx](https://github.com/kiritojx)
 
--[@sachingreen](https://github.com/sachingreen)
+-[@sachingreen](https://github.com/green)
 
 -[@MariusLarsen](https://github.com/MariusLarsen)
 
@@ -28388,7 +28394,7 @@
 
 -[@siddharthmagadum16](https://github.com/siddharthmagadum16/)
 
--[@sachin3973](<(https://github.com/sachin3973/)>)
+-[@sachin3973](https://github.com/sachin3973/)
 
 -[@arfizurrahman](https://github.com/arfizurrahman)
 
@@ -29448,6 +29454,10 @@
 -[@bboretzky](https://github.com/bboretzky)
 
 -[@algerieno](https://github.com/algerieno)
+
+-[@ChrisPfeuffer](https://github.com/ChrisPfeuffer)
+
+-[@rishi-koul](https://github.com/rishi-koul)
 
 -[@haase1020](https://github.com/haase1020)
 
