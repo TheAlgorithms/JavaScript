@@ -1,4 +1,5 @@
 # Contributors
+
 -[@Ripon-Patgiri](https://github.com/Ripon-Patgiri)
 
 -[@shuashock](https://github.com/shuashock)
@@ -11,9 +12,7 @@
 
 -[@varunpusarla](https://github.com/varunpusarla)
 
-
--[@seakun](https://github.com/seakun)
--[@swatiidixit](https://github.com/swatiidixit)
+-[@seakun](https://github.com/seakun) -[@swatiidixit](https://github.com/swatiidixit)
 
 -[@divyanshukumar10](https://github.com/divyanshukumar10)
 
@@ -343,9 +342,7 @@
 
 -[@hashcodepk](https://github.com/Hashcodepk)
 
--[@uniqueayo1988](https://github.com/uniqueayo1988)
--[@kumarnitinsingh](https://github.com/kumarnitinsingh/)
--[@krishnanath](https://github.com/krishnanath)
+-[@uniqueayo1988](https://github.com/uniqueayo1988) -[@kumarnitinsingh](https://github.com/kumarnitinsingh/) -[@krishnanath](https://github.com/krishnanath)
 
 -[@nnh242](https://github.com/nnh242)
 
@@ -25559,7 +25556,6 @@
 
 -[@zshutosk](https://github.com/zshutosk/)
 
-
 -[@mjbh831](https://github.com/mjbh831/)
 
 -[@mirkoweb](https://github.com/mirkoweb)
@@ -28736,7 +28732,6 @@
 
 -[@wtom377](https://github.com/wtom377)
 
-
 -[@iamgriffon](https://github.com/iamgriffon)
 
 - [@iamgriffon](https://github.com/iamgriffon)
@@ -28841,7 +28836,7 @@
 
 -[@Alsheikh-dev](https://github.com/Alsheikh-dev)
 
--[@AlinaDev252] (https://github.com/AlinaDev252)
+-[@AlinaDev252](https://github.com/AlinaDev252)
 
 -[@JoconDC](https://github.com/JoconDC)
 
@@ -28873,7 +28868,7 @@
 
 -[@RyanDuncan96](https://github.com/RyanDuncan96)
 
--[@kokikam] (https://github.com/kokikam)
+-[@kokikam](https://github.com/kokikam)
 
 -[@SumanIslam](https://github.com/SumanIslam)
 
@@ -28927,7 +28922,7 @@
 
 -[@coa16esp](https://github.com/coa16esp)
 
--[@MarkoTadic96](https://github.com/MarkoTadic96) 
+-[@MarkoTadic96](https://github.com/MarkoTadic96)
 
 -[@Tusharbond12](https://github.com/Tusharbond12)
 
@@ -29001,7 +28996,7 @@
 
 -[@AaryanSarnaik](https://github.com/AaryanSarnaik)
 
--[isabelmarh] (https://github.com/isabelmarh)
+-[isabelmarh](https://github.com/isabelmarh)
 
 -[@jyun9504](https://github.com/jyun9504)
 
@@ -29117,7 +29112,7 @@
 
 -[@BenGraham-Git](https://github.com/BenGraham-Git)
 
--[@tonyrlim] (https://github.com/tonyrlim)
+-[@tonyrlim](https://github.com/tonyrlim)
 
 -[@kojubivek](https://github.com/kojubivek/)
 
@@ -29426,3 +29421,5 @@
 -[@Anuj0103](https://github.com/Anuj0103/)
 
 -[@andbroz](https://github.com/andbroz/)
+
+-[@syatoss](https://github.com/syatoss/)
