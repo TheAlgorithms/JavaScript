@@ -1,5 +1,7 @@
 # Contributors
 
+-[@Vnyc](https://github.com/VnyC)
+
 -[@Ripon-Patgiri](https://github.com/Ripon-Patgiri)
 
 -[@shuashock](https://github.com/shuashock)
@@ -7856,7 +7858,7 @@
 
 -[@Yeswanth-kumar](https://github.com/Yeswanth-kumar)
 
--[qsim98](https://github.com/qsim98)
+-[@qsim98](https://github.com/qsim98)
 
 -[@icom-yassinghandri](https://github.com/icom-yassinghandri)
 
@@ -28841,8 +28843,9 @@
 
 -[@savvasg35](https://github.com/Savvasg35)
 
-
 -[@Naok000](https://github.com/Naok000)
+
+-[@awrightbus](https://github.com/awrightbus)
 
 -[@mrpandey1](https://github.com/mrpandey1)
 
@@ -28852,6 +28855,30 @@
 -[@alericoj10](https://github.com/alericoj10)
 
 -[@Alsheikh-dev](https://github.com/Alsheikh-dev)
+
+-[@GeorgiyPikulin](https://github.com/GeorgiyPikulin)
+
+-[@aliattallah](https://github.com/aliattallah)
+
+-[@jimijos](https://github.com/jimijos)
+
+-[@Nenad984](https://github.com/Nenad984/)
+
+-[@drajczak](https://github.com/drajczak)
+
+-[@McSuzy20](https://github.com/McSuzy20)
+
+-[@Nables](https://github.com/Nables/)
+
+-[@enzodqr](https://github.com/enzodqr)
+
+-[@matej24](https://github.com/matej24)
+
+-[@Ayu-commits](https://github.com/Ayu-commits)
+
+-[@khazier12](https://github.com/khazier12)
+
+-[@aravindvrajeev](https://github.com/aravindvrajeev)
 
 -[@AlinaDev252](https://github.com/AlinaDev252)
 
@@ -29179,6 +29206,8 @@
 
 -[@codeagainst](https://github.com/codeagainst)
 
+-[@Rini1819](https://github.com/Rini1819)
+
 -[@yotam-bp](https://github.com/yotam-bp)
 
 -[@rakeshdmello](https://github.com/rakeshdmello)
@@ -29437,6 +29466,8 @@
 
 -[@Anuj0103](https://github.com/Anuj0103/)
 
+-[sushmitha](https://github.com/sushmitha-ss/)
+
 -[@Ahmad-mu](https://github.com/Ahmad-mu/)
 
 -[@andbroz](https://github.com/andbroz/)
@@ -29498,3 +29529,27 @@
 -[@SBaumann94](https://github.com/SBaumann94/)
 
 -[@vattcarter7](https://github.com/vattcarter7)
+
+-[@vattcarter7](https://github.com/vattcarter7)
+
+-[@theNoobCoderd](https://github.com/theNoobCoderd)
+
+-[@Rinny073](https://github.com/Rinny073)
+
+-[@MBENKI](https://github.com/MBENKI)
+
+-[@TianHuangLab](https://github.com/TianHuangLab)
+
+-[@pramit94](https://github.com/pramit94)
+
+-[@PeterPython2020](https://github.com/PeterPython2020)
+
+-[@Kazim786](https://github.com/Kazim786)
+
+-[@hnguy96](https://github.com/hnguy96)
+
+-[@Zach-The-Gecko](https://github.com/Zach-The-Gecko)
+
+-[@henryboisdequin](https://github.com/henryboisdequin)
+
+-[@jaspal1983](https://github.com/jaspal1983)
