@@ -28558,6 +28558,8 @@
 
 -[@a3lam](https://github.com/a3lam)
 
+-[@CatSheiles](https://github.com/CatSheiles)
+
 -[@JAMorello](https://github.com/JAMorello)
 
 -[@anassbasbassi](https://github.com/anassbasbassi)
@@ -28697,7 +28699,8 @@
 -[@theWorkMachine](https://github.com/theWorkMachine)
 
 -[@Humberto111](https://github.com/Humberto111/)
-7 -[@PhamFatale](https://github.com/PhamFatale/)
+
+-[@PhamFatale](https://github.com/PhamFatale/)
 
 -[@itsnou](https://github.com/itsnou/)
 
@@ -28843,9 +28846,12 @@
 
 -[@savvasg35](https://github.com/Savvasg35)
 
+-[@Naok000](https://github.com/Naok000)
+
 -[@awrightbus](https://github.com/awrightbus)
 
 -[@mrpandey1](https://github.com/mrpandey1)
+
 
 -[@JacDawn](https://github.com/JacDawn)
 
@@ -29469,6 +29475,8 @@
 
 -[@andbroz](https://github.com/andbroz/)
 
+-[@syatoss](https://github.com/syatoss/)
+
 -[@micaiah-effiong](https://github.com/micaiah-effiong)
 
 -[@ajayjarhad](https://github.com/ajayjarhad)
@@ -29527,6 +29535,10 @@
 
 -[@vattcarter7](https://github.com/vattcarter7)
 
+-[@vattcarter7](https://github.com/vattcarter7)
+
+-[@CzarGol](https://github.com/CzarGol)
+
 -[@theNoobCoderd](https://github.com/theNoobCoderd)
 
 -[@Rinny073](https://github.com/Rinny073)
@@ -29546,7 +29558,16 @@
 -[@Zach-The-Gecko](https://github.com/Zach-The-Gecko)
 
 -[@henryboisdequin](https://github.com/henryboisdequin)
+
 -[@jaspal1983](https://github.com/jaspal1983)
 
 -[@Mussaveer](https://github.com/Mussaveer)
+
 -[@ankitjoshimsit](https://github.com/ankitjoshimsit)
+
+-[@cipriantepes] (https://github.com/cipriantepes)
+
+-[@narikian](https://github.com/narikian)
+
+-[@Sumbo-1](https://github.com/Sumbo-1)
+
