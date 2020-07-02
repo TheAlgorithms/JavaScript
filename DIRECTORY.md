@@ -4,6 +4,9 @@
   * [NQueen](https://github.com/TheAlgorithms/Javascript/blob/master/back-tracking/NQueen.js)
   * [Sudoku](https://github.com/TheAlgorithms/Javascript/blob/master/back-tracking/Sudoku.js)
 
+## Cache
+  * [LRUCache](https://github.com/TheAlgorithms/Javascript/blob/master/Cache/LRUCache.js)
+
 ## Ciphers
   * [CaesarsCipher](https://github.com/TheAlgorithms/Javascript/blob/master/Ciphers/CaesarsCipher.js)
   * [KeyFinder](https://github.com/TheAlgorithms/Javascript/blob/master/Ciphers/KeyFinder.js)
