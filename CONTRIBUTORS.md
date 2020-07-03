@@ -29573,7 +29573,7 @@
 
 -[@ankitjoshimsit](https://github.com/ankitjoshimsit)
 
--[@cipriantepes] (https://github.com/cipriantepes)
+-[@cipriantepes](https://github.com/cipriantepes)
 
 -[@narikian](https://github.com/narikian)
 
@@ -29582,6 +29582,8 @@
 -[@tsuraj225](https://github.com/tsuraj225)
 
 -[@liamxdillon](https://github.com/liamxdillon)
+
+-[@adityadeepak](https://github.com/adityadeepak)
 
 -[@vivaswat19](https://github.com/vivaswat19)
 
@@ -29618,3 +29620,7 @@
 -[@Vaibhaw0066](https://github.com/Vaibhaw0066)
 
 -[@Addair89](https://github.com/Addair89)
+
+-[@aman339](https://github.com/aman339)
+
+-[@EleniMar](https://github.com/EleniMar)
