@@ -10,8 +10,8 @@
 */
 
 const gridGetY = (columns, index) => {
-    return (Math.floor(index/columns)) + 1;
+  return (Math.floor(index / columns)) + 1
 }
 
-console.log(`If a square array has 400 elements, then the value of y for the 27th element is ${gridGetY(Math.sqrt(400),27)}`);
-console.log(`If an array has 7 columns and 3 rows, then the value of y for the 11th element is ${gridGetY(7,11)}`);
+console.log(`If a square array has 400 elements,  then the value of y for the 27th element is ${gridGetY(Math.sqrt(400),27)}`);
+console.log(`If an array has 7 columns and 3 rows,  then the value of y for the 11th element is ${gridGetY(7,11)}`);
