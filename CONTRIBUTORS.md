@@ -28850,6 +28850,8 @@
 
 -[@savvasg35](https://github.com/Savvasg35)
 
+-[@lanzoninicola](https://github.com/lanzoninicola)
+
 -[@greedy17](https://github.com/greedy17)
 
 -[@Istiak227](https://github.com/istiak227)
@@ -29688,9 +29690,11 @@
 
 -[@Neha045](https://github.com/Neha045/)
 
--[@domingub]()-[https://github.com/domingub/)
+-[@domingub](https://github.com/domingub/)
 
 -[@jybowers](https://github.com/jybowers/)
+
+-[@sangram11](https://github.com/sangram11/)
 
 -[@sangram11](https://github.com/sangram11/)
 
