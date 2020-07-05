@@ -29166,9 +29166,8 @@
 
 -[@BenGraham-Git](https://github.com/BenGraham-Git)
 
-<<<<<<< HEAD
 -[@Gouravadtani](https://github.com/Gouravadtani/)
-=======
+
 -[@tonyrlim](https://github.com/tonyrlim)
 
 -[@kojubivek](https://github.com/kojubivek/)
@@ -29304,6 +29303,8 @@
 -[@skelleher2](https://github.com/skelleher2)
 
 -[@mohamed-lamselk](https://github.com/mohamed-lamselk/)
+
+-[@naibahmed96](https://github.com/naibahmed96)
 
 -[@naibahmed96](https://github.com/naibahmed961)
 
@@ -29656,3 +29657,43 @@
 -[@Neha045](https://github.com/Neha045/)
 
 -[@domingub]()-[https://github.com/domingub/)
+
+-[@jybowers](https://github.com/jybowers/)
+
+-[@sangram11](https://github.com/sangram11/)
+
+-[@poyebanji](https://github.com/poyebanji/)
+
+-[@JamiuJimoh](https://github.com/JamiuJimoh/)
+
+-[@Prashant13199](https://github.com/Prashant13199/)
+
+-[@andrewhomka](https://github.com/andrewhomka)
+
+-[@kentlogic](https://github.com/kentlogic/)
+
+-[@logimix](https://github.com/logimix/)
+
+-[@prakash901](https://github.com/prakash901/)
+
+-[@siva432](https://github.com/siva432/)
+
+- [@duyanhdo](https://github.com/duyanhdo/)
+
+-[@duyanhdo](https://github.com/duyanhdo/)
+
+-[@harshyadav9210](https://github.com/harshyadav9210/)
+
+-[@leonasting](https://github.com/leonasting/)
+
+-[@123Sher](https://github.com/123Sher/)
+
+-[@suhailpgm](https://github.com/suhailpgm/)
+
+-[@danycalderon16](https://github.com/danycalderon16/)
+
+-[@sash9696](https://github.com/sash9696/)
+
+- [@Chukamystery](https://github.com/Chukamystery)
+
+-[@ashikta2001](https://github.com/ashikta2001/)
