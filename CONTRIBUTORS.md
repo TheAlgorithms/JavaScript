@@ -1,6 +1,5 @@
 # Contributors
 
-
 -[@DattuBurle](https://github.com/DattuBurle)
 
 -[@Vnyc](https://github.com/VnyC)
@@ -11,7 +10,6 @@
 
 -[@MdTosif](https://github.com/MdTosif)
 
-
 -[@ColinJR95](https://github.com/ColinJR95)
 
 -[@AbhayHaridas](https://github.com/AbhayHaridas)
@@ -21,7 +19,6 @@
 -[@moosefz](https://github.com/moosefz)
 
 -[@varunpusarla](https://github.com/varunpusarla)
-
 
 -[@seakun](https://github.com/seakun)
 
@@ -698,8 +695,6 @@
 -[@McMastS](https://github.com/McMastS)
 
 -[@tonydc1997](https://github.com/tonydc1997)
-
--[@roshan0708](https://github.com/roshan0708)
 
 -[@chinrar](https://github.com/chinrar)
 
@@ -8350,8 +8345,6 @@
 -[@Ismail-del](https://github.com/Ismail-del)
 
 -[@nataliepina](https://github.com/nataliepina)
-
--[@hulyak](https://github.com/hulyak)
 
 -[@kiradesu](https://github.com/kiradesu)
 
@@ -28249,8 +28242,6 @@
 
 -[@babygrootc](https://github.com/babygrootc)
 
--[@pranavmanitripathi](https://github.com/pranavmanitripathi)
-
 -[@andrewbom](https://github.com/andrewbom/)
 
 -[@raghav914](https://github.com/raghav914)
@@ -28302,12 +28293,6 @@
 -[@adriandrodriguez](https://github.com/adriandrodriguez/)
 
 -[@FernandoTorregrosa](https://github.com/FernandoTorregrosa)
-
--[@TheTwilightStorm](https://github.com/TheTwilightStorm)
-
--[@mun1b](https://github.com/mun1b)
-
--[@mun1b](https://github.com/mun1b)
 
 -[@Spielbergo](https://github.com/Spielbergo)
 
@@ -28416,6 +28401,8 @@
 -[@Sparksong](https://github.com/Sparksong)
 
 -[@hiteshsingh1](https://github.com/hiteshsingh1)
+
+-[@elcozy](https://github.com/elcozy)
 
 -[@AnmolPatil2](https://github.com/AnmolPatil2)
 
