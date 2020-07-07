@@ -1,5 +1,7 @@
 # Contributors
 
+-[@ataed](https://github.com/ataed)
+
 -[@DattuBurle](https://github.com/DattuBurle)
 
 -[@Vnyc](https://github.com/VnyC)
