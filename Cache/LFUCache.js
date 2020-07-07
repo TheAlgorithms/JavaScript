@@ -55,6 +55,9 @@ class DoubleLinkedList {
 
 class LFUCache {
   // LFU Cache to store a given capacity of data
+  // The Double Linked List is used to store the order of deletion from the cache
+  // The rear.prev holds the most frequently used key and the head.next holds the lest used key
+  // When the number of elements reaches the capacity, the least frequently used item is removed before adding the next key
   constructor (capacity) {
     this.list = new DoubleLinkedList()
     this.capacity = capacity
