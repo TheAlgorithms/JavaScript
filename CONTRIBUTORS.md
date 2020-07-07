@@ -18316,11 +18316,7 @@
 
 -[@coa16esp](https://github.com/coa16esp)
 
-# -[@njhnehf](https://github.com/njhnehf)
-
-    					  <!-- @format -->
-
-# Contributors
+-[@njhnehf](https://github.com/njhnehf)
 
 -[@ductringuyen](https://github.com/ductringuyen)
 
@@ -29799,6 +29795,8 @@
 -[@CarolinaM531](https://github.com/CarolinaM531/)
 
 -[@kadhirash](https://github.com/kadhirash)
+
+-[@DeepBahirshet](https://github.com/DeepBahirshet/)
 
 -[@amineElabbadi](https://github.com/amineElabbadi)
 
