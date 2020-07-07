@@ -48,6 +48,7 @@
   * [SieveOfEratosthenes](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/SieveOfEratosthenes.js)
 
 ## Graphs
+  * [ConnectedComponents](https://github.com/TheAlgorithms/Javascript/blob/master/Graphs/ConnectedComponents.js)
   * [DepthFirstSearch](https://github.com/TheAlgorithms/Javascript/blob/master/Graphs/DepthFirstSearch.js)
   * [Dijkstra](https://github.com/TheAlgorithms/Javascript/blob/master/Graphs/Dijkstra.js)
   * [DijkstraSmallestPath](https://github.com/TheAlgorithms/Javascript/blob/master/Graphs/DijkstraSmallestPath.js)
