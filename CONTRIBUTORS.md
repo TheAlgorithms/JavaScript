@@ -29843,6 +29843,9 @@
 -[@10samarth](https://github.com/10samarth)
 
 -[@biintushaet](https://github.com/biintushaet)
-[@Billygotclout](https://github.com/Billygotclout)
 
--[@Rupak](https://github.com/RupakVeerla)
+-[@Billygotclout](https://github.com/Billygotclout)
+
+-[@guy-patrick](https://github.com/guy-patrick)
+
+-[@RupakVeerla](https://github.com/RupakVeerla)
