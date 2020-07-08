@@ -29850,5 +29850,10 @@
 
 -[@RupakVeerla](https://github.com/RupakVeerla)
 
+-[@Krina-Thakkar](https://github.com/Krina-Thakkar)
+
 -[@Pipetr](https://github.com/Pipetr)
+
 -[@amalnj4858](https://github.com/amalnj4858/)
+
+-[@AlphaCodeEater](https://github.com/AlphaCodeEater/)
