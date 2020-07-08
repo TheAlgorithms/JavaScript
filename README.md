@@ -15,14 +15,17 @@ We don't care if you break things. This is a playground and we encourage failing
 
 ![fork image](https://help.github.com/assets/images/help/repository/fork_button.jpg)
 
-3. Clone _your forked repository_ (**replace \<your-github-username\>**) to your computer, for example:
+3. Clone _your forked repository_ to your computer, for example (**replace \<your-github-username\>**):
+
+![code ui](https://docs.github.com/assets/images/help/repository/code-button.png)
 
 Run this command inside your terminal:
+
 ```bash
 git clone https://github.com/<your-github-username>/start-here-guidelines.git
 ```
 
-Learn more about forking on the [GitHub help pages](https://help.github.com/en/github/getting-started-with-github/fork-a-repo).
+Learn more about [forking](https://help.github.com/en/github/getting-started-with-github/fork-a-repo) and [cloning a repo](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository).
 
 4. On your computer, open your text editor, and add your name to the `CONTRIBUTORS.md` file.
 
