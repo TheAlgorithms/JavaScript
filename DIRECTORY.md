@@ -52,6 +52,7 @@
   * [DepthFirstSearch](https://github.com/TheAlgorithms/Javascript/blob/master/Graphs/DepthFirstSearch.js)
   * [Dijkstra](https://github.com/TheAlgorithms/Javascript/blob/master/Graphs/Dijkstra.js)
   * [DijkstraSmallestPath](https://github.com/TheAlgorithms/Javascript/blob/master/Graphs/DijkstraSmallestPath.js)
+  * [PrimMST](https://github.com/TheAlgorithms/Javascript/blob/master/Graphs/PrimMST.js)
 
 ## Hashes
   * [SHA1](https://github.com/TheAlgorithms/Javascript/blob/master/Hashes/SHA1.js)
