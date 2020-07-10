@@ -1,5 +1,7 @@
 # Contributors
 
+-[@raphenium](https://github.com/raphenium)
+
 -[@ataed](https://github.com/ataed)
 
 -[@DattuBurle](https://github.com/DattuBurle)
@@ -29955,3 +29957,7 @@
 -[@ashish0201](https://github.com/ashish0201) 
 
 -[@fravanzyl3](https://github.com/franvanzyl3)
+
+-[@JRoman2018](https://github.com/JRoman2018)
+
+-[@seansom](https://github.com/seansom)
