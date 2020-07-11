@@ -29974,7 +29974,7 @@
 
 -[@manuelmgil](https://github.com/manuelmgil)
 
--[@ITPusheen] (https://github.com/ITPusheen)
+-[@ITPusheen](https://github.com/ITPusheen)
 
 -[@ionu87](https://github.com/ionu87)
 
