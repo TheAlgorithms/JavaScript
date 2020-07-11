@@ -29974,10 +29974,6 @@
 
 -[@manuelmgil](https://github.com/manuelmgil)
 
-<<<<<<< HEAD
--[@vijayselvan45](https://github.com/vijayselvan45)
-
-=======
 -[@ITPusheen](https://github.com/ITPusheen)
 
 -[@ionu87](https://github.com/ionu87)
@@ -29990,5 +29986,6 @@
 
 -[@shavya21](https://github.com/shavya21/)
 
-I ADDED SOME TEXT HERE -SEANSOM
->>>>>>> upstream/master
+
+
+
