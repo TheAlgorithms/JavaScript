@@ -8,48 +8,51 @@ We don't care if you break things. This is a playground and we encourage failing
 
 ## A Guide to Get Started
 
-1. Read the wonderful [_gitStarted Guide_](https://github.com/zero-to-mastery/start-here-guidelines/blob/855a00243db60c71905f6e3afd95ebf2cf7459a0/gitstartedguideoptimized.pdf) by our fellow student @wanraitelli.  
+1. Read the wonderful [_gitStarted Guide_](https://github.com/zero-to-mastery/start-here-guidelines/blob/855a00243db60c71905f6e3afd95ebf2cf7459a0/gitstartedguideoptimized.pdf) by our fellow student [@wanraitelli](https://github.com/wanraitelli).
+
    Check out [Andrei's videos on github](https://www.udemy.com/the-complete-web-developer-in-2018/learn/v4/t/lecture/8725782/) or this free how-to tutorial at http://makeapullrequest.com/.
 
 2. On the [GitHub page for this repository](zero-to-mastery/start-here-guidelines), click on the Button "Fork".
 
-![fork image](https://help.github.com/assets/images/help/repository/fork_button.jpg)
+   ![fork image](https://help.github.com/assets/images/help/repository/fork_button.jpg)
 
-3. Clone _your forked repository_ to your computer, for example (**replace \<your-github-username\>**):
+3. Clone _your forked repository_ to your computer:
 
-![code ui](https://docs.github.com/assets/images/help/repository/code-button.png)
+   ![code ui](https://docs.github.com/assets/images/help/repository/code-button.png)
 
-Run this command inside your terminal:
+    For example, run this command inside your terminal:
 
-```bash
-git clone https://github.com/<your-github-username>/start-here-guidelines.git
-```
+    ```bash
+    git clone https://github.com/<your-github-username>/start-here-guidelines.git
+    ```
 
-Learn more about [forking](https://help.github.com/en/github/getting-started-with-github/fork-a-repo) and [cloning a repo](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository).
+    **Replace \<your-github-username\>!**
+
+    Learn more about [forking](https://help.github.com/en/github/getting-started-with-github/fork-a-repo) and [cloning a repo](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository).
 
 4. On your computer, open your text editor, and add your name to the `CONTRIBUTORS.md` file.
 
 5. Before you push your changes, [keep your fork in sync](https://help.github.com/en/github/getting-started-with-github/fork-a-repo#keep-your-fork-synced) to avoid merge conflicts:
 
-```bash
-git remote add upstream https://github.com/zero-to-mastery/start-here-guidelines.git
-git pull upstream master
-```
-
-If you run into a **merge conflict**, you have to resolve that. There are a lot of guides online, or you can try this one by [opensource.com](https://opensource.com/article/20/4/git-merge-conflict)
-
+    ```bash
+    git remote add upstream https://github.com/zero-to-mastery/start-here-guidelines.git
+    git pull upstream master
+    ```
+    
+    If you run into a **merge conflict**, you have to resolve that. There are a lot of guides online, or you can try this one by [opensource.com](https://opensource.com/article/20/4/git-merge-conflict).
+    
 6. Push your changes _to your repository_:
 
-```bash
-git push origin master
-```
+    ```bash
+    git push origin master
+    ```
 
 7. Go to the GitHub page of _your fork_, and make a pull request:
 
-![pull request image](https://help.github.com/assets/images/help/pull_requests/choose-base-and-compare-branches.png)
-
-Read more about pull requests on the [GitHub help pages](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
-
+    ![pull request image](https://help.github.com/assets/images/help/pull_requests/choose-base-and-compare-branches.png)
+    
+    Read more about pull requests on the [GitHub help pages](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
+    
 8. Wait until Zerobot or or one of the maintainers merges your pull request. If there are any conflicts, you will get a notification.
 
 9. Go join a project and start contributing or create your own group apps. Don't be shy and enjoy creating things together (We have over 20 projects for all level of programmers)! [Check out this guide](https://github.com/zero-to-mastery/start-here-guidelines/blob/master/Get_Started.md) for more information on selecting a project.
