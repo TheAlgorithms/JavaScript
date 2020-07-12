@@ -7734,7 +7734,7 @@
 
 -[@rahulkumarborah](https://github.com/rahulkumarborah)
 
--[@CamJackson-Dev ](https://github.com/CamJackson-Dev)
+-[@CamJackson-Dev](https://github.com/CamJackson-Dev)
 
 -[@JerylDEv](https://github.com/JerylDEv/)
 
@@ -7910,7 +7910,7 @@
 
 -[@Jkr777](https://github.com/Jkr777)
 
--[@mchl71]((https://github.com/mchl71)
+-[@mchl71](https://github.com/mchl71)
 
 -[@warrren8689](https://github.com/warrren8689)
 
@@ -9266,7 +9266,7 @@
 
 -[@kevin573](https://github.com/kevin573)
 
--[@Radu-Ionut](https://github.com/Radu-Ionut
+-[@Radu-Ionut](https://github.com/Radu-Ionut)
 
 -[@arjunkharbanda](https://github.com/arjunkharbanda)
 
@@ -16742,7 +16742,7 @@
 
 -[@rahulkumarborah](https://github.com/rahulkumarborah)
 
--[@CamJackson-Dev ](https://github.com/CamJackson-Dev)
+-[@CamJackson-Dev](https://github.com/CamJackson-Dev)
 
 -[@JerylDEv](https://github.com/JerylDEv/)
 
@@ -16918,7 +16918,7 @@
 
 -[@Jkr777](https://github.com/Jkr777)
 
--[@mchl71]((https://github.com/mchl71)
+-[@mchl71](https://github.com/mchl71)
 
 -[@warrren8689](https://github.com/warrren8689)
 
@@ -26004,7 +26004,7 @@
 
 -[@rahulkumarborah](https://github.com/rahulkumarborah)
 
--[@CamJackson-Dev ](https://github.com/CamJackson-Dev)
+-[@CamJackson-Dev](https://github.com/CamJackson-Dev)
 
 -[@JerylDEv](https://github.com/JerylDEv/)
 
@@ -26180,7 +26180,7 @@
 
 -[@Jkr777](https://github.com/Jkr777)
 
--[@mchl71]((https://github.com/mchl71)
+-[@mchl71](https://github.com/mchl71)
 
 -[@warrren8689](https://github.com/warrren8689)
 
@@ -27846,7 +27846,7 @@
 
 -[@um8033216](https://github.com/um8033216)
 
--[@aneeqaasghar]((https://github.com/aneeqaasghar)
+-[@aneeqaasghar](https://github.com/aneeqaasghar)
 
 -[@gusticahya](https://github.com/gusticahya)
 
@@ -28264,7 +28264,7 @@
 
 -[@Lamista](https://github.com/Lamista)
 
--[@ManoG99]((https://github.com/ManoG99/)
+-[@ManoG99](https://github.com/ManoG99/)
 
 -[@srezanoori](https://github.com/srezanoori)
 
@@ -30018,8 +30018,10 @@
 
 -[@isik-tech](https://github.com/isik-tech)
 
--[@akshaysingh02] (https://github.com/akshaysingh02)
+-[@akshaysingh02](https://github.com/akshaysingh02)
 
 -[@atharv123-wq](https://github.com/atharv123-wq)
 
 -[@AndreaMontinovo](https://github.com/AndreaMontinovo)
+
+-[@jameschancetech](https://github.com/jameschancetech)
