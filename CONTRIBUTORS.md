@@ -30040,6 +30040,8 @@
 
 -[@vikrantuk](https://github.com/vikrantuk)
 
+-[@Easnamir](https://github.com/Easnamir)
+
 -[@olu-folarin](https://github.com/olu-folarin/)
 
 -[@markwagdy](https://github.com/markwagdy/)    
@@ -30058,3 +30060,8 @@
 
 -[@gergatron](https://github.com/gergatron/)
 
+-[@MedeivalStone](https://github.com/MedievalStone)
+
+-[@snh3003](https://github.com/snh3003)
+
+-[@mehulkattela](https://github.com/mehulkattela/)
