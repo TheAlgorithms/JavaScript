@@ -2,6 +2,8 @@
 
 -[@raphenium](https://github.com/raphenium)
 
+-[@Sara-2007](https://github.com/Sara-2007)
+
 -[@ataed](https://github.com/ataed)
 
 -[@DattuBurle](https://github.com/DattuBurle)
@@ -30040,6 +30042,8 @@
 
 -[@vikrantuk](https://github.com/vikrantuk)
 
+-[@Easnamir](https://github.com/Easnamir)
+
 -[@olu-folarin](https://github.com/olu-folarin/)
 
 -[@markwagdy](https://github.com/markwagdy/)    
@@ -30055,5 +30059,25 @@
 -[@partha7978](https://github.com/partha7978)
 
 -[@CrossBon3](http://github.com/CrossBon3)
+
+-[@gergatron](https://github.com/gergatron/)
+
+-[@MedeivalStone](https://github.com/MedievalStone)
+
+-[@snh3003](https://github.com/snh3003)
+
+-[@mehulkattela](https://github.com/mehulkattela/)
+
+-[@kush-x7](https://github.com/kush-x7)
+
+-[@MargaridaMoreira](https://github.com/MargaridaMoreira)
+
+-[@jonattar23](https://github.com/jonattar23)
+
+-[@suyashwebdev](https://github.com/suyashwebdev)
+
+-[@vando127](https://github.com/vando127)
+
+-[@Alice-li-05](https://github.com/Alice-li-05/)
 
 -[@Cdca12](https://github.com/Cdca12)
