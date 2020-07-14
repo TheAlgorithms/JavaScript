@@ -30085,3 +30085,5 @@
 -[@donnycavalcante](https://github.com/donnycavalcante)
 -[@wannabeprogrammer2020](https://github.com/wannabeprogrammer2020)
 -[@eymardfurtado](https://github.com/eymardfurtado)
+
+-[@DevelopedByAngel](https://github.com/DsevelopedByAngel)
