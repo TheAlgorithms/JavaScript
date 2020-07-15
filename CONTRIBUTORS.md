@@ -30012,6 +30012,8 @@
 
 -[@Kota-N](https://github.com/Kota-N/)
 
+-[@Prophet369](https://github.com/Prophet369/)
+
 -[@fabianoad](https://github.com/fabianoad)
 
 -[@moet-stein](https://github.com/moet-stein)
@@ -30127,4 +30129,17 @@
 -[@sahanaraa](https://github.com/sahanaraa/)
 
 -[@Gerald-Izuchukwu](https://github.com/Gerald-Izuchukwu/)
+
 -[@imkkr](https://github.com/imkkr/)
+
+-[@Abdu-Mourad](https://github.com/AbduMurad/)
+
+-[@halfers1986](https://https://github.com/halfers1986)
+
+-[@Chrysanthi](https://https://github.com/kourbani)
+
+-[@GoldenEyes87](https://https://github.com/GoldenEyes87)
+
+-[@therollingambit](https://github.com/therollingambit)
+
+-[@noryt](https://github.com/noryt)
