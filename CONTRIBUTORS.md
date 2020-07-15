@@ -30116,9 +30116,14 @@
 
 -[@ChronoNinja](https://github.com/ChronoNinja/)
 
-<<<<<<< HEAD
 -[@campbeljc](https://github.com/campbeljc)
 
-=======
 -[@smyhk](https://github.com/smyhk)
->>>>>>> 4cc2c744722c067db23951c3214dd2b3d15fe9e6
+
+-[@smyhk](https://github.com/smyhk)
+
+-[@dayvyno](https://github.com/dayvyno/)
+
+-[@sahanaraa](https://github.com/sahanaraa/)
+
+-[@Gerald-Izuchukwu](https://github.com/Gerald-Izuchukwu/)
