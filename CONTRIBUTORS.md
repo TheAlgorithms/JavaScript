@@ -30048,7 +30048,7 @@
 
 -[@olu-folarin](https://github.com/olu-folarin/)
 
--[@markwagdy](https://github.com/markwagdy/)    
+-[@markwagdy](https://github.com/markwagdy/)
 
 -[@dominikclemente](https://github.com/dominikclemente/)
 
@@ -30149,3 +30149,5 @@
 -[@ajandu133](https://github.com/ajandu133/)
 
 -[@Joblyn](https://github.com/joblyn)
+
+-[@devmasf](https://github.com/devmasf)
