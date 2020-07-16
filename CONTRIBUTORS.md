@@ -29860,6 +29860,8 @@
 
 -[@RupakVeerla](https://github.com/RupakVeerla)
 
+-[@evan-thoms](https://github.com/evan-thoms)
+
 -[@lsmith248](https://github.com/lsmith248)
 
 -[@Krina-Thakkar](https://github.com/Krina-Thakkar)
@@ -30012,6 +30014,8 @@
 
 -[@Kota-N](https://github.com/Kota-N/)
 
+-[@Prophet369](https://github.com/Prophet369/)
+
 -[@fabianoad](https://github.com/fabianoad)
 
 -[@moet-stein](https://github.com/moet-stein)
@@ -30046,7 +30050,7 @@
 
 -[@olu-folarin](https://github.com/olu-folarin/)
 
--[@markwagdy](https://github.com/markwagdy/)    
+-[@markwagdy](https://github.com/markwagdy/)
 
 -[@dominikclemente](https://github.com/dominikclemente/)
 
@@ -30116,6 +30120,10 @@
 
 -[@ChronoNinja](https://github.com/ChronoNinja/)
 
+-[@campbeljc](https://github.com/campbeljc)
+
+-[@smyhk](https://github.com/smyhk)
+
 -[@smyhk](https://github.com/smyhk)
 
 -[@dayvyno](https://github.com/dayvyno/)
@@ -30123,3 +30131,51 @@
 -[@sahanaraa](https://github.com/sahanaraa/)
 
 -[@rohit45k](https://github.com/rohit45k/)
+
+-[@Gerald-Izuchukwu](https://github.com/Gerald-Izuchukwu/)
+
+-[@imkkr](https://github.com/imkkr/)
+
+-[@Abdu-Mourad](https://github.com/AbduMurad/)
+
+-[@halfers1986](https://https://github.com/halfers1986)
+
+-[@Chrysanthi](https://https://github.com/kourbani)
+
+-[@GoldenEyes87](https://https://github.com/GoldenEyes87)
+
+-[@therollingambit](https://github.com/therollingambit)
+
+-[@noryt](https://github.com/noryt)
+
+-[@yossinewmark](https://github.com/yossinewmark)
+
+-[@ajandu133](https://github.com/ajandu133/)
+
+-[@leila100](https://github.com/leila100)
+
+-[@sawaseemgit](https://github.com/sawaseemgit)
+
+-[@akaKush](https://github.com/akaKush)
+
+-[@yossinewmark](https://github.com/yossinewmark)
+
+-[@ajandu133](https://github.com/ajandu133/)
+
+-[@Joblyn](https://github.com/joblyn)
+
+-[@Whopzcodez](https://github.com/Whopzcodez/)
+
+-[@devmasf](https://github.com/devmasf/)
+
+-[@bikal1000](https://github.com/bikal1000/)
+
+-[@Natchalin0022](https://github.com/natchalin0022)
+
+-[@YourGuruNet](https://github.com/YourGuruNet/)
+
+-[@7-an](https://github.com/7-an/)
+
+-[@jaanusbu](https://github.com/jaanusbu/)
+
+-[@iamsarthakkr](https://github.com/iamsarthakkr/)
