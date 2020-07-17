@@ -29308,6 +29308,7 @@
 
 -[@Eshwar95](https://github.com/Eshwar95)
 
+-[@dev-cm-svg](https://github.com/dev-cm-svg)
 -[@Hshuling](https://github.com/Hshuling)
 
 -[@Grouch1886](https://github.com/Grouch1886)
@@ -30186,3 +30187,32 @@
 
 -[@PurbayanNC](https://github.com/PurbayanNC/)
 
+-[@dstames](https://github.com/dstames)
+
+-[@yashjadhav07](https://github.com/yashjadhav07)
+
+-[@thakur-yogesh](https://github.com/thakur-yogesh/)
+
+-[@icw-Numen](https://github.com/icw-Numen/)
+
+-[@dkimdev](https://github.com/dkimdev/)
+
+-[@codewizard26](https://github.com/codewizard26/)
+
+-[@TusharSamantaray](https://github.com/TusharSamantaray/)
+
+-[@HAP2Y](https://github.com/HAP2Y/)
+
+-[@brianrhodes] (https://github.com/brianrhodes/)
+
+-[@Ankita-daga] (https://github.com/Ankita-daga/)
+
+-[@RemiHub] (https://github.com/RemiHub/)
+
+-[@rettpjohnson] (https://github.com/rettpjohnson)
+
+-[@yucifer] (https://github.com/yucifer/)
+
+-[@damiencarson] (https://github.com/damiencarson/)
+
+-[@ashikurt77](https://github.com/ashikurt77/)
