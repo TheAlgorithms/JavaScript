@@ -30204,3 +30204,13 @@
 -[@brianrhodes] (https://github.com/brianrhodes/)
 
 -[@Ankita-daga] (https://github.com/Ankita-daga/)
+
+-[@RemiHub] (https://github.com/RemiHub/)
+
+-[@rettpjohnson] (https://github.com/rettpjohnson)
+
+-[@yucifer] (https://github.com/yucifer/)
+
+-[@damiencarson] (https://github.com/damiencarson/)
+
+-[@ashikurt77](https://github.com/ashikurt77/)
