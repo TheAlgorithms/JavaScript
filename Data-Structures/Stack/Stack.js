@@ -29,8 +29,8 @@ var Stack = (function () {
     }
 
     this.top--
-    let result = this.stack[this.top];
-    this.stack = this.stack.splice(0,this.top);
+    var result = this.stack[this.top]
+    this.stack = this.stack.splice(0,this.top)
     return result
   }
 
