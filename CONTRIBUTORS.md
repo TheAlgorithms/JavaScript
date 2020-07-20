@@ -30338,8 +30338,6 @@
 
 -[@aryan091](https://github.com/aryan091/)
 
--[@simon-16](https://github.com/simon-16/)
-
 -[@ofk8vb](https://github.com/ofk8vb/)
 
 -[@Jayasree](https://github.com/Jayasree77)
