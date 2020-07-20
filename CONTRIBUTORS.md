@@ -30348,6 +30348,10 @@
 
 -[@marlo2py](https://github.com/marlo2py)
 
+-[@poncianodavid](https://github.com/poncianodavid/)
+
+-[@elliottrapley](https://github.com/elliottrapley/)
+
 -[@coena98](https://github.com/coena98)
 
 -[@poncianodavid](https://github.com/poncianodavid/)
