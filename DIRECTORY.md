@@ -54,6 +54,7 @@
   * [DepthFirstSearchRecursive](https://github.com/TheAlgorithms/Javascript/blob/master/Graphs/DepthFirstSearchRecursive.js)
   * [Dijkstra](https://github.com/TheAlgorithms/Javascript/blob/master/Graphs/Dijkstra.js)
   * [DijkstraSmallestPath](https://github.com/TheAlgorithms/Javascript/blob/master/Graphs/DijkstraSmallestPath.js)
+  * [KruskalMST](https://github.com/TheAlgorithms/Javascript/blob/master/Graphs/KruskalMST.js)
   * [PrimMST](https://github.com/TheAlgorithms/Javascript/blob/master/Graphs/PrimMST.js)
 
 ## Hashes
