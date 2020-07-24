@@ -1,5 +1,7 @@
 # Contributors
 
+-[@sar0j](https://github.com/sar0j)
+
 -[@geecrypt](https://github.com/geecrypt)
 
 -[@anuragupperwal](https://github.com/anuragupperwal)
