@@ -8,6 +8,7 @@
   "author": "TheAlgorithms",
   "license": "GPL-3.0",
   "dependencies": {
+    "jsdom": "^16.3.0",
     "node-fetch": "2.6.0"
   },
   "devDependencies": {
