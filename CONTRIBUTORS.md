@@ -24,9 +24,6 @@
 
 - [@ben-redd](github.com/ben-redd/)
 
-<<<<<<< HEAD
-=======
 - [@dejang95](https://github.com/dejang95)
->>>>>>> 5a9b442c2d2b460409ebdd0921541fd258def25b
 
 - [@senchoDev](https://github.com/SenchoDev)
