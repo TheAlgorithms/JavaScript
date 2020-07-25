@@ -103,4 +103,4 @@ Finally, open source projects use the following tools to organize discussion. Re
 
 **Synchronous chat channel**: Some projects use chat channels (such as Discord or IRC) for casual conversation, collaboration, and quick exchanges.
 
-**Buy Andrei's course**: [Here](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) it helps you a lot.
+**Get all the ZTM Courses, for one monthly subscription**: [Here](https://zerotomastery.io/courses?utm_source=github&utm_medium=start-here-guidelines).
