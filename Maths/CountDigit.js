@@ -11,4 +11,4 @@ function CountDigit (number) {
     return digits;
 }
 
-console.log('The number of digits in the number: ' + CountDigit(parseInt(prompt('Enter the number: '))));
+console.log('The number of digits in the number: ' + CountDigit(parseInt(prompt('Enter number: '))));
