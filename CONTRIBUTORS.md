@@ -14,6 +14,8 @@
 
 - [@rhysallec](https://github.com/rhysallec/)
 
+- [@PorasSIngh301](https://github.com/PorasSingh301/)
+
 - [@moki929](https://github.com/moki929)
 
 - [@AdmMaz](https://github.com/AdmMaz)
@@ -21,4 +23,3 @@
 - [@haiderali0786](github.com/haiderali0786/)
 
 - [@ben-redd](github.com/ben-redd/)
-
