@@ -13,3 +13,6 @@
 - [@anjanpa](https://github.com/anjanpa/)
 
 - [@rhysallec](https://github.com/rhysallec/)
+
+-[@AdmMaz](https://github.com/AdmMaz)
+
