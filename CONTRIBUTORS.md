@@ -1,5 +1,7 @@
 # Contributors
 
+- [@varadp2000](https://github.com/varadp2000/)
+
 - [@flash29](https://github.com/flash29)
 
 - [@truizdiaz](https://github.com/truizdiaz)
@@ -13,3 +15,10 @@
 - [@rhysallec](https://github.com/rhysallec/)
 
 - [@moki929](https://github.com/moki929)
+
+- [@AdmMaz](https://github.com/AdmMaz)
+
+- [@haiderali0786](github.com/haiderali0786/)
+
+- [@ben-redd](github.com/ben-redd/)
+
