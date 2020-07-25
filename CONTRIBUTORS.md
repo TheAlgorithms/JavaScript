@@ -11,3 +11,5 @@
 - [@anjanpa](https://github.com/anjanpa/)
 
 - [@rhysallec](https://github.com/rhysallec/)
+
+- [@moki929](https://github.com/moki929)
