@@ -14,5 +14,5 @@
 
 - [@rhysallec](https://github.com/rhysallec/)
 
--[@AdmMaz](https://github.com/AdmMaz)
+- [@AdmMaz](https://github.com/AdmMaz)
 
