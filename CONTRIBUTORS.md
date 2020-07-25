@@ -9,3 +9,5 @@
 - [@Buezrello](https://github.com/Buezrello)
 
 - [@anjanpa](https://github.com/anjanpa/)
+
+- [@rhysallec](https://github.com/rhysallec/)
