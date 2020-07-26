@@ -58,4 +58,3 @@
 
 - [@rushikesh](https://github.com/RushikeshBargaje)
 
-- [@SKshbr](https://github.com/SKshbr)
