@@ -27,3 +27,9 @@
 - [@dejang95](https://github.com/dejang95)
 
 - [@senchoDev](https://github.com/SenchoDev)
+
+- [@hazamaswag](https://github.com/hazamaswag)
+
+- [@pystupp](https://github.com/pystupp/)
+
+- [@gabekarasik](https://github.com/gabekarasik/)
