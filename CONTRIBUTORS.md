@@ -30,4 +30,4 @@
 
 - [@pystupp](https://github.com/pystupp/)
 
--[@gabekarasik](https://github.com/gabekarasik/)
+- [@gabekarasik](https://github.com/gabekarasik/)
