@@ -56,4 +56,3 @@
 
 - [@sabby993](https://github.com/sabby993)
 
-- [@tanmay107](https://github.com/tanmay107)
