@@ -37,3 +37,5 @@
 - [@gabekarasik](https://github.com/gabekarasik/)
 
 - [@tewariyash](https://github.com/tewariyash/)
+
+- [@Ritikseth](https://github.com/Ritikseth/)
