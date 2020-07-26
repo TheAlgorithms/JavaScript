@@ -38,6 +38,6 @@
 
 - [@tewariyash](https://github.com/tewariyash/)
 
-- [@jgeo777] (https://github.com/jgeo777/)
+- [@jgeo777](https://github.com/jgeo777/)
 
 
