@@ -38,6 +38,22 @@
 
 - [@tewariyash](https://github.com/tewariyash/)
 
-- [@jgeo777] (https://github.com/jgeo777/)
+- [@jgeo777](https://github.com/jgeo777/)
 
--[@Shoaib-byte](https://github.com/Shoaib-byte/)
+- [@Shoaib-byte](https://github.com/Shoaib-byte/)
+
+- [@Ritikseth](https://github.com/Ritikseth/)
+
+- [@jgeo777](https://github.com/jgeo777/)
+
+- [@amirdarx](https://github.com/amirdarx/)
+
+- [@gmpgiri](https://github.com/gmpgiri/)
+
+- [@jgeo777](https://github.com/jgeo777/)
+
+- [@amirdarx](https://github.com/amirdarx/)
+
+- [@sabby993](https://github.com/sabby993)
+
+- [@tanmay107](https://github.com/tanmay107)
