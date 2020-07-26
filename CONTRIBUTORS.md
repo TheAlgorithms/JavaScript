@@ -38,4 +38,4 @@
 
 - [@tewariyash](https://github.com/tewariyash/)
 
--[@webdevangelie](https://github.com/webdevangelie)
+- [@jgeo777] (https://github.com/jgeo777/)
