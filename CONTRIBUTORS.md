@@ -36,4 +36,4 @@
 
 - [@gabekarasik](https://github.com/gabekarasik/)
 
-- [@tewaruyash](https://github.com/tewariyash/)
+- [@tewariyash](https://github.com/tewariyash/)
