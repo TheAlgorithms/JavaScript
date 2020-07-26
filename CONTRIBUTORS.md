@@ -25,3 +25,5 @@
 - [@ben-redd](github.com/ben-redd/)
 
 - [@dejang95](https://github.com/dejang95)
+
+- [@hazamaswag](https://github.com/hazamaswag)
