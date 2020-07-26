@@ -1,4 +1,4 @@
-# Contributors
+# Contributors 
 
 - [@varadp2000](https://github.com/varadp2000/)
 
@@ -57,4 +57,6 @@
 - [@sabby993](https://github.com/sabby993)
 
 - [@rushikesh](https://github.com/RushikeshBargaje)
+
+- [@vasuwebdeveloper](https://github.com/vasuwebdeveloper)
 
