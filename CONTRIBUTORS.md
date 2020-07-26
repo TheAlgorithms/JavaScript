@@ -1,4 +1,4 @@
-# Contributors
+# Contributors list
 
 - [@varadp2000](https://github.com/varadp2000/)
 
