@@ -26,6 +26,12 @@
 
 - [@dejang95](https://github.com/dejang95)
 
+- [@senchoDev](https://github.com/SenchoDev)
+
 - [@hazamaswag](https://github.com/hazamaswag)
 
 - [@life-code-joy](https://github.com/life-code-joy/)
+
+- [@pystupp](https://github.com/pystupp/)
+
+- [@gabekarasik](https://github.com/gabekarasik/)
