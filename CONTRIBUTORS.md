@@ -112,6 +112,10 @@
 
 -[@sagidahan](https://github.com/sagidahan)
 
+-[@stathisR](https://github.com/stathisR)
+
+-[@anselmo72](https://github.com/anselmo72)
+
 -[@Kropi-H](https://github.com/Kropi-H)
 
 -[@stathisR](https://github.com/stathisR)
