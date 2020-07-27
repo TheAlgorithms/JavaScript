@@ -1,5 +1,7 @@
 # Contributors
 
+- [@shubham06082001](https://github.com/shubham06082001)
+
 - [@varadp2000](https://github.com/varadp2000/)
 
 - [@flash29](https://github.com/flash29)
@@ -79,3 +81,7 @@
 - [@harshcut](https://github.com/harshcut)
 
 - [@kamaxijugali](https://github.com/kamaxijugali)
+
+- [@lyone0](https://github.com/lyone0)
+
+- [@vmugss](https://github.com/vmugss)
