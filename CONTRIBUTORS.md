@@ -84,6 +84,8 @@
 
 - [@lyone0](https://github.com/lyone0)
 
+- [@sidd98coder](https://github.com/sidd98coder)
+
 - [@vmugss](https://github.com/vmugss)
 
 - [@Pacifier25] (https://github.com/Pacifier25)
@@ -92,3 +94,7 @@
 -[@sagidahan](https://github.com/sagidahan)
 
 -[@Kropi-H](https://github.com/Kropi-H)
+
+-[@stathisR](https://github.com/stathisR)
+
+-[@anquail](https://github.com/anquail)
