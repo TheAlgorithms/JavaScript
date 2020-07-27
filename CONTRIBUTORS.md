@@ -63,3 +63,15 @@
 - [@vasuwebdeveloper](https://github.com/vasuwebdeveloper)
 
 - [@JxxT](https://github.com/JxxT)
+
+- [@bshohug](https://github.com/bshohug)
+
+- [@oussamabouchikhi](https://github.com/oussamabouchikhi)
+
+- [@visionhorse](https://github.com/visionhorse)
+
+- [@RPKHui](https://github.com/RPKHui)
+
+- [@ritesthapit](https://github.com/ritesthapit)
+
+- [@harshcut](https://github.com/harshcut)
