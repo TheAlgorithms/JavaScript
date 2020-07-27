@@ -93,6 +93,8 @@
 
 -[@sagidahan](https://github.com/sagidahan)
 
+-[@Kropi-H](https://github.com/Kropi-H)
+
 -[@stathisR](https://github.com/stathisR)
 
 -[@anquail](https://github.com/anquail)
