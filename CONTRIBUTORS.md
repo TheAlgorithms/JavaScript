@@ -77,3 +77,5 @@
 - [@ritesthapit](https://github.com/ritesthapit)
 
 - [@harshcut](https://github.com/harshcut)
+
+- [@kamaxijugali](https://github.com/kamaxijugali)
