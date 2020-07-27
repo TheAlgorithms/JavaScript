@@ -84,9 +84,30 @@
 
 - [@lyone0](https://github.com/lyone0)
 
+- [@sidd98coder](https://github.com/sidd98coder)
+
 - [@vmugss](https://github.com/vmugss)
 
-- [@Pacifier25] (https://github.com/Pacifier25)
-- [@Xebec19] (https://github.com/Xebec19)
+- [@Pacifier25](https://github.com/Pacifier25)
 
-- [@cyborg7459]((https://github.com/cyborg7459)
+- [@Xebec19](https://github.com/Xebec19)
+
+- [@cyborg7459](https://github.com/cyborg7459)
+
+- [@Pacifier25](https://github.com/Pacifier25)
+
+- [@Xebec19](https://github.com/Xebec19)
+
+- [@Manishthakur1297](https://github.com/Manishthakur1297)
+
+- [@Pacifier25](https://github.com/Pacifier25)
+
+- [@Xebec19](https://github.com/Xebec19)
+
+-[@sagidahan](https://github.com/sagidahan)
+
+-[@Kropi-H](https://github.com/Kropi-H)
+
+-[@stathisR](https://github.com/stathisR)
+
+-[@anquail](https://github.com/anquail)
