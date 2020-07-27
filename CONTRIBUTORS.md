@@ -88,9 +88,11 @@
 
 - [@vmugss](https://github.com/vmugss)
 
-- [@Pacifier25] (https://github.com/Pacifier25)
-- [@Xebec19] (https://github.com/Xebec19)
+- [@Pacifier25](https://github.com/Pacifier25)
+- [@Xebec19](https://github.com/Xebec19)
 
 -[@sagidahan](https://github.com/sagidahan)
 
 -[@stathisR](https://github.com/stathisR)
+
+-[@vamsi31](https://github.com/vamsikrishnareddybevara)
