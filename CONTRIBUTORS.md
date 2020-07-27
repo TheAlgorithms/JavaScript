@@ -1,4 +1,5 @@
 # Contributors
+
 - [@shubham06082001](https://github.com/shubham06082001)
 
 - [@varadp2000](https://github.com/varadp2000/)
@@ -79,6 +80,15 @@
 
 - [@harshcut](https://github.com/harshcut)
 
+- [@kamaxijugali](https://github.com/kamaxijugali)
+
 - [@lyone0](https://github.com/lyone0)
 
 - [@sidd98coder](https://github.com/sidd98coder)
+
+- [@vmugss](https://github.com/vmugss)
+
+- [@Pacifier25] (https://github.com/Pacifier25)
+- [@Xebec19] (https://github.com/Xebec19)
+
+-[@sagidahan](https://github.com/sagidahan)
