@@ -38,6 +38,10 @@
 
 - [@tewariyash](https://github.com/tewariyash/)
 
+- [@jgeo777](https://github.com/jgeo777/)
+
+- [@Shoaib-byte](https://github.com/Shoaib-byte/)
+
 - [@Ritikseth](https://github.com/Ritikseth/)
 
 - [@jgeo777](https://github.com/jgeo777/)
@@ -53,3 +57,23 @@
 - [@sabby993](https://github.com/sabby993)
 
 - [@sr1890](https://github.com/sr1890)
+
+- [@rushikesh](https://github.com/RushikeshBargaje)
+
+- [@SKshbr](https://github.com/SKshbr)
+
+- [@vasuwebdeveloper](https://github.com/vasuwebdeveloper)
+
+- [@JxxT](https://github.com/JxxT)
+
+- [@bshohug](https://github.com/bshohug)
+
+- [@oussamabouchikhi](https://github.com/oussamabouchikhi)
+
+- [@visionhorse](https://github.com/visionhorse)
+
+- [@RPKHui](https://github.com/RPKHui)
+
+- [@ritesthapit](https://github.com/ritesthapit)
+
+- [@harshcut](https://github.com/harshcut)
