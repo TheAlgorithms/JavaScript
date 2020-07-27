@@ -92,6 +92,12 @@
 
 - [@Xebec19](https://github.com/Xebec19)
 
+- [@cyborg7459](https://github.com/cyborg7459)
+
+- [@Pacifier25](https://github.com/Pacifier25)
+
+- [@Xebec19](https://github.com/Xebec19)
+
 - [@Manishthakur1297](https://github.com/Manishthakur1297)
 
 - [@Pacifier25](https://github.com/Pacifier25)
