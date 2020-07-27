@@ -65,3 +65,5 @@
 - [@bshohug](https://github.com/bshohug)
 
 - [@oussamabouchikhi](https://github.com/oussamabouchikhi)
+
+- [@visionhorse](https://github.com/visionhorse)
