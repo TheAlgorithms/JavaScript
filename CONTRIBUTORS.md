@@ -147,3 +147,5 @@
 - [@adewagold](https://github.com/adewagold/)
 
 - [@rajeevdevl](https://github.com/rajeevdevl/)
+
+- [@devHectorGa](https://github.com/devHectorGa)
