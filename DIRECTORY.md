@@ -49,7 +49,6 @@
 
 ## Graphs
   * [ConnectedComponents](https://github.com/TheAlgorithms/Javascript/blob/master/Graphs/ConnectedComponents.js)
-  * [DepthFirstSearch](https://github.com/TheAlgorithms/Javascript/blob/master/Graphs/DepthFirstSearch.js)
   * [DepthFirstSearchIterative](https://github.com/TheAlgorithms/Javascript/blob/master/Graphs/DepthFirstSearchIterative.js)
   * [DepthFirstSearchRecursive](https://github.com/TheAlgorithms/Javascript/blob/master/Graphs/DepthFirstSearchRecursive.js)
   * [Dijkstra](https://github.com/TheAlgorithms/Javascript/blob/master/Graphs/Dijkstra.js)
@@ -113,6 +112,9 @@
   * [CheckPalindrome](https://github.com/TheAlgorithms/Javascript/blob/master/String/CheckPalindrome.js)
   * [ReverseString](https://github.com/TheAlgorithms/Javascript/blob/master/String/ReverseString.js)
   * [ReverseWords](https://github.com/TheAlgorithms/Javascript/blob/master/String/ReverseWords.js)
+
+## Trees
+  * [DepthFirstSearch](https://github.com/TheAlgorithms/Javascript/blob/master/Trees/DepthFirstSearch.js)
 
 ## Web-Programming
   * [OpenWeatherMaps](https://github.com/TheAlgorithms/Javascript/blob/master/Web-Programming/OpenWeatherMaps.js)
