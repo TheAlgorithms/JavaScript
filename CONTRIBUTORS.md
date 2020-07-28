@@ -163,3 +163,5 @@
 - [@ecuadras](https://github.com/ecuadras/)
 
 - [@sir-josh](https://github.com/sir-josh/)
+
+- [@wvonberg](https://github.com/wvonberg/)
