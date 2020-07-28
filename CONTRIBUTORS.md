@@ -161,3 +161,5 @@
 - [@roycechun](https://github.com/roycechun/)
 
 - [@ecuadras](https://github.com/ecuadras/)
+
+- [@wvonberg](https://github.com/wvonberg/)
