@@ -150,4 +150,6 @@
 
 - [@rajeevdevl](https://github.com/rajeevdevl/)
 
+- [@devHectorGa](https://github.com/devHectorGa)
+
 - [@mrkartikkc](https://github.com/mrkartikkc/)
