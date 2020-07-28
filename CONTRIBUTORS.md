@@ -142,6 +142,8 @@
 
 - [@adewagold](https://github.com/adewagold/)
 
+- [@abeardofbees](https://github.com/abeardofbees/)
+
 - [@erikafrancesconi](https://github.com/erikafrancesconi/)
 
 - [@adewagold](https://github.com/adewagold/)
@@ -149,3 +151,5 @@
 - [@rajeevdevl](https://github.com/rajeevdevl/)
 
 - [@devHectorGa](https://github.com/devHectorGa)
+
+- [@mrkartikkc](https://github.com/mrkartikkc/)
