@@ -110,36 +110,36 @@
 
 - [@Xebec19](https://github.com/Xebec19)
 
--[@sagidahan](https://github.com/sagidahan)
+- [@sagidahan](https://github.com/sagidahan)
 
--[@stathisR](https://github.com/stathisR)
+- [@stathisR](https://github.com/stathisR)
 
--[@vamsi31](https://github.com/vamsikrishnareddybevara)
+- [@vamsi31](https://github.com/vamsikrishnareddybevara)
 
--[@anselmo72](https://github.com/anselmo72)
+- [@anselmo72](https://github.com/anselmo72)
 
--[@Kropi-H](https://github.com/Kropi-H)
+- [@Kropi-H](https://github.com/Kropi-H)
 
--[@stathisR](https://github.com/stathisR)
+- [@stathisR](https://github.com/stathisR)
 
--[@anquail](https://github.com/anquail)
+- [@anquail](https://github.com/anquail)
 
 - [@lebkuecher](https://github.com/lebkuecher)
 
--[@gpinto8](https://github.com/gpinto8)
+- [@gpinto8](https://github.com/gpinto8)
 
--[@emayorgasu](https://github.com/emayorgasu)
+- [@emayorgasu](https://github.com/emayorgasu)
 
--[@asamoahDrews](https://github.com/asamoahDrews)
+- [@asamoahDrews](https://github.com/asamoahDrews)
 
--[@krli07717](https://github.com/krli07717/)
+- [@krli07717](https://github.com/krli07717/)
 
--[@Huby03](https://github.com/Huby03/)
+- [@Huby03](https://github.com/Huby03/)
 
--[@gaurav241998](https://github.com/gaurav241998/)
+- [@gaurav241998](https://github.com/gaurav241998/)
 
--[@Prateek15A](https://github.com/Prateek15A/)
+- [@Prateek15A](https://github.com/Prateek15A/)
 
--[@adewagold](https://github.com/adewagold/)
+- [@adewagold](https://github.com/adewagold/)
 
--[@erikafrancesconi](https://github.com/erikafrancesconi/)
+- [@erikafrancesconi](https://github.com/erikafrancesconi/)
