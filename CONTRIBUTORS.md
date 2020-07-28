@@ -124,7 +124,7 @@
 
 -[@anquail](https://github.com/anquail)
 
--[@lebkuecher] (https://github.com/lebkuecher)
+- [@lebkuecher](https://github.com/lebkuecher)
 
 -[@gpinto8](https://github.com/gpinto8)
 
