@@ -185,3 +185,5 @@
 - [@manasi2905](https://github.com/manasi2905/)
 
 - [@Piyush_Mahapatra](https://github.com/piyush-mahapatra-au6/)
+
+- [@vladiodev](https://github.com/vladiodev/)
