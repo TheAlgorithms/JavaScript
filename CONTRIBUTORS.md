@@ -174,4 +174,3 @@
 
 - [@snaxbox](https://github.com/snaxbox/)
 
-- [@AeonGenesis](https://github.com/AeonGenesis)
