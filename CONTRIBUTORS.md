@@ -187,3 +187,5 @@
 -[@idumanli](https://github.com/idumanli/)
 
 - [@Piyush_Mahapatra](https://github.com/piyush-mahapatra-au6/)
+
+- [@vladiodev](https://github.com/vladiodev/)
