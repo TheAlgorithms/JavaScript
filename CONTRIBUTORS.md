@@ -191,3 +191,5 @@
 - [@vladiodev](https://github.com/vladiodev/)
 
 - [@iridiumCodes](https://github.com/iridiumCodes)
+
+- [@nakul-gupta](https://github.com/nakul-gupta)
