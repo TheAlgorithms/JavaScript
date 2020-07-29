@@ -165,3 +165,6 @@
 - [@sir-josh](https://github.com/sir-josh/)
 
 - [@wvonberg](https://github.com/wvonberg/)
+
+- [@maurotrevino](https://github.com/maurotrevino/)
+
