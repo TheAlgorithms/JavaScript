@@ -174,4 +174,4 @@
 
 - [@snaxbox](https://github.com/snaxbox/)
 
--[@AeonGenesis](https://github.com/AeonGenesis)
+- [@AeonGenesis](https://github.com/AeonGenesis)
