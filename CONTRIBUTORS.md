@@ -136,6 +136,10 @@
 
 - [@krli07717](https://github.com/krli07717/)
 
+-[@Huby03](https://github.com/Huby03/)
+
+-[@Arshcreation](https://github.com/Arshcreation)
+
 - [@Huby03](https://github.com/Huby03/)
 
 - [@gaurav241998](https://github.com/gaurav241998/)
@@ -177,3 +181,27 @@
 - [@AeonGenesis](https://github.com/AeonGenesis/)
 
 - [@hrvoje-rama](https://github.com/hrvoje-rama/)
+
+- [@Yonko21](https://github.com/Yonko21/)
+
+- [@AeonGenesis](https://github.com/AeonGenesis/)
+
+- [@zainirejab](https://github.com/zainirejab/)
+
+- [@EswarBalasubramanian](https://github.com/EswarBalasubramanian/)
+
+- [@adadesh](https://github.com/agadesh/)
+
+-[@stevster5555](https://github.com/stevster5555/)
+
+- [@manasi2905](https://github.com/manasi2905/)
+
+-[@idumanli](https://github.com/idumanli/)
+
+- [@Piyush_Mahapatra](https://github.com/piyush-mahapatra-au6/)
+
+- [@vladiodev](https://github.com/vladiodev/)
+
+- [@iridiumCodes](https://github.com/iridiumCodes)
+
+- [@nakul-gupta](https://github.com/nakul-gupta)
