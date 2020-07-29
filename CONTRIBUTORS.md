@@ -175,3 +175,5 @@
 - [@snaxbox](https://github.com/snaxbox/)
 
 - [@AeonGenesis](https://github.com/AeonGenesis/)
+
+- [@zainirejab](https://github.com/zainirejab/)
