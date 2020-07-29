@@ -178,6 +178,10 @@
 
 - [@snaxbox](https://github.com/snaxbox/)
 
+- [@AeonGenesis](https://github.com/AeonGenesis/)
+
+- [@hrvoje-rama](https://github.com/hrvoje-rama/)
+
 - [@Yonko21](https://github.com/Yonko21/)
 
 - [@AeonGenesis](https://github.com/AeonGenesis/)
