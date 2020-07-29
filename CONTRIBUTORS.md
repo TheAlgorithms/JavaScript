@@ -172,6 +172,8 @@
 
 - [@wvonberg](https://github.com/wvonberg/)
 
+- [@maurotrevino](https://github.com/maurotrevino/)
+
 - [@MuddyLemon90](https://github.com/MuddyLemon90/)
 
 - [@ajithlal](https://github.com/Ajithlal/)
