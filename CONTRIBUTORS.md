@@ -227,6 +227,8 @@
 
 - [@shafiqAffandi](https://github.com/shafiqAffandi)
 
+- [@alex-ele-xela](https://github.com/alex-ele-xela)
+
 - [@ttatiyev](https://github.com/ttatiyev)
 
 - [@Abhishek19k97](https://github.com/Abhishek19k97/)
