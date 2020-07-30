@@ -215,3 +215,5 @@
 - [@raulsdev](https://github.com/RaulSdev)
 
 - [@jquihano](https://github.com/jquihano)
+
+- [@jakewagner-russell](https://github.com/jakewagner-russell)
