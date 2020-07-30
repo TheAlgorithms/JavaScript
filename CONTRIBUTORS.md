@@ -225,3 +225,5 @@
 - [@felipefaundez7](https://github.com/felipefaundez7)
 
 - [@shafiqAffandi](https://github.com/shafiqAffandi)
+
+- [@alex-ele-xela](https://github.com/alex-ele-xela)
