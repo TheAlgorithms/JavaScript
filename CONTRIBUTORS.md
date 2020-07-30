@@ -22,6 +22,8 @@
 
 - [@AdmMaz](https://github.com/AdmMaz)
 
+- [@PluckyPrecious](https://github.com/PluckyPrecious)
+
 - [@haiderali0786](github.com/haiderali0786/)
 
 - [@ben-redd](github.com/ben-redd/)
@@ -134,6 +136,10 @@
 
 - [@krli07717](https://github.com/krli07717/)
 
+-[@Huby03](https://github.com/Huby03/)
+
+-[@Arshcreation](https://github.com/Arshcreation)
+
 - [@Huby03](https://github.com/Huby03/)
 
 - [@gaurav241998](https://github.com/gaurav241998/)
@@ -159,3 +165,69 @@
 - [@Pouladzadeh](https://github.com/Pouladzadeh)
 
 - [@AlexTBS9](https://github.com/AlexTBS9)
+
+- [@roycechun](https://github.com/roycechun/)
+
+- [@ecuadras](https://github.com/ecuadras/)
+
+- [@sir-josh](https://github.com/sir-josh/)
+
+- [@wvonberg](https://github.com/wvonberg/)
+
+- [@maurotrevino](https://github.com/maurotrevino/)
+
+- [@MuddyLemon90](https://github.com/MuddyLemon90/)
+
+- [@ajithlal](https://github.com/Ajithlal/)
+
+- [@snaxbox](https://github.com/snaxbox/)
+
+- [@AeonGenesis](https://github.com/AeonGenesis/)
+
+- [@hrvoje-rama](https://github.com/hrvoje-rama/)
+
+- [@Yonko21](https://github.com/Yonko21/)
+
+- [@AeonGenesis](https://github.com/AeonGenesis/)
+
+- [@zainirejab](https://github.com/zainirejab/)
+
+- [@EswarBalasubramanian](https://github.com/EswarBalasubramanian/)
+
+- [@adadesh](https://github.com/agadesh/)
+
+-[@stevster5555](https://github.com/stevster5555/)
+
+- [@manasi2905](https://github.com/manasi2905/)
+
+-[@idumanli](https://github.com/idumanli/)
+
+- [@Piyush_Mahapatra](https://github.com/piyush-mahapatra-au6/)
+
+- [@vladiodev](https://github.com/vladiodev/)
+
+- [@iridiumCodes](https://github.com/iridiumCodes)
+
+- [@nakul-gupta](https://github.com/nakul-gupta)
+
+- [@narasimha-gundavarapu](https://github.com/narasimhag)
+
+- [@ming-tsai](https://github.com/ming-tsai)
+
+- [@raulsdev](https://github.com/RaulSdev)
+
+- [@jquihano](https://github.com/jquihano)
+
+- [@jakewagner-russell](https://github.com/jakewagner-russell)
+
+- [@RodrigoSD96](https://github.com/RodrigoSD96)
+
+- [@AjoyKAshok](https://github.com/AjoyKAshok)
+
+- [@felipefaundez7](https://github.com/felipefaundez7)
+
+- [@shafiqAffandi](https://github.com/shafiqAffandi)
+
+- [@ttatiyev](https://github.com/ttatiyev)
+
+- [@Abhishek19k97](https://github.com/Abhishek19k97/)
