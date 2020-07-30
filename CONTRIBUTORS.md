@@ -1,4 +1,3 @@
-# Contributors
 
 - [@shubham06082001](https://github.com/shubham06082001)
 
@@ -164,6 +163,8 @@
 
 - [@Pouladzadeh](https://github.com/Pouladzadeh)
 
+- [@AlexTBS9](https://github.com/AlexTBS9)
+
 - [@roycechun](https://github.com/roycechun/)
 
 - [@ecuadras](https://github.com/ecuadras/)
@@ -227,3 +228,9 @@
 - [@shafiqAffandi](https://github.com/shafiqAffandi)
 
 - [@alex-ele-xela](https://github.com/alex-ele-xela)
+
+- [@ttatiyev](https://github.com/ttatiyev)
+
+- [@Abhishek19k97](https://github.com/Abhishek19k97/)
+
+-[@skohade1](https://github.com/skohade1)
