@@ -1,4 +1,3 @@
-# Contributors
 
 - [@shubham06082001](https://github.com/shubham06082001)
 
@@ -229,3 +228,6 @@
 - [@ttatiyev](https://github.com/ttatiyev)
 
 - [@Abhishek19k97](https://github.com/Abhishek19k97/)
+
+-[@skohade1](https://github.com/skohade1)
+# Contributors
