@@ -213,3 +213,5 @@
 - [@ming-tsai](https://github.com/ming-tsai)
 
 - [@raulsdev](https://github.com/RaulSdev)
+
+- [@jquihano](https://github.com/jquihano)
