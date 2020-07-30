@@ -221,3 +221,5 @@
 - [@RodrigoSD96](https://github.com/RodrigoSD96)
 
 - [@AjoyKAshok](https://github.com/AjoyKAshok)
+
+- [@felipefaundez7](https://github.com/felipefaundez7)
