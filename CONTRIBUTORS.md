@@ -236,15 +236,15 @@
 
 - [@Abhishek19k97](https://github.com/Abhishek19k97/)
 
--[@skohade1](https://github.com/skohade1)
+- [@skohade1](https://github.com/skohade1)
 
--[@Electromorphous](https://github.com/Electromorphous)
+- [@Electromorphous](https://github.com/Electromorphous)
 
--[@Emmyoks](https://github.com/emmyoks)
+- [@Emmyoks](https://github.com/emmyoks)
 
--[@dhanesh](https://github.com/dhanesh2346)
+- [@dhanesh](https://github.com/dhanesh2346)
 
--[@MonkeyDLuffyG2](https://github.com/MonkeyDLuffyG2/)
+- [@MonkeyDLuffyG2](https://github.com/MonkeyDLuffyG2/)
 
 - [@Kairi](https://github.com/ShonJacob)
 
@@ -254,4 +254,6 @@
 
 - [@rohan123454](https://github.com/rohan123454)
 
-- [@TarrynGouveris] (https://github.com/TarrynGouveris)
+- [@TarrynGouveris](https://github.com/TarrynGouveris)
+
+- [@Rayster271196](https://github.com/Rayster271196)
