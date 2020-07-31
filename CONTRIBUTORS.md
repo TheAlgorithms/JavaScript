@@ -249,3 +249,5 @@
 - [@Kairi](https://github.com/ShonJacob)
 
 - [@jonsienkiewicz](https://github.com/jonsienkiewicz)
+
+- [@laur80](https://github.com/laur80)
