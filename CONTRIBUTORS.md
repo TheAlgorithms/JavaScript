@@ -256,4 +256,4 @@
 
 - [@TarrynGouveris] (https://github.com/TarrynGouveris)
 
-- [@calerbucci] (https://github.com/calerbucci/)
+- [@calerbucci](https://github.com/calerbucci/)
