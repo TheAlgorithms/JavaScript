@@ -247,3 +247,5 @@
 -[@MonkeyDLuffyG2](https://github.com/MonkeyDLuffyG2/)
 
 - [@Kairi](https://github.com/ShonJacob)
+
+- [@jonsienkiewicz](https://github.com/jonsienkiewicz)
