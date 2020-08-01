@@ -286,4 +286,6 @@
 
 - [@daxter-army](https://github.com/daxter-army/)
 
+- [@ISuMin](https://github.com/ISuMin)
+
 - [@achilleleal](https://github.com/achilleleal/)
