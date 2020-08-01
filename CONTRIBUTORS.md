@@ -249,3 +249,5 @@
 - [@Kairi](https://github.com/ShonJacob)
 
 - [@jonsienkiewicz](https://github.com/jonsienkiewicz)
+
+-[@Deno-ru](https://github.com/Deno-ru)
