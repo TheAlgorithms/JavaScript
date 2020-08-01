@@ -118,3 +118,4 @@
 
 ## Web-Programming
   * [OpenWeatherMaps](https://github.com/TheAlgorithms/Javascript/blob/master/Web-Programming/OpenWeatherMaps.js)
+  * [StockPrice](https://github.com/TheAlgorithms/Javascript/blob/master/Web-Programming/StockPrice.js)
