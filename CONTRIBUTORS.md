@@ -250,6 +250,7 @@
 
 - [@jonsienkiewicz](https://github.com/jonsienkiewicz)
 
+-[@Deno-ru](https://github.com/Deno-ru)
 -[@17Piyush](https://github.com/17Piyush/)
 
 - [@laur80](https://github.com/laur80)
