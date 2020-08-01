@@ -37,7 +37,11 @@ class IntervalTimer {
    */
   resetTimer () {
     clearInterval(this.timer)
+<<<<<<< HEAD
     this.callBack = () => {}
+=======
+    this.callBack = () => {};
+>>>>>>> fdc0b34... IntervalTimer added | DIRECTORY.md modified.
     return this.getElapsedTime()
   }
 
