@@ -1,4 +1,4 @@
-class GraphUnweightedUndirected {
+class GraphUnweightedUndirectedAdjacencyList {
   // Unweighted Undirected Graph class
   constructor () {
     this.connections = {}
@@ -46,7 +46,7 @@ class GraphUnweightedUndirected {
 }
 
 function main () {
-  const graph = new GraphUnweightedUndirected()
+  const graph = new GraphUnweightedUndirectedAdjacencyList()
   graph.addEdge(1, 2) // Component 1
   graph.addEdge(3, 4) // Component 2
   graph.addEdge(3, 5) // Component 2

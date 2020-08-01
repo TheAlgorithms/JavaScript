@@ -163,7 +163,7 @@ class GraphWeightedUndirectedAdjacencyList {
   }
 
   PrimMST (start) {
-    // Kruskal's Algorithm to generate a Minimum Spanning Tree (MST) of a graph
+    // Prim's Algorithm to generate a Minimum Spanning Tree (MST) of a graph
     // Details: https://en.wikipedia.org/wiki/Prim%27s_algorithm
     const distance = {}
     const parent = {}
