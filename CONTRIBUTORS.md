@@ -266,4 +266,6 @@
 
 -[@af-kuas](https://github.com/af-kuas)
 
+-[@Biddut](https://github.com/Biddut)
+
 -[@boodscode237](https://github.com/boodscode237)
