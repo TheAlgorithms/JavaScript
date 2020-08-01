@@ -113,6 +113,9 @@
   * [ReverseString](https://github.com/TheAlgorithms/Javascript/blob/master/String/ReverseString.js)
   * [ReverseWords](https://github.com/TheAlgorithms/Javascript/blob/master/String/ReverseWords.js)
 
+## Timing Functions
+  * [IntervalTimer](https://github.com/TheAlgorithms/Javascript/blob/master/TimingFunctions/IntervalTimer.js)
+
 ## Trees
   * [DepthFirstSearch](https://github.com/TheAlgorithms/Javascript/blob/master/Trees/DepthFirstSearch.js)
 
