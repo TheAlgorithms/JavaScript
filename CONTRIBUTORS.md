@@ -251,3 +251,24 @@
 - [@jonsienkiewicz](https://github.com/jonsienkiewicz)
 
 -[@Deno-ru](https://github.com/Deno-ru)
+-[@17Piyush](https://github.com/17Piyush/)
+
+- [@laur80](https://github.com/laur80)
+
+- [@rohan123454](https://github.com/rohan123454)
+
+- [@TarrynGouveris] (https://github.com/TarrynGouveris)
+
+- [@calerbucci](https://github.com/calerbucci/)
+
+-[@anneKsiy](https://github.com/anneKsiy)
+
+-[@chaudhryna](https://github.com/chaudhryna)
+
+-[@af-kuas](https://github.com/af-kuas)
+
+-[@Biddut](https://github.com/Biddut)
+
+-[@boodscode237](https://github.com/boodscode237)
+
+-[@daveaditya](https://github.com/daveaditya)
