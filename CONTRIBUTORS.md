@@ -289,3 +289,5 @@
 - [@ISuMin](https://github.com/ISuMin)
 
 - [@achilleleal](https://github.com/achilleleal/)
+
+- [@DanielLivingston32](https://github.com/DanielLivingston32/)
