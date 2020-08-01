@@ -1,3 +1,5 @@
+# CONTRIBUTORS
+
 - [@Ahsan22444555](https://github.com/Ahsan22444555)
 
 - [@shubham06082001](https://github.com/shubham06082001)
@@ -250,8 +252,32 @@
 
 - [@jonsienkiewicz](https://github.com/jonsienkiewicz)
 
+- [@Deno-ru](https://github.com/Deno-ru)
+
+- [@17Piyush](https://github.com/17Piyush/)
+
 - [@laur80](https://github.com/laur80)
 
 - [@rohan123454](https://github.com/rohan123454)
 
 - [@TarrynGouveris](https://github.com/TarrynGouveris)
+
+- [@calerbucci](https://github.com/calerbucci/)
+
+- [@anneKsiy](https://github.com/anneKsiy)
+
+- [@chaudhryna](https://github.com/chaudhryna)
+
+- [@af-kuas](https://github.com/af-kuas)
+
+- [@Biddut](https://github.com/Biddut)
+
+- [@boodscode237](https://github.com/boodscode237)
+
+- [@daveaditya](https://github.com/daveaditya)
+
+- [@oiji-official](https://github.com/oiji-official/)
+
+- [@Shubhranshu-Malhotra](https://github.com/Shubhranshu-Malhotra/)
+
+- [@OliverWebb](https://github.com/OliverWebb/)
