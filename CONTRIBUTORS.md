@@ -287,3 +287,5 @@
 - [@daxter-army](https://github.com/daxter-army/)
 
 - [@ISuMin](https://github.com/ISuMin)
+
+-[@DanielLivingston32](https://github.com/DanielLivingston32/)
