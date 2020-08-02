@@ -310,7 +310,6 @@
 
 - [@Sukrutkhot](https://github.com/Sukrutkhot)
 
-
 -[@yogeshsharma4477](https://github.com/yogeshsharma4477)
 
 - [@abirseam](https://github.com/abirseam)
@@ -319,5 +318,4 @@
 
 - [@eastbury13](https://github.com/eastbury13)
 
-- [@chris-kh-han](https://github.com/chris-kh-han/)
-
+- [@chris-kh-han](https://github.com/chris-kh-han)
