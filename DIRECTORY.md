@@ -115,6 +115,7 @@
   * [ReverseWords](https://github.com/TheAlgorithms/Javascript/blob/master/String/ReverseWords.js)
 
 ## Timing Functions
+
   * [IntervalTimer](https://github.com/TheAlgorithms/Javascript/blob/master/TimingFunctions/IntervalTimer.js)
 
 ## Trees
@@ -122,3 +123,4 @@
 
 ## Web-Programming
   * [OpenWeatherMaps](https://github.com/TheAlgorithms/Javascript/blob/master/Web-Programming/OpenWeatherMaps.js)
+  * [StockPrice](https://github.com/TheAlgorithms/Javascript/blob/master/Web-Programming/StockPrice.js)
