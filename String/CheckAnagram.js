@@ -3,6 +3,13 @@
  * Saturday, 01 August 2020 3:24 PM
  * Function to check if two strings are anagrams.
  */
+// DocTest
+// > CheckAnagram('dear','read')
+// true
+// > CheckAnagram('curry','bread')
+// false
+// > CheckAnagram('Deductions','Discounted')
+// true
 /**
  * @description Checks if two strings are anagrams.
  * @param string1 {string} A string to be checked.
@@ -17,6 +24,10 @@ function CheckAnagram (string1, string2) {
 
   if (typeof (string2) !== 'string') {
     throw new TypeError('Parameter string2 should be a string')
+  }
+
+  if (string1.length !== string2.length) {
+    throw new Error('Parameters must be of same length')
   }
 
   // Strings are split into characters and sorted.
