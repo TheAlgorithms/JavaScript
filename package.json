@@ -12,6 +12,7 @@
     "node-fetch": "2.6.0"
   },
   "devDependencies": {
-    "standard": "^14.3.4"
+    "standard": "^14.3.4",
+    "doctest": "^0.17.1"
   }
 }
