@@ -320,4 +320,8 @@
 
 - [@eastbury13](https://github.com/eastbury13)
 
+-[@Shubhranshu-Malhotra](https://github.com/Shubhranshu-Malhotra/)
+
+-[@aysbt](https://github.com/aysbt)
+
 - [@chris-kh-han](https://github.com/chris-kh-han)
