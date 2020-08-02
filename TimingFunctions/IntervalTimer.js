@@ -38,7 +38,6 @@ class IntervalTimer {
   resetTimer () {
     clearInterval(this.timer)
     this.callBack = () => {}
-    this.callBack = () => {}
     return this.getElapsedTime()
   }
 
