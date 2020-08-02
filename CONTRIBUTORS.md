@@ -302,5 +302,9 @@
 
 - [@okechukwu-opara](https://github.com/okechukwu-opara)
 
+<<<<<<< HEAD
 - [@shreyas](https://github.com/Shreyasd10)
 
+=======
+- [@paper0420](https://github.com/paper0420)
+>>>>>>> 7f4323cee88a5327d8adae316a95497289f2ecb9
