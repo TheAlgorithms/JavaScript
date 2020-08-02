@@ -285,3 +285,39 @@
 - [@OliverWebb](https://github.com/OliverWebb/)
 
 - [@rlee52986](https://github.com/rlee52986/)
+
+- [@daxter-army](https://github.com/daxter-army/)
+
+- [@ISuMin](https://github.com/ISuMin)
+
+- [@achilleleal](https://github.com/achilleleal/)
+
+- [@DanielLivingston32](https://github.com/DanielLivingston32/)
+
+- [@chettriyuvraj](https://github.com/chettriyuvraj/)
+
+- [@zejunli](https://github.com/zejunli/)
+
+- [@eusoustamp](https://github.com/eusoustamp)
+
+- [@qreez](https://github.com/qreez)
+
+- [@okechukwu-opara](https://github.com/okechukwu-opara)
+
+- [@shreyas](https://github.com/Shreyasd10)
+
+- [@paper0420](https://github.com/paper0420)
+
+- [@get2tony](https://github.com/get2tony)
+
+- [@Sukrutkhot](https://github.com/Sukrutkhot)
+
+-[@yogeshsharma4477](https://github.com/yogeshsharma4477)
+
+- [@abirseam](https://github.com/abirseam)
+
+- [@althof3](https://github.com/althof3)
+
+- [@eastbury13](https://github.com/eastbury13)
+
+- [@chris-kh-han](https://github.com/chris-kh-han)
