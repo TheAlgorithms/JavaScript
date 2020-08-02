@@ -300,4 +300,4 @@
 
 - [@qreez](https://github.com/qreez)
 
-- [@okechukwu-opara](https://github.com/okechuwku-opara)
+- [@okechukwu-opara](https://github.com/okechukwu-opara)
