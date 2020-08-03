@@ -238,9 +238,9 @@
 
 - [@Abhishek19k97](https://github.com/Abhishek19k97/)
 
--[@skohade1](https://github.com/skohade1)
+- [@skohade1](https://github.com/skohade1)
 
--[@Alex-HuXD](https://github.com/Alex-HuXD)
+- [@Alex-HuXD](https://github.com/Alex-HuXD)
 
 - [@skohade1](https://github.com/skohade1)
 
@@ -316,7 +316,7 @@
 
 - [@Sukrutkhot](https://github.com/Sukrutkhot)
 
--[@yogeshsharma4477](https://github.com/yogeshsharma4477)
+- [@yogeshsharma4477](https://github.com/yogeshsharma4477)
 
 - [@abirseam](https://github.com/abirseam)
 
@@ -324,10 +324,36 @@
 
 - [@eastbury13](https://github.com/eastbury13)
 
--[@Shubhranshu-Malhotra](https://github.com/Shubhranshu-Malhotra/)
+- [@chris-kh-han](https://github.com/chris-kh-han)
 
--[@aysbt](https://github.com/aysbt)
+- [@Father-of-Physics](https://github.com/Father-of-Physics)
+
+- [@Shubhranshu-Malhotra](https://github.com/Shubhranshu-Malhotra/)
+
+- [@aysbt](https://github.com/aysbt)
 
 - [@chris-kh-han](https://github.com/chris-kh-han)
 
+<<<<<<< HEAD
 - [@Alex Badila#1981] (https://github.com/alex-badila)
+=======
+- [@dagibu301](https://github.com/dagibu301)
+
+- [@seanih](https://github.com/Seanih)
+
+- [@codysayo](https://github.com/CodySayo)
+
+- [@yuchi0307](https://github.com/yuchi0307)
+
+- [@grubiborna](https://github.com/grubiborna)
+
+- [@flyingriverhorse](https://github.com/flyingriverhorse)
+
+- [@kiranbabumuddam](https://github.com/kiranbabumuddam)
+
+- [@andreyscott](https://github.com/andreyscott)
+
+- [@andresrmts](https://github.com/andresrmts)
+
+-[@ajsaenz1091](https://github.com/ajsaenz1091)
+>>>>>>> 6be605bfa521a54b59573c67c3f61bad2a32f4bd
