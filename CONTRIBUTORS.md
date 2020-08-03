@@ -351,3 +351,5 @@
 - [@andreyscott](https://github.com/andreyscott)
 
 - [@andresrmts](https://github.com/andresrmts)
+
+- [@angrylance](https://github.com/angrylance)
