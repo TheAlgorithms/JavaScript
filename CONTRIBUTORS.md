@@ -334,6 +334,9 @@
 
 - [@chris-kh-han](https://github.com/chris-kh-han)
 
+<<<<<<< HEAD
+- [@Alex Badila#1981] (https://github.com/alex-badila)
+=======
 - [@dagibu301](https://github.com/dagibu301)
 
 - [@seanih](https://github.com/Seanih)
@@ -353,3 +356,4 @@
 - [@andresrmts](https://github.com/andresrmts)
 
 -[@ajsaenz1091](https://github.com/ajsaenz1091)
+>>>>>>> 6be605bfa521a54b59573c67c3f61bad2a32f4bd
