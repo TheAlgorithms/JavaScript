@@ -1,4 +1,7 @@
+# IDE files
 .DS_Store
+.vscode
 .idea
-start-here-guidelines
-start
+.iml
+.history
+
