@@ -240,6 +240,10 @@
 
 - [@skohade1](https://github.com/skohade1)
 
+- [@Alex-HuXD](https://github.com/Alex-HuXD)
+
+- [@skohade1](https://github.com/skohade1)
+
 - [@Electromorphous](https://github.com/Electromorphous)
 
 - [@Emmyoks](https://github.com/emmyoks)
@@ -284,6 +288,8 @@
 
 - [@OliverWebb](https://github.com/OliverWebb/)
 
+- [@rlee52986](https://github.com/rlee52986/)
+
 - [@daxter-army](https://github.com/daxter-army/)
 
 - [@ISuMin](https://github.com/ISuMin)
@@ -310,7 +316,7 @@
 
 - [@Sukrutkhot](https://github.com/Sukrutkhot)
 
--[@yogeshsharma4477](https://github.com/yogeshsharma4477)
+- [@yogeshsharma4477](https://github.com/yogeshsharma4477)
 
 - [@abirseam](https://github.com/abirseam)
 
@@ -321,3 +327,16 @@
 - [@chris-kh-han](https://github.com/chris-kh-han)
 
 - [@Father-of-Physics](https://github.com/Father-of-Physics)
+
+- [@Shubhranshu-Malhotra](https://github.com/Shubhranshu-Malhotra/)
+
+- [@aysbt](https://github.com/aysbt)
+
+- [@chris-kh-han](https://github.com/chris-kh-han)
+
+- [@dagibu301](https://github.com/dagibu301)
+
+- [@seanih](https://github.com/Seanih)
+
+- [@codysayo](https://github.com/CodySayo)
+
