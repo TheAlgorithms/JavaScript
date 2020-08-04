@@ -394,6 +394,4 @@
 
 - [@miamathews](https://github.com/miamathews)
 
-- [@alexbouvette](https://github.com/alexbouvette)
-
 - [@alturkeydevd](https://github.com/alturkeydev)
