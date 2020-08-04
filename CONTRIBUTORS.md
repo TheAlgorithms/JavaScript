@@ -393,3 +393,7 @@
 - [@eldarcelik](https://github.com/eldarcelik)
 
 - [@j-hermansen](https://github.com/j-hermansen)
+
+- [@miamathews](https://github.com/miamathews)
+
+- [@alexbouvette](https://github.com/alexbouvette)
