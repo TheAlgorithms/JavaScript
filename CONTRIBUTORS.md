@@ -26,9 +26,9 @@
 
 - [@PluckyPrecious](https://github.com/PluckyPrecious)
 
-- [@haiderali0786](github.com/haiderali0786/)
+- [@haiderali0786](https://github.com/haiderali0786/)
 
-- [@ben-redd](github.com/ben-redd/)
+- [@ben-redd](https://github.com/ben-redd/)
 
 - [@dejang95](https://github.com/dejang95)
 
@@ -384,3 +384,16 @@
 
 - [@damansharma006](https://github.com/damansharma006)
 
+-[@haadfida](https://github.com/haadfida)
+
+- [@hajimalung](https://github.com/hajimalung)
+
+- [@Hamzah9797](https://github.com/Hamzah9797)
+
+- [@eldarcelik](https://github.com/eldarcelik)
+
+- [@j-hermansen](https://github.com/j-hermansen)
+
+- [@miamathews](https://github.com/miamathews)
+
+- [@alexbouvette](https://github.com/alexbouvette)
