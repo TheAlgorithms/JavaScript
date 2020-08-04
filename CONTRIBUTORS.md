@@ -128,6 +128,8 @@
 
 - [@stathisR](https://github.com/stathisR)
 
+- [@valdaarhun](https://github.com/valdaarhun)
+
 - [@anquail](https://github.com/anquail)
 
 - [@lebkuecher](https://github.com/lebkuecher)
