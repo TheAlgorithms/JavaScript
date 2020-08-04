@@ -26,9 +26,9 @@
 
 - [@PluckyPrecious](https://github.com/PluckyPrecious)
 
-- [@haiderali0786](github.com/haiderali0786/)
+- [@haiderali0786](https://github.com/haiderali0786/)
 
-- [@ben-redd](github.com/ben-redd/)
+- [@ben-redd](https://github.com/ben-redd/)
 
 - [@dejang95](https://github.com/dejang95)
 
@@ -360,23 +360,23 @@
 
 - [@andresrmts](https://github.com/andresrmts)
 
--[@codysayo](https://github.com/CodySayo)
+- [@codysayo](https://github.com/CodySayo)
 
--[@arun414](https://github.com/arun414/)
+- [@arun414](https://github.com/arun414/)
 
--[@ajsaenz1091](https://github.com/ajsaenz1091)
+- [@ajsaenz1091](https://github.com/ajsaenz1091)
 
--[@Faizul314](https://github.com/Faizul314)
+- [@Faizul314](https://github.com/Faizul314)
 
--[@seankcd](https://github.com/seankcd)
+- [@seankcd](https://github.com/seankcd)
 
--[@cipriantepes](https://github.com/cipriantepes)
+- [@cipriantepes](https://github.com/cipriantepes)
 
--[@AnilSeervi](https://github.com/AnilSeervi)
+- [@AnilSeervi](https://github.com/AnilSeervi)
 
--[@luk-str](https://github.com/luk-str)
+- [@luk-str](https://github.com/luk-str)
 
--[@lucask1](https://github.com/lucask1)
+- [@lucask1](https://github.com/lucask1)
 
 - [@bpmdevr](https://github.com/bpmdevr)
 
@@ -392,6 +392,10 @@
 
 - [@eldarcelik](https://github.com/eldarcelik)
 
+- [@j-hermansen](https://github.com/j-hermansen)
+
 - [@miamathews](https://github.com/miamathews)
 
-- [@alturkeydevd](https://github.com/alturkeydev)
+- [@alexbouvette](https://github.com/alexbouvette)
+
+- [@alturkeydev](https://github.com/alturkeydev)
