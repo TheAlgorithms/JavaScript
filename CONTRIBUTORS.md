@@ -336,9 +336,8 @@
 
 - [@mukulmehar](https://github.com/mukulmehar)
 
-<<<<<<< HEAD
-- [@Alex Badila#1981] (https://github.com/alex-badila)
-=======
+- [@Alex Badila#1981](https://github.com/alex-badila)
+
 - [@dagibu301](https://github.com/dagibu301)
 
 - [@seanih](https://github.com/Seanih)
@@ -357,5 +356,14 @@
 
 - [@andresrmts](https://github.com/andresrmts)
 
+-[@codysayo](https://github.com/CodySayo)
+
+-[@arun414](https://github.com/arun414/)
+
 -[@ajsaenz1091](https://github.com/ajsaenz1091)
->>>>>>> 6be605bfa521a54b59573c67c3f61bad2a32f4bd
+
+-[@Faizul314](https://github.com/Faizul314)
+
+-[@seankcd](https://github.com/seankcd)
+
+-[@cipriantepes](https://github.com/cipriantepes)
