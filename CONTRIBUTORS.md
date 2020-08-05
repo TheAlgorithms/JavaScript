@@ -384,7 +384,7 @@
 
 - [@damansharma006](https://github.com/damansharma006)
 
--[@haadfida](https://github.com/haadfida)
+- [@haadfida](https://github.com/haadfida)
 
 - [@hajimalung](https://github.com/hajimalung)
 
@@ -400,6 +400,8 @@
 
 - [@alturkeydev](https://github.com/alturkeydev)
 
--[@dwilson-coder](https://github.com/dwilson-coder)
+- [@dwilson-coder](https://github.com/dwilson-coder)
 
 - [@themichailov](https://github.com/themichailov)
+
+- [@yashv6655](https://github.com/yashv6655)
