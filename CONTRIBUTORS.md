@@ -417,3 +417,5 @@
 - [@qkuiper](https://github.com/qkuiper)
 
 - [@akhil-droid](https://github.com/akhil-droid)
+
+- [@Brunno-DaSilva](https://github.com/Brunno-DaSilva)
