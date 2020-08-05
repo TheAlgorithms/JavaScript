@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@Brunno-DaSilva](https://github.com/Brunno-DaSilva)
+
 - [@Ahsan22444555](https://github.com/Ahsan22444555)
 
 - [@shubham06082001](https://github.com/shubham06082001)
