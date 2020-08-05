@@ -418,5 +418,5 @@
 
 - [@akhil-droid](https://github.com/akhil-droid)
 
--[@zFaka](https://github.com/zFaka)
+- [@zFaka](https://github.com/zFaka)
 
