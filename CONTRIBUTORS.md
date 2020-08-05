@@ -414,6 +414,10 @@
 
 - [@tingchun0113](https://github.com/tingchun0113)
 
+- [@samuelorobosa](https://github.com/samuelorobosa)
+
+- [@qkuiper](https://github.com/qkuiper)
+
 - [@qkuiper](https://github.com/qkuiper)
 
 - [@akhil-droid](https://github.com/akhil-droid)
