@@ -360,6 +360,10 @@
 
 - [@andresrmts](https://github.com/andresrmts)
 
+- [@ajsaenz1091](https://github.com/ajsaenz1091)
+
+- [@angrylance](https://github.com/angrylance)
+
 - [@codysayo](https://github.com/CodySayo)
 
 - [@arun414](https://github.com/arun414/)
@@ -405,3 +409,5 @@
 - [@themichailov](https://github.com/themichailov)
 
 - [@yashv6655](https://github.com/yashv6655)
+
+- [@alialaba](https://github.com/alialaba)
