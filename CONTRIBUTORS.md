@@ -26,9 +26,9 @@
 
 - [@PluckyPrecious](https://github.com/PluckyPrecious)
 
-- [@haiderali0786](github.com/haiderali0786/)
+- [@haiderali0786](https://github.com/haiderali0786/)
 
-- [@ben-redd](github.com/ben-redd/)
+- [@ben-redd](https://github.com/ben-redd/)
 
 - [@dejang95](https://github.com/dejang95)
 
@@ -128,6 +128,8 @@
 
 - [@stathisR](https://github.com/stathisR)
 
+- [@valdaarhun](https://github.com/valdaarhun)
+
 - [@anquail](https://github.com/anquail)
 
 - [@lebkuecher](https://github.com/lebkuecher)
@@ -163,6 +165,8 @@
 - [@devHectorGa](https://github.com/devHectorGa)
 
 - [@mrkartikkc](https://github.com/mrkartikkc/)
+
+- [@roycechun](https://github.com/roycechun/)
 
 - [@ranabameer](https://github.com/ranabameer)
 
@@ -334,6 +338,10 @@
 
 - [@chris-kh-han](https://github.com/chris-kh-han)
 
+- [@mukulmehar](https://github.com/mukulmehar)
+
+- [@Alex Badila#1981](https://github.com/alex-badila)
+
 - [@dagibu301](https://github.com/dagibu301)
 
 - [@seanih](https://github.com/Seanih)
@@ -356,3 +364,48 @@
 
 - [@angrylance](https://github.com/angrylance)
 
+- [@codysayo](https://github.com/CodySayo)
+
+- [@arun414](https://github.com/arun414/)
+
+- [@ajsaenz1091](https://github.com/ajsaenz1091)
+
+- [@Faizul314](https://github.com/Faizul314)
+
+- [@seankcd](https://github.com/seankcd)
+
+- [@cipriantepes](https://github.com/cipriantepes)
+
+- [@AnilSeervi](https://github.com/AnilSeervi)
+
+- [@luk-str](https://github.com/luk-str)
+
+- [@lucask1](https://github.com/lucask1)
+
+- [@bpmdevr](https://github.com/bpmdevr)
+
+- [@satya-1210](https://github.com/satya-1210)
+
+- [@damansharma006](https://github.com/damansharma006)
+
+- [@haadfida](https://github.com/haadfida)
+
+- [@hajimalung](https://github.com/hajimalung)
+
+- [@Hamzah9797](https://github.com/Hamzah9797)
+
+- [@eldarcelik](https://github.com/eldarcelik)
+
+- [@j-hermansen](https://github.com/j-hermansen)
+
+- [@miamathews](https://github.com/miamathews)
+
+- [@alexbouvette](https://github.com/alexbouvette)
+
+- [@alturkeydev](https://github.com/alturkeydev)
+
+- [@dwilson-coder](https://github.com/dwilson-coder)
+
+- [@themichailov](https://github.com/themichailov)
+
+- [@alialaba](https://github.com/alialaba)
