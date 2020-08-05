@@ -419,3 +419,5 @@
 - [@akhil-droid](https://github.com/akhil-droid)
 
 - [@Vikranth19](https://github.com/Vikranth19/)
+
+- [@pedro15sousa](https://github.com/pedro15sousa)
