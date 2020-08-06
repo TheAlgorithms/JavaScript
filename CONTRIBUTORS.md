@@ -428,6 +428,8 @@
 
 - [@Vikranth19](https://github.com/Vikranth19/)
 
+- [@pedro15sousa](https://github.com/pedro15sousa)
+
 - [@FATI-98](https://github.com/FATI-98/)
 
 - [@DIVYANSHGOEL333](https://github.com/DIVYANSHGOEL333)
