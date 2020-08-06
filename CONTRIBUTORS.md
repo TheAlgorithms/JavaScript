@@ -438,6 +438,8 @@
 
 -[@jingjingfang](https://github.com/jingjingfang)
 
+-[@RonaldoMagalhaes](https://github.com/RonaldoMagalhaes)
+
 -[@thaotpphung](https://github.com/thaotpphung)
 
 -[@chris-m-taylor](https://github.com/chris-m-taylor)
