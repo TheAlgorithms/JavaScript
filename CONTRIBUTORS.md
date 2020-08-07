@@ -484,3 +484,4 @@
 
 -[tcloss](https://github.com/tcloss)
 
+-[nanoman08](https://github.com/nanoman08)
