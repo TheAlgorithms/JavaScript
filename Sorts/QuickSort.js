@@ -50,7 +50,7 @@ console.log(ar);
  *
  * If the smaller-value and the larget-value both get an empty array, sorting ends.
  */
-function quickSort(items) {
+function functionalQuickSort(items) {
   if (!items.length) {
     return [];
   }
