@@ -504,7 +504,6 @@
 
 - [@whliang2](https://github.com/whliang2)
 
-<<<<<<< HEAD
 -[@googlr](https://github.com/googlr)
 
 -[@laver0ck](https://github.com/laver0ck)
@@ -30148,5 +30147,9 @@
 -[@yossinewmark](https://github.com/yossinewmark)
 
 -[@sawaseemgit](https://github.com/sawaseemgit)
-=======
->>>>>>> 344902a7c5ce874dee8838f1ac3ce1cbc09626e9
+
+- [@sagarmon](https://github.com/sagarmon)
+
+- [@lucamazzilli](https://github.com/lucamazzilli)
+
+- [@Salmanz18](https://github.com/Salmanz18)
