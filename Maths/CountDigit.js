@@ -8,7 +8,7 @@ function CountDigit (number) {
   var digits
   if (number === 0) {
     digits = 1
-  }else {
+  } else {
     digits = Math.floor(Math.log10(Math.abs(number)) + 1)
   }
   return digits
