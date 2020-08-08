@@ -523,3 +523,4 @@
 - [@SavaSava1209](https://github.com/SavaSava1209)
 - [@dianapsma1](https://github.com/dianapsma1)
 - [@Mohit123singh](https://github.com/Mohit123singh)
+- [@SolgiDeveloper](https://github.com/SolgiDeveloper/)
