@@ -4,8 +4,7 @@ Getting started with open-source can be a difficult task, not only because we ar
 
 It may appear a very challenging and overwhelming task at first, but it is, in fact, a fun and rewarding experience.
 
-# Community Collaboration Projects
-After the fantastic success that [Mappypals](https://github.com/zero-to-mastery/mappypals) is seeing and the high demand for similar projects, we would like to trial some community lead projects.
+# Community Led Collaboration Projects
 Providing the opportunity for you to flex your developer muscles, whilst working within a team of developers. Gaining valuable skills, employers are always seeking, such as:
 - **Communication and collaboration** - Being able to work in a team and communicating effectively is a very important skill
 - **Github and source control** - In these projects you will have the opportunity to understand why branching is important along with other key github skills.
@@ -19,7 +18,7 @@ Along with learning new skills, you will also gain experience on projects you ca
 ## Option 1: Join a project
 Joining a project is pretty simple, checkout the [current projects](https://github.com/zero-to-mastery) and find one you would like to participate in. Check out the project README in its repo as it will have a guide on how to get started!
 
-**Please note:** Whilst working on any project in the Zero To Mastery community, you must adhere to our code of conduct, which can be found [here](https://github.com/zero-to-mastery/start-here-guidelines/blob/master/CODE_OF_CONDUCT.md)
+**Please note:** Whilst working on any project in the Zero To Mastery community, you must adhere to our code of conduct, which can be found [here](https://github.com/zero-to-mastery/CodeofConduct)
 
 ## Option 2: Create a project
 We are always on the look out for new and exciting project to add to Zero to Mastery for you all to collaborate on! If you think you have a new and exciting project/idea the community would love to get involved in, here is the process for getting it listed:
@@ -32,7 +31,7 @@ We are always on the look out for new and exciting project to add to Zero to Mas
 In order to ensure that students hard work and time are not exploited, there are a couple of rules that will need to be followed for any project:
 - The project repo and discussion channels, will be hosted under the Zero To Mastery Github organization/Discord Server
 - The project must use the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)
-- The project must contain and adhere to the `code of conduct` guide found [here](https://github.com/zero-to-mastery/start-here-guidelines/blob/master/CODE_OF_CONDUCT.md)
+- The project must contain and adhere to the `code of conduct` guide found [here](https://github.com/zero-to-mastery/CodeofConduct)
 
 ## Current Projects
 You can view all current projects [here](https://github.com/zero-to-mastery) or you can view the specific #current-projects channel in our Discord Community that gives you a little more detail on each project.
