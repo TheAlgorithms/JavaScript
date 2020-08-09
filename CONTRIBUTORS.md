@@ -535,3 +535,5 @@
 - [@rolteame](https://github.com/rolteame)
 
 - [@jacavena](https://github.com/jacavena)
+
+- [@viktorlinus](https://github.com/viktorlinus)
