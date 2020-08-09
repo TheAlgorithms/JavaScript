@@ -1,6 +1,7 @@
  <!-- @format -->
 
 # Contributors
+
 -[@hatimmurtuza](https://github.com/LethalPants)
 
 -[@kamalpreet36](https://github.com/kamalpreet36)
@@ -4765,6 +4766,8 @@
 
 -[@chi](https://github.com/Zed-chi)
 
+-[@hyderumer](https://github.com/hyderumer)
+
 -[@ZoranLautarevic](https://github.com/ZoranLautarevic/)
 
 -[@ChandalaSaturnino](https://github.com/ChandalaSaturnino)
@@ -8891,4 +8894,23 @@
 
 -[@eddiesr123](https://github.com/eddiesr123)
 
+-[@grv1592](https://github.com/grv1592/)
+
+-[@uniqu3](https://github.com/uniqu3)
+
+-[@Aaditya-Dhanraj](https://github.com/Aaditya-Dhanraj/)
+
+-[@umur282](https://github/umur282/)
+
+-[@boran272](https://github.com/boran272)
+
+-[@Borche](https://github.com/Borche)
+
+-[@steviesocks](https://github.com/steviesocks)
+
+-[@mpcaples](https://github.com/mpcaples)
+
+-[@vsaikm](https://github.com/vsaikm)
+
 -[@Ritavdas](https://github.com/Ritavdas)
+
