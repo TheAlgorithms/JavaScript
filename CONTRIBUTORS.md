@@ -529,3 +529,5 @@
 - [@Mohit123singh](https://github.com/Mohit123singh)
 
 - [@SolgiDeveloper](https://github.com/SolgiDeveloper/)
+
+- [@zizu1681](https://github.com/zizu1681/)
