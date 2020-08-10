@@ -1,6 +1,7 @@
 # CONTRIBUTORS
+- [@daniel-balico](https://github.com/daniel-balico)
 
--[@hatimmurtuza](https://github.com/LethalPants)
+- [@hatimmurtuza](https://github.com/LethalPants)
 
 - [@PhilipPurwoko](https://github.com/PhilipPurwoko)
 
@@ -562,9 +563,9 @@
 
 - [@RobDeadFreight](https://github.com/RobDeadFreight)
 
--  [@shabaaz27](https://github.com/shabaaz27)
+- [@shabaaz27](https://github.com/shabaaz27)
 
--  [@rebecamkitchen](https://github.com/rebecamkitchen)
+- [@rebecamkitchen](https://github.com/rebecamkitchen)
 
 - [@shabaaz27](https://github.com/shabaaz27)
 
@@ -8942,12 +8943,24 @@
 
 -[@Murillo89](https://github.com/murillo89)
 
--[@ariefyud](https://github.com/ariefyud)
+- [@anjanpa](https://github.com/anjanpa/)
+
+- [@ariefyud](https://github.com/ariefyud)
 
 - [@anjanpa](https://github.com/anjanpa/)
 
 - [@thurendous](https://github.com/thurendous/)
 
 - [@puneethramchandra](https://github.com/puneethramchandra/)
+
+- [@Prashant-Bharaj](https://github.com/Prashant-Bharaj/)
+
+- [@paulsalomson](https://github.com/paulsalomson/)
+
+- [@KhudadadKhawari](https://github.com/KhudadadKhawari/)
+
+- [@ganeshkatta39](https://github.com/ganeshkatta39/)
+
+- [@venkateshkamath](https://github.com/venkateshkamath)
 
 - [@sfstanciu](https://github.com/sfstanciu/)
