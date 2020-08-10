@@ -1,6 +1,7 @@
 # CONTRIBUTORS
+- [@daniel-balico](https://github.com/daniel-balico)
 
--[@hatimmurtuza](https://github.com/LethalPants)
+- [@hatimmurtuza](https://github.com/LethalPants)
 
 - [@PhilipPurwoko](https://github.com/PhilipPurwoko)
 
