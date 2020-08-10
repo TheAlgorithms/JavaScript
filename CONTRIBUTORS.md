@@ -8945,7 +8945,7 @@
 
 - [@anjanpa](https://github.com/anjanpa/)
 
--[@ariefyud](https://github.com/ariefyud)
+- [@ariefyud](https://github.com/ariefyud)
 
 - [@anjanpa](https://github.com/anjanpa/)
 
@@ -8960,3 +8960,5 @@
 - [@KhudadadKhawari](https://github.com/KhudadadKhawari/)
 
 - [@ganeshkatta39](https://github.com/ganeshkatta39/)
+
+- [@venkateshkamath](https://github.com/venkateshkamath)
