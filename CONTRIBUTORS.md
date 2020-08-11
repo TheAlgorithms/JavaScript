@@ -638,6 +638,6 @@
 
 - [@manuws](https://github.com/manuwasa)
 
--[@Quigsdon](https://github.com/Quigsdon)
+- [@Quigsdon](https://github.com/Quigsdon)
 
--[@krishnateja96](https://github.com/krishnateja96)
+- [@krishnateja96](https://github.com/krishnateja96)
