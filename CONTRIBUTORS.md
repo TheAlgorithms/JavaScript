@@ -552,9 +552,9 @@
 
 - [@alirezap94](https://github.com/alirezap94)
 
--[@ripudaman184](https://github.com/ripudaman184/)
+- [@ripudaman184](https://github.com/ripudaman184/)
 
--[@nohaelboghdady](https://github.com/nohaelboghdady)
+- [@nohaelboghdady](https://github.com/nohaelboghdady)
 
 - [@fiona-byte](https://github.com/fiona-byte)
 
@@ -576,17 +576,17 @@
 
 - [@klsklnPITX](https://github.com/klsklnPITX)
 
--[@soilshubham](https://github.com/soilshubham)
+- [@soilshubham](https://github.com/soilshubham)
 
--[@sophiexsun](https://github.com/sophiexsun)
+- [@sophiexsun](https://github.com/sophiexsun)
 
--[@kanema20](https://github.com/kanema20)
+- [@kanema20](https://github.com/kanema20)
 
--[@samilabud](https://github.com/samilabud)
+- [@samilabud](https://github.com/samilabud)
 
--[@abu-hasib](https://github.com/abu-hasib)
+- [@abu-hasib](https://github.com/abu-hasib)
 
--[@Murillo89](https://github.com/murillo89)
+- [@Murillo89](https://github.com/murillo89)
 
 - [@anjanpa](https://github.com/anjanpa/)
 
@@ -612,18 +612,20 @@
 
 - [@stone-gchi](https://github.com/stone-gchi/)
 
--[@anjalirawat-cell](https://github.com/anjalirawat-cell/)
+- [@anjalirawat-cell](https://github.com/anjalirawat-cell/)
 
--[@norsevikingdev](https://github.com/norsevikingdev/)
-<<<<<<< HEAD
+- [@norsevikingdev](https://github.com/norsevikingdev/)
 
--[@JohnMcGrane](https://github.com/JohnMcGrane/)
+- [@JohnMcGrane](https://github.com/JohnMcGrane/)
 
--[@Roycekim99](https://github.com/Roycekim99/)
+- [@Roycekim99](https://github.com/Roycekim99/)
+
 - [@magdielndantas](https://github.com/magdielndantas)
 
--[@eduquintanillae](https://github.com/eduquintanillae)
--[@sulavkhadka787](https://github.com/sulavkhadka787)
--[@jaburialeh](https://github.com/jaburialeh)
-=======
->>>>>>> parent of 22d4442... Merge pull request #7218 from corylamb/test
+- [@eduquintanillae](https://github.com/eduquintanillae)
+
+- [@sulavkhadka787](https://github.com/sulavkhadka787)
+
+- [@jaburialeh](https://github.com/jaburialeh)
+
+- [@ryns118](https://github.com/ryns118)
