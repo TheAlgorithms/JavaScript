@@ -645,3 +645,5 @@
 - [@ceyhuncengiz](https://github.com/ceyhuncengiz)
 
 - [@koeiluh](https://github.com/koeiluh)
+
+- [@richardlara05](https://github.com/richardllara05)
