@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@Tony-Boules](https://github.com/Tboules)
+
 - [@daniel-balico](https://github.com/daniel-balico)
 
 - [@PhilipPurwoko](https://github.com/PhilipPurwoko)
@@ -666,9 +668,20 @@
 
 - [@divyanshrastogi51](https://github.com/divyanshrastogi51)
 
+- [@Mayur724](https://github.com/Mayur72)
+
 - [@akhilnalliboina](https://github.com/akhilnalliboina)
 
 - [@edwardatkinson](https://github.com/edwardatkinson)
 
 - [@tarik9](https://github.com/tarik9)
 
+- [@olivierhang](https://github.com/OlivierHang)
+
+- [@paul-ilies](https://github.com/paul-ilies)
+
+- [@huemic73](https://github.com/huemic73/)
+
+- [@TheCrimsondev](https://github.com/TheCrimsondev)
+
+- [@JoelFernando209](https://github.com/JoelFernando209)
