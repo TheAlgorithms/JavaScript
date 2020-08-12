@@ -669,3 +669,6 @@
 - [@akhilnalliboina](https://github.com/akhilnalliboina)
 
 - [@edwardatkinson](https://github.com/edwardatkinson)
+
+- [@tarik9](https://github.com/tarik9)
+
