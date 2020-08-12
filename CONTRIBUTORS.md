@@ -674,6 +674,8 @@
 
 - [@edwardatkinson](https://github.com/edwardatkinson)
 
+- [@tarik9](https://github.com/tarik9)
+
 - [@olivierhang](https://github.com/OlivierHang)
 
 - [@paul-ilies](https://github.com/paul-ilies)
