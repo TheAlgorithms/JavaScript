@@ -666,4 +666,8 @@
 
 - [@divyanshrastogi51](https://github.com/divyanshrastogi51)
 
-- [@Mayur724](https://github.com/Mayur724)
+- [@Mayur724](https://github.com/Mayur72)
+
+- [@akhilnalliboina](https://github.com/akhilnalliboina)
+
+- [@edwardatkinson](https://github.com/edwardatkinson)
