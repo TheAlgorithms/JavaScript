@@ -693,3 +693,5 @@
 - [@TheCrimsondev](https://github.com/TheCrimsondev)
 
 - [@JoelFernando209](https://github.com/JoelFernando209)
+
+- [@D3GIII](https://github.com/D3GIII)
