@@ -658,7 +658,8 @@
 
 - [@bergie88](https://github.com/bergie88)
 
-
 - [@SidWorks](https://github.com/sidworks)
 
 - [@ThomasMathew1993](https://github.com/ThomasMathew1993)
+
+- [@roryhoulding](https://github.com/roryhoulding)
