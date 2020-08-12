@@ -658,8 +658,7 @@
 
 - [@bergie88](https://github.com/bergie88)
 
-<<<<<<< HEAD
--[@SidWorks](https://github.com/sidworks)
-=======
+
+- [@SidWorks](https://github.com/sidworks)
+
 - [@ThomasMathew1993](https://github.com/ThomasMathew1993)
->>>>>>> fde0836f0ea709f967d97d2408825a37d45c7369
