@@ -1,6 +1,6 @@
 # CONTRIBUTORS
 
-- [@Tony-Boules](https://github.com/Tboules) 
+- [@Tony-Boules](https://github.com/Tboules)
 
 - [@daniel-balico](https://github.com/daniel-balico)
 
@@ -673,3 +673,5 @@
 - [@akhilnalliboina](https://github.com/akhilnalliboina)
 
 - [@edwardatkinson](https://github.com/edwardatkinson)
+
+- [@olivierhang](https://github.com/OlivierHang)
