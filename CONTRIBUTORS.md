@@ -276,6 +276,8 @@
 
 - [@TarrynGouveris](https://github.com/TarrynGouveris)
 
+- [@vladimirdd96](https://github.com/vladimirdd96/)
+
 - [@Rayster271196](https://github.com/Rayster271196)
 
 - [@calerbucci](https://github.com/calerbucci/)
@@ -701,3 +703,4 @@
 -[@qw04](https://github.com/qw04)
 
 - [@ybhan](https://github.com/ybhan)
+
