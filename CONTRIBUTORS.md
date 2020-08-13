@@ -256,6 +256,8 @@
 
 - [@rohan123454](https://github.com/rohan123454)
 
-- [@TarrynGouveris] (https://github.com/TarrynGouveris)
+- [@TarrynGouveris](https://github.com/TarrynGouveris)
 
 - [@calerbucci](https://github.com/calerbucci/)
+
+- [@vladimirdd96](https://github.com/vladimirdd96/)
