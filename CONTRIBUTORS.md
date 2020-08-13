@@ -664,7 +664,7 @@
 
 - [@ThomasMathew1993](https://github.com/ThomasMathew1993)
 
-- [@salihrekani] (https://github.com/salihrekani)
+- [@salihrekani](https://github.com/salihrekani)
 
 - [@SidWorks](https://github.com/sidworks)
 
@@ -697,3 +697,5 @@
 - [@D3GIII](https://github.com/D3GIII)
 
 - [@piincher](https://github.com/piincher)
+
+- [@epoyepoy](https://github.com/epoyepoy)
