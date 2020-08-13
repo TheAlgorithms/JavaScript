@@ -706,6 +706,8 @@
 
 - [@1Dree](https://github.com/1Dree)
 
+- [@DenisKamau](https://github.com/DenisKamau)
+
 - [@annima24](https://github.com/annima24)
 
 - [@iamvik20](https://github.com/iamvik20)
