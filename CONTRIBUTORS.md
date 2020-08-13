@@ -276,6 +276,8 @@
 
 - [@TarrynGouveris](https://github.com/TarrynGouveris)
 
+- [@vladimirdd96](https://github.com/vladimirdd96/)
+
 - [@Rayster271196](https://github.com/Rayster271196)
 
 - [@calerbucci](https://github.com/calerbucci/)
@@ -664,7 +666,7 @@
 
 - [@ThomasMathew1993](https://github.com/ThomasMathew1993)
 
-- [@salihrekani] (https://github.com/salihrekani)
+- [@salihrekani](https://github.com/salihrekani)
 
 - [@SidWorks](https://github.com/sidworks)
 
@@ -698,3 +700,28 @@
 
 - [@D3GIII](https://github.com/D3GIII)
 
+- [@piincher](https://github.com/piincher)
+
+-[@qw04](https://github.com/qw04)
+
+- [@ybhan](https://github.com/ybhan)
+
+- [@1Dree](https://github.com/1Dree)
+
+- [@DenisKamau](https://github.com/DenisKamau)
+
+- [@annima24](https://github.com/annima24)
+
+- [@iamvik20](https://github.com/iamvik20)
+
+- [@dgethers](https://github.com/dgethers)
+
+- [@pachooch](https://github.com/pachooch)
+
+- [@BhatejaDhruv](https://github.com/BhatejaDhruv)
+
+- [@alfredasare](https://github.com/alfredasare)
+
+- [@uktom](https://github.com/uktom/)
+
+- [@epoyepoy](https://github.com/epoyepoy/)
