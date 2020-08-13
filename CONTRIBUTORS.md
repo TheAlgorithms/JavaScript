@@ -716,4 +716,6 @@
 
 - [@BhatejaDhruv](https://github.com/BhatejaDhruv)
 
+- [@alfredasare](https://github.com/alfredasare)
+
 - [@uktom](https://github.com/uktom/)
