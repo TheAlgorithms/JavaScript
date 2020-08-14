@@ -656,7 +656,7 @@
 
 - [@richardlara05](https://github.com/richardllara05)
 
--[@sid6932](https://github.com/sid6932)
+- [@sid6932](https://github.com/sid6932)
 
 - [@ADun3306x](https://github.com/ADun3306x/)
 
@@ -666,13 +666,13 @@
 
 - [@ThomasMathew1993](https://github.com/ThomasMathew1993)
 
-- [@salihrekani] (https://github.com/salihrekani)
+- [@salihrekani](https://github.com/salihrekani)
 
 - [@SidWorks](https://github.com/sidworks)
 
 - [@ThomasMathew1993](https://github.com/ThomasMathew1993)
 
--[@Eldor99](https://github.com/eldor99)/
+- [@Eldor99](https://github.com/eldor99)/
 
 - [@roryhoulding](https://github.com/roryhoulding)
 
@@ -683,6 +683,8 @@
 - [@akhilnalliboina](https://github.com/akhilnalliboina)
 
 - [@edwardatkinson](https://github.com/edwardatkinson)
+
+- [@Mayur-724](https://github.com/Mayur-724)
 
 - [@tarik9](https://github.com/tarik9)
 
@@ -700,7 +702,7 @@
 
 - [@piincher](https://github.com/piincher)
 
--[@qw04](https://github.com/qw04)
+- [@qw04](https://github.com/qw04)
 
 - [@ybhan](https://github.com/ybhan)
 
@@ -709,3 +711,51 @@
 - [@annima24](https://github.com/annima24)
 
 - [@raeann304](https://github.com/raeann304)
+
+- [@DenisKamau](https://github.com/DenisKamau)
+
+- [@annima24](https://github.com/annima24)
+
+- [@iamvik20](https://github.com/iamvik20)
+
+- [@dgethers](https://github.com/dgethers)
+
+- [@pachooch](https://github.com/pachooch)
+
+- [@BhatejaDhruv](https://github.com/BhatejaDhruv)
+
+- [@alfredasare](https://github.com/alfredasare)
+
+- [@uktom](https://github.com/uktom/)
+
+- [@epoyepoy](https://github.com/epoyepoy/)
+
+- [@enerelt21](https://github.com/enerelt21)
+
+- [@header-bit](https://github.com/header-bit/)
+
+- [@eyeleen168](https://github.com/eyeleen168/)
+
+- [@rjosephscgllc](https://github.com/rjosephscgllc)
+
+- [@josh055](https://github.com/josh055)
+
+- [@sahalakma](https://github.com/sahalakma)
+
+- [@GudlaArunKumar](https://github.com/GudlaArunKumar)
+
+- [@Kayan-dev](https://github.com/Kayan-dev)
+
+- [@GudlaArunKumar](https://github.com/GudlaArunKumar)
+
+- [@sohail019](https://github.com/sohail019)
+
+- [@anath11](https://github.com/anath11)
+
+- [@yuanliu2065](https://github.com/yuanliu2065)
+
+- [@ablossomhead](http://github.com/ablossomhead)
+
+- [@emilyjayelr](https://github.com/emilyjayelr)
+
+- [@RafaelParanhos](https://github.com/RafaelParanhos)
