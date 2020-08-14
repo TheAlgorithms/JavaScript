@@ -29662,7 +29662,7 @@
 
 - [@lucamazzilli](https://github.com/lucamazzilli)
 
-- [@Salmanz18](https://github.com/Sal
+- [@Salmanz18](https://github.com/Sal)
 
 - [@epoyepoy](https://github.com/epoyepoy/)
 
