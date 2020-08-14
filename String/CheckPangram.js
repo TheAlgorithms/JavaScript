@@ -2,7 +2,8 @@
 // The alphabet has to appear at least once
 // Pangram Check is case sensitve
 
-// Create an array of 26 characters
+// Create a string with all 26 characters
+
 const ALPHABETS = 'abcdefghijklmnopqrstuvwxyz'
 
 function checkPangram (sentence) {
