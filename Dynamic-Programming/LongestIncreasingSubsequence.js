@@ -1,3 +1,4 @@
+// input is an array of integers
 function LongestIncreasingSubsequence( nums ) {
   length = nums.length
   if (length === 0) {
@@ -27,3 +28,6 @@ function LongestIncreasingSubsequence( nums ) {
   }
   return longest
 }
+
+console.log( LongestIncreasingSubsequence([10,9,2,5,3,7,101,18]) )
+console.log( LongestIncreasingSubsequence([2,5,3,5,4,7,10,91]) )
