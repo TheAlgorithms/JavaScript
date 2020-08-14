@@ -1,11 +1,11 @@
 // input is an array of integers
 function LongestIncreasingSubsequence( nums ) {
-  length = nums.length
+  let length = nums.length
   if (length === 0) {
     return 0
   }
   // create the dp array, initially made up of all ones, because minimum length of LIS is 1
-  dp = []
+  let dp = []
   for ( let i = 0; i < length; i++ ) {
     dp.push(1)
   }
