@@ -759,3 +759,5 @@
 - [@emilyjayelr](https://github.com/emilyjayelr)
 
 - [@RafaelParanhos](https://github.com/RafaelParanhos)
+
+- [@kofosu2289](https://github.com/kofosu2289)
