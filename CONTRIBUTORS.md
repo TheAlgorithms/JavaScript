@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@Shivansh-007](https://github.com/Shivansh-007)
+
 - [@Tony-Boules](https://github.com/Tboules)
 
 - [@daniel-balico](https://github.com/daniel-balico)
@@ -762,4 +764,12 @@
 
 - [@Sarwar-Md](https://github.com/Sarwar-Md)
 
+- [@kofosu2289](https://github.com/kofosu2289)
 
+- [@Sterben3254](https://github.com/Sterben3254)
+
+- [@TLym](https://github.com/TLym)
+
+- [@HugMP](https://github.com/HugMP)
+
+- [@ShlomiKariti](https://github.com/ShlomiKariti)
