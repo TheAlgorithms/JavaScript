@@ -766,4 +766,4 @@
 
 - [@TLym](https://github.com/TLym)
 
--[@HugMP](https://github.com/HugMP)
+- [@HugMP](https://github.com/HugMP)
