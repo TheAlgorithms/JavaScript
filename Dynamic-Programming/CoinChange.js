@@ -8,8 +8,6 @@ function change (coins, amount) {
     for (let j = coin; j < amount + 1; j++) {
       combinations[j] += combinations[j - coin]
     }
-    // Uncomment the line below to see the state of combinations for each coin
-    // printAmount(combinations);
   }
   return combinations[amount]
 }
@@ -34,17 +32,7 @@ function minimumCoins (coins, amount) {
       }
     }
   }
-  // Uncomment the line below to see the state of combinations for each coin
-  // printAmount(minimumCoins);
   return minimumCoins[amount]
-}
-
-// A basic print method which prints all the contents of the array
-function printAmount (arr) {
-  for (let i = 0; i < arr.length; i++) {
-    console.log(arr[i] + ' ')
-  }
-  console.log('\n')
 }
 
 function main () {
