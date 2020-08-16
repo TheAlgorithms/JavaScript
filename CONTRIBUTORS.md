@@ -793,4 +793,4 @@
 
 - [@albertkelo](https://github.com/albertkelo)
 
-- [@lionelr96](https://github.com/lionelr96) 
+- [@EdgardoPinto-Escalier](https://github.com/EdgardoPinto-Escalier)
