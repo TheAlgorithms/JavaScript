@@ -792,3 +792,5 @@
 - [@justjoelaw](https://github.com/justjoelaw)
 
 - [@albertkelo](https://github.com/albertkelo)
+
+- [@EdgardoPinto-Escalier](https://github.com/EdgardoPinto-Escalier)
