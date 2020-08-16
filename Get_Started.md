@@ -1,4 +1,4 @@
-# Getting Started
+git # Getting Started
 
 Getting started with open-source can be a difficult task, not only because we are being introduced to some new technologies, but also because most of us have never worked in a collaborative environment before. Being able to work in a collaborative environment is one of the most important skills anyone could acquire, not only in the coding and programming area, but in life.
 
