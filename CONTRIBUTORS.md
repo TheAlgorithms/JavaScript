@@ -778,7 +778,8 @@
 
 - [@SachinRaja](https://github.com/sachin-raja)
 
-- [@SohrabRo]  (https://github.com/SohrabRo/)
+- [@SohrabRo](https://github.com/SohrabRo/)
 
 -[@Jeff-eng363](https://github.com/Jeff-eng363)
 
+-[@pixxstudios](https://github.com/pixxstudios)
