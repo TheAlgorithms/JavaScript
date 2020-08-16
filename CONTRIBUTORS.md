@@ -793,8 +793,12 @@
 
 - [@albertkelo](https://github.com/albertkelo)
 
+- [@lionelr96](https://github.com/lionelr96) 
+
+- [@warty-warthog](https://github.com/warty-warthog) 
+
 - [@EdgardoPinto-Escalier](https://github.com/EdgardoPinto-Escalier)
 
-- [@AimanShakeel1008] (https://github.com/AimanShakeel1008)
+- [@AimanShakeel1008](https://github.com/AimanShakeel1008)
 
 - [@emanuelflo](https://github.com/emanuelflo)
