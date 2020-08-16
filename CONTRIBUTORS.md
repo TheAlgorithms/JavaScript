@@ -775,14 +775,14 @@
 
 - [@ShlomiKariti](https://github.com/ShlomiKariti)
 
--[vraoblr](https://github.com/vraoblr)
+- [@vraoblr](https://github.com/vraoblr)
 
 - [@SachinRaja](https://github.com/sachin-raja)
 
 - [@SohrabRo](https://github.com/SohrabRo/)
 
--[@Jeff-eng363](https://github.com/Jeff-eng363)
+- [@Jeff-eng363](https://github.com/Jeff-eng363)
 
--[@pixxstudios](https://github.com/pixxstudios)
+- [@pixxstudios](https://github.com/pixxstudios)
 
--[@Vyahruth07](https://github.com/Vyahruth07)
+- [@Vyahruth07](https://github.com/Vyahruth07)
