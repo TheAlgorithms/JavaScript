@@ -832,3 +832,8 @@
 - [@oakus](https://github.com/oakus)
 
 - [@git-the-gist](https://github.com/git-the-gist)
+
+- [Kurisutofu1990](https://github.com/Kurisutofu1990)
+
+
+
