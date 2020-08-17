@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@isamov2012](https://github.com/isamov2012)
+
 - [@Shivansh-007](https://github.com/Shivansh-007)
 
 - [@Tony-Boules](https://github.com/Tboules)
