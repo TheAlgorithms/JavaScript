@@ -824,3 +824,5 @@
 - [@erickpoblete](https://github.com/erickpoblete)
 
 - [@RaFaTEOLI](https://github.com/RaFaTEOLI)
+
+- [@oakus](https://github.com/oakus)
