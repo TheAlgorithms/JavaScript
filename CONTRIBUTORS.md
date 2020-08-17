@@ -814,3 +814,17 @@
 - [@VimarshThapa](https://github.com/VimarshThapa)
 
 - [@Roxx88](https://github.com/Roxx88)
+
+- [@vyasriday](https://github.com/vyasriday)
+
+- [@YashAhuja024](https://github.com/YashAhuja024)
+
+- [@SimonF99](https://github.com/SimonF99)
+
+- [@CraigMehl](https://github.com/CraigMehl/)
+
+- [@erickpoblete](https://github.com/erickpoblete)
+
+- [@RaFaTEOLI](https://github.com/RaFaTEOLI)
+
+- [@oakus](https://github.com/oakus)
