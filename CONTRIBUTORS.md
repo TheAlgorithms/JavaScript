@@ -799,9 +799,9 @@
 
 - [@albertkelo](https://github.com/albertkelo)
 
-- [@lionelr96](https://github.com/lionelr96) 
+- [@lionelr96](https://github.com/lionelr96)
 
-- [@warty-warthog](https://github.com/warty-warthog) 
+- [@warty-warthog](https://github.com/warty-warthog)
 
 - [@EdgardoPinto-Escalier](https://github.com/EdgardoPinto-Escalier)
 
@@ -833,10 +833,22 @@
 
 - [@oakus](https://github.com/oakus)
 
+- [@chukwudozie](https://github.com/chukwudozie)
+
 - [@git-the-gist](https://github.com/git-the-gist)
+
+- [@zamirkanji](https://github.com/zamirkanji)
 
 - [@dani1012](https://github.com/dani1012)
 
 - [@As-21](https://github.com/As-21)
 
+
 - [@jomefavourite](https://github.com/jomefavourite)
+
+- [@nguyengiahy](https://github.com/nguyengiahy)
+
+- [@Higrashi](https://github.com/Higrashi)
+
+- [@ChansooKim316](https://github.com/ChansooKim316)
+
