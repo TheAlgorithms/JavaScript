@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@rasika30](https://github.com/rasika30)
+
 - [@isamov2012](https://github.com/isamov2012)
 
 - [@Shivansh-007](https://github.com/Shivansh-007)
@@ -832,3 +834,9 @@
 - [@oakus](https://github.com/oakus)
 
 - [@zamirkanji](https://github.com/zamirkanji)
+
+- [@git-the-gist](https://github.com/git-the-gist)
+
+- [@dani1012](https://github.com/dani1012)
+
+- [@As-21](https://github.com/As-21)
