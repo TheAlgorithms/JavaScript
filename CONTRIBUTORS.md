@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@isamov2012](https://github.com/isamov2012)
+
 - [@Shivansh-007](https://github.com/Shivansh-007)
 
 - [@Tony-Boules](https://github.com/Tboules)
@@ -221,6 +223,7 @@
 - [@Piyush_Mahapatra](https://github.com/piyush-mahapatra-au6/)
 
 - [@vladiodev](https://github.com/vladiodev/)
+- [@Sashankvarma2668](https://github.com/Sashankvarma2668)
 
 - [@iridiumCodes](https://github.com/iridiumCodes)
 
@@ -526,6 +529,8 @@
 
 - [@yctsai116](https://github.com/yctsai116)
 
+- [@jandeh7](https://github.com/jandeh7)
+
 - [@MDmustafa05](https://github.com/MDmustafa05/)
 
 - [@SavaSava1209](https://github.com/SavaSava1209)
@@ -774,16 +779,61 @@
 
 - [@ShlomiKariti](https://github.com/ShlomiKariti)
 
--[vraoblr](https://github.com/vraoblr)
+- [@vraoblr](https://github.com/vraoblr)
 
 - [@SachinRaja](https://github.com/sachin-raja)
 
 - [@SohrabRo](https://github.com/SohrabRo/)
 
--[@Jeff-eng363](https://github.com/Jeff-eng363)
+- [@Jeff-eng363](https://github.com/Jeff-eng363)
 
--[@pixxstudios](https://github.com/pixxstudios)
+- [@pixxstudios](https://github.com/pixxstudios)
+
+- [@Vyahruth07](https://github.com/Vyahruth07)
+
+- [@timbergus](https://github.com/timbergus)
+
+- [@justjoelaw](https://github.com/justjoelaw)
+
+- [@albertkelo](https://github.com/albertkelo)
+
+- [@lionelr96](https://github.com/lionelr96) 
+
+- [@warty-warthog](https://github.com/warty-warthog) 
+
+- [@EdgardoPinto-Escalier](https://github.com/EdgardoPinto-Escalier)
+
+- [@AimanShakeel1008](https://github.com/AimanShakeel1008)
+
+- [@emanuelflo](https://github.com/emanuelflo)
+
+- [@edz007](https://github.com/edz007/)
+
+- [@sanath0208](https://github.com/sanath0208/)
+
+- [@nageshmv06](https://github.com/nageshmv06/)
+
+- [@VimarshThapa](https://github.com/VimarshThapa)
+
+- [@Roxx88](https://github.com/Roxx88)
+
+- [@vyasriday](https://github.com/vyasriday)
+
+- [@YashAhuja024](https://github.com/YashAhuja024)
+
+- [@SimonF99](https://github.com/SimonF99)
+
+- [@CraigMehl](https://github.com/CraigMehl/)
+
+- [@erickpoblete](https://github.com/erickpoblete)
+
+- [@RaFaTEOLI](https://github.com/RaFaTEOLI)
+
+- [@oakus](https://github.com/oakus)
 
 -[@Vyahruth07](https://github.com/Vyahruth07)
 
 -[@chukwudozie(https://github.com/chukwudozie)
+
+- [@git-the-gist](https://github.com/git-the-gist)
+
