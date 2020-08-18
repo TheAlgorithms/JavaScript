@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@rasika30](https://github.com/rasika30)
+
 - [@isamov2012](https://github.com/isamov2012)
 
 - [@Shivansh-007](https://github.com/Shivansh-007)
