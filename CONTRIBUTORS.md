@@ -843,7 +843,6 @@
 
 - [@As-21](https://github.com/As-21)
 
-
 - [@jomefavourite](https://github.com/jomefavourite)
 
 - [@nguyengiahy](https://github.com/nguyengiahy)
@@ -852,3 +851,12 @@
 
 - [@ChansooKim316](https://github.com/ChansooKim316)
 
+- [@ekkemand](https://github.com/ekkemand)
+
+- [@8thajor8](https://github.com/8thajor8)
+
+- [@MaxKlass98](https://github.com/MaxKlass98)
+
+- [@vron7](https://github.com/vron7)
+
+- [@shartechs](https://github.com/shartechs)
