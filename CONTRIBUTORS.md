@@ -832,3 +832,5 @@
 - [@oakus](https://github.com/oakus)
 
 - [@git-the-gist](https://github.com/git-the-gist)
+
+- [@dani1012](https://github.com/dani1012)
