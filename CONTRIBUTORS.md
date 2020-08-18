@@ -833,7 +833,7 @@
 
 - [@git-the-gist](https://github.com/git-the-gist)
 
-- [Kurisutofu1990](https://github.com/Kurisutofu1990)
+- [@Kurisutofu1990](https://github.com/Kurisutofu1990)
 
 
 
