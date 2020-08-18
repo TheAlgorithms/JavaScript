@@ -12,7 +12,7 @@ We don't care if you break things. This is a playground and we encourage failing
 
    Check out [Andrei's videos on github](https://www.udemy.com/the-complete-web-developer-in-2018/learn/v4/t/lecture/8725782/) or this free how-to tutorial at http://makeapullrequest.com/.
 
-2. On the [GitHub page for this repository](zero-to-mastery/start-here-guidelines), click on the Button "Fork".
+2. On the [GitHub page for this repository](https://github.com/zero-to-mastery/start-here-guidelines), click on the Button "Fork".
 
    ![fork image](https://help.github.com/assets/images/help/repository/fork_button.jpg)
 
