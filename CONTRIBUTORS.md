@@ -1,5 +1,9 @@
 # CONTRIBUTORS
 
+- [@rasika30](https://github.com/rasika30)
+
+- [@isamov2012](https://github.com/isamov2012)
+
 - [@Shivansh-007](https://github.com/Shivansh-007)
 
 - [@Tony-Boules](https://github.com/Tboules)
@@ -813,4 +817,24 @@
 
 - [@VimarshThapa](https://github.com/VimarshThapa)
 
-- [@YashAhuja024](https://github.com/YashAhuja024))
+- [@Roxx88](https://github.com/Roxx88)
+
+- [@vyasriday](https://github.com/vyasriday)
+
+- [@YashAhuja024](https://github.com/YashAhuja024)
+
+- [@SimonF99](https://github.com/SimonF99)
+
+- [@CraigMehl](https://github.com/CraigMehl/)
+
+- [@erickpoblete](https://github.com/erickpoblete)
+
+- [@RaFaTEOLI](https://github.com/RaFaTEOLI)
+
+- [@oakus](https://github.com/oakus)
+
+- [@git-the-gist](https://github.com/git-the-gist)
+
+- [@dani1012](https://github.com/dani1012)
+
+- [@As-21](https://github.com/As-21)
