@@ -851,5 +851,8 @@
 
 - [@ekkemand](https://github.com/ekkemand)
 
-- [@shartechs](https://github.com/shartechs)
+- [@8thajor8](https://github.com/8thajor8)
 
+- [@MaxKlass98](https://github.com/MaxKlass98)
+
+- [@shartechs](https://github.com/shartechs)
