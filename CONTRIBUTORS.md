@@ -78,6 +78,8 @@
 
 - [@rushikesh](https://github.com/RushikeshBargaje)
 
+- [@SwethaVipparla](https://github.com/SwethaVipparla)
+
 - [@SKshbr](https://github.com/SKshbr)
 
 - [@vasuwebdeveloper](https://github.com/vasuwebdeveloper)
