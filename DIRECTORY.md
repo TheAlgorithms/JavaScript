@@ -43,6 +43,7 @@
 
 ## Dynamic-Programming
   * [KadaneAlgo](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/KadaneAlgo.js)
+  * [LevenshteinDistance](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/LevenshteinDistance.js)
   * [MaxNonAdjacentSum](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/MaxNonAdjacentSum.js)
   * [NumberOfSubsetEqualToGivenSum](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/NumberOfSubsetEqualToGivenSum.js)
   * [SieveOfEratosthenes](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/SieveOfEratosthenes.js)
