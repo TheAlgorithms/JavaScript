@@ -870,7 +870,7 @@
 - [@mayorbcode](https://github.com/mayorbcode)
 
 - [@ilhammrg](https://github.com/ilhammrg)
-  
+
 - [@vipul1298](https://github.com/vipul1298)
 
 - [@stanimal93](https://github.com/stanimal93)
@@ -900,3 +900,5 @@
 - [@ayeItsVinay](https://github.com/ayeItsVinay)
 
 - [@tylermoroz](https://github.com/tylermoroz)
+
+- [@pianista001](https://github.com/pianista001)
