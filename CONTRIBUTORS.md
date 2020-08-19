@@ -843,6 +843,8 @@
 
 - [@As-21](https://github.com/As-21)
 
+- [@jomefavourite](https://github.com/jomefavourite)
+
 - [@nguyengiahy](https://github.com/nguyengiahy)
 
 - [@Higrashi](https://github.com/Higrashi)
@@ -850,9 +852,29 @@
 - [@ChansooKim316](https://github.com/ChansooKim316)
 
 - [@ekkemand](https://github.com/ekkemand)
-  <<<<<<< HEAD
-  =======
-
-> > > > > > > d9fa23d9e4eb34f7412be976bcb0eb69d5a2838b
 
 - [@rhythm2207](https://github.com/rhythm2207)
+
+- [@8thajor8](https://github.com/8thajor8)
+
+- [@MaxKlass98](https://github.com/MaxKlass98)
+
+- [@vron7](https://github.com/vron7)
+
+- [@shartechs](https://github.com/shartechs)
+
+- [@chirag00757](https://github.com/chirag00757)
+
+- [@mayorbcode](https://github.com/mayorbcode)
+
+- [@ilhammrg](https://github.com/ilhammrg)
+  
+- [@vipul1298](https://github.com/vipul1298)
+
+- [@stanimal93](https://github.com/stanimal93)
+
+- [Bishesh58](https://github.com/Bishesh58)
+
+- [@kwalls13](https://github.com/kwalls13)
+
+- [@ShaniGavish](https://github.com/ShaniGavish)
