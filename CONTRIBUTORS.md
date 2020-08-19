@@ -78,6 +78,8 @@
 
 - [@rushikesh](https://github.com/RushikeshBargaje)
 
+- [@SwethaVipparla](https://github.com/SwethaVipparla)
+
 - [@SKshbr](https://github.com/SKshbr)
 
 - [@vasuwebdeveloper](https://github.com/vasuwebdeveloper)
@@ -853,6 +855,8 @@
 
 - [@ekkemand](https://github.com/ekkemand)
 
+- [@rhythm2207](https://github.com/rhythm2207)
+
 - [@8thajor8](https://github.com/8thajor8)
 
 - [@MaxKlass98](https://github.com/MaxKlass98)
@@ -878,3 +882,19 @@
 - [@ShaniGavish](https://github.com/ShaniGavish)
 
 - [@ngomezb92](https://github.com/ngomezb92)
+
+- [@monica77hep](https://github.com/monica77hep)
+
+- [@k1a99](https://github.com/k1a99)
+
+- [@iopedare](https://github.com/iopedare)
+
+- [@munibawq](https://https://github.com/MunibaWq)
+
+- [@Hyang0219](https://https://github.com/Hyang0219/)
+
+- [@munibawq](https://github.com/MunibaWq)
+
+- [@Catanelu](https://github.com/Catanelu)
+
+- [@ayeItsVinay](https://github.com/ayeItsVinay)
