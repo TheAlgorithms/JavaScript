@@ -902,3 +902,5 @@
 - [@tylermoroz](https://github.com/tylermoroz)
 
 - [@pianista001](https://github.com/pianista001)
+
+- [@mrsindelic](https://github.com/mrsindelic)
