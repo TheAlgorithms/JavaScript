@@ -881,8 +881,16 @@
 
 - [@ShaniGavish](https://github.com/ShaniGavish)
 
+- [@k1a99](https://github.com/k1a99)
+
 - [@iopedare](https://github.com/iopedare)
 
 - [@munibawq](https://https://github.com/MunibaWq)
 
 - [@Hyang0219](https://https://github.com/Hyang0219/)
+
+- [@munibawq](https://github.com/MunibaWq)
+
+- [@Catanelu](https://github.com/Catanelu)
+
+- [@ayeItsVinay](https://github.com/ayeItsVinay)
