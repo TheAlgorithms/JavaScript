@@ -39,6 +39,7 @@
     * [QueueUsing2Stacks](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Queue/QueueUsing2Stacks.js)
   * Stack
     * [Stack](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Stack/Stack.js)
+    * [StackES6](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Stack/StackES6.js)
   * Tree
     * [BinarySearchTree](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Tree/BinarySearchTree.js)
 
