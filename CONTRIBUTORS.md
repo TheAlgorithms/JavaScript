@@ -933,6 +933,12 @@
 
 - [@p-nikola](https://github.com/p-nikola)
 
+-[@rohitsheoran10](https://github.com/rohitsheoran10)
+
+-[@GoGi2712](https://github.com/GoGi2712)
+
+-[@Xzaviard](https://github.com/Xzaviard)
+
 - [@Xzaviard](https://github.com/Xzaviard)
 
 - [@KyawKyawThar](https://github.com/KyawKyawThar)
