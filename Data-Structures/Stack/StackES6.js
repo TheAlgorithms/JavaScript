@@ -27,7 +27,7 @@ class Stack {
       this.top -= 1
       return this.stack.pop()
     }
-    throw "Stack Underflow"
+    throw new Error('Stack Underflow')
   }
 
   // Returns the number of elements in the Stack
