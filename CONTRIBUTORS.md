@@ -78,6 +78,8 @@
 
 - [@rushikesh](https://github.com/RushikeshBargaje)
 
+- [@SwethaVipparla](https://github.com/SwethaVipparla)
+
 - [@SKshbr](https://github.com/SKshbr)
 
 - [@vasuwebdeveloper](https://github.com/vasuwebdeveloper)
@@ -868,7 +870,7 @@
 - [@mayorbcode](https://github.com/mayorbcode)
 
 - [@ilhammrg](https://github.com/ilhammrg)
-  
+
 - [@vipul1298](https://github.com/vipul1298)
 
 - [@stanimal93](https://github.com/stanimal93)
@@ -879,4 +881,33 @@
 
 - [@ShaniGavish](https://github.com/ShaniGavish)
 
-- [GouriRajesh](https://github.com/GouriRajesh)
+- [@ngomezb92](https://github.com/ngomezb92)
+
+- [@monica77hep](https://github.com/monica77hep)
+
+- [@k1a99](https://github.com/k1a99)
+
+- [@iopedare](https://github.com/iopedare)
+
+- [@munibawq](https://github.com/MunibaWq)
+
+- [@Charles-Ameyaw](https://github.com/Charles-Ameyaw)
+
+- [@Hyang0219](https://https://github.com/Hyang0219/)
+
+- [@munibawq](https://github.com/MunibaWq)
+
+- [@Catanelu](https://github.com/Catanelu)
+
+- [@ayeItsVinay](https://github.com/ayeItsVinay)
+
+- [@tylermoroz](https://github.com/tylermoroz)
+
+- [@pianista001](https://github.com/pianista001)
+
+- [@mrsindelic](https://github.com/mrsindelic)
+
+- [@lzhao819](https://github.com/lzhao819)
+
+- [@Ramon742](https://github.com/Ramon742)
+
