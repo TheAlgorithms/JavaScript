@@ -15,6 +15,7 @@
   * [XORCipher](https://github.com/TheAlgorithms/Javascript/blob/master/Ciphers/XORCipher.js)
 
 ## Conversions
+  * [BinaryToDecimal](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/BinaryToDecimal.js)
   * [DecimalToBinary](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/DecimalToBinary.js)
   * [DecimalToHex](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/DecimalToHex.js)
   * [DecimalToOctal](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/DecimalToOctal.js)
