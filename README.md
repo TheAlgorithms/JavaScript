@@ -30,9 +30,8 @@ We don't care if you break things. This is a playground and we encourage failing
 
     Learn more about [forking](https://help.github.com/en/github/getting-started-with-github/fork-a-repo) and [cloning a repo](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository).
 
-4. On your computer, open your text editor, and add your name to the `CONTRIBUTORS.md` file.
 
-5. Before you push your changes, [keep your fork in sync](https://help.github.com/en/github/getting-started-with-github/fork-a-repo#keep-your-fork-synced) to avoid merge conflicts:
+4. Before you make any changes, [keep your fork in sync](https://www.freecodecamp.org/news/how-to-sync-your-fork-with-the-original-git-repository/) to avoid merge conflicts:
 
     ```bash
     git remote add upstream https://github.com/zero-to-mastery/start-here-guidelines.git
@@ -41,6 +40,8 @@ We don't care if you break things. This is a playground and we encourage failing
     
     If you run into a **merge conflict**, you have to resolve that. There are a lot of guides online, or you can try this one by [opensource.com](https://opensource.com/article/20/4/git-merge-conflict).
     
+5. On your computer, open your text editor, and add your name to the `CONTRIBUTORS.md` file.
+
 6. Push your changes _to your repository_:
 
     ```bash
