@@ -888,7 +888,7 @@
 
 - [@uktom](https://github.com/uktom/)
 
-- [@Vancios86](htpps://github.com/Vancios86/)
+- [@Vancios86](https://github.com/Vancios86/)
 
 - [@sarthaksaklecha](https://github.com/sarthaksaklecha)
 
