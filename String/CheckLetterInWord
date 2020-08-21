@@ -1,0 +1,40 @@
+//checkLetter is use to check the number of letter in a word
+//there are two input needed which is the word for checking and the number of letter want to check
+const checkLetter = (str,letter) => {
+
+    var n = 0;
+    //check the input are string
+    if (typeof str !== 'string' || typeof letter !== 'string') {
+    return 'Not string(s)'
+    }
+    //check the word input is not null
+    if (str.length==0){
+        return "please Enter a word";
+    }
+    //check the letter input is not null
+    if(letter.length==0){
+        return "please Enter a letter";
+    }
+    //check the letter input is not more than one letter
+    if(letter.length>1){
+        return "the only one letter can choose for checking";
+    }
+    
+    if(str.length!=0||letter.length==1){
+        //store the number of letter when the word in string is same
+        for(var i=0;i<str.length;i++){
+        if(str.charAt(i)==letter){
+            n+=1;
+        }
+    }
+    return n;
+    }
+    
+}
+
+//testing
+console.log(checkLetter('failed','d'))
+console.log(checkLetter('successful','s'))
+console.log(checkLetter('successful','ss'))
+console.log(checkLetter('successful',''))
+console.log(checkLetter('','s'))
