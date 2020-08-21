@@ -933,11 +933,9 @@
 
 - [@p-nikola](https://github.com/p-nikola)
 
--[@rohitsheoran10](https://github.com/rohitsheoran10)
+- [@rohitsheoran10](https://github.com/rohitsheoran10)
 
--[@GoGi2712](https://github.com/GoGi2712)
-
--[@Xzaviard](https://github.com/Xzaviard)
+- [@GoGi2712](https://github.com/GoGi2712)
 
 - [@Xzaviard](https://github.com/Xzaviard)
 
@@ -945,6 +943,8 @@
 
 - [@charlytron](https://github.com/charlytron)
 
--[@rajeshwar33](https://github.com/rajeshwar33)
+- [@rajeshwar33](https://github.com/rajeshwar33)
 
--[@wolyslager](https://github.com/wolyslager)
+- [@wolyslager](https://github.com/wolyslager)
+
+- [@ridhosirunsurinta](https://github.com/ridhosirunsurinta)
