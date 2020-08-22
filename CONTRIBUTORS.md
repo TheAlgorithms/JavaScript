@@ -666,6 +666,8 @@
 
 - [@pixxstudios](https://github.com/pixxstudios)
 
+- [@PleaBanshee](https://github.com/PleaBanshee)
+
 - [@puneethramchandra](https://github.com/puneethramchandra/)
 
 - [@pystupp](https://github.com/pystupp/)
