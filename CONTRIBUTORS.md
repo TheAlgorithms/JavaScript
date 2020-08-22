@@ -907,3 +907,5 @@
 - [@anishshettyk](https://github.com/Anishshettyk/)
 
 - [@DivYuS](https://github.com/DivYuS)
+
+- [@dukatux](https://github.com/dukatux)
