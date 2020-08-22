@@ -913,3 +913,5 @@
 - [@jatin0814](https://github.com/jatin0814)
 
 -[@Lonewolfiz](https://github.com/Lonewolfiz/)
+
+-[@DelooreConsulting](https://github.com/DelooreConsulting)
