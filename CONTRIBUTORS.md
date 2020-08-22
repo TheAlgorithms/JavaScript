@@ -894,14 +894,14 @@
 
 - [@zizu1681](https://github.com/zizu1681/)
 
--[@stefangiba](https://github.com/stefangiba/)
+- [@stefangiba](https://github.com/stefangiba/)
 
--[@theenthusiastprogrammer](https://github.com/theenthusiastprogrammer/)
+- [@theenthusiastprogrammer](https://github.com/theenthusiastprogrammer/)
 
--[@Arya184](https://github.com/Arya184)
+- [@Arya184](https://github.com/Arya184)
 
--[@skkthenotorious](https://github.com/skkthenotorious)
+- [@skkthenotorious](https://github.com/skkthenotorious)
 
--[@anishshettyk](https://github.com/Anishshettyk/)
+- [@anishshettyk](https://github.com/Anishshettyk/)
 
--[@DivYuS](https://github.com/DivYuS)
+- [@DivYuS](https://github.com/DivYuS)
