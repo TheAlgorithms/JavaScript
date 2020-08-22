@@ -914,12 +914,12 @@
 
 - [@jatin0814](https://github.com/jatin0814)
 
--[@Lonewolfiz](https://github.com/Lonewolfiz/)
+- [@Lonewolfiz](https://github.com/Lonewolfiz/)
 
--[@DelooreConsulting](https://github.com/DelooreConsulting)
+- [@DelooreConsulting](https://github.com/DelooreConsulting)
 
 - [@RowenahWambui](https://github.com/RowenahWambui)
 
--[@paulzay](https://github.com/paulzay/)
+- [@paulzay](https://github.com/paulzay/)
 
--[@mouraogabriel](https://github.com/mouraogabriel/)
+- [@mouraogabriel](https://github.com/mouraogabriel/)
