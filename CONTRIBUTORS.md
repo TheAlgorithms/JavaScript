@@ -930,7 +930,7 @@
 
 - [@Alexandrusandy](https://github.com/Alexandrusandy/)
 
--[@ruhimorajkar](https://github.com/ruhimorajkar/)
+- [@ruhimorajkar](https://github.com/ruhimorajkar/)
 
 - [@Mayank0255](https://github.com/Mayank0255/)
 
