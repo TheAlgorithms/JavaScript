@@ -942,6 +942,8 @@
 
 - [@kaushalmarakana](https://github.com/kaushalmarakana/)
 
+- [@Vasile-Hij](https://github.com/Vasile-Hij/)
+
 - [@esejosue1](https://github.com/esejosue1/)
 
 - [@divyanshu0512](https://github.com/divyanshu0512/)
