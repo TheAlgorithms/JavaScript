@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A repository for All algorithms implemented in Javascript (for educational purposes only)",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "standard"
   },
   "author": "TheAlgorithms",
   "license": "GPL-3.0",
@@ -12,7 +12,13 @@
     "node-fetch": "2.6.0"
   },
   "devDependencies": {
-    "standard": "^14.3.4",
-    "doctest": "^0.17.1"
+    "doctest": "^0.17.1",
+    "husky": "^4.2.5",
+    "standard": "^14.3.4"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm run test"
+    }
   }
 }
