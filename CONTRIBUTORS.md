@@ -966,6 +966,6 @@
 
 - [@Asif-ops](https://github.com/Asif-ops)
 - [@ThisIsKeb](https://github.com/ThisIsKeb)
-- [@xnmoe94] (https://github.com/xnmoe94)
+- [@xnmoe94](https://github.com/xnmoe94)
 
 - [@Dawit-Getachew](https://github.com/Dawit-Getachew)
