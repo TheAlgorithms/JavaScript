@@ -984,6 +984,8 @@
 
 - [@Baz031](https://github.com/Baz031)
 
+- [@LidorC105](https://github.com/LidorC105)
+
 - [@g4m3rm1k3](https://github.com/g4m3rm1k3)
 
 - [@hadeebataj](http://github.com/hadeebataj)
@@ -1004,7 +1006,7 @@
 
 -[@imranmidday](https://github.com/imranmidday/)
 
-
 - [@Dawit-Getachew](https://github.com/Dawit-Getachew)
- - [@tektra](https://github.com/tektra/)
+
+- [@tektra](https://github.com/tektra/)
 
