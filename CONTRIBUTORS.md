@@ -911,21 +911,22 @@
 
 - [@Ramon742](https://github.com/Ramon742)
 
-* [@GouriRajesh](https://github.com/GouriRajesh)
+- [@GouriRajesh](https://github.com/GouriRajesh)
 
-- [@jkim0110](https://github.com/jkim0110)\
--[@kiruthika-creator](https://github.com/kiruthika-creator)
+- [@jkim0110](https://github.com/jkim0110)
+
+- [@kiruthika-creator](https://github.com/kiruthika-creator)
 
 - [@Daisyliu6](https://github.com/Daisyliu6)
 
 - [@shubhbhalla](https://github.com/shubhbhalla/)
 
--[@Yousefdoleh](https://github.com/Yousefdoleh)
+- [@Yousefdoleh](https://github.com/Yousefdoleh)
 
--[@alvinjoy93](https://github.com/alvinjoy93)
+- [@alvinjoy93](https://github.com/alvinjoy93)
 
--[@KhaledKhalil](https://github.com/kh-khalil)
+- [@KhaledKhalil](https://github.com/kh-khalil)
 
--[@rohitsheoran10](https://github.com/rohitsheoran10)
+- [@rohitsheoran10](https://github.com/rohitsheoran10)
 
--[@GoGi2712](https://github.com/GoGi2712)
+- [@GoGi2712](https://github.com/GoGi2712)
