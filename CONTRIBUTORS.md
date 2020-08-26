@@ -1030,6 +1030,8 @@
 
 - [@shotpoet86](https://github.com/shotpoet86/)
 
+- [@AmanDeep9925](https://github.com/AmanDeep9925)
+
 - [@KazikKluz](https://github.com/KazikKluz)
 
 - [@xu3cjo4vup](https://github.com/xu3cjo4vup/)
