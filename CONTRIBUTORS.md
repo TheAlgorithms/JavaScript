@@ -532,6 +532,8 @@
 
 - [@git-the-gist](https://github.com/git-the-gist)
 
+- [@sak3004](https://github.com/sak3004)
+
 - [@gmpgiri](https://github.com/gmpgiri/)
 
 - [@gpinto8](https://github.com/gpinto8)
@@ -992,9 +994,15 @@
 
 - [@Weirdricc](http://github.com/Weirdricc)
 
+- [@GouriRajesh](https://github.com/GouriRajesh)
+
+- [@jkim0110](https://github.com/jkim0110)
+
+- [@kiruthika-creator](https://github.com/kiruthika-creator)
+
 - [@Mythireyan](http://github.com/Mythireyan)
 
-- [@Jspek007](https://github.com/Jspek007) 
+- [@Jspek007](https://github.com/Jspek007)
 
 - [@MarcelvdWest](https://github.com/MarcelvdWest)
 
@@ -1002,21 +1010,60 @@
 
 - [@imranmidday](https://github.com/imranmidday/)
 
--[@diaandrei](https://github.com/diaandrei)
+- [@Yousefdoleh](https://github.com/Yousefdoleh)
 
--[@imranmidday](https://github.com/imranmidday/)
+- [@alvinjoy93](https://github.com/alvinjoy93)
+
+- [@KhaledKhalil](https://github.com/kh-khalil)
+
+- [@rohitsheoran10](https://github.com/rohitsheoran10)
+
+- [@GoGi2712](https://github.com/GoGi2712)
+
+- [@diaandrei](https://github.com/diaandrei)
+
+- [@imranmidday](https://github.com/imranmidday/)
 
 - [@Dawit-Getachew](https://github.com/Dawit-Getachew)
 
 - [@tektra](https://github.com/tektra/)
 
 - [@shotpoet86](https://github.com/shotpoet86/)
+
+- [@AmanDeep9925](https://github.com/AmanDeep9925)
+
+- [@KazikKluz](https://github.com/KazikKluz)
+
 - [@xu3cjo4vup](https://github.com/xu3cjo4vup/)
 
-- [@tylam121] (https://github.com/tylam121)
+- [@seycileli](https://github.com/seycileli/)
+
+- [@SeanCon4](https://github.com/SeanCon4/)
+
+- [@xu3cjo4vup](https://github.com/xu3cjo4vup/)
+
+- [@ktplkr-nihon](https://github.com/ktplkr-nihon/)
+
+-[@Bipin-Kalakheti](https://github.com/Bipin-Kalakheti/)
+
+- [@cmxgloria](https://github.com/cmxgloria/)
+
+- [@tylam121](https://github.com/tylam121)
 
 - [@mrtrpak](https://github.com/mrtrpak)
 
 - [@raj5036](https://github.com/raj5036/)
+
+- [@acaalim](https://github.com/acaalim)
+
+- [@surbhimahajan93](https://github.com/surbhimahajan93)
+
+- [@JasonHuang1213](https://github.com/JasonHuang1213)
+
+- [@nicholaslywong](https://github.com/nicholaslywong)
+
+- [@Khallekan](https://github.com/Khallekan)
+
+- [@mrizkifadhilah](https://github.com/mrizkifadhilah)
 
 - [@asouthard1012](https://github.com/asouthard1012)
