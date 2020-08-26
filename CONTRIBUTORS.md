@@ -532,6 +532,8 @@
 
 - [@git-the-gist](https://github.com/git-the-gist)
 
+- [@sak3004](https://github.com/sak3004)
+
 - [@gmpgiri](https://github.com/gmpgiri/)
 
 - [@gpinto8](https://github.com/gpinto8)
