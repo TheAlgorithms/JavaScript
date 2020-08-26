@@ -532,6 +532,8 @@
 
 - [@git-the-gist](https://github.com/git-the-gist)
 
+- [@sak3004](https://github.com/sak3004)
+
 - [@gmpgiri](https://github.com/gmpgiri/)
 
 - [@gpinto8](https://github.com/gpinto8)
@@ -994,7 +996,7 @@
 
 - [@Mythireyan](http://github.com/Mythireyan)
 
-- [@Jspek007](https://github.com/Jspek007) 
+- [@Jspek007](https://github.com/Jspek007)
 
 - [@MarcelvdWest](https://github.com/MarcelvdWest)
 
@@ -1015,3 +1017,23 @@
 - [@xu3cjo4vup](https://github.com/xu3cjo4vup/)
 
 -[@Bipin-Kalakheti](https://github.com/Bipin-Kalakheti/)
+
+- [@cmxgloria](https://github.com/cmxgloria/)
+
+- [@tylam121](https://github.com/tylam121)
+
+- [@mrtrpak](https://github.com/mrtrpak)
+
+- [@raj5036](https://github.com/raj5036/)
+
+- [@acaalim](https://github.com/acaalim)
+
+- [@surbhimahajan93](https://github.com/surbhimahajan93)
+
+- [@JasonHuang1213](https://github.com/JasonHuang1213)
+
+- [@nicholaslywong](https://github.com/nicholaslywong)
+
+- [@Khallekan](https://github.com/Khallekan)
+
+- [@mrizkifadhilah](https://github.com/mrizkifadhilah)
