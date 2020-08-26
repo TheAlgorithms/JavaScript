@@ -994,7 +994,7 @@
 
 - [@Mythireyan](http://github.com/Mythireyan)
 
-- [@Jspek007](https://github.com/Jspek007) 
+- [@Jspek007](https://github.com/Jspek007)
 
 - [@MarcelvdWest](https://github.com/MarcelvdWest)
 
@@ -1012,3 +1012,4 @@
 
 - [@shotpoet86](https://github.com/shotpoet86/)
 - [@xu3cjo4vup](https://github.com/xu3cjo4vup/)
+- [@cmxgloria](https://github.com/cmxgloria/)
