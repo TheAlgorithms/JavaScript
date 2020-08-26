@@ -994,6 +994,12 @@
 
 - [@Weirdricc](http://github.com/Weirdricc)
 
+- [@GouriRajesh](https://github.com/GouriRajesh)
+
+- [@jkim0110](https://github.com/jkim0110)
+
+- [@kiruthika-creator](https://github.com/kiruthika-creator)
+
 - [@Mythireyan](http://github.com/Mythireyan)
 
 - [@Jspek007](https://github.com/Jspek007)
@@ -1004,9 +1010,19 @@
 
 - [@imranmidday](https://github.com/imranmidday/)
 
--[@diaandrei](https://github.com/diaandrei)
+- [@Yousefdoleh](https://github.com/Yousefdoleh)
 
--[@imranmidday](https://github.com/imranmidday/)
+- [@alvinjoy93](https://github.com/alvinjoy93)
+
+- [@KhaledKhalil](https://github.com/kh-khalil)
+
+- [@rohitsheoran10](https://github.com/rohitsheoran10)
+
+- [@GoGi2712](https://github.com/GoGi2712)
+
+- [@diaandrei](https://github.com/diaandrei)
+
+- [@imranmidday](https://github.com/imranmidday/)
 
 - [@Dawit-Getachew](https://github.com/Dawit-Getachew)
 
