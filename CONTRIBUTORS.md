@@ -1032,6 +1032,8 @@
 
 - [@xu3cjo4vup](https://github.com/xu3cjo4vup/)
 
+- [@ktplkr-nihon](https://github.com/ktplkr-nihon/)
+
 -[@Bipin-Kalakheti](https://github.com/Bipin-Kalakheti/)
 
 - [@cmxgloria](https://github.com/cmxgloria/)
