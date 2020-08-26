@@ -1002,9 +1002,9 @@
 
 - [@imranmidday](https://github.com/imranmidday/)
 
--[@diaandrei](https://github.com/diaandrei)
+- [@diaandrei](https://github.com/diaandrei)
 
--[@imranmidday](https://github.com/imranmidday/)
+- [@imranmidday](https://github.com/imranmidday/)
 
 - [@Dawit-Getachew](https://github.com/Dawit-Getachew)
 
