@@ -1013,14 +1013,17 @@
 - [@tektra](https://github.com/tektra/)
 
 - [@shotpoet86](https://github.com/shotpoet86/)
+
 - [@xu3cjo4vup](https://github.com/xu3cjo4vup/)
 
-- [@tylam121] (https://github.com/tylam121)
+- [@tylam121](https://github.com/tylam121)
 
 - [@mrtrpak](https://github.com/mrtrpak)
 
 - [@raj5036](https://github.com/raj5036/)
 
 - [@JasonHuang1213](https://github.com/JasonHuang1213)
+
+- [@nicholaslywong](https://github.com/nicholaslywong)
 
 - [@Khallekan](https://github.com/Khallekan)
