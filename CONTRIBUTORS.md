@@ -1067,7 +1067,6 @@
 - [@mrizkifadhilah](https://github.com/mrizkifadhilah)
 
 - [@asouthard1012](https://github.com/asouthard1012)
-
 - [@azdfer](https://github.com/azdfer)
-
 - [@swadhinbubaipaul](https://github.com/swadhinbubaipaul)
+- [@Thiernoad](https://github.com/Thiernoad)
