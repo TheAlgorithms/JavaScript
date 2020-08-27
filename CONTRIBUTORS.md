@@ -1070,6 +1070,12 @@
 
 - [@mrizkifadhilah](https://github.com/mrizkifadhilah)
 
+- [@dani1012](https://github.com/dani1012)
+
+- [@asouthard1012](https://github.com/asouthard1012)
+
+- [@danieletchie](https://github.com/danieletchie)
+
 - [@asouthard1012](https://github.com/asouthard1012)
 
 - [@azdfer](https://github.com/azdfer)
