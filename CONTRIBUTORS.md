@@ -1113,3 +1113,5 @@
 - [@AnavKatwal](https://github.com/AnavKatwal)
 
 -[@Falafel95](https://github.com/Falafel95)
+
+- [@ferrusamalgam](https://github.com/ferrusamalgam)
