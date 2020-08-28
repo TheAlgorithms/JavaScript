@@ -1117,3 +1117,5 @@
 - [@ferrusamalgam](https://github.com/ferrusamalgam)
 
 -[@reggiecodepro](https://github.com/ReggieCodepro)
+
+- [@ManishShah120](https://github.com/ManishShah120)
