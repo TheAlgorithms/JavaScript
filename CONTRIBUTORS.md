@@ -1132,4 +1132,8 @@
 
 -[@rodoliva](https://github.com/rodoliva)
 
+<<<<<<< HEAD
 -[@Bealln](https://github.com/Bealln)
+=======
+- [@dip4k](https://github.com/rodoliva)
+>>>>>>> b8448dd39623f4b92d6a171639d7ff0ea759bbe3
