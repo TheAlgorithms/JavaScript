@@ -1140,4 +1140,8 @@
 
 - [@abhay27chauhan](https://github.com/abhay27chauhan)
 
+- [@Zenpanic](https://github.com/Zenpanic)
+
+- [@g25282825](https://github.com/g25282825)
+
 - [@felipejoribeiro](https://github.com/felipejoribeiro)
