@@ -1127,3 +1127,5 @@
 -[@GiAna-A](https://github.com/GiAna-A)
 
 -[@Bidonsaha](https://github.com/Bidonsaha)
+
+-[@Sequeirab](https://github.com/sequeirab)
