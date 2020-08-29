@@ -1128,7 +1128,7 @@
 
 -[@Bidonsaha](https://github.com/Bidonsaha)
 
--[@kishansinha181](https://github.com/kishansinha181) 
+-[@kishansinha181](https://github.com/kishansinha181)
 
 - [@Bidonsaha](https://github.com/Bidonsaha)
 
@@ -1155,3 +1155,5 @@
 - [@Ahmadlohani](https://github.com/Ahmadlohani)
 
 - [@giorgossideris](https://github.com/giorgossideris)
+
+- [@nkratzmeyer](https://github.com/nkratzmeyer)
