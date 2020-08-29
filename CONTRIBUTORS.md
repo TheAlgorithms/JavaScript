@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@mantzinos](https://github.com/mantzinos)
+
 - [@0xaj](https://github.com/0xaj)
 
 - [@17Piyush](https://github.com/17Piyush/)
