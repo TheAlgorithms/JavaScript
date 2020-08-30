@@ -1305,3 +1305,5 @@
 -[@Cre5cend0](https://github.com/Cre5cend0)
 
 -[@jmbarrameda](https://github.com/jmbarrameda)
+
+- [@pjuan4603](https://github.com/@pjuan4603)
