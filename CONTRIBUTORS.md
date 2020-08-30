@@ -1314,4 +1314,4 @@
 
 -[@lambochan](https://github.com/lambochan)
 
-- [@m-rayy] (https://github.com/m-rayy)
+-[@m-rayy] (https://github.com/m-rayy)
