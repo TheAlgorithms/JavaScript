@@ -772,6 +772,8 @@
 
 - [@maurotrevino](https://github.com/maurotrevino/)
 
+- [@mayank-khurmai](https://github.com/mayank-khurmai)
+
 - [@mayorbcode](https://github.com/mayorbcode)
 
 - [@mgourab](https://github.com/mgourab)
