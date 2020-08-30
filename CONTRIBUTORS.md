@@ -1314,6 +1314,12 @@
 
 - [@lambochan](https://github.com/lambochan)
 
+-[@mohiteshruti](https://github.com/mohiteshruti)
+
 - [@m-rayy](https://github.com/m-rayy)
 
 - [@JonasJosef123] (https://github.com/JonasJosef123)
+
+- [@Kavtorev](https://github.com/Kavtorev)
+
+- [@Poboz](https://github.com/Poboz)
