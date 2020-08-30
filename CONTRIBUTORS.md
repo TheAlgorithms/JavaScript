@@ -1302,6 +1302,8 @@
 
 - [@nkratzmeyer](https://github.com/nkratzmeyer)
 
+- [@S-Yousuf](https://github.com/S-Yousuf)
+
 - [@swapnasubhamdas](https://github.com/swapnasubhamdas)
 
 - [@Cre5cend0](https://github.com/Cre5cend0)
@@ -1318,8 +1320,20 @@
 
 - [@m-rayy](https://github.com/m-rayy)
 
-- [@JonasJosef123] (https://github.com/JonasJosef123)
+- [@JonasJosef123](https://github.com/JonasJosef123)
+
+-[@akmal-17](https://github.com/akmal-17)
+
+-[@soheilk1](https://github.com/soheilk1)
+
+-[@JonasJosef123](https://github.com/JonasJosef123)
 
 - [@Kavtorev](https://github.com/Kavtorev)
 
 - [@Poboz](https://github.com/Poboz)
+
+-[@SuichiNagi](https://github.com/SuichiNagi)
+
+-[@Poboz](https://github.com/Poboz)
+
+-[@mburgo503](https://github.com/mburgo503)
