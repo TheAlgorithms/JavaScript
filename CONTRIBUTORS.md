@@ -1341,3 +1341,18 @@
 - [@mburgo503](https://github.com/mburgo503)
 
 -[@mr-anye](https://github.com/mr-anye)
+
+- [@Agusabb](https://github.com/Agusabb)
+
+- [@Bednak](https://github.com/Bednak)
+
+- [@Pado0327](https://github.com/Pado0327)
+
+- [@mohitbhambri](https://github.com/mohitbhambri)
+
+- [@Davidigbokwe](https://github.com/Davidigbokwe)
+
+- [@roi007leaf](https://github.com/roi007leaf/)
+
+- [@abhical](https://github.com/abhical/)
+
