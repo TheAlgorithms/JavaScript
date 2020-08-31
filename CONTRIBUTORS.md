@@ -1362,6 +1362,8 @@
 
 - [@dhruvmmittal](https://github.com/dhruvmmittal/)
 
+- [@ergonar](https://github.com/ergonar/)
+
 - [@adillightwala](https://github.com/adillightwala)
 
 - [@Thrilliam98](https://github.com/Thrilliam98/)
