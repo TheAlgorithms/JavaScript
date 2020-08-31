@@ -85,7 +85,7 @@ A typical open source project has the following types of people:
 
 **Maintainers**: Contributors who are responsible for driving the vision and managing the organizational aspects of the project (may also be authors or owners of the project).
 
-**Contributors**: Everyone who has contributed something back to the project.
+**Contributors**: Everyone  has contributed something back to the project.
 
 **Community Members**: People who use the project. They might be active in conversations or express their opinion on the project’s direction.
 
