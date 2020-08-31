@@ -1370,3 +1370,5 @@
 - [@SarveshKadam](https://github.com/SarveshKadam/)
 
 - [@nachiketjoshi19](https://github.com/nachiketjoshi19)
+
+- [@Samad48](https://github.com/Samad48)
