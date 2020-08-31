@@ -1,6 +1,7 @@
 # CONTRIBUTORS
-  [@javokhirbek](https://github.com/leader2one)
-  
+
+[@javokhirbek](https://github.com/leader2one)
+
 - [@mantzinos](https://github.com/mantzinos)
 
 - [@0xaj](https://github.com/0xaj)
@@ -1362,3 +1363,17 @@
 - [@dhruvmmittal](https://github.com/dhruvmmittal/)
 
 - [@adillightwala](https://github.com/adillightwala)
+
+- [@Thrilliam98](https://github.com/Thrilliam98/)
+
+-[@RealRafiki](https://github.com/RealRafiki/)
+
+- [@LiorZana](https://github.com/LiorZana)
+
+- [@indremak](https://github.com/indremak/)
+
+-[@rg85rajat](https://github.com/rg85rajat)
+
+- [@SarveshKadam](https://github.com/SarveshKadam/)
+
+- [@nachiketjoshi19](https://github.com/nachiketjoshi19)
