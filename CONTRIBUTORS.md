@@ -1387,6 +1387,10 @@
 
 - [@nachiketjoshi19](https://github.com/nachiketjoshi19)
 
+- [@rajshekhar26](https://github.com/rajshekhar26)
+
+- [@juangalbea](https://github.com/juangalbea)
+
 - [@NPersivale](https://github.com/NPersivale)
 
 - [@GrantRudow](https://github.com/grantrudow)
