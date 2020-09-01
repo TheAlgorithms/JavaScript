@@ -1,4 +1,5 @@
 # CONTRIBUTORS
+- [@unclebay143](https://github.com/unclebay143)
 
 - [@0xaj](https://github.com/0xaj)
 
