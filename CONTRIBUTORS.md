@@ -1318,17 +1318,17 @@
 
 - [@lambochan](https://github.com/lambochan)
 
--[@mohiteshruti](https://github.com/mohiteshruti)
+- [@mohiteshruti](https://github.com/mohiteshruti)
 
 - [@m-rayy](https://github.com/m-rayy)
 
 - [@JonasJosef123](https://github.com/JonasJosef123)
 
--[@akmal-17](https://github.com/akmal-17)
+- [@akmal-17](https://github.com/akmal-17)
 
--[@soheilk1](https://github.com/soheilk1)
+- [@soheilk1](https://github.com/soheilk1)
 
--[@JonasJosef123](https://github.com/JonasJosef123)
+- [@JonasJosef123](https://github.com/JonasJosef123)
 
 - [@Kavtorev](https://github.com/Kavtorev)
 
@@ -1336,9 +1336,9 @@
 
 - [@Poboz](https://github.com/Poboz)
 
--[@SuichiNagi](https://github.com/SuichiNagi)
+- [@SuichiNagi](https://github.com/SuichiNagi)
 
--[@Poboz](https://github.com/Poboz)
+- [@Poboz](https://github.com/Poboz)
 
 - [@Shush25](https://github.com/Shush25)
 
@@ -1400,13 +1400,13 @@
 
 - [@MehtaManan07](https://github.com/MehtaManan07)
 
--[@HardikJain40153](https://github.com/HardikJain40153)
+- [@HardikJain40153](https://github.com/HardikJain40153)
 
--[@ajager18](https://github.com/ajager18)
+- [@ajager18](https://github.com/ajager18)
 
 - [@Kykuy](https://github.com/Kykuy)
 
--[@Harshavarthan07](https://github.com/Harshavarthan07)
+- [@Harshavarthan07](https://github.com/Harshavarthan07)
 
 -[@ericfei306](https://github.com/ericfei306)
 
