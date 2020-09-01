@@ -1408,6 +1408,12 @@
 
 -[@Harshavarthan07](https://github.com/Harshavarthan07)
 
+-[@ericfei306](https://github.com/ericfei306)
+
+-[@bernicemarie](https://github.com/bernicemarie)
+
+-[@MartaGut](https://github.com/MartaGut)
+
 -[@bernicemarie](https://github.com/bernicemarie)
 
 -[@malloryjanecs](https://github.com/malloryjanecs)
