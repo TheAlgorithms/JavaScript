@@ -1,6 +1,7 @@
 # CONTRIBUTORS
-  [@javokhirbek](https://github.com/leader2one)
-  
+
+[@javokhirbek](https://github.com/leader2one)
+
 - [@mantzinos](https://github.com/mantzinos)
 
 - [@0xaj](https://github.com/0xaj)
@@ -1331,6 +1332,8 @@
 
 - [@Kavtorev](https://github.com/Kavtorev)
 
+- [@SurajSankarsingh](https://github.com/SurajSankarsingh)
+
 - [@Poboz](https://github.com/Poboz)
 
 -[@SuichiNagi](https://github.com/SuichiNagi)
@@ -1340,6 +1343,8 @@
 - [@Shush25](https://github.com/Shush25)
 
 - [@mburgo503](https://github.com/mburgo503)
+
+- [@mr-anye](https://github.com/mr-anye)
 
 - [@Agusabb](https://github.com/Agusabb)
 
@@ -1361,12 +1366,30 @@
 
 - [@dhruvmmittal](https://github.com/dhruvmmittal/)
 
+- [@ergonar](https://github.com/ergonar/)
+
+- [@adillightwala](https://github.com/adillightwala)
+
 - [@Thrilliam98](https://github.com/Thrilliam98/)
 
--[@RealRafiki](https://github.com/RealRafiki/)
+- [@RealRafiki](https://github.com/RealRafiki/)
 
 - [@LiorZana](https://github.com/LiorZana)
+
+- [@onkar2405](https://github.com/onkar2405)
+
+- [@indremak](https://github.com/indremak/)
+
+- [@rg85rajat](https://github.com/rg85rajat)
 
 - [@SarveshKadam](https://github.com/SarveshKadam/)
 
 - [@nachiketjoshi19](https://github.com/nachiketjoshi19)
+
+- [@NPersivale](https://github.com/NPersivale)
+
+- [@GrantRudow](https://github.com/grantrudow)
+
+- [@jjd040](https://github.com/jjd040/)
+
+- [@AbdurrahmanSogbesan](https://github.com/AbdurrahmanSogbesan)
