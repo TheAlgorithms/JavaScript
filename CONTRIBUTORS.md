@@ -1,7 +1,7 @@
 # CONTRIBUTORS
 - [@unclebay143](https://github.com/unclebay143)
 
-[@javokhirbek](https://github.com/leader2one)
+-[@javokhirbek](https://github.com/leader2one)
 
 - [@mantzinos](https://github.com/mantzinos)
 
