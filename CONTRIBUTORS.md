@@ -1387,6 +1387,8 @@
 
 - [@nachiketjoshi19](https://github.com/nachiketjoshi19)
 
+- [@Samad48](https://github.com/Samad48)
+
 - [@mary-jane77](https://github.com/mary-jane77/)
 
 - [@rajshekhar26](https://github.com/rajshekhar26)
