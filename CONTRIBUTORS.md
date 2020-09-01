@@ -1,5 +1,6 @@
 # CONTRIBUTORS
-
+  [@javokhirbek](https://github.com/leader2one)
+  
 - [@mantzinos](https://github.com/mantzinos)
 
 - [@0xaj](https://github.com/0xaj)
