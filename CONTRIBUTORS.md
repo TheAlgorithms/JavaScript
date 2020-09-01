@@ -26,6 +26,7 @@
 
 - [@AimanShakeel1008](https://github.com/AimanShakeel1008)
 
+
 - [@AjoyKAshok](https://github.com/AjoyKAshok)
 
 - [@Akashdeepgupta](https://github.com/Akashdeepgupta)
@@ -1318,27 +1319,27 @@
 
 - [@lambochan](https://github.com/lambochan)
 
--[@mohiteshruti](https://github.com/mohiteshruti)
+- [@mohiteshruti](https://github.com/mohiteshruti)
 
 - [@m-rayy](https://github.com/m-rayy)
 
 - [@JonasJosef123](https://github.com/JonasJosef123)
 
--[@akmal-17](https://github.com/akmal-17)
+- [@akmal-17](https://github.com/akmal-17)
 
--[@soheilk1](https://github.com/soheilk1)
+- [@soheilk1](https://github.com/soheilk1)
 
--[@JonasJosef123](https://github.com/JonasJosef123)
+- [@JonasJosef123](https://github.com/JonasJosef123)
 
 - [@Kavtorev](https://github.com/Kavtorev)
 
--[@SurajSankarsingh](https://github.com/SurajSankarsingh
+- [@SurajSankarsingh](https://github.com/SurajSankarsingh)
 
 - [@Poboz](https://github.com/Poboz)
 
--[@SuichiNagi](https://github.com/SuichiNagi)
+- [@SuichiNagi](https://github.com/SuichiNagi)
 
--[@Poboz](https://github.com/Poboz)
+- [@Poboz](https://github.com/Poboz)
 
 - [@Shush25](https://github.com/Shush25)
 
@@ -1387,3 +1388,49 @@
 - [@nachiketjoshi19](https://github.com/nachiketjoshi19)
 
 - [@Samad48](https://github.com/Samad48)
+
+- [@mary-jane77](https://github.com/mary-jane77/)
+
+- [@rajshekhar26](https://github.com/rajshekhar26)
+
+- [@juangalbea](https://github.com/juangalbea)
+
+- [@NPersivale](https://github.com/NPersivale)
+
+- [@GrantRudow](https://github.com/grantrudow)
+
+- [@KikoMK](https://github.com/KikoMK)
+
+- [@jjd040](https://github.com/jjd040/)
+
+- [@AbdurrahmanSogbesan](https://github.com/AbdurrahmanSogbesan)
+
+- [@dtai0225](https://github.com/dtai0225)
+
+- [@ludahz](https://github.com/ludahz)
+
+- [@MehtaManan07](https://github.com/MehtaManan07)
+
+- [@caron1211](https://github.com/caron1211)
+
+- [@HardikJain40153](https://github.com/HardikJain40153)
+
+- [@ajager18](https://github.com/ajager18)
+
+- [@Kykuy](https://github.com/Kykuy)
+
+- [@JohnNV](https://github.com/JohnNV)
+
+- [@Harshavarthan07](https://github.com/Harshavarthan07)
+
+-[@ericfei306](https://github.com/ericfei306)
+
+-[@bernicemarie](https://github.com/bernicemarie)
+
+-[@MartaGut](https://github.com/MartaGut)
+
+-[@bernicemarie](https://github.com/bernicemarie)
+
+-[@malloryjanecs](https://github.com/malloryjanecs)
+
+-[@hayatniazi](https://github.com/hayatniazi)
