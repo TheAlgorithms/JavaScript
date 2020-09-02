@@ -1437,6 +1437,18 @@
 
 - [@hayatniazi](https://github.com/hayatniazi)
 
+- [@Netjimmy](https://github.com/Netjimmy)
+
+- [@bernicemarie](https://github.com/bernicemarie)
+
+- [@MartaGut](https://github.com/MartaGut)
+
+- [@bernicemarie](https://github.com/bernicemarie)
+
+- [@malloryjanecs](https://github.com/malloryjanecs)
+
+- [@hayatniazi](https://github.com/hayatniazi)
+
 -[@Netjimmy](https://github.com/Netjimmy)
 
 -[@vinayden1](https://github.com/vinayden1/)
