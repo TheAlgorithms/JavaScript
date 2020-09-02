@@ -1360,3 +1360,5 @@
 - [@patelkhushi](https://github.com/patelkhushi/)
 
 - [@dhruvmmittal](https://github.com/dhruvmmittal/)
+
+- [Zamora-Cloud](https://github.com/Zamora-Cloud/)
