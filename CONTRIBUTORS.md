@@ -1,7 +1,7 @@
 # CONTRIBUTORS
 - [@unclebay143](https://github.com/unclebay143)
 
--[@javokhirbek](https://github.com/leader2one)
+- [@javokhirbek](https://github.com/leader2one)
 
 - [@mantzinos](https://github.com/mantzinos)
 
@@ -1424,19 +1424,22 @@
 
 - [@Harshavarthan07](https://github.com/Harshavarthan07)
 
--[@ericfei306](https://github.com/ericfei306)
+- [@ericfei306](https://github.com/ericfei306)
 
--[@bernicemarie](https://github.com/bernicemarie)
+- [@bernicemarie](https://github.com/bernicemarie)
 
--[@MartaGut](https://github.com/MartaGut)
+- [@MartaGut](https://github.com/MartaGut)
 
--[@bernicemarie](https://github.com/bernicemarie)
+- [@bernicemarie](https://github.com/bernicemarie)
 
--[@malloryjanecs](https://github.com/malloryjanecs)
+- [@malloryjanecs](https://github.com/malloryjanecs)
 
--[@hayatniazi](https://github.com/hayatniazi)
+- [@hayatniazi](https://github.com/hayatniazi)
 
--[@Netjimmy](https://github.com/Netjimmy)
--[@belalh2r](https://github.com/belalh2r)
+- [@Netjimmy](https://github.com/Netjimmy)
 
--[@bobbytito](https://github.com/bobbytito/)
+- [@belalh2r](https://github.com/belalh2r)
+
+- [@bobbytito](https://github.com/bobbytito/)
+
+- [@ebashirli](https://github.com/ebashirli/)
