@@ -1438,6 +1438,7 @@
 -[@hayatniazi](https://github.com/hayatniazi)
 
 -[@Netjimmy](https://github.com/Netjimmy)
+
 -[@belalh2r](https://github.com/belalh2r)
 
 -[@bobbytito](https://github.com/bobbytito/)
@@ -1445,3 +1446,11 @@
 -[@elcajo](https://github.com/elcajo/)
 
 -[@Lorex-ia](https://github.com/Lorex-ia/)
+
+-[@valenting111](https://github.com/valenting111)
+
+-[@LikithChandan](https://github.com/LikithChandan)
+
+-[@M-LNedelea](https://github.com/M-LNedelea)
+
+-[@Marshall88GB](https://github.com/Marshall88GB)
