@@ -1444,3 +1444,7 @@
 - [@bobbytito](https://github.com/bobbytito/)
 
 - [@ebashirli](https://github.com/ebashirli/)
+
+- [@elcajo](https://github.com/elcajo/)
+
+- [@valenting111](https://github.com/valenting111)
