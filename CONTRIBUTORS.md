@@ -1443,3 +1443,5 @@
 -[@bobbytito](https://github.com/bobbytito/)
 
 -[@elcajo](https://github.com/elcajo/)
+
+-[@Lorex-ia](https://github.com/Lorex-ia/)
