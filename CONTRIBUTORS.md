@@ -55,7 +55,7 @@
 - [@Arshcreation](https://github.com/Arshcreation)
 
 - [@Arya184](https://github.com/Arya184)
-- .[@wouRaj](https://github.com/Namrajp)
+- [@wouRaj](https://github.com/Namrajp)
 
 - [@As-21](https://github.com/As-21)
 
