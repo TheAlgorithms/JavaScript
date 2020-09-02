@@ -1438,11 +1438,14 @@
 -[@hayatniazi](https://github.com/hayatniazi)
 
 -[@Netjimmy](https://github.com/Netjimmy)
+
 -[@belalh2r](https://github.com/belalh2r)
 
 -[@bobbytito](https://github.com/bobbytito/)
 
 -[@elcajo](https://github.com/elcajo/)
+
+-[@Lorex-ia](https://github.com/Lorex-ia/)
 
 -[@valenting111](https://github.com/valenting111)
 
