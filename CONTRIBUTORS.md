@@ -1,4 +1,5 @@
 # CONTRIBUTORS
+
 - [@unclebay143](https://github.com/unclebay143)
 
 - [@javokhirbek](https://github.com/leader2one)
@@ -183,6 +184,8 @@
 - [@Khallekan](https://github.com/Khallekan)
 
 - [@KhudadadKhawari](https://github.com/KhudadadKhawari/)
+
+- [@killTheDB](https://github.com/killTheDB/)
 
 - [@Kropi-H](https://github.com/Kropi-H)
 
