@@ -1,4 +1,5 @@
 # CONTRIBUTORS
+
 - [@unclebay143](https://github.com/unclebay143)
 
 - [@javokhirbek](https://github.com/leader2one)
@@ -27,6 +28,7 @@
 
 - [@AimanShakeel1008](https://github.com/AimanShakeel1008)
 
+- [@Arsenic](https://github.com/Arsenic-ATG)
 
 - [@AjoyKAshok](https://github.com/AjoyKAshok)
 
@@ -182,6 +184,8 @@
 - [@Khallekan](https://github.com/Khallekan)
 
 - [@KhudadadKhawari](https://github.com/KhudadadKhawari/)
+
+- [@killTheDB](https://github.com/killTheDB/)
 
 - [@Kropi-H](https://github.com/Kropi-H)
 
@@ -30350,3 +30354,17 @@
 -[@Marshall88GB](https://github.com/Marshall88GB)
 
 -[@Jachin-Manda](https://github.com/Jachin-Manda)
+
+-[@blacksmoke26](https://github.com/blacksmoke26)
+
+-[@geliniusK](https://github.com/geliniusK/)
+
+-[@hafsahussein](https://github.com/hafsahussein/)
+
+-[@Mabast1](https://github.com/Mabast1)
+
+
+-[@atchayaa3105](https://github.com/atchayaa3105/)
+
+-[@thddudgns79](https://github.com/thddudgns79/)
+>>>>>>> f23659850a46e1f6cc509ff33f35bca5808bbd83
