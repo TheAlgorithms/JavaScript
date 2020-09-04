@@ -4,7 +4,8 @@ Getting started with open-source can be a difficult task, not only because we ar
 
 It may appear a very challenging and overwhelming task at first, but it is, in fact, a fun and rewarding experience.
 
-# Community Led Collaboration Projects
+# Community Collaboration Projects
+After the fantastic success that [Mappypals](https://github.com/zero-to-mastery/mappypals) is seeing and the high demand for similar projects, we would like to trial some community lead projects.
 Providing the opportunity for you to flex your developer muscles, whilst working within a team of developers. Gaining valuable skills, employers are always seeking, such as:
 - **Communication and collaboration** - Being able to work in a team and communicating effectively is a very important skill
 - **Github and source control** - In these projects you will have the opportunity to understand why branching is important along with other key github skills.
