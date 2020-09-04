@@ -1505,4 +1505,8 @@
 -[@gifariramadhan](https://github.com/gifariramadhan/)
 - [@kudy01](https://github.com/kudy01)
 
--[@JohnnyPro](https://github.com/JohnnyPro)
+
+-[@karanahir9](https://github.com/karanahir9)
+
+-[@Fac3rr](https://github.com/Fac3rr)
+
