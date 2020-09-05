@@ -28,7 +28,6 @@
 
 - [@AimanShakeel1008](https://github.com/AimanShakeel1008)
 
-
 - [@AjoyKAshok](https://github.com/AjoyKAshok)
 
 - [@Akashdeepgupta](https://github.com/Akashdeepgupta)
@@ -1498,25 +1497,52 @@
 
 - [@aiman5](https://github.com/aiman)
 
--[@thddudgns79](https://github.com/thddudgns79/)
--[@arvindsc123](https://github.com/arvinsc123/)
+- [@Rexkizzy22](https://github.com/Rexkizzy22/)
+
+- [@thddudgns79](https://github.com/thddudgns79/)
+
+- [@arvindsc123](https://github.com/arvinsc123/)
+
 - [@ReinoIuganson](https://github.com/ReinoIuganson)
 
--[@gifariramadhan](https://github.com/gifariramadhan/)
+- [@gifariramadhan](https://github.com/gifariramadhan/)
+
 - [@kudy01](https://github.com/kudy01)
 
--[@karanahir9](https://github.com/karanahir9)
+- [@JohnnyPro](https://github.com/JohnnyPro)
 
--[@Fac3rr](https://github.com/Fac3rr)
+- [@tusharnankani](https://github.com/tusharnankani)
 
--[@ibudubuduu](https://github.com/ibudubuduu)
--[@Allonewolff](https://github.com/Allonewolff/)
+- [@karanahir9](https://github.com/karanahir9)
 
--[@joegiuffrida](https://github.com/joegiuffrida)
+- [@Fac3rr](https://github.com/Fac3rr)
 
--[@rafazel](https://github.com/rafazel/)
+- [@ibudubuduu](https://github.com/ibudubuduu)
 
--[@benhsieh-dev](https://github.com/benhsieh-dev)
+- [@Allonewolff](https://github.com/Allonewolff/)
 
--[@trustinsimpson](https://github.com/trustinsimpson)
+- [@rafazel](https://github.com/rafazel/)
 
+- [@benhsieh-dev](https://github.com/benhsieh-dev)
+
+- [@georgeclinton5](https://github.com/georgeclinton5) 
+
+- [@Allonewolff](https://github.com/Allonewolff/)
+
+- [@rafazel](https://github.com/rafazel/)
+
+- [@adityamhn](https://github.com/adityamhn)
+
+- [@trustinsimpson](https://github.com/trustinsimpson)
+
+- [@benhsieh-dev](https://github.com/benhsieh-dev)
+
+- [@joegiuffrida](https://github.com/joegiuffrida)
+
+- [@rafazel](https://github.com/rafazel/)
+
+- [@QamarFarooq](https://github.com/QamarFarooq)
+
+- [@rafa265](https://github.com/rafa265)
+
+- [@Diane998](https://github.com/Diane998)
