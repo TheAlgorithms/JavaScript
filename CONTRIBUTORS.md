@@ -1509,3 +1509,21 @@
 - [@kudy01](https://github.com/kudy01)
 
 - [@tusharnankani](https://github.com/tusharnankani)
+
+- [@karanahir9](https://github.com/karanahir9)
+
+- [@Fac3rr](https://github.com/Fac3rr)
+
+- [@ibudubuduu](https://github.com/ibudubuduu)
+
+- [@Allonewolff](https://github.com/Allonewolff/)
+
+- [@rafazel](https://github.com/rafazel/)
+
+- [@benhsieh-dev](https://github.com/benhsieh-dev)
+
+- [@trustinsimpson](https://github.com/trustinsimpson)
+
+- [@georgeclinton5](https://github.com/georgeclinton5) 
+
+- [@adityamhn](https://github.com/adityamhn)
