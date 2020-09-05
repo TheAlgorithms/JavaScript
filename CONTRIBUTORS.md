@@ -1554,3 +1554,5 @@
 - [@AlloneWolff](https://github.com/AlloneWolff)
 
 - [@thddudgns79](https://github.com/thddudgns79/)
+
+- [@Jachin-Manda](https://github.com/Jachin-Manda)
