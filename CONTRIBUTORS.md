@@ -1360,4 +1360,4 @@
 
 - [@Dexters-Hub](https://github.com/Dexters-Hub)
 
-- [@NewHarmony] (https://github.com/NewHarmony)
+- [@NewHarmony](https://github.com/NewHarmony)
