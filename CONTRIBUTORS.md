@@ -28,7 +28,6 @@
 
 - [@AimanShakeel1008](https://github.com/AimanShakeel1008)
 
-
 - [@AjoyKAshok](https://github.com/AjoyKAshok)
 
 - [@Akashdeepgupta](https://github.com/Akashdeepgupta)
@@ -1498,23 +1497,39 @@
 
 - [@aiman5](https://github.com/aiman)
 
--[@thddudgns79](https://github.com/thddudgns79/)
--[@arvindsc123](https://github.com/arvinsc123/)
+- [@Rexkizzy22](https://github.com/Rexkizzy22/)
+
+- [@thddudgns79](https://github.com/thddudgns79/)
+
+- [@arvindsc123](https://github.com/arvinsc123/)
+
 - [@ReinoIuganson](https://github.com/ReinoIuganson)
 
--[@gifariramadhan](https://github.com/gifariramadhan/)
+- [@gifariramadhan](https://github.com/gifariramadhan/)
+
 - [@kudy01](https://github.com/kudy01)
 
--[@karanahir9](https://github.com/karanahir9)
+- [@tusharnankani](https://github.com/tusharnankani)
 
--[@Fac3rr](https://github.com/Fac3rr)
+- [@karanahir9](https://github.com/karanahir9)
 
--[@ibudubuduu](https://github.com/ibudubuduu)
--[@Allonewolff](https://github.com/Allonewolff/)
--[@rafazel](https://github.com/rafazel/)
+- [@Fac3rr](https://github.com/Fac3rr)
 
--[@benhsieh-dev](https://github.com/benhsieh-dev)
+- [@ibudubuduu](https://github.com/ibudubuduu)
 
--[@trustinsimpson](https://github.com/trustinsimpson)
+- [@Allonewolff](https://github.com/Allonewolff/)
 
--[@adityamhn](https://github.com/adityamhn)
+- [@rafazel](https://github.com/rafazel/)
+
+- [@benhsieh-dev](https://github.com/benhsieh-dev)
+
+- [@trustinsimpson](https://github.com/trustinsimpson)
+
+- [@georgeclinton5](https://github.com/georgeclinton5) 
+
+- [@trustinsimpson](https://github.com/trustinsimpson)
+
+- [@adityamhn](https://github.com/adityamhn)
+
+- [@adityamhn](https://github.com/adityamhn)
+
