@@ -1537,6 +1537,8 @@
 
 - [@benhsieh-dev](https://github.com/benhsieh-dev)
 
+- [@blacksmoke26](https://github.com/blacksmoke26)
+
 - [@joegiuffrida](https://github.com/joegiuffrida)
 
 - [@rafazel](https://github.com/rafazel/)
@@ -1548,4 +1550,7 @@
 - [@Diane998](https://github.com/Diane998)
 
 - [@srpineda](https://github.com/srpineda)
+
 - [@AlloneWolff](https://github.com/AlloneWolff)
+
+- [@thddudgns79](https://github.com/thddudgns79/)
