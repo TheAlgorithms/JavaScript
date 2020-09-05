@@ -1516,3 +1516,5 @@
 -[@benhsieh-dev](https://github.com/benhsieh-dev)
 
 -[@trustinsimpson](https://github.com/trustinsimpson)
+
+-[@georgeclinton5](https://github.com/georgeclinton5)
