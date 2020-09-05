@@ -1300,6 +1300,8 @@
 
 - [@visionhorse](https://github.com/visionhorse)
 
+- [@vivmost](https://github.com/vivmost)
+
 - [@vladimirdd96](https://github.com/vladimirdd96/)
 
 - [@vladiodev](https://github.com/vladiodev/)
