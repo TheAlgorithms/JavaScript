@@ -1513,3 +1513,10 @@
 -[@Allonewolff](https://github.com/Allonewolff/)
 
 -[@joegiuffrida](https://github.com/joegiuffrida)
+
+-[@rafazel](https://github.com/rafazel/)
+
+-[@benhsieh-dev](https://github.com/benhsieh-dev)
+
+-[@trustinsimpson](https://github.com/trustinsimpson)
+
