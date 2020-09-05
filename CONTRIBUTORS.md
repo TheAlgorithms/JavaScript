@@ -586,6 +586,8 @@
 
 - [@bernicemarie](https://github.com/bernicemarie)
 
+- [@BhuvaneshHingal](https://github.com/BhuvaneshHingal)
+
 - [@blacksmoke26](https://github.com/blacksmoke26)
 
 - [@blueseanz](https://github.com/blueseanz)
