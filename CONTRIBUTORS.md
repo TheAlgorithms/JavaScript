@@ -1352,15 +1352,30 @@
 
 - [@zizu1681](https://github.com/zizu1681/)
 
-- [Zamora-Cloud](https://github.com/Zamora-Cloud/)
+- [@Zamora-Cloud](https://github.com/Zamora-Cloud/)
 
-- [tomascatena](https://github.com/tomascatena/)
+- [@tomascatena](https://github.com/tomascatena/)
 
 - [@fastsly](https://github.com/fastsly)
 
--[@ibudubuduu](https://github.com/ibudubuduu)
+- [@ibudubuduu](https://github.com/ibudubuduu)
 
--[@gitvbs00](https://github.com/gitvbs00)
+- [@gitvbs00](https://github.com/gitvbs00)
 
 - [@Dexters-Hub](https://github.com/Dexters-Hub)
- master
+
+- [@arlw87](https://github.com/arlw87/)
+
+- [@mohammad-ahmadi10](https://github.com/mohammad-ahmadi10/)
+
+- [@Naja17](https://github.com/Naja17)
+
+- [@NewHarmony](https://github.com/NewHarmony)
+
+- [@aayushjhaa](https://github.com/Aayushjhaa/)
+
+- [@kbhuvan890](https://github.com/kbhuvan890)
+
+- [@ZRebelo](https://github.com/ZRebelo)
+
+- [@ggabella91](https://github.com/ggabella91)
