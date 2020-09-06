@@ -1352,9 +1352,9 @@
 
 - [@zizu1681](https://github.com/zizu1681/)
 
-- [Zamora-Cloud](https://github.com/Zamora-Cloud/)
+- [@Zamora-Cloud](https://github.com/Zamora-Cloud/)
 
-- [tomascatena](https://github.com/tomascatena/)
+- [@tomascatena](https://github.com/tomascatena/)
 
 - [@fastsly](https://github.com/fastsly)
 
@@ -1365,3 +1365,9 @@
 - [@Naja17](https://github.com/Naja17)
 
 - [@aayushjhaa](https://github.com/Aayushjhaa/)
+
+- [@kbhuvan890](https://github.com/kbhuvan890)
+
+- [@ZRebelo](https://github.com/ZRebelo)
+
+- [@ggabella91](https://github.com/ggabella91)
