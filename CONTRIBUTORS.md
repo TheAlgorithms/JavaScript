@@ -1362,5 +1362,5 @@
 
 - [@arlw87](https://github.com/arlw87/)
 
-- [@Khalid702](https://github.com/Khalid702)
+- [@khalid702](https://github.com/Khalid702)
 
