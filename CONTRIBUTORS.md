@@ -1443,4 +1443,8 @@
 
 -[@tfernandez2017](https://github.com/tfernandez2017)
 
+-[@Oyinkansolight](https://github.com/Oyinkansolight/)
+
+-[@LuofeiShi](https://github.com/LuofeiShi)
+
 -[@VoodooScience1](https://github.com/VoodooScience1)
