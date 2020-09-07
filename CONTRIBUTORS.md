@@ -1397,15 +1397,23 @@
 
 - [@febryardi13](https://github.com/Febryardi13)
 
--[@anshuman-18](https://github.com/anshuman-18/)
+- [@anshuman-18](https://github.com/anshuman-18/)
 
--[@usaiyed27](https://github.com/usaiyed27/)
+- [@usaiyed27](https://github.com/usaiyed27/)
 
--[@aayushi02agarwal](https://github.com/aayushi02agarwal/)
+- [@aayushi02agarwal](https://github.com/aayushi02agarwal/)
 
--[@elcarn23](https://github.com/elcarn23/)
+- [@elcarn23](https://github.com/elcarn23/)
 
--[@gsaidov](https://github.com/gsaidov)
+- [@gsaidov](https://github.com/gsaidov)
+
+- [@Oyinkansolight](https://github.com/Oyinkansolight/)
+
+- [@harshit-kumar78](https://github.com/harshit-kumar78)
+
+- [danilosilva21](https://github.com/danilosilva21/)
+
+- [@saguiguilid](https://github.com/jess-alejo/)
 
 -[@Oyinkansolight](https://github.com/Oyinkansolight/)
 
