@@ -1,5 +1,5 @@
 # CONTRIBUTORS
-
+- [@khadijagardezi](https://github.com/khadijagardezi)
 - [@0xaj](https://github.com/0xaj)
 
 - [@17Piyush](https://github.com/17Piyush/)
