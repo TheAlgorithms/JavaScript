@@ -1419,6 +1419,10 @@
 
 -[@harshit-kumar78](https://github.com/harshit-kumar78)
 
+-[danilosilva21](https://github.com/danilosilva21/)
+
+-[@NateRiver4612](https://github.com/NateRiver4612)
+
 -[@ysherqawi](https://github.com/ysherqawi)
 
 -[danilosilva21](https://github.com/danilosilva21/)
