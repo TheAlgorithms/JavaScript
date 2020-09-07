@@ -1,4 +1,5 @@
 # CONTRIBUTORS
+
 - [@khadijagardezi](https://github.com/khadijagardezi)
 - [@0xaj](https://github.com/0xaj)
 
@@ -1417,6 +1418,10 @@
 -[@Lefty93](https://github.com/Lefty93)
 
 -[@ahmed-952](https://github.com/ahmed-952)
+
+-[@adiyokeugwu](https://github.com/adiyokeugwu/)
+
+-[@mgombalova](https://github.com/mgombalova/)
 
 -[@alyraafat](https://github.com/alyraafat)
 
