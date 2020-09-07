@@ -1,5 +1,6 @@
 # CONTRIBUTORS
 
+- [@khadijagardezi](https://github.com/khadijagardezi)
 - [@0xaj](https://github.com/0xaj)
 
 - [@17Piyush](https://github.com/17Piyush/)
@@ -53,6 +54,8 @@
 - [@Andrewvillacorta](https://github.com/Andrewvillacorta)
 
 - [@AnilSeervi](https://github.com/AnilSeervi)
+
+- [@Ankitwarbhe](https://github.com/Ankitwarbhe)
 
 - [@Arshcreation](https://github.com/Arshcreation)
 
@@ -1393,20 +1396,51 @@
 - [@saied2035](https://github.com/saied2035)
 
 - [@febryardi13](https://github.com/Febryardi13)
->>>>>>> ecb5b6975af695cd0914af90448fcce7288458c8
 
--[@anshuman-18](https://github.com/anshuman-18/)
+- [@anshuman-18](https://github.com/anshuman-18/)
 
--[@usaiyed27](https://github.com/usaiyed27/)
+- [@usaiyed27](https://github.com/usaiyed27/)
 
--[@aayushi02agarwal](https://github.com/aayushi02agarwal/)
+- [@aayushi02agarwal](https://github.com/aayushi02agarwal/)
 
--[@elcarn23](https://github.com/elcarn23/)
+- [@elcarn23](https://github.com/elcarn23/)
 
--[@gsaidov](https://github.com/gsaidov)
+- [@gsaidov](https://github.com/gsaidov)
+
+- [@Oyinkansolight](https://github.com/Oyinkansolight/)
+
+- [@harshit-kumar78](https://github.com/harshit-kumar78)
+
+- [danilosilva21](https://github.com/danilosilva21/)
+
+- [@saguiguilid](https://github.com/jess-alejo/)
 
 -[@Oyinkansolight](https://github.com/Oyinkansolight/)
+
 -[@harshit-kumar78](https://github.com/harshit-kumar78)
 
 -[danilosilva21](https://github.com/danilosilva21/)
+
 -[@NateRiver4612](https://github.com/NateRiver4612)
+
+-[@ysherqawi](https://github.com/ysherqawi)
+
+-[danilosilva21](https://github.com/danilosilva21/)
+
+-[@Lefty93](https://github.com/Lefty93)
+
+-[@ahmed-952](https://github.com/ahmed-952)
+
+-[@adiyokeugwu](https://github.com/adiyokeugwu/)
+
+-[@mgombalova](https://github.com/mgombalova/)
+
+-[@alyraafat](https://github.com/alyraafat)
+
+-[@apandey208](https://github.com/apandey208)
+
+-[@adiyokeugwu](https://github.com/adiyokeugwu/)
+
+-[@tfernandez2017](https://github.com/tfernandez2017)
+
+-[@VoodooScience1](https://github.com/VoodooScience1)
