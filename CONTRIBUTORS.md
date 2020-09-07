@@ -1,5 +1,5 @@
 # CONTRIBUTORS
-
+- [@khadijagardezi](https://github.com/khadijagardezi)
 - [@0xaj](https://github.com/0xaj)
 
 - [@17Piyush](https://github.com/17Piyush/)
@@ -1419,3 +1419,9 @@
 -[@ahmed-952](https://github.com/ahmed-952)
 
 -[@apandey208](https://github.com/apandey208)
+
+-[@adiyokeugwu](https://github.com/adiyokeugwu/)
+
+-[@tfernandez2017](https://github.com/tfernandez2017)
+
+-[@VoodooScience1](https://github.com/VoodooScience1)
