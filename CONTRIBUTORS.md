@@ -1456,5 +1456,3 @@
 -[@jonatastrafaniuc](https://github.com/jonatastrafaniuc)
 
 -[@astromanish](https://github.com/astromanish)
-
--[@emahmi](https://github.com/emahmi/)
