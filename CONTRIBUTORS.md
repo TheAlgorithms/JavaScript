@@ -1,4 +1,5 @@
 # CONTRIBUTORS
+
 - [@khadijagardezi](https://github.com/khadijagardezi)
 - [@0xaj](https://github.com/0xaj)
 
@@ -1396,19 +1397,31 @@
 
 - [@febryardi13](https://github.com/Febryardi13)
 
--[@anshuman-18](https://github.com/anshuman-18/)
+- [@anshuman-18](https://github.com/anshuman-18/)
 
--[@usaiyed27](https://github.com/usaiyed27/)
+- [@usaiyed27](https://github.com/usaiyed27/)
 
--[@aayushi02agarwal](https://github.com/aayushi02agarwal/)
+- [@aayushi02agarwal](https://github.com/aayushi02agarwal/)
 
--[@elcarn23](https://github.com/elcarn23/)
+- [@elcarn23](https://github.com/elcarn23/)
 
--[@gsaidov](https://github.com/gsaidov)
+- [@gsaidov](https://github.com/gsaidov)
+
+- [@Oyinkansolight](https://github.com/Oyinkansolight/)
+
+- [@harshit-kumar78](https://github.com/harshit-kumar78)
+
+- [danilosilva21](https://github.com/danilosilva21/)
+
+- [@saguiguilid](https://github.com/jess-alejo/)
 
 -[@Oyinkansolight](https://github.com/Oyinkansolight/)
 
 -[@harshit-kumar78](https://github.com/harshit-kumar78)
+
+-[danilosilva21](https://github.com/danilosilva21/)
+
+-[@NateRiver4612](https://github.com/NateRiver4612)
 
 -[@ysherqawi](https://github.com/ysherqawi)
 
@@ -1417,5 +1430,31 @@
 -[@Lefty93](https://github.com/Lefty93)
 
 -[@ahmed-952](https://github.com/ahmed-952)
+
+-[@adiyokeugwu](https://github.com/adiyokeugwu/)
+
+-[@mgombalova](https://github.com/mgombalova/)
+
+-[@alyraafat](https://github.com/alyraafat)
+
+-[@apandey208](https://github.com/apandey208)
+
+-[@adiyokeugwu](https://github.com/adiyokeugwu/)
+
+-[@tfernandez2017](https://github.com/tfernandez2017)
+
+-[@Oyinkansolight](https://github.com/Oyinkansolight/)
+
+-[@LuofeiShi](https://github.com/LuofeiShi)
+
+-[@Oyinkansolight](https://github.com/Oyinkansolight/)
+
+-[@hessamg](https://github.com/hessamg/)
+
+-[@VoodooScience1](https://github.com/VoodooScience1)
+
+-[@jonatastrafaniuc](https://github.com/jonatastrafaniuc)
+
+-[@astromanish](https://github.com/astromanish)
 
 -[@emahmi](https://github.com/emahmi/)
