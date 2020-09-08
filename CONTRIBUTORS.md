@@ -1453,7 +1453,11 @@
 
 -[@VoodooScience1](https://github.com/VoodooScience1)
 
+-[@super3636](https://github.com/super3636)
+
 -[@jonatastrafaniuc](https://github.com/jonatastrafaniuc)
+
+-[@tranminhtri](https://github.com/Tris-909)
 
 -[@astromanish](https://github.com/astromanish)
 
@@ -1463,3 +1467,10 @@
 
 -[@VAMCKUMAR](https://github.com/VAMCKUMAR)
 
+-[@ponikar](https://github.com/ponikar)
+
+-[@ruthstern](https://github.com/ruthstern)
+
+-[@gabrielamcarvalho](https://github.com/Gabrielamcarvalho)
+
+-[@shyam-sai](https://github.com/shyam-sai)
