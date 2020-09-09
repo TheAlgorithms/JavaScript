@@ -219,6 +219,8 @@
 
 - [@KyawKyawThar](https://github.com/KyawKyawThar)
 
+- [@yashgupta18](https://github.com/yashgupta18)
+
 - [@Kykuy](https://github.com/Kykuy)
 
 - [@LIJOMLOYID](https://github.com/LIJOMLOYID)
@@ -1490,5 +1492,15 @@
 -[@Garrik777](https://github.com/Garrik777/)
 
 -[@Jaidev0077](https://github.com/Jaidev0077)
+
+-[@AmosStraus](https://github.com/AmosStraus)
+
+-[@clairepeng0808](https://github.com/clairepeng0808)
+
+-[@yad22](https://github.com/yad22)
+
+-[@nuthanc](https://github.com/nuthanc)
+
+-[@alexg657](https://github.com/alexg657/)
 
 -[@junjie-w](https://github.com/junjie-w)
