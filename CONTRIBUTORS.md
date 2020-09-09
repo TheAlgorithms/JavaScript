@@ -1530,3 +1530,7 @@
 -[@rohitraju27](https://github.com/rohitraju27)
 
 -[@Errepulify](https://github.com/Errepulify)
+
+-[@dadpops](https://github.com/dadpops)
+
+-[@senemsoy](https://github.com/senemsoy)
