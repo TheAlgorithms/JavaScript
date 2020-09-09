@@ -1510,3 +1510,15 @@
 -[@oskarachik](https://github.com/oskarchik)
 
 -[@George-Nayak](https://github.com/George-Nayak)
+
+-[@shinelikeasmile](https://github.com/shinelikeasmile)
+
+-[@cloxton2003](https://github.com/cloxton2003)
+
+-[@tonyater](https://github.com/tonyater)
+
+-[@kapitolos](https://github.com/Kapitolos)
+
+-[@Mahathi1404](https://github.com/Mahathi1404)
+
+-[@rohitraju27](https://github.com/rohitraju27)
