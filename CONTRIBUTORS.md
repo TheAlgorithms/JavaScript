@@ -3,7 +3,7 @@
 - [@khadijagardezi](https://github.com/khadijagardezi)
 - [@0xaj](https://github.com/0xaj)
 
--[@akshitagupta15june](https://github.com/akshitagupta15june)
+- [@akshitagupta15june](https://github.com/akshitagupta15june)
 
 - [@17Piyush](https://github.com/17Piyush/)
 
