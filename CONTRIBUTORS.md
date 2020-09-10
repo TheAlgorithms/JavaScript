@@ -1499,6 +1499,8 @@
 
 -[@Jaidev0077](https://github.com/Jaidev0077)
 
+-[@Rishi-121](https://github.com/Rishi-121)
+
 -[@tomi-design](https://github.com/tomi-design)
 
 -[@AmosStraus](https://github.com/AmosStraus)
