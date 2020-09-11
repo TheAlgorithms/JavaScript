@@ -1575,11 +1575,13 @@
 
 - [@gajojr](https://github.com/gajojr)
 
-<<<<<<< HEAD
 -[@gajojr](https://github.com/gajojr)
 
-=======
-- [@cjsotoparra](https://github.com/cjsotoparra)
->>>>>>> d5ba3b5831cb0d037b5c3d4c90d665aa3cb3ecb8
+-[@cjsotoparra](https://github.com/cjsotoparra)
 
-[@sebauru87](https://github.com/sebauru87)
+-[@MuhammadShafique123](https://github.com/MuhammadShafique123)
+
+- [@cjsotoparra](https://github.com/cjsotoparra)
+
+- [@sebauru87](https://github.com/sebauru87)
+
