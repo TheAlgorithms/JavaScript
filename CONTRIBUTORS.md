@@ -1575,6 +1575,12 @@
 
 - [@gajojr](https://github.com/gajojr)
 
+- [@Nikkorey](https://github.com/Nikkorey)
+
+-[@gajojr](https://github.com/gajojr)
+
+- [@cjsotoparra](https://github.com/cjsotoparra)
+
 -[@gajojr](https://github.com/gajojr)
 
 -[@cjsotoparra](https://github.com/cjsotoparra)
