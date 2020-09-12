@@ -1577,15 +1577,15 @@
 
 - [@Nikkorey](https://github.com/Nikkorey)
 
--[@gajojr](https://github.com/gajojr)
+- [@gajojr](https://github.com/gajojr)
 
 - [@cjsotoparra](https://github.com/cjsotoparra)
 
--[@gajojr](https://github.com/gajojr)
+- [@gajojr](https://github.com/gajojr)
 
--[@cjsotoparra](https://github.com/cjsotoparra)
+- [@cjsotoparra](https://github.com/cjsotoparra)
 
--[@MuhammadShafique123](https://github.com/MuhammadShafique123)
+- [@MuhammadShafique123](https://github.com/MuhammadShafique123)
 
 - [@cjsotoparra](https://github.com/cjsotoparra)
 
@@ -1597,4 +1597,10 @@
 
 - [@kialala](https://github.com/kialala)
 
-- [@zali0] (https://github.com/zali0)
+- [@zali0](https://github.com/zali0)
+
+- [@kartikeyarai7](https://github.com/kartikeyarai7)
+
+- [@Kra1ven](https://github.com/Kra1ven)
+
+- [@qNguyen94](https://github.com/qnguyen94)
