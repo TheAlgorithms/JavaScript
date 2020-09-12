@@ -1596,3 +1596,5 @@
 - [@Prabhnometery](https://github.com/Prabhnometery)
 
 - [@kialala](https://github.com/kialala)
+
+- [@zali0] (https://github.com/zali0)
