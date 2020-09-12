@@ -1600,3 +1600,5 @@
 -[@kartikeyarai7](https://github.com/kartikeyarai7)
 
 -[@Kra1ven](https://github.com/Kra1ven)
+
+-[@qNguyen94](https://github.com/qnguyen94)
