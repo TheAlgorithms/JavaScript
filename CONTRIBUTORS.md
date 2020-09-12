@@ -334,6 +334,8 @@
 
 - [@Pado0327](https://github.com/Pado0327)
 
+- [@PaulVR4](https://github.com/PaulVR4)
+
 - [@PhilipPurwoko](https://github.com/PhilipPurwoko)
 
 - [@Piyush_Mahapatra](https://github.com/piyush-mahapatra-au6/)
@@ -754,6 +756,8 @@
 
 - [@danieletchie](https://github.com/danieletchie)
 
+- [@danilosilva21](https://github.com/danilosilva21/)
+
 - [@daveaditya](https://github.com/daveaditya)
 
 - [@daxter-army](https://github.com/daxter-army/)
@@ -896,6 +900,8 @@
 
 - [@gitvbs00](https://github.com/gitvbs00)
 
+- [@gmorana](https://github.com/gmorana)
+
 - [@gmpgiri](https://github.com/gmpgiri/)
 
 - [@gpinto8](https://github.com/gpinto8)
@@ -933,6 +939,8 @@
 - [@hessamg](https://github.com/hessamg/)
 
 - [@himanshu1988mishra](https://github.com/himanshu1988mishra)
+
+- [@himanshukorpal](https://github.com/himanshukorpal)
 
 - [@hrvoje-rama](https://github.com/hrvoje-rama/)
 
@@ -1109,6 +1117,8 @@
 - [@mgombalova](https://github.com/mgombalova/)
 
 - [@mgourab](https://github.com/mgourab)
+
+- [@mhdareeb](https://github.com/mhdareeb)
 
 - [@miamathews](https://github.com/miamathews)
 
@@ -1548,6 +1558,8 @@
 
 - [@yad22](https://github.com/yad22)
 
+- [@yaralahruthik](https://github.com/yaralahruthik)
+
 - [@yashgupta18](https://github.com/yashgupta18)
 
 - [@yashv6655](https://github.com/yashv6655)
@@ -1580,16 +1592,3 @@
 
 - [@zizu1681](https://github.com/zizu1681/)
 
-- [danilosilva21](https://github.com/danilosilva21/)
-
--[@PaulVR4](https://github.com/PaulVR4)
-
--[@himanshukorpal](https://github.com/himanshukorpal)
-
--[@mhdareeb](https://github.com/mhdareeb)
-
--[@yaralahruthik](https://github.com/yaralahruthik)
-
--[@himanshukorpal](https://github.com/himanshukorpal)
-
--[@gmorana](https://github.com/gmorana)
