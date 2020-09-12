@@ -1,0 +1,47 @@
+<html lang=”en”>
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="x-ua-compatible" content="ie=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+		<!-- Name of the app -->
+		<title>Camera App</title>
+
+		<!-- Link to main style sheet -->
+		
+		<link rel="stylesheet" href="style.css"> 
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" integrity="sha384-gfdkjb5BdAXd+lj+gudLWI+BXq4IuLW5IT+brZEZsLFm++aCMlF1V92rMkPaX4PP" crossorigin="anonymous">
+	</head>
+	<body>
+
+		<!-- Camera -->
+		<main id="camera">
+
+		    <!-- Camera sensor -->
+		    <canvas id="camera--sensor"></canvas>
+		    
+		    <!-- Camera view -->
+		    <video id="camera--view" autoplay playsinline></video>
+		    
+		    <!-- Camera output -->
+		    <img src="cam.png" alt="" id="camera--output">
+
+		    <!-- Camera trigger -->
+				<button id="camera--trigger"><i class="fas fa-camera"></i></button>
+				<button id="camera--back"><i class="fas fa-redo"></i></button>
+				<button id="camera--front"><i class="fas fa-undo"></i></button>
+				
+
+		</main>
+
+		<div class="footer">
+			<p>Camera by S M Rajkumar</p>
+		</div>
+
+		
+
+
+		<!-- Reference to your JavaScript file -->
+		<script src="app.js"></script> 
+	</body>
+</html>

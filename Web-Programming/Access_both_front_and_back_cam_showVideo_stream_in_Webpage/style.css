@@ -1,0 +1,103 @@
+html, body{
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+}
+
+#camera, #camera--view, #camera--sensor{
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+#camera--output {
+    position: fixed;
+    height: 100px;
+    width: 100px;
+    top: 20px;
+    right: 20px;
+
+}
+
+#camera--view, #camera--sensor, #camera--output{
+    transform: scaleX(-1);
+}
+
+#camera--trigger{
+    
+    width: 100px; 
+    background-color: black;
+    color: white;
+    font-size: 30px;
+    border-radius: 20px;
+    border: none;
+    padding: 5px 5px;
+    text-align: center;
+    box-shadow: 0 5px 5px 0 rgba(0,0,0,0.2);
+    position: fixed;
+    bottom: 30px;
+    left: calc(35%);
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#camera--back{
+    
+    width: 100px; 
+    background-color: black;
+    color: white;
+    font-size: 30px;
+    border-radius: 20px;
+    border: none;
+    padding: 5px 5px;
+    text-align: center;
+    box-shadow: 0 5px 5px 0 rgba(0,0,0,0.2);
+    position: fixed;
+    left: calc(70%);
+    bottom: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+
+#camera--front{
+    
+    width: 100px; 
+    background-color: black;
+    color: white;
+    font-size: 30px;
+    border-radius: 20px;
+    border: none;
+    padding: 5px 5px;
+    text-align: center;
+    box-shadow: 0 5px 5px 0 rgba(0,0,0,0.2);
+    position: fixed;
+    left: calc(1%);
+    bottom: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+
+
+.taken{
+    height: 100px!important;
+    width: 100px!important;
+    transition: all 0.5s ease-in;
+    border: solid 3px white;
+    box-shadow: 0 5px 10px 0 rgba(0,0,0,0.2);
+    top: 20px;
+    right: 20px;
+    z-index: 2;
+}
+
+.footer p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 12px;
+   
+    margin: 10px;
+    bottom: 1px;
+    position: fixed;
+}
