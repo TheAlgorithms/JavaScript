@@ -1611,3 +1611,5 @@
 - [@seniorXtech](https://github.com/SeniorX-tech)
 
 - [@sugusgrassi](https://github.com/sugusgrassi)
+
+- [@barbaragd](https://github.com/barbaragd)
