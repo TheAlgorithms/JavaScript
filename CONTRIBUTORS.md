@@ -1607,4 +1607,5 @@
 
 - [@suyash-patil](https://github.com/suyash-patil)
 
--[@paakrivid](https://github.com/paakrivid)
+- [@paakrivid](https://github.com/paakrivid)
+- [@seniorXtech](https://github.com/SeniorX-tech)
