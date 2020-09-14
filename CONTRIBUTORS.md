@@ -1603,11 +1603,13 @@
 - [@vlad2226](https://github.com/vlad2226/)
 
 - [@CrazyLavendar](https://github.com/CrazyLavendar)
--[@homanseto](https://github.com/homanseto/)
+
+- [@homanseto](https://github.com/homanseto/)
 
 - [@suyash-patil](https://github.com/suyash-patil)
 
 - [@paakrivid](https://github.com/paakrivid)
+
 - [@seniorXtech](https://github.com/SeniorX-tech)
 
 - [@sugusgrassi](https://github.com/sugusgrassi)
@@ -1636,6 +1638,10 @@
 
 - [@Rohitdk88](https://github.com/Rohitdk88/)
 
-- [@SUNDARAM7] (https://github.com/SUNDARAM7/)
+- [@SUNDARAM7](https://github.com/SUNDARAM7/)
 
 - [@changyin226](https://github.com/changyin226/)
+
+- [@SUNDARAM7](https://github.com/SUNDARAM7/)
+
+- [@AnPopescu](https://github.com/AnPopescu/)
