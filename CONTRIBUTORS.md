@@ -1,4 +1,4 @@
-# CONTRIBUTORS
+ㄑ# CONTRIBUTORS
 
 - [@0xaj](https://github.com/0xaj)
 
@@ -1629,3 +1629,5 @@
 - [@hassanhanif152](https://github.com/hassanhanif152)
 
 - [@davipontesdasilva](https://github.com/davipontesdasilva/)
+
+- [@changyin226](https://github.com/changyin226/)
