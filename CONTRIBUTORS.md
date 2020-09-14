@@ -1,4 +1,4 @@
-# CONTRIBUTORS
+ㄑ# CONTRIBUTORS
 
 - [@0xaj](https://github.com/0xaj)
 
@@ -1602,11 +1602,60 @@
 
 - [@vlad2226](https://github.com/vlad2226/)
 
-- [@CrazyLavendar](https://github.com/CrazyLavendar) -[@homanseto](https://github.com/homanseto/)
+- [@CrazyLavendar](https://github.com/CrazyLavendar)
+
+- [@homanseto](https://github.com/homanseto/)
+
+- [@CrazyLavendar](https://github.com/CrazyLavendar)
+
+- [@homanseto](https://github.com/homanseto/)
+
+- [@CrazyLavendar](https://github.com/CrazyLavendar)
+
+- [@homanseto](https://github.com/homanseto/)
 
 - [@suyash-patil](https://github.com/suyash-patil)
 
 - [@paakrivid](https://github.com/paakrivid)
+
 - [@seniorXtech](https://github.com/SeniorX-tech)
 
 - [@HX17](https://github.com/HX17/)
+
+- [@sugusgrassi](https://github.com/sugusgrassi)
+
+- [@barbaragd](https://github.com/barbaragd)
+
+- [@barbaragd](https://github.com/barbaragd)
+
+- [@andressacl](https://github.com/andressacl)
+
+- [@Ounza](https://github.com/Ounza)
+
+- [@ajax90](https://github.com/ajax90)
+
+- [@ImieboGodson](https://github.com/ImieboGodson)
+
+- [@pankajlochan](https://github.com/pankajlochan)
+
+- [@getsomex](https://github.com/getsomex)
+
+- [@hassanhanif152](https://github.com/hassanhanif152)
+
+- [@davipontesdasilva](https://github.com/davipontesdasilva/)
+
+- [@jagajeet-puttaa](https://github.com/jagajeet-puttaa/)
+
+- [@Vivek2509](htpps://github.com/Vivek2509)
+
+- [@lutchanturia](https://github.com/lutchanturia/)
+
+- [@Rohitdk88](https://github.com/Rohitdk88/)
+
+- [@SUNDARAM7](https://github.com/SUNDARAM7/)
+
+- [@changyin226](https://github.com/changyin226/)
+
+- [@SUNDARAM7](https://github.com/SUNDARAM7/)
+
+- [@AnPopescu](https://github.com/AnPopescu/)
