@@ -1604,6 +1604,10 @@
 
 - [@CrazyLavendar](https://github.com/CrazyLavendar)
 
+- [@suyash-patil](https://github.com/suyash-patil)  
+
+- [@gashlax](https://github.com/gashlax)  
+
 - [@homanseto](https://github.com/homanseto/)
 
 - [@CrazyLavendar](https://github.com/CrazyLavendar)
