@@ -1606,6 +1606,10 @@
 
 - [@homanseto](https://github.com/homanseto/)
 
+- [@CrazyLavendar](https://github.com/CrazyLavendar)
+
+- [@homanseto](https://github.com/homanseto/)
+
 - [@suyash-patil](https://github.com/suyash-patil)
 
 - [@paakrivid](https://github.com/paakrivid)
@@ -1627,6 +1631,8 @@
 - [@ImieboGodson](https://github.com/ImieboGodson)
 
 - [@pankajlochan](https://github.com/pankajlochan)
+
+- [@getsomex](https://github.com/getsomex)
 
 - [@hassanhanif152](https://github.com/hassanhanif152)
 
