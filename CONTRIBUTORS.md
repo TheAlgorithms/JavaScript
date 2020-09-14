@@ -1603,11 +1603,13 @@
 - [@vlad2226](https://github.com/vlad2226/)
 
 - [@CrazyLavendar](https://github.com/CrazyLavendar)
--[@homanseto](https://github.com/homanseto/)
+
+- [@homanseto](https://github.com/homanseto/)
 
 - [@suyash-patil](https://github.com/suyash-patil)
 
 - [@paakrivid](https://github.com/paakrivid)
+
 - [@seniorXtech](https://github.com/SeniorX-tech)
 
 - [@sugusgrassi](https://github.com/sugusgrassi)
@@ -1626,3 +1628,4 @@
 
 - [@pankajlochan](https://github.com/pankajlochan)
 
+- [@Vivek2509](htpps://github.com/Vivek2509)
