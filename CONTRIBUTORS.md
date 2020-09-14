@@ -1610,11 +1610,17 @@
 
 - [@homanseto](https://github.com/homanseto/)
 
+- [@CrazyLavendar](https://github.com/CrazyLavendar)
+
+- [@homanseto](https://github.com/homanseto/)
+
 - [@suyash-patil](https://github.com/suyash-patil)
 
 - [@paakrivid](https://github.com/paakrivid)
 
 - [@seniorXtech](https://github.com/SeniorX-tech)
+
+- [@HX17](https://github.com/HX17/)
 
 - [@sugusgrassi](https://github.com/sugusgrassi)
 
