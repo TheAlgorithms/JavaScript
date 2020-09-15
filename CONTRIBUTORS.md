@@ -1682,3 +1682,5 @@
 
 -[@thodorismount](https://github.com/thodorismount/)
 -[@anshulbansal17](https://github.com/thodorismount/anshulbansal17)
+
+-[@HastyAzad](https://github.com/HastyAzad)
