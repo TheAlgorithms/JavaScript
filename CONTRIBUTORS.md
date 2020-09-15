@@ -170,6 +170,8 @@
 
 - [@George-Nayak](https://github.com/George-Nayak)
 
+- [@AndrewZajac](https://github.com/ajzajac)
+
 - [@GiAna-A](https://github.com/GiAna-A)
 
 - [@GlennMingi](https://github.com/GlennMingi)
@@ -1678,3 +1680,10 @@
 
 - [@RobertoCroesy](https://github.com/RobertoCroesy/)
 
+-[@thodorismount](https://github.com/thodorismount/)
+
+-[@anshulbansal17](https://github.com/thodorismount/anshulbansal17)
+
+-[@HastyAzad](https://github.com/HastyAzad)
+
+-[@d4rkm3z](https://github.com/d4rkm3z)
