@@ -1608,9 +1608,9 @@
 
 - [@CrazyLavendar](https://github.com/CrazyLavendar)
 
-- [@suyash-patil](https://github.com/suyash-patil)  
+- [@suyash-patil](https://github.com/suyash-patil)
 
-- [@gashlax](https://github.com/gashlax)  
+- [@gashlax](https://github.com/gashlax)
 
 - [@homanseto](https://github.com/homanseto/)
 
@@ -1687,6 +1687,10 @@
 - [@CAndrei1601](https://github.com/CAndrei1601/)
 
 - [@RobertoCroesy](https://github.com/RobertoCroesy/)
+
+- [@deni404](https://github.com/deni404)
+
+-[@thodorismount](https://github.com/thodorismount/)
 
 -[@thodorismount](https://github.com/thodorismount/)
 
