@@ -170,6 +170,8 @@
 
 - [@George-Nayak](https://github.com/George-Nayak)
 
+- [@AndrewZajac](https://github.com/ajzajac)
+
 - [@GiAna-A](https://github.com/GiAna-A)
 
 - [@GlennMingi](https://github.com/GlennMingi)
@@ -1649,7 +1651,7 @@
 - [@getsomex](https://github.com/getsomex)
 
 - [@hassanhanif152](https://github.com/hassanhanif152)
-gi
+
 - [@davipontesdasilva](https://github.com/davipontesdasilva/)
 
 - [@jagajeet-puttaa](https://github.com/jagajeet-puttaa/)
@@ -1660,7 +1662,7 @@ gi
 
 - [@Rohitdk88](https://github.com/Rohitdk88/
 
-- [@Himhith] (https://github.com/Himhith)
+- [@Himhith](https://github.com/Himhith)
 
 - [@SUNDARAM7](https://github.com/SUNDARAM7/)
 
@@ -1672,7 +1674,20 @@ gi
 
 - [@sunkanmiglo]((https://github.com/sunkanmiglo/)
 
+- [@sunkanmiglo](https://github.com/sunkanmiglo/)
+
 - [@shubh2001](https://github.com/shubh2001)
 
 - [@akshatz](https://github.com/akshatz/)
 
+- [@CAndrei1601](https://github.com/CAndrei1601/)
+
+- [@RobertoCroesy](https://github.com/RobertoCroesy/)
+
+-[@thodorismount](https://github.com/thodorismount/)
+
+-[@anshulbansal17](https://github.com/thodorismount/anshulbansal17)
+
+-[@HastyAzad](https://github.com/HastyAzad)
+
+-[@d4rkm3z](https://github.com/d4rkm3z)
