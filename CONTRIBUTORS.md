@@ -1670,7 +1670,7 @@
 
 - [@AnPopescu](https://github.com/AnPopescu/)
 
-- [@sunkanmiglo]((https://github.com/sunkanmiglo/)
+- [@sunkanmiglo](https://github.com/sunkanmiglo/)
 
 - [@shubh2001](https://github.com/shubh2001)
 
@@ -1681,6 +1681,7 @@
 - [@RobertoCroesy](https://github.com/RobertoCroesy/)
 
 -[@thodorismount](https://github.com/thodorismount/)
+
 -[@anshulbansal17](https://github.com/thodorismount/anshulbansal17)
 
 -[@HastyAzad](https://github.com/HastyAzad)
