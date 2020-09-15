@@ -1676,5 +1676,6 @@
 
 - [@CAndrei1601](https://github.com/CAndrei1601/)
 
-- [@RobertoCroesy] (https://github.com/RobertoCroesy/)
+- [@RobertoCroesy](https://github.com/RobertoCroesy/)
 
+-[@thodorismount](https://github.com/thodorismount/)
