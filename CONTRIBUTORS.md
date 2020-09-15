@@ -1660,7 +1660,9 @@
 
 - [@lutchanturia](https://github.com/lutchanturia/)
 
-- [@Rohitdk88](https://github.com/Rohitdk88/)
+- [@Rohitdk88](https://github.com/Rohitdk88/
+
+- [@Himhith](https://github.com/Himhith)
 
 - [@SUNDARAM7](https://github.com/SUNDARAM7/)
 
@@ -1669,6 +1671,8 @@
 - [@SUNDARAM7](https://github.com/SUNDARAM7/)
 
 - [@AnPopescu](https://github.com/AnPopescu/)
+
+- [@sunkanmiglo]((https://github.com/sunkanmiglo/)
 
 - [@sunkanmiglo](https://github.com/sunkanmiglo/)
 
