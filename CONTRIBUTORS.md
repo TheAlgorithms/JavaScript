@@ -170,6 +170,8 @@
 
 - [@George-Nayak](https://github.com/George-Nayak)
 
+- [@AndrewZajac](https://github.com/ajzajac)
+
 - [@GiAna-A](https://github.com/GiAna-A)
 
 - [@GlennMingi](https://github.com/GlennMingi)
@@ -1606,15 +1608,17 @@
 
 - [@CrazyLavendar](https://github.com/CrazyLavendar)
 
-- [@suyash-patil](https://github.com/suyash-patil)  
+- [@suyash-patil](https://github.com/suyash-patil)
 
-- [@gashlax](https://github.com/gashlax)  
+- [@gashlax](https://github.com/gashlax)
 
 - [@homanseto](https://github.com/homanseto/)
 
 - [@CrazyLavendar](https://github.com/CrazyLavendar)
 
 - [@homanseto](https://github.com/homanseto/)
+
+- [@Pranjal-dev-byte](https://github.com/Pranjal-dev-byte/)
 
 - [@CrazyLavendar](https://github.com/CrazyLavendar)
 
@@ -1658,6 +1662,12 @@
 
 - [@Rohitdk88](https://github.com/Rohitdk88/)
 
+- [@DandyBFauzan](https://github.com/DandyBFauzan/)
+
+- [@Rohitdk88](https://github.com/Rohitdk88/
+
+- [@Himhith](https://github.com/Himhith)
+
 - [@SUNDARAM7](https://github.com/SUNDARAM7/)
 
 - [@changyin226](https://github.com/changyin226/)
@@ -1668,5 +1678,26 @@
 
 - [@Jack-tw0510](https://github.com/Jack-tw0510/)
 
+- [@sunkanmiglo]((https://github.com/sunkanmiglo/)
 
+- [@sunkanmiglo](https://github.com/sunkanmiglo/)
 
+- [@shubh2001](https://github.com/shubh2001)
+
+- [@akshatz](https://github.com/akshatz/)
+
+- [@CAndrei1601](https://github.com/CAndrei1601/)
+
+- [@RobertoCroesy](https://github.com/RobertoCroesy/)
+
+- [@deni404](https://github.com/deni404)
+
+-[@thodorismount](https://github.com/thodorismount/)
+
+-[@thodorismount](https://github.com/thodorismount/)
+
+-[@anshulbansal17](https://github.com/thodorismount/anshulbansal17)
+
+-[@HastyAzad](https://github.com/HastyAzad)
+
+-[@d4rkm3z](https://github.com/d4rkm3z)
