@@ -1616,6 +1616,8 @@
 
 - [@homanseto](https://github.com/homanseto/)
 
+- [@Pranjal-dev-byte](https://github.com/Pranjal-dev-byte/)
+
 - [@CrazyLavendar](https://github.com/CrazyLavendar)
 
 - [@homanseto](https://github.com/homanseto/)
