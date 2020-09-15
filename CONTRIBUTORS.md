@@ -1616,6 +1616,8 @@
 
 - [@homanseto](https://github.com/homanseto/)
 
+- [@Pranjal-dev-byte](https://github.com/Pranjal-dev-byte/)
+
 - [@CrazyLavendar](https://github.com/CrazyLavendar)
 
 - [@homanseto](https://github.com/homanseto/)
@@ -1666,8 +1668,18 @@
 
 - [@AnPopescu](https://github.com/AnPopescu/)
 
-[@sunkanmiglo]((https://github.com/sunkanmiglo/)
+- [@sunkanmiglo]((https://github.com/sunkanmiglo/)
 
 - [@shubh2001](https://github.com/shubh2001)
 
+- [@akshatz](https://github.com/akshatz/)
+
+- [@CAndrei1601](https://github.com/CAndrei1601/)
+
+- [@RobertoCroesy] (https://github.com/RobertoCroesy/)
+
+
+
 - [@deni404](https://github.com/deni404)
+
+
