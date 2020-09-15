@@ -170,6 +170,8 @@
 
 - [@George-Nayak](https://github.com/George-Nayak)
 
+- [@AndrewZajac](https://github.com/ajzajac)
+
 - [@GiAna-A](https://github.com/GiAna-A)
 
 - [@GlennMingi](https://github.com/GlennMingi)
