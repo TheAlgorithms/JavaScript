@@ -1694,8 +1694,6 @@
 
 -[@thodorismount](https://github.com/thodorismount/)
 
--[@thodorismount](https://github.com/thodorismount/)
-
 -[@anshulbansal17](https://github.com/thodorismount/anshulbansal17)
 
 -[@HastyAzad](https://github.com/HastyAzad)
@@ -1705,3 +1703,5 @@
 -[@jtb0216](https://github.com/jtb0216)
 
 -[@aldriguz](https://github.com/aldriguz)
+
+-[@DamianPinaJR](https://github.com/DamianPinaJR)
