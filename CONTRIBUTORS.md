@@ -1744,4 +1744,20 @@
 
 - [@JJbings](https://github.com/JJbings)
 
+<<<<<<< HEAD
 - [@RobHagen](https://github.com/robhagen
+=======
+-[@JJbings](https://github.com/JJbings)
+
+-[@Evita-M](https://github.com/Evita-M)
+
+- [@btims512](https://github.com/btims512)
+
+- [@RobHagen](https://github.com/robhagen)
+
+- [@btims512](https://github.com/btims512)
+
+- [@Grill3dCheese](https://github.com/Grill3dCheese)
+
+- [@akshayd261](https://github.com/akshayd261)
+>>>>>>> upstream/master
