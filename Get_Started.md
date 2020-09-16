@@ -65,11 +65,3 @@ Here, practicing would be our primary objective but there are also many pragmati
 **3.** **Design:** Considering the fact that practice is the main objective, try to make little changes on your forked repository and make a pull-request about it. *Commit often and provide appropriate messages to your commits.*
 
 **4.** You can also help in providing proper documentation of the various projects.
-
-
-*I hope it helps you.*
-
-*Happy Coding!🙂*
-
-*Here I am, Adding My OWN CONTRIBUTION* - andrew p 
-
