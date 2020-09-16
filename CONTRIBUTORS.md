@@ -1696,6 +1696,10 @@
 
 - [@anshulbansal17](https://github.com/thodorismount/anshulbansal17)
 
+- [@lionelr96](https://github.com/lionelr96)
+
+- [@warty-warthog](https://github.com/warty-warthog)
+
 - [@thodorismount](https://github.com/thodorismount/)
 
 - [@anshulbansal17](https://github.com/thodorismount/anshulbansal17)
@@ -1728,4 +1732,9 @@
 
 - [@Akashdeepgupta](https://github.com/Akashdeepgupta)
 
+- [@oakus](https://github.com/oakus)
+
+- [@wissaliraqui](https://github.com/wissaliraqui)
+
 - [@JJbings](https://github.com/JJbings)
+
