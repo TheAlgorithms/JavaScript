@@ -1736,5 +1736,10 @@
 
 - [@wissaliraqui](https://github.com/wissaliraqui)
 
-- [@JJbings](https://github.com/JJbings)
+-[@ElifSeven](https://github.com/ElifSeven)
 
+-[@normanjayasubrata](https://github.com/normanjayasubrata)
+
+- [@cally2k](https://github.com/cally2k)
+
+- [@JJbings](https://github.com/JJbings)
