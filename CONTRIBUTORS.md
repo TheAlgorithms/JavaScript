@@ -1150,6 +1150,8 @@
 
 - [@komalswami](https://github.com/komalswami)
 
+- [@kqarlos](https://github.com/kqarlos)
+
 - [@krishnateja96](https://github.com/krishnateja96)
 
 - [@krli07717](https://github.com/krli07717/)
@@ -1748,6 +1750,24 @@
 
 - [@gashlax](https://github.com/gashlax)
 
+-[@rkarora20](https://github.com/rkarora20/)
+
+-[@rkarora20](https://github.com/rkarora20/)
+
+-[@GLegatos](https://github.com/GLegatos/)
+
+- [@Valentin-Marko](https://github.com/Valentin-Marko/)
+
+-[@thodorismount](https://github.com/thodorismount/)
+
+- [@tricka1622](https://github.com/tricka1622/)
+
+-[@GLegatos](https://github.com/GLegatos/)
+
+-[@GLegatos](https://github.com/GLegatos/)
+
+-[@aschnall](https://github.com/aschnall)
+
 - [@homanseto](https://github.com/homanseto/)
 
 - [@CrazyLavendar](https://github.com/CrazyLavendar)
@@ -1905,4 +1925,10 @@
 - [@HMSuman](https://github.com/HMSuman)
 
 - [@Hebx](https://github.com/Hebx)
+
+-[@HMSuman](https://github.com/HMSuman)
+
+- [@samarijaz](https://github.com/samarijaz)
+
+-[@electricman07](https://github.com/electricman07)
 
