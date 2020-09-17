@@ -1734,7 +1734,10 @@
 
 - [@zizu1681](https://github.com/zizu1681/)
 
-- [@Valentin-Marko](https://github.com/Valentin-Marko/)
+-[@rkarora20](https://github.com/rkarora20/)
 
 -[@rkarora20](https://github.com/rkarora20/)
 
+-[@GLegatos](https://github.com/GLegatos/)
+
+- [@Valentin-Marko](https://github.com/Valentin-Marko/)
