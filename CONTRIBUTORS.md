@@ -1736,6 +1736,12 @@
 
 -[@rkarora20](https://github.com/rkarora20/)
 
+-[@rkarora20](https://github.com/rkarora20/)
+
+-[@GLegatos](https://github.com/GLegatos/)
+
+- [@Valentin-Marko](https://github.com/Valentin-Marko/)
+
 -[@thodorismount](https://github.com/thodorismount/)
 
 - [@tricka1622](https://github.com/tricka1622/)
