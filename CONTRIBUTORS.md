@@ -1736,6 +1736,12 @@
 
 -[@rkarora20](https://github.com/rkarora20/)
 
+-[@thodorismount](https://github.com/thodorismount/)
+
+- [@tricka1622](https://github.com/tricka1622/)
+
+-[@GLegatos](https://github.com/GLegatos/)
+
 -[@GLegatos](https://github.com/GLegatos/)
 
 -[@aschnall](https://github.com/aschnall)
@@ -1899,4 +1905,3 @@
 - [@samarijaz](https://github.com/samarijaz)
 
 -[@electricman07](https://github.com/electricman07)
-
