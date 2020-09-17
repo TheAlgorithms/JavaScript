@@ -1734,6 +1734,22 @@
 
 - [@zizu1681](https://github.com/zizu1681/)
 
+- [@gmorana](https://github.com/gmorana)
+
+- [@JorisBouwman](https://github.com/JorisBouwman)
+
+- [@cfonseca2013](https://github.com/cfonseca2013/)
+
+- [@Sachit-razz18](https://github.com/Sachit-razz18)
+
+- [@vlad2226](https://github.com/vlad2226/)
+
+- [@CrazyLavendar](https://github.com/CrazyLavendar)
+
+- [@suyash-patil](https://github.com/suyash-patil)
+
+- [@gashlax](https://github.com/gashlax)
+
 -[@rkarora20](https://github.com/rkarora20/)
 
 -[@rkarora20](https://github.com/rkarora20/)
@@ -1906,8 +1922,13 @@
 
 - [@sanchit36](https://github.com/sanchit36)
 
+- [@HMSuman](https://github.com/HMSuman)
+
+- [@Hebx](https://github.com/Hebx)
+
 -[@HMSuman](https://github.com/HMSuman)
 
 - [@samarijaz](https://github.com/samarijaz)
 
 -[@electricman07](https://github.com/electricman07)
+
