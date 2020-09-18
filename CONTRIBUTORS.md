@@ -1758,6 +1758,8 @@
 
 -[@GLegatos](https://github.com/GLegatos/)
 
+- [@asahaccn](https://github.com/asahaccn)
+
 - [@Valentin-Marko](https://github.com/Valentin-Marko/)
 
 -[@thodorismount](https://github.com/thodorismount/)
@@ -1939,3 +1941,19 @@
 -[@HuiwenZhu](https://github.com/HuiwenZhu)
 
 -[@chnmel](https://github.com/chnmel)
+
+-[@Alisha-bashir](https://github.com/Alisha-bashir)
+
+-[@gotcadumitru](https://github.com/gotcadumitru)
+
+-[@dwinovic](https://github.com/dwinovic)
+
+-[@yahia-borg](https://github.com/yahia-borg)
+
+- [@mattiluoma](https://github.com/mattiluoma)
+
+- [@abhishekpadhi17](https://github.com/abhishekpadhi17)
+
+-[@Pyzyryab](httts://github.com/Pyzyryab)
+
+-[@marelons1337](httts://github.com/marelons1337)
