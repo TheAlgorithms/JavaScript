@@ -1949,4 +1949,4 @@
 - [@mattiluoma](https://github.com/mattiluoma)
 
 - [@abhishekpadhi17](https://github.com/abhishekpadhi17)
-- [@sameer8605](https://github.com/@sameer8605)
+- [@sameer8605](https://github.com/sameer8605)
