@@ -1806,10 +1806,14 @@
 
 - [@AlteredArt](https://github.com/AlteredArt)
 
+- [@crenspact02](https://github.com/crenspact02)
 
--[@crenspact02](https://github.com/crenspact02)
-
--[@kikiran](https://github.com/kikiran/)
+- [@kikiran](https://github.com/kikiran/)
 
 - [@ckaylor33](https://github.com/ckaylor33)
 
+- [@Yashkmr97](https://github.com/Yashkmr97)
+
+- [@shashwath-KR](https://github.com/shashwath-KR)
+
+- [@Mahmoud3bkoem](https://github.com/Mahmoud3bkoem)
