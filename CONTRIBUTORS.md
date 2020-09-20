@@ -228,6 +228,8 @@
 
 - [@Higrashi](https://github.com/Higrashi)
 
+- [@Highbeamer](https://github.com/Highbeamer)
+
 - [@Himhith](https://github.com/Himhith)
 
 - [@Hosen-Rabby](https://github.com/Hosen-Rabby/)
