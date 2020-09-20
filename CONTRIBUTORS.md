@@ -1801,3 +1801,5 @@
 - [@bellapp](https://github.com/bellapp/)
 
 - [@maaabilly](https://github.com/maaabilly/)
+
+- [@giovannilow](https://github.com/giovannilow)
