@@ -1840,6 +1840,8 @@
 
 - [@andreabadinas](https://github.com/andreabadinas/)
 
+- [@404-dev](https://github.com/404-dev)
+
 - [@ColomboRiccardo](https://github.com/ColomboRiccardo)
 
 - [@JoonJ](https://github.com/joonjCode)
