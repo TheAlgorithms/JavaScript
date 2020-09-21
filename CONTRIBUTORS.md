@@ -1836,4 +1836,8 @@
 
 - [@andreabadinas](https://github.com/andreabadinas/)
 
+<<<<<<< HEAD
 - [@404-dev](https://github.com/404-dev)
+=======
+- [@ColomboRiccardo](https://github.com/ColomboRiccardo)
+>>>>>>> fc816d1007cc98ae77ad4abc146e67aaf91ec5f5
