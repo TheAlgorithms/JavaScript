@@ -228,6 +228,8 @@
 
 - [@Higrashi](https://github.com/Higrashi)
 
+- [@Highbeamer](https://github.com/Highbeamer)
+
 - [@Himhith](https://github.com/Himhith)
 
 - [@Hosen-Rabby](https://github.com/Hosen-Rabby/)
@@ -1801,3 +1803,49 @@
 - [@bellapp](https://github.com/bellapp/)
 
 - [@suman-nath](https://github.com/suman-nath/)
+
+- [@maaabilly](https://github.com/maaabilly/)
+
+- [@giovannilow](https://github.com/giovannilow)
+
+- [@AlteredArt](https://github.com/AlteredArt)
+
+- [@crenspact02](https://github.com/crenspact02)
+
+- [@kikiran](https://github.com/kikiran/)
+
+- [@ckaylor33](https://github.com/ckaylor33)
+
+- [@Yashkmr97](https://github.com/Yashkmr97)
+
+- [@shashwath-KR](https://github.com/shashwath-KR)
+
+- [@shrutiM22](https://github.com/shrutiM22/)
+
+- [@Mahmoud3bkoem](https://github.com/Mahmoud3bkoem)
+
+- [@ricobadico](https://github.com/ricobadico/)
+
+- [@cankitm](https://github.com/cankitm/)
+
+- [@jmejiamu](https://github.com/jmejiamu/)
+
+- [@jciprianoDS](https://github.com/jciprianoDS)
+
+- [@alaa140101](https://github.com/alaa140101)
+
+- [@Varjolo](https://github.com/Varjolo/)
+
+- [@andreabadinas](https://github.com/andreabadinas/)
+
+- [@ColomboRiccardo](https://github.com/ColomboRiccardo)
+
+- [@JoonJ](https://github.com/joonjCode)
+
+- [@urilivshits](https://github.com/urilivshits/)
+
+- [@Emheonivek](https://github.com/Emheonivek/)
+
+- [@yyusf](https://github.com/yyusf/)
+
+- [@tvc95](https://github.com/tvc95/)
