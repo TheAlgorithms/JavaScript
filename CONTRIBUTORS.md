@@ -1802,6 +1802,8 @@
 
 - [@bellapp](https://github.com/bellapp/)
 
+- [@suman-nath](https://github.com/suman-nath/)
+
 - [@maaabilly](https://github.com/maaabilly/)
 
 - [@giovannilow](https://github.com/giovannilow)
@@ -1828,6 +1830,8 @@
 
 - [@jmejiamu](https://github.com/jmejiamu/)
 
+- [@caohuiqaz](https://github.com/caohuiqaz/)
+
 - [@jciprianoDS](https://github.com/jciprianoDS)
 
 - [@alaa140101](https://github.com/alaa140101)
@@ -1836,15 +1840,20 @@
 
 - [@andreabadinas](https://github.com/andreabadinas/)
 
-test
 -[@HenryLiang-123](https://github.com/HenryLiang-123)
 
 -[@jennyferdesprez](https://github.com/jennyferdesprez)
 
-- [@ColomboRiccardo](https://github.com/ColomboRiccardo)
-test
-master
+- [@404-dev](https://github.com/404-dev)
 
+- [@ColomboRiccardo](https://github.com/ColomboRiccardo)
 
 - [@JoonJ](https://github.com/joonjCode)
-master
+
+- [@urilivshits](https://github.com/urilivshits/)
+
+- [@Emheonivek](https://github.com/Emheonivek/)
+
+- [@yyusf](https://github.com/yyusf/)
+
+- [@tvc95](https://github.com/tvc95/)
