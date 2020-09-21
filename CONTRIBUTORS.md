@@ -1840,6 +1840,10 @@
 
 - [@andreabadinas](https://github.com/andreabadinas/)
 
+-[@HenryLiang-123](https://github.com/HenryLiang-123)
+
+-[@jennyferdesprez](https://github.com/jennyferdesprez)
+
 - [@404-dev](https://github.com/404-dev)
 
 - [@ColomboRiccardo](https://github.com/ColomboRiccardo)
