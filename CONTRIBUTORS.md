@@ -1840,4 +1840,4 @@
 
 - [@JoonJ](https://github.com/joonjCode)
 
-- [@urilivshits] (https://github.com/urilivshits/)
+- [@urilivshits](https://github.com/urilivshits/)
