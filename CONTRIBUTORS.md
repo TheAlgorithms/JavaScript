@@ -1840,9 +1840,9 @@
 
 - [@andreabadinas](https://github.com/andreabadinas/)
 
--[@HenryLiang-123](https://github.com/HenryLiang-123)
+- [@HenryLiang-123](https://github.com/HenryLiang-123)
 
--[@jennyferdesprez](https://github.com/jennyferdesprez)
+- [@jennyferdesprez](https://github.com/jennyferdesprez)
 
 - [@404-dev](https://github.com/404-dev)
 
@@ -1859,3 +1859,33 @@
 - [@tvc95](https://github.com/tvc95/)
 
 - [@chriss707](https://github.com/chriss707/)
+
+- [@Ashish1323](https://github.com/Ashish1323)
+
+- [@jafilippini](https://github.com/jafilippini)
+
+- [@cristianlimon](https://github.com/cristianlimon)
+
+- [@chiao-TW](https://github.com/chiao-TW)
+
+- [@vjlkof](https://github.com/vjlkof)
+
+- [@atrieceeph289](https://github.com/atrieceeph289)
+
+- [@hoang1510-dt](https://github.com/hoang1510-dt)
+
+- [@asd12-coder](https://github.com/asd12-coder)
+
+- [@joshuaadampr](https://github.com/joshuaadampr)
+
+- [@AmitKulkarni9](https://github.com/AmitKulkarni9)
+
+- [@GTiberi](https://github.com/GTiberi)
+
+- [@shreya750](https://github.com/shreya750)
+
+- [@tas09009](https://github.com/tas09009)
+
+- [@Kabiriti](https://github.com/Kabiriti)
+
+- [@andrewtclin](https://github.com/andrewtclin)
