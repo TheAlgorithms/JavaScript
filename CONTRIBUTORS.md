@@ -1953,3 +1953,5 @@
 - [@veyron-davids](https://github.com/veyron-davids)
 
 - [@terencedangol](https://github.com/terencedangol)
+
+- [@snash24](https://github.com/snash24)
