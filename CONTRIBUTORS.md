@@ -1915,3 +1915,5 @@
 - [@davidmirza1](https://github.com/davidmirza1/)
 
 - [@stevetsaoch](https://github.com/stevetsaoch/)
+
+- [@chris-rimes](https://github.com/chris-rimes)
