@@ -1896,6 +1896,8 @@
 
 - [@keivalya](https://github.com/keivalya)
 
+- [@Nithish12Krish](https://github.com/Nithish12Krish)
+
 - [@tjsrm](https://github.com/tjsrm)
 
 - [@andreasalfven95](https://github.com/andreasalfven95)
@@ -1919,3 +1921,4 @@
 - [@chris-rimes](https://github.com/chris-rimes)
 
 -[@dathobek](https://github.com/dathobek/)
+
