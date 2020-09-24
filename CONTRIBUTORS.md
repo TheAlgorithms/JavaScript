@@ -1924,6 +1924,8 @@
 
 - [@amanbijalwan](https://github.com/amanbijalwan)
 
+- [@kaursimranjeet](https://github.com/kaursimranjeet)
+
 - [@tristanjoshuaalba](https://github.com/tristanjoshuaalba)
 
 - [@MedElBoudali](https://github.com/MedElBoudali)
