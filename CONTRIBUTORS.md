@@ -1949,3 +1949,5 @@
 - [@Saztroz](https://github.com/Saztroz)
 
 - [@veyron-davids](https://github.com/veyron-davids)
+
+- [@terencedangol](https://github.com/terencedangol)
