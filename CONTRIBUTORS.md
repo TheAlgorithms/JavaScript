@@ -1896,12 +1896,10 @@
 
 - [@keivalya](https://github.com/keivalya)
 
-<<<<<<< HEAD
 - [@tjsrm](https://github.com/tjsrm)
 
-||||||| eaebd034
 - [@tjsrm](https://github.com/tjsrm)
-=======
+
 - [@tjsrm](https://github.com/tjsrm)
 
 - [@andreasalfven95](https://github.com/andreasalfven95)
@@ -1921,6 +1919,7 @@
 - [@davidmirza1](https://github.com/davidmirza1/)
 
 - [@stevetsaoch](https://github.com/stevetsaoch/)
->>>>>>> 29efa0513779d607d24bbaeaa1e4f82aed469000
 
 - [@saurabh-00](https://github.com/saurabh-00/)
+
+- [@chris-rimes](https://github.com/chris-rimes)
