@@ -1920,5 +1920,6 @@
 
 - [@chris-rimes](https://github.com/chris-rimes)
 
--[@dathobek](https://github.com/dathobek/)
+- [@dathobek](https://github.com/dathobek/)
 
+- [@amanbijalwan](https://github.com/amanbijalwan)
