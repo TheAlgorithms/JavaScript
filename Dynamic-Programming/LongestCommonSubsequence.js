@@ -52,7 +52,6 @@ function main () {
   const str2 = 'FENVYKSFDDBE'
   const lcs = getLCS(str1, str2)
 
-  console.log('LCS: ' + lcs)
   // Print Longest Common Subsequence of the 2 strings given
   if (lcs != null) {
     console.log('String 1: ' + str1)
