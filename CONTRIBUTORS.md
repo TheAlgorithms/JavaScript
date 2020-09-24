@@ -1923,3 +1923,7 @@
 - [@dathobek](https://github.com/dathobek/)
 
 - [@amanbijalwan](https://github.com/amanbijalwan)
+
+- [@tristanjoshuaalba](https://github.com/tristanjoshuaalba)
+
+- [@MedElBoudali](https://github.com/MedElBoudali)
