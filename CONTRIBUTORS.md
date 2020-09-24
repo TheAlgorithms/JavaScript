@@ -1930,6 +1930,8 @@
 
 - [@majewski-piotr](https://github.com/majewski-piotr)
 
+- [@ligis5](https://github.com/ligis5)
+
 - [@Fiuns](https://github.com/Fiuns)
 
 - [@Saztroz](https://github.com/Saztroz)
