@@ -1899,3 +1899,5 @@
 - [@tdieu29](https://github.com/tdieu29)
 
 - [@DPMORENO](https://github.com/DPMORENO)
+
+- [@paulbryan93](https://github.com/paulbryan93)
