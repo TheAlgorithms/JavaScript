@@ -57,8 +57,8 @@ function main () {
   if (lcs != null) {
     console.log('String 1: ' + str1)
     console.log('String 2: ' + str2)
-    console.log('LCS: ' + lcs)
-    console.log('LCS length: ' + lcs.length)
+    console.log('Longest Common Subsequence: ' + lcs)
+    console.log('Longest Common Subsequene length: ' + lcs.length)
   }
 }
 
