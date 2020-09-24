@@ -1914,6 +1914,8 @@
 
 - [@DPMORENO](https://github.com/DPMORENO)
 
+- [@paulbryan93](https://github.com/paulbryan93)
+
 - [@echosonusharma](https://github.com/echosonusharma)
 
 - [@jacktmatthews](https://github.com/jacktmatthews)
