@@ -1934,3 +1934,6 @@
 
 - [@Fiuns](https://github.com/Fiuns)
 
+- [@Saztroz](https://github.com/Saztroz)
+
+- [@veyron-davids](https://github.com/veyron-davids)
