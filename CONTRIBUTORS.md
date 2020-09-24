@@ -1890,8 +1890,35 @@
 
 - [@andrewtclin](https://github.com/andrewtclin)
 
+- [@Anoop01234](https://github.com/Anoop01234)
+
 - [@meytar-vituri](https://github.com/meytar-vituri)
 
 - [@keivalya](https://github.com/keivalya)
 
 - [@Nithish12Krish](https://github.com/Nithish12Krish)
+
+- [@tjsrm](https://github.com/tjsrm)
+
+- [@andreasalfven95](https://github.com/andreasalfven95)
+
+- [@tdieu29](https://github.com/tdieu29)
+
+- [@DPMORENO](https://github.com/DPMORENO)
+
+- [@echosonusharma](https://github.com/echosonusharma)
+
+- [@jacktmatthews](https://github.com/jacktmatthews)
+
+- [@GuruduttJangid97](https://github.com/GuruduttJangid97)
+
+- [@jeremyspofford](https://github.com/jeremyspofford)
+
+- [@davidmirza1](https://github.com/davidmirza1/)
+
+- [@stevetsaoch](https://github.com/stevetsaoch/)
+
+- [@chris-rimes](https://github.com/chris-rimes)
+
+-[@dathobek](https://github.com/dathobek/)
+
