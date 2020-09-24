@@ -1931,3 +1931,5 @@
 - [@majewski-piotr](https://github.com/majewski-piotr)
 
 - [@Fiuns](https://github.com/Fiuns)
+
+- [veyron-davids](https://github.com/veyron-davids)
