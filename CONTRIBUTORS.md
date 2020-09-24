@@ -1923,3 +1923,5 @@
 - [@dathobek](https://github.com/dathobek/)
 
 - [@amanbijalwan](https://github.com/amanbijalwan)
+
+- [@majewski-piotr](https://github.com/majewski-piotr)
