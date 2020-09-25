@@ -186,6 +186,8 @@
 
 - [@FurkanAydgan](https://github.com/FurkanAydgan)
 
+- [@G1Joshi](https://github.com/G1Joshi)
+
 - [@GLegatos](https://github.com/GLegatos/)
 
 - [@Garrik777](https://github.com/Garrik777/)
@@ -1278,6 +1280,8 @@
 
 - [@miamathews](https://github.com/miamathews)
 
+- [@makintomo04](https://github.com/makintomo04)
+
 - [@ming-tsai](https://github.com/ming-tsai)
 
 - [@minshen2012](https://github.com/minshen2012)
@@ -1614,7 +1618,7 @@
 
 - [@sumeetsingh39](https://github.com/sumeetsingh39)
 
-- [@sunkanmiglo]((https://github.com/sunkanmiglo/)
+- [@sunkanmiglo](https://github.com/sunkanmiglo/)
 
 - [@sunkanmiglo](https://github.com/sunkanmiglo/)
 
@@ -1955,3 +1959,27 @@
 - [@terencedangol](https://github.com/terencedangol)
 
 - [@snash24](https://github.com/snash24)
+
+- [@Mico5200](https://github.com/Mico52000)
+
+- [@BeshirK](https://github.com/BeshirK)
+
+- [@agrawalsourabh](https://github.com/agrawalsourabh)
+
+- [@TyphaineLeGales](https://github.com/TyphaineLeGales)
+
+- [@Dheeraj-1999](https://github.com/Dheeraj-1999/)
+
+- [@NorouziM](https://github.com/NorouziM/)
+
+- [@pawel-st](https://github.com/pawel-st)
+
+- [@rishik-m](https://github.com/rishik-m/)
+
+- [@AkashGit21](https://github.com/AkashGit21/)
+
+- [@chi-chen](https://github.com/chi-chen/)
+
+- [@AndreiProkayev](https://github.com/AndreiProkayev/)
+
+- [@Nick-Boe](https://github.com/Nick-Boe/)
