@@ -1976,6 +1976,8 @@
 
 - [@AkashGit21](https://github.com/AkashGit21/)
 
+- [@chi-chen](https://github.com/chi-chen/)
+
 - [@AndreiProkayev](https://github.com/AndreiProkayev/)
 
 - [@Nick-Boe](https://github.com/Nick-Boe/)
