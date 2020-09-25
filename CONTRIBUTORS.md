@@ -186,6 +186,8 @@
 
 - [@FurkanAydgan](https://github.com/FurkanAydgan)
 
+- [@G1Joshi](https://github.com/G1Joshi)
+
 - [@GLegatos](https://github.com/GLegatos/)
 
 - [@Garrik777](https://github.com/Garrik777/)
