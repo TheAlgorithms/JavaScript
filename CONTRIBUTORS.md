@@ -1618,7 +1618,7 @@
 
 - [@sumeetsingh39](https://github.com/sumeetsingh39)
 
-- [@sunkanmiglo]((https://github.com/sunkanmiglo/)
+- [@sunkanmiglo](https://github.com/sunkanmiglo/)
 
 - [@sunkanmiglo](https://github.com/sunkanmiglo/)
 
