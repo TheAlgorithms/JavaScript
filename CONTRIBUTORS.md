@@ -1958,6 +1958,8 @@
 
 - [@terencedangol](https://github.com/terencedangol)
 
+- [@snash24](https://github.com/snash24)
+
 - [@Mico5200](https://github.com/Mico52000)
 
 - [@BeshirK](https://github.com/BeshirK)
