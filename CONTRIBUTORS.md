@@ -1979,3 +1979,5 @@
 - [@AndreiProkayev](https://github.com/AndreiProkayev/)
 
 - [@Nick-Boe](https://github.com/Nick-Boe/)
+
+- [@jaythagod](https://github.com/jaythagod)
