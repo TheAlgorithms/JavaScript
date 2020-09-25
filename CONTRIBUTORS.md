@@ -1960,7 +1960,7 @@
 
 - [@Mico5200](https://github.com/Mico52000)
 
--[@BeshirK](https://github.com/BeshirK)
+- [@BeshirK](https://github.com/BeshirK)
 
 - [@agrawalsourabh](https://github.com/agrawalsourabh)
 
@@ -1977,3 +1977,5 @@
 - [@AkashGit21](https://github.com/AkashGit21/)
 
 - [@AndreiProkayev](https://github.com/AndreiProkayev/)
+
+- [@Nick-Boe](https://github.com/Nick-Boe/)
