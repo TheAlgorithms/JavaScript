@@ -1280,6 +1280,8 @@
 
 - [@miamathews](https://github.com/miamathews)
 
+- [@makintomo04](https://github.com/makintomo04)
+
 - [@ming-tsai](https://github.com/ming-tsai)
 
 - [@minshen2012](https://github.com/minshen2012)
