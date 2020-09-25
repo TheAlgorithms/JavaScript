@@ -1280,6 +1280,8 @@
 
 - [@miamathews](https://github.com/miamathews)
 
+- [@makintomo04](https://github.com/makintomo04)
+
 - [@ming-tsai](https://github.com/ming-tsai)
 
 - [@minshen2012](https://github.com/minshen2012)
@@ -1616,7 +1618,7 @@
 
 - [@sumeetsingh39](https://github.com/sumeetsingh39)
 
-- [@sunkanmiglo]((https://github.com/sunkanmiglo/)
+- [@sunkanmiglo](https://github.com/sunkanmiglo/)
 
 - [@sunkanmiglo](https://github.com/sunkanmiglo/)
 
@@ -1958,7 +1960,7 @@
 
 - [@Mico5200](https://github.com/Mico52000)
 
--[@BeshirK](https://github.com/BeshirK)
+- [@BeshirK](https://github.com/BeshirK)
 
 - [@agrawalsourabh](https://github.com/agrawalsourabh)
 
@@ -1976,3 +1978,6 @@
 
 - [@chi-chen](https://github.com/chi-chen/)
 
+- [@AndreiProkayev](https://github.com/AndreiProkayev/)
+
+- [@Nick-Boe](https://github.com/Nick-Boe/)
