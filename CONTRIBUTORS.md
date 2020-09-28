@@ -1830,6 +1830,8 @@
 
 - [@ricobadico](https://github.com/ricobadico/)
 
+- [@jamesdimonaco](https://github.com/JamesDimonaco)
+
 - [@cankitm](https://github.com/cankitm/)
 
 - [@jmejiamu](https://github.com/jmejiamu/)
