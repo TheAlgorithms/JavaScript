@@ -1984,9 +1984,9 @@
 
 - [@AndreiProkayev](https://github.com/AndreiProkayev/)
 
--[@AndriusAlimas](https//github.com/AndriusAlimas/)
+- [@AndriusAlimas](https//github.com/AndriusAlimas/)
 
--[@akshukla283](https://github.com/akshukla283)
+- [@akshukla283](https://github.com/akshukla283)
 
 - [@Nick-Boe](https://github.com/Nick-Boe/)
 
@@ -2036,7 +2036,7 @@
 
 - [@gabibrouze](https://github.com/gabibrouze/)
 
--[@abhishek131023](https://github.com/abhishek131023/)
+- [@abhishek131023](https://github.com/abhishek131023/)
 
 - [@Nenamed](https://github.com/nenamed)
 
@@ -2054,3 +2054,4 @@
 
 - [@pedrohperoni](https://github.com/pedrohperoni)
 
+- [@HeatherIrvin](https://github.com/HeatherIrvin)
