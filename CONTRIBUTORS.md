@@ -2052,4 +2052,4 @@
 
 - [@pedrohperoni](https://github.com/pedrohperoni)
 
-- [@valeriepadel](https://github.com/valeriepadel/)
+- [@valeriepadel](https://github.com/valeriepadel)
