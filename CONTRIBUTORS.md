@@ -1984,9 +1984,9 @@
 
 - [@AndreiProkayev](https://github.com/AndreiProkayev/)
 
--[@AndriusAlimas](https//github.com/AndriusAlimas/)
+- [@AndriusAlimas](https//github.com/AndriusAlimas/)
 
--[@akshukla283](https://github.com/akshukla283)
+- [@akshukla283](https://github.com/akshukla283)
 
 - [@Nick-Boe](https://github.com/Nick-Boe/)
 
@@ -2036,10 +2036,26 @@
 
 - [@gabibrouze](https://github.com/gabibrouze/)
 
--[@abhishek131023](https://github.com/abhishek131023/)
+- [@abhishek131023](https://github.com/abhishek131023/)
 
 - [@Nenamed](https://github.com/nenamed)
 
 - [@ivioje](https://github.com/ivioje)
 
 -[@Shashankgowda092](https://github.com/Shashankgowda092)
+
+- [@Jackson162](https://github.com/Jackson162)
+
+- [@mcgha](https://github.com/mcgha/)
+
+- [@SahilBtara](https://github.com/SahilBtara)
+
+- [@anvi08](https://github.com/anvi08)
+
+- [@shubham-kumar10](https://github.com/shubham-kumar10)
+
+- [@pedrohperoni](https://github.com/pedrohperoni)
+
+- [@HeatherIrvin](https://github.com/HeatherIrvin)
+
+- [@valeriepadel](https://github.com/valeriepadel)
