@@ -2040,4 +2040,4 @@
 
 - [@Nenamed](https://github.com/nenamed)
 
-- [@ivioje] (https://github.com/ivioje)
+- [@ivioje](https://github.com/ivioje)
