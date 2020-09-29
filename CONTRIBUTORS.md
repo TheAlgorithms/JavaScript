@@ -2070,4 +2070,6 @@
 
 - [@SrishtiAvalakki](https://github.com/SrishtiAvalakki)
 
+- [@fredericbarry](https://github.com/fredericbarry)
+
 - [@MediaExpres](https://github.com/MediaExpres)
