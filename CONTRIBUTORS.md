@@ -98,6 +98,8 @@
 
 - [@Bidonsaha](https://github.com/Bidonsaha)
 
+- [@Arnoldrx](https://github.com/Arnoldrx)
+
 - [@BigBenQQ](https://github.com/BigBenQQ)
 
 - [@Bipin-Kalakheti](https://github.com/Bipin-Kalakheti/)
