@@ -2064,6 +2064,8 @@
 
 - [@pedrohperoni](https://github.com/pedrohperoni)
 
+- [@Hassanolowofela](https://github.com/Hassanolowofela)
+ 
 - [@HeatherIrvin](https://github.com/HeatherIrvin)
 
 - [@valeriepadel](https://github.com/valeriepadel)
