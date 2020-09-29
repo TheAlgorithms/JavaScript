@@ -2,6 +2,8 @@
 
 - [@0xaj](https://github.com/0xaj)
 
+-[@almasob](https://github.com/almasob)
+
 - [@17Piyush](https://github.com/17Piyush/)
 
 - [@1Dree](https://github.com/1Dree)
