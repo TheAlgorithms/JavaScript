@@ -2038,8 +2038,6 @@
 
 - [@Surya742](https://github.com/Surya742)
 
-- [@kyriakoszafeiropoulos](https://github.com/kyriakoszafeiropoulos)
-
 - [@gabibrouze](https://github.com/gabibrouze/)
 
 -[@abhishek131023](https://github.com/abhishek131023/)
@@ -2091,3 +2089,5 @@
 - [@bodo79](https://github.com/bodo79)
 
 - [@rsbastos](https://github.com/rsbastos)
+
+- [@kyriakoszafeiropoulos](https://github.com/kyriakoszafeiropoulos)
