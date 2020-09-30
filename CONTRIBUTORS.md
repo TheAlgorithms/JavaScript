@@ -2054,7 +2054,7 @@
 
 - [@ivioje](https://github.com/ivioje)
 
--[@Shashankgowda092](https://github.com/Shashankgowda092)
+- [@Shashankgowda092](https://github.com/Shashankgowda092)
 
 - [@Jackson162](https://github.com/Jackson162)
 
@@ -2116,8 +2116,10 @@
 
 - [@CJHarriz](https://github.com/CJHarriz)
 
--[@didiviking890](https://github.com/didiviking890)
+- [@didiviking890](https://github.com/didiviking890)
 
--[@jitendersinghwp](https://github.com/jitendersinghwp)
+- [@jitendersinghwp](https://github.com/jitendersinghwp)
 
--[@armedev](https://github.com/armedev)
+- [@armedev](https://github.com/armedev)
+
+- [@aut0bee](https://github.com/aut0bee)
