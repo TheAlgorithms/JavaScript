@@ -2,6 +2,7 @@
   * @author cpunt
   * BFS Traversal
   * DFS inOrder, preOrder and postOrder traversal
+  * https://en.wikipedia.org/wiki/Tree_traversal
 */
 class TreeNode {
   constructor (data) {
