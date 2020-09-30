@@ -1,0 +1,2 @@
+let programmingLanguages = ["C", "C++", "Java","Python","Ruby"]; 
+console.log(programmingLanguages[2]); //calling Java
