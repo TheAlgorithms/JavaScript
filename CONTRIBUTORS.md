@@ -2040,8 +2040,6 @@
 
 - [@Surya742](https://github.com/Surya742)
 
-- [@kyriakoszafeiropoulos](https://github.com/kyriakoszafeiropoulos)
-
 - [@gabibrouze](https://github.com/gabibrouze/)
 
 - [@abhishek131023](https://github.com/abhishek131023/)
@@ -2098,6 +2096,8 @@
 
 - [@rsbastos](https://github.com/rsbastos)
 
+- [@kyriakoszafeiropoulos](https://github.com/kyriakoszafeiropoulos)
+
 - [@aut0bee](https://github.com/aut0bee)
 
 - [@kelcodedev](https://github.com/kelcodedev)
@@ -2123,5 +2123,3 @@
 - [@jitendersinghwp](https://github.com/jitendersinghwp)
 
 - [@armedev](https://github.com/armedev)
-
-- [@aut0bee](https://github.com/aut0bee)
