@@ -2098,6 +2098,8 @@
 
 - [@rsbastos](https://github.com/rsbastos)
 
+- [@chiatzuma](https://github.com/chiatzuma)
+
 - [@kyriakoszafeiropoulos](https://github.com/kyriakoszafeiropoulos)
 
 - [@aut0bee](https://github.com/aut0bee)
