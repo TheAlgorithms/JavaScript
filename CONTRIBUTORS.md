@@ -2,7 +2,7 @@
 
 - [@0xaj](https://github.com/0xaj)
 
--[@almasob](https://github.com/almasob)
+- [@almasob](https://github.com/almasob)
 
 - [@17Piyush](https://github.com/17Piyush/)
 
@@ -197,6 +197,8 @@
 - [@Garrik777](https://github.com/Garrik777/)
 
 - [@Gaurav29Shinde](https://github.com/Gaurav29Shinde)
+
+- [@gebleksengek](https://github.com/gebleksengek)
 
 - [@George-Nayak](https://github.com/George-Nayak)
 
@@ -2040,7 +2042,7 @@
 
 - [@gabibrouze](https://github.com/gabibrouze/)
 
--[@abhishek131023](https://github.com/abhishek131023/)
+- [@abhishek131023](https://github.com/abhishek131023/)
 
 - [@roelzaps](https://github.com/roelzaps/)
 
@@ -2052,7 +2054,7 @@
 
 - [@ivioje](https://github.com/ivioje)
 
--[@Shashankgowda092](https://github.com/Shashankgowda092)
+- [@Shashankgowda092](https://github.com/Shashankgowda092)
 
 - [@Jackson162](https://github.com/Jackson162)
 
@@ -2069,7 +2071,7 @@
 - [@plhsu19](https://github.com/plhsu19)
 
 - [@Hassanolowofela](https://github.com/Hassanolowofela)
- 
+
 - [@HeatherIrvin](https://github.com/HeatherIrvin)
 
 - [@valeriepadel](https://github.com/valeriepadel)
@@ -2080,9 +2082,13 @@
 
 - [@MediaExpres](https://github.com/MediaExpres)
 
+- [@Gouranga Satapathy](https://github.com/gourangaVIT)
+
 - [@woobywu](https://github.com/woobywu)
 
 - [@salehge901](https://github.com/salehge901)
+
+- [@Clavz25](https://github.com/clavz25)
 
 - [@MohamedFadelMoumeni](https://github.com/MohamedFadelMoumeni)
 
@@ -2091,3 +2097,29 @@
 - [@rsbastos](https://github.com/rsbastos)
 
 - [@kyriakoszafeiropoulos](https://github.com/kyriakoszafeiropoulos)
+
+- [@aut0bee](https://github.com/aut0bee)
+
+- [@kelcodedev](https://github.com/kelcodedev)
+
+- [@tho6](https://github.com/tho6)
+
+- [@azhar0504](https://github.com/azhar0504/)
+
+- [@House42](https://github.com/House42/)
+
+- [@morteza666](https://github.com/morteza666)
+
+- [@JAlblas](https://github.com/JAlblas)
+
+- [@ivioje](https://github.com/ivioje)
+
+- [@Jackson162](https://github.com/Jackson162)
+
+- [@CJHarriz](https://github.com/CJHarriz)
+
+- [@didiviking890](https://github.com/didiviking890)
+
+- [@jitendersinghwp](https://github.com/jitendersinghwp)
+
+- [@armedev](https://github.com/armedev)
