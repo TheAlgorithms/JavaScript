@@ -1,4 +1,5 @@
 # CONTRIBUTORS
+- [@Attupatil](https://github.com/Attupatil)
 
 - [@0xaj](https://github.com/0xaj)
 
