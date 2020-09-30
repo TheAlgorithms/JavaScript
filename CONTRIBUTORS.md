@@ -2068,6 +2068,8 @@
 
 - [@pedrohperoni](https://github.com/pedrohperoni)
 
+- [@aviad198](https://github.com/aviad198/)
+
 - [@plhsu19](https://github.com/plhsu19)
 
 - [@Hassanolowofela](https://github.com/Hassanolowofela)
@@ -2123,5 +2125,3 @@
 - [@jitendersinghwp](https://github.com/jitendersinghwp)
 
 - [@armedev](https://github.com/armedev)
-
-- [@aut0bee](https://github.com/aut0bee)
