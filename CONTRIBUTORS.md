@@ -2095,3 +2095,5 @@
 - [@aut0bee](https://github.com/aut0bee)
 
 - [@kelcodedev](https://github.com/kelcodedev)
+
+- [@tho6](https://github.com/tho6)
