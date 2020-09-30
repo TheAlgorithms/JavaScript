@@ -1,5 +1,6 @@
 function sieveOfEratosthenes (n) {
   /*
+     * Source: https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes
      * Calculates prime numbers till a number n
      * :param n: Number upto which to calculate primes
      * :return: A boolean list contaning only primes
@@ -10,7 +11,7 @@ function sieveOfEratosthenes (n) {
   const sqrtn = Math.ceil(Math.sqrt(n))
   for (let i = 2; i <= sqrtn; i++) {
     if (primes[i]) {
-      for (let j = 2 * i; j <= n; j += i) {
+      for (let j = i * i; j <= n; j += i) {
         primes[j] = false
       }
     }
