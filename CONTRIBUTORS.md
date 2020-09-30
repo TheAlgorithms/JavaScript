@@ -198,6 +198,8 @@
 
 - [@Gaurav29Shinde](https://github.com/Gaurav29Shinde)
 
+- [@gebleksengek](https://github.com/gebleksengek)
+
 - [@George-Nayak](https://github.com/George-Nayak)
 
 - [@GiAna-A](https://github.com/GiAna-A)
@@ -2038,8 +2040,6 @@
 
 - [@Surya742](https://github.com/Surya742)
 
-- [@kyriakoszafeiropoulos](https://github.com/kyriakoszafeiropoulos)
-
 - [@gabibrouze](https://github.com/gabibrouze/)
 
 - [@abhishek131023](https://github.com/abhishek131023/)
@@ -2054,7 +2054,7 @@
 
 - [@ivioje](https://github.com/ivioje)
 
--[@Shashankgowda092](https://github.com/Shashankgowda092)
+- [@Shashankgowda092](https://github.com/Shashankgowda092)
 
 - [@Jackson162](https://github.com/Jackson162)
 
@@ -2067,6 +2067,8 @@
 - [@shubham-kumar10](https://github.com/shubham-kumar10)
 
 - [@pedrohperoni](https://github.com/pedrohperoni)
+
+- [@aviad198](https://github.com/aviad198/)
 
 - [@plhsu19](https://github.com/plhsu19)
 
@@ -2096,6 +2098,10 @@
 
 - [@rsbastos](https://github.com/rsbastos)
 
+- [@chiatzuma](https://github.com/chiatzuma)
+
+- [@kyriakoszafeiropoulos](https://github.com/kyriakoszafeiropoulos)
+
 - [@aut0bee](https://github.com/aut0bee)
 
 - [@kelcodedev](https://github.com/kelcodedev)
@@ -2104,9 +2110,13 @@
 
 - [@azhar0504](https://github.com/azhar0504/)
 
+- [@brokenSensor](https://github.com/brokenSensor)
+
 - [@House42](https://github.com/House42/)
 
 - [@morteza666](https://github.com/morteza666)
+
+- [@fnonato](https://github.com/fnonato)
 
 - [@JAlblas](https://github.com/JAlblas)
 
@@ -2119,3 +2129,11 @@
 - [@didiviking890](https://github.com/didiviking890)
 
 - [@jitendersinghwp](https://github.com/jitendersinghwp)
+
+- [@monir-007](https://github.com/monir-007)
+
+- [@didiviking890](https://github.com/didiviking890)
+
+- [@jitendersinghwp](https://github.com/jitendersinghwp)
+
+- [@armedev](https://github.com/armedev)
