@@ -3,6 +3,7 @@
 // This algorithm accepts two strings, known as pattern and text, and search for the pattern within the text in complexity of O(n+k),
 // where n is the length of the text and k is the length of the pattern.
 // This algorithm returns an array, which contains indexes of every match.
+// See: https://en.wikipedia.org/wiki/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm
 
 const search = (text, pattern) => {
   if (typeof text !== 'string') {
