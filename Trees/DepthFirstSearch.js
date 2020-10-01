@@ -25,13 +25,13 @@ function traverseDFS (root) {
 }
 
 function searchDFS (tree, value) {
-  var stack = []
+  let stack = []
 
   stack.push(tree[0])
 
   while (stack.length !== 0) {
     for (let i = 0; i < stack.length; i++) {
-      var node = stack.pop()
+      let node = stack.pop()
 
       if (node.value === value) {
         return node
