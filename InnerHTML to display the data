@@ -1,0 +1,53 @@
+<!DOCTYPE html> 
+
+<html> 
+
+      
+
+<head> 
+
+    <title> 
+
+        JavaScript Output using innerHTML 
+
+    </title> 
+
+</head> 
+
+  
+
+<body> 
+
+    <h1>GeeksforGeeks</h1> 
+
+  
+
+    <h2> 
+
+        JavaScript Display Possibilities 
+
+        Using innerHTML 
+
+    </h2> 
+
+  
+
+    <p id="GFG"></p> 
+
+      
+
+    <!-- Script to uses innerHTML -->
+
+    <script> 
+
+        document.getElementById("GFG").innerHTML 
+
+                = 10 * 2; 
+
+    </script> 
+
+</body> 
+
+  
+
+</html>              
