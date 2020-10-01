@@ -1,4 +1,4 @@
-# The Algorithms - JavaScript
+# Data Structures and Algorithms Basic and Advanced Using Javascript 
 
 
 [![contributions welcome](https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3&style=flat-square)](https://github.com/TheAlgorithms/Javascript/blob/master/CONTRIBUTING.md)&nbsp;
