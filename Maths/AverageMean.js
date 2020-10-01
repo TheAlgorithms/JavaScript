@@ -11,7 +11,7 @@
         https://en.wikipedia.org/wiki/Mean
 */
 
-function mean (nums) {
+function mean (nums) { // This is a function named mean whitch nums in the parentheses
   'use strict'
   var sum = 0
   var avg
