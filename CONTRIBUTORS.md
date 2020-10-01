@@ -2172,14 +2172,21 @@
 
 - [@mfarchana](https://github.com/mfarchana)
 
-- [@kshashank231](https://github.com/kshashank231)
 
 - [@Axe810](https://github.com/Ankit810)
+
+- [@deepakneog](https://github.com/deepakneog)
 
 - [@jayant2014](https://github.com/jayant2014)
 
 - [@AaronAwYewChung](https://github.com/AaronAwYewChung)
 
+- [@jitendersinghwp](https://github.com/jitendersinghwp)
+
+- [@taniyahinduja](https://github.com/taniyahinduja)
+
 - [@sskywalker](https://github.com/SskYwaLkeR)
 
 - [@vicinalv](https://github.com/vicinalv)
+
+-[@kshashank231](https://github.com/kshashank231)
