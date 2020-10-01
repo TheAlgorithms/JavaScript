@@ -133,7 +133,8 @@ var LinkedList = (function () {
     if (index === 0) {
       node.next = currentNode
       this.head = node
-    } else {
+    }
+    else {
       while (currentIndex < index) {
         currentIndex++
         previousNode = currentNode

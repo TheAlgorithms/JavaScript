@@ -27,9 +27,11 @@ function calculate (x, y) {
     for (let j = 0; j < y.length + 1; j++) {
       if (i === 0) {
         dp[i][j] = j
-      } else if (j === 0) {
+      }
+      else if (j === 0) {
         dp[i][j] = i
-      } else {
+      }
+      else {
         dp[i][j] = minimum(dp[i - 1][j - 1] + costOfSubstitution(x.charAt(i - 1), y.charAt(j - 1)), dp[i - 1][j] + 1, dp[i][j - 1] + 1)
       }
     }

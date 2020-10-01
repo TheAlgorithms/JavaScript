@@ -233,7 +233,8 @@ function introsort (array, compare) {
         if (max !== cur) {
           swap(start + cur, start + max)
           cur = max
-        } else {
+        }
+        else {
           break
         }
       }
@@ -269,7 +270,8 @@ function introsort (array, compare) {
   }
   if (faulty) {
     console.log('WRONG!!')
-  } else {
+  }
+  else {
     console.log('RIGHT:)')
   }
 })();
