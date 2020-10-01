@@ -1,3 +1,5 @@
+// What is a binary search?  https://pt.wikipedia.org/wiki/Pesquisa_bin%C3%A1ria
+
 // Random Array sorted
 const MyArray = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 
