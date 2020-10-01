@@ -41,6 +41,5 @@ const Search = (number_to_find, Array) => {
     return false;
 }
 
-// Calling the function and seeing the results
-const search_result = Search(number_to_find, MyArray)
-console.log(search_result)
+// Calling the function and seeing the results (True if we can find the number and False if we don't)
+console.log(Search(number_to_find, MyArray))
