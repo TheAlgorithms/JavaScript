@@ -2164,6 +2164,6 @@
 
 - [@zizu1681](https://github.com/zizu1681/)
 
-- [@rocketrunner22) (https://github.com/rocketrunner22)
+- [@rocketrunner22](https://github.com/rocketrunner22)
 
 - [@Krykiet](https://github.com/Krykiet/)
