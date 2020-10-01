@@ -1,3 +1,5 @@
+// Resource: https://www.w3resource.com/javascript-exercises/javascript-recursion-function-exercise-1.php
+
 function factorial(x) {
   /*
     Calculates Factorial of a numbers 
