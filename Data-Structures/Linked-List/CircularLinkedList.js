@@ -2,6 +2,8 @@
 *
 * CircularLinkedList is a type of linked list where the last element links
 * to the head of the list
+*
+* read more: https://en.wikipedia.org/wiki/Linked_list#Circular_linked_list
 */
 
 function CircularLinkedList () {
