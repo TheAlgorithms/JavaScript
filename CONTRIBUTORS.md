@@ -2047,7 +2047,7 @@
 
 - [@gabibrouze](https://github.com/gabibrouze/)
 
-- [@sandeepbalachandran]https://github.com/sandeepbalachandran)
+- [@sandeepbalachandran](https://github.com/sandeepbalachandran)
 
 - [@abhishek131023](https://github.com/abhishek131023/)
 
