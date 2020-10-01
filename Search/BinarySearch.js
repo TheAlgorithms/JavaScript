@@ -28,9 +28,7 @@ function binarySearchRecursive (arr, x, low = 0, high = arr.length - 1) {
     return -1
   }
 }
-
 function binarySearchIterative (arr, x, low = 0, high = arr.length - 1) {
-  
   while (high >= low) {
     const mid = Math.floor(low + (high - low) / 2)
 
@@ -50,7 +48,6 @@ function binarySearchIterative (arr, x, low = 0, high = arr.length - 1) {
   // if low > high => we have searched the whole array without finding the item
   return -1 
 }
-
 
 /* ---------------------------------- Test ---------------------------------- */
 
