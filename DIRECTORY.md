@@ -89,6 +89,7 @@
 
 ## Recursive
   * [EucledianGCD](https://github.com/TheAlgorithms/Javascript/blob/master/Recursive/EucledianGCD.js)
+  * [TowerOfHanoi](https://github.com/TheAlgorithms/Javascript/blob/master/Recursive/TowerOfHanoi.js)
 
 ## Search
   * [BinarySearch](https://github.com/TheAlgorithms/Javascript/blob/master/Search/BinarySearch.js)
