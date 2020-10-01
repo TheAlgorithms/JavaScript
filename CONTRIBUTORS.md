@@ -2172,7 +2172,6 @@
 
 - [@mfarchana](https://github.com/mfarchana)
 
-- [@kshashank231](https://github.com/kshashank231)
 
 - [@Axe810](https://github.com/Ankit810)
 
@@ -2187,3 +2186,7 @@
 - [@taniyahinduja](https://github.com/taniyahinduja)
 
 - [@sskywalker](https://github.com/SskYwaLkeR)
+
+
+-[@kshashank231](https://github.com/kshashank231)
+
