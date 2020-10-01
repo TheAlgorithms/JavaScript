@@ -1,29 +1,26 @@
-function enAtbash(mensage) {    
+const enAtbash = (message) => {
+  const alphabet = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
+  const tebahpla = 'ZYXWVUTSRQPONMLKJIHGFEDCBA'
+  const alphabet1 = 'abcdefghijklmnopqrstuvwxyz'
+  const tebahpla1 = 'zyxwvutsrqponmlkjihgfedcba'
+  let decodedString = ''
 
-    var alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
-    var tebahpla = "ZYXWVUTSRQPONMLKJIHGFEDCBA";
-    var alphabet1 = "abcdefghijklmnopqrstuvwxyz";
-    var tebahpla1 = "zyxwvutsrqponmlkjihgfedcba";
-    var decoded_string = "";
-
-    for (var i = 0; i < mensage.length; i++) {
-        var coded_letra = mensage.charAt(i);
-        
-	if (/[^a-zA-Z]/.test(mensage[i])) {
-		decoded_string = decoded_string+mensage[i];	
-	}
-	else if (mensage[i] === mensage[i].toUpperCase()) {
-	    	var letraPosMayus = alphabet.indexOf(coded_letra);
-	    	var tebLetraPosMayus = tebahpla.charAt(letraPosMayus);
-	    	decoded_string = decoded_string+tebLetraPosMayus;
-        } else {
-	    	var letraPosMinus1 = alphabet1.indexOf(coded_letra);
-	    	var tebLetraPosMinus1 = tebahpla1.charAt(letraPosMinus1);
-	    	decoded_string = decoded_string + tebLetraPosMinus1;
-        }
-
+  for (let i = 0; i < message.length; i++) {
+    const codedLetra = message.charAt(i)
+    if (/[^a-zA-Z]/.test(message[i])) {
+      decodedString = decodedString + message[i]
+    } else if (message[i] === message[i].toUpperCase()) {
+      const letraPosMayus = alphabet.indexOf(codedLetra)
+      const tebLetraPosMayus = tebahpla.charAt(letraPosMayus)
+      decodedString = decodedString + tebLetraPosMayus
+    } else {
+      const letraPosMinus1 = alphabet1.indexOf(codedLetra)
+      const tebLetraPosMinus1 = tebahpla1.charAt(letraPosMinus1)
+      decodedString = decodedString + tebLetraPosMinus1
     }
-    return decoded_string;
+  }
+  return decodedString
 }
 
-document.write(enAtbash("Hello World!"));
+// testing code
+console.log(enAtbash('Hello World!'))
