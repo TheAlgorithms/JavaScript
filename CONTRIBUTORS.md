@@ -1,4 +1,5 @@
 # CONTRIBUTORS
+
 -[@yehezkielgunawan](https://github.com/yehezkielgunawan)
 
 - [@Attupatil](https://github.com/Attupatil)
@@ -2052,6 +2053,8 @@
 - [@abhishek131023](https://github.com/abhishek131023/)
 
 - [@ivioje](https://github.com/ivioje)
+
+- [@Veeresh-Rex](https://github.com/Veeresh-Rex)
 
 - [@Nenamed](https://github.com/Nenamed/)
 
