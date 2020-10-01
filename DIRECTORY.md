@@ -42,6 +42,7 @@
     * [StackES6](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Stack/StackES6.js)
   * Tree
     * [BinarySearchTree](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Tree/BinarySearchTree.js)
+    * [Trie](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Tree/Trie.js)
 
 ## Dynamic-Programming
   * [CoinChange](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/CoinChange.js)
