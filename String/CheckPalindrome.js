@@ -3,12 +3,12 @@
 const checkPalindrome = (str) => {
   // check that input is a string
   if (typeof str !== 'string') {
-    return 'Not a string'
+    return ('Not a string');
   }
   // Store the length of the input string in a variable
   const length = str.length
   if (length === 0) {
-    return 'Empty string'
+    return ('Empty string');
   }
   // Iterate through the length of the string
   // Compare the first character to the last, the second character to the second last, and so on
@@ -18,7 +18,7 @@ const checkPalindrome = (str) => {
       return 'Not a Palindrome'
     }
   }
-  return 'Palindrome'
+  return ('Palindrome');
 }
 
 console.log(checkPalindrome('madam'))
