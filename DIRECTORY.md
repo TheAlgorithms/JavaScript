@@ -73,6 +73,7 @@
 ## Maths
   * [Abs](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/Abs.js)
   * [AverageMean](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/AverageMean.js)
+  * [digitSum](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/digitSum.js)
   * [Factorial](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/Factorial.js)
   * [Fibonacci](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/Fibonacci.js)
   * [FindHcf](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/FindHcf.js)
