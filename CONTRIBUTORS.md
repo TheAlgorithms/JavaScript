@@ -2,6 +2,8 @@
 
 - [@0xaj](https://github.com/0xaj)
 
+- [@kelvinchan2406](https://github.com/kelvinchan2406)
+
 - [@17Piyush](https://github.com/17Piyush/)
 
 - [@1Dree](https://github.com/1Dree)
