@@ -5,6 +5,8 @@
 
 - [@0xaj](https://github.com/0xaj)
 
+- [@kumaryash18](https://github.com/kumaryash18)
+
 - [@almasob](https://github.com/almasob)
 
 - [@17Piyush](https://github.com/17Piyush/)
