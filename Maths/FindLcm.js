@@ -1,15 +1,3 @@
-/*
-    author: PatOnTheBack
-    license: GPL-3.0 or later
-
-    Modified from:
-        https://github.com/TheAlgorithms/Python/blob/master/maths/findLcm.py
-
-    More about LCM:
-        https://en.wikipedia.org/wiki/Least_common_multiple
-*/
-
-'use strict'
 
 // Find the LCM of two numbers.
 function findLcm(num1, num2) {
