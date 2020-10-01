@@ -46,7 +46,7 @@ function binarySearchIterative (arr, x, low = 0, high = arr.length - 1) {
     }
   }
   // if low > high => we have searched the whole array without finding the item
-  return -1 
+  return -1
 }
 
 /* ---------------------------------- Test ---------------------------------- */
