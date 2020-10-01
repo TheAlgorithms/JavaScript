@@ -1,5 +1,5 @@
 // upper converts lowercase sting to upper case
-// inputs is 1 string i.e. str
+// input is 1 string i.e. str
 const upper = (str) => {
   // check that inputs are string
   if (typeof str !== "string") {
@@ -7,6 +7,7 @@ const upper = (str) => {
   }
 
   var convertedString = "";
+
   for (let i = 0; i < str.length; i++) {
     if (str.charCodeAt(i) >= 97 && str.charCodeAt(i) <= 122) {
       convertedString =
