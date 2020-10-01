@@ -22,7 +22,7 @@ const main = () => {
   // Factors(12)
   // > [ 1, 2, 3, 4, 6, 12 ]
   console.log(Factors(12))
-  // Faxtors(15)
+  // Factors(15)
   // > [ 1, 3, 5, 15 ]
   console.log(Factors(15))
 }
