@@ -5,9 +5,9 @@ function solve (graph, s) {
   solutions[s].dist = 0
 
   while (true) {
-    let  p = null
-    let  neighbor = null
-    let  dist = Infinity
+    let p = null
+    let neighbor = null
+    let dist = Infinity
 
     for (const n in solutions) {
       if (!solutions[n]) { continue }
