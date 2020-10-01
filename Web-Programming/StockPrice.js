@@ -26,5 +26,10 @@ async function main () {
   await getStockPrice('AMZN')
     .then(response => console.log(`AMZN stock price: $ ${response}`))
 }
-
-main()
+try{
+  main()
+}
+catch(e){
+  console.log('An error has occured')
+}
+// you must call main() in try catch block to handle any error
