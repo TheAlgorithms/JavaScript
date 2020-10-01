@@ -1,8 +1,8 @@
 class ID{
-    static #Current_id=0;
+    static Current_id=0;
     id;
     constructor(){
-        this.id=++ID.#Current_id;
+        this.id=++ID.Current_id;
     }
 }
 let ids=[]
