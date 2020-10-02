@@ -1,10 +1,11 @@
-/*
+/**
     @param {string} a
     @param {string} b
     @return {number}
     
     The Hamming distance is one of several string metrics for measuring the edit distance between two sequences.
 */
+
 const hammingDistance = (a, b) => {
     if (a.length !== b.length) {
       throw new Error('Strings must be of the same length');
