@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@ShahinaShanu](https://github.com/ShahinaShanu)
+
 - [@0xaj](https://github.com/0xaj)
 
 - [@theneoterik](https://github.com/theneoterik)
