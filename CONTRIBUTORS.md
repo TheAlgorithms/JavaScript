@@ -2229,3 +2229,5 @@
 -[@ZakariaeJaafari](https://github.com/ZakariaeJaafari/)
 
 - [@Jalpy-Dev](https://github.com/Jalpy-Dev)
+
+- [@Ezequiel-CE](https://github.com/Ezequiel-CE)
