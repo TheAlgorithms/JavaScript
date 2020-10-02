@@ -1910,7 +1910,7 @@
 
 - [@snaxbox](https://github.com/snaxbox/)
 
-- [@sniggy10] (https://github.com/sniggy10/)
+- [@sniggy10](https://github.com/sniggy10/)
 
 - [@sohail019](https://github.com/sohail019)
 
