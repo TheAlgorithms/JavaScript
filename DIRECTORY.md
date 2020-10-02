@@ -1,5 +1,5 @@
 
-## Back-tracking
+## Back-Tracking
   * [KnightTour](https://github.com/TheAlgorithms/Javascript/blob/master/back-tracking/KnightTour.js)
   * [NQueen](https://github.com/TheAlgorithms/Javascript/blob/master/back-tracking/NQueen.js)
   * [Sudoku](https://github.com/TheAlgorithms/Javascript/blob/master/back-tracking/Sudoku.js)
