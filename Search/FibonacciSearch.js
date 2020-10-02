@@ -22,10 +22,10 @@
 const fibonacciSearch = (arr, x, n) => {
   let fib2 = 0 // (K-2)'th Fibonacci Number
   let fib1 = 1 // (K-1)'th Fibonacci Number.
-  let fibK = fib2 + fib1 //Kth Fibonacci
+  let fibK = fib2 + fib1 // Kth Fibonacci
 
   /* We want to store the smallest fibonacci number smaller such that
-  number is greater than or equal to n, we use fibK for this */
+    number is greater than or equal to n, we use fibK for this */
   while (fibK < n) {
     fib2 = fib1
     fib1 = fibK
@@ -35,34 +35,32 @@ const fibonacciSearch = (arr, x, n) => {
   let offset = -1
 
   /* while there are elements to be checked. We compare arr[fib2] with x.
-  When fibM becomes 1, fib2 becomes 0 */
+    When fibM becomes 1, fib2 becomes 0 */
 
   while (fibK > 1) {
-  // Check if fibK is a valid location
-  const i = Math.min(offset + fib2, n - 1)
+    // Check if fibK is a valid location
+    const i = Math.min(offset + fib2, n - 1)
 
-  /*  If x is greater than the value at
-  index fib2, Partition the subarray array
-  from offset to i */
+    /*  If x is greater than the value at
+      index fib2, Partition the subarray array
+      from offset to i */
     if (arr[i] < x) {
       fibK = fib1
       fib1 = fib2
       fib2 = fibK - fib1
       offset = i
       /* If x is greater than the value at
-      index fib2, cut the subarray array
-      from offset to i */
-    }
-    else if (arr[i] > x) {
+            index fib2, cut the subarray array
+            from offset to i */
+    } else if (arr[i] > x) {
       fibK = fib2
       fib1 = fib1 - fib2
       fib2 = fibK - fib1
-    }
+    } else {
     //  return index for found element
-    else {
       return i
     }
-}
+  }
 
   //    comparing the last element with x */
   if (fib1 && arr[offset + 1] === x) {
@@ -74,6 +72,6 @@ const fibonacciSearch = (arr, x, n) => {
 // Example
 const myArray = [10, 22, 35, 40, 45, 50, 80, 82, 85, 90, 100]
 const n = myArray.length
-const  x = 90
+const x = 90
 const fibFinder = fibonacciSearch(myArray, x, n)
 console.log('Element found at index:', fibFinder)
