@@ -22,6 +22,6 @@ const hammingDistance = (a, b) => {
 }
 
 //testing
-console.log(hammingDistance('1011101', '1001001'))//2
-console.log(hammingDistance('priyanshu', 'priyanshi'))//1
+console.log(hammingDistance('1011101', '1001001'))
+console.log(hammingDistance('priyanshu', 'priyanshi'))
   
