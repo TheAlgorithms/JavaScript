@@ -1,14 +1,22 @@
-var memo = {};
-var fib = function(n) {
-    if (n === 0 || n === 1) {
-        return n;
-    } else if (memo[n]) {
-            return memo[n];
-    } else {
-        var result = fib(n - 1) + fib(n - 2);
-        memo[n] = result;
-        return result;
+//https://en.wikipedia.org/wiki/Fibonacci_number
+
+var fib = function(N) {
+    let memo = new Array(N + 1)
+    memo[0] = 0
+    memo[1] = 1
+    for(let i = 2; i <= N; i++){
+        memo[i] = memo[i - 1] + memo[i - 2]
     }
+    return memo[N]
 };
 
 fib(5);
+
+function main () {
+    const number = 5;
+    
+    console.log( number + 'th Fibonacci number is' + fib(number));
+    
+  };
+  
+main();
