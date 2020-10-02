@@ -22,6 +22,8 @@
 
 - [@Abishai-Mumba](https://github.com/Abishai-Mumba/)
 
+- [@LucasDamascenoS](https://github.com/LucasDamascenoS/)
+
 - [@AbrAlbe](https://github.com/AbrAlbe)
 
 - [@Achal Jhawar](https://github.com/achaljhawar)
