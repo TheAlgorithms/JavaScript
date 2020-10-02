@@ -2231,3 +2231,5 @@
 - [@Jalpy-Dev](https://github.com/Jalpy-Dev)
 
 - [@Ezequiel-CE](https://github.com/Ezequiel-CE)
+
+- [@RantosKonstantinos] (https://github.com/RantosKonstantinos)
