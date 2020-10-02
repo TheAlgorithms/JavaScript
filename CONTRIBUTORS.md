@@ -2182,6 +2182,8 @@
 
 - [@Krykiet](https://github.com/Krykiet/)
 
+- [@a3har](https://github.com/a3har/)
+
 - [@hishaamu](https://github.com/hishaamu)
 
 - [@cassiogroh](https://github.com/cassiogroh)
