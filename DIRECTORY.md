@@ -1,5 +1,5 @@
 
-## back-tracking
+## Back-tracking
   * [KnightTour](https://github.com/TheAlgorithms/Javascript/blob/master/back-tracking/KnightTour.js)
   * [NQueen](https://github.com/TheAlgorithms/Javascript/blob/master/back-tracking/NQueen.js)
   * [Sudoku](https://github.com/TheAlgorithms/Javascript/blob/master/back-tracking/Sudoku.js)
@@ -98,7 +98,7 @@
   * [JumpSearch](https://github.com/TheAlgorithms/Javascript/blob/master/Search/JumpSearch.js)
   * [LinearSearch](https://github.com/TheAlgorithms/Javascript/blob/master/Search/LinearSearch.js)
 
-## Sorts
+## Sorting Techniques
   * [BogoSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/BogoSort.js)
   * [BubbleSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/BubbleSort.js)
   * [BucketSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/BucketSort.js)
