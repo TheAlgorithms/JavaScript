@@ -9,6 +9,9 @@
 const PrimeCheck = (n) => {
   // input: n: int
   // output: boolean
+  if (n < 2) {
+    return false
+  }
   for (let i = 2; i * i <= n; i++) {
     if (n % i === 0) {
       return false
@@ -18,6 +21,9 @@ const PrimeCheck = (n) => {
 }
 
 const main = () => {
+  // PrimeCheck(1)
+  // > false
+  console.log(PrimeCheck(1))
   // PrimeCheck(1000003)
   // > true
   console.log(PrimeCheck(1000003))
