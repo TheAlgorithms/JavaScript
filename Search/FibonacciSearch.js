@@ -2,12 +2,12 @@
  * Fibonacci Search JavaScript Implementation
  * Author   Alhassan Atama Isiaka
  * Version v1.0.0
- * Copyright 2020 
+ * Copyright 2020
  * https://github.com/komputarist
  *
  * This implementation is based on Generalizing the Fibonacci search we
  * define the Fibonacci search of degree K. Like the Fibonacci search,
- * which it reduces to for K = 2, the Fibonacci search of degree K 
+ * which it reduces to for K = 2, the Fibonacci search of degree K
  * involves only addition and subtraction.
  *  Capocelli R.M. (1991) A Generalization of the Fibonacci Search. In:
  * Bergum G.E., Philippou A.N., Horadam A.F. (eds) Applications of Fibonacci
@@ -20,64 +20,62 @@
  ****************************************************************************/
 
 const fibonacciSearch = (arr, x, n) => {
-    let fib2 = 0 // (K-2)'th Fibonacci Number 
-    let fib1 = 1 //(K-1)'th Fibonacci Number. 
-    let fibK = fib2 + fib1 //Kth Fibonacci 
+    let fib2 = 0 // (K-2)'th Fibonacci Number
+    let fib1 = 1 // (K-1)'th Fibonacci Number.
+    let fibK = fib2 + fib1 //Kth Fibonacci
 
-    //We want to store the smallest fibonacci number smaller such that
-    //number is greater than or equal to n, we use fibK for this
+    /* We want to store the smallest fibonacci number smaller such that
+    number is greater than or equal to n, we use fibK for this */
     while (fibK < n) {
         fib2 = fib1
         fib1 = fibK
         fibK = fib2 + fib1
     }
-    //This marks the eliminated range from front
-    let offset = -1;
+    //  This marks the eliminated range from front
+    let offset = -1
 
-
-    /* while there are elements to be checked. We compare arr[fib2] with x. 
+    /* while there are elements to be checked. We compare arr[fib2] with x.
     When fibM becomes 1, fib2 becomes 0 */
 
     while (fibK > 1) {
+        // Check if fibK is a valid location
+        let i = Math.min(offset + fib2, n - 1)
 
-        // Check if fibK is a valid location 
-        i = Math.min(offset + fib2, n - 1)
-
-        /*  If x is greater than the value at  
-         index fib2, Partition the subarray array  
+        /*  If x is greater than the value at
+         index fib2, Partition the subarray array
          from offset to i */
         if (arr[i] < x) {
             fibK = fib1
             fib1 = fib2
             fib2 = fibK - fib1
             offset = i
-            // If x is greater than the value at  
-            // index fib2, cut the subarray array  
-            // from offset to i  
-        } else if (arr[i] > x) {
+            /* If x is greater than the value at
+            index fib2, cut the subarray array
+            from offset to i */
+        }
+        else if (arr[i] > x) {
             fibK = fib2
             fib1 = fib1 - fib2
             fib2 = fibK - fib1
         }
-        //return index for found element
+        //  return index for found element
         else {
             return i
         }
 
     }
 
-
-    //comparing the last element with x */ 
-    if (fib1 && arr[offset + 1] == x) {
-        return offset + 1;
+    //comparing the last element with x */
+    if (fib1 && arr[offset + 1] === x) {
+        return offset + 1
     }
-    //element not found. return -1  
+    //element not found. return -1
     return -1
 }
-// Example 
-arr = [10, 22, 35, 40, 45, 50,
+// Example
+const myArray = [10, 22, 35, 40, 45, 50,
     80, 82, 85, 90, 100]
-n = arr.length
-x = 40
-const fib = fibonacciSearch(arr, x, n)
-console.log("Element found at index:", fib)
+let n = myArray.length
+let x = 90
+const fibFinder = fibonacciSearch(myArray, x, n)
+console.log("Element found at index:", fibFinder)
