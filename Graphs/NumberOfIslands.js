@@ -1,4 +1,5 @@
 /* Number of Islands
+https://dev.to/rattanakchea/amazons-interview-question-count-island-21h6
 Given a 2d grid map of '1's (land) and '0's (water), count the number of islands. An island is surrounded by water and is formed by connecting adjacent lands horizontally or vertically. You may assume all four edges of the grid are all surrounded by water.
 
 two a dimensial grid map
@@ -49,37 +50,37 @@ const grid = [
   ['1', '1', '0', '0', '0'],
   ['1', '1', '0', '0', '0'],
   ['0', '0', '1', '0', '0'],
-  ['0', '0', '0', '1', '1'],
-];
+  ['0', '0', '0', '1', '1']
+]
 
 const islands = (matrixGrid) => {
-  const matrix = matrixGrid;
-  let counter = 0;
+  const matrix = matrixGrid
+  let counter = 0
 
   const flood = (row, col) => {
-    if (row < 0 || col < 0) return; // Off the map above or left
-    if (row >= matrix.length || col >= matrix[row].length) return; // Off the map below or right
+    if (row < 0 || col < 0) return // Off the map above or left
+    if (row >= matrix.length || col >= matrix[row].length) return // Off the map below or right
 
-    const tile = matrix[row][col];
-    if (tile !== '1') return;
+    const tile = matrix[row][col]
+    if (tile !== '1') return
 
-    matrix[row][col] = '0';
+    matrix[row][col] = '0'
 
-    flood(row + 1, col); // Down
-    flood(row - 1, col); // Up
-    flood(row, col + 1); // Right
-    flood(row, col - 1); // Left
-  };
+    flood(row + 1, col) // Down
+    flood(row - 1, col) // Up
+    flood(row, col + 1) // Right
+    flood(row, col - 1) // Left
+  }
 
   for (let row = 0; row < matrix.length; row += 1) {
     for (let col = 0; col < matrix[row].length; col += 1) {
-      const current = matrix[row][col];
+      const current = matrix[row][col]
       if (current === '1') {
-        flood(row, col);
-        counter += 1;
+        flood(row, col)
+        counter += 1
       }
     }
   }
-  return counter;
-};
-
+  return counter
+}
+console.log(islands(grid))
