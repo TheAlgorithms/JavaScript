@@ -5,20 +5,19 @@ const checkPalindrome = (str) => {
   if (typeof str !== 'string') {
     return 'Not a string'
   }
-  // Store the length of the input string in a variable
-  const length = str.length
-  if (length === 0) {
+  // Store the value of the input string in a variable
+  const reversedStr = str
+  //  check if the string is empty string
+  if (str.length === 0) {
     return 'Empty string'
   }
-  // Iterate through the length of the string
-  // Compare the first character to the last, the second character to the second last, and so on
-  for (let i = 0; i < length / 2; i++) {
-    // at the first instance of a mismatch
-    if (str[i] !== str[length - 1 - i]) {
-      return 'Not a Palindrome'
-    }
-  }
-  return 'Palindrome'
+  //  split the reversedStr into array using Array.prototype.split()
+  //  reverse the array using Array.prototype.reverse()
+  //  then concatenate all the elements of array to make it string again and reversed version of the input string using Array.prototype.join()
+  //  then use ternary operation to return whether the string is palindrome or not
+  return reversedStr.split('').reverse().join('') === str
+    ? 'Palindrome'
+    : 'Not a palindrome'
 }
 
 console.log(checkPalindrome('madam'))
