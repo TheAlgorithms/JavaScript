@@ -2228,4 +2228,7 @@
 
 -[@ZakariaeJaafari](https://github.com/ZakariaeJaafari/)
 
--[@dluckey123](https://github.com/dluckey123/)
+- [@dluckey123](https://github.com/dluckey123/)
+
+- [@Jalpy-Dev](https://github.com/Jalpy-Dev)
+
