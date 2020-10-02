@@ -2229,3 +2229,6 @@
 -[@ZakariaeJaafari](https://github.com/ZakariaeJaafari/)
 
 -[@finlay888](https://github.com/finlay888)
+
+- [@Jalpy-Dev](https://github.com/Jalpy-Dev)
+
