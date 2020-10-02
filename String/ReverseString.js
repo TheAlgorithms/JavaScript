@@ -1,45 +1,21 @@
-/**
- * A short example showing how to reverse a string
- * @flow
- */
-
-/**
- * Create a new string and append
- * @complexity O(n)
- */
-
-function ReverseStringIterative (string) {
-  let reversedString = ''
-  let index
-
-  for (index = string.length - 1; index >= 0; index--) {
-    reversedString += string[index]
+function ReverseString(string) {
+    // check that input is a string
+  if (typeof string !== 'string') {
+    return 'Not a string'
   }
-
-  return reversedString
-}
-
-/**
- * JS disallows string mutation so we're actually a bit slower.
- *
- * @complexity: O(n)
- *
- * 'some' -> 'eoms' -> 'emos'
- */
-
-function ReverseStringIterativeInplace (string) {
-  const _string = string.split('')
-
-  for (let i = 0; i < Math.floor(_string.length / 2); i++) {
-    const first = _string[i]
-    const second = _string[_string.length - 1 - i]
-    _string[i] = second
-    _string[_string.length - 1 - i] = first
+  //  store the value of input string to a variable
+  const _string = string
+  if(str.length === 0){
+    return  'Empty String'
   }
-
-  return _string.join('')
+  /* 
+  split the _string into array using Array.prototype.split(''), 
+  reverse the array using the Array.prototype.reverse(),
+  concatenate the elements of array using Array.prototype.join('') to make it string again
+  then return the reversed version of inputed string
+   */
+  return _string.split('').reverse().join('')
 }
 
 // testing
-console.log(ReverseStringIterative('Javascript'))
-console.log(ReverseStringIterativeInplace('Javascript'))
+console.log(ReverseString('Javascript'))
