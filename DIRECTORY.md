@@ -42,6 +42,7 @@
     * [StackES6](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Stack/StackES6.js)
   * Tree
     * [BinarySearchTree](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Tree/BinarySearchTree.js)
+    * [Trie](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Tree/Trie.js)
 
 ## Dynamic-Programming
   * [CoinChange](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/CoinChange.js)
@@ -73,18 +74,22 @@
 ## Maths
   * [Abs](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/Abs.js)
   * [AverageMean](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/AverageMean.js)
+  * [digitSum](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/digitSum.js)
   * [Factorial](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/Factorial.js)
   * [Fibonacci](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/Fibonacci.js)
   * [FindHcf](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/FindHcf.js)
   * [FindLcm](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/FindLcm.js)
   * [GridGet](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/GridGet.js)
+  * [ModularBinaryExponentiationRecursive](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/ModularBinaryExponentiationRecursive.js)
   * [Palindrome](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/Palindrome.js)
   * [PascalTriangle](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/PascalTriangle.js)
   * [PiApproximationMonteCarlo](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/PiApproximationMonteCarlo.js)
+  * [PrimeCheck](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/PrimeCheck.js)
   * [SieveOfEratosthenes](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/SieveOfEratosthenes.js)
 
 ## Recursive
   * [EucledianGCD](https://github.com/TheAlgorithms/Javascript/blob/master/Recursive/EucledianGCD.js)
+  * [TowerOfHanoi](https://github.com/TheAlgorithms/Javascript/blob/master/Recursive/TowerOfHanoi.js)
 
 ## Search
   * [BinarySearch](https://github.com/TheAlgorithms/Javascript/blob/master/Search/BinarySearch.js)
