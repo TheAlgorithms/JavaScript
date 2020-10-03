@@ -2231,3 +2231,12 @@
 - [@youssefhany96](https://github.com/youssefhany96)
 
 -[@ZakariaeJaafari](https://github.com/ZakariaeJaafari/)
+
+- [@Jalpy-Dev](https://github.com/Jalpy-Dev)
+
+- [@Ezequiel-CE](https://github.com/Ezequiel-CE)
+
+- [@RantosKonstantinos] (https://github.com/RantosKonstantinos)
+- [@ayushi2410] (https://github.com/ayushi2410/)
+
+- [@Muditxofficial](https://github.com/Muditxofficial)
