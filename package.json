@@ -15,6 +15,9 @@
     "jsdom": "^16.3.0",
     "node-fetch": "2.6.1"
   },
+  "standard": {
+    "env": [ "jest" ]
+  },
   "devDependencies": {
     "babel-jest": "^26.3.0",
     "doctest": "^0.17.1",

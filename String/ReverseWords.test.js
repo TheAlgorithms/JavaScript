@@ -1,10 +1,10 @@
-import { reverseWords } from './ReverseWords';
+import { reverseWords } from './ReverseWords'
 
 describe('reverseWords', () => {
   it('expects to reverse words to return a joined word', () => {
     const SUT = reverseWords('I Love JS')
     expect(SUT).toBe('JS Love I')
-  });
+  })
   it.each`
     input
     ${123456}
@@ -14,8 +14,8 @@ describe('reverseWords', () => {
     'expects to throw a type error given a value that is $input',
     ({ input }) => {
       expect(() => {
-        reverseWords(input);
-      }).toThrow('The given value is not a string');
+        reverseWords(input)
+      }).toThrow('The given value is not a string')
     }
-  );
-});
+  )
+})

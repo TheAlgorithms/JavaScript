@@ -9,7 +9,7 @@
  */
 
 function ReverseStringIterative (string) {
-  if (typeof string !== 'string'){
+  if (typeof string !== 'string') {
     throw new TypeError('The given value is not a string')
   }
   let reversedString = ''
@@ -31,7 +31,7 @@ function ReverseStringIterative (string) {
  */
 
 function ReverseStringIterativeInplace (string) {
-  if (typeof string !== 'string'){
+  if (typeof string !== 'string') {
     throw new TypeError('The given value is not a string')
   }
   const _string = string.split('')
@@ -46,4 +46,4 @@ function ReverseStringIterativeInplace (string) {
   return _string.join('')
 }
 
-export{ReverseStringIterative, ReverseStringIterativeInplace}
+export { ReverseStringIterative, ReverseStringIterativeInplace }

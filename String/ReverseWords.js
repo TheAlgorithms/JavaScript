@@ -1,5 +1,5 @@
 const reverseWords = (str) => {
-  if (typeof str !== 'string'){
+  if (typeof str !== 'string') {
     throw new TypeError('The given value is not a string')
   }
   // Split string into words
@@ -13,4 +13,4 @@ const reverseWords = (str) => {
   return reversedWords.join(' ')
 }
 
-export {reverseWords}
+export { reverseWords }
