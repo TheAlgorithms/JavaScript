@@ -2298,15 +2298,24 @@
 
 - [@Jalpy-Dev](https://github.com/Jalpy-Dev)
 
-- [@Jalpy-Dev](https://github.com/Jalpy-Dev)
+- [@mrashduke](https://github.com/mrashduke)
 
 - [@HarshilSheth](https://github.com/funpractice)
 
 - [@abhishekchandra2522k](https://github.com/abhishekchandra2522k)
 
--[@Adymoko](https://github.com/AdyMoko)
+- [@Adymoko](https://github.com/AdyMoko)
+
+- [@Tahrnndz](https://github.com/Tahrnndz)
+
+- [@TeodorCa](https://github.com/TeodorCa)
+
+-[@farhanali234](https://github.com/farhanali234)
+
+-[@AncaEmilia](https://github.com/AncaEmilia)
 
 - [@sanketmane](https://github.com/sanketmane)
 
 - [@Tahrnndz](https://github.com/Tahrnndz)
 
+-[@aniiketdongare07](https://github.com/aniiketdongare07)
