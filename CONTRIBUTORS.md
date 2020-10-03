@@ -2298,7 +2298,7 @@
 
 - [@Jalpy-Dev](https://github.com/Jalpy-Dev)
 
-- [@Jalpy-Dev](https://github.com/Jalpy-Dev)
+- [@mrashduke](https://github.com/mrashduke)
 
 - [@HarshilSheth](https://github.com/funpractice)
 
@@ -2307,3 +2307,11 @@
 - [@Adymoko](https://github.com/AdyMoko)
 
 - [@Tahrnndz](https://github.com/Tahrnndz)
+
+- [@TeodorCa](https://github.com/TeodorCa)
+
+-[@farhanali234](https://github.com/farhanali234)
+
+-[@AncaEmilia](https://github.com/AncaEmilia)
+
+-[@aniiketdongare07](https://github.com/aniiketdongare07)
