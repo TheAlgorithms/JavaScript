@@ -1,5 +1,5 @@
 /*
-* String Search
+ * String Search
  */
 
 function makeTable (str) {
@@ -52,22 +52,21 @@ function stringSearch (str, word) {
     }
     // Case 2.  `j` is equal to the length of `P`
     // that means that we reached the end of `P` and thus we found a match
+    // Next we have to update `j` because we want to save some time
+    // instead of updating to j = 0 , we can jump to the last character of the longest prefix well known so far.
+    // j-1 means the last character of `P` because j is actually `P.length`
+    // e.g.
+    // S =  a b a b d e
+    // P = `a b`a b
+    // we will jump to `a b` and we will compare d and a in the next iteration
+    // a b a b `d` e
+    //     a b `a` b
     if (j === word.length) {
       matches.push(i - j)
-      // Next we have to update `j` because we want to save some time
-      // instead of updating to j = 0 , we can jump to the last character of the longest prefix well known so far.
-      // j-1 means the last character of `P` because j is actually `P.length`
-      // e.g.
-      // S =  a b a b d e
-      // P = `a b`a b
-      // we will jump to `a b` and we will compare d and a in the next iteration
-      // a b a b `d` e
-      //     a b `a` b
       j = prefixes[j - 1]
-    }
-    // Case 3.
-    // S[i] != P[j] There's a mismatch!
-    else if (str.charAt(i) !== word.charAt(j)) {
+      // Case 3.
+      // S[i] != P[j] There's a mismatch!
+    } else if (str.charAt(i) !== word.charAt(j)) {
       // if we  found at least a character in common, do the same thing as in case 2
       if (j !== 0) {
         j = prefixes[j - 1]
