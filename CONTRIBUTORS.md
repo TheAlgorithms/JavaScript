@@ -2306,7 +2306,7 @@
 
 - [@Adymoko](https://github.com/AdyMoko)
 
-- [@Tahrnndz](https://github.com/Tahrnndz)
+-[@izzhariz](https://github.com/izzhariz)
 
 - [@TeodorCa](https://github.com/TeodorCa)
 
