@@ -11,13 +11,12 @@ function longestCommonSubsequence (x, y, str1, str2, dp) {
   else {
     if (dp[x][y] !== 0){
       return dp[x][y]
-    } 
+    }
     else {
       if (str1[x] === str2[y]) {
-        dp[x][y] = 1 + longestCommonSubsequence(x - 1, y - 1, str1, str2, dp);
+        dp[x][y] = 1 + longestCommonSubsequence(x - 1, y - 1, str1, str2, dp)
         return dp[x][y]
-      }
-      else {
+      } else {
         dp[x][y] = Math.max(longestCommonSubsequence(x - 1, y, str1, str2, dp), longestCommonSubsequence(x, y - 1, str1, str2, dp))
         return dp[x][y]
       }
