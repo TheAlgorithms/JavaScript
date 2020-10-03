@@ -18,49 +18,49 @@ function beadSort(sequence) {
   // first, let's check that our sequence consists
   // of positive integers
   if (sequence.some((integer) => integer < 0)) {
-    throw RangeError("Sequence must be a list of positive integers!");
+    throw RangeError('Sequence must be a list of positive integers!')
   }
 
-  const sequenceLength = sequence.length;
-  const max = Math.max(...sequence);
+  const sequenceLength = sequence.length
+  const max = Math.max(...sequence)
 
   // set initial grid
-  let grid = sequence.map(number => {
-    let maxArr = new Array(max);
+  const grid = sequence.map(number => {
+    const maxArr = new Array(max)
 
     for (let i = 0; i < number; i++) {
-      maxArr[i] = '*';
+      maxArr[i] = '*'
     }
 
-    return maxArr;
-  });
+    return maxArr
+  })
 
   // drop the beads!
   for (let col = 0; col < max; col++) {
-    let beadsCount = 0;
+    let beadsCount = 0
 
-    for (let row = 0, len = grid.length; row < grid.length; row++) {
+    for (let row = 0; row < sequenceLength; row++) {
       if (grid[row][col] === '*') {
-        beadsCount++;
+        beadsCount++
       }
     }
 
     for (let row = sequenceLength - 1; row > -1; row--) {
       if (beadsCount) {
-        grid[row][col] = '*';
-        beadsCount--;
+        grid[row][col] = '*'
+        beadsCount--
       } else {
-        grid[row][col] = undefined;
+        grid[row][col] = undefined
       }
     }
   }
 
   // and, finally, let's turn our bead rows into their respective numbers
-  let sortedSequence = grid.map((beadArray) => {
-    let beadsArray = beadArray.filter(bead => bead === '*');
+  const sortedSequence = grid.map((beadArray) => {
+    const beadsArray = beadArray.filter(bead => bead === '*')
 
-    return beadsArray.length;
-  });
+    return beadsArray.length
+  })
 
-  return sortedSequence;
+  return sortedSequence
 }
