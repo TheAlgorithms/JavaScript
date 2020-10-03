@@ -21,5 +21,4 @@ const checkPalindrome = (str) => {
   return 'Palindrome'
 }
 
-console.log(checkPalindrome('madam'))
-console.log(checkPalindrome('abcd'))
+export { checkPalindrome }
