@@ -2298,17 +2298,15 @@
 
 - [@Jalpy-Dev](https://github.com/Jalpy-Dev)
 
-- [@Jalpy-Dev](https://github.com/Jalpy-Dev)
-
 - [@mrashduke](https://github.com/mrashduke)
 
 - [@HarshilSheth](https://github.com/funpractice)
 
 - [@abhishekchandra2522k](https://github.com/abhishekchandra2522k)
 
--[@Adymoko](https://github.com/AdyMoko)
+- [@Adymoko](https://github.com/AdyMoko)
 
--[@Tahrnndz](https://github.com/Tahrnndz)
+- [@Tahrnndz](https://github.com/Tahrnndz)
 
 - [@TeodorCa](https://github.com/TeodorCa)
 
