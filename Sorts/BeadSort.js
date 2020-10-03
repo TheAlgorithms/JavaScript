@@ -14,7 +14,7 @@
 // > beadSort([7, 9, 4, 3, 5])
 // [3, 4, 5, 7, 9]
 
-function beadSort(sequence) {
+function beadSort (sequence) {
   // first, let's check that our sequence consists
   // of positive integers
   if (sequence.some((integer) => integer < 0)) {
@@ -64,3 +64,6 @@ function beadSort(sequence) {
 
   return sortedSequence
 }
+
+// implementation
+console.log(beadSort([5, 4, 3, 2, 1]))
