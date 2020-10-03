@@ -43,3 +43,5 @@ function ReverseStringIterativeInplace (string) {
 // testing
 console.log(ReverseStringIterative('Javascript'))
 console.log(ReverseStringIterativeInplace('Javascript'))
+
+export{ReverseStringIterative, ReverseStringIterativeInplace}
