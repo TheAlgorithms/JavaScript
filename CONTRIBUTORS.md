@@ -2240,7 +2240,8 @@
 
 - [@zizu1681](https://github.com/zizu1681/)
 
-<<<<<<< HEAD
+-[@poonampant](https://github.com/poonampant/)
+
 - [@rocketrunner22](https://github.com/rocketrunner22)
 
 - [@Krykiet](https://github.com/Krykiet/)
@@ -2298,3 +2299,4 @@
 - [@Jalpy-Dev](https://github.com/Jalpy-Dev)
 
 - [@Jalpy-Dev](https://github.com/Jalpy-Dev)
+
