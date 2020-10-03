@@ -7,12 +7,10 @@
 function longestCommonSubsequence (x, y, str1, str2, dp) {
   if (x === -1 || y === -1) {
     return 0
-  }
-  else {
-    if (dp[x][y] !== 0){
+  } else {
+    if (dp[x][y] !== 0) {
       return dp[x][y]
-    }
-    else {
+    } else {
       if (str1[x] === str2[y]) {
         dp[x][y] = 1 + longestCommonSubsequence(x - 1, y - 1, str1, str2, dp)
         return dp[x][y]
