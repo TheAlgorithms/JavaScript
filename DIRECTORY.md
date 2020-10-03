@@ -99,6 +99,7 @@
   * [LinearSearch](https://github.com/TheAlgorithms/Javascript/blob/master/Search/LinearSearch.js)
 
 ## Sorts
+  * [BeadSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/BeadSort.js)
   * [BogoSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/BogoSort.js)
   * [BubbleSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/BubbleSort.js)
   * [BucketSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/BucketSort.js)
