@@ -2300,6 +2300,8 @@
 
 - [@Jalpy-Dev](https://github.com/Jalpy-Dev)
 
+- [@mrashduke](https://github.com/mrashduke)
+
 - [@HarshilSheth](https://github.com/funpractice)
 
 - [@abhishekchandra2522k](https://github.com/abhishekchandra2522k)
