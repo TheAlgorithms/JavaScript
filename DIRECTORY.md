@@ -89,6 +89,7 @@
   * [Palindrome](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/Palindrome.js)
   * [PascalTriangle](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/PascalTriangle.js)
   * [PiApproximationMonteCarlo](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/PiApproximationMonteCarlo.js)
+  * [Polynomial](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/Polynomial.js)
   * [PrimeCheck](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/PrimeCheck.js)
   * [ReversePolishNotation](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/ReversePolishNotation.js)
   * [SieveOfEratosthenes](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/SieveOfEratosthenes.js)
