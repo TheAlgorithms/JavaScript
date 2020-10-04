@@ -2367,3 +2367,6 @@
 
 -[@thomss23](https://github.com/thomss23)
 
+-[@AnastasiaCortes](https://github.com/AnastasiaCortes)
+
+-[@hmbjorkevoll](https://github.com/hmbjorkevoll)
