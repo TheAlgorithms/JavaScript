@@ -1,8 +1,8 @@
 
-## back-tracking
-  * [KnightTour](https://github.com/TheAlgorithms/Javascript/blob/master/back-tracking/KnightTour.js)
-  * [NQueen](https://github.com/TheAlgorithms/Javascript/blob/master/back-tracking/NQueen.js)
-  * [Sudoku](https://github.com/TheAlgorithms/Javascript/blob/master/back-tracking/Sudoku.js)
+## Backtracking
+  * [KnightTour](https://github.com/TheAlgorithms/Javascript/blob/master/Backtracking/KnightTour.js)
+  * [NQueen](https://github.com/TheAlgorithms/Javascript/blob/master/Backtracking/NQueen.js)
+  * [Sudoku](https://github.com/TheAlgorithms/Javascript/blob/master/Backtracking/Sudoku.js)
 
 ## Cache
   * [LFUCache](https://github.com/TheAlgorithms/Javascript/blob/master/Cache/LFUCache.js)
@@ -88,8 +88,8 @@
   * [ReversePolishNotation](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/ReversePolishNotation.js)
   * [SieveOfEratosthenes](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/SieveOfEratosthenes.js)
 
-## Project Euler
-  * [Problem1](https://github.com/TheAlgorithms/Javascript/blob/master/Project%20Euler/Problem1.js)
+## Project-Euler
+  * [Problem1](https://github.com/TheAlgorithms/Javascript/blob/master/Project-Euler/Problem1.js)
 
 ## Recursive
   * [EucledianGCD](https://github.com/TheAlgorithms/Javascript/blob/master/Recursive/EucledianGCD.js)
@@ -133,8 +133,8 @@
   * [ReverseString](https://github.com/TheAlgorithms/Javascript/blob/master/String/ReverseString.js)
   * [ReverseWords](https://github.com/TheAlgorithms/Javascript/blob/master/String/ReverseWords.js)
 
-## TimingFunctions
-  * [IntervalTimer](https://github.com/TheAlgorithms/Javascript/blob/master/TimingFunctions/IntervalTimer.js)
+## Timing-Functions
+  * [IntervalTimer](https://github.com/TheAlgorithms/Javascript/blob/master/Timing-Functions/IntervalTimer.js)
 
 ## Trees
   * [DepthFirstSearch](https://github.com/TheAlgorithms/Javascript/blob/master/Trees/DepthFirstSearch.js)
