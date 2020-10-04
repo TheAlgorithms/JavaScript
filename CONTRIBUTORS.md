@@ -2370,3 +2370,5 @@
 -[@AnastasiaCortes](https://github.com/AnastasiaCortes)
 
 -[@hmbjorkevoll](https://github.com/hmbjorkevoll)
+
+-[@lnewmanheggie](https://github.com/lnewmanheggie)
