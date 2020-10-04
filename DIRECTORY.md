@@ -47,6 +47,7 @@
 ## Dynamic-Programming
   * [ClimbingStairs](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/ClimbingStairs.js)
   * [CoinChange](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/CoinChange.js)
+  * [EditDistance](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/EditDistance.js)
   * [KadaneAlgo](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/KadaneAlgo.js)
   * [LevenshteinDistance](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/LevenshteinDistance.js)
   * [LongestCommonSubsequence](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/LongestCommonSubsequence.js)
