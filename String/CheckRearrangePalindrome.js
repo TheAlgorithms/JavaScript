@@ -19,7 +19,6 @@ const palindromeRearranging = (str) => {
     counts[char] = counts[char] ? counts[char] + 1 : 1
     return counts
   }, {})
-  
   // If the length of the resulting array is 0 or 1, the string can be a palindrome.
   return Object.values(charCounts).filter(count => count % 2 !== 0).length <= 1
 }
