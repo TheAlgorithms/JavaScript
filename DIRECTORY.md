@@ -1,8 +1,10 @@
 
-## back-tracking
-  * [KnightTour](https://github.com/TheAlgorithms/Javascript/blob/master/back-tracking/KnightTour.js)
-  * [NQueen](https://github.com/TheAlgorithms/Javascript/blob/master/back-tracking/NQueen.js)
-  * [Sudoku](https://github.com/TheAlgorithms/Javascript/blob/master/back-tracking/Sudoku.js)
+## [babel](https://github.com/TheAlgorithms/Javascript/blob/master//babel.config.js)
+
+## Backtracking
+  * [KnightTour](https://github.com/TheAlgorithms/Javascript/blob/master/Backtracking/KnightTour.js)
+  * [NQueen](https://github.com/TheAlgorithms/Javascript/blob/master/Backtracking/NQueen.js)
+  * [Sudoku](https://github.com/TheAlgorithms/Javascript/blob/master/Backtracking/Sudoku.js)
 
 ## Cache
   * [LFUCache](https://github.com/TheAlgorithms/Javascript/blob/master/Cache/LFUCache.js)
@@ -45,12 +47,17 @@
     * [Trie](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Tree/Trie.js)
 
 ## Dynamic-Programming
+  * [ClimbingStairs](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/ClimbingStairs.js)
   * [CoinChange](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/CoinChange.js)
+  * [EditDistance](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/EditDistance.js)
   * [KadaneAlgo](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/KadaneAlgo.js)
   * [LevenshteinDistance](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/LevenshteinDistance.js)
+  * [LongestCommonSubsequence](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/LongestCommonSubsequence.js)
+  * [LongestIncreasingSubsequence](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/LongestIncreasingSubsequence.js)
   * [MaxNonAdjacentSum](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/MaxNonAdjacentSum.js)
   * [NumberOfSubsetEqualToGivenSum](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/NumberOfSubsetEqualToGivenSum.js)
   * [SieveOfEratosthenes](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/SieveOfEratosthenes.js)
+  * [ZeroOneKnapsack](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/ZeroOneKnapsack.js)
 
 ## Graphs
   * [ConnectedComponents](https://github.com/TheAlgorithms/Javascript/blob/master/Graphs/ConnectedComponents.js)
@@ -84,12 +91,13 @@
   * [Palindrome](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/Palindrome.js)
   * [PascalTriangle](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/PascalTriangle.js)
   * [PiApproximationMonteCarlo](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/PiApproximationMonteCarlo.js)
+  * [Polynomial](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/Polynomial.js)
   * [PrimeCheck](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/PrimeCheck.js)
   * [ReversePolishNotation](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/ReversePolishNotation.js)
   * [SieveOfEratosthenes](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/SieveOfEratosthenes.js)
 
-## Project Euler
-  * [Problem1](https://github.com/TheAlgorithms/Javascript/blob/master/Project%20Euler/Problem1.js)
+## Project-Euler
+  * [Problem1](https://github.com/TheAlgorithms/Javascript/blob/master/Project-Euler/Problem1.js)
 
 ## Recursive
   * [EucledianGCD](https://github.com/TheAlgorithms/Javascript/blob/master/Recursive/EucledianGCD.js)
@@ -98,6 +106,7 @@
 ## Search
   * [BinarySearch](https://github.com/TheAlgorithms/Javascript/blob/master/Search/BinarySearch.js)
   * [ExponentialSearch](https://github.com/TheAlgorithms/Javascript/blob/master/Search/ExponentialSearch.js)
+  * [FibonacciSearch](https://github.com/TheAlgorithms/Javascript/blob/master/Search/FibonacciSearch.js)
   * [InterpolationSearch](https://github.com/TheAlgorithms/Javascript/blob/master/Search/InterpolationSearch.js)
   * [JumpSearch](https://github.com/TheAlgorithms/Javascript/blob/master/Search/JumpSearch.js)
   * [LinearSearch](https://github.com/TheAlgorithms/Javascript/blob/master/Search/LinearSearch.js)
@@ -127,13 +136,19 @@
 
 ## String
   * [CheckAnagram](https://github.com/TheAlgorithms/Javascript/blob/master/String/CheckAnagram.js)
+  * [CheckAnagram](https://github.com/TheAlgorithms/Javascript/blob/master/String/CheckAnagram.test.js)
   * [CheckPalindrome](https://github.com/TheAlgorithms/Javascript/blob/master/String/CheckPalindrome.js)
+  * [CheckPalindrome](https://github.com/TheAlgorithms/Javascript/blob/master/String/CheckPalindrome.test.js)
+  * [CheckRearrangePalindrome](https://github.com/TheAlgorithms/Javascript/blob/master/String/CheckRearrangePalindrome.js)
   * [PatternMatching](https://github.com/TheAlgorithms/Javascript/blob/master/String/PatternMatching.js)
+  * [PatternMatching](https://github.com/TheAlgorithms/Javascript/blob/master/String/PatternMatching.test.js)
   * [ReverseString](https://github.com/TheAlgorithms/Javascript/blob/master/String/ReverseString.js)
+  * [ReverseString](https://github.com/TheAlgorithms/Javascript/blob/master/String/ReverseString.test.js)
   * [ReverseWords](https://github.com/TheAlgorithms/Javascript/blob/master/String/ReverseWords.js)
+  * [ReverseWords](https://github.com/TheAlgorithms/Javascript/blob/master/String/ReverseWords.test.js)
 
-## TimingFunctions
-  * [IntervalTimer](https://github.com/TheAlgorithms/Javascript/blob/master/TimingFunctions/IntervalTimer.js)
+## Timing-Functions
+  * [IntervalTimer](https://github.com/TheAlgorithms/Javascript/blob/master/Timing-Functions/IntervalTimer.js)
 
 ## Trees
   * [DepthFirstSearch](https://github.com/TheAlgorithms/Javascript/blob/master/Trees/DepthFirstSearch.js)
