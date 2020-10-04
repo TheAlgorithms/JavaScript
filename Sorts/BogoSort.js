@@ -5,7 +5,6 @@
  * @returns {Boolean} true if the array is sorted, otherwise false
  * */
 
-
 // > [].isSorted()
 // true
 // > [1].isSorted()
@@ -45,17 +44,16 @@ Array.prototype.shuffle = function () {
  * @see [Bogosort](https://en.wikipedia.org/wiki/Bogosort)
  * @returns {Array} sorted array
  */
-function bogoSort(items) {
+function bogoSort (items) {
   while (!items.isSorted()) {
     items.shuffle()
   }
   return items
 }
-//Implementation of bogoSort
-let arr = [3, 2, 6, 7]
+// Implementation of bogoSort
+const arr = [3, 2, 6, 7]
 // Array before BogoSort
 console.log(arr)
 bogoSort(arr)
 // Array after BogoSort
 console.log(arr)
-
