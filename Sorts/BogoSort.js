@@ -1,8 +1,9 @@
-/** 
+/**
  * @function
  * A simple helper function that checks, if the array is
  * sorted in ascending order.
- */
+ * @returns {Boolean} true if the array is sorted, otherwise false
+ * */
 
 // > [].isSorted()
 // true
@@ -23,7 +24,7 @@ Array.prototype.isSorted = function () {
   return true
 }
 
-/** 
+/**
  * @function
  * A simple helper function to shuffle the array randomly in place.
  */
@@ -41,8 +42,9 @@ Array.prototype.shuffle = function () {
  * rearranges the array until it is sorted.
  * @param {Array} items array to be sorted
  * @see [Bogosort](https://en.wikipedia.org/wiki/Bogosort)
+ * @returns {Array} sorted array
  */
-function bogoSort(items) {
+function bogoSort (items) {
   while (!items.isSorted()) {
     items.shuffle()
   }
@@ -52,16 +54,15 @@ function bogoSort(items) {
 /**
  * @function demo function to test bogosort.
  */
-function demo() {
-  const size = 8
-  let arr = Array(size)
-  for(let i = 0; i < size; i++)
-  {
-    arr[i] = Math.floor(Math.random() * 10);
-  }
-  // Array before BogoSort
-  console.log(arr)
-  bogoSort(arr)
-  // Array after BogoSort
-  console.log(arr)
-})();
+  function demo () {
+    const size = 5
+    const arr = Array(size)
+    for (let i = 0; i < size; i++) {
+      arr[i] = Math.floor(Math.random() * 10)
+    }
+    // Array before BogoSort
+    console.log(arr)
+    bogoSort(arr)
+    // Array after BogoSort
+    console.log(arr)
+  })()

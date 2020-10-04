@@ -1,5 +1,5 @@
 /**
- * @function  
+ * @function
  * Bubble Sort is a algorithm to sort an array. It
  * compares adjacent element and swaps thier position
  * The big O on bubble sort in worst and best case is O(N^2).
@@ -8,7 +8,7 @@
  * @see [BubbleSort](https://en.wikipedia.org/wiki/Bubble_sort)
  * @returns {Array} sorted array
 */
-function bubbleSort(items) {
+function bubbleSort (items) {
   const length = items.length
   for (let i = (length - 1); i > 0; i--) {
     // Number of passes
@@ -27,21 +27,18 @@ function bubbleSort(items) {
    * @function Function to test Unoptimized BubbleSort
    * Prints unsorted array and sorted array.
    */
-  function demo() {
-    let arr = [5, 6, 7, 8, 1, 2, 12, 14]
-    // Array before Sort
-    console.log('-----before sorting-----')
+  function demo () {
+    const arr = [5, 6, 7, 8, 1, 2, 12, 14]
+    // Array before sort
     console.log(arr)
     bubbleSort(arr)
     // Array after sort
-    console.log('-----after sorting-----')
     console.log(arr)
-    console.log('');
   }
-)();
+)()
 
 /**
- * @function 
+ * @function
  * In bubble sort, we keep iterating while something was swapped in
  * the previous inner-loop iteration. By swapped I mean, in the
  * inner loop iteration, we check each number if the number proceeding
@@ -50,7 +47,7 @@ function bubbleSort(items) {
  * @returns {Array} sorted array
 */
 
-function alternativeBubbleSort(arr) {
+function alternativeBubbleSort (arr) {
   let swapped = true
   while (swapped) {
     swapped = false
@@ -61,19 +58,20 @@ function alternativeBubbleSort(arr) {
       }
     }
   }
-  return arr
 }
-
 
 (
   /**
    * @function Simple function to test optimized Bubble Sort.
    */
-  function demo() {
-  console.log('-----before sorting-----')
-  let array = [10, 5, 3, 8, 2, 6, 4, 7, 9, 1]
-  console.log(array)
-  console.log('-----after sorting-----')
-  console.log(alternativeBubbleSort(array))
-}
-)();
+  function demo () {
+    const array = [10, 5, 3, 8, 2, 6, 4, 7, 9, 1]
+    // > alternativeBubbleSort(array)
+    // [1, 2, 3, 4, 5, 7, 8, 9, 10]
+    // Array before sort
+    console.log(array)
+    alternativeBubbleSort(array)
+    // Array after sort
+    console.log(array)
+  }
+)()
