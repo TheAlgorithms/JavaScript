@@ -5,15 +5,6 @@
  * @returns {Boolean} true if the array is sorted, otherwise false
  * */
 
-// > [].isSorted()
-// true
-// > [1].isSorted()
-// true
-// > [1,2,3].isSorted()
-// true
-// > [3,2,1].isSorted()
-// false
-/* eslint no-extend-native: ["off", { "exceptions": ["Object"] }] */
 Array.prototype.isSorted = function () {
   const length = this.length
   for (let i = 0; i < length - 1; i++) {
