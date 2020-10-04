@@ -1,8 +1,9 @@
-// You are climbing a stair case. It takes n steps to reach to the top.
+/*
+ * You are climbing a stair case. It takes n steps to reach to the top.
+ * Each time you can either climb 1 or 2 steps. In how many distinct ways can you climb to the top?
+*/
 
-// Each time you can either climb 1 or 2 steps. In how many distinct ways can you climb to the top?
-
-var climbStairs = function (n) {
+const climbStairs = (n) => {
   let prev = 0
   let cur = 1
   let temp
@@ -15,9 +16,11 @@ var climbStairs = function (n) {
   return cur
 }
 
-function main () {
+const main = () => {
   const number = 5
 
-  console.log('Number of ways to climb ' + number + 'stairs is' + climbStairs(5))
-};
+  console.log('Number of ways to climb ' + number + ' stairs in ' + climbStairs(5))
+}
+
+// testing
 main()
