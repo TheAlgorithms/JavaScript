@@ -16,8 +16,8 @@ const palindromeRearranging = (str) => {
   // First obtain the character count for each character in the string and store it in an object.
   // Filter the object's values to only the odd character counts.
   const charCounts = [...str].reduce((counts, char) => {
-      counts[char] = counts[char] ? counts[char] + 1 : 1
-      return counts
+    counts[char] = counts[char] ? counts[char] + 1 : 1
+    return counts
   }, {})
   
   // If the length of the resulting array is 0 or 1, the string can be a palindrome.
