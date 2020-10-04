@@ -14,12 +14,13 @@ function main () {
     for (let j = 0; j < i; j++) {
       if (x[i] > x[j]) {
         dp[i] = Math.max(dp[i], 1 + dp[j])
-        if (dp[i] > res)
+        if (dp[i] > res) {
           res = dp[i]
+        }
       }
     }
   }
-  
+
   console.log('Length of Longest Increasing Subsequence is:', res)
 }
 
