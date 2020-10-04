@@ -4,18 +4,18 @@
  */
 
 function zeroOneKnapsack (arr, n, cap, cache) {
-  if (cap == 0 || n == 0) {
+  if (cap === 0 || n === 0) {
     cache[n][cap] = 0
     return cache[n][cap]
   }
-  if (cache[n][cap] != -1) {
+  if (cache[n][cap] !== -1) {
     return cache[n][cap]
   }
   if (arr[n - 1][0] <= cap) {
-    cache[n][cap] = Math.max(arr[n - 1][1] + zeroOneKnapsack (arr, n - 1, cap - arr[n - 1][0], cache), zeroOneKnapsack (arr, n - 1, cap, cache))
+    cache[n][cap] = Math.max(arr[n - 1][1] + zeroOneKnapsack(arr, n - 1, cap - arr[n - 1][0], cache), zeroOneKnapsack(arr, n - 1, cap, cache))
     return cache[n][cap]
   } else {
-    cache[n][cap] = zeroOneKnapsack (arr, n - 1, cap, cache)
+    cache[n][cap] = zeroOneKnapsack(arr, n - 1, cap, cache)
     return cache[n][cap]
   }
 }
@@ -44,7 +44,7 @@ function main () {
   while (i < length) {
     const cap = Number(input[i].trim().split(' ')[0])
     const currlen = Number(input[i].trim().split(' ')[1])
-    let j = i + 1;
+    let j = i + 1
     const arr = []
     while (j <= i + currlen) {
       arr.push(input[j])
