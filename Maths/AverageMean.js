@@ -1,3 +1,4 @@
+'use strict'
 /*
     author: PatOnTheBack
     license: GPL-3.0 or later
@@ -11,12 +12,12 @@
         https://en.wikipedia.org/wiki/Mean
 */
 
-function mean (nums) {
-  'use strict'
+const mean = (nums) => {
+  // This is a function returns average/mean of array
   var sum = 0
   var avg
 
-  // This loop sums all values in the 'nums' array.
+  // This loop sums all values in the 'nums' array using forEach loop
   nums.forEach(function (current) {
     sum += current
   })

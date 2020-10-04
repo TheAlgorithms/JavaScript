@@ -1,8 +1,7 @@
-/**
- * @function
+/*
  * Gnome sort is a sort algorithm that moving an element to its proper place is accomplished by a series of swap
- * @see [GnomeSort](https://en.wikipedia.org/wiki/Gnome_sort)
- * @param {Array} items array to be sorted
+ * more information: https://en.wikipedia.org/wiki/Gnome_sort
+ *
  */
 function gnomeSort (items) {
   if (items.length <= 1) {
@@ -24,7 +23,7 @@ function gnomeSort (items) {
 
 // Implementation of gnomeSort
 
-const ar = [5, 6, 7, 8, 1, 2, 12, 14]
+var ar = [5, 6, 7, 8, 1, 2, 12, 14]
 // Array before Sort
 console.log(ar)
 gnomeSort(ar)

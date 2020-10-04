@@ -28,12 +28,12 @@ function introsort (array, compare) {
    *  0 if a is equal to b
    *  1 if a greater than b
    */
-  const defaultComparator = function (x, y) {
+  var defaultComparator = function (x, y) {
     if (x === undefined && y === undefined) return 0
     if (x === undefined) return 1
     if (y === undefined) return -1
-    const xString = toString(x)
-    const yString = toString(y)
+    var xString = toString(x)
+    var yString = toString(y)
     if (xString < yString) return -1
     if (xString > yString) return 1
     return 0
@@ -45,7 +45,7 @@ function introsort (array, compare) {
    * @param {Object} obj
    * @returns {String} String representation of given object
    */
-  const toString = function (obj) {
+  var toString = function (obj) {
     if (obj === null) return 'null'
     if (typeof obj === 'boolean' || typeof obj === 'number') {
       return obj.toString()
@@ -75,8 +75,8 @@ function introsort (array, compare) {
    * [IIFE](https://en.wikipedia.org/wiki/Immediately_invoked_function_expression)
    */
   return (function (array, comparator) {
-    const swap = function (index1, index2) {
-      const temp = array[index1]
+    var swap = function (index1, index2) {
+      var temp = array[index1]
       array[index1] = array[index2]
       array[index2] = temp
     }
@@ -85,14 +85,14 @@ function introsort (array, compare) {
      * If the length of array is less than
      * this then we simply perform insertion sort
      */
-    const THRESHOLD = 16
+    var THRESHOLD = 16
     /**
      * @constant TUNEMAXDEPTH
      * Constant usec to increase or decrease value
      * of maxDepth
      */
-    const TUNEMAXDEPTH = 1
-    const len = array.length
+    var TUNEMAXDEPTH = 1
+    var len = array.length
     /**
      * Return if array is only of length 1
      * Array of size 1 is always sorted
@@ -104,7 +104,7 @@ function introsort (array, compare) {
      * Calculate maxDepth = log2(len)
      * Taken from implementation in stdc++
      */
-    const maxDepth = Math.floor(Math.log2(len)) * TUNEMAXDEPTH
+    var maxDepth = Math.floor(Math.log2(len)) * TUNEMAXDEPTH
     /**
      * The very first call to quicksort
      * this initiates sort routine
@@ -133,7 +133,7 @@ function introsort (array, compare) {
         heapSort(start, last)
         return
       }
-      let pivot = (last + start) >> 1
+      var pivot = (last + start) >> 1
       pivot = partition(start, last, pivot)
       quickSort(start, pivot, depth - 1)
       quickSort(pivot + 1, last, depth - 1)
@@ -148,8 +148,8 @@ function introsort (array, compare) {
     function partition (start, last, pivot) {
       swap(start, pivot)
       pivot = start
-      let lo = start
-      let hi = last
+      var lo = start
+      var hi = last
       while (true) {
         lo++
         while (comparator(array[lo], array[pivot]) <= 0 && lo !== last) {
@@ -175,8 +175,9 @@ function introsort (array, compare) {
      * @param {Number} last  one more than last index of array to be sorted
      */
     function insertionSort (start, last) {
-      for (let i = start + 1; i < last; i++) {
-        let j = i - 1
+      var i, j
+      for (i = start + 1; i < last; i++) {
+        j = i - 1
         while (j >= 0 && comparator(array[j], array[j + 1]) > 0) {
           swap(j, j + 1)
           j--
@@ -191,7 +192,7 @@ function introsort (array, compare) {
      * @param {Number} last  one more than last index of array to be sorted
      */
     function heapSort (start, last) {
-      let x = (last + start) >> 1
+      var x = (last + start) >> 1
       while (x - start >= 0) {
         heapify(x, start, last)
         x--
@@ -210,8 +211,8 @@ function introsort (array, compare) {
      * @param {Number} last  one more than last index of segment that cur belongs to
      */
     function heapify (cur, start, last) {
-      const size = last - start
-      let max, lt, rt
+      var size = last - start
+      var max, lt, rt
       cur = cur - start
       while (true) {
         max = cur
@@ -248,17 +249,19 @@ function introsort (array, compare) {
  */
 (function demo () {
   const data = []
-  const size = 100000
-  const c = function (a, b) {
+  const size = 1000000
+  var i = 0
+  var temp
+  var c = function (a, b) {
     return a - b
   }
-  for (let i = 0; i < size; i++) {
-    const temp = Math.random() * Number.MAX_SAFE_INTEGER
+  for (i = 0; i < size; i++) {
+    temp = Math.random() * Number.MAX_SAFE_INTEGER
     data.push(temp)
   }
   introsort(data, c)
-  let faulty = false
-  for (let i = 1; i < size; i++) {
+  var faulty = false
+  for (i = 1; i < size; i++) {
     if (data[i] < data[i - 1]) {
       faulty = true
       break
@@ -279,16 +282,18 @@ function introsort (array, compare) {
 (function demo () {
   const data = []
   const data2 = []
-  const size = 100000
-  for (let i = 0; i < size; i++) {
-    const temp = Math.random() * Number.MAX_SAFE_INTEGER
+  const size = 1000000
+  var i = 0
+  var temp
+  for (i = 0; i < size; i++) {
+    temp = Math.random() * Number.MAX_SAFE_INTEGER
     data.push(temp)
     data2.push(temp)
   }
   introsort(data)
   data2.sort()
-  let faulty = false
-  for (let i = 1; i < size; i++) {
+  var faulty = false
+  for (i = 1; i < size; i++) {
     if (data[i] !== data2[i]) {
       faulty = true
       break

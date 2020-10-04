@@ -1,9 +1,8 @@
-/**
- * @function
+/*
  * Cocktail shaker sort is a sort algorithm that is a bidirectional bubble sort
- * @see [Cocktail Shaker Sort]https://en.wikipedia.org/wiki/Cocktail_shaker_sort
- * @see [Bubble Sort]https://en.wikipedia.org/wiki/Bubble_sort
- * @param {Array} array to be sorted
+ * more information: https://en.wikipedia.org/wiki/Cocktail_shaker_sort
+ * more information: https://en.wikipedia.org/wiki/Bubble_sort
+ *
  */
 function cocktailShakerSort (items) {
   for (let i = items.length - 1; i > 0; i--) {
@@ -31,15 +30,11 @@ function cocktailShakerSort (items) {
   }
 }
 
-(
-  /**
-   * @function A simple test function
-   */
-  function demo () {
-    const ar = [5, 6, 7, 8, 1, 2, 12, 14]
-    // Array before Sort
-    console.log(ar)
-    cocktailShakerSort(ar)
-    // Array after sort
-    console.log(ar)
-  })()
+// Implementation of cocktailShakerSort
+
+var ar = [5, 6, 7, 8, 1, 2, 12, 14]
+// Array before Sort
+console.log(ar)
+cocktailShakerSort(ar)
+// Array after sort
+console.log(ar)
