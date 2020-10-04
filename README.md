@@ -11,9 +11,10 @@
 
 These are for demonstration purposes only. There are many implementations of sorts in the JavaScript standard library that are much better for performance reasons.
 
-## Contribution Guidelines
+## Contribution Guidelines for contributers
 
 Read our [Contribution Guidelines](CONTRIBUTING.md) before you contribute.
+## Please follow our Contribution Guidelines
 
 ## List of Algorithms
 
