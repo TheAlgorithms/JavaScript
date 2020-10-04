@@ -98,6 +98,7 @@
 ## Search
   * [BinarySearch](https://github.com/TheAlgorithms/Javascript/blob/master/Search/BinarySearch.js)
   * [ExponentialSearch](https://github.com/TheAlgorithms/Javascript/blob/master/Search/ExponentialSearch.js)
+  * [FibonacciSearch](https://github.com/TheAlgorithms/Javascript/blob/master/Search/FibonacciSearch.js)
   * [InterpolationSearch](https://github.com/TheAlgorithms/Javascript/blob/master/Search/InterpolationSearch.js)
   * [JumpSearch](https://github.com/TheAlgorithms/Javascript/blob/master/Search/JumpSearch.js)
   * [LinearSearch](https://github.com/TheAlgorithms/Javascript/blob/master/Search/LinearSearch.js)
