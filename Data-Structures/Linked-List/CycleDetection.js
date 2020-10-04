@@ -15,6 +15,7 @@ function main () {
 
   Link for the Problem: https://leetcode.com/problems/linked-list-cycle/
   */
+  const head = '' // Reference to head is given in the problem. So please ignore this line
   let fast = head
   let slow = head
 
