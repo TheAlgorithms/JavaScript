@@ -374,6 +374,8 @@
 
 - [@KikoMK](https://github.com/KikoMK)
 
+- [@KirstenBolda](https://github.com/KirstenBolda)
+
 - [@Kra1ven](https://github.com/Kra1ven)
 
 - [@KrishnaMahato](https://github.com/krishna9304)
