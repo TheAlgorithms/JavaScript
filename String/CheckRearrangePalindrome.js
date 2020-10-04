@@ -1,7 +1,10 @@
-// What is a palindrome? https://en.wikipedia.org/wiki/Palindrome
-// Receives a string and returns whether it can be rearranged to become a palindrome or not
-// The string can only be a palindrome if the count of ALL characters is even or if the ONLY ONE character count is odd
-// Input is a string
+/**
+  * What is a palindrome? https://en.wikipedia.org/wiki/Palindrome
+  * Receives a string and returns whether it can be rearranged to become a palindrome or not
+  * The string can only be a palindrome if the count of ALL characters is even or if the ONLY ONE character count is odd
+  * Input is a string
+  *
+  **/
 
 const palindromeRearranging = (str) => {
   // check that input is a string
@@ -23,5 +26,6 @@ const palindromeRearranging = (str) => {
   return Object.values(charCounts).filter(count => count % 2 !== 0).length <= 1
 }
 
+// testing
 console.log(palindromeRearranging('aaeccrr')) // true
 console.log(palindromeRearranging('leve')) // false
