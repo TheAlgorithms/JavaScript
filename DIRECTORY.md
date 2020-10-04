@@ -85,7 +85,11 @@
   * [PascalTriangle](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/PascalTriangle.js)
   * [PiApproximationMonteCarlo](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/PiApproximationMonteCarlo.js)
   * [PrimeCheck](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/PrimeCheck.js)
+  * [ReversePolishNotation](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/ReversePolishNotation.js)
   * [SieveOfEratosthenes](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/SieveOfEratosthenes.js)
+
+## Project Euler
+  * [Problem1](https://github.com/TheAlgorithms/Javascript/blob/master/Project%20Euler/Problem1.js)
 
 ## Recursive
   * [EucledianGCD](https://github.com/TheAlgorithms/Javascript/blob/master/Recursive/EucledianGCD.js)
@@ -97,6 +101,7 @@
   * [InterpolationSearch](https://github.com/TheAlgorithms/Javascript/blob/master/Search/InterpolationSearch.js)
   * [JumpSearch](https://github.com/TheAlgorithms/Javascript/blob/master/Search/JumpSearch.js)
   * [LinearSearch](https://github.com/TheAlgorithms/Javascript/blob/master/Search/LinearSearch.js)
+  * [StringSearch](https://github.com/TheAlgorithms/Javascript/blob/master/Search/StringSearch.js)
 
 ## Sorts
   * [BogoSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/BogoSort.js)
