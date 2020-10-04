@@ -250,18 +250,17 @@ function introsort (array, compare) {
 (function demo () {
   const data = []
   const size = 1000000
-  var i = 0
-  var temp
-  var c = function (a, b) {
+  let temp
+  let c = function (a, b) {
     return a - b
   }
-  for (i = 0; i < size; i++) {
+  for (let i = 0; i < size; i++) {
     temp = Math.random() * Number.MAX_SAFE_INTEGER
     data.push(temp)
   }
   introsort(data, c)
-  var faulty = false
-  for (i = 1; i < size; i++) {
+  let faulty = false
+  for (let i = 1; i < size; i++) {
     if (data[i] < data[i - 1]) {
       faulty = true
       break
