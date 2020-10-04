@@ -1,4 +1,6 @@
 
+## [babel](https://github.com/TheAlgorithms/Javascript/blob/master//babel.config.js)
+
 ## Backtracking
   * [KnightTour](https://github.com/TheAlgorithms/Javascript/blob/master/Backtracking/KnightTour.js)
   * [NQueen](https://github.com/TheAlgorithms/Javascript/blob/master/Backtracking/NQueen.js)
@@ -134,11 +136,16 @@
 
 ## String
   * [CheckAnagram](https://github.com/TheAlgorithms/Javascript/blob/master/String/CheckAnagram.js)
+  * [CheckAnagram](https://github.com/TheAlgorithms/Javascript/blob/master/String/CheckAnagram.test.js)
   * [CheckPalindrome](https://github.com/TheAlgorithms/Javascript/blob/master/String/CheckPalindrome.js)
+  * [CheckPalindrome](https://github.com/TheAlgorithms/Javascript/blob/master/String/CheckPalindrome.test.js)
   * [CheckRearrangePalindrome](https://github.com/TheAlgorithms/Javascript/blob/master/String/CheckRearrangePalindrome.js)
   * [PatternMatching](https://github.com/TheAlgorithms/Javascript/blob/master/String/PatternMatching.js)
+  * [PatternMatching](https://github.com/TheAlgorithms/Javascript/blob/master/String/PatternMatching.test.js)
   * [ReverseString](https://github.com/TheAlgorithms/Javascript/blob/master/String/ReverseString.js)
+  * [ReverseString](https://github.com/TheAlgorithms/Javascript/blob/master/String/ReverseString.test.js)
   * [ReverseWords](https://github.com/TheAlgorithms/Javascript/blob/master/String/ReverseWords.js)
+  * [ReverseWords](https://github.com/TheAlgorithms/Javascript/blob/master/String/ReverseWords.test.js)
 
 ## Timing-Functions
   * [IntervalTimer](https://github.com/TheAlgorithms/Javascript/blob/master/Timing-Functions/IntervalTimer.js)
