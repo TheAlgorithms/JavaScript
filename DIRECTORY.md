@@ -45,6 +45,7 @@
     * [Trie](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Tree/Trie.js)
 
 ## Dynamic-Programming
+  * [ClimbingStairs](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/ClimbingStairs.js)
   * [CoinChange](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/CoinChange.js)
   * [KadaneAlgo](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/KadaneAlgo.js)
   * [LevenshteinDistance](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/LevenshteinDistance.js)
