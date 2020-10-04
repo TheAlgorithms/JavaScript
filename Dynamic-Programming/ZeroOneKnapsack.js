@@ -3,7 +3,7 @@
  * https://en.wikipedia.org/wiki/Knapsack_problem
  */
 
-function zeroOneKnapsack (arr, n, cap, cache) {
+const zeroOneKnapsack = (arr, n, cap, cache) => {
   if (cap === 0 || n === 0) {
     cache[n][cap] = 0
     return cache[n][cap]
@@ -20,7 +20,7 @@ function zeroOneKnapsack (arr, n, cap, cache) {
   }
 }
 
-function main () {
+const main = () => {
   /*
   Problem Statement:
   You are a thief carrying a single bag with limited capacity S. The museum you stole had N artifact that you could steal. Unfortunately you might not be able to steal all the artifact because of your limited bag capacity.
