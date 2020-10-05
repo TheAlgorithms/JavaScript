@@ -1615,6 +1615,8 @@
 
 - [@miamathews](https://github.com/miamathews)
 
+- [@miguel-bento-github](https://github.com/Miguel-Bento-Github)
+
 - [@ming-tsai](https://github.com/ming-tsai)
 
 - [@minshen2012](https://github.com/minshen2012)
