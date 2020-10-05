@@ -1,6 +1,6 @@
 // Wikipedia: https://en.wikipedia.org/wiki/Mean_squared_error
 
-function mse (predicted, expected) {
+const meanSquaredError = (predicted, expected) => {
   if (!Array.isArray(predicted) || !Array.isArray(expected)) {
     throw new TypeError('Argument must be an Array')
   }
@@ -18,6 +18,9 @@ function mse (predicted, expected) {
   return err / expected.length
 }
 
-console.log(mse([1, 2, 3, 4], [1, 2, 3, 4]) === 0)
-console.log(mse([4, 3, 2, 1], [1, 2, 3, 4]) === 5)
-console.log(mse([2, 0, 2, 0], [0, 0, 0, 0]) === 2)
+// testing
+(() => {
+  console.log(meanSquaredError([1, 2, 3, 4], [1, 2, 3, 4]) === 0)
+  console.log(meanSquaredError([4, 3, 2, 1], [1, 2, 3, 4]) === 5)
+  console.log(meanSquaredError([2, 0, 2, 0], [0, 0, 0, 0]) === 3)
+})()
