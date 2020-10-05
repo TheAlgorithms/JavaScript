@@ -27,5 +27,4 @@ const mean = (nums) => {
   return avg
 }
 
-// Run `mean` Function to find average of a list of numbers.
-console.log(mean([2, 4, 6, 8, 20, 50, 70]))
+export { mean }
