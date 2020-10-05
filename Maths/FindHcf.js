@@ -27,4 +27,5 @@ const findHCF = (x, y) => {
   // When the while loop finishes the minimum of x and y is the HCF.
   return Math.min(x, y)
 }
-console.log(findHCF(27, 36))
+
+export { findHCF }
