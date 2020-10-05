@@ -1,4 +1,5 @@
 # CONTRIBUTORS
+
 -[@souviknsl07](https://github.com/souviknsl07)
 
 - [@0xaj](https://github.com/0xaj)
@@ -2390,3 +2391,5 @@
 -[@bowouhuy](https://github.com/bowouhuy)
 
 -[@ironchloe](https://github.com/ironchloe)
+
+-[@sandeep-chahal](https://github.com/sandeep-chahal)
