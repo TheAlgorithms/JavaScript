@@ -130,6 +130,7 @@
   * [QuickSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/QuickSort.js)
   * [RadixSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/RadixSort.js)
   * [SelectionSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/SelectionSort.js)
+  * [SelectionSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/SelectionSort.test.js)
   * [ShellSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/ShellSort.js)
   * [TimSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/TimSort.js)
   * [TopologicalSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/TopologicalSort.js)
