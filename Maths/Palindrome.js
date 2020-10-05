@@ -45,7 +45,4 @@ const PalindromeIterative = (string) => {
   return true
 }
 
-// testing
-
-console.log(PalindromeRecursive('Javascript Community'))
-console.log(PalindromeIterative('mom'))
+export { PalindromeIterative, PalindromeRecursive }
