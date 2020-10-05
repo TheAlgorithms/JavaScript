@@ -10,7 +10,7 @@ const alphabet = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm
  * @param {string} sentence
  * @param {boolean} [perfect=false]
  */
-function isPangram (sentence, perfect = false) {
+const isPangram = (sentence, perfect = false) => {
   return alphabet.every((char) => {
     const lowerCaseChar = char.toLowerCase()
     const lowerCaseSentence = sentence.toLowerCase()
@@ -28,6 +28,7 @@ function isPangram (sentence, perfect = false) {
   })
 }
 
+// testing
 console.log(isPangram('The quick brown fox jumps over a lazy dog and something')) // True
 console.log(isPangram('The quick brown fox')) // False
 console.log(isPangram('The quick brown fox jumps over a lazy dog', true)) // False
