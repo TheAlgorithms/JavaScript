@@ -18,11 +18,11 @@ describe('checkAnagram', () => {
   )
   it('expects to return "Not anagram" if the arguments have different lengths', () => {
     const SUT = checkAnagram('abs', 'abds')
-    expect(SUT).toBe('Not Anagram')
+    expect(SUT).toBe('Not anagram')
   })
   it('expects to return "Not anagram" if the arguments are not anagrams', () => {
     const SUT = checkAnagram('abcs', 'abds')
-    expect(SUT).toBe('Not anagrams')
+    expect(SUT).toBe('Not anagram')
   })
   it('expects to return "Anagram" if the arguments are anagram', () => {
     const SUT = checkAnagram('abcd', 'bcad')

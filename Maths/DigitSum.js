@@ -6,13 +6,11 @@ const digitSum = (num) => {
   let sum = 0
   // while will run untill num become 0
   while (num) {
-    sum += (num % 10)
+    sum += num % 10
     num = parseInt(num / 10)
   }
 
   return sum
 }
 
-// assigning number
-const num = 12345
-console.log(digitSum(num))
+export { digitSum }
