@@ -1,4 +1,5 @@
 # CONTRIBUTORS
+
 -[@souviknsl07](https://github.com/souviknsl07)
 
 - [@0xaj](https://github.com/0xaj)
@@ -2408,3 +2409,5 @@
 -[@luisruiz8435](https://github.com/luisruiz8435)
 
 -[@jw20191n](https://github.com/jw20191n)
+
+-[@Elldrigar](https://github.com/Elldrigar)
