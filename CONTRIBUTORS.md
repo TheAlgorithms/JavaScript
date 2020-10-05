@@ -2380,3 +2380,5 @@
 -[@GabrielTeixeiraC](https://github.com/GabrielTeixeiraC)
 
 -[@AugustoEscanor](https://github.com/AugustoEscanor)
+
+-[@talaquy84](https://github.com/talaquy84)
