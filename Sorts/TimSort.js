@@ -10,7 +10,7 @@
   *  @param {Array} array
   */
 
-function Timsort (array) {
+const Timsort = (array) => {
   // Default size of a partition
   const RUN = 32
   const n = array.length
@@ -34,7 +34,7 @@ function Timsort (array) {
  * @param {Number} right right index of partition
  */
 
-function InsertionSort (array, left, right) {
+const InsertionSort = (array, left, right) => {
   for (let i = left + 1; i <= right; i++) {
     const key = array[i]
     let j = i - 1
@@ -54,7 +54,7 @@ function InsertionSort (array, left, right) {
  * @param {Number} right right index of partition
  */
 
-function Merge (array, left, mid, right) {
+const Merge = (array, left, mid, right) => {
   if (mid >= right) return
   const len1 = mid - left + 1
   const len2 = right - mid
@@ -82,30 +82,29 @@ function Merge (array, left, mid, right) {
   }
 }
 
-(/**
+/**
  * @example Test of Timsort functions.
  * Data is randomly generated.
  * Prints "RIGHT" if it works as expected,
  * otherwise "FAULTY"
  */
-  function demo () {
-    const size = 1000000
-    const data = Array(size)
-    for (let i = 0; i < size; i++) {
-      data[i] = Math.random() * Number.MAX_SAFE_INTEGER
-    }
-    const isSorted = function (array) {
-      const n = array.length
-      for (let i = 0; i < n - 1; i++) {
-        if (array[i] > array[i + 1]) return false
-      }
-      return true
-    }
-    Timsort(data)
-    if (isSorted(data)) {
-      console.log('RIGHT')
-    } else {
-      console.log('FAULTY')
-    }
+(() => {
+  const size = 1000000
+  const data = Array(size)
+  for (let i = 0; i < size; i++) {
+    data[i] = Math.random() * Number.MAX_SAFE_INTEGER
   }
-)()
+  const isSorted = function (array) {
+    const n = array.length
+    for (let i = 0; i < n - 1; i++) {
+      if (array[i] > array[i + 1]) return false
+    }
+    return true
+  }
+  Timsort(data)
+  if (isSorted(data)) {
+    console.log('RIGHT')
+  } else {
+    console.log('FAULTY')
+  }
+})()
