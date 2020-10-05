@@ -47,7 +47,4 @@ const calcFactorial = (num) => {
   }
 }
 
-// Run `factorial` Function to find average of a list of numbers.
-
-var num = console.log('Enter a number: ')
-console.log(calcFactorial(num))
+export { calcFactorial }
