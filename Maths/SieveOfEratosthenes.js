@@ -1,4 +1,4 @@
-function sieveOfEratosthenes (n) {
+const sieveOfEratosthenes = (n) => {
   /*
      * Calculates prime numbers till a number n
      * :param n: Number upto which to calculate primes
@@ -18,7 +18,7 @@ function sieveOfEratosthenes (n) {
   return primes
 }
 
-function main () {
+const main = () => {
   const n = 69 // number till where we wish to find primes
   const primes = sieveOfEratosthenes(n)
   for (let i = 2; i <= n; i++) {

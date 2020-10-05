@@ -12,9 +12,9 @@
 'use strict'
 
 // Find the LCM of two numbers.
-function findLcm (num1, num2) {
-  var maxNum
-  var lcm
+const findLcm = (num1, num2) => {
+  let maxNum
+  let lcm
   // Check to see whether num1 or num2 is larger.
   if (num1 > num2) {
     maxNum = num1

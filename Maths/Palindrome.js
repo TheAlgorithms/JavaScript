@@ -14,7 +14,7 @@
  * @complexity: O(n)
  */
 
-function PalindromeRecursive (string) {
+const PalindromeRecursive = (string) => {
   // Base case
   if (string.length < 2) return true
 
@@ -26,7 +26,7 @@ function PalindromeRecursive (string) {
   return PalindromeRecursive(string.slice(1, string.length - 1))
 }
 
-function PalindromeIterative (string) {
+const PalindromeIterative = (string) => {
   const _string = string
     .toLowerCase()
     .replace(/ /g, '')

@@ -13,10 +13,10 @@
 
 'use strict'
 
-function calcRange (num) {
+const calcRange = (num) => {
   // Generate a range of numbers from 1 to `num`.
-  var i = 1
-  var range = []
+  let i = 1
+  let range = []
   while (i <= num) {
     range.push(i)
     i += 1
@@ -24,9 +24,9 @@ function calcRange (num) {
   return range
 }
 
-function calcFactorial (num) {
-  var factorial
-  var range = calcRange(num)
+const calcFactorial = (num) => {
+  let factorial
+  let range = calcRange(num)
 
   // Check if the number is negative, positive, null, undefined, or zero
   if (num < 0) {
@@ -43,7 +43,7 @@ function calcFactorial (num) {
     range.forEach(function (i) {
       factorial = factorial * i
     })
-    return 'The factorial of ' + num + ' is ' + factorial
+    return `The factorial of ${num} is ${factorial}`
   }
 }
 

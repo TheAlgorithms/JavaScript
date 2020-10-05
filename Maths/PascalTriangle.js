@@ -1,6 +1,18 @@
 const numRows = 5
 
-var generate = function (numRows) {
+const addRow = (triangle) => {
+  const previous = triangle[triangle.length - 1]
+  const newRow = [1]
+  for (let i = 0; i < previous.length - 1; i++) {
+    const current = previous[i]
+    const next = previous[i + 1]
+    newRow.push(current + next)
+  }
+  newRow.push(1)
+  return triangle.push(newRow)
+}
+
+const generate = (numRows) => {
   const triangle = [[1], [1, 1]]
 
   if (numRows === 0) {
@@ -15,17 +27,6 @@ var generate = function (numRows) {
     }
   }
   return triangle
-}
-var addRow = function (triangle) {
-  const previous = triangle[triangle.length - 1]
-  const newRow = [1]
-  for (let i = 0; i < previous.length - 1; i++) {
-    const current = previous[i]
-    const next = previous[i + 1]
-    newRow.push(current + next)
-  }
-  newRow.push(1)
-  return triangle.push(newRow)
 }
 
 generate(numRows)

@@ -14,8 +14,8 @@
 
 const mean = (nums) => {
   // This is a function returns average/mean of array
-  var sum = 0
-  var avg
+  let sum = 0
+  let avg
 
   // This loop sums all values in the 'nums' array using forEach loop
   nums.forEach(function (current) {
