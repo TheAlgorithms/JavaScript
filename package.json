@@ -16,9 +16,7 @@
     "node-fetch": "2.6.1"
   },
   "standard": {
-    "env": [
-      "jest"
-    ]
+    "env": [ "jest" ]
   },
   "devDependencies": {
     "babel-jest": "^26.3.0",
