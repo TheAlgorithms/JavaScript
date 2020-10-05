@@ -34,8 +34,7 @@ const selectionSort = (list) => {
   return items
 }
 
-/* Implementation of Selection Sort */
-// testing
+/* Implementation of Selection Sort
 
 (() => {
   let array = [5, 6, 7, 8, 1, 2, 12, 14]
@@ -45,3 +44,7 @@ const selectionSort = (list) => {
   // Array after sort
   console.log(array)
 })()
+
+*/
+
+export { selectionSort }
