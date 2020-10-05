@@ -18,7 +18,7 @@ function orientation (a, b, c) {
 
   // Clockwise
   if (alpha > beta) return 1
-  // Anticlockwise 
+  // Anticlockwise
   else if (beta > alpha) return -1
   // Colinear
   return 0
@@ -79,4 +79,4 @@ const points = [
   { x: 3, y: 1 },
   { x: 3, y: 3 }]
 
-convexHull(points);
+convexHull(points)
