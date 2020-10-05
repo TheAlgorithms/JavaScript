@@ -66,18 +66,10 @@ const FibonacciDpWithoutRecursion = (number) => {
   for (var i = 2; i < number; ++i) {
     table.push(table[i - 1] + table[i - 2])
   }
-  return (table)
+  return table
 }
 
-// testing
-
-console.log(FibonacciIterative(5))
-// Output: [ 1, 1, 2, 3, 5 ]
-console.log(FibonacciRecursive(5))
-// Output: [ 1, 1, 2, 3, 5 ]
-
-console.log(FibonacciRecursiveDP(5))
-// Output: 5
-
-console.log(FibonacciDpWithoutRecursion(5))
-// Output: [ 1, 1, 2, 3, 5 ]
+export { FibonacciDpWithoutRecursion }
+export { FibonacciIterative }
+export { FibonacciRecursive }
+export { FibonacciRecursiveDP }
