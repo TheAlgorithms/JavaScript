@@ -6,7 +6,6 @@ const fibonacci = (N) => {
   return fibonacci(N - 2) + fibonacci(N - 1)
 }
 
-
 // testing
 (() => {
   const number = 5
