@@ -1,6 +1,7 @@
 //  https://en.wikipedia.org/wiki/Fibonacci_number
 
-var fib = function (N) {
+const fibonacci = (N) => {
+  // creating array to store values
   const memo = new Array(N + 1)
   memo[0] = 0
   memo[1] = 1
@@ -10,11 +11,8 @@ var fib = function (N) {
   return memo[N]
 }
 
-fib(5)
-
-function main () {
+// testing
+(() => {
   const number = 5
-
-  console.log(number + 'th Fibonacci number is' + fib(number))
-};
-main()
+  console.log(number + 'th Fibonacci number is ' + fibonacci(number))
+})()
