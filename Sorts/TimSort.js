@@ -89,23 +89,13 @@ function Merge (array, left, mid, right) {
  * otherwise "FAULTY"
  */
   function demo () {
-    const size = 1000000
+    const size = 20
     const data = Array(size)
     for (let i = 0; i < size; i++) {
-      data[i] = Math.random() * Number.MAX_SAFE_INTEGER
+      data[i] = Math.floor(Math.random() * 20)
     }
-    const isSorted = function (array) {
-      const n = array.length
-      for (let i = 0; i < n - 1; i++) {
-        if (array[i] > array[i + 1]) return false
-      }
-      return true
-    }
+    console.log(data)
     Timsort(data)
-    if (isSorted(data)) {
-      console.log('RIGHT')
-    } else {
-      console.log('FAULTY')
-    }
+    console.log(data)
   }
 )()

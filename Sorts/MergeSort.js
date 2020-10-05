@@ -1,48 +1,62 @@
 /**
+ * @function
  * Merge Sort is an algorithm where the main list is divided down into two half
  * sized lists, which then have merge sort called on these two smaller lists
  * recursively until there is only a sorted list of one.
- *
- * On the way up the recursive calls, the lists will be merged together inserting
- * the smaller value first, creating a larger sorted list.
- */
-
-/**
- * Sort and merge two given arrays
- * @param {Array} list1 - sublist to break down
- * @param {Array} list2 - sublist to break down
- * @return {Array} merged list
- */
-function merge (list1, list2) {
-  var results = []
-
-  while (list1.length && list2.length) {
-    if (list1[0] <= list2[0]) {
-      results.push(list1.shift())
-    } else {
-      results.push(list2.shift())
-    }
-  }
-  return results.concat(list1, list2)
-}
-
-/**
  * Break down the lists into smaller pieces to be merged
  * @param {Array} list - list to be sorted
- * @return {Array} sorted list
+ * @param {Number} left - left index
+ * @param {Number} right - right index
+ * @see
  */
-function mergeSort (list) {
-  if (list.length < 2) return list
-
-  var listHalf = Math.floor(list.length / 2)
-  var subList1 = list.slice(0, listHalf)
-  var subList2 = list.slice(listHalf, list.length)
-
-  return merge(mergeSort(subList1), mergeSort(subList2))
+function MergeSort (list, left, right) {
+  if (left >= right) return
+  const mid = Math.floor(left + (right - left) / 2)
+  MergeSort(list, left, mid)
+  MergeSort(list, mid + 1, right)
+  Merge(list, left, mid, right)
 }
 
-// Merge Sort Example
-var unsortedArray = [10, 5, 3, 8, 2, 6, 4, 7, 9, 1]
-var sortedArray = mergeSort(unsortedArray)
+/**
+ * On the way up the recursive calls, the lists will be merged together inserting
+ * the smaller value first, creating a larger sorted list.
+ * Sort and merge two given arrays
+ * @param {Array} array - array to be sorted
+ * @param {Number} left - left index of partition
+ * @param {Number} mid - mid index of partition
+ * @param {Number} right - right index of partition
+ * @return {Array} merged list
+*/
+function Merge (array, left, mid, right) {
+  const len1 = mid - left + 1
+  const len2 = right - mid
+  const larr = Array(len1)
+  const rarr = Array(len2)
+  for (let i = 0; i < len1; i++) {
+    larr[i] = array[left + i]
+  }
+  for (let i = 0; i < len2; i++) {
+    rarr[i] = array[mid + 1 + i]
+  }
+  let i = 0; let j = 0; let k = left
+  while (i < larr.length && j < rarr.length) {
+    if (larr[i] < rarr[j]) {
+      array[k++] = larr[i++]
+    } else {
+      array[k++] = rarr[j++]
+    }
+  }
+  while (i < larr.length) {
+    array[k++] = larr[i++]
+  }
+  while (j < rarr.length) {
+    array[k++] = rarr[j++]
+  }
+}
 
-console.log('Before:', unsortedArray, 'After:', sortedArray)
+(function demo () {
+  const unsortedArray = [10, 5, 3, 8, 2, 6, 4, 7, 9, 1]
+  const size = unsortedArray.length
+  MergeSort(unsortedArray, 0, size - 1)
+  console.log(unsortedArray)
+})()

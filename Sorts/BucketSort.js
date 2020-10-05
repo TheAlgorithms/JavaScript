@@ -1,22 +1,22 @@
-/*
-Wikipedia says: Bucket sort, or bin sort, is a sorting algorithm that works by distributing the
-elements of an array into a number of buckets. Each bucket is then sorted individually, either using
-a different sorting algorithm, or by recursively applying the bucket sorting algorithm. It is a
-distribution sort, and is a cousin of radix sort in the most to least significant digit flavour.
-Bucket sort is a generalization of pigeonhole sort. Bucket sort can be implemented with comparisons
-and therefore can also be considered a comparison sort algorithm. The computational complexity estimates
-involve the number of buckets.
-
-Time Complexity of Solution:
-Best Case O(n); Average Case O(n); Worst Case O(n)
-
+/**
+ * @function
+ * Bucket sort, or bin sort, is a sorting algorithm that works by distributing the
+ * elements of an array into a number of buckets. Each bucket is then sorted individually, either using
+ * a different sorting algorithm, or by recursively applying the bucket sorting algorithm. It is a
+ * distribution sort, and is a cousin of radix sort in the most to least significant digit flavour.
+ * Bucket sort is a generalization of pigeonhole sort.
+ * Time Complexity of Solution:
+ * Best Case O(n); Average Case O(n); Worst Case O(n)
+ * @param {Array} list array to be sorted
+ * @see [BucketSort](https://en.wikipedia.org/wiki/Bucket_sort)
 */
-function bucketSort (list, size) {
+function bucketSort (list) {
+  let size = list.length
   if (undefined === size) {
     size = 5
   }
   if (list.length === 0) {
-    return list
+    return
   }
   let min = list[0]
   let max = list[0]
@@ -50,15 +50,17 @@ function bucketSort (list, size) {
       sorted.push(arr[iSorted])
     }
   }
-  return sorted
+  for (let i = 0; i < size; i++) {
+    list[i] = sorted[i]
+  }
 }
 
-// Testing
-const arrOrignal = [5, 6, 7, 8, 1, 2, 12, 14]
-// > bucketSort(arrOrignal)
-// [1, 2, 5, 6, 7, 8, 12, 14]
-// Array before Sort
-console.log(arrOrignal)
-const arrSorted = bucketSort(arrOrignal)
-// Array after sort
-console.log(arrSorted)
+(/**
+ * @example Function to test Bucket Sort
+ */
+  function demo () {
+    const arr = [5, 6, 7, 8, 1, 2, 12, 14]
+    console.log(arr)
+    bucketSort(arr)
+    console.log(arr)
+  })()

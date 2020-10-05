@@ -1,7 +1,9 @@
-/*
- * Flashsort is a distribution sorting algorithm showing linear computational complexity O(n) for uniformly distributed
+/**
+ * @function Flashsort is a distribution sorting algorithm showing linear computational complexity O(n) for uniformly distributed
  * data sets and relatively little additional memory requirement.
- * more information: https://en.wikipedia.org/wiki/Flashsort
+ * @see [FlashSort](https://en.wikipedia.org/wiki/Flashsort)
+ * @param {Array} array array to be sorted
+ * @returns {Array} sorted array
  */
 
 function flashSort (arr) {
@@ -43,7 +45,9 @@ function flashSort (arr) {
   arr[0] = hold
 
   // permutation
-  let move = 0; let t; let flash
+  let move = 0
+  let t
+  let flash
   let j = 0
   let k = m - 1
 
@@ -75,11 +79,12 @@ function flashSort (arr) {
   return arr
 }
 
-const array = [3, 0, 2, 5, -1, 4, 1, -2]
-
-// Array before Sort
-console.log('-----before sorting-----')
-console.log(array)
-// Array after sort
-console.log('-----after sorting-----')
-console.log(flashSort(array))
+(
+  /**
+   * @example Test function for Flash Sort
+   */
+  function demo () {
+    const array = [3, 0, 2, 5, -1, 4, 1, -2]
+    console.log(array)
+    console.log(flashSort(array))
+  })()
