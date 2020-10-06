@@ -2534,3 +2534,5 @@
 - [@Elldrigar](https://github.com/Elldrigar)
 - [@blainerb4](https://github.com/blainerb4)
 - [@sfaqawi](https://github.com/sfaqawi)
+
+- [@jmiguelpv](https://github.com/jmiguelpv)
