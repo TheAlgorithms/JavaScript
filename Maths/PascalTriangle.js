@@ -1,5 +1,3 @@
-const numRows = 5
-
 const addRow = (triangle) => {
   const previous = triangle[triangle.length - 1]
   const newRow = [1]
@@ -29,4 +27,4 @@ const generate = (numRows) => {
   return triangle
 }
 
-generate(numRows)
+export { generate }
