@@ -18,8 +18,4 @@ const piEstimation = (iterations = 100000) => {
   return pi
 }
 
-function main() {
-  console.log(piEstimation())
-}
-
-main()
+export { piEstimation }
