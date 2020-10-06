@@ -115,6 +115,14 @@
   * [LinearSearch](https://github.com/TheAlgorithms/Javascript/blob/master/Search/LinearSearch.js)
   * [StringSearch](https://github.com/TheAlgorithms/Javascript/blob/master/Search/StringSearch.js)
 
+## Slow and Fast Pointers
+  * [HasCycle](https://github.com/TheAlgorithms/Javascript/blob/master/Slow-Fast-Pointer/HasLinkedListCycle.js)
+  * [CycleLength](https://github.com/TheAlgorithms/Javascript/blob/master/Slow-Fast-Pointer/LinkedListCycleLength.js)
+  * [Middle](https://github.com/TheAlgorithms/Javascript/blob/master/Slow-Fast-Pointer/MiddleOfLinkedList.js)
+  * [ReArrange](https://github.com/TheAlgorithms/Javascript/blob/master/Slow-Fast-Pointer/ReArrangeLinkedList.js)
+  * [StartOfCycle](https://github.com/TheAlgorithms/Javascript/blob/master/Slow-Fast-Pointer/StartOfLinkedListCycle.js)
+  * [IsPalindrome](https://github.com/TheAlgorithms/Javascript/blob/master/Slow-Fast-Pointer/IsLinkedListPalidrome.js)
+
 ## Sorts
   * [BogoSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/BogoSort.js)
   * [BubbleSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/BubbleSort.js)

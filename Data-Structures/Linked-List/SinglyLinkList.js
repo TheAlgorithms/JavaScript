@@ -56,6 +56,7 @@ var LinkedList = (function () {
     }
     // Increment the length
     this.length++
+    return this
   }
 
   // Removes the node with the value as param
@@ -179,6 +180,26 @@ var LinkedList = (function () {
     return currentNode.element
   }
 
+  LinkedList.prototype.addNodeToTail = function (node) {
+    var tail = this.head
+    for (var i = 0; i < this.length - 1; i++) {
+      tail = tail.next
+    }
+    tail.next = node
+  }
+
+  LinkedList.prototype.print = function () {
+    var temp = this.head
+    var list = []
+
+    while (temp !== null) {
+      list.push(temp.element)
+      temp = temp.next
+    }
+
+    console.log(list.join('->'))
+  }
+
   // Function to view the LinkedList
   LinkedList.prototype.view = function () {
     var currentNode = this.head
@@ -207,3 +228,5 @@ linklist.addAt(4, 15)
 console.log(linklist.indexOf(8))
 console.log(linklist.size())
 linklist.view()
+
+module.exports = LinkedList
