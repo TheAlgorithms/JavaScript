@@ -5,7 +5,7 @@ const calcRPN = (expression) => {
     '+': (a, b) => a + b,
     '-': (a, b) => a - b,
     '*': (a, b) => a * b,
-    '/': (a, b) => b / a,
+    '/': (a, b) => b / a
   }
 
   const tokens = expression.split(' ')

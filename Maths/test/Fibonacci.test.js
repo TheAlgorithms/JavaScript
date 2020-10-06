@@ -2,7 +2,7 @@ import {
   FibonacciDpWithoutRecursion,
   FibonacciRecursiveDP,
   FibonacciIterative,
-  FibonacciRecursive,
+  FibonacciRecursive
 } from '../Fibonacci'
 
 describe('Fibonanci', () => {

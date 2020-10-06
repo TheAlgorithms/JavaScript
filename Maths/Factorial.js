@@ -16,7 +16,7 @@
 const calcRange = (num) => {
   // Generate a range of numbers from 1 to `num`.
   let i = 1
-  let range = []
+  const range = []
   while (i <= num) {
     range.push(i)
     i += 1
@@ -26,7 +26,7 @@ const calcRange = (num) => {
 
 const calcFactorial = (num) => {
   let factorial
-  let range = calcRange(num)
+  const range = calcRange(num)
 
   // Check if the number is negative, positive, null, undefined, or zero
   if (num < 0) {

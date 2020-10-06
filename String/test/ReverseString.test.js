@@ -1,6 +1,6 @@
 import {
   ReverseStringIterative,
-  ReverseStringIterativeInplace,
+  ReverseStringIterativeInplace
 } from '../ReverseString'
 
 describe('ReverseStringIterative', () => {

@@ -7,7 +7,7 @@ describe('should return an array of prime booleans', () => {
     const primes = sieveOfEratosthenes(n)
     primes.forEach((primeBool, index) => {
       if (primeBool) {
-        expect(PrimeCheck(index)).toBeTruthy
+        expect(PrimeCheck(index)).toBeTruthy()
       }
     })
   })
