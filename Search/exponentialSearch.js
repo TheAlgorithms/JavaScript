@@ -1,4 +1,4 @@
-/*Exponential Search is a search performed on a sorted array by finding the internal in which
+/* Exponential Search is a search performed on a sorted array by finding the internal in which
  * given number exists and then performing a binary search in the interval
  * We set the initial internal in multiples of 2. For exampe between 2 and 4, 4 and 8, 8 and 16
  * and so on.
@@ -22,28 +22,28 @@ function exponentialSearch (arr, val) {
   // if the required element is the first one return 0
   if (arr[0] === val) return 0
 
-  let ind=1
+  let ind = 1
 
   // while we dont find a suitable range, keep on changing the interval
-  while (ind < len && arr[ind] <= val) ind*=2
+  while (ind < len && arr[ind] <= val) ind *= 2
 
-  //upon finding the suitable interval, perform a binary search
+  // upon finding the suitable interval, perform a binary search
   return binarySearch(arr, ind / 2, Math.min(ind, len), val)
 }
 
 // function for performing a binary search
-function binarySearch (arr, left, right, val){
-    if (left <= right) {
-      let mid = Math.ceil((left + right) / 2)
-      let mid_val = arr[mid]
-      if (mid_val == val) {
-        return mid
-      } else if(val < mid_val){
-        right = mid - 1;
-      } else{
-        left = mid + 1;
-      }
-        return binarySearch (arr, left, right, val)
+function binarySearch (arr, left, right, val) {
+  if (left <= right) {
+    const mid = Math.ceil((left + right) / 2)
+    const midVal = arr[mid]
+    if (midVal === val) {
+      return mid
+    } else if (val < midVal) {
+      right = mid - 1
+    } else {
+      left = mid + 1
     }
-    return -1
+      return binarySearch(arr, left, right, val)
+  }
+  return -1
 }
