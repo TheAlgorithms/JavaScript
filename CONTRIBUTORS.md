@@ -686,6 +686,8 @@
 
 - [@SimonF99](https://github.com/SimonF99)
 
+- [@SimonP](https://github.com/includeSimon)
+
 - [@SohrabRo](https://github.com/SohrabRo/)
 
 - [@SolgiDeveloper](https://github.com/SolgiDeveloper/)
