@@ -43,7 +43,7 @@ function binarySearch (arr, left, right, val) {
     } else {
       left = mid + 1
     }
-      return binarySearch(arr, left, right, val)
+    return binarySearch(arr, left, right, val)
   }
   return -1
 }
