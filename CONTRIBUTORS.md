@@ -1931,6 +1931,8 @@
 
 - [@shabaaz27](https://github.com/shabaaz27)
 
+- [@shafayetrajit](https://github.com/ShafayetRajit)
+
 - [@shafiqAffandi](https://github.com/shafiqAffandi)
 
 - [@shartechs](https://github.com/shartechs)
