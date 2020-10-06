@@ -11,7 +11,7 @@ var assert = require('assert')
 var fs = require('fs')
 
 // file is included here
-eval(fs.readFileSync('../src/la_lib.js') + '')
+eval(fs.readFileSync('src/la_lib.js') + '')
 // Tests goes here
 
 // creating some vectors
