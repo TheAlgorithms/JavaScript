@@ -14,8 +14,10 @@ function main () {
 
   Link for the Problem: https://leetcode.com/problems/rotate-list/
   */
-  const head = '', k = '' // Reference to both head and k is given in the problem. So please ignore this line
-  let i = 0;
+  // Reference to both head and k is given in the problem. So please ignore below two lines
+  let head = ''
+  let k = ''
+  let i = 0
   let current = head
   while (current) {
     i++
