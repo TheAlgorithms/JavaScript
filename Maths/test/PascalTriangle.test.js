@@ -1,4 +1,4 @@
-import { generate } from './PascalTriangle'
+import { generate } from '../PascalTriangle'
 
 describe('Pascals Triangle', () => {
   it('should have the the same length as the number', () => {

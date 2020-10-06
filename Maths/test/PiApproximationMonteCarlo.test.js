@@ -1,4 +1,4 @@
-import { piEstimation } from './PiApproximationMonteCarlo'
+import { piEstimation } from '../PiApproximationMonteCarlo'
 
 describe('PiApproximationMonteCarlo', () => {
   it('should be between the range of 2 to 4', () => {

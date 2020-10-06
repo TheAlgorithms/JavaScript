@@ -1,4 +1,4 @@
-import { Polynomial } from './Polynomial'
+import { Polynomial } from '../Polynomial'
 
 describe('Polynomial', () => {
   it('should not return a expression for zero', () => {

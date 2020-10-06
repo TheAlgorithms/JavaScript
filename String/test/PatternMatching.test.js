@@ -1,4 +1,4 @@
-import { checkIfPatternExists } from './PatternMatching'
+import { checkIfPatternExists } from '../PatternMatching'
 describe('checkIfPatternExists', () => {
   it('expects to find a pattern with correct input', () => {
     const text = 'AABAACAADAABAAAABAA'
@@ -21,6 +21,8 @@ describe('checkIfPatternExists', () => {
   it('expects to throw an error message when given inpuut is not a string', () => {
     const text = 123444456
     const pattern = 123
-    expect(() => checkIfPatternExists(text, pattern)).toThrow('Given input is not a string')
+    expect(() => checkIfPatternExists(text, pattern)).toThrow(
+      'Given input is not a string'
+    )
   })
 })

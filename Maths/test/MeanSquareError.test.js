@@ -1,4 +1,4 @@
-import { meanSquaredError } from './MeanSquareError'
+import { meanSquaredError } from '../MeanSquareError'
 
 describe('meanSquareError', () => {
   it('should throw an error on non-array arguments', () => {

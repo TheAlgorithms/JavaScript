@@ -1,4 +1,4 @@
-import { mean } from './AverageMean'
+import { mean } from '../AverageMean'
 
 describe('Tests for average mean', () => {
   it('should be a function', () => {

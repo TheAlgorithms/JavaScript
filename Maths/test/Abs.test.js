@@ -1,4 +1,4 @@
-import { absVal } from './Abs'
+import { absVal } from '../Abs'
 
 describe('absVal', () => {
   it('should return an absolute value of a negative number', () => {

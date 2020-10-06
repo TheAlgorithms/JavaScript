@@ -1,4 +1,4 @@
-import { findLcm } from './FindLcm'
+import { findLcm } from '../FindLcm'
 
 describe('findLcm', () => {
   it('should throw a statement for values less than 1', () => {

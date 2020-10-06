@@ -1,4 +1,4 @@
-import { findHCF } from './FindHcf'
+import { findHCF } from '../FindHcf'
 
 describe('findHCF', () => {
   it('should throw a statement for values less than 1', () => {

@@ -1,4 +1,4 @@
-import { PrimeCheck } from './PrimeCheck'
+import { PrimeCheck } from '../PrimeCheck'
 
 describe('PrimeCheck', () => {
   it('should return true for Prime Numbers', () => {

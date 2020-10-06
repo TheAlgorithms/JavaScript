@@ -1,4 +1,4 @@
-import { PalindromeRecursive, PalindromeIterative } from './Palindrome'
+import { PalindromeRecursive, PalindromeIterative } from '../Palindrome'
 
 describe('Palindrome', () => {
   it('should return true for a palindrome for PalindromeRecursive', () => {

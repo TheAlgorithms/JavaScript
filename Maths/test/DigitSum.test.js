@@ -1,4 +1,4 @@
-import { digitSum } from './DigitSum'
+import { digitSum } from '../DigitSum'
 
 describe('digitSum', () => {
   it('is a function', () => {

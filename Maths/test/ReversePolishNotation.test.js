@@ -1,4 +1,4 @@
-import { calcRPN } from './ReversePolishNotation'
+import { calcRPN } from '../ReversePolishNotation'
 
 describe('ReversePolishNotation', () => {
   it('should evaluate correctly for two values', () => {

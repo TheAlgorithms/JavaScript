@@ -1,4 +1,4 @@
-import { gridGetX, gridGetY } from './GridGet'
+import { gridGetX, gridGetY } from '../GridGet'
 
 describe('GridGet', () => {
   it('should have a value of x for the 27th element if the square array has 400 elements', () => {

@@ -3,7 +3,7 @@ import {
   FibonacciRecursiveDP,
   FibonacciIterative,
   FibonacciRecursive,
-} from './Fibonacci'
+} from '../Fibonacci'
 
 describe('Fibonanci', () => {
   it('should return an array of numbers for FibonnaciIterative', () => {

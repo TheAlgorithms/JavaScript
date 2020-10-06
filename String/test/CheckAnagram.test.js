@@ -1,4 +1,4 @@
-import { checkAnagram } from './CheckAnagram'
+import { checkAnagram } from '../CheckAnagram'
 
 describe('checkAnagram', () => {
   it.each`

@@ -1,5 +1,5 @@
-import { sieveOfEratosthenes } from './SieveOfEratosthenes'
-import { PrimeCheck } from './PrimeCheck'
+import { sieveOfEratosthenes } from '../SieveOfEratosthenes'
+import { PrimeCheck } from '../PrimeCheck'
 
 describe('should return an array of prime booleans', () => {
   it('should have each element in the array as a prime boolean', () => {

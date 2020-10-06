@@ -1,4 +1,4 @@
-import { modularBinaryExponentiation } from './ModularBinaryExponentiationRecursive'
+import { modularBinaryExponentiation } from '../ModularBinaryExponentiationRecursive'
 
 describe('modularBinaryExponentiation', () => {
   it('should return the binary exponentiation', () => {

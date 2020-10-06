@@ -1,4 +1,4 @@
-import { calcFactorial } from './Factorial'
+import { calcFactorial } from '../Factorial'
 
 describe('calcFactorial', () => {
   it('is a function', () => {
