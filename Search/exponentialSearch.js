@@ -18,12 +18,12 @@ console.log(index)
 
 
 function exponentialSearch(arr, val){
-    len=arr.length
+    let len=arr.length
 
     //if the required element is the first one return 0
     if(arr[0]==val)return 0
 
-    ind=1
+    let ind=1
 
     //while we dont find a suitable range, keep on changing the interval
     while(ind<len && arr[ind]<=val) ind*=2
