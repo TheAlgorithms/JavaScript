@@ -2532,6 +2532,12 @@
 
 - [@dlm1999](https://github.com/dlm1999/)
 
+- [@anirudhs1998](https://github.com/anirudhs1998/)
+ 
+- [@manfredarandiav](https://github.com/manfredarandiav)
+
+- [@Taimakh](https://github.com/Taimakh/)
+
 - [@Elldrigar](https://github.com/Elldrigar)
 
 - [@blainerb4](https://github.com/blainerb4)
@@ -2546,8 +2552,8 @@
 
 - [@sinduap](https://github.com/sinduap/)
 
--[@anirudhs1998](https://github.com/anirudhs1998/)
+- [@anirudhs1998](https://github.com/anirudhs1998/)
 
--[@96nikhil07](https://github.com/96nikhil07/)
+- [@96nikhil07](https://github.com/96nikhil07/)
 
 - [@abishek-sha-256](https://github.com/abishek-sha-256)
