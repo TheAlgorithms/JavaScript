@@ -24,6 +24,7 @@ class BinaryTree {
     }
     return this.traversal.toLocaleString()
   }
+
   // Compputing the height of the tree
   getHeight (node) {
     if (node == null) {
@@ -39,7 +40,7 @@ class BinaryTree {
     if (level === 1 && node !== null) {
       this.traversal.push(node.data)
     } else {
-      if (node !== null ) {
+      if (node !== null) {
         this.traverseLevel(node.left, level - 1)
         this.traverseLevel(node.right, level - 1)
       }
@@ -54,7 +55,7 @@ root.right = new Node(8)
 root.left.left = new Node(3)
 root.left.right = new Node(6)
 root.right.right = new Node(9)
-binaryTree.root = root;
+binaryTree.root = root
 
 console.log(binaryTree.breadthFirst())
 
