@@ -4,47 +4,47 @@
 */
 
 class Node {
-    constructor(data) {
-        this.data =data;
-        this.left = null;
-        this.right = null;
-    }
+  constructor(data) {
+    this.data = data;
+    this.left = null;
+    this.right = null;
+  }
 }
 
 class BinaryTree {
-    constructor() {
-        this.root = null;
-        this.traversal = [];
-    }
+  constructor () {
+    this.root = null;
+    this.traversal = [];
+  }
 
-    breadthFirst() {
-        let h = this.getHeight(this.root);
-        for (let i = 1; i <= h; i++) {
-            this.traverseLevel(this.root,i);
-        }
-        return this.traversal.toLocaleString();
+  breadthFirst () {
+    const h = this.getHeight(this.root);
+    for (let i = 1; i <= h; i++) {
+      this.traverseLevel(this.root, i);
     }
-    // Compputing the height of the tree
-    getHeight(root) {
-        if (root == null) {
-            return 0;
-        } else {
-            let lheight = this.getHeight(root.left);
-            let rheight = this.getHeight(root.right);
-            return lheight > rheight ? lheight + 1 : rheight + 1;
-        }
+    return this.traversal.toLocaleString();
+  }
+  // Compputing the height of the tree
+  getHeight (root) {
+    if (root == null) {
+      return 0;
+    } else {
+      let lheight = this.getHeight(root.left);
+      let rheight = this.getHeight(root.right);
+      return lheight > rheight ? lheight + 1 : rheight + 1;
     }
+  }
 
-    traverseLevel(node, level){
-        if(node == null){
-            return;
-        }else if(level == 1){
-            this.traversal.push(node.data);
-        }else {
-            this.traverseLevel(node.left, level-1);
-            this.traverseLevel(node.right, level-1)
-        }
+  traverseLevel (node, level) {
+    if (node == null) {
+      return
+    } else if (level == 1) {
+      this.traversal.push(node.data);
+    } else {
+      this.traverseLevel(node.left, level - 1);
+      this.traverseLevel(node.right, level - 1);
     }
+  }
 }
 
 let binaryTree = new BinaryTree();
