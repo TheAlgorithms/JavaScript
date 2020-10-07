@@ -2548,6 +2548,8 @@
 
 - [@Elldrigar](https://github.com/Elldrigar)
 
+- [@QueenTrovert](https://github.com/QueenTrovert)
+
 - [@blainerb4](https://github.com/blainerb4)
 
 - [@sfaqawi](https://github.com/sfaqawi)
