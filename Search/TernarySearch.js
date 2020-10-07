@@ -6,32 +6,18 @@
  */
 
 
-let ternarySearch = (left, right, target, arr) => {
-	//If the right side of array is smaller than the left, then the element doesn't exist in the array 
-	if (right >= left)
-	{
-		//Find the two mid points to divide the array into three parts
-		let mid1 = Math.floor(left + (right - left) /3);
-		let mid2 = Math.floor(right - (right - left) /3);
-
-		//We check both the mid point to see if it is the target element
-		if (arr[mid1] == target) {
-			return mid1;
-		}
-		else if (arr[mid2] == target) {
-			return mid2;
-		}
-
-		//Now we check to see if target is in the left section.
-		if (target < arr[mid1]) {
-			return ternarySearch(left, mid1 - 1, target, arr);
-		}	//Then to see if target is in the right section.
-		else if (target > arr[mid2]) {
-			return ternarySearch(mid2 + 1, right, target, arr);
-		}	//Otherwise the target exist in the middle section.
-		else {
-			return ternarySearch(mid1 + 1, mid2 - 1, target, arr);
-		}
-	}
-	return -1;
+function ternarySearch(givenList, left, right, absolutePrecision) {
+  while (true) {
+    if (Math.abs(right - left) < absolutePrecision) {
+      return (left + right) / 2;
+    }
+    var leftThird = left + (right - left) / 3;
+    var rightThird = right - (right - left) / 3;
+    if (givenList[leftThird] < givenList[rightThird]) {
+      left = leftThird;
+    } else {
+      right = rightThird;
+    }
+  }
 }
+  
