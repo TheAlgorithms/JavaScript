@@ -34,7 +34,9 @@
     * [MaxHeap](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Heap/MaxHeap.js)
     * [MinPriorityQueue](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Heap/MinPriorityQueue.js)
   * Linked-List
+    * [CycleDetection](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Linked-List/CycleDetection.js)
     * [DoublyLinkedList](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Linked-List/DoublyLinkedList.js)
+    * [SingleCircularLinkedList](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Linked-List/SingleCircularLinkedList.js.js)
     * [SinglyLinkList](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Linked-List/SinglyLinkList.js)
   * Queue
     * [Queue](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Queue/Queue.js)
@@ -50,6 +52,7 @@
   * [ClimbingStairs](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/ClimbingStairs.js)
   * [CoinChange](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/CoinChange.js)
   * [EditDistance](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/EditDistance.js)
+  * [FibonacciNumber](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/FibonacciNumber.js)
   * [KadaneAlgo](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/KadaneAlgo.js)
   * [LevenshteinDistance](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/LevenshteinDistance.js)
   * [LongestCommonSubsequence](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/LongestCommonSubsequence.js)
@@ -87,6 +90,7 @@
   * [FindHcf](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/FindHcf.js)
   * [FindLcm](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/FindLcm.js)
   * [GridGet](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/GridGet.js)
+  * [MeanSquareError](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/MeanSquareError.js)
   * [ModularBinaryExponentiationRecursive](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/ModularBinaryExponentiationRecursive.js)
   * [Palindrome](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/Palindrome.js)
   * [PascalTriangle](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/PascalTriangle.js)
@@ -101,6 +105,7 @@
 
 ## Recursive
   * [EucledianGCD](https://github.com/TheAlgorithms/Javascript/blob/master/Recursive/EucledianGCD.js)
+  * [FibonacciNumberRecursive](https://github.com/TheAlgorithms/Javascript/blob/master/Recursive/FibonacciNumberRecursive.js)
   * [TowerOfHanoi](https://github.com/TheAlgorithms/Javascript/blob/master/Recursive/TowerOfHanoi.js)
 
 ## Search
@@ -130,6 +135,7 @@
   * [QuickSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/QuickSort.js)
   * [RadixSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/RadixSort.js)
   * [SelectionSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/SelectionSort.js)
+  * [SelectionSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/SelectionSort.test.js)
   * [ShellSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/ShellSort.js)
   * [TimSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/TimSort.js)
   * [TopologicalSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/TopologicalSort.js)
@@ -141,6 +147,8 @@
   * [CheckPalindrome](https://github.com/TheAlgorithms/Javascript/blob/master/String/CheckPalindrome.js)
   * [CheckPalindrome](https://github.com/TheAlgorithms/Javascript/blob/master/String/CheckPalindrome.test.js)
   * [CheckRearrangePalindrome](https://github.com/TheAlgorithms/Javascript/blob/master/String/CheckRearrangePalindrome.js)
+  * [CheckWordOccurrence](https://github.com/TheAlgorithms/Javascript/blob/master/String/CheckWordOccurrence.js)
+  * [CheckWordOcurrence](https://github.com/TheAlgorithms/Javascript/blob/master/String/CheckWordOcurrence.test.js)
   * [PatternMatching](https://github.com/TheAlgorithms/Javascript/blob/master/String/PatternMatching.js)
   * [PatternMatching](https://github.com/TheAlgorithms/Javascript/blob/master/String/PatternMatching.test.js)
   * [ReverseString](https://github.com/TheAlgorithms/Javascript/blob/master/String/ReverseString.js)
