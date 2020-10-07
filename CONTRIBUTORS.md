@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+-[@souviknsl07](https://github.com/souviknsl07)
+
 - [@0xaj](https://github.com/0xaj)
 
 - [@17Piyush](https://github.com/17Piyush/)
@@ -2370,7 +2372,6 @@
 
 - [@zizu1681](https://github.com/zizu1681/)
 
-<<<<<<< HEAD
 - [@poonampant](https://github.com/poonampant/)
 
 - [@rocketrunner22](https://github.com/rocketrunner22)
@@ -2532,11 +2533,17 @@
 - [@dlm1999](https://github.com/dlm1999/)
 
 - [@Elldrigar](https://github.com/Elldrigar)
+
 - [@blainerb4](https://github.com/blainerb4)
+
 - [@sfaqawi](https://github.com/sfaqawi)
 
 - [@jmiguelpv](https://github.com/jmiguelpv)
 
 - [@acha0086](https://github.com/acha0086)
+
+- [@anirudhs1998](https://github.com/anirudhs1998/)
+
+- [@sinduap](https://github.com/sinduap/)
 
 - [@abishek-sha-256](https://github.com/abishek-sha-256)
