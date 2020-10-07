@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@Dheeraja7252](https://github.com/Dheeraja7252)
+
 - [@0xaj](https://github.com/0xaj)
 
 - [@17Piyush](https://github.com/17Piyush/)
