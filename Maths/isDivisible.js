@@ -9,3 +9,7 @@ const isDivisible = (num1, num2) => {
   }
   return num1 % num2 === 0
 }
+
+console.log(isDivisible(10, 5)) // returns true
+console.log(isDivisible(123498175, 5)) // returns true
+console.log(isDivisible(99, 5)) // returns false
