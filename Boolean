@@ -1,0 +1,25 @@
+<!DOCTYPE html> 
+<html> 
+  
+<body> 
+    <script> 
+        var v1 = false; 
+        var v2 = new Boolean(false); 
+        var v3 = new Boolean(""); 
+        var v4 = new Boolean(0); 
+        var v5 = new Boolean(true); 
+        var v6 = new Boolean("Hacktoberfest"); 
+        document.write('v1 = ' + v1); 
+        document.write("<br>"); 
+        document.write('v2 = ' + v2); 
+        document.write("<br>"); 
+        document.write('v3 = ' + v3); 
+        document.write("<br>"); 
+        document.write('v4 = ' + v4); 
+        document.write("<br>"); 
+        document.write('v5 = ' + v5); 
+        document.write("<br>"); 
+        document.write('v6 = ' + v6); 
+    </script> 
+</body> 
+</html> 
