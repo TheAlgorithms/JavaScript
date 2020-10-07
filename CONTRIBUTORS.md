@@ -2546,4 +2546,8 @@
 
 - [@sinduap](https://github.com/sinduap/)
 
+-[@anirudhs1998](https://github.com/anirudhs1998/)
+
+-[@96nikhil07](https://github.com/96nikhil07/)
+
 - [@abishek-sha-256](https://github.com/abishek-sha-256)
