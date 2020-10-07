@@ -70,6 +70,8 @@
 
 - [@AmanDeep9925](https://github.com/AmanDeep9925)
 
+- [@Amchuz](https://github.com/Amchuz)
+
 - [@AmitKulkarni9](https://github.com/AmitKulkarni9)
 
 - [@AmosStraus](https://github.com/AmosStraus)
