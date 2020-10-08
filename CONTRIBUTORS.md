@@ -2738,7 +2738,7 @@
 
 - [@VeNOM4171](https://github.com/VeNOM4171)
 
-- [@NABILFIKRI99] (https://github.com/NABILFIKRI99) 
+- [@NABILFIKRI99](https://github.com/NABILFIKRI99) 
 
-- [@abarac24] (https://github.com/abarac24) 
+- [@abarac24](https://github.com/abarac24) 
   
