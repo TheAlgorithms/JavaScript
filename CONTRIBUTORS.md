@@ -2755,6 +2755,9 @@
 - [@FullStackKing-DotNet](https://github.com/FullStackKing-DotNet)
 
 - [@ViliTajnic](https://github.com/ViliTajnic)
+
 -[gianwebsites](https://github.com/gianwebsites)
 
 - [@MartinKuracka](https://github.com/MartinKuracka)
+
+- [@xritz0x](https://github.com/xritz0x/)
