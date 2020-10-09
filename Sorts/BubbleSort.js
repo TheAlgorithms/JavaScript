@@ -7,6 +7,8 @@
 *  the previous inner-loop iteration. By swapped I mean, in the
 *  inner loop iteration, we check each number if the number proceeding
 *  it is greater than itself, if so we swap them.
+*
+*  Wikipedia: https://en.wikipedia.org/wiki/Bubble_sort
 */
 
 /*
