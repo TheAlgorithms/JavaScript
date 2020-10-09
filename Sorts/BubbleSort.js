@@ -2,7 +2,7 @@
 *  compares adjacent element and swaps thier position
 *  The big O on bubble sort in worst and best case is O(N^2).
 *  Not efficient.
-*  
+*
 *  In bubble sort, we keep iterating while something was swapped in
 *  the previous inner-loop iteration. By swapped I mean, in the
 *  inner loop iteration, we check each number if the number proceeding
@@ -13,7 +13,7 @@
 
 /*
 *  Doctests
-*  
+*
 *  > bubbleSort([5, 4, 1, 2, 3])
 *  [1, 2, 3, 4, 5]
 *  > bubbleSort([])
@@ -32,7 +32,7 @@
 /*
 *  Using 2 for loops
 */
-function bubbleSort(items) {
+function bubbleSort (items) {
   const length = items.length
 
   for (let i = (length - 1); i > 0; i--) {
@@ -64,7 +64,7 @@ console.log('\n')
 /*
 *  Using a while loop and a for loop
 */
-function alternativeBubbleSort(arr) {
+function alternativeBubbleSort (arr) {
   let swapped = true
 
   while (swapped) {
