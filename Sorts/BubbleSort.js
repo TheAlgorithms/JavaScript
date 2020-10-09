@@ -89,5 +89,5 @@ console.log('\n- Before Sort | Implementation using a while loop and a for loop 
 console.log(array2)
 // After Sort
 console.log('- After Sort | Implementation using a while loop and a for loop -')
-console.log(bubbleSort(array2))
+console.log(alternativeBubbleSort(array2))
 console.log('\n')
