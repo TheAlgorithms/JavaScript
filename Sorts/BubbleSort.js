@@ -32,13 +32,16 @@ function bubbleSort(items) {
 /*
 *  Implementation of 2 for loops method
 */
-var ar = [5, 6, 7, 8, 1, 2, 12, 14]
-// Array before Sort
-console.log('-----before sorting-----')
-console.log(ar)
-// Array after sort
-console.log('-----after sorting-----')
-console.log(bubbleSort(ar))
+var array1 = [5, 6, 7, 8, 1, 2, 12, 14]
+// Before Sort
+console.log('- Before Sort | Implementation using 2 for loops -')
+console.log(array1)
+// After Sort
+console.log('- After Sort | Implementation using 2 for loops -')
+console.log(bubbleSort(array1))
+
+/* Separating Console Logs */
+console.log("\n\n")
 
 /*
 *  Using a while loop and a for loop
@@ -62,8 +65,10 @@ function alternativeBubbleSort(arr) {
 /*
 *  Implementation of a while loop and a for loop method
 */
-console.log('-----before sorting-----')
-var array = [10, 5, 3, 8, 2, 6, 4, 7, 9, 1]
-console.log(array)
-console.log('-----after sorting-----')
-console.log(alternativeBubbleSort(array))
+var array2 = [5, 6, 7, 8, 1, 2, 12, 14]
+// Before Sort
+console.log('- Before Sort | Implementation using a while loop and a for loop -')
+console.log(array2)
+// After Sort
+console.log('- After Sort | Implementation using a while loop and a for loop -')
+console.log(bubbleSort(array2))
