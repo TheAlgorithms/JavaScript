@@ -26,6 +26,7 @@ function bubbleSort(items) {
     }
   }
 
+  return items
 }
 
 /*
@@ -35,10 +36,9 @@ var ar = [5, 6, 7, 8, 1, 2, 12, 14]
 // Array before Sort
 console.log('-----before sorting-----')
 console.log(ar)
-bubbleSort(ar)
 // Array after sort
 console.log('-----after sorting-----')
-console.log(ar)
+console.log(bubbleSort(ar))
 
 /*
 *  Using a while loop and a for loop
