@@ -2500,4 +2500,6 @@
 
 - [@rubberDuckyyy](https://github.com/rubberDuckyyy)
 
+-[@JHorlamide](https://github.com/JHorlamide)
+
 - [@Ferdiz571](https://github.com/ferdiz571)
