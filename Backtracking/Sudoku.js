@@ -1,10 +1,12 @@
-class Sudoku {
+class Sudoku 
+{
   // Sudoku Class to hold the board and related functions
   constructor (board) {
     this.board = board
   }
 
-  findEmptyCell () {
+  findEmptyCell ()
+  {
     // Find a empty cell in the board (returns [-1, -1] if all cells are filled)
     for (let i = 0; i < 9; i++) {
       for (let j = 0; j < 9; j++) {
