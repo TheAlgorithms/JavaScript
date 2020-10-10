@@ -86,6 +86,8 @@
 
 ## Maths
   * [Abs](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/Abs.js)
+  * [Area](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/Area.js)
+  * [Area](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/Area.test.js)
   * [AverageMean](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/AverageMean.js)
   * [digitSum](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/digitSum.js)
   * [Factorial](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/Factorial.js)
