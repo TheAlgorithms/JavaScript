@@ -15,3 +15,6 @@ function isOdd (num) {
 
   return false
 }
+
+console.log(isOdd(2))
+console.log(isOdd(3))
