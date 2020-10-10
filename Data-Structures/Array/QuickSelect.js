@@ -21,7 +21,7 @@ function RandomizedSelect (
   right,
   i
 ) {
-  if (left === right) return items[left]
+  if (left === right) return items[left == right]
 
   const pivotIndex = RandomizedPartition(items, left, right)
   const k = pivotIndex - left + 1
