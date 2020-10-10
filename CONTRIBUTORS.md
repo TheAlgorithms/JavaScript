@@ -2499,3 +2499,5 @@
 - [gianwebsites](https://github.com/gianwebsites)
 
 - [@rubberDuckyyy](https://github.com/rubberDuckyyy)
+
+-[@JHorlamide](https://github.com/JHorlamide)
