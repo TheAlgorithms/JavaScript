@@ -2500,4 +2500,10 @@
 
 - [@rubberDuckyyy](https://github.com/rubberDuckyyy)
 
+<<<<<<< HEAD
 - [@JHorlamide](https://github.com/JHorlamide)
+=======
+-[@JHorlamide](https://github.com/JHorlamide)
+
+- [@Ferdiz571](https://github.com/ferdiz571)
+>>>>>>> 9ec55c84c520264e865b7b3ee209e20cb797a47a
