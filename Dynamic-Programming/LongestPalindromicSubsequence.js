@@ -19,7 +19,7 @@ const longestPalindromeSubsequence = function (s) {
   for (let i = 1; i < n; i++) {
     for (let j = 0; j < n - i; j++) {
       const col = j + i
-      if (s[j] == s[col]) {
+      if (s[j] === s[col]) {
         dp[j][col] = 2 + dp[j + 1][col - 1]
       } else {
         dp[j][col] = Math.max(dp[j][col - 1], dp[j + 1][col])
