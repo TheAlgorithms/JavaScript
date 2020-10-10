@@ -22,6 +22,7 @@
   * [DecimalToHex](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/DecimalToHex.js)
   * [DecimalToOctal](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/DecimalToOctal.js)
   * [HexToRGB](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/HexToRGB.js)
+  * [RGBToHex](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/RGBToHex.js)
   * [RomanToDecimal](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/RomanToDecimal.js)
 
 ## Data-Structures
