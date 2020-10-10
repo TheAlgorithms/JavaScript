@@ -2778,3 +2778,5 @@
 - [@ariellinfy](https://github.com/ariellinfy)
 
 - [@iamobregon](https://github.com/iamobregon)
+
+- [@Gyalzen2](https://github.com/Gyalzen2)
