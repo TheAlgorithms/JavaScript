@@ -14,8 +14,7 @@
 
 const mean = (nums) => {
   // This is a function returns average/mean of array
-  var sum = 0
-  var avg
+  let sum = 0
 
   // This loop sums all values in the 'nums' array using forEach loop
   nums.forEach(function (current) {
@@ -23,9 +22,8 @@ const mean = (nums) => {
   })
 
   // Divide sum by the length of the 'nums' array.
-  avg = sum / nums.length
+  const avg = sum / nums.length
   return avg
 }
 
-// Run `mean` Function to find average of a list of numbers.
-console.log(mean([2, 4, 6, 8, 20, 50, 70]))
+export { mean }

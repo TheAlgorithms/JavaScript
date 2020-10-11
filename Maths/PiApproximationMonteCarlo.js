@@ -1,7 +1,7 @@
 // Wikipedia: https://en.wikipedia.org/wiki/Monte_Carlo_method
 // Video Explaination: https://www.youtube.com/watch?v=ELetCV_wX_c
 
-function piEstimation (iterations = 100000) {
+const piEstimation = (iterations = 100000) => {
   let circleCounter = 0
 
   for (let i = 0; i < iterations; i++) {
@@ -18,8 +18,4 @@ function piEstimation (iterations = 100000) {
   return pi
 }
 
-function main () {
-  console.log(piEstimation())
-}
-
-main()
+export { piEstimation }

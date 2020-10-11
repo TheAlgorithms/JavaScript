@@ -18,9 +18,4 @@ const meanSquaredError = (predicted, expected) => {
   return err / expected.length
 }
 
-// testing
-(() => {
-  console.log(meanSquaredError([1, 2, 3, 4], [1, 2, 3, 4]) === 0)
-  console.log(meanSquaredError([4, 3, 2, 1], [1, 2, 3, 4]) === 5)
-  console.log(meanSquaredError([2, 0, 2, 0], [0, 0, 0, 0]) === 3)
-})()
+export { meanSquaredError }
