@@ -364,6 +364,8 @@
 
 - [@Jackson162](https://github.com/Jackson162)
 
+- [@JaggedPurpose](https://github.com/JaggedPurpose)
+
 - [@Jaidev0077](https://github.com/Jaidev0077)
 
 - [@Jalpy-Dev](https://github.com/Jalpy-Dev)
