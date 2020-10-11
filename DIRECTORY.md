@@ -160,6 +160,8 @@
   * [CheckVowels](https://github.com/TheAlgorithms/Javascript/blob/master/String/CheckVowels.test.js)
   * [CheckWordOccurrence](https://github.com/TheAlgorithms/Javascript/blob/master/String/CheckWordOccurrence.js)
   * [CheckWordOcurrence](https://github.com/TheAlgorithms/Javascript/blob/master/String/CheckWordOcurrence.test.js)
+  * [FormatPhoneNumber](https://github.com/TheAlgorithms/Javascript/blob/master/String/FormatPhoneNumber.js)
+  * [FormatPhoneNumber](https://github.com/TheAlgorithms/Javascript/blob/master/String/FormatPhoneNumber.test.js)
   * [LevenshteinDistance](https://github.com/TheAlgorithms/Javascript/blob/master/String/LevenshteinDistance.js)
   * [LevenshteinDistance](https://github.com/TheAlgorithms/Javascript/blob/master/String/LevenshteinDistance.test.js)
   * [PatternMatching](https://github.com/TheAlgorithms/Javascript/blob/master/String/PatternMatching.js)
