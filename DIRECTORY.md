@@ -168,6 +168,8 @@
   * [MaxCharacter](https://github.com/TheAlgorithms/Javascript/blob/master/String/MaxCharacter.test.js)
   * [PatternMatching](https://github.com/TheAlgorithms/Javascript/blob/master/String/PatternMatching.js)
   * [PatternMatching](https://github.com/TheAlgorithms/Javascript/blob/master/String/PatternMatching.test.js)
+  * [PermutateString](https://github.com/TheAlgorithms/Javascript/blob/master/String/PermutateString.js)
+  * [PermutateString](https://github.com/TheAlgorithms/Javascript/blob/master/String/PermutateString.test.js)
   * [ReverseString](https://github.com/TheAlgorithms/Javascript/blob/master/String/ReverseString.js)
   * [ReverseString](https://github.com/TheAlgorithms/Javascript/blob/master/String/ReverseString.test.js)
   * [ReverseWords](https://github.com/TheAlgorithms/Javascript/blob/master/String/ReverseWords.js)
