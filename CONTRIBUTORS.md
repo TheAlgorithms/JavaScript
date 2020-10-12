@@ -364,6 +364,8 @@
 
 - [@Jackson162](https://github.com/Jackson162)
 
+- [@JaggedPurpose](https://github.com/JaggedPurpose)
+
 - [@Jaidev0077](https://github.com/Jaidev0077)
 
 - [@Jalpy-Dev](https://github.com/Jalpy-Dev)
@@ -2166,6 +2168,8 @@
 
 - [@shotpoet86](https://github.com/shotpoet86/)
 
+- [@shrey27tri01](https://github.com/shrey27tri01)
+
 - [@shreya750](https://github.com/shreya750)
 
 - [@shreyas](https://github.com/Shreyasd10)
@@ -2519,3 +2523,29 @@
 - [@KevinToft](https://github.com/KevinToft)
 
 - [@nileshkum](https://github.com/nileshkum)
+
+- [@Fikriihsan03](https://github.com/Fikriihsan03)
+
+- [@deonlobo](https://github.com/deonlobo)
+
+- [@AhmedBelal15](https://github.com/AhmedBelal15)
+
+- [@joseulchak](https://github.com/joseulchak)
+
+- [@KccbzZ](https://github.com/KccbzZ)
+
+- [@VishwasMore](https://github.com/VishwasMore)
+
+- [@epletnev](https://github.com/epletnev)
+
+- [@kishan0511](https://github.com/kishan0511)
+
+- [@matthewdbrock1968](https://github.com/matthewdbrock1968)
+
+- [@Ayushdatt01](https://github.com/Ayushdatt01)
+
+- [@dballowe7912](https://github.com/dballowe7912)
+
+- [@piyush4for](https://github.com/piyush4for)
+
+- [@Sidtalker](https://github.com/Sidtalker)
