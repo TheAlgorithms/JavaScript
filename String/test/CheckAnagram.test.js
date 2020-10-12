@@ -1,4 +1,4 @@
-import { checkAnagram } from './CheckAnagram'
+import { checkAnagram } from '../CheckAnagram'
 
 describe('checkAnagram', () => {
   it.each`
@@ -18,7 +18,7 @@ describe('checkAnagram', () => {
   )
   it('expects to return "Not anagram" if the arguments have different lengths', () => {
     const SUT = checkAnagram('abs', 'abds')
-    expect(SUT).toBe('Not Anagram')
+    expect(SUT).toBe('Not anagrams')
   })
   it('expects to return "Not anagram" if the arguments are not anagrams', () => {
     const SUT = checkAnagram('abcs', 'abds')

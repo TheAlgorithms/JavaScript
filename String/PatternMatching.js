@@ -24,7 +24,6 @@ const checkIfPatternExists = (text, pattern) => {
       // For each iteration of j check if the value of
       // j + 1 is equal to the length of the pattern
       if (j + 1 === patternLength) {
-        console.log(`Given pattern is found at index ${i}`)
         return `Given pattern is found at index ${i}`
       }
     }
