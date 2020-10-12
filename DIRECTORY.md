@@ -214,6 +214,8 @@
   * [ValidateEmail](https://github.com/TheAlgorithms/Javascript/blob/master/String/ValidateEmail.test.js)
 
 ## Timing-Functions
+  * [GetMonthDays](https://github.com/TheAlgorithms/Javascript/blob/master/Timing-Functions/GetMonthDays.js)
+  * [GetMonthDays](https://github.com/TheAlgorithms/Javascript/blob/master/Timing-Functions/GetMonthDays.test.js)
   * [IntervalTimer](https://github.com/TheAlgorithms/Javascript/blob/master/Timing-Functions/IntervalTimer.js)
 
 ## Trees
