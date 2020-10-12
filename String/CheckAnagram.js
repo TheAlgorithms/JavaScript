@@ -8,7 +8,7 @@ const checkAnagram = (str1, str2) => {
 
   // If both strings have not same lengths then they can not be anagram.
   if (str1.length !== str2.length) {
-    return 'Not Anagram'
+    return 'Not anagrams'
   }
 
   // Use hashmap to keep count of characters in str1
@@ -44,7 +44,4 @@ const checkAnagram = (str1, str2) => {
   return 'Anagrams'
 }
 
-console.log(checkAnagram('abcd', 'bcad')) // should print anagram
-console.log(checkAnagram('abcd', 'abef')) // should print not anagram
-console.log(checkAnagram(10, 'abcd'))// should print Not String(s).
-console.log(checkAnagram('abs', 'abds'))// should print not anagram
+export { checkAnagram }

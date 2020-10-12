@@ -1,4 +1,7 @@
 const reverseWords = (str) => {
+  if (typeof str !== 'string') {
+    throw new TypeError('The given value is not a string')
+  }
   // Split string into words
   // Ex. "I Love JS" => ["I", "Love", "JS"]
   const words = str.split(' ')
@@ -10,6 +13,4 @@ const reverseWords = (str) => {
   return reversedWords.join(' ')
 }
 
-// testing
-console.log(reverseWords('I Love JS'))
-console.log(reverseWords('My Name Is JavaScript'))
+export { reverseWords }
