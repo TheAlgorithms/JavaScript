@@ -1,11 +1,22 @@
 /**
  * Cocktail Shaker Sort is an algorithm that is a Bidirectional Bubble Sort.
- * The algorithm extends bubble sort by operating in two directions. 
- * While it improves on bubble sort by more quickly moving items to the beginning of the list, 
+ * The algorithm extends bubble sort by operating in two directions.
+ * While it improves on bubble sort by more quickly moving items to the beginning of the list,
  * it provides only marginal performance improvements.
- * 
+ *
  * Wikipedia (Cocktail Shaker Sort): https://en.wikipedia.org/wiki/Cocktail_shaker_sort
  * Wikipedia (Bubble Sort): https://en.wikipedia.org/wiki/Bubble_sort
+ */
+
+/**
+ * Doctests
+ *
+ * > cocktailShakerSort([5, 4, 1, 2, 3])
+ * [1, 2, 3, 4, 5]
+ * > cocktailShakerSort([])
+ * []
+ * > cocktailShakerSort([1, 2, 3])
+ * [1, 2, 3]
  */
 
 function cocktailShakerSort (items) {
@@ -28,12 +39,9 @@ function cocktailShakerSort (items) {
         swapped = true
       }
     }
-    if (!swapped) {
-      return
-    }
   }
 
-  return items;
+  return items
 }
 
 /**
