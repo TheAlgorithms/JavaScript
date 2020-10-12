@@ -1,4 +1,3 @@
-
 // MatrixCheck tests to see if all of the rows of the matrix inputted have similar size columns
 const matrixCheck = (matrix) => {
   let columnNumb
