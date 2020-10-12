@@ -32,6 +32,8 @@ function cocktailShakerSort (items) {
       return
     }
   }
+
+  return items;
 }
 
 /**
