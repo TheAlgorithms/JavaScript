@@ -3,7 +3,7 @@
  * @param  {String} text - string to be encrypted
  * @return {String} - decrypted string
  */
-function transcipher (text) {
+const transcipher = (text) => {
   const originalCharacterList = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz'
   const toBeMappedCharaterList = 'NOPQRSTUVWXYZABCDEFGHIJKLMnopqrstuvwxyzabcdefghijklm'
   const index = x => originalCharacterList.indexOf(x)
