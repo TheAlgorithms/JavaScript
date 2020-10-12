@@ -207,6 +207,8 @@
     * [PatternMatching](https://github.com/TheAlgorithms/Javascript/blob/master/String/test/PatternMatching.test.js)
     * [ReverseString](https://github.com/TheAlgorithms/Javascript/blob/master/String/test/ReverseString.test.js)
     * [ReverseWords](https://github.com/TheAlgorithms/Javascript/blob/master/String/test/ReverseWords.test.js)
+  * [ValidateEmail](https://github.com/TheAlgorithms/Javascript/blob/master/String/ValidateEmail.js)
+  * [ValidateEmail](https://github.com/TheAlgorithms/Javascript/blob/master/String/ValidateEmail.test.js)
 
 ## Timing-Functions
   * [IntervalTimer](https://github.com/TheAlgorithms/Javascript/blob/master/Timing-Functions/IntervalTimer.js)
