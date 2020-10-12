@@ -1,3 +1,5 @@
+// Wikipedia URL for General Matrix Multiplication Concepts: https://en.wikipedia.org/wiki/Matrix_multiplication
+
 // MatrixCheck tests to see if all of the rows of the matrix inputted have similar size columns
 const matrixCheck = (matrix) => {
   let columnNumb
