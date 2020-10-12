@@ -9,9 +9,8 @@ const _board = [
   ['7', '.', '6', '.', '.', '.', '8', '1', '.'],
   ['3', '.', '.', '.', '9', '.', '.', '.', '.']
 ]
-sodokoSolver(_board)
 
-function isValid (board, row, col, k) {
+const isValid = (board, row, col, k) => {
   for (let i = 0; i < 9; i++) {
     const m = 3 * Math.floor(row / 3) + Math.floor(i / 3)
     const n = 3 * Math.floor(col / 3) + i % 3
@@ -22,7 +21,7 @@ function isValid (board, row, col, k) {
   return true
 }
 
-function sodokoSolver (data) {
+const sodokoSolver = (data) => {
   for (let i = 0; i < 9; i++) {
     for (let j = 0; j < 9; j++) {
       if (data[i][j] === '.') {
@@ -42,3 +41,10 @@ function sodokoSolver (data) {
   }
   return true
 }
+
+// testing
+(() => {
+  if (sodokoSolver(_board)) {
+    console.log(_board)
+  }
+})()
