@@ -2572,4 +2572,4 @@
 
 -[@boltex33](https://github.com/boltex33)
 
--[@khushboogoyal88] (https://github.com/khuhsboogoyal88)
+-[@khushboogoyal88] (https://github.com/khushboogoyal88)
