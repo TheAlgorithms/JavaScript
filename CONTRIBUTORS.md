@@ -2604,6 +2604,10 @@
 
 - [@edbzed](https://github.com/edbzed/)
 
+- [@hryhoriiK97](https://github.com/hryhoriiK97)
+
+- [@edbzed](https://github.com/edbzed/)
+
 - [@AlliHuff](https://github.com/AlliHuff/)
 
 - [@MatusCirip](https://github.com/MatusCirip/)
