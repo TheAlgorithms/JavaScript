@@ -2602,11 +2602,12 @@
 
 - [@zizu1681](https://github.com/zizu1681/)
 
-- [@edbzed] (https://github.com/edbzed/)
+- [@edbzed](https://github.com/edbzed/)
 
-- [@AlliHuff] (https://github.com/AlliHuff/)
+- [@AlliHuff](https://github.com/AlliHuff/)
 
 - [@MatusCirip](https://github.com/MatusCirip/)
 
-- [@HarshaKumar23](https://github.com/HarshaKumar23/)
+- [@creativehkim](https://github.com/creativehkim/)
 
+- [@HarshaKumar23](https://github.com/HarshaKumar23/)
