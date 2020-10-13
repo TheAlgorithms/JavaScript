@@ -1,3 +1,4 @@
+// https://projecteuler.net/problem=2
 const SQ5 = 5 ** 0.5 // Square root of 5
 const PHI = (1 + SQ5) / 2 // definition of PHI
 
