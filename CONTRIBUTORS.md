@@ -6,6 +6,8 @@
 
 - [@1Dree](https://github.com/1Dree)
 
+- [@Nebula](https://github.com/Mehul104/) 👋
+
 - [@404-dev](https://github.com/404-dev)
 
 - [@8thajor8](https://github.com/8thajor8)
@@ -2600,10 +2602,12 @@
 
 - [@zizu1681](https://github.com/zizu1681/)
 
-- [@edbzed] (https://github.com/edbzed/)
+- [@edbzed](https://github.com/edbzed/)
 
-- [@AlliHuff] (https://github.com/AlliHuff/)
+- [@AlliHuff](https://github.com/AlliHuff/)
 
 - [@MatusCirip](https://github.com/MatusCirip/)
 
 - [@creativehkim](https://github.com/creativehkim/)
+
+- [@HarshaKumar23](https://github.com/HarshaKumar23/)
