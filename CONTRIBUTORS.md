@@ -2856,4 +2856,8 @@
 
 - [@aidar64kz  ](https://github.com/aidar64kz)
 
+- [@Sidtalker](https://github.com/Sidtalker)
+
+- [@nhatkhong](https://github.com/nhatkhong)
+
 - [@tph91](https://github.com/tph91/)
