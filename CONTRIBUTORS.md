@@ -546,7 +546,7 @@
 
 - [@NABILFIKRI99](https://github.com/NABILFIKRI99)
 
-- [@NABILFIKRI99](https://github.com/NABILFIKRI99) 
+- [@NABILFIKRI99](https://github.com/NABILFIKRI99)
 
 - [@NPersivale](https://github.com/NPersivale)
 
@@ -918,7 +918,7 @@
 
 - [@abarac24](https://github.com/abarac24)
 
-- [@abarac24](https://github.com/abarac24) 
+- [@abarac24](https://github.com/abarac24)
 
 - [@abeardofbees](https://github.com/abeardofbees/)
 
@@ -2615,6 +2615,10 @@
 - [@AlliHuff](https://github.com/AlliHuff/)
 
 - [@MatusCirip](https://github.com/MatusCirip/)
+
+- [@Thom711](https://github.com/Thom711)
+
+- [@JLBardinas](https://github.com/johnLitoBardinas)
 
 - [@creativehkim](https://github.com/creativehkim/)
 
