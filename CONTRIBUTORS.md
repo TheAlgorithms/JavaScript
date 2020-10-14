@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+[@jithmia](https://github.com/jithmia)
+
 - [@0xaj](https://github.com/0xaj)
 
 - [@17Piyush](https://github.com/17Piyush/)
@@ -2625,5 +2627,3 @@
 -[@Raj-kar](https://github.com/Raj-kar)
 
 -[@mekzicong](https://github.com/mekzicong)
-
-jithmia
