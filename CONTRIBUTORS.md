@@ -462,6 +462,8 @@
 
 - [@Lefty93](https://github.com/Lefty93)
 
+- [@LeslieLopez25](https://github.com/LeslieLopez25)
+
 - [@LidorC105](https://github.com/LidorC105)
 
 - [@LikithChandan](https://github.com/LikithChandan)
@@ -544,7 +546,7 @@
 
 - [@NABILFIKRI99](https://github.com/NABILFIKRI99)
 
-- [@NABILFIKRI99](https://github.com/NABILFIKRI99) 
+- [@NABILFIKRI99](https://github.com/NABILFIKRI99)
 
 - [@NPersivale](https://github.com/NPersivale)
 
@@ -914,7 +916,7 @@
 
 - [@abarac24](https://github.com/abarac24)
 
-- [@abarac24](https://github.com/abarac24) 
+- [@abarac24](https://github.com/abarac24)
 
 - [@abeardofbees](https://github.com/abeardofbees/)
 
