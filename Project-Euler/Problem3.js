@@ -1,6 +1,6 @@
-function getPrime(number) {
+function getPrime (number) {
   var factor = 2
-  while (number != factor) {
+  while (number !== factor) {
     if (number % factor === 0) {
       number = number / factor
     } else {
