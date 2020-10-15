@@ -13,4 +13,3 @@ function decimalToRoaman (decimalNumber) {
 
     return romanNumber;
 }
-
