@@ -1,7 +1,7 @@
 import {
   ReverseStringIterative,
   ReverseStringIterativeInplace
-} from './ReverseString'
+} from '../ReverseString'
 
 describe('ReverseStringIterative', () => {
   it('expects to reverse a simple string', () => {

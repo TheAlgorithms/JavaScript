@@ -1,4 +1,4 @@
-import { reverseWords } from './ReverseWords'
+import { reverseWords } from '../ReverseWords'
 
 describe('reverseWords', () => {
   it('expects to reverse words to return a joined word', () => {

@@ -1,4 +1,4 @@
-import { checkPalindrome } from './CheckPalindrome'
+import { checkPalindrome } from '../CheckPalindrome'
 
 describe('checkPalindrome', () => {
   it('expects to return "Palindrome" if the given string is a palindrome', () => {
