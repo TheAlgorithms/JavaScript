@@ -9,7 +9,7 @@
  *
  */
 
-function smallestMultiple(n) {
+const smallestMultiple = (n) => {
   let small = true
   let num = 1
 

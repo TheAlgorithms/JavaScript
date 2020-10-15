@@ -9,7 +9,7 @@
  *  of the first one hundred natural numbers and the square of the sum.
  */
 
-function sumDifferenceSquare(n) {
+const sumDifferenceSquare = (n) => {
   let sumOfSquares = 0
   let totalSum = 0
 

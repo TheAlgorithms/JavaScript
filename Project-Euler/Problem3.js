@@ -9,7 +9,7 @@
  *
  */
 
-function largestPrimeFactor(n) {
+const largestPrimeFactor = (n) => {
   const isPrime = (num) => {
     for (let n = 2; n < num; n++) {
       if (num % n === 0) {
@@ -19,7 +19,7 @@ function largestPrimeFactor(n) {
     return true
   }
 
-  let primeFactors = []
+  const primeFactors = []
 
   for (let i = 2; i < n; i++) {
     if (isPrime(i) && n % i === 0) {

@@ -11,7 +11,7 @@
  *
  */
 
-function largestPalindrome(n) {
+const largestPalindrome = (n) => {
   const max = parseInt('1' + '0'.repeat(n))
   const min = parseInt('9'.repeat(n - 1))
 
