@@ -22,7 +22,7 @@ const PHI = (1 + SQ5) / 2
 
 // theoretically it should take O(1) constant amount of time as long
 // arithmetic calculations are considered to be in constant amount of time
-function EvenFibonacci (limit) {
+function EvenFibonacci(limit) {
   const highestIndex = Math.floor(Math.log(limit * SQ5) / Math.log(PHI))
   const n = Math.floor(highestIndex / 3)
   return (
@@ -33,19 +33,3 @@ function EvenFibonacci (limit) {
 }
 console.log(EvenFibonacci(4e6))
 // Sum of Even Fibonnaci upto 4 Million
-
-// Alternative Solution
-// const evenFibonnaciSum = (n) => {
-//   let fib = [1, 2]
-//   for (let i = 2; i < n; i++) {
-//     fib[i] = fib[i - 1] + fib[i - 2]
-//   }
-
-//   return fib
-// }
-
-// const sum = evenFibonnaciSum(100)
-//   .filter((i) => i < 4000000 && i % 2 === 0)
-//   .reduce((a, b) => a + b, 0)
-
-// console.log(sum)
