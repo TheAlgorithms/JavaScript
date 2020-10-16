@@ -14,14 +14,14 @@
 'use strict'
 
 const calcRange = (num) => {
-  return [...Array(num).keys()].map(i => i + 1);
+  return [...Array(num).keys()].map(i => i + 1)
 }
 
 const calcFactorial = (num) => {
 
   if (num > 0) {
     const range = calcRange(num)
-    const factorial = range.reduce((a, c) => a * c, 1);
+    const factorial = range.reduce((a, c) => a * c, 1)
     return `The factorial of ${num} is ${factorial}`
   }
   if (num === 0) {
