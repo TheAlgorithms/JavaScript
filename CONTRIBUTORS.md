@@ -2878,4 +2878,8 @@
 
 - [@sinhah-harsh](https://github.com/sinhah-harsh)
 
+- [@AnaRel-dev](https://github.com/AnaRel-dev)
+
+- [@rsaliba21](https://github.com/rsaliba21)
+
 - [@sri189ms](https://github.com/sri189ms)
