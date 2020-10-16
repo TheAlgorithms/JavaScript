@@ -427,6 +427,8 @@
 
 - [@Lefty93](https://github.com/Lefty93)
 
+- [@LeslieLopez25](https://github.com/LeslieLopez25)
+
 - [@LidorC105](https://github.com/LidorC105)
 
 - [@LikithChandan](https://github.com/LikithChandan)
