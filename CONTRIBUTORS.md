@@ -2597,6 +2597,10 @@
 
 -[@mekzicong](https://github.com/mekzicong)
 
+-[@W1ldr](https://github.com/W1ldr)
+
+-[@beedyg](https://github.com/beedyg)
+
 -[@beedyg](https://github.com/beedyg)
 
 -[@abautistaa](https://github.com/abautistaa)
@@ -2827,7 +2831,6 @@
 
 - [@tph91](https://github.com/tph91/)
 
-
 - [@bowouhuy](https://github.com/bowouhuy)
 
 - [@ironchloe](https://github.com/ironchloe)
@@ -2923,4 +2926,3 @@
 - [@khushboogoyal88](https://github.com/khushboogoyal88)
 
 - [@sri189ms](https://github.com/sri189ms)
-
