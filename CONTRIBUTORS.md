@@ -2882,4 +2882,8 @@
 
 - [@rsaliba21](https://github.com/rsaliba21)
 
+- [@eldaraharonson](https://github.com/eldaraharonson)
+
+- [@shunji15](https://github.com/shunji15)
+
 - [@sri189ms](https://github.com/sri189ms)
