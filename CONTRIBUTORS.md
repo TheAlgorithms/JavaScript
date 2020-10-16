@@ -2597,6 +2597,10 @@
 
 -[@mekzicong](https://github.com/mekzicong)
 
+-[@beedyg](https://github.com/beedyg)
+
+-[@sundanianza](https://github.com/sundanianza)
+
 -[@W1ldr](https://github.com/W1ldr)
 
 -[@beedyg](https://github.com/beedyg)
