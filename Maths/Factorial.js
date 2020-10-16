@@ -18,7 +18,6 @@ const calcRange = (num) => {
 }
 
 const calcFactorial = (num) => {
-
   if (num > 0) {
     const range = calcRange(num)
     const factorial = range.reduce((a, c) => a * c, 1)
