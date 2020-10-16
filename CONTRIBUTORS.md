@@ -2601,6 +2601,10 @@
 
 -[@beedyg](https://github.com/beedyg)
 
+-[@hera0](https://github.com/hera0)
+
+-[@abautistaa](https://github.com/abautistaa)
+
 -[@beedyg](https://github.com/beedyg)
 
 -[@abautistaa](https://github.com/abautistaa)
