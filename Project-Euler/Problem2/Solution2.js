@@ -15,7 +15,7 @@
 
 // Alternative Solution
 const evenFibonnaciSum = (n) => {
-  let fib = [1, 2]
+  const fib = [1, 2]
   for (let i = 2; i < n; i++) {
     fib[i] = fib[i - 1] + fib[i - 2]
   }

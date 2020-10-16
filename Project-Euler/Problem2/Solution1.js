@@ -22,7 +22,7 @@ const PHI = (1 + SQ5) / 2
 
 // theoretically it should take O(1) constant amount of time as long
 // arithmetic calculations are considered to be in constant amount of time
-function EvenFibonacci(limit) {
+function EvenFibonacci (limit) {
   const highestIndex = Math.floor(Math.log(limit * SQ5) / Math.log(PHI))
   const n = Math.floor(highestIndex / 3)
   return (
