@@ -63,6 +63,6 @@ module.exports.combination = combination;
 
  * @output
    120
-	 20
-	 10
+   20
+   10
  */
