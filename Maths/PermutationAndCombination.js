@@ -1,5 +1,6 @@
 /**
  * @details Calculates the number of permutations and combinations.
+ * @external_link (Permutation And Combinations)[https://www.geeksforgeeks.org/permutation-and-combination/]
  */
 
 /**
