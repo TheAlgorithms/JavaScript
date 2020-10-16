@@ -8,7 +8,7 @@
  * @param num: integer
  * @details Factorial of n = n * (n - 1) * (n - 2) * ... * 1
  * @returns integer: Factorial of the number.
-            NaN: if negative number if provided.
+            NaN: if negative number is provided.
  */
 const factorial = (n) => {
   if (n >= 0) {
