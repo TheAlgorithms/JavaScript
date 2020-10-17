@@ -108,7 +108,10 @@ const numbers = [
 ]
 
 const findFirstTenDigitsOfSum = () => {
-  const sum = numbers.reduce((prev, current) => current += prev, 0)
+  const sum = numbers.reduce((prev, current) => {
+    current += prev
+    return current
+  }, 0)
 
   return sum.toLocaleString('fullwide', { useGrouping: false }).split('').slice(0, 10).join('')
 }
