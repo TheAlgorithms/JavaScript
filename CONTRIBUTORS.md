@@ -2959,6 +2959,8 @@
 
 - [@stefan01-dev](https://github.com/stefan01-dev)
 
+- [@d4mp3](https://github.com/d4mp3/)
+
 - [@sinc0115](https://github.com/sinc0115)
 
 - [@ristotoldsep](https://github.com/ristotoldsep)
