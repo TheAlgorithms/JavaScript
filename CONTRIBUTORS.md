@@ -2,7 +2,7 @@
 
 
 - [@millz83](https://github.com/millz83)
- 
+
 -[@souviknsl07](https://github.com/souviknsl07)
 
 [@jithmia](https://github.com/jithmia)
@@ -2807,9 +2807,9 @@
 
 - [@BogdanCrusoveanu](https://github.com/BogdanCrusoveanu)
 
-- [@NABILFIKRI99](https://github.com/NABILFIKRI99) 
+- [@NABILFIKRI99](https://github.com/NABILFIKRI99)
 
-- [@abarac24](https://github.com/abarac24) 
+- [@abarac24](https://github.com/abarac24)
 
 - [@Nav-GitHub](https://github.com/Nav-GitHub)
 
@@ -2876,7 +2876,7 @@
 - [@blainerb4](https://github.com/blainerb4)
 
 - [@anirudhs1998](https://github.com/anirudhs1998/)
- 
+
 - [@manfredarandiav](https://github.com/manfredarandiav)
 
 - [@Taimakh](https://github.com/Taimakh/)
@@ -2953,11 +2953,34 @@
 - [@Ali7even6ix](https://github.com/Ali7even6ix)
 - [@collinsO](https://github.com/collinsO/)
 - [@CollinsO10](https://github.com/CollinsO10)
--[@collinsO](https://github.com/collinsO)
+- [@collinsO](https://github.com/collinsO)
 - [@Sandp3032](https://github.com/Sandp3032)
 - [@azadimehdi](https://github.com/azadimehdi)
 
 - [@stefan01-dev](https://github.com/stefan01-dev)
 
 - [@sinc0115](https://github.com/sinc0115)
+
 - [@ristotoldsep](https://github.com/ristotoldsep)
+
+- [@ristotoldsep](https://github.com/ristotoldsep)
+
+- [@vassily-msq](https://github.com/vassily-msq)
+
+-[@VarunRele](https://github.com/VarunRele)
+
+- [@pgatic](https://github.com/pgatic)
+
+- [@Bethsam](https://github.com/Bethsam/)
+
+- [@maxie7](https://github.com/maxie7/)
+
+-[@gpereira305](https://github.com/gpereira305)
+
+- [@tzxdtc](https://github.com/tzxdtc)
+
+- [@rahulnegi20](https://github.com/rahulnegi20/)
+
+- [@Sunera-2216](https://github.com/Sunera-2216/)
+
+- [@pawelpikus](https://github.com/pawelpikus/)
