@@ -2953,7 +2953,7 @@
 - [@Ali7even6ix](https://github.com/Ali7even6ix)
 - [@collinsO](https://github.com/collinsO/)
 - [@CollinsO10](https://github.com/CollinsO10)
--[@collinsO](https://github.com/collinsO)
+- [@collinsO](https://github.com/collinsO)
 - [@Sandp3032](https://github.com/Sandp3032)
 - [@azadimehdi](https://github.com/azadimehdi)
 
@@ -2961,10 +2961,12 @@
 
 - [@sinc0115](https://github.com/sinc0115)
 
--[@ristotoldsep](https://github.com/ristotoldsep)
+- [@ristotoldsep](https://github.com/ristotoldsep)
 
 - [@vassily-msq](https://github.com/vassily-msq)
 
 - [@pgatic](https://github.com/pgatic)
 
 - [@Bethsam](https://github.com/Bethsam/)
+
+- [@maxie7](https://github.com/maxie7/)
