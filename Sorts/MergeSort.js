@@ -13,6 +13,27 @@
  * @param {Array} list2 - sublist to break down
  * @return {Array} merged list
  */
+/*
+*  Doctests
+* > merge([5, 4],[ 1, 2, 3])
+*  [1, 2, 3, 5, 4]
+* > merge([],[1, 2])
+*  [1, 2]
+* > merge([1, 2, 3], [1])
+*  [1, 1, 2, 3]
+* > merge([], [])
+*  []
+*
+* > mergeSort([5, 4])
+*  [4, 5]
+* > mergeSort([8, 4, 10, 15, 9])
+*  [4, 8, 9, 10, 15]
+* > mergeSort([1, 2, 3])
+*  [1, 2, 3]
+* > mergeSort([ ])
+*  [ ]
+*/
+
 function merge (list1, list2) {
   var results = []
 
