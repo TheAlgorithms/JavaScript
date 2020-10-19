@@ -1,4 +1,4 @@
-import * as area from './Area'
+import * as area from '../Area'
 
 describe('Testing surfaceAreaCube calculations', () => {
   it('with natural number', () => {
