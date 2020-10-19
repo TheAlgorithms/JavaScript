@@ -1,8 +1,9 @@
 # CONTRIBUTORS
 
+-[@chefritik](https://github.com/chefritik/)
 
 - [@millz83](https://github.com/millz83)
- 
+
 -[@souviknsl07](https://github.com/souviknsl07)
 
 [@jithmia](https://github.com/jithmia)
@@ -2807,9 +2808,9 @@
 
 - [@BogdanCrusoveanu](https://github.com/BogdanCrusoveanu)
 
-- [@NABILFIKRI99](https://github.com/NABILFIKRI99) 
+- [@NABILFIKRI99](https://github.com/NABILFIKRI99)
 
-- [@abarac24](https://github.com/abarac24) 
+- [@abarac24](https://github.com/abarac24)
 
 - [@Nav-GitHub](https://github.com/Nav-GitHub)
 
@@ -2876,7 +2877,7 @@
 - [@blainerb4](https://github.com/blainerb4)
 
 - [@anirudhs1998](https://github.com/anirudhs1998/)
- 
+
 - [@manfredarandiav](https://github.com/manfredarandiav)
 
 - [@Taimakh](https://github.com/Taimakh/)
@@ -2950,21 +2951,36 @@
 - [@mhall57817](https://github.com/mhall57817)
 
 - [@frankiefab100](https://github.com/frankiefab100)
+
 - [@Ali7even6ix](https://github.com/Ali7even6ix)
+
 - [@collinsO](https://github.com/collinsO/)
+
 - [@CollinsO10](https://github.com/CollinsO10)
--[@collinsO](https://github.com/collinsO)
+
+- [@collinsO](https://github.com/collinsO)
+
+- [@Sandp3032](https://github.com/Sandp3032)
+
+- [@ronaldvanderrest](https://github.com/ronaldvanderrest)
+
+- [@collinsO](https://github.com/collinsO)
 - [@Sandp3032](https://github.com/Sandp3032)
 - [@azadimehdi](https://github.com/azadimehdi)
 
 - [@stefan01-dev](https://github.com/stefan01-dev)
 
+- [@d4mp3](https://github.com/d4mp3/)
+
 - [@sinc0115](https://github.com/sinc0115)
 
--[@ristotoldsep](https://github.com/ristotoldsep)
+- [@ristotoldsep](https://github.com/ristotoldsep)
+
+- [@ristotoldsep](https://github.com/ristotoldsep)
 
 - [@vassily-msq](https://github.com/vassily-msq)
 
 - [@pgatic](https://github.com/pgatic)
 
 - [@shivam5750](https://github.com/shivam5750)
+
