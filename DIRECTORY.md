@@ -91,7 +91,6 @@
 ## Maths
   * [Abs](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/Abs.js)
   * [Area](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/Area.js)
-  * [Area](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/Area.test.js)
   * [ArmstrongNumber](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/ArmstrongNumber.js)
   * [AverageMean](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/AverageMean.js)
   * [DigitSum](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/DigitSum.js)
@@ -119,6 +118,7 @@
   * [SieveOfEratosthenes](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/SieveOfEratosthenes.js)
   * test
     * [Abs](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/test/Abs.test.js)
+    * [Area](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/test/Area.test.js)
     * [ArmstrongNumber](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/test/ArmstrongNumber.test.js)
     * [AverageMean](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/test/AverageMean.test.js)
     * [DigitSum](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/test/DigitSum.test.js)
