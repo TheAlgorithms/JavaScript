@@ -2840,7 +2840,7 @@
 
 - [@AvihayM6](https://github.com/AvihayM6)
 
-- [@aidar64kz  ](https://github.com/aidar64kz)
+- [@aidar64kz ](https://github.com/aidar64kz)
 
 - [@Sidtalker](https://github.com/Sidtalker)
 
@@ -3006,11 +3006,11 @@
 
 -[@chefritik](https://github.com/chefritik/)
 
--[@shivamprakashsp]((https://github.com/shivamprakashsp/))
+-[@shivamprakashsp](<(https://github.com/shivamprakashsp/)>)
 
--[@adinicarel]((https://github.com/adinicarel/))
+-[@adinicarel](<(https://github.com/adinicarel/)>)
 
--[@abhishtjoshi]((https://github.com/abhishtjoshi/))
+-[@abhishtjoshi](<(https://github.com/abhishtjoshi/)>)
 
 -[@cleonb](https://github.com/cleonb/)
 
@@ -3018,4 +3018,4 @@
 
 -[@EderIRE](https://github.com/EderIRE)
 
-
+-[@chaselancaster](https://github.com/chaselancaster)
