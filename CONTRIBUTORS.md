@@ -10,6 +10,8 @@
 
 - [@0xaj](https://github.com/0xaj)
 
+- [@chintans357](https://github.com/chintans357)
+
 - [@17Piyush](https://github.com/17Piyush/)
 
 - [@1Dree](https://github.com/1Dree)
