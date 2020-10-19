@@ -13,4 +13,4 @@ function factorial(n){
 }
 let n = 4;
 const answer = factorial(n)
-console.log("The factorial of " + n + " is " + answer);
+console.log('The factorial of ' + n + ' is ' + answer);
