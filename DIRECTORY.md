@@ -202,6 +202,7 @@
   * [createPurmutations](https://github.com/TheAlgorithms/Javascript/blob/master/String/createPurmutations.js)
   * [FormatPhoneNumber](https://github.com/TheAlgorithms/Javascript/blob/master/String/FormatPhoneNumber.js)
   * [FormatPhoneNumber](https://github.com/TheAlgorithms/Javascript/blob/master/String/FormatPhoneNumber.test.js)
+  * [GenerateGUID](https://github.com/TheAlgorithms/Javascript/blob/master/String/GenerateGUID.js)
   * [LevenshteinDistance](https://github.com/TheAlgorithms/Javascript/blob/master/String/LevenshteinDistance.js)
   * [LevenshteinDistance](https://github.com/TheAlgorithms/Javascript/blob/master/String/LevenshteinDistance.test.js)
   * [MaxCharacter](https://github.com/TheAlgorithms/Javascript/blob/master/String/MaxCharacter.js)
