@@ -1,5 +1,6 @@
 # CONTRIBUTORS
 
+-[@chefritik](https://github.com/chefritik/)
 
 - [@millz83](https://github.com/millz83)
 
