@@ -3018,6 +3018,8 @@
 
 -[@EderIRE](https://github.com/EderIRE)
 
+-[@chaselancaster](https://github.com/chaselancaster)
+
 -[@Komakino-joy](https://github.com/Komakino-joy)
 
 -[@rpdavila](https://github.com/rpdavila)
