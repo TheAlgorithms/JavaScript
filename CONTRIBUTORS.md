@@ -3048,4 +3048,8 @@
 
 - [@gur-p-reet](https://github.com/gur-p-reet/)
 
+-[@adinicarel]((https://github.com/adinicarel/))
+
+-[@kalpthakkar241]((https://github.com/kalpthakkar241/))
+
 - [@ashishsarda](https://github.com/ashishsarda)
