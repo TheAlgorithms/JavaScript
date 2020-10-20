@@ -1122,7 +1122,7 @@
 
 - [@azhar0504](https://github.com/azhar0504/)
 
-- [@bajancode] (https://github.com/bajancode/)
+- [@bajancode](https://github.com/bajancode/)
 
 - [@bajancode](https://github.com/bajancode/)
 
@@ -1972,7 +1972,7 @@
 
 - [@otfigo87](https://github.com/otfigo87)
 
-- [@ouiss] (https://github.com/ouiss)
+- [@ouiss](https://github.com/ouiss)
 
 - [@ouiss](https://github.com/ouiss)
 
@@ -2840,7 +2840,7 @@
 
 - [@AvihayM6](https://github.com/AvihayM6)
 
-- [@aidar64kz  ](https://github.com/aidar64kz)
+- [@aidar64kz ](https://github.com/aidar64kz)
 
 - [@Sidtalker](https://github.com/Sidtalker)
 
@@ -3006,11 +3006,11 @@
 
 -[@chefritik](https://github.com/chefritik/)
 
--[@shivamprakashsp]((https://github.com/shivamprakashsp/))
+-[@shivamprakashsp](<(https://github.com/shivamprakashsp/)>)
 
--[@adinicarel]((https://github.com/adinicarel/))
+-[@adinicarel](<(https://github.com/adinicarel/)>)
 
--[@abhishtjoshi]((https://github.com/abhishtjoshi/))
+-[@abhishtjoshi](<(https://github.com/abhishtjoshi/)>)
 
 -[@cleonb](https://github.com/cleonb/)
 
@@ -3033,3 +3033,5 @@
 -[@Nizar4790k](https://github.com/Nizar4790k)
 
 - [@bryanpulley](https://github.com/bryanpulley)
+
+- [@nakeusa12](https://github.com/nakeusa12)
