@@ -3048,10 +3048,12 @@
 
 - [@gur-p-reet](https://github.com/gur-p-reet/)
 
--[@adinicarel]((https://github.com/adinicarel/))
+-[@adinicarel](<(https://github.com/adinicarel/)>)
 
 -[@ijmdev](https://github.com/ijmdev/)
 
--[@kalpthakkar241]((https://github.com/kalpthakkar241/))
+-[@kalpthakkar241](<(https://github.com/kalpthakkar241/)>)
 
 - [@ashishsarda](https://github.com/ashishsarda)
+
+-[@Karanveer-singh671](https://github.com/Karanveer-singh671)
