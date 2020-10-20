@@ -1122,7 +1122,7 @@
 
 - [@azhar0504](https://github.com/azhar0504/)
 
-- [@bajancode] (https://github.com/bajancode/)
+- [@bajancode](https://github.com/bajancode/)
 
 - [@bajancode](https://github.com/bajancode/)
 
@@ -1972,7 +1972,7 @@
 
 - [@otfigo87](https://github.com/otfigo87)
 
-- [@ouiss] (https://github.com/ouiss)
+- [@ouiss](https://github.com/ouiss)
 
 - [@ouiss](https://github.com/ouiss)
 
@@ -3017,3 +3017,35 @@
 -[@ijmdev](https://github.com/ijmdev/)
 
 -[@5ebs](https://github.com/5ebs)
+
+-[@EderIRE](https://github.com/EderIRE)
+
+-[@chaselancaster](https://github.com/chaselancaster)
+
+-[@Komakino-joy](https://github.com/Komakino-joy)
+
+-[@rpdavila](https://github.com/rpdavila)
+
+-[@monamohie](https://github.com/monamohie)
+
+-[@andresmonsalvo](https://github.com/andresmonsalvo)
+
+-[@adwaitkulkarni2211](https://github.com/adwaitkulkarni2211)
+
+-[@LimJiaZheng](https://github.com/LimJiaZheng/)
+
+-[@Nizar4790k](https://github.com/Nizar4790k)
+
+- [@bryanpulley](https://github.com/bryanpulley)
+
+- [@nakeusa12](https://github.com/nakeusa12)
+
+- [@Memzer13](https://github.com/Memzer13)
+
+- [@chriskeehk](https://github.com/chriskeehk)
+
+- [@dvfrancis](https://github.com/dvfrancis)
+
+- [@gur-p-reet](https://github.com/gur-p-reet/)
+
+- [@ashishsarda](https://github.com/ashishsarda)
