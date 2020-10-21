@@ -1,3 +1,4 @@
+
 # CONTRIBUTORS
 
 -[@chefritik](https://github.com/chefritik/)
@@ -3059,3 +3060,6 @@
 -[@MariiaLitviak](https://github.com/MariiaLitviak) 
 
 -[@stee1ix](https://github.com/stee1ix/)
+
+-[@hyperjackpot](https://github.com/hyperjackpot/)
+
