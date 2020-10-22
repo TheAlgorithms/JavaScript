@@ -2798,6 +2798,10 @@
 
 - [@lsjones412](https://github.com/lsjones412/)
 
+- [@pjuan4603](https://github.com/@pjuan4603)
+
+- [@kevin5880](https://github.com/kevin5880)
+
 - [@sriram0315](https://github.com/sriram0315)
 
 - [@raalpht](https://github.com/raalpht)
