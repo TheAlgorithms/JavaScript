@@ -31,7 +31,7 @@ class Node {
  * 
  */
 i = 0 ;
-var arr ;
+let arr ;
 
 /**
  * Utility function buildTree() to build the binary tree.
@@ -108,7 +108,7 @@ function inOrder( root ) {
 
 i = 0; // Global variable i(helper for buildtree) set to 0.
 arr = [1,2,-1,-1,3,-1,4,-1,-1]; // Sample preorder traversal of a binary tree.
-var root = buildTree() ;
+let root = buildTree() ;
 
 console.log('Preorder traversal of given binary tree:');
 preOrder(root);
