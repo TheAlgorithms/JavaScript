@@ -670,7 +670,7 @@
 
 - [@RobDeadFreight](https://github.com/RobDeadFreight)
 
-- [@RobHagen](https://github.com/robhagen
+- [@RobHagen](https://github.com/robhagen)
 
 - [@RobHagen](https://github.com/robhagen)
 
@@ -680,7 +680,7 @@
 
 - [@RohanRajGautam](https://github.com/RohanRajGautam)
 
-- [@Rohitdk88](https://github.com/Rohitdk88/
+- [@Rohitdk88](https://github.com/Rohitdk88/)
 
 - [@Rohitdk88](https://github.com/Rohitdk88/)
 
@@ -826,7 +826,7 @@
 
 - [@ThisIsKeb](https://github.com/ThisIsKeb)
 
-- [@Thom711]()https://github.com/Thom711)
+- [@Thom711](https://github.com/Thom711)
 
 - [@Thom711](https://github.com/Thom711)
 
