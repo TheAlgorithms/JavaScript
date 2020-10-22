@@ -376,6 +376,8 @@
 
 - [@JasonHuang1213](https://github.com/JasonHuang1213)
 
+- [@JayantGoel001](https://github.com/JayantGoel001)
+
 - [@Jeff-eng363](https://github.com/Jeff-eng363)
 
 - [@JesseEarley](https://github.com/JesseEarley)
@@ -488,7 +490,7 @@
 
 - [@MarcelvdWest](https://github.com/MarcelvdWest)
 
-- [@MariiaLitviak](https://github.com/MariiaLitviak) 
+- [@MariiaLitviak](https://github.com/MariiaLitviak)
 
 - [@MartaGut](https://github.com/MartaGut)
 
@@ -2797,6 +2799,8 @@
 - [@stephenk98](https://github.com/stephenk98)
 
 - [@lsjones412](https://github.com/lsjones412/)
+
+- [@sriram0315](https://github.com/sriram0315)
 
 - [@pjuan4603](https://github.com/@pjuan4603)
 
