@@ -2790,9 +2790,9 @@
 
 - [@PigsGoMoo](https://github.com/PigsGoMoo)
 
-- [@cxxiii](https:/github.com/cxxiii)
+- [@cxxiii](https://github.com/cxxiii)
 
-- [@nasoluka](https:/github.com/nasoluka)
+- [@nasoluka](https://github.com/nasoluka)
 
 - [@stephenk98](https://github.com/stephenk98)
 
