@@ -1,9 +1,7 @@
 /*
     author: Koddi-Evangelista
     license: GPL-3.0 or later.
-    
     This script will find the absolute value of a number.
-
     More about absolute values:
         https://en.wikipedia.org/wiki/Absolute_value
     More about Math.abs() :
