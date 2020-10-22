@@ -2822,3 +2822,5 @@
  -[@sal9110](https://github.com/sal9110)
 >>>>>>> 435be4a9... added my name to the contributors list
 -[@gcooperjd](https://github.com/gcooperjd)
+
+[@azer18az](https://github.com/azer18az)
