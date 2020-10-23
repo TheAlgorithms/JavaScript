@@ -2817,10 +2817,27 @@
 - [@stefan01-dev](https://github.com/stefan01-dev)
 
  -[@sal9110](https://github.com/sal9110)
--[@gcooperjd](https://github.com/gcooperjd)
+ 
+- [@gcooperjd](https://github.com/gcooperjd)
 
-[@azer18az](https://github.com/azer18az)
+- [@shihlei](https://github.com/shihlei/)
+
+- [@gcooperjd](https://github.com/gcooperjd)
+
+- [@RenGoKu](https://github.com/ren-GoKu)
+
+- [@azer18az](https://github.com/azer18az)
+
+- [@danakal](https://github.com/danakal)
+
+- [@gnyokota](https://github.com/gnyokota)
+
+- [@andresmonsalvo](https://github.com/andresmonsalvo)
+
+- [@Ahmadzayd](https://github.com/Ahmadzayd)
 
 -[@danakal](https://github.com/danakal)
 
 -[@jimijos](https://github.com/jimijos)
+
+- [@TazribineHassan](https://github.com/TazribineHassan)
