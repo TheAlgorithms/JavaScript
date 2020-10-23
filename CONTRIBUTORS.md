@@ -2826,4 +2826,8 @@
 
 - [@gnyokota](https://github.com/gnyokota)
 
+- [@andresmonsalvo](https://github.com/andresmonsalvo)
+
+- [@Ahmadzayd](https://github.com/Ahmadzayd)
+
 - [@TazribineHassan](https://github.com/TazribineHassan)
