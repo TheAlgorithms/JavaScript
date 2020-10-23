@@ -2812,8 +2812,18 @@
 
 - [@Adam-Shambrook](https://github.com/Adam-Shambrook)
 
+- [@Marawan-Khashaba](https://github.com/Marawan-Khashaba)
+
 - [@shihlei](https://github.com/shihlei/)
 
--[@gcooperjd](https://github.com/gcooperjd)
+- [@gcooperjd](https://github.com/gcooperjd)
 
--[@RenGoKu](https://github.com/ren-GoKu)
+- [@RenGoKu](https://github.com/ren-GoKu)
+
+- [@azer18az](https://github.com/azer18az)
+
+- [@danakal](https://github.com/danakal)
+
+- [@gnyokota](https://github.com/gnyokota)
+
+- [@TazribineHassan](https://github.com/TazribineHassan)
