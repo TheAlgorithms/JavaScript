@@ -2814,6 +2814,12 @@
 
 - [@Marawan-Khashaba](https://github.com/Marawan-Khashaba)
 
+- [@stefan01-dev](https://github.com/stefan01-dev)
+
+ -[@sal9110](https://github.com/sal9110)
+ 
+- [@gcooperjd](https://github.com/gcooperjd)
+
 - [@shihlei](https://github.com/shihlei/)
 
 - [@gcooperjd](https://github.com/gcooperjd)
@@ -2829,5 +2835,9 @@
 - [@andresmonsalvo](https://github.com/andresmonsalvo)
 
 - [@Ahmadzayd](https://github.com/Ahmadzayd)
+
+-[@danakal](https://github.com/danakal)
+
+-[@jimijos](https://github.com/jimijos)
 
 - [@TazribineHassan](https://github.com/TazribineHassan)
