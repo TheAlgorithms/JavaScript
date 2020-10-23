@@ -2814,16 +2814,15 @@
 
 - [@Marawan-Khashaba](https://github.com/Marawan-Khashaba)
 
-<<<<<<< HEAD
 - [@shihlei](https://github.com/shihlei/)
-=======
+
 - [@stefan01-dev](https://github.com/stefan01-dev)
 
- -[@sal9110](https://github.com/sal9110)
->>>>>>> 435be4a9... added my name to the contributors list
+-[@sal9110](https://github.com/sal9110)
+
 -[@gcooperjd](https://github.com/gcooperjd)
 
-[@azer18az](https://github.com/azer18az)
+-[@azer18az](https://github.com/azer18az)
 
 -[@danakal](https://github.com/danakal)
 
