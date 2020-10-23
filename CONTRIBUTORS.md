@@ -2854,4 +2854,7 @@
 
 -[@jimijos](https://github.com/jimijos)
 
-- [@TazribineHassan](https://github.com/TazribineHassan)
+-[@TazribineHassan](https://github.com/TazribineHassan)
+
+-[@davidrhyne](https://github.com/davidrhyne)
+
