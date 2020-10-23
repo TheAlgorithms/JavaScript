@@ -2812,13 +2812,10 @@
 
 - [@Adam-Shambrook](https://github.com/Adam-Shambrook)
 
-<<<<<<< HEAD
-- [@shihlei](https://github.com/shihlei/)
-=======
-- [@stefan01-dev](https://github.com/stefan01-dev)
+- [@Marawan-Khashaba](https://github.com/Marawan-Khashaba)
 
- -[@sal9110](https://github.com/sal9110)
->>>>>>> 435be4a9... added my name to the contributors list
+- [@shihlei](https://github.com/shihlei/)
+
 - [@gcooperjd](https://github.com/gcooperjd)
 
 - [@draganjancikin](https://github.com/draganjancikin)
