@@ -2814,19 +2814,16 @@
 
 - [@Marawan-Khashaba](https://github.com/Marawan-Khashaba)
 
-<<<<<<< HEAD
 - [@shihlei](https://github.com/shihlei/)
-=======
-- [@stefan01-dev](https://github.com/stefan01-dev)
 
- -[@sal9110](https://github.com/sal9110)
->>>>>>> 435be4a9... added my name to the contributors list
--[@gcooperjd](https://github.com/gcooperjd)
+- [@gcooperjd](https://github.com/gcooperjd)
 
-[@azer18az](https://github.com/azer18az)
+- [@RenGoKu](https://github.com/ren-GoKu)
 
--[@danakal](https://github.com/danakal)
+- [@azer18az](https://github.com/azer18az)
 
--[@gnyokota](https://github.com/gnyokota)
+- [@danakal](https://github.com/danakal)
 
--[@TazribineHassan](https://github.com/TazribineHassan)
+- [@gnyokota](https://github.com/gnyokota)
+
+- [@TazribineHassan](https://github.com/TazribineHassan)
