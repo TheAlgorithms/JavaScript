@@ -670,7 +670,7 @@
 
 - [@RobDeadFreight](https://github.com/RobDeadFreight)
 
-- [@RobHagen](https://github.com/robhagen
+- [@RobHagen](https://github.com/robhagen)
 
 - [@RobHagen](https://github.com/robhagen)
 
@@ -680,7 +680,7 @@
 
 - [@RohanRajGautam](https://github.com/RohanRajGautam)
 
-- [@Rohitdk88](https://github.com/Rohitdk88/
+- [@Rohitdk88](https://github.com/Rohitdk88/)
 
 - [@Rohitdk88](https://github.com/Rohitdk88/)
 
@@ -826,7 +826,7 @@
 
 - [@ThisIsKeb](https://github.com/ThisIsKeb)
 
-- [@Thom711]()https://github.com/Thom711)
+- [@Thom711](https://github.com/Thom711)
 
 - [@Thom711](https://github.com/Thom711)
 
@@ -2816,6 +2816,10 @@
 
 - [@shihlei](https://github.com/shihlei/)
 
+- [@gcooperjd](https://github.com/gcooperjd)
+
+- [@draganjancikin](https://github.com/draganjancikin)
+
 - [@stefan01-dev](https://github.com/stefan01-dev)
 
 -[@sal9110](https://github.com/sal9110)
@@ -2857,4 +2861,3 @@
 -[@TazribineHassan](https://github.com/TazribineHassan)
 
 -[@davidrhyne](https://github.com/davidrhyne)
-
