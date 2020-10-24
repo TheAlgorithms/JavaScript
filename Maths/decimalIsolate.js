@@ -5,8 +5,7 @@
  */
 
 const decimalIsolate = (number) => {
-    return number - Math.floor(number)
-
+  return number - Math.floor(number)
 }
 
 // testing
