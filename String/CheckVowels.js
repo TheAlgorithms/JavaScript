@@ -4,11 +4,11 @@
  */
 
 const checkVowels = (value) => {
-  //firts check if the input value is string
-  if(typeof value === 'string'){
+  // firts check if the input value is string
+  if (typeof value === 'string') {
     // next create a regex(regular expression) that says everthing except aeiou,spaces,digits and expresions
-    // we also use global and ignore case flag 
-    let regEx = /[^aeiou\s\W\d]/gi
+    // we also use global and ignore case flag
+    const regEx = /[^aeiou\s\W\d]/gi
     // then we return the length of matched letter which is vowels using str.match(regex)
     return value.match(regEx).length
   }
