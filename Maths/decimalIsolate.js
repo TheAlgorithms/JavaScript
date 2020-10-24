@@ -10,6 +10,6 @@ const decimalIsolate = (number) => {
 }
 
 // testing
-console.log(decimal_isolate(35.345))
-console.log(decimal_isolate(56.879))
-console.log(decimal_isolate(89.5643))
+console.log(decimalIsolate(35.345))
+console.log(decimalIsolate(56.879))
+console.log(decimalIsolate(89.5643))
