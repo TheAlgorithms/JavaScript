@@ -11,7 +11,7 @@ const largestPalindromic = (digits) => {
   let number = 0
 
   for (i = 1; i < digits; i++) {
-    number = 10 * number + 9 
+    number = 10 * number + 9
   }
   const inf = number // highest (digits - 1) number, in this example highest 2 digit number
   const sup = 10 * number + 9 // highest (digits) number, in this example highest 3 digit number
