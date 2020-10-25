@@ -1,4 +1,5 @@
 # CONTRIBUTORS
+- [@rip-phan](https://github.com/rip-phan)
 
 - [@sal9110](https://github.com/sal9110)
 
