@@ -1,4 +1,4 @@
-# CONTRIBUTORS
+﻿# CONTRIBUTORS
 - [@rip-phan](https://github.com/rip-phan)
 
 - [@sal9110](https://github.com/sal9110)
@@ -2881,3 +2881,5 @@
 -[@lonecreationwastaken](https://github.com/lonecreationwastaken)
 
 -[@FzJo](https://github.com/FzJo/)
+
+-[@MariiaLitviak](https://github.com/MariiaLitviak/)
