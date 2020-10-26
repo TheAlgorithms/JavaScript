@@ -1,11 +1,8 @@
-import { convertToBinary } from '../BinaryConvert'
+import { BinaryConvert } from '../BinaryConvert'
 
-describe('convertBinary', () => {
-  it('should return the length of number', () => {
-    expect(convertToBinary(12)).toBe(7)
-  })
+describe('Binary Convert', () => {
 
   it('should return the correct value', () => {
-    expect(convertBinary(12)).toBe('1 1 0 0')
+    expect(BinaryConvert(12)).toBe(1100)
   })
 })
