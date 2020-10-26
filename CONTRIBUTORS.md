@@ -2865,6 +2865,8 @@
 
 - [@uniformedS](https://github.com/uniformedS/)
 
+- [@lingchen4](https://github.com/lingchen4/)
+
 - [@vaibhavt14](https://github.com/vaibhavt14/)
 
 - [@casiimir](https://github.com/casiimir/)
