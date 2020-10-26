@@ -7,7 +7,7 @@
 
 // Functions: enqueue, dequeue, peek, view, length
 
-var Queue = (function () {
+const Queue = ( function () {
   // constructor
   function Queue () {
     // This is the array representation of the queue
@@ -17,7 +17,7 @@ var Queue = (function () {
   // methods
   // Add a value to the end of the queue
   Queue.prototype.enqueue = function (item) {
-    this.queue[this.queue.length] = item
+    this.queue.push(item)
   }
 
   // Removes the value at the front of the queue
@@ -26,7 +26,7 @@ var Queue = (function () {
       throw new Error('Queue is Empty')
     }
 
-    var result = this.queue[0]
+    let result = this.queue[0]
     this.queue.splice(0, 1) // remove the item at position 0 from the array
 
     return result
@@ -51,7 +51,7 @@ var Queue = (function () {
 }())
 
 // Implementation
-var myQueue = new Queue()
+const myQueue = new Queue()
 
 myQueue.enqueue(1)
 myQueue.enqueue(5)
@@ -62,17 +62,17 @@ myQueue.enqueue(54)
 
 myQueue.view()
 
-console.log('Length: ' + myQueue.length())
-console.log('Front item: ' + myQueue.peek())
-console.log('Removed ' + myQueue.dequeue() + ' from front.')
-console.log('New front item: ' + myQueue.peek())
-console.log('Removed ' + myQueue.dequeue() + ' from front.')
-console.log('New front item: ' + myQueue.peek())
+console.log(`Length: ${myQueue.length()}`)
+console.log(`Front item: ${myQueue.peek()}`)
+console.log(`Removed ${myQueue.dequeue()} from front.`)
+console.log(`New front item: ${myQueue.peek()}`)
+console.log(`Removed ${myQueue.dequeue()} from front.`)
+console.log(`New front item: ${myQueue.peek()}`)
 myQueue.enqueue(55)
 console.log('Inserted 55')
-console.log('New front item: ' + myQueue.peek())
+console.log(`New front item: ${myQueue.peek()}`)
 
-for (var i = 0; i < 5; i++) {
+for (let i = 0; i < 5; i ++) {
   myQueue.dequeue()
   myQueue.view()
 }
