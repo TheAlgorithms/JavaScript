@@ -1,4 +1,4 @@
-# CONTRIBUTORS
+﻿# CONTRIBUTORS
 - [@rip-phan](https://github.com/rip-phan)
 
 - [@sal9110](https://github.com/sal9110)
@@ -2884,3 +2884,5 @@
 - [@FzJo](https://github.com/FzJo/)
 
 - [@t-kowalewski](https://github.com/t-kowalewski)
+
+- [@MariiaLitviak](https://github.com/MariiaLitviak/)
