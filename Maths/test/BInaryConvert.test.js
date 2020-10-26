@@ -5,7 +5,6 @@ describe('Binary Convert', () => {
     expect(BinaryConvert(12)).toBe(1100)
   })
   it('should return the correct value of the sum from two number', () => {
-    expect(BinaryConvert(12+2)).toBe(1110)
+    expect(BinaryConvert(12 + 2)).toBe(1110)
   })
 })
-

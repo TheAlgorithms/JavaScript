@@ -3,7 +3,6 @@ const BinaryConvert = (number) => {
   let i
   for (i = number; i > 0; i = parseInt(i / 2)) {
     result.push(i % 2)
-  }
-  return Number(result.reverse().join(''))
+  } return Number(result.reverse().join(''))
 }
 export { BinaryConvert }
