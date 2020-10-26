@@ -6,6 +6,6 @@ describe('convertBinary', () => {
   })
 
   it('should return the correct value', () => {
-    expect(numberOfDigit(12)).toBe('1 1 0 0')
+    expect(convertBinary(12)).toBe('1 1 0 0')
   })
 })
