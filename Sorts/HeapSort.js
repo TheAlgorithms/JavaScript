@@ -6,6 +6,19 @@
  * Source: https://en.wikipedia.org/wiki/Heap_(data_structure)
  */
 /* eslint no-extend-native: ["off", { "exceptions": ["Object"] }] */
+/*
+*  Doctests
+*
+*  > heapSort([5, 4, 3, 10, 2, 1])
+*  [1, 2, 3, 4, 5, 10]
+*  > heapSort([])
+*  []
+* > heapSort([5, 4])
+*  [4, 5]
+*  > heapSort([1, 2, 3])
+*  [1, 2, 3]
+*/
+
 Array.prototype.heapify = function (index, heapSize) {
   let largest = index
   const leftIndex = 2 * index + 1
