@@ -6,6 +6,8 @@
 
 - [@1Dree](https://github.com/1Dree)
 
+- [@macacolouco46](https://github.com/macacolouco46)
+
 - [@5ebs](https://github.com/5ebs)
 
 - [@96nikhil07](https://github.com/96nikhil07/)
