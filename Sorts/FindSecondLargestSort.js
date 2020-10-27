@@ -11,12 +11,12 @@
  */
 
 // Dummy data
-const numberArray = [2,5,8,4,13,6,10,10,47,24,36,1];
+const numberArray = [2, 5, 8, 4, 13, 6, 10, 10, 47, 24, 36, 1];
 
 const removeRepeatedNumbers = (array) =>
-    [...new Set(array)] // -- A value in a Set() can only appear once
+    [...new Set(array)] // A value in a Set() can only appear once
 
-//Implementation
+// Implementation
 const newSorted = removeRepeatedNumbers(numberArray).sort((a, b) => a-b);
 console.log(newSorted[newSorted.length - 2]);
 
