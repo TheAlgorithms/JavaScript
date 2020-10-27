@@ -9,6 +9,9 @@
  */
 
 function ReverseStringIterative (string) {
+  if (typeof string !== 'string') {
+    throw new TypeError('The given value is not a string')
+  }
   let reversedString = ''
   let index
 
@@ -28,6 +31,9 @@ function ReverseStringIterative (string) {
  */
 
 function ReverseStringIterativeInplace (string) {
+  if (typeof string !== 'string') {
+    throw new TypeError('The given value is not a string')
+  }
   const _string = string.split('')
 
   for (let i = 0; i < Math.floor(_string.length / 2); i++) {
@@ -40,6 +46,4 @@ function ReverseStringIterativeInplace (string) {
   return _string.join('')
 }
 
-// testing
-console.log(ReverseStringIterative('Javascript'))
-console.log(ReverseStringIterativeInplace('Javascript'))
+export { ReverseStringIterative, ReverseStringIterativeInplace }

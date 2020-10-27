@@ -11,7 +11,7 @@
         https://en.wikipedia.org/wiki/Absolute_value
 */
 
-function absVal (num) {
+const absVal = (num) => {
   // Find absolute value of `num`.
   'use strict'
   if (num < 0) {
@@ -21,6 +21,4 @@ function absVal (num) {
   return num
 }
 
-// Run `abs` function to find absolute value of two numbers.
-console.log('The absolute value of -34 is ' + absVal(-34))
-console.log('The absolute value of 34 is ' + absVal(34))
+export { absVal }

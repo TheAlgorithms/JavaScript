@@ -8,6 +8,9 @@ return the starting index if the given pattern is
 available in the text
 */
 const checkIfPatternExists = (text, pattern) => {
+  if (typeof text !== 'string' || typeof pattern !== 'string') {
+    throw new TypeError('Given input is not a string')
+  }
   const textLength = text.length // Store the length of the text in a variable
   const patternLength = pattern.length // Store the length of the pattern in a variable
 
@@ -21,16 +24,10 @@ const checkIfPatternExists = (text, pattern) => {
       // For each iteration of j check if the value of
       // j + 1 is equal to the length of the pattern
       if (j + 1 === patternLength) {
-        console.log(`Given pattern is found at index ${i}`)
+        return `Given pattern is found at index ${i}`
       }
     }
   }
 }
 
-const main = () => {
-  const text = 'AABAACAADAABAAAABAA'
-  const pattern = 'AABA'
-  checkIfPatternExists(text.toLowerCase(), pattern.toLowerCase())
-}
-
-main()
+export { checkIfPatternExists }

@@ -19,13 +19,4 @@ const modularBinaryExponentiation = (a, n, m) => {
   }
 }
 
-const main = () => {
-  // binary_exponentiation(2, 10, 17)
-  // > 4
-  console.log(modularBinaryExponentiation(2, 10, 17))
-  // binary_exponentiation(3, 9, 12)
-  // > 3
-  console.log(modularBinaryExponentiation(3, 9, 12))
-}
-
-main()
+export { modularBinaryExponentiation }

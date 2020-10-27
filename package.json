@@ -2,17 +2,29 @@
   "name": "javascript",
   "version": "1.0.0",
   "description": "A repository for All algorithms implemented in Javascript (for educational purposes only)",
+  "main": "",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest --no-cache"
   },
   "author": "TheAlgorithms",
   "license": "GPL-3.0",
   "dependencies": {
+    "@babel/core": "^7.11.6",
+    "@babel/plugin-transform-runtime": "^7.11.5",
+    "@babel/preset-env": "^7.11.5",
     "jsdom": "^16.3.0",
+    "node": "^14.13.1",
     "node-fetch": "2.6.1"
   },
+  "standard": {
+    "env": [
+      "jest"
+    ]
+  },
   "devDependencies": {
+    "babel-jest": "^26.3.0",
     "doctest": "^0.17.1",
+    "jest": "^26.4.2",
     "standard": "^14.3.4"
   }
 }
