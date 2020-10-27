@@ -142,9 +142,15 @@
     * [ReversePolishNotation](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/test/ReversePolishNotation.test.js)
     * [SieveOfEratosthenes](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/test/SieveOfEratosthenes.test.js)
 
+## Navigation
+  * [Haversine](https://github.com/TheAlgorithms/Javascript/blob/master/Navigation/Haversine.js)
+  * [Haversine](https://github.com/TheAlgorithms/Javascript/blob/master/Navigation/Haversine.test.js)
+
 ## Project-Euler
   * [Problem1](https://github.com/TheAlgorithms/Javascript/blob/master/Project-Euler/Problem1.js)
   * [Problem2](https://github.com/TheAlgorithms/Javascript/blob/master/Project-Euler/Problem2.js)
+  * [Problem3](https://github.com/TheAlgorithms/Javascript/blob/master/Project-Euler/Problem3.js)
+  * [Problem4](https://github.com/TheAlgorithms/Javascript/blob/master/Project-Euler/Problem4.js)
   * [Problem6](https://github.com/TheAlgorithms/Javascript/blob/master/Project-Euler/Problem6.js)
   * [Problem7](https://github.com/TheAlgorithms/Javascript/blob/master/Project-Euler/Problem7.js)
 
