@@ -2926,4 +2926,6 @@
 
 - [@EyeOfAthena](https://github.com/EyeOfAthena)
 
+- [@andriikachmar](https://github.com/andriikachmar)
+
 - [@zizu1681](https://github.com/zizu1681/)
