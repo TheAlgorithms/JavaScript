@@ -6,6 +6,8 @@
 
 - [@1Dree](https://github.com/1Dree)
 
+- [@macacolouco46](https://github.com/macacolouco46)
+
 - [@5ebs](https://github.com/5ebs)
 
 - [@96nikhil07](https://github.com/96nikhil07/)
@@ -2901,3 +2903,12 @@
 - [@sheth28](https://github.com/sheth28)
 
 - [@Visible-Radio](https://github.com/Visible-Radio)
+
+- [@osha7](https://github.com/osha7)
+
+- [@ziyaoc3](https://github.com/ziyaoc3/)
+
+- [@mgsainyinyitun](https://github.com/mgsainyinyitun)
+
+- [@EyeOfAthena](https://github.com/EyeOfAthena)
+
