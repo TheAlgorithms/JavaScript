@@ -2888,8 +2888,10 @@
 
 -[@thingetoo](https://github.com/thingetoo/)
 
--[@MhdYAzbek] (https://github.com/MhdYAzbek/)
+-[@MhdYAzbek](https://github.com/MhdYAzbek/)
 
 -[@supersushi86](https://github.com/supersushi86)
 
 -[@TTD126](https://github.com/TTD126/)
+
+-[@Davekibh](https://github.com/Davekibh/)
