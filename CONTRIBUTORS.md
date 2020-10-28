@@ -540,7 +540,7 @@
 
 - [@Memzer13](https://github.com/Memzer13)
 
-- [@MhdYAzbek] (https://github.com/MhdYAzbek/)
+- [@MhdYAzbek](https://github.com/MhdYAzbek/)
 
 - [@Mico5200](https://github.com/Mico52000)
 
@@ -1020,7 +1020,7 @@
 
 - [@adillightwala](https://github.com/adillightwala)
 
-- [@adinicarel]((https://github.com/adinicarel/))
+- [@adinicarel](<(https://github.com/adinicarel/)>)
 
 - [@adinicarel](https://github.com/adinicarel/)
 
@@ -1881,8 +1881,6 @@
 - [@k1a99](https://github.com/k1a99)
 
 - [@kajetan-witkowski](https://github.com/kajetan-witkowski)
-
-- [@kalpthakkar241]((https://github.com/kalpthakkar241/))
 
 - [@kalpthakkar241](https://github.com/kalpthakkar241/)
 
@@ -2907,3 +2905,5 @@
 - [@ziyaoc3](https://github.com/ziyaoc3/)
 
 - [@mgsainyinyitun](https://github.com/mgsainyinyitun)
+
+- [@ehsanulhaq001](https://github.com/ehsanulhaq001)
