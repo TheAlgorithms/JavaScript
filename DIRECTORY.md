@@ -61,6 +61,7 @@
   * [LongestCommonSubsequence](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/LongestCommonSubsequence.js)
   * [LongestIncreasingSubsequence](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/LongestIncreasingSubsequence.js)
   * [LongestPalindromicSubsequence](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/LongestPalindromicSubsequence.js)
+  * [LongestValidParentheses](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/LongestValidParentheses.js)
   * [MaxNonAdjacentSum](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/MaxNonAdjacentSum.js)
   * [MinimumCostPath](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/MinimumCostPath.js)
   * [NumberOfSubsetEqualToGivenSum](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/NumberOfSubsetEqualToGivenSum.js)
