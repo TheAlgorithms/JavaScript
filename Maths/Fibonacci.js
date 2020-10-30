@@ -69,7 +69,83 @@ const FibonacciDpWithoutRecursion = (number) => {
   return table
 }
 
+// Using Matrix exponentiation to find n-th fibonacci in O(log n) time
+
+const copyMatrix = (A) => {
+  return A.map(row => row.map(cell => cell));
+}
+
+const Identity = (size) => {
+  const I = Array(size).fill(null).map(() => Array(size).fill());
+  return I.map((row, rowIdx) => row.map((_col, colIdx) => {
+    return rowIdx === colIdx ? 1 : 0
+  }))
+}
+
+// A of size (l x m) and B of size (m x n)
+// product C will be of size (l x n)
+const matrixMultiply = (A, B) => {
+  A = copyMatrix(A)
+  B = copyMatrix(B)
+  const l = A.length
+  const m = B.length
+  const n = B[0].length // Assuming non-empty matrices
+  const C = Array(l).fill(null).map(() => Array(n).fill());
+  for(let i = 0; i < l; i++) {
+    for(let j = 0; j < n; j++) {
+      C[i][j] = 0
+      for(let k = 0; k < m; k++) {
+        C[i][j] += A[i][k]*B[k][j]
+      }
+    }
+  }
+  return C
+}
+
+// A is a square matrix
+const matrixExpo = (A, n) => {
+  A = copyMatrix(A)
+  if(n == 0) return Identity(A.length) // Identity matrix
+  if(n == 1) return A
+
+  // Just like Binary exponentiation mentioned in ./BinaryExponentiationIterative.js
+  let result = Identity(A.length)
+  while(n > 0) {
+    if(n%2 !== 0) result = matrixMultiply(result, A)
+    n = Math.floor(n/2)
+    if(n > 0) A = matrixMultiply(A, A)
+  }
+  return result
+}
+
+const FibonacciMatrixExpo = (n) => {
+  // F(0) = 0, F(1) = 1
+  // F(n) = F(n-1) + F(n-2)
+  // Consider below matrix multiplication: 
+
+  // | F(n) |   |1  1|   |F(n-1)|
+  // |      | = |    | * |      |
+  // |F(n-1)|   |1  0|   |F(n-2)|
+
+  // F(n, n-1) = pow(A, n-1) * F(1, 0)
+
+  if(n === 0) return 0;
+
+  const A = [
+              [1, 1],
+              [1, 0]
+            ]
+  const poweredA = matrixExpo(A, n-1) // A raise to the power n
+  let F = [
+              [1],
+              [0]
+            ]
+  F = matrixMultiply(poweredA, F)
+  return F[0][0]
+}
+
 export { FibonacciDpWithoutRecursion }
 export { FibonacciIterative }
 export { FibonacciRecursive }
 export { FibonacciRecursiveDP }
+export { FibonacciMatrixExpo }

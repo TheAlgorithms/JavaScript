@@ -2,7 +2,8 @@ import {
   FibonacciDpWithoutRecursion,
   FibonacciRecursiveDP,
   FibonacciIterative,
-  FibonacciRecursive
+  FibonacciRecursive,
+  FibonacciMatrixExpo
 } from '../Fibonacci'
 
 describe('Fibonanci', () => {
@@ -26,5 +27,9 @@ describe('Fibonanci', () => {
     expect(FibonacciDpWithoutRecursion(5)).toEqual(
       expect.arrayContaining([1, 1, 2, 3, 5])
     )
+  })
+
+  it('should return number for FibonnaciMatrixExpo', () => {
+    expect(FibonacciMatrixExpo(5)).toBe(5)
   })
 })
