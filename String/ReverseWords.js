@@ -1,3 +1,19 @@
+/*
+*  Doctests
+*
+* > reverseWords('I Love JS')
+*  'JS Love I'
+* > reverseWords('Hello World')
+*  'World Hello'
+* > reverseWords('The Algorithms Javascript')
+*  'Javascript Algorithms The'
+* > reverseWords([])
+*  ! TypeError
+* > reverseWords({})
+*  ! TypeError
+* > reverseWords(null)
+*  ! TypeError
+*/
 const reverseWords = (str) => {
   if (typeof str !== 'string') {
     throw new TypeError('The given value is not a string')
