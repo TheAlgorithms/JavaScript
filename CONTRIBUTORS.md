@@ -2954,4 +2954,14 @@
 
 - [@heyfranksmile](https://github.com/heyfranksmile)
 
-- [@tushark39](https://github.com/tushark39) 
+- [@kunalp78](https://github.com/kunalp78)
+
+- [@wardaddy98](https://github.com/wardaddy98)
+
+- [@Jlakay](https://github.com/Jlakay)
+
+- [@Dev-Temmy](https://github.com/Dev-Temmy)
+
+- [@liza-kl](https://github.com/liza-kl)
+
+- [@kamronbek028](https://github.com/kamronbek028)
