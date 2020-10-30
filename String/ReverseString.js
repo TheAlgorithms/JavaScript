@@ -22,7 +22,7 @@
  * > ReverseStringIterative(null)
  *  ! TypeError
  */
-function ReverseStringIterative(string) {
+function ReverseStringIterative (string) {
   if (typeof string !== 'string') {
     throw new TypeError('The given value is not a string')
   }
@@ -58,7 +58,7 @@ function ReverseStringIterative(string) {
  * > ReverseStringIterativeInplace(null)
  *  ! TypeError
  */
-function ReverseStringIterativeInplace(string) {
+function ReverseStringIterativeInplace (string) {
   if (typeof string !== 'string') {
     throw new TypeError('The given value is not a string')
   }
