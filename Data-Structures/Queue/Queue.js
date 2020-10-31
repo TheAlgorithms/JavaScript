@@ -7,7 +7,7 @@
 
 // Functions: enqueue, dequeue, peek, view, length
 
-const Queue = ( function () {
+const Queue = (function () {
   // constructor
   function Queue () {
     // This is the array representation of the queue
@@ -26,7 +26,7 @@ const Queue = ( function () {
       throw new Error('Queue is Empty')
     }
 
-    let result = this.queue[0]
+    const result = this.queue[0]
     this.queue.splice(0, 1) // remove the item at position 0 from the array
 
     return result
@@ -72,7 +72,7 @@ myQueue.enqueue(55)
 console.log('Inserted 55')
 console.log(`New front item: ${myQueue.peek()}`)
 
-for (let i = 0; i < 5; i ++) {
+for (let i = 0; i < 5; i++) {
   myQueue.dequeue()
   myQueue.view()
 }
