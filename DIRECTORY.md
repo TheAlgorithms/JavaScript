@@ -119,6 +119,7 @@
   * [PrimeCheck](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/PrimeCheck.js)
   * [ReversePolishNotation](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/ReversePolishNotation.js)
   * [SieveOfEratosthenes](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/SieveOfEratosthenes.js)
+  * [Softmax](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/Softmax.js)
   * test
     * [Abs](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/test/Abs.test.js)
     * [Area](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/test/Area.test.js)
@@ -145,6 +146,7 @@
     * [PrimeCheck](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/test/PrimeCheck.test.js)
     * [ReversePolishNotation](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/test/ReversePolishNotation.test.js)
     * [SieveOfEratosthenes](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/test/SieveOfEratosthenes.test.js)
+    * [Softmax](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/test/Softmax.test.js)
 
 ## Navigation
   * [Haversine](https://github.com/TheAlgorithms/Javascript/blob/master/Navigation/Haversine.js)
