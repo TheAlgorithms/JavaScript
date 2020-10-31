@@ -15,7 +15,7 @@ jobs:
     - name: npm install, build, and test
       run: |
         npm install doctest standard --save-dev
-        npx doctest  # Sorts/BogoSort.js Sorts/BucketSort.js
+        npx doctest **/*.js  # Sorts/BogoSort.js Sorts/BucketSort.js
         npx standard
         npm ci
         npm run build --if-present
