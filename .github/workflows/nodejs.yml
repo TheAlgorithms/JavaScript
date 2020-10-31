@@ -28,7 +28,7 @@ jobs:
     - run: npx doctest Cache/*.js
     - run: npx doctest Ciphers/*.js
     - run: npx doctest Conversions/*.js
-    - run: npx doctest Data-Structures/*.js
+    - run: npx doctest Data-Structures/*/*.js
     - run: npx doctest Dynamic-Programming/*.js
     - run: npx doctest Graphs/*.js
     - run: npx doctest Hashes/*.js
