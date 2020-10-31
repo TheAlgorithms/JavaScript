@@ -29,7 +29,26 @@ jobs:
     - run: npx doctest Ciphers/*.js
     - run: npx doctest Conversions/*.js
     - run: npx doctest Data-Structures/*/*.js
+    
+    - run: npx doctest Dynamic-Programming/ClimbingStairs.js
+    - run: npx doctest Dynamic-Programming/CoinChange.js
+    - run: npx doctest Dynamic-Programming/EditDistance.js
+    - run: npx doctest Dynamic-Programming/FibonacciNumber.js
+    - run: npx doctest Dynamic-Programming/KadaneAlgo.js
+    - run: npx doctest Dynamic-Programming/LevenshteinDistance.js
+    - run: npx doctest Dynamic-Programming/LongestCommonSubsequence.js
+    - run: npx doctest Dynamic-Programming/LongestIncreasingSubsequence.js
+    - run: npx doctest Dynamic-Programming/LongestPalindromicSubsequence.js
+    - run: npx doctest Dynamic-Programming/LongestValidParentheses.js
+    - run: npx doctest Dynamic-Programming/MaxNonAdjacentSum.js
+    - run: npx doctest Dynamic-Programming/MinimumCostPath.js
+    - run: npx doctest Dynamic-Programming/NumberOfSubsetEqualToGivenSum.js
+    - run: npx doctest Dynamic-Programming/SieveOfEratosthenes.js
+    - run: npx doctest Dynamic-Programming/SudokuSolver.js
+    - run: npx doctest Dynamic-Programming/TrappingRainWater.js
+    - run: npx doctest Dynamic-Programming/ZeroOneKnapsack.js 
     - run: npx doctest Dynamic-Programming/*.js
+
     - run: npx doctest Graphs/*.js
     - run: npx doctest Hashes/*.js
     - run: npx doctest Linear-Algebra/*.js
