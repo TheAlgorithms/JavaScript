@@ -1,0 +1,29 @@
+class rectangle {
+    constructor(height, width) {
+        this.name = 'Rectangle';
+        this.height = height;
+        this.width = width;
+
+    }
+
+    sayName() {
+        console.log('hi,i am', this.name + '.');
+
+    }
+
+    get area() {
+        return this.height * this.width;
+    }
+
+    set area(value) {
+        this._area = value;
+    }
+}
+
+class Square extends rectangle {
+    constructor(length) {
+        this.height;
+        super(length, length);
+        this.name = 'Square';
+    }
+}
