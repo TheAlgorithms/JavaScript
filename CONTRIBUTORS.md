@@ -2958,4 +2958,30 @@
 
 - [@wardaddy98](https://github.com/wardaddy98)
 
+- [@Jlakay](https://github.com/Jlakay)
+
+- [@Dev-Temmy](https://github.com/Dev-Temmy)
+
+- [@liza-kl](https://github.com/liza-kl)
+
+- [@kamronbek028](https://github.com/kamronbek028)
+
+- [@satyamdas](https://github.com/satyamdas)
+
+- [@tushark39](https://github.com/tushark39)
+
+- [@sammatt16](https://github.com/sammatt16)
+
+-[@VeniThee](https://github.com/VeniThee/)
+
+-[@ehrrrr](https://github.com/ehrrrr/)
+
+-[@akr1](https://github.com/Akr1/)
+
+-[@gurparmvir](https://github.com/gurparmvir)
+
+-[@07rv] (https://github.com/07rv/)
+
 - [@jackofallcode](https://github.com/jackofallcode)
+
+
