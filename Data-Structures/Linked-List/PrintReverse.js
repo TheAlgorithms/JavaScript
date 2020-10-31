@@ -1,25 +1,17 @@
 /**
  * A LinkedList based solution for Printing a List in reverse
+ *
+ * Problem Statement:
+ *        Given a linked list, print the nodes in reverse order
+ *        Link for the Problem: https://leetcode.com/problems/reverse-linked-list/
  */
 
-function main () {
-  /*
-  Problem Statement:
-  Given a linked list, print the nodes in reverse order.
-
-  Link for the Problem: https://leetcode.com/problems/reverse-linked-list/
-  */
-
-  let head = ''
-  reverseList(head)
-}
-
-reverseList = function (headNode) {
-  let currentNode = headNode
+const reverseList = (headNode) => {
+  const currentNode = headNode
   if (currentNode != null) {
     reverseList(currentNode.next)
     console.log(currentNode)
   }
 }
 
-main()
+export { reverseList }
