@@ -20,3 +20,22 @@ jobs:
         npm test
       env:
         CI: true
+    - run: npx doctest Backtracking/*.js
+    - run: npx doctest Cache/*.js
+    - run: npx doctest Ciphers/*.js
+    - run: npx doctest Conversions/*.js
+    - run: npx doctest Data-Structures/*/*.js
+    - run: npx doctest Dynamic-Programming/*.js
+    - run: npx doctest Graphs/*.js
+    - run: npx doctest Hashes/*.js
+    - run: npx doctest Linear-Algebra/*.js
+    - run: npx doctest Maths/*.js
+    - run: npx doctest Navigation/*.js
+    - run: npx doctest Project-Euler/*.js
+    - run: npx doctest Recursive/*.js
+    - run: npx doctest Search/*.js
+    - run: npx doctest Sorts/*.js
+    - run: npx doctest String/*.js
+    - run: npx doctest Timing-Functions/*.js
+    - run: npx doctest Trees/*.js
+    - run: npx doctest Web-Programming/*.js
