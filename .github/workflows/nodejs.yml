@@ -3,19 +3,15 @@ on: [push, pull_request]
 jobs:
   build:
     runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        node-version: [14.x]
     steps:
     - uses: actions/checkout@v2
-    - name: Use Node.js ${{ matrix.node-version }}
-      uses: actions/setup-node@v1
-      with:
-        node-version: ${{ matrix.node-version }}
+    - uses: actions/setup-node@v1
     - name: npm install, build, and test
       run: |
         npm install doctest standard --save-dev
-        npx doctest **/*.js || true  # TODO: error: Line 1: Unexpected token >>
+        # TODO: Remove the next line when #539 is fixed.
+        rm  Javascript/Dynamic-Programming/MinimumCostPath.js
+        npx doctest **/*.js
         npx standard
         npm ci
         npm run build --if-present
@@ -24,41 +20,3 @@ jobs:
         npm test
       env:
         CI: true
-    - run: npx doctest Backtracking/*.js
-    - run: npx doctest Cache/*.js
-    - run: npx doctest Ciphers/*.js
-    - run: npx doctest Conversions/*.js
-    - run: npx doctest Data-Structures/*/*.js
-    
-    - run: npx doctest Dynamic-Programming/ClimbingStairs.js
-    - run: npx doctest Dynamic-Programming/CoinChange.js
-    - run: npx doctest Dynamic-Programming/EditDistance.js
-    - run: npx doctest Dynamic-Programming/FibonacciNumber.js
-    - run: npx doctest Dynamic-Programming/KadaneAlgo.js
-    - run: npx doctest Dynamic-Programming/LevenshteinDistance.js
-    - run: npx doctest Dynamic-Programming/LongestCommonSubsequence.js
-    - run: npx doctest Dynamic-Programming/LongestIncreasingSubsequence.js
-    - run: npx doctest Dynamic-Programming/LongestPalindromicSubsequence.js
-    - run: npx doctest Dynamic-Programming/LongestValidParentheses.js
-    - run: npx doctest Dynamic-Programming/MaxNonAdjacentSum.js
-    - run: npx doctest Dynamic-Programming/MinimumCostPath.js
-    - run: npx doctest Dynamic-Programming/NumberOfSubsetEqualToGivenSum.js
-    - run: npx doctest Dynamic-Programming/SieveOfEratosthenes.js
-    - run: npx doctest Dynamic-Programming/SudokuSolver.js
-    - run: npx doctest Dynamic-Programming/TrappingRainWater.js
-    - run: npx doctest Dynamic-Programming/ZeroOneKnapsack.js 
-    - run: npx doctest Dynamic-Programming/*.js
-
-    - run: npx doctest Graphs/*.js
-    - run: npx doctest Hashes/*.js
-    - run: npx doctest Linear-Algebra/*.js
-    - run: npx doctest Maths/*.js
-    - run: npx doctest Navigation/*.js
-    - run: npx doctest Project-Euler/*.js
-    - run: npx doctest Recursive/*.js
-    - run: npx doctest Search/*.js
-    - run: npx doctest Sorts/*.js
-    - run: npx doctest String/*.js
-    - run: npx doctest Timing-Functions/*.js
-    - run: npx doctest Trees/*.js
-    - run: npx doctest Web-Programming/*.js
