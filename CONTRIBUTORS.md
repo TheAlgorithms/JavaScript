@@ -2995,3 +2995,5 @@
 - [@anupotter](https://github.com/anupotter/)
 
 - [@RBurrage](https://github.com/RBurrage)
+
+- [@vidalvi](https://github.com/vidalvi)
