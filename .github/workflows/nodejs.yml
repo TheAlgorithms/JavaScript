@@ -10,7 +10,7 @@ jobs:
       run: |
         npm install doctest standard --save-dev
         # TODO: Remove the next line when #539 is fixed.
-        rm  Dynamic-Programming/MinimumCostPath.js Graphs/PrimMST.js
+        rm  Dynamic-Programming/MinimumCostPath.js Graphs/PrimMST.js Hashes/SHA256.js
         # npx doctest **/*.js
         npx standard
         npm ci
