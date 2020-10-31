@@ -147,6 +147,7 @@
     * [ReversePolishNotation](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/test/ReversePolishNotation.test.js)
     * [SieveOfEratosthenes](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/test/SieveOfEratosthenes.test.js)
     * [Softmax](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/test/Softmax.test.js)
+  * [WhileLoopFactorial](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/WhileLoopFactorial.js)
 
 ## Navigation
   * [Haversine](https://github.com/TheAlgorithms/Javascript/blob/master/Navigation/Haversine.js)
