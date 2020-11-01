@@ -102,14 +102,17 @@ const matrixMultiply = (A, B) => {
   return C
 }
 
+/**
+ * Computes A raised to the power n i.e. pow(A, n) where A is a square matrix
+ * @param {*} A the square matrix
+ * @param {*} n the exponent
+ */
 // A is a square matrix
 const matrixExpo = (A, n) => {
   A = copyMatrix(A)
-  if (n === 0) return Identity(A.length) // Identity matrix
-  if (n === 1) return A
 
   // Just like Binary exponentiation mentioned in ./BinaryExponentiationIterative.js
-  let result = Identity(A.length)
+  let result = Identity(A.length) // Identity matrix
   while (n > 0) {
     if (n % 2 !== 0) result = matrixMultiply(result, A)
     n = Math.floor(n / 2)
