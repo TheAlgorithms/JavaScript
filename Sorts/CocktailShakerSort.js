@@ -8,6 +8,18 @@
  * Wikipedia (Bubble Sort): https://en.wikipedia.org/wiki/Bubble_sort
  *
  */
+
+ /**
+ * Doctests
+ *
+ * > cocktailShakerSort([5, 4, 1, 2, 3])
+ * [1, 2, 3, 4, 5]
+ * > cocktailShakerSort([])
+ * []
+ * > cocktailShakerSort([1, 2, 3])
+ * [1, 2, 3]
+ */
+
 function cocktailShakerSort (items) {
   for (let i = items.length - 1; i > 0; i--) {
     let j
