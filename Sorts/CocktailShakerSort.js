@@ -1,5 +1,8 @@
 /*
- * Cocktail shaker sort is a sort algorithm that is a bidirectional bubble sort
+ * Cocktail Shaker Sort is an algorithm that is a Bidirectional Bubble Sort.
+ * The algorithm extends bubble sort by operating in two directions.
+ * While it improves on bubble sort by more quickly moving items to the beginning of the list,
+ * it provides only marginal performance improvements.
  * more information: https://en.wikipedia.org/wiki/Cocktail_shaker_sort
  * more information: https://en.wikipedia.org/wiki/Bubble_sort
  *
