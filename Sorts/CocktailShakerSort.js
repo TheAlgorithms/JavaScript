@@ -9,7 +9,7 @@
  *
  */
 
- /**
+/**
  * Doctests
  *
  * > cocktailShakerSort([5, 4, 1, 2, 3])
@@ -28,7 +28,6 @@ function cocktailShakerSort (items) {
     for (j = items.length - 1; j > i; j--) {
       if (items[j] < items[j - 1]) {
         [items[j], items[j - 1]] = [items[j - 1], items[j]]
-        swapped = true
       }
     }
 
@@ -36,7 +35,6 @@ function cocktailShakerSort (items) {
     for (j = 0; j < i; j++) {
       if (items[j] > items[j + 1]) {
         [items[j], items[j + 1]] = [items[j + 1], items[j]]
-        swapped = true
       }
     }
   }
@@ -47,7 +45,7 @@ function cocktailShakerSort (items) {
 /**
 * Implementation of Cocktail Shaker Sort
 */
-var array = [5, 6, 7, 8, 1, 2, 12, 14]
+const array = [5, 6, 7, 8, 1, 2, 12, 14]
 // Before Sort
 console.log('\n- Before Sort | Implementation of Cocktail Shaker Sort -')
 console.log(array)
