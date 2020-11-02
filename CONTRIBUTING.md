@@ -49,6 +49,21 @@ Algorithms in this repo should not be how-to examples for existing JavaScript pa
   - There should be no spaces in filenames.  
  **Example:**`UserProfile.js` is allowed but `userprofile.js`,`Userprofile.js`,`user-Profile.js`,`userProfile.js` are not
 
+#### Testing
+
+Be confident that your code works. When was the last time you committed a code change, your build failed, and half of your app stopped working? Mine was last week. Writing tests for our Algorithms will help us ensure the implementations are air tight even after multiple fixes and code changes. 
+We use a NPM package [doctest](https://www.npmjs.com/package/doctest) to add basic testing functionality to our code. Doctests are simple structured comments that evaluate an function and ensure a required result.
+
+The implementation of doctest is quite simple. You can easily learn it [here](https://www.npmjs.com/package/doctest).
+
+It is advised that you add the Doctests in a multiline comment just after the Algorithm description.
+For Code Structure reference see [this file](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/BubbleSort.js).
+
+You can run the doctest by using the command
+```
+$ doctest MyFile.js  // if that fails, try: npx doctest MyFile.js
+```
+
 #### Coding Style
 
 To maximize the readability and correctness of our code, we require that new submissions follow [JavaScript Standard Style](https://standardjs.com/)
@@ -80,30 +95,6 @@ To maximize the readability and correctness of our code, we require that new sub
 - Please use 'console.log()'  
 - We strongly recommend the use of ECMAScript 6
 - Avoid importing external libraries for basic algorithms. Only use those libraries for complicated algorithms.
-
-#### Testing
-
-Be confident that your code works. When was the last time you committed a code change, your build failed, and half of your app stopped working? Mine was last week. Writing tests for our Algorithms will help us ensure the implementations are air tight even after multiple fixes and code changes. 
-We use a NPM package [doctest](https://www.npmjs.com/package/doctest) to add basic testing functionality to our code. Doctests are simple structured comments that evaluate an function and ensure a required result.
-
-The implementation of doctest is quite simple. You can easily learn it [here](https://www.npmjs.com/package/doctest).
-
-It is advised that you add the Doctests in a multiline comment just after the Algorithm description.
-/**
-* Algorithm Description Here
-* The Wikipedia Link
-*/
-/**
-* Doctests Here
-*/
-For Code Structure reference see [this file](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/BubbleSort.js).
-
-You can run the doctest by using the command
-```
-$ doctest MyFile.js  // if that fails, try: npx doctest MyFile.js
-```
-
-
 - Most importantly,
   - **Be consistent in the use of these guidelines when submitting.**
   - Happy coding!
