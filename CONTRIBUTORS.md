@@ -1,5 +1,7 @@
 ﻿# CONTRIBUTORS
 
+- [@Kaushal-Dhungel](https://github.com/Kaushal-Dhungel)
+
 - [@07rv](https://github.com/07rv/)
 
 - [@0xaj](https://github.com/0xaj)
@@ -2024,6 +2026,8 @@
 
 - [@krishnateja96](https://github.com/krishnateja96)
 
+- [@trofosila](https://github.com/trofosila)
+
 - [@krli07717](https://github.com/krli07717/)
 
 - [@kshashank231](https://github.com/kshashank231)
@@ -3033,3 +3037,17 @@
 - [@thanishsid](https://github.com/thanishsid)
 
 - [@badjie90](https://github.com/badjie90/)
+=======
+- [@Reykjabik](https://github.com/Reykjabik) 
+
+- [@inspirion33](https://github.com/inspirion33)
+
+- [@julioalcantara](https://github.com/julioalcantara)
+
+- [@Tharusara_26](https://github.com/Tharusara)
+
+-[@Ranji-S](https://github.com/Ranji-S/)
+
+- [@LazaroIII](https://github.com/LazaroIII)
+
+- [@jeremydabbs](https://github.com/jeremydabbs)
