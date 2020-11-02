@@ -98,6 +98,11 @@ It is advised that you add the Doctests in a multiline comment just after the Al
 */
 For Code Structure reference see [this file](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/BubbleSort.js).
 
+You can run the doctest by using the command
+```
+$ doctest MyFile.js  // if that fails, try: npx doctest MyFile.js
+```
+
 
 - Most importantly,
   - **Be consistent in the use of these guidelines when submitting.**
