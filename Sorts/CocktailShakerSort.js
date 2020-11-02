@@ -13,7 +13,7 @@ function cocktailShakerSort (items) {
     let swapped = false
     let j
 
-    // backwards
+    // Backwards
     for (j = items.length - 1; j > i; j--) {
       if (items[j] < items[j - 1]) {
         [items[j], items[j - 1]] = [items[j - 1], items[j]]
@@ -21,7 +21,7 @@ function cocktailShakerSort (items) {
       }
     }
 
-    // forwards
+    // Forwards
     for (j = 0; j < i; j++) {
       if (items[j] > items[j + 1]) {
         [items[j], items[j + 1]] = [items[j + 1], items[j]]
@@ -34,11 +34,12 @@ function cocktailShakerSort (items) {
   }
 }
 
-// Implementation of cocktailShakerSort
-
+/**
+* Implementation of Cocktail Shaker Sort
+*/
 var ar = [5, 6, 7, 8, 1, 2, 12, 14]
-// Array before Sort
+// Before Sort
 console.log(ar)
 cocktailShakerSort(ar)
-// Array after sort
+// After Sort
 console.log(ar)
