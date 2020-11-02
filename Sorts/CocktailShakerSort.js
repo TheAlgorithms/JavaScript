@@ -10,7 +10,6 @@
  */
 function cocktailShakerSort (items) {
   for (let i = items.length - 1; i > 0; i--) {
-    let swapped = false
     let j
 
     // Backwards
@@ -28,10 +27,9 @@ function cocktailShakerSort (items) {
         swapped = true
       }
     }
-    if (!swapped) {
-      return
-    }
   }
+
+  return items
 }
 
 /**
