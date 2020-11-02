@@ -6,8 +6,7 @@
  *        Link for the Problem: https://leetcode.com/problems/reverse-linked-list/
  */
 
-const reverseList = (headNode) => {
-  const currentNode = headNode
+const reverseList = (currentNode) => {
   if (currentNode != null) {
     reverseList(currentNode.next)
     console.log(currentNode)
