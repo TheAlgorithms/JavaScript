@@ -35,9 +35,11 @@ function cocktailShakerSort (items) {
 /**
 * Implementation of Cocktail Shaker Sort
 */
-var ar = [5, 6, 7, 8, 1, 2, 12, 14]
+var array = [5, 6, 7, 8, 1, 2, 12, 14]
 // Before Sort
-console.log(ar)
-cocktailShakerSort(ar)
+console.log('\n- Before Sort | Implementation of Cocktail Shaker Sort -')
+console.log(array)
 // After Sort
-console.log(ar)
+console.log('- After Sort | Implementation of Cocktail Shaker Sort -')
+console.log(cocktailShakerSort(array))
+console.log('\n')
