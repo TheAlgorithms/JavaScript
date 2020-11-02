@@ -81,6 +81,10 @@ To maximize the readability and correctness of our code, we require that new sub
 - We strongly recommend the use of ECMAScript 6
 - Avoid importing external libraries for basic algorithms. Only use those libraries for complicated algorithms.
 
+#### Testing
+
+Be confident that your code works. When was the last time you committed a code change, your build failed, and half of your app stopped working? Mine was last week. Writing tests for our Algorithms will help us ensure the implementations are air tight even after multiple fixes and code changes. 
+We use a NPM package [doctest](https://www.npmjs.com/package/doctest) to add basic testing functionality to our code. Doctests are simple structured comments that evaluate an function and ensure a required result.
 
 
 - Most importantly,
