@@ -1,5 +1,7 @@
 ﻿# CONTRIBUTORS
 
+- [@kirizhu](https://github.com/kirizhu)
+
 - [@Kaushal-Dhungel](https://github.com/Kaushal-Dhungel)
 
 - [@07rv](https://github.com/07rv/)
