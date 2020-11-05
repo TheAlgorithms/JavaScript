@@ -40,6 +40,8 @@
 
 - [@Alikaname](https://github.com/Alikaname)
 
+- [@Godfrey-Alimony](https://github.com/Godfrey-Alimony)
+
 - [@Alisha-bashir](https://github.com/Alisha-bashir)
 
 - [@AlliHuff](https://github.com/AlliHuff/)
@@ -3081,3 +3083,28 @@
 -[@AnandVMclt](https://github.com/anandvmclt)
 
 -[@soniahooper](https://github.com/soniahooper)
+
+-[@Greynovals](https://github.com/Greynovals)
+
+-[@enochjohnb](https://github.com/enochjohnb)
+
+-[@Tinnmann](https://github.com/Tinnmann)
+-[@sawliq](https://github.com/sawliq)
+
+-[@kbrnsr](https://github.com/kbrnsr/)
+
+-[@adithyanajay](https://github.com/adithyanajay)
+
+-[@ChaithanyaMR](https://github.com/ChaithanyaMR)
+
+- [@ImMeeseeksLookAtMe](https://github.com/ImMeeseeksLookAtMe)
+
+-[@ShaineTsou](https://github.com/ShaineTsou)
+
+-[@AlexKanaanTam](https://github.com/AlexKanaanTam)
+
+- [@geekyvyas](https://github.com/geekyvyas)
+
+- [@emadhmady](https://github.com/emadhmady)
+
+- [@wjp14](https://github.com/wjp14)
