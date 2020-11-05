@@ -40,6 +40,8 @@
 
 - [@Alikaname](https://github.com/Alikaname)
 
+- [@Godfrey-Alimony](https://github.com/Godfrey-Alimony)
+
 - [@Alisha-bashir](https://github.com/Alisha-bashir)
 
 - [@AlliHuff](https://github.com/AlliHuff/)
