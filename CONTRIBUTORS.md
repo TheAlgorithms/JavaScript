@@ -3143,3 +3143,7 @@
 - [@ahmedaliqureshi](https://github.com/ahmedaliqureshi04)
 
 - [@ehsanulhaq001](https://github.com/ehsanulhaq001)
+
+- [@daibeat](https://github.com/daibeat)
+
+- [@araskog](https://github.com/araskog)
