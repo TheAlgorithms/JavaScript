@@ -40,6 +40,8 @@
 
 - [@Alikaname](https://github.com/Alikaname)
 
+- [@Godfrey-Alimony](https://github.com/Godfrey-Alimony)
+
 - [@Alisha-bashir](https://github.com/Alisha-bashir)
 
 - [@AlliHuff](https://github.com/AlliHuff/)
@@ -614,7 +616,7 @@
 
 - [@Nav-GitHub](https://github.com/Nav-GitHub)
 
-- [@Nebula](https://github.com/Mehul104/) 👋
+- [@Nebula](https://github.com/Mehul104/)
 
 - [@Nenamed](https://github.com/Nenamed/)
 
@@ -3113,3 +3115,29 @@
 - [@sawliq](https://github.com/sawliq)
 
 - [@ehsanulhaq001](https://github.com/ehsanulhaq001)
+
+- [@Tinnmann](https://github.com/Tinnmann)
+
+- [@sawliq](https://github.com/sawliq)
+
+- [@kbrnsr](https://github.com/kbrnsr/)
+
+- [@adithyanajay](https://github.com/adithyanajay)
+
+- [@ChaithanyaMR](https://github.com/ChaithanyaMR)
+
+- [@ImMeeseeksLookAtMe](https://github.com/ImMeeseeksLookAtMe)
+
+- [@ShaineTsou](https://github.com/ShaineTsou)
+
+- [@AlexKanaanTam](https://github.com/AlexKanaanTam)
+
+- [@geekyvyas](https://github.com/geekyvyas)
+
+- [@emadhmady](https://github.com/emadhmady)
+
+- [@wjp14](https://github.com/wjp14)
+
+- [@oakj](https://github.com/oakj)
+
+- [@ahmedaliqureshi](https://github.com/ahmedaliqureshi04)
