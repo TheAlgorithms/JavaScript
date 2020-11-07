@@ -115,6 +115,7 @@
   * [PerfectCube](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/PerfectCube.js)
   * [PerfectNumber](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/PerfectNumber.js)
   * [PerfectSquare](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/PerfectSquare.js)
+  * [PermutationAndCombination](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/PermutationAndCombination.js)
   * [PiApproximationMonteCarlo](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/PiApproximationMonteCarlo.js)
   * [Polynomial](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/Polynomial.js)
   * [PrimeCheck](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/PrimeCheck.js)
