@@ -1,3 +1,5 @@
+<!-- @format -->
+
 # CONTRIBUTORS
 
 - [@kirizhu](https://github.com/kirizhu)
@@ -3164,7 +3166,7 @@
 
 -[@alexandreabashia](https://github.com/alexandreabashia)
 
--[@geosar23](https://github.com/geosar23)
--[WWidener] (https://github.com/WWidener)
+-[@geosar23](https://github.com/geosar23) -[WWidener] (https://github.com/WWidener)
 
 - [@SandyJetGitHub](https://github.com/SandyJetGitHub)
+- [@getdev84](https://github.com/getdev84/)
