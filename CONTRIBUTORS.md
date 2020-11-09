@@ -3176,3 +3176,5 @@
 - [@ou79](http://github.com/ou79)
 
 - [@Nicholas-Gavz](https://github.com/Nicholas-Gavz/)
+
+- [@lasnab](https://github.com/lasnab/)
