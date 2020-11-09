@@ -28,6 +28,8 @@
 
 - [@Akashdeepgupta](https://github.com/Akashdeepgupta)
 
+- [@AlejandroRdzLpz](https://github.com/AlejandroRdzLpz/)
+
 - [@Alex Badila#1981](https://github.com/alex-badila)
 
 - [@Alex-HuXD](https://github.com/Alex-HuXD)
