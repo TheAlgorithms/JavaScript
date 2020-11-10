@@ -3164,10 +3164,11 @@
 
 - [@emad948](https://github.com/emad948)
 
--[@alexandreabashia](https://github.com/alexandreabashia)
+- [@alexandreabashia](https://github.com/alexandreabashia)
 
--[@geosar23](https://github.com/geosar23)
--[WWidener] (https://github.com/WWidener)
+- [@geosar23](https://github.com/geosar23)
+
+- [WWidener](https://github.com/WWidener)
 
 - [@SandyJetGitHub](https://github.com/SandyJetGitHub)
 
@@ -3183,6 +3184,6 @@
 
 - [@Abha-1281](https://github.com/Abha-1281/)
 
-- [@alexkou10] (https://github.com/alexkou10)
+- [@alexkou10](https://github.com/alexkou10)
 
-- [@seanmortimer] (https://github.com/seanmortimer)
+- [@seanmortimer](https://github.com/seanmortimer)
