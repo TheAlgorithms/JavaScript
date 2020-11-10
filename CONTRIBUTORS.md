@@ -28,6 +28,8 @@
 
 - [@Akashdeepgupta](https://github.com/Akashdeepgupta)
 
+- [@AlejandroRdzLpz](https://github.com/AlejandroRdzLpz/)
+
 - [@Alex Badila#1981](https://github.com/alex-badila)
 
 - [@Alex-HuXD](https://github.com/Alex-HuXD)
@@ -3182,3 +3184,5 @@
 - [@Abha-1281](https://github.com/Abha-1281/)
 
 - [@alexkou10] (https://github.com/alexkou10)
+
+- [@seanmortimer] (https://github.com/seanmortimer)
