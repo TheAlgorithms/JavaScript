@@ -3200,3 +3200,5 @@
 - [@mihaim07](https://github.com/mihaim07)
 
 - [@cedric43-2718](https://github.com/cedric43-2718)
+
+- [@jmacera95](https://github.com/jmacera95)
