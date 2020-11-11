@@ -3186,7 +3186,7 @@
 
 - [@alexkou10](https://github.com/alexkou10)
 
-- [@seanmortimer] (https://github.com/seanmortimer)
+- [@seanmortimer](https://github.com/seanmortimer)
 
 - [@jeanbuhendwa] (https://github.com/jeanbuhendwa/)
 
