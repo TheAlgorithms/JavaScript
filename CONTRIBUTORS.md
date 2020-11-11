@@ -2466,6 +2466,8 @@
 
 - [@ritesthapit](https://github.com/ritesthapit)
 
+- [@riturajjain2000](https://github.com/riturajjain2000)
+
 - [@rjosephscgllc](https://github.com/rjosephscgllc)
 
 - [@rkarora20](https://github.com/rkarora20/)
