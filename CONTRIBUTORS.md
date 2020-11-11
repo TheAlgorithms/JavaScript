@@ -3185,4 +3185,18 @@
 
 - [@alexkou10] (https://github.com/alexkou10)
 
-- [@jmacera95] (https://github.com/jmacera95)
+- [@seanmortimer] (https://github.com/seanmortimer)
+
+- [@jeanbuhendwa] (https://github.com/jeanbuhendwa/)
+
+- [@sheetal73](https://github.com/sheetal73/)
+
+- [@rudimental-again](https://github.com/rudimental-again/)
+
+- [@asadmshah3](https://github.com/asadmshah3)
+
+- [@sgb-codes](https://github.com/sgb-codes)
+
+- [@mihaim07](https://github.com/mihaim07)
+
+- [@cedric43-2718](https://github.com/cedric43-2718)
