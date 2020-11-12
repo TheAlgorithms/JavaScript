@@ -26,6 +26,7 @@
 
 - [@AkashGit21](https://github.com/AkashGit21/)
 
+
 - [@Akashdeepgupta](https://github.com/Akashdeepgupta)
 
 - [@AlejandroRdzLpz](https://github.com/AlejandroRdzLpz/)
@@ -3146,6 +3147,12 @@
 
 - [@ahmedaliqureshi](https://github.com/ahmedaliqureshi04)
 
+- [@Sreeja123ut](https://github.com/Sreeja123ut)
+
+- [@daibeat](https://github.com/daibeat)
+
+- [@araskog](https://github.com/araskog)
+
 - [@ehsanulhaq001](https://github.com/ehsanulhaq001)
 
 - [@daibeat](https://github.com/daibeat)
@@ -3169,7 +3176,7 @@
 -[@alexandreabashia](https://github.com/alexandreabashia)
 
 -[@geosar23](https://github.com/geosar23)
--[WWidener] (https://github.com/WWidener)
+-[WWidener](https://github.com/WWidener)
 
 - [@SandyJetGitHub](https://github.com/SandyJetGitHub)
 
