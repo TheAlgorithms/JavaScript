@@ -3282,3 +3282,13 @@
 - [@BaghZamir](https://github.com/BaghZamir)
 
 - [@Saldoc](https://github.com/Saldocc)
+
+- [@Cebarnsley](https://github.com/Cebarnsley)
+
+- [@Jxnas999](https://github.com/Jxnas999)
+
+- [@TorresOmarr](https://github.com/TorresOmarr)
+
+- [@ColinGM-dev](https://github.com/ColinGM-dev)
+
+- [@olaia] (https://github.com/olaia)
