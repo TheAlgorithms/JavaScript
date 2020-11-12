@@ -26,7 +26,10 @@
 
 - [@AkashGit21](https://github.com/AkashGit21/)
 
+
 - [@Akashdeepgupta](https://github.com/Akashdeepgupta)
+
+- [@AlejandroRdzLpz](https://github.com/AlejandroRdzLpz/)
 
 - [@Alex Badila#1981](https://github.com/alex-badila)
 
@@ -1070,7 +1073,7 @@
 
 - [@adillightwala](https://github.com/adillightwala)
 
-- [@adinicarel](<(https://github.com/adinicarel/)>)
+- [@adinicarel](<(https://github.com/adinicarel/)
 
 - [@adinicarel](https://github.com/adinicarel/)
 
@@ -1964,8 +1967,6 @@
 
 - [@kalpthakkar241](https://github.com/kalpthakkar241/)
 
-- [@kalpthakkar241](https://github.com/kalpthakkar241/)
-
 - [@kamaxijugali](https://github.com/kamaxijugali)
 
 - [@kamronbek028](https://github.com/kamronbek028)
@@ -2464,6 +2465,8 @@
 
 - [@ritesthapit](https://github.com/ritesthapit)
 
+- [@riturajjain2000](https://github.com/riturajjain2000)
+
 - [@rjosephscgllc](https://github.com/rjosephscgllc)
 
 - [@rkarora20](https://github.com/rkarora20/)
@@ -2799,8 +2802,6 @@
 - [@theneoterik](https://github.com/theneoterik)
 
 - [@thingetoo](https://github.com/thingetoo/)
-
-- [@tho6](https://github.com/tho6)
 
 - [@thodorismount](https://github.com/thodorismount/)
 
@@ -3142,6 +3143,12 @@
 
 - [@ahmedaliqureshi](https://github.com/ahmedaliqureshi04)
 
+- [@Sreeja123ut](https://github.com/Sreeja123ut)
+
+- [@daibeat](https://github.com/daibeat)
+
+- [@araskog](https://github.com/araskog)
+
 - [@ehsanulhaq001](https://github.com/ehsanulhaq001)
 
 - [@daibeat](https://github.com/daibeat)
@@ -3150,7 +3157,21 @@
 
 - [@fco-ortega](https://github.com/fco-ortega)
 
+- [@engga86](https://github.com/engga86)
+
+- [@Atallah-Nadhir](https://github.com/Atallah-Nadhir)
+
+- [@DTK89](https://github.com/DTK89)
+
+- [@engga86](https://github.com/engga86)
+
 - [@mohammadjavadnouri](https://github.com/mohammadjavadnouri)
+
+- [@NataliaJonik](https://github.com/NataliaJonik)
+
+- [@tonim19](https://github.com/tonim19)
+
+- [@engga86](https://github.com/engga86)
 
 - [@engga86](https://github.com/engga86)
 
@@ -3171,3 +3192,59 @@
 - [@SandyJetGitHub](https://github.com/SandyJetGitHub)
 
 - [@ikReza](https://github.com/ikReza)
+
+- [@geosar23](https://github.com/geosar23)
+
+- [WWidener](https://github.com/WWidener)
+
+- [@SandyJetGitHub](https://github.com/SandyJetGitHub)
+
+- [@xavigu](https://github.com/xavigu)
+
+- [@HoussamEzzin](https://github.com/HoussamEzzin)
+
+- [@ou79](http://github.com/ou79)
+
+- [@Nicholas-Gavz](https://github.com/Nicholas-Gavz/)
+
+- [@lasnab](https://github.com/lasnab/)
+
+- [@Abha-1281](https://github.com/Abha-1281/)
+
+- [@alexkou10] (https://github.com/alexkou10)
+
+- [@seanmortimer] (https://github.com/seanmortimer)
+
+- [@jeanbuhendwa] (https://github.com/jeanbuhendwa/)
+
+- [@sheetal73](https://github.com/sheetal73/)
+
+- [@rudimental-again](https://github.com/rudimental-again/)
+
+- [@asadmshah3](https://github.com/asadmshah3)
+
+- [@sgb-codes](https://github.com/sgb-codes)
+
+- [@mihaim07](https://github.com/mihaim07)
+
+- [@cedric43-2718](https://github.com/cedric43-2718)
+
+- [@jmacera95](https://github.com/jmacera95)
+
+- [@LotteFiber](https://github.com/LotteFiber)
+
+- [@AlexRFarnes](https://github.com/AlexRFarnes)
+
+- [@KanchanaKumari202](https://github.com/KanchanaKumari202)
+
+- [@rafaelnq](https://github.com/rafaelnq)
+
+- [@ispasvalentin22](https://github.com/ispasvalentin22)
+
+- [@HarshvardhanJosh](https://github.com/HarshvardhanJosh)
+
+- [@fatahaja](https://github.com/fatahaja)
+
+- [@geosar23](https://github.com/geosar23)
+
+- [@zoeferencova](https://github.com/zoeferencova)
