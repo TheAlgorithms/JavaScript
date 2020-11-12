@@ -3283,4 +3283,4 @@
 
 - [@Saldoc](https://github.com/Saldocc)
 
-- [@Cebarnsley] (https://github.com/Cebarnsley)
+- [@Cebarnsley](https://github.com/Cebarnsley)
