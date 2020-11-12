@@ -1073,7 +1073,7 @@
 
 - [@adillightwala](https://github.com/adillightwala)
 
-- [@adinicarel](<(https://github.com/adinicarel/)>)
+- [@adinicarel](<(https://github.com/adinicarel/)
 
 - [@adinicarel](https://github.com/adinicarel/)
 
@@ -1964,8 +1964,6 @@
 - [@k1a99](https://github.com/k1a99)
 
 - [@kajetan-witkowski](https://github.com/kajetan-witkowski)
-
-- [@kalpthakkar241](https://github.com/kalpthakkar241/)
 
 - [@kalpthakkar241](https://github.com/kalpthakkar241/)
 
@@ -3166,6 +3164,12 @@
 - [@engga86](https://github.com/engga86)
 
 - [@mohammadjavadnouri](https://github.com/mohammadjavadnouri)
+
+- [@NataliaJonik](https://github.com/NataliaJonik)
+
+- [@tonim19](https://github.com/tonim19)
+
+- [@engga86](https://github.com/engga86)
 
 - [@engga86](https://github.com/engga86)
 
