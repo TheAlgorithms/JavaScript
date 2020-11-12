@@ -3259,6 +3259,10 @@
 
 - [@fatahaja](https://github.com/fatahaja)
 
+- [@manishsinghd](https://github.com/manishsinghd)
+
+- [@zoeferencova](https://github.com/zoeferencova)
+
 - [@geosar23](https://github.com/geosar23) 
 
 - [WWidener] (https://github.com/WWidener)
