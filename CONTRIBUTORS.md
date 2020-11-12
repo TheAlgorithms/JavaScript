@@ -3189,6 +3189,8 @@
 
 - [@geosar23](https://github.com/geosar23)
 
+- [@geosar23](https://github.com/geosar23)
+
 - [WWidener] (https://github.com/WWidener)
 
 - [@geosar23](https://github.com/geosar23)
@@ -3219,9 +3221,9 @@
 
 - [@Abha-1281](https://github.com/Abha-1281/)
 
-- [@alexkou10] (https://github.com/alexkou10)
+- [@alexkou10](https://github.com/alexkou10)
 
-- [@seanmortimer] (https://github.com/seanmortimer)
+- [@seanmortimer](https://github.com/seanmortimer)
 
 - [@jeanbuhendwa] (https://github.com/jeanbuhendwa/)
 
