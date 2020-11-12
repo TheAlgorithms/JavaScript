@@ -1,3 +1,5 @@
+<!-- @format -->
+
 # CONTRIBUTORS
 
 - [@kirizhu](https://github.com/kirizhu)
@@ -3244,6 +3246,14 @@
 - [@HarshvardhanJosh](https://github.com/HarshvardhanJosh)
 
 - [@fatahaja](https://github.com/fatahaja)
+
+- [@geosar23](https://github.com/geosar23) 
+
+- [WWidener] (https://github.com/WWidener)
+
+- [@SandyJetGitHub](https://github.com/SandyJetGitHub)
+
+- [@getdev84](https://github.com/getdev84/)
 
 - [@geosar23](https://github.com/geosar23)
 
