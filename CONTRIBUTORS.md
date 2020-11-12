@@ -3191,6 +3191,10 @@
 
 - [WWidener] (https://github.com/WWidener)
 
+- [@geosar23](https://github.com/geosar23)
+
+- [WWidener] (https://github.com/WWidener)
+
 - [@SandyJetGitHub](https://github.com/SandyJetGitHub)
 
 - [@ikReza](https://github.com/ikReza)
@@ -3206,6 +3210,8 @@
 - [@HoussamEzzin](https://github.com/HoussamEzzin)
 
 - [@ou79](http://github.com/ou79)
+
+- [@JonasKaruzas](https://github.com/JonasKaruzas)
 
 - [@Nicholas-Gavz](https://github.com/Nicholas-Gavz/)
 
