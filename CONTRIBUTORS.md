@@ -3294,3 +3294,5 @@
 - [@olaia](https://github.com/olaia)
 
 - [@m10hit](https://github.com/m10hit)
+
+- [@aspicy](https://github.com/aspicy)
