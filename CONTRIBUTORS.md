@@ -3193,7 +3193,7 @@
 
 - [@geosar23](https://github.com/geosar23)
 
--[@geosar23](https://github.com/geosar23) 
+-[@geosar23](https://github.com/geosar23)
 
 -[WWidener] (https://github.com/WWidener)
 
@@ -3263,7 +3263,7 @@
 
 - [@zoeferencova](https://github.com/zoeferencova)
 
-- [@geosar23](https://github.com/geosar23) 
+- [@geosar23](https://github.com/geosar23)
 
 - [WWidener] (https://github.com/WWidener)
 
@@ -3292,3 +3292,5 @@
 - [@ColinGM-dev](https://github.com/ColinGM-dev)
 
 - [@olaia] (https://github.com/olaia)
+
+- [@miloszcwen] (https://github.com/miloszcwen)
