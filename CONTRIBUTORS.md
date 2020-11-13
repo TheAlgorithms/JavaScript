@@ -3298,3 +3298,5 @@
 - [@aspicy](https://github.com/aspicy)
 
 - [@geebeetoo](https://github.com/geebeetoo)
+  
+- [@rishi04](https://github.com/rishi04)
