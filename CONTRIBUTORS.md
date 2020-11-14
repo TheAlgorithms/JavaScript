@@ -3291,4 +3291,12 @@
 
 - [@ColinGM-dev](https://github.com/ColinGM-dev)
 
-- [@olaia] (https://github.com/olaia)
+- [@olaia](https://github.com/olaia)
+
+- [@m10hit](https://github.com/m10hit)
+
+- [@aspicy](https://github.com/aspicy)
+
+- [@geebeetoo](https://github.com/geebeetoo)
+  
+- [@rishi04](https://github.com/rishi04) 
