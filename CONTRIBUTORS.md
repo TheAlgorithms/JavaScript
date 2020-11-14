@@ -1150,7 +1150,7 @@
 
 - [@adillightwala](https://github.com/adillightwala)
 
-- [@adinicarel](<(https://github.com/adinicarel/)
+- [@adinicarel](https://github.com/adinicarel/)
 
 - [@adinicarel](https://github.com/adinicarel/)
 
