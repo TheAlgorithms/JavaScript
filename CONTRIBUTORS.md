@@ -440,6 +440,8 @@
 
 - [@JRyGithub](https://github.com/JRyGithub)
 
+- [@JVetc](https://github.com/JVetc)
+
 - [@Jachin-Manda](https://github.com/Jachin-Manda)
 
 - [@Jack-tw0510](https://github.com/Jack-tw0510/)
@@ -453,6 +455,8 @@
 - [@Jalpy-Dev](https://github.com/Jalpy-Dev)
 
 - [@JasonHuang1213](https://github.com/JasonHuang1213)
+
+- [@Jatin975](https://github.com/Jatin975)
 
 - [@JayantGoel001](https://github.com/JayantGoel001)
 
@@ -2148,6 +2152,8 @@
 
 - [@kelvinchan2406](https://github.com/kelvinchan2406)
 
+- [@kevenduverne](https://github.com/kevenduverne)
+
 - [@kevin5880](https://github.com/kevin5880)
 
 - [@khadijagardezi](https://github.com/khadijagardezi)
@@ -2365,6 +2371,8 @@
 - [@milirope](https://github.com/milirope)
 
 - [@millz83](https://github.com/millz83)
+
+- [@miloszcwen] (https://github.com/miloszcwen)
 
 - [@ming-tsai](https://github.com/ming-tsai)
 
@@ -3242,3 +3250,10 @@
 
 - [@zoeferencova](https://github.com/zoeferencova)
 
+- [@chris-mastic](https://github.com/chris-mastic)
+
+- [@midopooler](https://github.com/midopooler)
+
+- [@rahulgarg28071998](https://github.com/rahulgarg28071998)
+
+- [@hugonin](https://github.com/hugonin)
