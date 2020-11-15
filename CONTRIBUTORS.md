@@ -3255,3 +3255,5 @@
 - [@midopooler](https://github.com/midopooler)
 
 - [@rahulgarg28071998](https://github.com/rahulgarg28071998)
+
+- [@hugonin](https://github.com/hugonin)
