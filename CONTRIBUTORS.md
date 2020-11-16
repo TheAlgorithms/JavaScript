@@ -3272,6 +3272,12 @@
 
 -[@harihp29](https://github.com/harihp29)
 
+-[@michaelparkernorton](https://github.com/michaelparkernorton)
+
 - [@linyuwei](https://github.com/linyuwei)
+
+- [@nipeli](https://github.com/nipeli)
+
+- [@paulgellatly](https://github.com/paulgellatly) 
 
 - [@krombo-kode](https://github.com/krombo-kode)
