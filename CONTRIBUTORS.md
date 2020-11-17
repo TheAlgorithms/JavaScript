@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@ekinkaradag](https://github.com/ekinkaradag)
+
 - [@07rv](https://github.com/07rv/)
 
 - [@0xaj](https://github.com/0xaj)
@@ -3270,9 +3272,9 @@
 
 - [@CodeWithBorys](https://github.com/CodeWithBorys)
 
--[@harihp29](https://github.com/harihp29)
+- [@harihp29](https://github.com/harihp29)
 
--[@michaelparkernorton](https://github.com/michaelparkernorton)
+- [@michaelparkernorton](https://github.com/michaelparkernorton)
 
 - [@linyuwei](https://github.com/linyuwei)
 
