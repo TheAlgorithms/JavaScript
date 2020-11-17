@@ -1,4 +1,5 @@
 # CONTRIBUTORS
+-[@thebluedev](https://github.com/thebluedev) 
 
 - [@07rv](https://github.com/07rv/)
 
