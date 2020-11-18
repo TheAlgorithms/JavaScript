@@ -3291,7 +3291,7 @@
 
 -[@andisaba](http://github.com/andisaba/)
 
--[@Panchowasaki] (https://github.com/Panchowasaki)
+-[@Panchowasaki](https://github.com/Panchowasaki)
 
 -[@chintan791](https://github.com/chintan791)
 
@@ -3308,3 +3308,5 @@
 -[@vishmagic](https://github.com/vishmagic)
 
 -[@ArataKagan](https://github.com/ArataKagan)
+
+-[@TravisOO7](https://github.com/TravisOO7/)
