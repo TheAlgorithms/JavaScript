@@ -3296,3 +3296,19 @@
 -[@chintan791](https://github.com/chintan791)
 
 -[@meetaffan](https://github.com/meetaffan/)
+
+-[krishnasharma591]((https://github.com/krishnasharma591/)
+
+- [@shubhamgoel90](https://github.com/shubhamgoel90) 
+
+- [@Loriel-S](https://github.com/Loriel-S)
+
+-[@RHigh01](https://github.com/RHigh01)
+
+-[@vishmagic](https://github.com/vishmagic)
+
+-[@ArataKagan](https://github.com/ArataKagan)
+
+-[@FrancoisCordier](https://github.com/FrancoisCordier)
+
+-[@dodong](https://github.com/vhenjade)
