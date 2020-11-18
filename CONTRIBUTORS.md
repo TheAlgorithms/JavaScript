@@ -2048,7 +2048,7 @@
 - [@jciprianoDS](https://github.com/jciprianoDS)
 
 - [@jeanbuhendwa] (https://github.com/jeanbuhendwa/)
-- [@ajayksuresh] (https://github.com/ajayksuresh/)
+- 
 - [@jeaninepalicte](https://github.com/jeaninepalicte/)
 
 - [@jennyferdesprez](https://github.com/jennyferdesprez)
@@ -3312,3 +3312,4 @@
 -[@FrancoisCordier](https://github.com/FrancoisCordier)
 
 -[@dodong](https://github.com/vhenjade)
+[@ajayksuresh](https://github.com/ajayksuresh/)
