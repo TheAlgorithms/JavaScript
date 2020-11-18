@@ -3271,9 +3271,9 @@
 
 - [@CodeWithBorys](https://github.com/CodeWithBorys)
 
--[@harihp29](https://github.com/harihp29)
+- [@harihp29](https://github.com/harihp29)
 
--[@michaelparkernorton](https://github.com/michaelparkernorton)
+- [@michaelparkernorton](https://github.com/michaelparkernorton)
 
 - [@linyuwei](https://github.com/linyuwei)
 
@@ -3285,28 +3285,28 @@
 
 - [@laurana88](https://github.com/laurana88)
 
--[@19millionac](https://github.com/19millionac)
+- [@19millionac](https://github.com/19millionac)
 
--[@etorres-revature](https://github.com/etorres-revature)
+- [@etorres-revature](https://github.com/etorres-revature)
 
--[@andisaba](http://github.com/andisaba/)
+- [@andisaba](http://github.com/andisaba/)
 
--[@Panchowasaki](https://github.com/Panchowasaki)
+- [@Panchowasaki](https://github.com/Panchowasaki)
 
--[@chintan791](https://github.com/chintan791)
+- [@chintan791](https://github.com/chintan791)
 
--[@meetaffan](https://github.com/meetaffan/)
+- [@meetaffan](https://github.com/meetaffan/)
 
--[krishnasharma591]((https://github.com/krishnasharma591/)
+- [@krishnasharma591](https://github.com/krishnasharma591/)
 
 - [@shubhamgoel90](https://github.com/shubhamgoel90) 
 
 - [@Loriel-S](https://github.com/Loriel-S)
 
--[@RHigh01](https://github.com/RHigh01)
+- [@RHigh01](https://github.com/RHigh01)
 
--[@vishmagic](https://github.com/vishmagic)
+- [@vishmagic](https://github.com/vishmagic)
 
--[@ArataKagan](https://github.com/ArataKagan)
+- [@ArataKagan](https://github.com/ArataKagan)
 
--[@TravisOO7](https://github.com/TravisOO7/)
+- [@TravisOO7](https://github.com/TravisOO7/)
