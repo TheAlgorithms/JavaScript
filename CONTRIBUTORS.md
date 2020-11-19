@@ -3299,6 +3299,8 @@
 
 -[krishnasharma591]((https://github.com/krishnasharma591/)
 
+-[@isjules](https://github.com/isjules/)
+
 - [@shubhamgoel90](https://github.com/shubhamgoel90) 
 
 - [@Loriel-S](https://github.com/Loriel-S)
@@ -3312,3 +3314,9 @@
 -[@FrancoisCordier](https://github.com/FrancoisCordier)
 
 -[@dodong](https://github.com/vhenjade)
+
+-[@laureen-m](https://github.com/laureen-m)
+
+-[@rrosann](https://github.com/RROSANN)
+
+-[@dvsalcedo](https://github.com/dvsalcedo)
