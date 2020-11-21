@@ -3379,3 +3379,9 @@
 - [@Jepal] (https://github.com/Jepal)
 
 - [@nutsbrainup](https://github.com/nutsbrainup)
+
+- [@alexjlin](https://github.com/alexlin0625)
+
+- [@LuisLSousa](https://github.com/LuisLSousa)
+
+- [@Davidohis](https://github.com/Davidohis)
