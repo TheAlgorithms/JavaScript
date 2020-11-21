@@ -3385,3 +3385,7 @@
 - [@LuisLSousa](https://github.com/LuisLSousa)
 
 - [@Davidohis](https://github.com/Davidohis)
+
+- [@fratilar](https://github.com/fratilar)
+
+- [@hrm2017](https://github.com/hrm2017)
