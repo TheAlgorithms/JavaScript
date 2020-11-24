@@ -1,5 +1,6 @@
 # CONTRIBUTORS
 - [@thanhson0514](https://github.com/thanhson0514)
+
 - [@07rv](https://github.com/07rv/)
 
 - [@0xaj](https://github.com/0xaj)
@@ -3391,6 +3392,7 @@
 - [@hrm2017](https://github.com/hrm2017)
 
 - [@EricD720](https://github.com/EricD720/)
+
 - [@Abdellah-ST](https://github.com/Abdellah-ST)
 
 - [@rutvikshukla] (https://github.com/rutvikshukla/)
@@ -3410,6 +3412,11 @@
 - [@fahimu10](https://github.com/fahimu10)
 
 - [@himakshi-aggarwal](https://github.com/himakshi-aggarwal)
+
 - [@faraz6188](https://github.com/faraz6188/)
+
 - [@quekcg](https://github.com/quekcg/)
+
 - [@jvrensjm1](https://github.com/jvrensjm1/)
+
+- [@AA-Arnold](https://github.com/AA-Arnold/)
