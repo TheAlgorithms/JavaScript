@@ -1,5 +1,5 @@
 # CONTRIBUTORS
-
+- [@thanhson0514](https://github.com/thanhson0514)
 - [@07rv](https://github.com/07rv/)
 
 - [@0xaj](https://github.com/0xaj)
@@ -3412,3 +3412,6 @@
 - [@himakshi-aggarwal](https://github.com/himakshi-aggarwal)
 - [@faraz6188](https://github.com/faraz6188/)
 - [@quekcg](https://github.com/quekcg/)
+- [@jvrensjm1](https://github.com/jvrensjm1/)
+
+- [@kailun-liu](https://github.com/kailun-liu)
