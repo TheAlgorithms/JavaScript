@@ -1,4 +1,5 @@
 # CONTRIBUTORS
+
 - [@thanhson0514](https://github.com/thanhson0514)
 - [@07rv](https://github.com/07rv/)
 
@@ -2040,7 +2041,7 @@
 
 - [@ionut](https://github.com/ionut)
 
-- [@ionut](https://github.com/ionut) 
+- [@ionut](https://github.com/ionut)
 
 - [@iopedare](https://github.com/iopedare)
 
@@ -2622,7 +2623,7 @@
 
 - [@paulgellatly](https://github.com/paulgellatly)
 
-- [@paulgellatly](https://github.com/paulgellatly) 
+- [@paulgellatly](https://github.com/paulgellatly)
 
 - [@paulsalomson](https://github.com/paulsalomson/)
 
@@ -2946,7 +2947,7 @@
 
 - [@shubhamgoel90](https://github.com/shubhamgoel90)
 
-- [@shubhamgoel90](https://github.com/shubhamgoel90) 
+- [@shubhamgoel90](https://github.com/shubhamgoel90)
 
 - [@shubhamsambhu](https://github.com/shubhamsambhu/)
 
@@ -3118,7 +3119,7 @@
 
 - [@thebluedev](https://github.com/thebluedev)
 
-- [@thebluedev](https://github.com/thebluedev) 
+- [@thebluedev](https://github.com/thebluedev)
 
 - [@theenthusiastprogrammer](https://github.com/theenthusiastprogrammer/)
 
@@ -3401,15 +3402,20 @@
 
 - [@JoeyFlaum](https://github.com/JoeyFlaum/)
 
-- [@raja-prog](https://github.com/raja-prog/)  
+- [@raja-prog](https://github.com/raja-prog/)
 
-- [@PlatonSterh](https://github.com/PlatonSterh/) 
+- [@PlatonSterh](https://github.com/PlatonSterh/)
 
 - [@AmanSethi13](https://github.com/AmanSethi13)
 
 - [@fahimu10](https://github.com/fahimu10)
 
 - [@himakshi-aggarwal](https://github.com/himakshi-aggarwal)
+
 - [@faraz6188](https://github.com/faraz6188/)
+
 - [@quekcg](https://github.com/quekcg/)
+
 - [@jvrensjm1](https://github.com/jvrensjm1/)
+
+-[@desktopmunchies](https://github.com/desktopmunchies)
