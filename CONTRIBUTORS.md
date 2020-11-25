@@ -1,5 +1,5 @@
 # CONTRIBUTORS
-
+- [@thanhson0514](https://github.com/thanhson0514)
 - [@07rv](https://github.com/07rv/)
 
 - [@0xaj](https://github.com/0xaj)
@@ -3400,3 +3400,21 @@
 - [@TacoBarrel](https://github.com/TacoBarrel)
 
 - [@JoeyFlaum](https://github.com/JoeyFlaum/)
+
+- [@raja-prog](https://github.com/raja-prog/)  
+
+- [@PlatonSterh](https://github.com/PlatonSterh/) 
+
+- [@AmanSethi13](https://github.com/AmanSethi13)
+
+- [@fahimu10](https://github.com/fahimu10)
+
+- [@himakshi-aggarwal](https://github.com/himakshi-aggarwal)
+- [@faraz6188](https://github.com/faraz6188/)
+- [@quekcg](https://github.com/quekcg/)
+- [@jvrensjm1](https://github.com/jvrensjm1/)
+
+- [@kailun-liu](https://github.com/kailun-liu)
+- [@zddd-bit](https://github.com/zddd-bit)
+
+- [@FlavioFMenezes](https://github.com/FlavioFMenezes)
