@@ -6,7 +6,7 @@ https://en.wikipedia.org/wiki/Pigeonhole_sort
 * (n) and the length of the range of possible key values (N)
 * are approximately the same.
  */
-function pigeonHoleSort(arr) {
+function pigeonHoleSort (arr) {
   let min = arr[0]
   let max = arr[0]
 
