@@ -40,4 +40,3 @@ function pigeonhole_sort(arr){
 var arr=Array(8, 3, 2, 7, 4, 6, 8);
 pigeonhole_sort(arr);
 console.log(arr);
-
