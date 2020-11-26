@@ -1030,6 +1030,8 @@
 
 - [@TravisOO7](https://github.com/TravisOO7/)
 
+- [@Tejas753](https://github.com/Tejas753)
+
 - [@Tristman9](https://github.com/Tristman9)
 
 - [@Turtando](https://github.com/Turtando)
