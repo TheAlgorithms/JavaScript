@@ -1,5 +1,7 @@
 # CONTRIBUTORS
+
 - [@thanhson0514](https://github.com/thanhson0514)
+
 - [@07rv](https://github.com/07rv/)
 
 - [@0xaj](https://github.com/0xaj)
@@ -2040,8 +2042,6 @@
 
 - [@ionut](https://github.com/ionut)
 
-- [@ionut](https://github.com/ionut) 
-
 - [@iopedare](https://github.com/iopedare)
 
 - [@ipkalm](https://github.com/ipkalm/)
@@ -2622,8 +2622,6 @@
 
 - [@paulgellatly](https://github.com/paulgellatly)
 
-- [@paulgellatly](https://github.com/paulgellatly) 
-
 - [@paulsalomson](https://github.com/paulsalomson/)
 
 - [@paulwon](https://github.com/paulwon/)
@@ -2946,8 +2944,6 @@
 
 - [@shubhamgoel90](https://github.com/shubhamgoel90)
 
-- [@shubhamgoel90](https://github.com/shubhamgoel90) 
-
 - [@shubhamsambhu](https://github.com/shubhamsambhu/)
 
 - [@shubhbhalla](https://github.com/shubhbhalla/)
@@ -3117,8 +3113,6 @@
 - [@theSultan00](https://github.com/thesultan00)
 
 - [@thebluedev](https://github.com/thebluedev)
-
-- [@thebluedev](https://github.com/thebluedev) 
 
 - [@theenthusiastprogrammer](https://github.com/theenthusiastprogrammer/)
 
@@ -3376,7 +3370,11 @@
 
 - [@GauravGupta035](https://github.com/GauravGupta035)
 
-- [@Jepal] (https://github.com/Jepal)
+- [@Jepal](https://github.com/Jepal)
+
+- [@nutsbrainup](https://github.com/nutsbrainup
+
+- [@joshua-j-allen](https://github.com/joshua-j-allen/)
 
 - [@nutsbrainup](https://github.com/nutsbrainup)
 
@@ -3386,6 +3384,10 @@
 
 - [@Davidohis](https://github.com/Davidohis)
 
+- [@alexkou10](https://github.com/alexkou10)
+
+- [farhaddashtia](https://github.com/farhaddashtia/)
+
 - [@fratilar](https://github.com/fratilar)
 
 - [@hrm2017](https://github.com/hrm2017)
@@ -3394,7 +3396,7 @@
 
 - [@Abdellah-ST](https://github.com/Abdellah-ST)
 
-- [@rutvikshukla] (https://github.com/rutvikshukla/)
+- [@rutvikshukla](https://github.com/rutvikshukla/)
 
 - [@MarieHarmsen](https://github.com/MarieHarmsen)
 
@@ -3434,6 +3436,10 @@
 
 - [@bharmalh](https://github.com/bharmalh)
 
+- [@Dolphy1010](https://github.com/dolphy1010)
+
+- [@bharmalh](https://github.com/bharmalh)
+
 - [@Winston6079](https://github.com/Winston6079)
 
 - [@chereesingal](https://github.com/chereesingal/)
@@ -3442,4 +3448,9 @@
 
 - [@amdat99](https://github.com/amdat99/)
 
--[@prajwal-machado-au9](https://github.com/prajwal-machado-au9)
+- [@prajwal-machado-au9](https://github.com/prajwal-machado-au9)
+
+- [@amdat99](https://github.com/amdat99/)
+
+- [@prajwal-machado-au9](https://github.com/prajwal-machado-au9)
+
