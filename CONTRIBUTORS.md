@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@thanhson0514](https://github.com/thanhson0514)
+
 - [@07rv](https://github.com/07rv/)
 
 - [@0xaj](https://github.com/0xaj)
@@ -3376,8 +3378,73 @@
 
 - [@GauravGupta035](https://github.com/GauravGupta035)
 
-- [@Jepal] (https://github.com/Jepal)
+- [@Jepal](https://github.com/Jepal)
 
 - [@nutsbrainup](https://github.com/nutsbrainup
 
 - [@joshua-j-allen](https://github.com/joshua-j-allen/)
+
+- [@nutsbrainup](https://github.com/nutsbrainup)
+
+- [@alexjlin](https://github.com/alexlin0625)
+
+- [@LuisLSousa](https://github.com/LuisLSousa)
+
+- [@Davidohis](https://github.com/Davidohis)
+
+- [@fratilar](https://github.com/fratilar)
+
+- [@hrm2017](https://github.com/hrm2017)
+
+- [@EricD720](https://github.com/EricD720/)
+
+- [@Abdellah-ST](https://github.com/Abdellah-ST)
+
+- [@rutvikshukla](https://github.com/rutvikshukla/)
+
+- [@MarieHarmsen](https://github.com/MarieHarmsen)
+
+- [@TacoBarrel](https://github.com/TacoBarrel)
+
+- [@JoeyFlaum](https://github.com/JoeyFlaum/)
+
+- [@raja-prog](https://github.com/raja-prog/)  
+
+- [@PlatonSterh](https://github.com/PlatonSterh/) 
+
+- [@AmanSethi13](https://github.com/AmanSethi13)
+
+- [@fahimu10](https://github.com/fahimu10)
+
+- [@himakshi-aggarwal](https://github.com/himakshi-aggarwal)
+
+- [@faraz6188](https://github.com/faraz6188/)
+
+- [@quekcg](https://github.com/quekcg/)
+
+- [@jvrensjm1](https://github.com/jvrensjm1/)
+
+- [@kailun-liu](https://github.com/kailun-liu)
+
+- [@zddd-bit](https://github.com/zddd-bit)
+
+- [@FlavioFMenezes](https://github.com/FlavioFMenezes)
+
+- [@fgostev](https://github.com/fgostev)
+
+- [@gustojvalle](https://github.com/gustojvalle)
+
+- [@Dolphy1010](https://github.com/dolphy1010)
+
+- [@bharmalh](https://github.com/bharmalh)
+
+- [@Winston6079](https://github.com/Winston6079)
+
+- [@chereesingal](https://github.com/chereesingal/)
+
+- [@anhquoc13](https://github.com/anhquoc13/)
+
+- [@amdat99](https://github.com/amdat99/)
+
+- [@prajwal-machado-au9](https://github.com/prajwal-machado-au9)
+
