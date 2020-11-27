@@ -3484,4 +3484,4 @@
 
 - [@sophielinimprov](https://github.com/sophielinimprov)
 
--[@rdtaylorjr](https://github.com/rdtaylorjr)
+- [@rdtaylorjr](https://github.com/rdtaylorjr)
