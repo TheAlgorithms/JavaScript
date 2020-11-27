@@ -4,6 +4,8 @@
 
 - [@07rv](https://github.com/07rv/)
 
+- [@ChetanDehane](https://github.com/ChetanDehane)
+
 - [@0xaj](https://github.com/0xaj)
 
 - [@17Piyush](https://github.com/17Piyush/)
@@ -3543,3 +3545,19 @@
 - [@olsenbudanur](https://github.com/olsenbudanur)
 
 - [@jbampton](https://github.com/jbampton)
+
+- [@guccibase](https://github.com/guccibase)
+
+- [@sophielinimprov](https://github.com/sophielinimprov)
+
+- [@rdtaylorjr](https://github.com/rdtaylorjr)
+
+- [@Rahulraj31](https://github.com/Rahulraj31)
+
+- [@jeyeverett](https://github.com/jeyeverett)
+
+- [@domenicocubeddu](https://github.com/domenicocubeddu)
+
+- [@samibyrone](https://github.com/samibyrone)
+
+- [@sdanieau8](https://github.com/sdanieau8)
