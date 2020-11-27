@@ -3495,3 +3495,15 @@
 
 - [@ChipEagle](https://github.com/ChipEagle/)
 
+- [@dilemmawalker](https://github.com/dilemmawalker)
+
+- [@olsenbudanur](https://github.com/olsenbudanur)
+
+- [@jbampton](https://github.com/jbampton)
+
+- [@guccibase](https://github.com/guccibase)
+
+- [@sophielinimprov](https://github.com/sophielinimprov)
+
+-[@rdtaylorjr](https://github.com/rdtaylorjr)
+
