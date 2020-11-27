@@ -3559,3 +3559,5 @@
 - [@domenicocubeddu](https://github.com/domenicocubeddu)
 
 - [@samibyrone](https://github.com/samibyrone)
+
+- [@sdanieau8](https://github.com/sdanieau8)
