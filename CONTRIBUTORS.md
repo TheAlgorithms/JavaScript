@@ -3562,8 +3562,8 @@
 
 - [@sdanieau8](https://github.com/sdanieau8)
 
--[@antrikshmalik](https://github.com/antrikshmalik)
+- [@antrikshmalik](https://github.com/antrikshmalik)
 
 - [@jkrk678](https://github.com/jkrk678)
 
--[@DoublZer0](https://github.com/DoublZer0/)
+- [@DoublZer0](https://github.com/DoublZer0/)
