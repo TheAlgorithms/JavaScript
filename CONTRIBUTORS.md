@@ -3547,3 +3547,5 @@
 - [@guccibase](https://github.com/guccibase)
 
 - [@sophielinimprov](https://github.com/sophielinimprov)
+
+-[@rdtaylorjr](https://github.com/rdtaylorjr)
