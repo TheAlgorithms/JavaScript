@@ -3569,3 +3569,5 @@
 - [@DoublZer0](https://github.com/DoublZer0/)
 
 - [@caseyferrara](https://github.com/caseyferrara)
+
+- [@rosarioterranova](https://github.com/rosarioterranova)
