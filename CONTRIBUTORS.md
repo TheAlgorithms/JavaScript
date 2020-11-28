@@ -3581,3 +3581,5 @@
 - [@scottbryant1] (https://github.com/scottbryant1)
 
 -[@JeanCarlos69](https://github.com/JeanCarlos69)
+
+-[@ChrisTague1](https://github.com/ChrisTague1/)
