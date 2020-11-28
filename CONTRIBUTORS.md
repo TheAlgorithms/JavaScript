@@ -4,6 +4,8 @@
 
 - [@07rv](https://github.com/07rv/)
 
+- [@ChetanDehane](https://github.com/ChetanDehane)
+
 - [@0xaj](https://github.com/0xaj)
 
 - [@17Piyush](https://github.com/17Piyush/)
@@ -2042,21 +2044,9 @@
 
 - [@ionut](https://github.com/ionut)
 
-<<<<<<< HEAD
-
 - [@ionut](https://github.com/ionut)
 
-=======
-
-<<<<<<< HEAD
-
 - [@ionut](https://github.com/ionut)
-
-=======
-
->>>>>>> 74350a1b8bedeb3d93072accb816dba27ab380b0
-
->>>>>>> 4b2df9f3d1ec8622fe844e12929fb4a7766246b8
 
 - [@iopedare](https://github.com/iopedare)
 
@@ -2638,21 +2628,9 @@
 
 - [@paulgellatly](https://github.com/paulgellatly)
 
-<<<<<<< HEAD
-
 - [@paulgellatly](https://github.com/paulgellatly)
 
-=======
-
-<<<<<<< HEAD
-
 - [@paulgellatly](https://github.com/paulgellatly)
-
-=======
-
->>>>>>> 74350a1b8bedeb3d93072accb816dba27ab380b0
-
->>>>>>> 4b2df9f3d1ec8622fe844e12929fb4a7766246b8
 
 - [@paulsalomson](https://github.com/paulsalomson/)
 
@@ -2976,21 +2954,10 @@
 
 - [@shubhamgoel90](https://github.com/shubhamgoel90)
 
-<<<<<<< HEAD
 
 - [@shubhamgoel90](https://github.com/shubhamgoel90)
 
-=======
-
-<<<<<<< HEAD
-
 - [@shubhamgoel90](https://github.com/shubhamgoel90)
-
-=======
-
->>>>>>> 74350a1b8bedeb3d93072accb816dba27ab380b0
-
->>>>>>> 4b2df9f3d1ec8622fe844e12929fb4a7766246b8
 
 - [@shubhamsambhu](https://github.com/shubhamsambhu/)
 
@@ -3162,21 +3129,9 @@
 
 - [@thebluedev](https://github.com/thebluedev)
 
-<<<<<<< HEAD
-
 - [@thebluedev](https://github.com/thebluedev)
 
-=======
-
-<<<<<<< HEAD
-
 - [@thebluedev](https://github.com/thebluedev)
-
-=======
-
->>>>>>> 74350a1b8bedeb3d93072accb816dba27ab380b0
-
->>>>>>> 4b2df9f3d1ec8622fe844e12929fb4a7766246b8
 
 - [@theenthusiastprogrammer](https://github.com/theenthusiastprogrammer/)
 
@@ -3557,3 +3512,27 @@
 - [@domenicocubeddu](https://github.com/domenicocubeddu)
 
 - [@Irhose](https://github.com/Irhose)
+
+- [@samibyrone](https://github.com/samibyrone)
+
+- [@sdanieau8](https://github.com/sdanieau8)
+
+- [@antrikshmalik](https://github.com/antrikshmalik)
+
+- [@jkrk678](https://github.com/jkrk678)
+
+- [@DoublZer0](https://github.com/DoublZer0/)
+
+- [@caseyferrara](https://github.com/caseyferrara)
+
+- [@rosarioterranova](https://github.com/rosarioterranova)
+
+-[@vedant2608](https://github.com/vedant2608/)
+
+- [@smithsra](https://github.com/smithsra/)
+
+- [@shubhamagarwal5] (https://github.com/shubhamagarwal5)
+
+- [@scottbryant1] (https://github.com/scottbryant1)
+
+-[@JeanCarlos69](https://github.com/JeanCarlos69)
