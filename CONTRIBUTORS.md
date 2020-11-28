@@ -3561,3 +3561,25 @@
 - [@samibyrone](https://github.com/samibyrone)
 
 - [@sdanieau8](https://github.com/sdanieau8)
+
+- [@antrikshmalik](https://github.com/antrikshmalik)
+
+- [@jkrk678](https://github.com/jkrk678)
+
+- [@DoublZer0](https://github.com/DoublZer0/)
+
+- [@caseyferrara](https://github.com/caseyferrara)
+
+- [@rosarioterranova](https://github.com/rosarioterranova)
+
+-[@vedant2608](https://github.com/vedant2608/)
+
+- [@smithsra](https://github.com/smithsra/)
+
+- [@shubhamagarwal5] (https://github.com/shubhamagarwal5)
+
+- [@scottbryant1] (https://github.com/scottbryant1)
+
+-[@JeanCarlos69](https://github.com/JeanCarlos69)
+
+-[@ChrisTague1](https://github.com/ChrisTague1/)
