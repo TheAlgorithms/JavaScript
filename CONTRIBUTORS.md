@@ -42,8 +42,6 @@
 
 - [@Alex Badila#1981](https://github.com/alex-badila)
 
-- [@MerisCulic](https://github.com/MerisCulic)
-
 - [@Alex-HuXD](https://github.com/Alex-HuXD)
 
 - [@AlexKanaanTam](https://github.com/AlexKanaanTam)
@@ -3559,3 +3557,6 @@
 -[@melhemdirani](https://github.com/melhemdirani/)
 
 -[@charumitraravi](https://github.com/charumitraravi)
+
+- [@MerisCulic](https://github.com/MerisCulic)
+
