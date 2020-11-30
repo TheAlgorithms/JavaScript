@@ -3566,4 +3566,4 @@
 
 - [@kawgh1](https://github.com/kawgh1)
 
-- [@kporcioncula04] (https://github.com/kporcioncula04)
+- [@kporcioncula04](https://github.com/kporcioncula04)
