@@ -3557,3 +3557,15 @@
 -[@melhemdirani](https://github.com/melhemdirani/)
 
 -[@charumitraravi](https://github.com/charumitraravi)
+
+- [@MerisCulic](https://github.com/MerisCulic)
+
+- [@Joewat96](https://github.com/Joewat96)
+
+- [@Stuart-Daniells](https://github.com/StuartDaniells)
+
+- [@kawgh1](https://github.com/kawgh1)
+
+- [@kporcioncula04](https://github.com/kporcioncula04)
+
+- [@KitBolourchi](https://github.com/KitBolourchi)
