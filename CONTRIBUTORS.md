@@ -2946,13 +2946,7 @@
 
 - [@shubhamgoel90](https://github.com/shubhamgoel90)
 
-<<<<<<< HEAD
-
 - [@shubhamgoel90](https://github.com/shubhamgoel90)
-
-=======
-
->>>>>>> 49098ca45e540bb15a746b3a83cf846d1ced5087
 
 - [@shubhamgoel90](https://github.com/shubhamgoel90)
 
@@ -3126,13 +3120,7 @@
 
 - [@thebluedev](https://github.com/thebluedev)
 
-<<<<<<< HEAD
-
 - [@thebluedev](https://github.com/thebluedev)
-
-=======
-
->>>>>>> 49098ca45e540bb15a746b3a83cf846d1ced5087
 
 - [@theenthusiastprogrammer](https://github.com/theenthusiastprogrammer/)
 
@@ -3566,4 +3554,4 @@
 
 - [@kawgh1](https://github.com/kawgh1)
 
--[@shovz](https://github.com/shovz)
+- [@shovz](https://github.com/shovz)
