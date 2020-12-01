@@ -64,8 +64,6 @@
 
 - [@AlloneWolff](https://github.com/AlloneWolff)
 
-- [@Allonewolff](https://github.com/Allonewolff/)
-
 - [@Alper-Soy](https://github.com/Alper-Soy)
 
 - [@Altamas2049](https://github.com/Altamas2049)
@@ -2948,13 +2946,9 @@
 
 <<<<<<< HEAD
 
-- [@shubhamgoel90](https://github.com/shubhamgoel90)
-
 =======
 
->>>>>>> 49098ca45e540bb15a746b3a83cf846d1ced5087
-
-- [@shubhamgoel90](https://github.com/shubhamgoel90)
+>>>>>>> 730949ce3e211ac66e330835d16a1001d87c7e09
 
 - [@shubhamsambhu](https://github.com/shubhamsambhu/)
 
@@ -3132,7 +3126,21 @@
 
 =======
 
->>>>>>> 49098ca45e540bb15a746b3a83cf846d1ced5087
+<<<<<<< HEAD
+
+=======
+
+<<<<<<< HEAD
+
+- [@thebluedev](https://github.com/thebluedev)
+
+=======
+
+> > > > > > > 49098ca45e540bb15a746b3a83cf846d1ced5087
+
+>>>>>>> e5dfc046bf5f7b184bfac11e9db5762db74f1898
+
+>>>>>>> 730949ce3e211ac66e330835d16a1001d87c7e09
 
 - [@theenthusiastprogrammer](https://github.com/theenthusiastprogrammer/)
 
@@ -3552,11 +3560,13 @@
 
 - [@natnat201193](https://github.com/natnat201193/)
 
--[@miguel018](https://github.com/miguel018)
+- [@danield770](https://github.com/danield770/)
 
--[@melhemdirani](https://github.com/melhemdirani/)
+- [@miguel018](https://github.com/miguel018)
 
--[@charumitraravi](https://github.com/charumitraravi)
+- [@melhemdirani](https://github.com/melhemdirani/)
+
+- [@charumitraravi](https://github.com/charumitraravi)
 
 - [@MerisCulic](https://github.com/MerisCulic)
 
@@ -3566,6 +3576,15 @@
 
 - [@kawgh1](https://github.com/kawgh1)
 
+- [@shovz](https://github.com/shovz)
+
 - [@kporcioncula04](https://github.com/kporcioncula04)
 
 - [@KitBolourchi](https://github.com/KitBolourchi)
+
+- [@khanhdk0000](https://github.com/khanhdk0000)
+
+- [@durganandan](https://github.com/durganandan/)
+
+- [@charumitraravi](https://github.com/charumitraravi)
+
