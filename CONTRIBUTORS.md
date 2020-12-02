@@ -2948,7 +2948,7 @@
 
 =======
 
->>>>>>> 730949ce3e211ac66e330835d16a1001d87c7e09
+> > > > > > > 730949ce3e211ac66e330835d16a1001d87c7e09
 
 - [@shubhamsambhu](https://github.com/shubhamsambhu/)
 
@@ -3138,9 +3138,9 @@
 
 > > > > > > > 49098ca45e540bb15a746b3a83cf846d1ced5087
 
->>>>>>> e5dfc046bf5f7b184bfac11e9db5762db74f1898
+> > > > > > > e5dfc046bf5f7b184bfac11e9db5762db74f1898
 
->>>>>>> 730949ce3e211ac66e330835d16a1001d87c7e09
+> > > > > > > 730949ce3e211ac66e330835d16a1001d87c7e09
 
 - [@theenthusiastprogrammer](https://github.com/theenthusiastprogrammer/)
 
@@ -3590,8 +3590,7 @@
 
 - [@syhue](https://github.com/syhue)
 
-- [@keeshaune](https://github.com/keeshaune/
-)
+- [@keeshaune](https://github.com/keeshaune/)
 
 - [@yadavmilind08](https://github.com/yadavmilind08)
 
@@ -3604,3 +3603,5 @@
 - [@cblokkeel](https://github.com/cblokkeel)
 
 -[@KailashDeena](https://github.com/KailashDeena)
+
+-[@rendervis](https://github.com/rendervis)
