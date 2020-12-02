@@ -3384,8 +3384,6 @@
 
 - [@Davidohis](https://github.com/Davidohis)
 
-- [@alexkou10](https://github.com/alexkou10)
-
 - [farhaddashtia](https://github.com/farhaddashtia/)
 
 - [@fratilar](https://github.com/fratilar)
@@ -3428,13 +3426,9 @@
 
 - [@KamikaziD](https://github.com/KamikaziD)
 
-- [@kailun-liu](https://github.com/kailun-liu)
-
 - [@AA-Arnold](https://github.com/AA-Arnold/)
 
 - [@desktopmunchies](https://github.com/desktopmunchies)
-
-- [@kailun-liu](https://github.com/kailun-liu)
 
 - [@zddd-bit](https://github.com/zddd-bit)
 
@@ -3443,10 +3437,6 @@
 - [@fgostev](https://github.com/fgostev)
 
 - [@gustojvalle](https://github.com/gustojvalle)
-
-- [@Dolphy1010](https://github.com/dolphy1010)
-
-- [@bharmalh](https://github.com/bharmalh)
 
 - [@Dolphy1010](https://github.com/dolphy1010)
 
@@ -3466,25 +3456,17 @@
 
 - [@prajwal-machado-au9](https://github.com/prajwal-machado-au9)
 
-- [@amdat99](https://github.com/amdat99/)
-
-- [@prajwal-machado-au9](https://github.com/prajwal-machado-au9)
-
 - [@markang812](https://github.com/markang812)
 
 - [@JoseAReinoso](https://github.com/JoseAReinoso)
 
 - [@marianne-durumi](https://github.com/marianne-durumi)
 
-- [@prajwal-machado-au9](https://github.com/prajwal-machado-au9)
-
 - [@Shamim-Islam](https://github.com/Shamim-Islam)
 
 - [@ChipEagle](https://github.com/ChipEagle/)
 
 - [@dilemmawalker](https://github.com/dilemmawalker)
-
-- [@Tejas753](https://github.com/Tejas753)
 
 - [@olsenbudanur](https://github.com/olsenbudanur)
 
@@ -3557,8 +3539,6 @@
 - [@khanhdk0000](https://github.com/khanhdk0000)
 
 - [@durganandan](https://github.com/durganandan/)
-
-- [@charumitraravi](https://github.com/charumitraravi)
 
 - [@syhue](https://github.com/syhue)
 
