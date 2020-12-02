@@ -3544,8 +3544,6 @@
 
 - [@keeshaune](https://github.com/keeshaune/)
 
-- [@zainkazi](https://github.com/zainkazi/)
-
 - [@yadavmilind08](https://github.com/yadavmilind08)
 
 - [@DarianPiro](https://github.com/darianpiro)
@@ -3558,4 +3556,11 @@
 
 - [@KailashDeena](https://github.com/KailashDeena)
 
--[@Franchize62](https://github.com/Franchize62)
+- [@Franchize62](https://github.com/Franchize62)
+
+- [@rendervis](https://github.com/rendervis)
+
+- [@Rachel-Anna](https://github.com/Rachel-Anna)
+
+- [@dev-yash-nmr11](https://github.com/dev-yash-nmr11)
+
