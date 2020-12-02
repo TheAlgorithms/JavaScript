@@ -2944,12 +2944,6 @@
 
 - [@shubhamgoel90](https://github.com/shubhamgoel90)
 
-<<<<<<< HEAD
-
-=======
-
->>>>>>> 730949ce3e211ac66e330835d16a1001d87c7e09
-
 - [@shubhamsambhu](https://github.com/shubhamsambhu/)
 
 - [@shubhbhalla](https://github.com/shubhbhalla/)
@@ -3593,3 +3587,16 @@
 - [@keeshaune](https://github.com/keeshaune/)
 
 - [@zainkazi](https://github.com/zainkazi/)
+
+- [@yadavmilind08](https://github.com/yadavmilind08)
+
+- [@DarianPiro](https://github.com/darianpiro)
+
+- [@thomasmccabe44](https://github.com/thomasmccabe44)
+
+- [@amirhm10](https://github.com/amirhm10)
+
+- [@cblokkeel](https://github.com/cblokkeel)
+
+- [@KailashDeena](https://github.com/KailashDeena)
+
