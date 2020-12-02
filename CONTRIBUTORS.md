@@ -3554,6 +3554,11 @@
 
 - [@cblokkeel](https://github.com/cblokkeel)
 
--[@KailashDeena](https://github.com/KailashDeena)
+- [@KailashDeena](https://github.com/KailashDeena)
 
--[@rendervis](https://github.com/rendervis)
+- [@rendervis](https://github.com/rendervis)
+
+- [@Rachel-Anna](https://github.com/Rachel-Anna)
+
+- [@dev-yash-nmr11](https://github.com/dev-yash-nmr11)
+
