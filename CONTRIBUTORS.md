@@ -3480,6 +3480,8 @@
 
 - [@Rahulraj31](https://github.com/Rahulraj31)
 
+- [@prateekj480](https://github.com/prateekj480)
+
 - [@jeyeverett](https://github.com/jeyeverett)
 
 - [@domenicocubeddu](https://github.com/domenicocubeddu)
@@ -3564,6 +3566,8 @@
 
 - [@dev-yash-nmr11](https://github.com/dev-yash-nmr11)
 
+- [@AqsaMemon](https://github.com/AqsaMemon/)
+
 - [@abrar78](https://github.com/abrar78)
 
 - [@aman23ks](https://github.com/aman23ks)
@@ -3573,3 +3577,13 @@
 - [@markus2907](https://github.com/markus2907)
 
 - [@Wael-Yassir](https://github.com/Wael-Yassir)
+
+- [@imaaduddin](https://github.com/imaaduddin)
+
+- [@jbermeo10](https://github.com/jbermeo10)
+
+- [@somj57](https://github.com/somj57)
+
+- [@Bikitsos](https://github.com/Bikitsos)
+
+- [@mrbn619](https://github.com/mrbn619)
