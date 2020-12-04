@@ -3603,3 +3603,5 @@ _[@cute-born](https://github.com/cute-born)
 -[@jackdaniels247](https://github.com/jackdaniels247)
 
 - [@matchng](https://github.com/matchng)
+
+- [@danielvidaldev](https://github.com/danielvidaldev)
