@@ -208,6 +208,8 @@
 
 - [@Clavz25](https://github.com/clavz25)
 
+- [@cmulay](https://github.com/cmulay)
+
 - [@CodeWithBorys](https://github.com/CodeWithBorys)
 
 - [@ColinGM-dev](https://github.com/ColinGM-dev)
