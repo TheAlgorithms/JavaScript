@@ -4,6 +4,8 @@
 
 - [@07rv](https://github.com/07rv/)
 
+- [@mfrank37](https://github.com/mfrank37)
+
 - [@ChetanDehane](https://github.com/ChetanDehane)
 
 - [@0xaj](https://github.com/0xaj)
@@ -3611,3 +3613,7 @@ _[@cute-born](https://github.com/cute-born)
 - [@derekcovey](https://github.com/derekcovey)
 
 - [@toryzae211](https://github.com/toryzae211)
+
+- [@CaraignatIG](https://github.com/CaraignatIG)
+
+- [@azhar-azad](https://github.com/azhar-azad)
