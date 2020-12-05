@@ -4,6 +4,8 @@
 
 - [@07rv](https://github.com/07rv/)
 
+- [@mfrank37](https://github.com/mfrank37)
+
 - [@ChetanDehane](https://github.com/ChetanDehane)
 
 - [@0xaj](https://github.com/0xaj)
