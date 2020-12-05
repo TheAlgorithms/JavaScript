@@ -208,6 +208,8 @@
 
 - [@Clavz25](https://github.com/clavz25)
 
+- [@cmulay](https://github.com/cmulay)
+
 - [@CodeWithBorys](https://github.com/CodeWithBorys)
 
 - [@ColinGM-dev](https://github.com/ColinGM-dev)
@@ -3605,3 +3607,5 @@ _[@cute-born](https://github.com/cute-born)
 - [@matchng](https://github.com/matchng)
 
 - [@danielvidaldev](https://github.com/danielvidaldev)
+
+- [@derekcovey](https://github.com/derekcovey)
