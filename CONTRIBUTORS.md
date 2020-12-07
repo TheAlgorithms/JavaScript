@@ -3483,7 +3483,7 @@
 - [@rdtaylorjr](https://github.com/rdtaylorjr)
 
 - [@DevMonzer](https://github.com/DevMonzer)
- 
+
 - [@Rahulraj31](https://github.com/Rahulraj31)
 
 - [@prateekj480](https://github.com/prateekj480)
@@ -3597,14 +3597,22 @@
 - [@rewebs](https://github.com/rewebs)
 
 - [@MarkGaunt1](https://github.com/MarkGaunt1)
-_[@cute-born](https://github.com/cute-born)
+
+- [@cute-born](https://github.com/cute-born)
+
+- [@linchyde](https://github.com/linchyde)
+
+- [@GabrielNSD](https://github.com/GabrielNSD)
+
+- [@learningsameer](https://github.com/learningsameer/)
 
 - [@finnnop](https://github.com/finnnop)
 
--[@bmbranca] (https://github.com/bmbranca)
+- [@bmbranca] (https://github.com/bmbranca)
 
--[@zubayer204](https://github.com/Zubayer204)
--[@jackdaniels247](https://github.com/jackdaniels247)
+- [@zubayer204](https://github.com/Zubayer204)
+
+- [@JohanVong](https://github.com/JohanVong)
 
 - [@matchng](https://github.com/matchng)
 
@@ -3626,8 +3634,23 @@ _[@cute-born](https://github.com/cute-born)
 
 - [@jrinabnit](https://github.com/jrinabnit)
 
+- [@Leuqara](https://github.com/Leuqara)
+
 - [@geraldc118](https://github.com/geraldc118)
-  
+
 - [@GrabKrab](https://github.com/GrabKrab)
 
 - [@shaybarak11](https://github.com/shaybarak11)
+
+- [@sprajams](https://github.com/sprajams)
+
+- [@parashar17-dev](https://github.com/parashar17-dev)
+
+- [@coolphynix](https://github.com/coolphynix)
+
+- [@sshikhar1234](https://github.com/sshikhar1234)
+
+- [@ChrisKCarr](https://github.com/ChrisKCarr)
+
+- [@zouave](https://github.com/zouave)
+
