@@ -4,6 +4,8 @@
 
 - [@07rv](https://github.com/07rv/)
 
+- [@mfrank37](https://github.com/mfrank37)
+
 - [@ChetanDehane](https://github.com/ChetanDehane)
 
 - [@0xaj](https://github.com/0xaj)
@@ -207,6 +209,8 @@
 - [@Charles-Ameyaw](https://github.com/Charles-Ameyaw)
 
 - [@Clavz25](https://github.com/clavz25)
+
+- [@cmulay](https://github.com/cmulay)
 
 - [@CodeWithBorys](https://github.com/CodeWithBorys)
 
@@ -3478,6 +3482,8 @@
 
 - [@rdtaylorjr](https://github.com/rdtaylorjr)
 
+- [@DevMonzer](https://github.com/DevMonzer)
+
 - [@Rahulraj31](https://github.com/Rahulraj31)
 
 - [@prateekj480](https://github.com/prateekj480)
@@ -3591,8 +3597,41 @@
 - [@rewebs](https://github.com/rewebs)
 
 - [@MarkGaunt1](https://github.com/MarkGaunt1)
-_[@cute-born](https://github.com/cute-born)
 
 - [@learningsameer](https://github.com/learningsameer/)
 
+- [@cute-born](https://github.com/cute-born)
 
+- [@finnnop](https://github.com/finnnop)
+
+- [@bmbranca](https://github.com/bmbranca)
+
+- [@zubayer204](https://github.com/Zubayer204)
+
+- [@jackdaniels247](https://github.com/jackdaniels247)
+
+- [@matchng](https://github.com/matchng)
+
+- [@danielvidaldev](https://github.com/danielvidaldev)
+
+- [@derekcovey](https://github.com/derekcovey)
+
+- [@toryzae211](https://github.com/toryzae211)
+
+- [@CaraignatIG](https://github.com/CaraignatIG)
+
+- [@azhar-azad](https://github.com/azhar-azad)
+
+- [@thedonflo](https://github.com/thedonflo/)
+
+- [@nikos-hatz](https://github.com/nikos-hatz/)
+
+- [@Kenin-Richards](https://github.com/Kenin-Richards)
+
+- [@jrinabnit](https://github.com/jrinabnit)
+
+- [@geraldc118](https://github.com/geraldc118)
+
+- [@GrabKrab](https://github.com/GrabKrab)
+
+- [@sprajams](https://github.com/sprajams)
