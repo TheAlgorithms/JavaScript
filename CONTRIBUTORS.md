@@ -226,6 +226,8 @@
 
 - [@Cre5cend0](https://github.com/Cre5cend0)
 
+- [@CrisBen](https://github.com/cristianbenites)
+
 - [@D3GIII](https://github.com/D3GIII)
 
 - [@DIVYANSHGOEL333](https://github.com/DIVYANSHGOEL333)
@@ -3688,3 +3690,7 @@
 - [@MacDevep](https://github.com/MacDevep)
 
 - [@olegmavlyutov](https://github.com/olegmavlyutov)
+
+- [@joyanto-sarkar](https://github.com/joyanto-sarkar)
+
+- [@gogupaul123](https://github.com/gogupaul123)
