@@ -18,6 +18,8 @@
 
 - [@96nikhil07](https://github.com/96nikhil07/)
 
+- [@aaroncompaniados26](https://github.com/aaroncompaniados26)
+
 - [@ABUHOZYFA](https://github.com/ABUHOZYFA)
 
 - [@Abha-1281](https://github.com/Abha-1281/)
@@ -579,6 +581,8 @@
 - [@LimJiaZheng](https://github.com/LimJiaZheng/)
 
 - [@LiorZana](https://github.com/LiorZana)
+
+- [@Logicfool](https:/github.com/logicfool)
 
 - [@Lonewolfiz](https://github.com/Lonewolfiz/)
 
@@ -3374,11 +3378,9 @@
 
 - [@Jepal](https://github.com/Jepal)
 
-- [@nutsbrainup](https://github.com/nutsbrainup
+- [@nutsbrainup](https://github.com/nutsbrainup)
 
 - [@joshua-j-allen](https://github.com/joshua-j-allen/)
-
-- [@nutsbrainup](https://github.com/nutsbrainup)
 
 - [@alexjlin](https://github.com/alexlin0625)
 
@@ -3596,11 +3598,7 @@
 
 - [@MarkGaunt1](https://github.com/MarkGaunt1)
 
-<<<<<<< HEAD
-
-  \_[@cute-born](https://github.com/cute-born)
-
-=======
+- [@cute-born](https://github.com/cute-born)
 
 - [@linchyde](https://github.com/linchyde)
 
@@ -3608,11 +3606,9 @@
 
 - [@learningsameer](https://github.com/learningsameer/)
 
->>>>>>> d8f2a215e9a14511527335474d2292e615f26e81
-
 - [@finnnop](https://github.com/finnnop)
 
-- [@bmbranca] (https://github.com/bmbranca)
+- [@bmbranca](https://github.com/bmbranca)
 
 - [@zubayer204](https://github.com/Zubayer204)
 
@@ -3624,7 +3620,7 @@
 
 - [@derekcovey](https://github.com/derekcovey)
 
-- [@toryzae211](https://github.com/toryzae211)
+- [@toryzae211](https://github.com/toryzae211)F
 
 - [@CaraignatIG](https://github.com/CaraignatIG)
 
@@ -3644,6 +3640,8 @@
 
 - [@GrabKrab](https://github.com/GrabKrab)
 
+- [@shaybarak11](https://github.com/shaybarak11)
+
 - [@sprajams](https://github.com/sprajams)
 
 - [@parashar17-dev](https://github.com/parashar17-dev)
@@ -3656,8 +3654,28 @@
 
 - [@zouave](https://github.com/zouave)
 
--[@Pangtuer](https://github.com/Pangtuer)
+- [@Pangtuer](https://github.com/Pangtuer)
 
 - [@DemiMackin](https://github.com/DemiMackin)
 
 - [@thanhson0514](https://github.com/thanhson0514)
+
+- [@VisheshKhosla](https://github.com/VisheshKhosla)
+
+- [@nkuros](https://github.com/nkuros/)
+
+- [@enyichiaagu](https://github.com/enyichiaagu)
+
+- [@bishalmallick](https://github.com/bishalmallick)
+
+- [@POkulska](https://github.com/POkulska)
+
+- [@asadjawaid](https://github.com/asadjawaid)
+
+- [@Annu7shka](https://github.com/Annu7shka)
+
+- [@sudhanshum9](https://github.com/sudhanshum9)
+
+- [@MacDevep](https://github.com/MacDevep)
+
+- [@olegmavlyutov](https://github.com/olegmavlyutov)
