@@ -3658,7 +3658,7 @@
 
 - [@zouave](https://github.com/zouave)
 
--[@Pangtuer](https://github.com/Pangtuer)
+- [@Pangtuer](https://github.com/Pangtuer)
 
 - [@DemiMackin](https://github.com/DemiMackin)
 
@@ -3673,3 +3673,5 @@
 - [@POkulska](https://github.com/POkulska)
 
 - [@asadjawaid](https://github.com/asadjawaid)
+
+- [@mercernyc](https://github.com/MERCERNYC)
