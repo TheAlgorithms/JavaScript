@@ -226,6 +226,8 @@
 
 - [@Cre5cend0](https://github.com/Cre5cend0)
 
+- [@CrisBen](https://github.com/cristianbenites)
+
 - [@D3GIII](https://github.com/D3GIII)
 
 - [@DIVYANSHGOEL333](https://github.com/DIVYANSHGOEL333)
