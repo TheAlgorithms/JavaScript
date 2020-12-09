@@ -584,6 +584,8 @@
 
 - [@LiorZana](https://github.com/LiorZana)
 
+- [@Logicfool](https:/github.com/logicfool)
+
 - [@Lonewolfiz](https://github.com/Lonewolfiz/)
 
 - [@Lorex-ia](https://github.com/Lorex-ia/)
@@ -3669,3 +3671,11 @@
 - [@POkulska](https://github.com/POkulska)
 
 - [@asadjawaid](https://github.com/asadjawaid)
+
+-[@Annu7shka](https://github.com/Annu7shka)
+
+- [@sudhanshum9](https://github.com/sudhanshum9)
+
+-[@MacDevep](https://github.com/MacDevep)
+
+- [@olegmavlyutov](https://github.com/olegmavlyutov)
