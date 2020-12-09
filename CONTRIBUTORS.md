@@ -3384,8 +3384,6 @@
 
 - [@joshua-j-allen](https://github.com/joshua-j-allen/)
 
-- [@nutsbrainup](https://github.com/nutsbrainup)
-
 - [@alexjlin](https://github.com/alexlin0625)
 
 - [@LuisLSousa](https://github.com/LuisLSousa)
@@ -3656,7 +3654,7 @@
 
 - [@zouave](https://github.com/zouave)
 
--[@Pangtuer](https://github.com/Pangtuer)
+- [@Pangtuer](https://github.com/Pangtuer)
 
 - [@DemiMackin](https://github.com/DemiMackin)
 
@@ -3672,10 +3670,10 @@
 
 - [@asadjawaid](https://github.com/asadjawaid)
 
--[@Annu7shka](https://github.com/Annu7shka)
+- [@Annu7shka](https://github.com/Annu7shka)
 
 - [@sudhanshum9](https://github.com/sudhanshum9)
 
--[@MacDevep](https://github.com/MacDevep)
+- [@MacDevep](https://github.com/MacDevep)
 
 - [@olegmavlyutov](https://github.com/olegmavlyutov)
