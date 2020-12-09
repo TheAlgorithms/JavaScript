@@ -20,6 +20,8 @@
 
 - [@96nikhil07](https://github.com/96nikhil07/)
 
+- [@aaroncompaniados26](https://github.com/aaroncompaniados26)
+
 - [@ABUHOZYFA](https://github.com/ABUHOZYFA)
 
 - [@Abha-1281](https://github.com/Abha-1281/)
@@ -3378,7 +3380,7 @@
 
 - [@Jepal](https://github.com/Jepal)
 
-- [@nutsbrainup](https://github.com/nutsbrainup
+- [@nutsbrainup](https://github.com/nutsbrainup)
 
 - [@joshua-j-allen](https://github.com/joshua-j-allen/)
 
@@ -3600,11 +3602,7 @@
 
 - [@MarkGaunt1](https://github.com/MarkGaunt1)
 
-<<<<<<< HEAD
-
-  \_[@cute-born](https://github.com/cute-born)
-
-=======
+- [@cute-born](https://github.com/cute-born)
 
 - [@linchyde](https://github.com/linchyde)
 
@@ -3612,11 +3610,9 @@
 
 - [@learningsameer](https://github.com/learningsameer/)
 
->>>>>>> d8f2a215e9a14511527335474d2292e615f26e81
-
 - [@finnnop](https://github.com/finnnop)
 
-- [@bmbranca] (https://github.com/bmbranca)
+- [@bmbranca](https://github.com/bmbranca)
 
 - [@zubayer204](https://github.com/Zubayer204)
 
@@ -3628,7 +3624,7 @@
 
 - [@derekcovey](https://github.com/derekcovey)
 
-- [@toryzae211](https://github.com/toryzae211)
+- [@toryzae211](https://github.com/toryzae211)F
 
 - [@CaraignatIG](https://github.com/CaraignatIG)
 
