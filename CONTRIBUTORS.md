@@ -582,6 +582,8 @@
 
 - [@LiorZana](https://github.com/LiorZana)
 
+- [@Logicfool](https:/github.com/logicfool)
+
 - [@Lonewolfiz](https://github.com/Lonewolfiz/)
 
 - [@Lorex-ia](https://github.com/Lorex-ia/)
