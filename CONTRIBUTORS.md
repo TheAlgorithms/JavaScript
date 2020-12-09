@@ -1,7 +1,5 @@
 # CONTRIBUTORS
 
-- [@thanhson0514](https://github.com/thanhson0514)
-
 - [@07rv](https://github.com/07rv/)
 
 - [@mfrank37](https://github.com/mfrank37)
@@ -3661,3 +3659,5 @@
 -[@Pangtuer](https://github.com/Pangtuer)
 
 - [@DemiMackin](https://github.com/DemiMackin)
+
+- [@thanhson0514](https://github.com/thanhson0514)
