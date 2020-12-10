@@ -3600,12 +3600,7 @@
 
 - [@MarkGaunt1](https://github.com/MarkGaunt1)
 
-<<<<<<< HEAD
-  \_[@cute-born](https://github.com/cute-born)
-
-=======
 - [@cute-born](https://github.com/cute-born)
->>>>>>> origin/master
 
 - [@linchyde](https://github.com/linchyde)
 
@@ -3696,5 +3691,21 @@
 
 - [@joyanto-sarkar](https://github.com/joyanto-sarkar)
 
+<<<<<<< HEAD
 - [@gogupaul123](https://github.com/gogupaul123)
 >>>>>>> b611beac0c26197f31b9e7aa7c82d56eb3cbe314
+=======
+- [@juppsy](https://github.com/juppsy)
+
+- [@gogupaul123](https://github.com/gogupaul123)
+
+- [@porwalu](https://github.com/porwalu)
+
+- [@dennismorello](https://github.com/dennismorello)
+
+- [@Trojan0101](https://github.com/Trojan0101)
+
+- [@alonzosanchez3](https://github.com/alonzosanchez3)
+
+- [@David-Werth](https://github.com/David-Werth)
+>>>>>>> 496bb46f8bce2fb8fd093ae4263d7b7ca1317517
