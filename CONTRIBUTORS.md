@@ -3678,9 +3678,8 @@
 
 - [@asadjawaid](https://github.com/asadjawaid)
 
-<<<<<<< HEAD
 - [@mercernyc](https://github.com/MERCERNYC)
-=======
+
 - [@Annu7shka](https://github.com/Annu7shka)
 
 - [@sudhanshum9](https://github.com/sudhanshum9)
@@ -3691,13 +3690,9 @@
 
 - [@joyanto-sarkar](https://github.com/joyanto-sarkar)
 
-<<<<<<< HEAD
 - [@gogupaul123](https://github.com/gogupaul123)
->>>>>>> b611beac0c26197f31b9e7aa7c82d56eb3cbe314
-=======
-- [@juppsy](https://github.com/juppsy)
 
-- [@gogupaul123](https://github.com/gogupaul123)
+- [@juppsy](https://github.com/juppsy)
 
 - [@porwalu](https://github.com/porwalu)
 
@@ -3708,4 +3703,5 @@
 - [@alonzosanchez3](https://github.com/alonzosanchez3)
 
 - [@David-Werth](https://github.com/David-Werth)
->>>>>>> 496bb46f8bce2fb8fd093ae4263d7b7ca1317517
+
+- [@sujit995](https://github.com/sujit995)
