@@ -3600,12 +3600,7 @@
 
 - [@MarkGaunt1](https://github.com/MarkGaunt1)
 
-<<<<<<< HEAD
-  \_[@cute-born](https://github.com/cute-born)
-
-=======
 - [@cute-born](https://github.com/cute-born)
->>>>>>> origin/master
 
 - [@linchyde](https://github.com/linchyde)
 
