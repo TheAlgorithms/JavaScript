@@ -3678,6 +3678,8 @@
 
 - [@asadjawaid](https://github.com/asadjawaid)
 
+- [@mercernyc](https://github.com/MERCERNYC)
+
 - [@Annu7shka](https://github.com/Annu7shka)
 
 - [@sudhanshum9](https://github.com/sudhanshum9)
@@ -3688,9 +3690,9 @@
 
 - [@joyanto-sarkar](https://github.com/joyanto-sarkar)
 
-- [@juppsy](https://github.com/juppsy)
-
 - [@gogupaul123](https://github.com/gogupaul123)
+
+- [@juppsy](https://github.com/juppsy)
 
 - [@porwalu](https://github.com/porwalu)
 
@@ -3701,3 +3703,9 @@
 - [@alonzosanchez3](https://github.com/alonzosanchez3)
 
 - [@David-Werth](https://github.com/David-Werth)
+
+- [@sujit995](https://github.com/sujit995)
+
+- [@renequez](https://github.com/renequez)
+
+- [@hatemsaadallah](https://github.com/HatemSaadallah)
