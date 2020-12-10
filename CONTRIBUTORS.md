@@ -226,6 +226,8 @@
 
 - [@Cre5cend0](https://github.com/Cre5cend0)
 
+- [@CrisBen](https://github.com/cristianbenites)
+
 - [@D3GIII](https://github.com/D3GIII)
 
 - [@DIVYANSHGOEL333](https://github.com/DIVYANSHGOEL333)
@@ -3598,14 +3600,7 @@
 
 - [@MarkGaunt1](https://github.com/MarkGaunt1)
 
-<<<<<<< HEAD
-\_[@cute-born](https://github.com/cute-born)
-
-=======
-
 - [@cute-born](https://github.com/cute-born)
-
-  > > > > > > > origin/master
 
 - [@linchyde](https://github.com/linchyde)
 
@@ -3694,3 +3689,11 @@
 - [@joyanto-sarkar](https://github.com/joyanto-sarkar)
 
 - [@juppsy](https://github.com/juppsy)
+
+- [@gogupaul123](https://github.com/gogupaul123)
+
+- [@porwalu](https://github.com/porwalu)
+
+- [@dennismorello](https://github.com/dennismorello)
+
+- [@Trojan0101](https://github.com/Trojan0101)
