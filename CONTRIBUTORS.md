@@ -3726,4 +3726,14 @@
 
 - [@awke](https://github.com/mawke2020/)
 
+- [@RoutinoDesigns](https://github.com/RoutinoDesigns/)
+
 - [@Ilyasse-97](https://github.com/Ilyasse-97/)
+
+- [@Awakenxz](https://github.com/Awakenxz/)
+
+- [@shivamrathi99](https://github.com/shivamrathi99)
+
+-[@IurianSimionDorin](https://github.com/IurianSimionDorin)
+
+-[@miguelDalberto](https://github.com/miguelDalberto)
