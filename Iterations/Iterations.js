@@ -21,10 +21,9 @@ while (i !== 0) {
   i = i - 1
 }
 
-
 const array = ['apple', 'ice-cream', 'orange', 'tea', 'coffee']
 
-//  Filter function 
+//  Filter function
 //  Filter will iterate the array and will return a new array according to the condition applied
 const filteredArray = array.filter(value => value !== 'coffee')
 console.log(filteredArray)
