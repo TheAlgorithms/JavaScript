@@ -19,8 +19,8 @@ const gcdOfTwoNumbers = (x, y) => {
 
 const eulersTotientFunction = (n) => {
   let countOfRelativelyPrimeNumbers = 1
-  for ( let iterator = 2; iterator <= n; iterator++ ){
-    if (gcdOfTwoNumbers(iterator, n) === 1)countOfRelativelyPrimeNumbers++
+  for (let iterator = 2; iterator <= n; iterator++) {
+    if (gcdOfTwoNumbers(iterator, n) === 1) countOfRelativelyPrimeNumbers++
   }
   return countOfRelativelyPrimeNumbers
 }
