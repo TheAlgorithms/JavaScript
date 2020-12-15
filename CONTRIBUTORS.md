@@ -180,6 +180,8 @@
 
 - [@BogdanCrusoveanu](https://github.com/BogdanCrusoveanu)
 
+- [@bporcel](https://github.com/bporcel)
+
 - [@Brandon-Truong](https://github.com/Brandon-Truong)
 
 - [@BrianSteel](https://github.com/BrianSteel)
@@ -3770,3 +3772,9 @@
 - [@muliallan](https://github.com/muliallan/)
 
 - [@akile](https://github.com/akile99/)
+
+- [@albertobar94](https://github.com/Albertobar94/)
+
+- [@henzbori](https://github.com/henzbori/)
+
+- [@iamjosecorzo](https://github.com/iamjosecorzo/)
