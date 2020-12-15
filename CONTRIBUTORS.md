@@ -3783,4 +3783,19 @@
 
 - [@PriscillaCom](https://github.com/PriscillaCom/)
 
-- [@luppin](https://github.com/luppin/)
+- [@cmihaescu](https://github.com/cmihaescu/)
+
+- [@ThomasVoets](https://github.com/ThomasVoets)
+
+- [@ondrasembera](https://github.com/ondrasembera/)
+
+- [@mohamedabdo4e](https://github.com/mohamedabdo4e/)
+
+- [@morar03](https://github.com/morar03/)
+
+- [@Rahulaarvi](https://github.com/Rahulaarvi/)
+
+- [@konstantin0s](https://github.com/konstantin0s)
+
+- [@AgustinRangelIbarra](https://github.com/AgustinRangelIbarra)
+
