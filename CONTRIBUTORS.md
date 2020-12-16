@@ -3800,3 +3800,7 @@
 - [@AgustinRangelIbarra](https://github.com/AgustinRangelIbarra)
 
 - [@Joshieeee](https://github.com/Joshieeee)
+
+- [@uchihadark](https://github.com/uchihadark)
+
+- [@hkapturkiewicz](https://github.com/hkapturkiewicz)
