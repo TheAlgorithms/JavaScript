@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@rohan-04](https://github.com/rohan-04)
+
 - [@07rv](https://github.com/07rv/)
 
 - [@mfrank37](https://github.com/mfrank37)
