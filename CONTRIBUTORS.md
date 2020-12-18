@@ -3832,7 +3832,11 @@
 
 -[@Qhub90](https://github.com/Qhub90)
 
--[@zezhou-zhang](https://github.com/zezhou-zhang) -[@kitindi](https://github.com/kitindi) -[@Vaibhav-multi-dev](https://github.com/Vaibhav-multi-dev)
+-[@zezhou-zhang](https://github.com/zezhou-zhang)
+
+-[@kitindi](https://github.com/kitindi)
+
+-[@Vaibhav-multi-dev](https://github.com/Vaibhav-multi-dev)
 
 - [@aysha30](https://github.com/aysha30)
 
@@ -3848,6 +3852,8 @@
 
 -[@MonwarK](https://github.com/MonwarK)
 
--[@andresrv94](https://github.com/andresrv94) -[@karanpreet1593](https://github.com/karanpreet1593)
+-[@andresrv94](https://github.com/andresrv94)
+
+-[@karanpreet1593](https://github.com/karanpreet1593)
 
 -[@wdluft](https://github.com/wdluft)
