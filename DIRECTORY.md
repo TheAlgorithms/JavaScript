@@ -199,6 +199,7 @@
   * [InsertionSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/InsertionSort.js)
   * [IntroSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/IntroSort.js)
   * [MergeSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/MergeSort.js)
+  * [PigeonHoleSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/PigeonHoleSort.js)
   * [QuickSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/QuickSort.js)
   * [RadixSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/RadixSort.js)
   * [SelectionSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/SelectionSort.js)
