@@ -102,14 +102,17 @@ const matrixMultiply = (A, B) => {
   return C
 }
 
+/**
+ * Computes A raised to the power n i.e. pow(A, n) where A is a square matrix
+ * @param {*} A the square matrix
+ * @param {*} n the exponent
+ */
 // A is a square matrix
 const matrixExpo = (A, n) => {
   A = copyMatrix(A)
-  if (n === 0) return Identity(A.length) // Identity matrix
-  if (n === 1) return A
 
   // Just like Binary exponentiation mentioned in ./BinaryExponentiationIterative.js
-  let result = Identity(A.length)
+  let result = Identity(A.length) // Identity matrix
   while (n > 0) {
     if (n % 2 !== 0) result = matrixMultiply(result, A)
     n = Math.floor(n / 2)
@@ -127,7 +130,9 @@ const FibonacciMatrixExpo = (n) => {
   // |      | = |    | * |      |
   // |F(n-1)|   |1  0|   |F(n-2)|
 
-  // F(n, n-1) = pow(A, n-1) * F(1, 0)
+  // Let's rewrite it as F(n, n-1) = A * F(n-1, n-2)
+  // or                  F(n, n-1) = A * A * F(n-2, n-3)
+  // or                  F(n, n-1) = pow(A, n-1) * F(1, 0)
 
   if (n === 0) return 0
 
@@ -135,7 +140,7 @@ const FibonacciMatrixExpo = (n) => {
     [1, 1],
     [1, 0]
   ]
-  const poweredA = matrixExpo(A, n - 1) // A raise to the power n
+  const poweredA = matrixExpo(A, n - 1) // A raised to the power n-1
   let F = [
     [1],
     [0]
