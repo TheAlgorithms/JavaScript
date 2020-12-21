@@ -494,6 +494,8 @@
 
 - [@JigsKapadia](https://github.com/jigskapadia)
 
+- [@JixuanRickyLi](https://github.com/jixuanrickyli)
+
 - [@Jlakay](https://github.com/Jlakay)
 
 - [@JoelFernando209](https://github.com/JoelFernando209)
