@@ -494,6 +494,8 @@
 
 - [@JigsKapadia](https://github.com/jigskapadia)
 
+- [@JixuanRickyLi](https://github.com/jixuanrickyli)
+
 - [@Jlakay](https://github.com/Jlakay)
 
 - [@JoelFernando209](https://github.com/JoelFernando209)
@@ -893,6 +895,8 @@
 - [@Samad48](https://github.com/Samad48)
 
 - [@Samuellyworld](https://github.com/Samuellyworld)
+
+- [@sandip2224](https://github.com/sandip2224)
 
 - [@Sandp3032](https://github.com/Sandp3032)
 
@@ -3874,3 +3878,5 @@
 -[@RatanB604](https://github.com/RatanB604)
 
 -[@havishpallerla](https://github.com/havishpallerla)
+
+-[@ryan1499](https://github.com/ryan1499)
