@@ -3896,3 +3896,5 @@
 -[@bobhsiao](https://github.com/bobhsiao)
 
 -[@sowrabh-adiga](https://github.com/sowrabh-adiga)
+
+-[@maxfontani](https://github.com/maxfontani)
