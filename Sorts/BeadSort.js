@@ -7,12 +7,16 @@
  * Only works for arrays of positive integers.
  */
 
-// > beadSort([-1, 5, 8, 4, 3, 19])
-// ! RangeError: Sequence must be a list of positive integers!
-// > beadSort([5, 4, 3, 2, 1])
-// [1, 2, 3, 4, 5]
-// > beadSort([7, 9, 4, 3, 5])
-// [3, 4, 5, 7, 9]
+/**
+ * Doctests
+ *
+ * > beadSort([-1, 5, 8, 4, 3, 19])
+ * ! RangeError: Sequence must be a list of positive integers!
+ * > beadSort([5, 4, 3, 2, 1])
+ * [1, 2, 3, 4, 5]
+ * > beadSort([7, 9, 4, 3, 5])
+ * [3, 4, 5, 7, 9]
+ */
 
 function beadSort (sequence) {
   // first, let's check that our sequence consists
