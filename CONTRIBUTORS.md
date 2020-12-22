@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@atjoelpark](https://github.com/atjoelpark)
+
 - [@rohan-04](https://github.com/rohan-04)
 
 - [@07rv](https://github.com/07rv/)
