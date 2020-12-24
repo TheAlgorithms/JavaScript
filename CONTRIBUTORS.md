@@ -3790,6 +3790,8 @@
 
 - [@iamjosecorzo](https://github.com/iamjosecorzo/)
 
+- [@aoropeza31](https://github.com/aoropeza31)
+
 - [@patarg](https://github.com/patarg/)
 
 - [@PriscillaCom](https://github.com/PriscillaCom/)
@@ -3922,3 +3924,4 @@
 -[@johnbob1271](https://github.com/johnbob1271/)
 
 -[@zzhilin](https://github.com/zzhilin)
+
