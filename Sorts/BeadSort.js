@@ -69,5 +69,14 @@ function beadSort (sequence) {
   return sortedSequence
 }
 
-// implementation
-console.log(beadSort([5, 4, 3, 2, 1]))
+/**
+* Implementation of Cocktail Shaker Sort
+*/
+const array = [5, 4, 3, 2, 1]
+// Before Sort
+console.log('\n- Before Sort | Implementation of Bead Sort -')
+console.log(array)
+// After Sort
+console.log('- After Sort | Implementation of Bead Sort -')
+console.log(beadSort(array))
+console.log('\n')
