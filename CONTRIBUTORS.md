@@ -214,6 +214,8 @@
 
 - [@Charles-Ameyaw](https://github.com/Charles-Ameyaw)
 
+- [@charlie-green10](https://github.com/charlie-green10)
+
 - [@Clavz25](https://github.com/clavz25)
 
 - [@cmulay](https://github.com/cmulay)
@@ -3928,3 +3930,11 @@
 -[@philipm979](https://github.com/philipm979/)
 
 -[@mishrautkarsh92](https://github.com/mishrautkarsh92/)
+
+-[@akitathai94](https://github.com/akitathai94/)
+
+-[@kentiet](https://github.com/kentiet)
+
+-[@yashvantys](https://github.com/yashvantys)
+
+-[@daniel-luan-tran](https://github.com/daniel-luan-tran)
