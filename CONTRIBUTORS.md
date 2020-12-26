@@ -3957,3 +3957,9 @@
 -[@SYOM29](https://github.com/SYOM29)
 
 -[@rajae-robinson](https://github/rajae-robinson/)
+
+-[@kisaraF](https://github.com/kisaraF/)
+
+-[@nicolasgomeztoua](https://github.com/nicolasgomeztoua/)
+
+-[@d-spence](https://github.com/d-spence/)
