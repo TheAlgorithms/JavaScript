@@ -3982,4 +3982,7 @@
 
 - [@lionotm](https://github.com/lionotm/)
 
-- [@Rohit-FSD](https://github.com/Rohit-FSD)
+- [@mrawshan](https://github.com/mrawshan)
+
+- [@knikhurpa](https://github.com/knikhurpa)
+
