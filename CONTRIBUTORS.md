@@ -3732,8 +3732,6 @@
 
 -[@IamLuckyBoy](https://github.com/IamLuckyBoy)
 
-- [@JayantGoel001](https://github.com/JayantGoel001)
-
 - [@chungngai09](https://github.com/chungngai09)
 
 - [@FarhanAhmadISM](https://github.com/FarhanAhmadISM/)
@@ -3774,7 +3772,7 @@
 
 - [@marinazzz](https://github.com/marinazzz)
 
-- [@ankushdogradev] (https://github.com/ankushdogradev)
+- [@ankushdogradev](https://github.com/ankushdogradev)
 
 - [@iexa](https://github.com/iexa)
 
@@ -3843,7 +3841,9 @@
 -[@Qhub90](https://github.com/Qhub90)
 
 -[@zezhou-zhang](https://github.com/zezhou-zhang)
+
 -[@kitindi](https://github.com/kitindi)
+
 -[@Vaibhav-multi-dev](https://github.com/Vaibhav-multi-dev)
 
 - [@aysha30](https://github.com/aysha30)
@@ -3861,10 +3861,13 @@
 -[@MonwarK](https://github.com/MonwarK)
 
 -[@andresrv94](https://github.com/andresrv94)
+
 -[@karanpreet1593](https://github.com/karanpreet1593)
+
 -[@egeleto](https://github.com/egeleto/)
 
 -[@brunocodebox](https://github.com/brunocodebox/)
+
 -[@Mds21](https://github.com/Mds21/)
 
 -[@melipi](https://github.com/melipi)
@@ -3893,6 +3896,11 @@
 
 -[@nitinroy1331](https://github.com/nitinroy1331)
 
+<<<<<<< HEAD
+=======
+- [@wdluft](https://github.com/wdluft)
+
+>>>>>>> pr10219
 -[@dodekafonos](https://github.com/dodekafonos)
 
 -[@yanivsagy](https://github.com/yanivsagy)
@@ -3940,6 +3948,10 @@
 -[@daniel-luan-tran](https://github.com/daniel-luan-tran)
 
 -[@khageshwor](https://github.com/khageshwor)
+<<<<<<< HEAD
+=======
+
+>>>>>>> pr10219
 -[@Mamathagowd107](https://github.com/Mamathagowd107)
 
 -[@lnynhi](https://github.com/lnynhi)
