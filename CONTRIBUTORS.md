@@ -1670,6 +1670,8 @@
 
 - [@dani1012](https://github.com/dani1012)
 
+- [@dani754](https://github.com/dani754)
+
 - [@daniel-balico](https://github.com/daniel-balico)
 
 - [@danielArul](https://github.com/danielArul)
