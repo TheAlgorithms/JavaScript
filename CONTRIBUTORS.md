@@ -38,7 +38,7 @@
 
 - [@Ahmadzayd](https://github.com/Ahmadzayd)
 
-- [@Ahmedhafez12] (https://github.com/Ahmedhafez12)
+- [@Ahmedhafez12](https://github.com/Ahmedhafez12)
 
 - [@AkashGit21](https://github.com/AkashGit21/)
 
