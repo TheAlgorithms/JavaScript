@@ -1670,6 +1670,8 @@
 
 - [@dani1012](https://github.com/dani1012)
 
+- [@dani754](https://github.com/dani754)
+
 - [@daniel-balico](https://github.com/daniel-balico)
 
 - [@danielArul](https://github.com/danielArul)
@@ -4005,3 +4007,9 @@
 - [@idomason](https://github.com/Idomason)
 
 - [@kcpd9](https://github.com/kcpd9)
+
+- [@wgao2160](https://github.com/wgao2160)
+
+- [@addankihyma](https://github.com/addankihyma/)
+
+- [@jafar-design](https://github.com/jafar-design)
