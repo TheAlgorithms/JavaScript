@@ -38,6 +38,8 @@
 
 - [@Ahmadzayd](https://github.com/Ahmadzayd)
 
+- [@Ahmedhafez12] (https://github.com/Ahmedhafez12)
+
 - [@AkashGit21](https://github.com/AkashGit21/)
 
 - [@Akashdeepgupta](https://github.com/Akashdeepgupta)
