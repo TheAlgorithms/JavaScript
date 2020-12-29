@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@Devtinator](https://github.com/Devtinator)
+
 - [@atjoelpark](https://github.com/atjoelpark)
 
 - [@rohan-04](https://github.com/rohan-04)
