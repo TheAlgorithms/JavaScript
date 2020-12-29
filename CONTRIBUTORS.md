@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@Devtinator](https://github.com/Devtinator)
+
 - [@atjoelpark](https://github.com/atjoelpark)
 
 - [@rohan-04](https://github.com/rohan-04)
@@ -37,6 +39,8 @@
 - [@Aditya-1295](https://github.com/Aditya-1295)
 
 - [@Ahmadzayd](https://github.com/Ahmadzayd)
+
+- [@Ahmedhafez12](https://github.com/Ahmedhafez12)
 
 - [@AkashGit21](https://github.com/AkashGit21/)
 
@@ -4017,3 +4021,17 @@
 - [@MrksDllngr](https://github.com/MrksDllngr)
 
 -[@Khan-Design](https://github.com/Khan-Design)
+
+-[@speazy](https://github.com/speazy)
+
+- [@Alejandro1709](https://github.com/Alejandro1709)
+
+- [@crlsandresgb](https://github.com/crlsandresgb)
+
+-[@felipecostafsweb](https://github.com/felipecostafsweb)
+
+- [@fdalmaup](https://github.com/fdalmaup)
+
+- [@grazinga-grazille](https://github.com/grazinga-grazille/)
+
+-[MicahD18](https://github.com/MicahD18)
