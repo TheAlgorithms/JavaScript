@@ -4045,3 +4045,15 @@
 -[@amsteffensen](https://github.com/amsteffensen)
 
 -[@SuveerGoyal](https://github.com/SuveerGoyal)
+
+-[@meniAvitan](https://github.com/meniAvitan/start-here-guidelines.git)
+
+- [@ignaspangonis](https://github.com/ignaspangonis)
+
+- [@Angelxoxo757](https://github.com/Angelxoxo757)
+
+- [@atanbhardwaj](https://github.com/atanbhardwaj)
+
+-[@lankjan007](https://github.com/lankjan007)
+
+-[@mullijacob](https://github.com/mullijacob)
