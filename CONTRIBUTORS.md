@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@Devtinator](https://github.com/Devtinator)
+
 - [@atjoelpark](https://github.com/atjoelpark)
 
 - [@rohan-04](https://github.com/rohan-04)
@@ -37,6 +39,8 @@
 - [@Aditya-1295](https://github.com/Aditya-1295)
 
 - [@Ahmadzayd](https://github.com/Ahmadzayd)
+
+- [@Ahmedhafez12](https://github.com/Ahmedhafez12)
 
 - [@AkashGit21](https://github.com/AkashGit21/)
 
@@ -1669,6 +1673,8 @@
 - [@danakal](https://github.com/danakal)
 
 - [@dani1012](https://github.com/dani1012)
+
+- [@dani754](https://github.com/dani754)
 
 - [@daniel-balico](https://github.com/daniel-balico)
 
@@ -3404,7 +3410,7 @@
 
 - [@Davidohis](https://github.com/Davidohis)
 
-- [farhaddashtia](https://github.com/farhaddashtia/)
+- [@farhaddashtia](https://github.com/farhaddashtia/)
 
 - [@fratilar](https://github.com/fratilar)
 
@@ -3978,6 +3984,8 @@
 
 - [@parkjh4550](https://github.com/parkjh4550)
 
+- [@brunocodebox](https://github.com/brunocodebox/) 
+
 - [@Sibusiso-Radebe](https://github.com/Sibusiso-Radebe)
 
 - [@lionotm](https://github.com/lionotm/)
@@ -3988,8 +3996,70 @@
 
 - [@bebinjohn](https://github.com/bebinjohn)
 
--[@addankihyma](https://github.com/addankihyma)
+- [@mariavla](https://github.com/MariaVla)
 
--[@sanks20](https://github.com/sanks20)
+- [@addankihyma](https://github.com/@addankihyma)
 
--[@mariavla](https://github.com/MariaVla)
+- [@sanks20](https://github.com/sanks20)
+
+- [@reccashi28](https://github.com/reccashi28)
+
+- [@Sindbadia](https://github.com/sindbadia)
+
+- [@lcppcoding](https://github.com/lcppcoding)
+
+- [@decchu14](https://github.com/decchu14/)
+
+- [@idomason](https://github.com/Idomason)
+
+- [@kcpd9](https://github.com/kcpd9)
+
+- [@wgao2160](https://github.com/wgao2160)
+
+- [@addankihyma](https://github.com/addankihyma/)
+
+- [@jafar-design](https://github.com/jafar-design)
+
+- [@MrksDllngr](https://github.com/MrksDllngr)
+
+- [@Khan-Design](https://github.com/Khan-Design)
+
+- [@speazy](https://github.com/speazy)
+
+- [@Alejandro1709](https://github.com/Alejandro1709)
+
+- [@crlsandresgb](https://github.com/crlsandresgb)
+
+- [@felipecostafsweb](https://github.com/felipecostafsweb)
+
+- [@fdalmaup](https://github.com/fdalmaup)
+
+- [@grazinga-grazille](https://github.com/grazinga-grazille/)
+
+- [@MicahD18](https://github.com/MicahD18)
+
+- [@Siddharth1234567890](https://github.com/Siddharth1234567890/)
+
+- [@mk17leo](https://github.com/mk17leo/)
+
+- [@akashsonowal](https://github.com/akashsonowal)
+
+- [@amsteffensen](https://github.com/amsteffensen)
+
+- [@SuveerGoyal](https://github.com/SuveerGoyal)
+
+- [@meniAvitan](https://github.com/meniAvitan/start-here-guidelines.git)
+
+- [@ignaspangonis](https://github.com/ignaspangonis)
+
+- [@Angelxoxo757](https://github.com/Angelxoxo757)
+
+- [@atanbhardwaj](https://github.com/atanbhardwaj)
+
+- [@lankjan007](https://github.com/lankjan007)
+
+- [@NavBudhram](https://github.com/NavBudhram)
+
+- [@swarnya246](https://github.com/Swarnya246)
+
+- [@mullijacob](https://github.com/mullijacob)
