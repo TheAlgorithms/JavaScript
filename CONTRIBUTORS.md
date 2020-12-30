@@ -2,6 +2,8 @@
 
 - [@Devtinator](https://github.com/Devtinator)
 
+- [@sawankhanchi](https://github.com/sawankhanchi)
+
 - [@atjoelpark](https://github.com/atjoelpark)
 
 - [@rohan-04](https://github.com/rohan-04)
