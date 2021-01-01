@@ -20,7 +20,7 @@
 
 - [@19millionac](https://github.com/19millionac)
 
-- [@BHawkins62] (https://github.com/BHawkins62)
+- [@BHawkins62](https://github.com/BHawkins62)
 
 - [@1Dree](https://github.com/1Dree)
 
@@ -55,6 +55,7 @@
 - [@AleksMarinova](https://github.com/AleksMarinova)
 
 - [@Alex Badila#1981](https://github.com/alex-badila)
+
 - [@Harsh Dhonchak]
 
 - [@Alex-HuXD](https://github.com/Alex-HuXD)
@@ -3453,7 +3454,7 @@
 
 - [@kailun-liu](https://github.com/kailun-liu)
 
-- [tawedzerwa80](https://github.com/tawederwa80)
+- [@awedzerwa80](https://github.com/tawederwa80)
 
 - [@KamikaziD](https://github.com/KamikaziD)
 
@@ -3989,8 +3990,6 @@
 
 - [@parkjh4550](https://github.com/parkjh4550)
 
-- [@brunocodebox](https://github.com/brunocodebox/)
-
 - [@Sibusiso-Radebe](https://github.com/Sibusiso-Radebe)
 
 - [@lionotm](https://github.com/lionotm/)
@@ -4072,11 +4071,16 @@
 - [@mullijacob](https://github.com/mullijacob)
 
 - [@adjeri](https://github.com/adjeri)
+
 - [@invade69200](https://github.com/INVADE69200)
+
+- [@fakesanbid](https://github.com/fakesanbid)
 
 - [@wprostaff](https://github.com/wprostaff/)
 
 - [@brunotaxi78](https://github.com/brunotaxi78)
+
+- [@Tosindare](https://github.com/Tosindare)
 
 - [@codemaniac1](https://github.com/codemaniac1)
 
@@ -4084,20 +4088,32 @@
 
 - [@Jahfar-Tahiri-2020](https://github.com/Jahfar-Tahiri-2020/)
 
-- [@yashss1] (https://github.com/yashss1)
+- [@yashss1](https://github.com/yashss1)
 
 - [@ub79045180](https://github.com/ub79045180/)
 
--[@sachdevavaibhav](https://github.com/sachdevavaibhav)
+- [@mike44g] (ttps://github.com/mike44g/)
+=======
+- [@sachdevavaibhav](https://github.com/sachdevavaibhav)
 
--[dgasch512](https://github.com/dgasch512)
+- [@bguz](https://github.com/bguz)
 
--[@JayantGoel001](https://github.com/JayantGoel001)
+- [@dgasch512](https://github.com/dgasch512)
 
--[@followupboi](https://github.com/followupboi/)
+- [@followupboi](https://github.com/followupboi/)
 
--[charles01george](https://github.com/charles01george)
+- [@gasch512](https://github.com/dgasch512)
 
--[hajabikouf](https://github.com/hajabikouf)
+- [@charles01george](https://github.com/charles01george)
 
--[@zilhamdev](https://github.com/zilhamdev)
+- [@hajabikouf](https://github.com/hajabikouf)
+
+- [@zilhamdev](https://github.com/zilhamdev)
+
+- [@hseoy](https://github.com/hseoy)
+
+- [@eMetsanou](https://github.com/eMetsanou/)
+
+- [@zhaqsylyq](https://github.com/zhaqsylyq/)
+
+- [@greyhands2](https://github.com/greyhands2/)
