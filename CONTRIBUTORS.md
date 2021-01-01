@@ -3989,7 +3989,7 @@
 
 - [@parkjh4550](https://github.com/parkjh4550)
 
-- [@brunocodebox](https://github.com/brunocodebox/) 
+- [@brunocodebox](https://github.com/brunocodebox/)
 
 - [@Sibusiso-Radebe](https://github.com/Sibusiso-Radebe)
 
@@ -4095,3 +4095,9 @@
 - [@dgasch512](https://github.com/dgasch512)
 
 - [@JayantGoel001](https://github.com/JayantGoel001)
+
+- [dgasch512](https://github.com/dgasch512)
+
+- [@JayantGoel001](https://github.com/JayantGoel001)
+
+- [@followupboi](https://github.com/followupboi/)
