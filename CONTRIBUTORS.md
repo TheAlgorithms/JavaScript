@@ -20,6 +20,8 @@
 
 - [@19millionac](https://github.com/19millionac)
 
+- [@mervunxd](https://github.com/mervunxd)
+
 - [@BHawkins62](https://github.com/BHawkins62)
 
 - [@1Dree](https://github.com/1Dree)
@@ -4120,4 +4122,14 @@
 
 - [@JJay-Jacob](https://github.com/jjay-jacob/)
 
--[@JulingC](https://github.com/julingc)
+- [@JulingC](https://github.com/julingc/)
+
+- [@ashutosh014](https://github.com/ashutosh014/)
+
+- [@JezonFdo](http://github.com/Jezonfdo)
+
+- [@Mritunjay004](http://github.com/Mritunjay004/)
+
+- [@beagle-cloud](https://github.com/beagle-cloud/)
+
+- [@utkarsh2609](https://github.com/utkarsh2609/)
