@@ -20,6 +20,8 @@
 
 - [@19millionac](https://github.com/19millionac)
 
+- [@mervunxd](https://github.com/mervunxd)
+
 - [@BHawkins62](https://github.com/BHawkins62)
 
 - [@1Dree](https://github.com/1Dree)
