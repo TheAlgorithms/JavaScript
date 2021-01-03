@@ -2566,6 +2566,8 @@
 
 - [@nakul-gupta](https://github.com/nakul-gupta)
 
+- [@namarsha](https://github.com/namarsha)
+
 - [@nanoman08](https://github.com/nanoman08)
 
 - [@narasimha-gundavarapu](https://github.com/narasimhag)
@@ -4095,7 +4097,9 @@
 - [@ub79045180](https://github.com/ub79045180/)
 
 - [@mike44g] (ttps://github.com/mike44g/)
+
 =======
+
 - [@sachdevavaibhav](https://github.com/sachdevavaibhav)
 
 - [@bguz](https://github.com/bguz)
@@ -4120,6 +4124,8 @@
 
 - [@greyhands2](https://github.com/greyhands2/)
 
+- [@ttaylordev](https://github.com/ttaylordev/)
+
 - [@JJay-Jacob](https://github.com/jjay-jacob/)
 
 - [@JulingC](https://github.com/julingc/)
@@ -4133,3 +4139,7 @@
 - [@beagle-cloud](https://github.com/beagle-cloud/)
 
 - [@utkarsh2609](https://github.com/utkarsh2609/)
+
+- [@richardstuart007](https://github.com/richardstuart007/)
+
+- [@thucpn](https://github.com/thucpn/)
