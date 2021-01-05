@@ -4160,16 +4160,16 @@
 
 - [@GreatSembo](https://github.com/GreatSembo)
 
--[@page4everyone](https://github.com/page4everyone)
+- [@page4everyone](https://github.com/page4everyone)
 
--[@ChrisWrenDev](https://github.com/ChrisWrenDev)
+- [@ChrisWrenDev](https://github.com/ChrisWrenDev)
 
--[@adagar](https://github.com/adagar)
+- [@adagar](https://github.com/adagar)
 
 - [@Warfunk](https://github.com/Warfunk)
 
--[@Afalayo](https://github.com/Afalayo)
+- [@Afalayo](https://github.com/Afalayo)
 
--[@mattAllen](https://github.com/mallen13)
+- [@mattAllen](https://github.com/mallen13)
 
--[@vincent-lee-gh](https://github.com/vincent-lee-gh)
+- [@vincent-lee-gh](https://github.com/vincent-lee-gh)
