@@ -4092,13 +4092,13 @@
 
 - [@Jahfar-Tahiri-2020](https://github.com/Jahfar-Tahiri-2020/)
 
-- [@BruryaNadel] (https://github.com/BruryaNadel)
+- [@BruryaNadel](https://github.com/BruryaNadel)
 
 - [@yashss1](https://github.com/yashss1)
 
 - [@ub79045180](https://github.com/ub79045180/)
 
-- [@mike44g] (ttps://github.com/mike44g/)
+- [@mike44g](ttps://github.com/mike44g/)
 
 - [@sachdevavaibhav](https://github.com/sachdevavaibhav)
 
@@ -4179,7 +4179,21 @@
 - [@Khalil-BM](https://github.com/Khalil-BM)
 
 - [@kcieszko](https://github.com/kcieszko)
--[@abhayy947](https://github.com/abhayy947)
+
+- [@abhayy947](https://github.com/abhayy947)
 
 - [@adriang-90](https://github.com/adriang-90)
--[@AnnuSharma90](https://github.com/AnnuSharma-90)
+
+- [@Shubh-coder007](https://github.com/Shubh-coder007/)
+
+- [@AnnuSharma90](https://github.com/AnnuSharma-90)
+
+- [@roifzubaidi07](https://github.com/roifzubaidi07)
+
+- [@sohak22](https://github.com/sohak22)
+
+- [@juansoto87](https://github.com/juansoto87/)
+
+- [@anhnt160190](https://github.com/anhnt160190)
+
+- [@CSSimon1](https://github.com/CSSimon1)
