@@ -4,6 +4,8 @@
 
 - [@sawankhanchi](https://github.com/sawankhanchi)
 
+- [@AndreasGZ](https://github.com/AndreasGZ)
+
 - [@atjoelpark](https://github.com/atjoelpark)
 
 - [@rohan-04](https://github.com/rohan-04)
