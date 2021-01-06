@@ -4092,13 +4092,13 @@
 
 - [@Jahfar-Tahiri-2020](https://github.com/Jahfar-Tahiri-2020/)
 
-- [@BruryaNadel] (https://github.com/BruryaNadel)
+- [@BruryaNadel](https://github.com/BruryaNadel)
 
 - [@yashss1](https://github.com/yashss1)
 
 - [@ub79045180](https://github.com/ub79045180/)
 
-- [@mike44g] (ttps://github.com/mike44g/)
+- [@mike44g](ttps://github.com/mike44g/)
 
 - [@sachdevavaibhav](https://github.com/sachdevavaibhav)
 
@@ -4190,10 +4190,8 @@
 
 - [@roifzubaidi07](https://github.com/roifzubaidi07)
 
--[@AnnuSharma90](https://github.com/AnnuSharma-90)
+- [@sohak22](https://github.com/sohak22)
 
--[sohak22](https://github.com/sohak22)
-
--[@juansoto87](https://github.com/juansoto87/)
+- [@juansoto87](https://github.com/juansoto87/)
 
 - [@anhnt160190](https://github.com/anhnt160190)
