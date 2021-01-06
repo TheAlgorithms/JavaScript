@@ -1,3 +1,5 @@
+// https://en.wikipedia.org/wiki/Neighbourhood_(graph_theory)
+
 class Graph{
   // Generic graph: the algorithm works regardless of direction or weight
   constructor(){
