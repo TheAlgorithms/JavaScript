@@ -1,8 +1,8 @@
 # CONTRIBUTORS
 
-- [@Porosh](https://github.com/porosh2002)
-
 - [@Devtinator](https://github.com/Devtinator)
+
+- [@Porosh](https://github.com/porosh2002)
 
 - [@sawankhanchi](https://github.com/sawankhanchi)
 
@@ -4206,6 +4206,8 @@
 
 - [@TreusK](https://github.com/TreusK)
 
+- [@miguelhun](https://github.com/miguelhun)
+
 - [@joeunk](https://github.com/joeunk)
 
 - [@LaoluOseni](https://github.com/LaoluOseni)
@@ -4213,3 +4215,5 @@
 - [@brunngaard](https://github.com/brunngaard)
 
 - [@ActuarialWang](https://github.com/ActuarialWang)
+
+- [@aizulin](https://github.com/aizulin)
