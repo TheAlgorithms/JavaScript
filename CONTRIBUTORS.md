@@ -4,6 +4,8 @@
 
 - [@sawankhanchi](https://github.com/sawankhanchi)
 
+- [@AndreasGZ](https://github.com/AndreasGZ)
+
 - [@atjoelpark](https://github.com/atjoelpark)
 
 - [@rohan-04](https://github.com/rohan-04)
@@ -4197,3 +4199,13 @@
 - [@anhnt160190](https://github.com/anhnt160190)
 
 - [@CSSimon1](https://github.com/CSSimon1)
+
+- [@C4ll3nn](https://github.com/C4ll3nn)
+
+- [@TreusK](https://github.com/TreusK)
+
+- [@joeunk](https://github.com/joeunk)
+
+- [@LaoluOseni](https://github.com/LaoluOseni)
+
+- [@brunngaard](https://github.com/brunngaard)
