@@ -4230,17 +4230,17 @@
 
 - [@TornTech](https://github.com/TornTech)
 
--[@Tanish-SR](https://github.com/Tanish-SR/)
+- [@Tanish-SR](https://github.com/Tanish-SR/)
 
--[@kushal-Ambati](https://github.com/kushal-Ambati/)
+- [@kushal-Ambati](https://github.com/kushal-Ambati/)
 
--[@Thrasos06](https://github.com/Thrasos06/)
+- [@Thrasos06](https://github.com/Thrasos06/)
 
--[@toobig4u](https://github.com/toobig4u/)
+- [@toobig4u](https://github.com/toobig4u/)
 
--[@AiKurash](https://github.com/AiKurash/)
+- [@AiKurash](https://github.com/AiKurash/)
 
--[@derekrsargent](https://github.com/derekrsargent/)
+- [@derekrsargent](https://github.com/derekrsargent/)
 
 - [@dazedniteman](https://github.com/dazedniteman)
 
@@ -4250,5 +4250,6 @@
 
 - [@Memzer13](https://github.com/Memzer13)
 
--[@chriskee](https://github.com/chriskee)
+- [@fakhrinail](https://github.com/fakhrinail/)
 
+- [@seenuCFL](https://github.com/seenuCFL/)
