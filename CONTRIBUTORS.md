@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@starique04](https://github.com/starique04)
+
 - [@Devtinator](https://github.com/Devtinator)
 
 - [@Porosh](https://github.com/porosh2002)
