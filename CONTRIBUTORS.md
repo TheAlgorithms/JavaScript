@@ -4268,4 +4268,4 @@
 
 - [@R2rit0](https://github.com/R2rit0)
 
-- [@richard00436](https://https://github.com/richard00436/)
+- [@richard00436](https://github.com/richard00436/)
