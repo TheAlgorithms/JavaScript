@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@starique04](https://github.com/starique04)
+
 - [@Devtinator](https://github.com/Devtinator)
 
 - [@Porosh](https://github.com/porosh2002)
@@ -4261,3 +4263,9 @@
 - [@kubicodes](https://github.com/kubicodes)
 
 - [@blademan](https://github.com/blademan)
+
+- [@rsauerwein](https://github.com/rsauerwein)
+
+- [@R2rit0](https://github.com/R2rit0)
+
+- [@richard00436](https://github.com/richard00436/)
