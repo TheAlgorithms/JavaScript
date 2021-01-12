@@ -4283,3 +4283,13 @@
 - [@akramansari1433](https://github.com/akramansari1433)
 
 - [@yanoni](https://github.com/yanoni/)
+
+- [@RaeganTysh](https://github.com/RaeganTysh/)
+
+- [@akovalyo](https://github.com/akovalyo)
+
+- [@gabrielgsd1](https://github.com/gabrielgsd1)
+
+- [@MarcGervacio](https://github.com/MarcGervacio/)
+
+- [@wjandrews672](https://github.com/wjandrews672)
