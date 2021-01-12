@@ -1,4 +1,5 @@
 # CONTRIBUTORS
+
 - [@Gulshanaggarwal](https://github.com/Gulshanaggarwal)
 
 - [@starique04](https://github.com/starique04)
@@ -4251,8 +4252,6 @@
 
 - [@chriskeehk](https://github.com/chriskeehk/)
 
-- [@Memzer13](https://github.com/Memzer13)
-
 - [@fakhrinail](https://github.com/fakhrinail/)
 
 - [@seenuCFL](https://github.com/seenuCFL/)
@@ -4277,7 +4276,7 @@
 
 - [@SauravP10](https://github.com/SauravP10/)
 
-- [@venkatesh355] (https://github.com/venkatesh355)
+- [@venkatesh355](https://github.com/venkatesh355)
 
 - [@Osamai8](https://github.com/Osamai8)
 
