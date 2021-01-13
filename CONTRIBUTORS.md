@@ -4224,7 +4224,7 @@ git # CONTRIBUTORS
 
 - [@ActuarialWang](https://github.com/ActuarialWang)
 
--[@aaron0286](https://github.com/aaron0286/)
+- [@aaron0286](https://github.com/aaron0286/)
 
 - [@aizulin](https://github.com/aizulin)
 
@@ -4320,11 +4320,12 @@ git # CONTRIBUTORS
 
 - [@sora70david](https://github.com/sora70david)
 
--[@deJonge-Lars](https://github.com/deJonge-Lars/)
+- [@deJonge-Lars](https://github.com/deJonge-Lars/)
 
 - [@almirleandro](https://github.com/almirleandro)
 
--[@benjamincullen1](https://github.com/BenjaminCullen1)
+- [@benjamincullen1](https://github.com/BenjaminCullen1)
 
--[@sheffielle](
-https://github.com/sheffielle/)
+- [@sheffielle](https://github.com/sheffielle/)
+
+- [@kei178](https://github.com/kei178/)
