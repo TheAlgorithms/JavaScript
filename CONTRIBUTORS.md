@@ -1,4 +1,4 @@
-# CONTRIBUTORS
+git # CONTRIBUTORS
 
 - [@Gulshanaggarwal](https://github.com/Gulshanaggarwal)
 
@@ -4311,3 +4311,7 @@
 - [@FaisalS3](https://github.com/Faisals3)
 
 - [@yvgr00](https://github.com/yvgr00/)
+
+- [@oscars97](https://github.com/oscars97/)
+
+-[@LogicalRajan](https://github.com/LogicalRajan/)
