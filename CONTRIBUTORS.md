@@ -4314,4 +4314,12 @@ git # CONTRIBUTORS
 
 - [@oscars97](https://github.com/oscars97/)
 
--[@LogicalRajan](https://github.com/LogicalRajan/)
+- [@LogicalRajan](https://github.com/LogicalRajan/)
+
+- [@alfianahar](https://github.com/alfianahar)
+
+- [@sora70david](https://github.com/sora70david)
+
+-[@deJonge-Lars](https://github.com/deJonge-Lars/)
+
+- [@almirleandro](https://github.com/almirleandro)
