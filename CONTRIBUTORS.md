@@ -4345,4 +4345,6 @@
 - [@TjeerdH](https://github.com/TjeerdH)
 - [@Hazel-Mathews](https://github.com/Hazel-Mathews/)
 
--[@ajsmith925](https://github.com/ajsmith925/)
+- [@ajsmith925](https://github.com/ajsmith925/)
+
+- [@galexwade](https://github.com/galexwade)
