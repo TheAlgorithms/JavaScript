@@ -4320,13 +4320,13 @@ git # CONTRIBUTORS
 
 - [@sora70david](https://github.com/sora70david)
 
--[@deJonge-Lars](https://github.com/deJonge-Lars/)
+- [@deJonge-Lars](https://github.com/deJonge-Lars/)
 
 - [@almirleandro](https://github.com/almirleandro)
 
--[@benjamincullen1](https://github.com/BenjaminCullen1)
+- [@benjamincullen1](https://github.com/BenjaminCullen1)
 
--[@sheffielle](
+- [@sheffielle](
 https://github.com/sheffielle/)
 
 -[@Maryyam04](https://github.com/Maryyam04/)
