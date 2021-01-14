@@ -4347,6 +4347,6 @@
 
 - [@ajsmith925](https://github.com/ajsmith925/)
 
-- [@galexwade](https://github.com/galexwade)
+- [@Coderazor24](https://github.com/Coderazor24)
 
-- [@shivanandchikkalli](https://github.com/shivanandchikkalli)
+- [@galexwade](https://github.com/galexwade)
