@@ -4341,3 +4341,6 @@
 - [@cheyjax116](https://github.com/cheyjax116)
 
 - [@its-me-sv](https://github.com/its-me-sv)
+
+- [@TjeerdH](https://github.com/TjeerdH)
+- [@Hazel-Mathews](https://github.com/Hazel-Mathews/)
