@@ -1,4 +1,5 @@
 # CONTRIBUTORS
+
 - [@Gulshanaggarwal](https://github.com/Gulshanaggarwal)
 
 - [@starique04](https://github.com/starique04)
@@ -4223,6 +4224,8 @@
 
 - [@ActuarialWang](https://github.com/ActuarialWang)
 
+- [@aaron0286](https://github.com/aaron0286/)
+
 - [@aizulin](https://github.com/aizulin)
 
 - [@absolutezero13](https://github.com/absolutezero13)
@@ -4251,8 +4254,6 @@
 
 - [@chriskeehk](https://github.com/chriskeehk/)
 
-- [@Memzer13](https://github.com/Memzer13)
-
 - [@fakhrinail](https://github.com/fakhrinail/)
 
 - [@seenuCFL](https://github.com/seenuCFL/)
@@ -4277,7 +4278,7 @@
 
 - [@SauravP10](https://github.com/SauravP10/)
 
-- [@venkatesh355] (https://github.com/venkatesh355)
+- [@venkatesh355](https://github.com/venkatesh355)
 
 - [@Osamai8](https://github.com/Osamai8)
 
@@ -4297,4 +4298,50 @@
 
 - [@vivekbinjola](https://github.com/vivekbinjola)
 
+<<<<<<< HEAD
 - [@VG88580928](https://github.com/VG88580928)
+=======
+- [@alesgaber](https://github.com/alesgaber)
+
+- [@harshithRai](https://github.com/harshithRai/)
+
+- [@mumubukuru](https://github.com/mumubukuru/)
+
+- [@sameerraina280](https://github.com/sameerraina280)
+
+- [@BikrantaS](https://github.com/BikrantaS/)
+
+- [@FaisalS3](https://github.com/Faisals3)
+
+- [@yvgr00](https://github.com/yvgr00/)
+
+- [@oscars97](https://github.com/oscars97/)
+
+- [@LogicalRajan](https://github.com/LogicalRajan/)
+
+- [@alfianahar](https://github.com/alfianahar)
+
+- [@sora70david](https://github.com/sora70david)
+
+- [@deJonge-Lars](https://github.com/deJonge-Lars/)
+
+- [@almirleandro](https://github.com/almirleandro)
+
+- [@benjamincullen1](https://github.com/BenjaminCullen1)
+
+- [@sheffielle](https://github.com/sheffielle/)
+
+- [@kei178](https://github.com/kei178/)
+
+- [@Maryyam04](https://github.com/Maryyam04/)
+
+- [@Eenjoi88](https://github.com/Eenjoi88/)
+
+- [@FranciscoGPPonce](https://github.com/FranciscoGPPonce)
+
+- [@Netto-JM](https://github.com/Netto-JM/)
+
+- [@cheyjax116](https://github.com/cheyjax116)
+
+- [@its-me-sv](https://github.com/its-me-sv)
+>>>>>>> master
