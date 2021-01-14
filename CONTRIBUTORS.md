@@ -1,4 +1,4 @@
-git # CONTRIBUTORS
+# CONTRIBUTORS
 
 - [@Gulshanaggarwal](https://github.com/Gulshanaggarwal)
 
@@ -4224,7 +4224,7 @@ git # CONTRIBUTORS
 
 - [@ActuarialWang](https://github.com/ActuarialWang)
 
--[@aaron0286](https://github.com/aaron0286/)
+- [@aaron0286](https://github.com/aaron0286/)
 
 - [@aizulin](https://github.com/aizulin)
 
@@ -4326,17 +4326,18 @@ git # CONTRIBUTORS
 
 - [@benjamincullen1](https://github.com/BenjaminCullen1)
 
-- [@sheffielle](
-https://github.com/sheffielle/)
+- [@sheffielle](https://github.com/sheffielle/)
 
--[@Maryyam04](https://github.com/Maryyam04/)
+- [@kei178](https://github.com/kei178/)
 
--[@Eenjoi88](https://github.com/Eenjoi88/)
+- [@Maryyam04](https://github.com/Maryyam04/)
 
--[@FranciscoGPPonce](https://github.com/FranciscoGPPonce)
+- [@Eenjoi88](https://github.com/Eenjoi88/)
 
--[@Netto-JM](https://github.com/Netto-JM/)
+- [@FranciscoGPPonce](https://github.com/FranciscoGPPonce)
 
--[@cheyjax116](https://github.com/cheyjax116)
+- [@Netto-JM](https://github.com/Netto-JM/)
 
--[@its-me-sv](https://github.com/its-me-sv)
+- [@cheyjax116](https://github.com/cheyjax116)
+
+- [@its-me-sv](https://github.com/its-me-sv)
