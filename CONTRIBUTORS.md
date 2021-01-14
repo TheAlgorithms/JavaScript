@@ -1,4 +1,4 @@
-git # CONTRIBUTORS
+# CONTRIBUTORS
 
 - [@Gulshanaggarwal](https://github.com/Gulshanaggarwal)
 
@@ -4331,3 +4331,13 @@ git # CONTRIBUTORS
 - [@kei178](https://github.com/kei178/)
 
 - [@Maryyam04](https://github.com/Maryyam04/)
+
+- [@Eenjoi88](https://github.com/Eenjoi88/)
+
+- [@FranciscoGPPonce](https://github.com/FranciscoGPPonce)
+
+- [@Netto-JM](https://github.com/Netto-JM/)
+
+- [@cheyjax116](https://github.com/cheyjax116)
+
+- [@its-me-sv](https://github.com/its-me-sv)
