@@ -4378,9 +4378,8 @@
 
 - [@nusayer](https://github.com/nusayer)
 
+- [@daniel-luan-tran](https://github.com/daniel-luan-tran)
 
--[@daniel-luan-tran](https://github.com/daniel-luan-tran)
-
--[@moknez](https://github.com/moknez/)
+- [@moknez](https://github.com/moknez/)
 
 - [@karmelcorn](https://github.com/karmelcorn)
