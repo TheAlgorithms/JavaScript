@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@KayKozaronek](https://github.com/KayKozaronek)
+
 - [@Gulshanaggarwal](https://github.com/Gulshanaggarwal)
 
 - [@starique04](https://github.com/starique04)
