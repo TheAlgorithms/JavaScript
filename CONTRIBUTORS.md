@@ -68,8 +68,6 @@
 
 - [@Alex Badila#1981](https://github.com/alex-badila)
 
-- [@Harsh Dhonchak]
-
 - [@Alex-HuXD](https://github.com/Alex-HuXD)
 
 - [@AlexKanaanTam](https://github.com/AlexKanaanTam)
@@ -4332,9 +4330,9 @@
 
 - [@Maryyam04](https://github.com/Maryyam04/)
 
-- [@Eenjoi88](https://github.com/Eenjoi88/)
-
 - [@FranciscoGPPonce](https://github.com/FranciscoGPPonce)
+
+- [@Eenjoi88](https://github.com/Eenjoi88/)
 
 - [@Netto-JM](https://github.com/Netto-JM/)
 
@@ -4345,6 +4343,8 @@
 - [@TjeerdH](https://github.com/TjeerdH)
 
 - [@Hazel-Mathews](https://github.com/Hazel-Mathews/)
+
+- [@geraldkachi](https://github.com/geraldkachi/)
 
 - [@ajsmith925](https://github.com/ajsmith925/)
 
