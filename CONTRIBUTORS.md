@@ -4344,3 +4344,19 @@
 
 - [@TjeerdH](https://github.com/TjeerdH)
 - [@Hazel-Mathews](https://github.com/Hazel-Mathews/)
+
+- [@ajsmith925](https://github.com/ajsmith925/)
+
+- [@Coderazor24](https://github.com/Coderazor24)
+
+- [@galexwade](https://github.com/galexwade)
+
+- [@shivanandchikkalli](https://github.com/shivanandchikkalli)
+
+- [@davidhansonc](https://github.com/davidhansonc/)
+
+- [@maxly20](https://github.com/maxly20/)
+
+- [@caichenghao1991](https://github.com/caichenghao1991/)
+
+- [@hhkhan99](https://github.com/hhkhan99/)
