@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@KayKozaronek](https://github.com/KayKozaronek)
+
 - [@Gulshanaggarwal](https://github.com/Gulshanaggarwal)
 
 - [@starique04](https://github.com/starique04)
@@ -4342,7 +4344,7 @@
 
 - [@TjeerdH](https://github.com/TjeerdH)
 
--[@mayannamarie](https://github.com/Mayannamarie/)
+- [@mayannamarie](https://github.com/Mayannamarie/)
 
 - [@Hazel-Mathews](https://github.com/Hazel-Mathews/)
 
@@ -4369,9 +4371,11 @@
 - [@VG88580928](https://github.com/VG88580928)
 
 - [@prashanth1099](https://github.com/prashanth1099)
+
 - [@mehruddin11](https://github.com/mehruddin11)
 
 - [@mohsenyazdandust](https://github.com/mohsenyazdandust)
 
 - [@nusayer](https://github.com/nusayer)
 
+- [@karmelcorn](https://github.com/karmelcorn)
