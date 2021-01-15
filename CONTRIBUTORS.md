@@ -68,8 +68,6 @@
 
 - [@Alex Badila#1981](https://github.com/alex-badila)
 
-- [@Harsh Dhonchak]
-
 - [@Alex-HuXD](https://github.com/Alex-HuXD)
 
 - [@AlexKanaanTam](https://github.com/AlexKanaanTam)
@@ -4332,11 +4330,9 @@
 
 - [@Maryyam04](https://github.com/Maryyam04/)
 
--[@FranciscoGPPonce](https://github.com/FranciscoGPPonce)
+- [@FranciscoGPPonce](https://github.com/FranciscoGPPonce)
 
 - [@Eenjoi88](https://github.com/Eenjoi88/)
-
-- [@FranciscoGPPonce](https://github.com/FranciscoGPPonce)
 
 - [@Netto-JM](https://github.com/Netto-JM/)
 
@@ -4350,3 +4346,20 @@
 
 - [@geraldkachi](https://github.com/geraldkachi/)
 
+- [@ajsmith925](https://github.com/ajsmith925/)
+
+- [@Coderazor24](https://github.com/Coderazor24)
+
+- [@galexwade](https://github.com/galexwade)
+
+- [@shivanandchikkalli](https://github.com/shivanandchikkalli)
+
+- [@davidhansonc](https://github.com/davidhansonc/)
+
+- [@maxly20](https://github.com/maxly20/)
+
+- [@caichenghao1991](https://github.com/caichenghao1991/)
+
+- [@hhkhan99](https://github.com/hhkhan99/)
+
+- [@mltw](https://github.com/mltw)
