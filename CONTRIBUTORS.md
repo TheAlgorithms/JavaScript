@@ -4298,9 +4298,6 @@
 
 - [@vivekbinjola](https://github.com/vivekbinjola)
 
-<<<<<<< HEAD
-- [@VG88580928](https://github.com/VG88580928)
-=======
 - [@alesgaber](https://github.com/alesgaber)
 
 - [@harshithRai](https://github.com/harshithRai/)
@@ -4344,4 +4341,5 @@
 - [@cheyjax116](https://github.com/cheyjax116)
 
 - [@its-me-sv](https://github.com/its-me-sv)
->>>>>>> master
+
+- [@VG88580928](https://github.com/VG88580928)
