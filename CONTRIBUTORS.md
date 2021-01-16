@@ -4,6 +4,8 @@
 
 - [@Gulshanaggarwal](https://github.com/Gulshanaggarwal)
 
+- [@Jos02378](https://github.com/Jos02378)
+
 - [@starique04](https://github.com/starique04)
 
 - [@Devtinator](https://github.com/Devtinator)
@@ -4383,3 +4385,17 @@
 - [@moknez](https://github.com/moknez/)
 
 - [@karmelcorn](https://github.com/karmelcorn)
+
+- [@VardaanKiran](https://github.com/VardaanKiran)
+
+- [@joyreacher](https://github.com/joyreacher)
+
+- [@OluJoseph](https://github.com/OluJoseph)
+
+- [@ericlee83](https://github.com/ericlee83)
+
+- [@shivamtiwari2112](https://github.com/shivamtiwari2112/)
+
+- [@yenn11](https://github.com/yenn11)
+
+- [@RishabhSurti](https://github.com/RishabhSurti)
