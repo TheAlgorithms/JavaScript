@@ -48,6 +48,7 @@
     * [Stack](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Stack/Stack.js)
     * [StackES6](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Stack/StackES6.js)
   * Tree
+    * [AVLTree](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Tree/AVLTree.js)
     * [BinarySearchTree](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Tree/BinarySearchTree.js)
     * [Trie](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Tree/Trie.js)
 
