@@ -4380,8 +4380,6 @@
 
 - [@nusayer](https://github.com/nusayer)
 
-- [@daniel-luan-tran](https://github.com/daniel-luan-tran)
-
 - [@moknez](https://github.com/moknez/)
 
 - [@karmelcorn](https://github.com/karmelcorn)
@@ -4419,3 +4417,15 @@
 - [@katz11](https://github.com/katz11)
 
 - [@PugConDoin](https://github.com/PugConDoin)
+
+- [@BradTombers](https://github.com/BradTombers)
+
+- [@siddharthroy12](https://github.com/siddharthroy12)
+
+- [@gbakerrepo](https://github.com/gbakerrepo)
+
+- [@mehedihasanantor](https://github.com/mehedihasanantor)
+
+- [@akrai37](https://github.com/akrai37)
+
+- [@bangelev](https://github.com/bangelev)
