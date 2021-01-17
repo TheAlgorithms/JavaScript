@@ -4380,8 +4380,6 @@
 
 - [@nusayer](https://github.com/nusayer)
 
-- [@daniel-luan-tran](https://github.com/daniel-luan-tran)
-
 - [@moknez](https://github.com/moknez/)
 
 - [@karmelcorn](https://github.com/karmelcorn)
@@ -4404,25 +4402,34 @@
 
 - [@nancyr23](https://github.com/nancyr23)
 
--[@radikris](https://github.com/radikris)
+- [@radikris](https://github.com/radikris)
 
 - [@Aashimalik](https://github.com/Aashimalik)
 
--[@AdityaZ31](https://github.com/AdityaZ31)
+- [@AdityaZ31](https://github.com/AdityaZ31)
 
--[@minzhoudu](https://github.com/minzhoudu)
+- [@minzhoudu](https://github.com/minzhoudu)
 
--[@Nicolascoding27](https://github.com/Nicolascoding27)
+- [@Nicolascoding27](https://github.com/Nicolascoding27)
 
--[@Asadbek525](https://github.com/Asadbek525)
+- [@Asadbek525](https://github.com/Asadbek525)
 
--[@katz11](https://github.com/katz11)
+- [@katz11](https://github.com/katz11)
 
--[@BradTombers](https://github.com/BradTombers)
+- [@PugConDoin](https://github.com/PugConDoin)
 
--[@siddharthroy12](https://github.com/siddharthroy12)
+- [@BradTombers](https://github.com/BradTombers)
 
--[@GingerRoth](https://github.com/GingerRoth)
+- [@siddharthroy12](https://github.com/siddharthroy12)
 
--[@gbakerrepo](https://github.com/gbakerrepo)
+- [@gbakerrepo](https://github.com/gbakerrepo)
 
+- [@mehedihasanantor](https://github.com/mehedihasanantor)
+
+- [@akrai37](https://github.com/akrai37)
+
+- [@GingerRoth](https://github.com/GingerRoth)
+
+- [@gbakerrepo](https://github.com/gbakerrepo)
+
+- [@bangelev](https://github.com/bangelev)
