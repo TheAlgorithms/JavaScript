@@ -17,7 +17,7 @@ class Graph {
   nodeNeighbors (node) {
     // Returns an array with all of the node neighbors
     const neighbors = new Set()
-    for (let edge of this.edges) {
+    for (const edge of this.edges) {
       // Checks if they have an edge between them and if the neighbor is not
       // already in the neighbors array
       if (edge.node1 === node && !(neighbors.has(edge.node2))) {
