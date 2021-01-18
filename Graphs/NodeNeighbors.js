@@ -17,13 +17,13 @@ class Graph {
   nodeNeighbors (node) {
     // Returns an array with all of the node neighbors
     const neighbors = new Set()
-    for (let i = 0; i < this.edges.length; i++) {
+    for (let edge of this.edges) {
       // Checks if they have an edge between them and if the neighbor is not
       // already in the neighbors array
-      if (this.edges[i].node1 === node && !(neighbors.includes(this.edges[i].node2))) {
-        neighbors.push(this.edges[i].node2)
-      } else if (this.edges[i].node2 === node && !(neighbors.includes(this.edges[i].node1))) {
-        neighbors.push(this.edges[i].node1)
+      if (edge.node1 === node && !(neighbors.has(edge.node2))) {
+        neighbors.add(edge.node2)
+      } else if (edge.node2 === node && !(neighbors.has(edge.node1))) {
+        neighbors.add(edge.node1)
       }
     }
     return neighbors
