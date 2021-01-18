@@ -4362,7 +4362,7 @@
 
 - [@davidhansonc](https://github.com/davidhansonc/)
 
-- [@ata22677] (https://github.com/ata22677)
+- [@ata22677](https://github.com/ata22677)
 
 - [@maxly20](https://github.com/maxly20/)
 
@@ -4436,17 +4436,20 @@
 
 - [@bangelev](https://github.com/bangelev)
 
--[@BradTombers](https://github.com/BradTombers)
+- [@BradTombers](https://github.com/BradTombers)
 
 - [@sharathpbharath](https://github.com/sharathpbharath)
 
 - [@developer6229](https://github.com/developer6229)
+
 - [@the-tunwebdev](https://github.com/the-tunwebdev)
 
 - [@Adrian-Chambers](https://github.com/Adrian-Chambers/)
 
--[@Sumitkumar3628](https://github.com/Sumitkumar3628/)
+- [@Sumitkumar3628](https://github.com/Sumitkumar3628/)
 
 - [@HristijanGjorgjioski](https://github.com/HristijanGjorgjioski)
 
 - [@HristijanGjorgjioski](https://github.com/HristijanGjorgjioski)
+
+- [@TharindaNimnajith](https://github.com/TharindaNimnajith)
