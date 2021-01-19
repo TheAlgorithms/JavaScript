@@ -34,6 +34,8 @@
 
 - [@mervunxd](https://github.com/mervunxd)
 
+- [@iriswdq0504](https://github.com/iriswdq0504)
+
 - [@BHawkins62](https://github.com/BHawkins62)
 
 - [@mukullokhande99](https://github.com/mukullokhande99)
@@ -4432,13 +4434,11 @@
 
 - [@GingerRoth](https://github.com/GingerRoth)
 
-- [@gbakerrepo](https://github.com/gbakerrepo)
-
 - [@bangelev](https://github.com/bangelev)
 
-- [@BradTombers](https://github.com/BradTombers)
-
 - [@sharathpbharath](https://github.com/sharathpbharath)
+
+- [@ElizavetaZhukova1](https://github.com/ElizavetaZhukova1)
 
 - [@developer6229](https://github.com/developer6229)
 
@@ -4448,7 +4448,9 @@
 
 - [@Sumitkumar3628](https://github.com/Sumitkumar3628/)
 
-- [@HristijanGjorgjioski](https://github.com/HristijanGjorgjioski)
+- [@Dev-muse](https://https://github.com/Dev-muse)
+
+- [@SchneckDigital](https://github.com/SchneckDigital)
 
 - [@TharindaNimnajith](https://github.com/TharindaNimnajith)
 
@@ -4459,3 +4461,7 @@
 - [@ovidiuioanholca](https://github.com/ovidiuioanholca)
 
 - [@robsmith155](https://github.com/robsmith155)
+
+- [@ThesllaDev](https://github.com/ThesllaDev)
+
+- [@shazzy152](https://github.com/shazzy152)
