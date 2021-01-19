@@ -4461,4 +4461,4 @@
 - [@ovidiuioanholca](https://github.com/ovidiuioanholca)
 - [@robsmith155](https://github.com/robsmith155)
 
-- [@trikto](https://github.com/trikto)
+- [@ThesllaDev](https://github.com/ThesllaDev)
