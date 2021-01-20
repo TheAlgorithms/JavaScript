@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@LinkinN](https://github.com/linkinn)
+- 
 - [@KayKozaronek](https://github.com/KayKozaronek)
 
 - [@Gulshanaggarwal](https://github.com/Gulshanaggarwal)
