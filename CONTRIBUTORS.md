@@ -1,7 +1,7 @@
 # CONTRIBUTORS
 
 - [@LinkinN](https://github.com/linkinn)
-- 
+-
 - [@KayKozaronek](https://github.com/KayKozaronek)
 
 - [@Gulshanaggarwal](https://github.com/Gulshanaggarwal)
@@ -4489,3 +4489,9 @@
 -[@Prathamesh9997](https://github.com/Prathamesh9997)
 
 -[@chksaikumar](https://github.com/chksaikumar)
+
+-[@raizy21](https://github.com/raizy21)
+
+-[@dp5c14](https://github.com/dp5c14/)
+
+ - [@Cotex05](https://github.com/Cotex05)
