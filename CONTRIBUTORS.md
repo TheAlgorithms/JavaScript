@@ -1,5 +1,9 @@
 # CONTRIBUTORS
 
+- [@AbhijeetSatpute](https://github.com/abhijeetsatpute)
+
+- [@LinkinN](https://github.com/linkinn)
+
 - [@KayKozaronek](https://github.com/KayKozaronek)
 
 - [@Gulshanaggarwal](https://github.com/Gulshanaggarwal)
@@ -33,6 +37,8 @@
 - [@19millionac](https://github.com/19millionac)
 
 - [@mervunxd](https://github.com/mervunxd)
+
+- [@iriswdq0504](https://github.com/iriswdq0504)
 
 - [@BHawkins62](https://github.com/BHawkins62)
 
@@ -4362,7 +4368,7 @@
 
 - [@davidhansonc](https://github.com/davidhansonc/)
 
-- [@ata22677] (https://github.com/ata22677)
+- [@ata22677](https://github.com/ata22677)
 
 - [@maxly20](https://github.com/maxly20/)
 
@@ -4432,14 +4438,78 @@
 
 - [@GingerRoth](https://github.com/GingerRoth)
 
-- [@gbakerrepo](https://github.com/gbakerrepo)
-
 - [@bangelev](https://github.com/bangelev)
-
--[@BradTombers](https://github.com/BradTombers)
 
 - [@sharathpbharath](https://github.com/sharathpbharath)
 
+- [@ElizavetaZhukova1](https://github.com/ElizavetaZhukova1)
+
 - [@developer6229](https://github.com/developer6229)
 
+
 - [@AhmadSalihu](https://github.com/AhmadSalihu)
+
+- [@the-tunwebdev](https://github.com/the-tunwebdev)
+
+- [@Adrian-Chambers](https://github.com/Adrian-Chambers/)
+
+- [@Sumitkumar3628](https://github.com/Sumitkumar3628/)
+
+- [@HristijanGjorgjioski](https://github.com/HristijanGjorgjioski)
+
+- [@Dev-muse](https://https://github.com/Dev-muse)
+
+- [@SchneckDigital](https://github.com/SchneckDigital)
+
+- [@TharindaNimnajith](https://github.com/TharindaNimnajith)
+
+- [@tissadeking](https://github.com/tissadeking)
+
+- [@amozis](https://github.com/amozis)
+
+- [@ovidiuioanholca](https://github.com/ovidiuioanholca)
+
+- [@robsmith155](https://github.com/robsmith155)
+
+- [@SaraLatif99](https://github.com/SaraLatif99)
+
+- [@ThesllaDev](https://github.com/ThesllaDev)
+
+- [@shazzy152](https://github.com/shazzy152)
+
+- [@Oliverfk93916](https://github.com/Oliverfk93916)
+
+- [@LeonAgustinP](https://github.com/LeonAgustinP)
+
+- [@kinshukvats](https://github.com/kinshukvats)
+
+- [@RajCutinha](https://github.com/RajCutinha)
+
+-[@cherfa11209](https://github.com/cherfa11209)
+
+-[@RaulGee](https://github.com/RaulGee)
+
+=[@AyazMinhaj](https://github.com/AyazMinhaj)
+
+-[@Prathamesh9997](https://github.com/Prathamesh9997)
+
+-[@chksaikumar](https://github.com/chksaikumar)
+
+-[@raizy21](https://github.com/raizy21)
+
+-[@dp5c14](https://github.com/dp5c14/)
+
+- [@Cotex05](https://github.com/Cotex05)
+
+-[@kauwai](https://github.com/kauwai)
+
+-[@JayceTr](https://github.com/JayceTr)
+
+-[@KevinRaz-ux](https://github.com/KevinRaz-ux)
+
+-[@m-heffernan](https://github.com/m-heffernan)
+
+-[@IsaacCisneros95](https://github.com/IsaacCisneros95)
+
+-[@TrifShterev](https://github.com/TrifShterev)
+
