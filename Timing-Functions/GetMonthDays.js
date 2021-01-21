@@ -21,11 +21,7 @@ const getMonthDays = (monthNumber, year) => {
   if (the30DaysMonths.includes(monthNumber)) { return 30 }
 
   // Check for Leap year
-  if (year % 4 === 0) {
-    if ((year % 100 !== 0) || (year % 100 === 0 && year % 400 === 0)) {
-      return 29
-    }
-  }
+  if (((year % 400) === 0)||(((year % 100) != 0) && ((year % 4) === 0))) { return 29 }
 
   return 28
 }
