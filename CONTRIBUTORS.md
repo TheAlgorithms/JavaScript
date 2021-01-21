@@ -1,7 +1,9 @@
 # CONTRIBUTORS
 
+- [@AbhijeetSatpute](https://github.com/abhijeetsatpute)
+
 - [@LinkinN](https://github.com/linkinn)
--
+
 - [@KayKozaronek](https://github.com/KayKozaronek)
 
 - [@Gulshanaggarwal](https://github.com/Gulshanaggarwal)
@@ -4497,3 +4499,11 @@
 - [@Cotex05](https://github.com/Cotex05)
 
 -[@kauwai](https://github.com/kauwai)
+
+-[@JayceTr](https://github.com/JayceTr)
+
+-[@KevinRaz-ux](https://github.com/KevinRaz-ux)
+
+-[@m-heffernan](https://github.com/m-heffernan)
+
+-[@IsaacCisneros95](https://github.com/IsaacCisneros95)
