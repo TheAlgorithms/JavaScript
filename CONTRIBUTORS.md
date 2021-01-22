@@ -1820,6 +1820,8 @@
 
 - [@ekkemand](https://github.com/ekkemand)
 
+- [@ekondratovics](https://github.com/ekondratovics)
+
 - [@elcajo](https://github.com/elcajo/)
 
 - [@elcarn23](https://github.com/elcarn23/)
@@ -4521,3 +4523,14 @@
 - [@Landbios](https://github.com/Landbios)
 
 - [@samabarker](https://github.com/samabarker)
+
+-[@JoshMTRobinson](https://github.com/JoshMTRobinson)
+
+- [@clinzy25](https://github.com/clinzy25)
+
+-[@salutemsp](https://github.com/salutemsp)
+
+- [@kzganesan](https://github.com/kzganesan)
+
+-[@mariko971](https://github.com/mariko971/)
+
