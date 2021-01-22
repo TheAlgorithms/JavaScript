@@ -1820,6 +1820,8 @@
 
 - [@ekkemand](https://github.com/ekkemand)
 
+- [@ekondratovics](https://github.com/ekondratovics)
+
 - [@elcajo](https://github.com/elcajo/)
 
 - [@elcarn23](https://github.com/elcarn23/)
@@ -4529,3 +4531,5 @@
 - [@kzganesan](https://github.com/kzganesan)
 
 -[@mariko971](https://github.com/mariko971/)
+
+-[@c-mcmahon](https://github.com/c-mcmahon/)
