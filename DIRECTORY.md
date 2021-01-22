@@ -57,6 +57,7 @@
   * [CoinChange](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/CoinChange.js)
   * [EditDistance](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/EditDistance.js)
   * [FibonacciNumber](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/FibonacciNumber.js)
+  * [findMonthCalendar](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/findMonthCalendar.js)
   * [KadaneAlgo](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/KadaneAlgo.js)
   * [LevenshteinDistance](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/LevenshteinDistance.js)
   * [LongestCommonSubsequence](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/LongestCommonSubsequence.js)
