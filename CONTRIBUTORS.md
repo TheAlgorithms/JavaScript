@@ -4512,18 +4512,20 @@
 
 - [@TrifShterev](https://github.com/TrifShterev)
 
--[@AksharAthreya](https://github.com/akshar-Athreya97)
+- [@AksharAthreya](https://github.com/akshar-Athreya97)
 
--[@deevasgrg68] (https://github.com/deevasgrg68)
+- [@deevasgrg68](https://github.com/deevasgrg68)
 
--[@jaggehns](https://github.com/jaggehns)
+- [@jaggehns](https://github.com/jaggehns)
 
--[@Landbios](https://github.com/Landbios)
+- [@Landbios](https://github.com/Landbios)
 
--[@JoshMTRobinson](https://github.com/JoshMTRobinson)
+- [@JoshMTRobinson](https://github.com/JoshMTRobinson)
 
 - [@clinzy25](https://github.com/clinzy25)
 
--[@salutemsp](https://github.com/salutemsp)
+- [@salutemsp](https://github.com/salutemsp)
 
 - [@kzganesan](https://github.com/kzganesan)
+
+- [@motheroftrouble](https://github.com/motheroftrouble)
