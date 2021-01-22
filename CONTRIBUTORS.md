@@ -4524,11 +4524,11 @@
 
 -[@JoshMTRobinson](https://github.com/JoshMTRobinson)
 
-- [@clinzy25](https://github.com/clinzy25)
+- [@clinzy25](https://github.com/clinzy25/)
 
--[@salutemsp](https://github.com/salutemsp)
+-[@salutemsp](https://github.com/salutemsp/)
 
-- [@kzganesan](https://github.com/kzganesan)
+- [@kzganesan](https://github.com/kzganesan/)
 
 -[@mariko971](https://github.com/mariko971/)
 
