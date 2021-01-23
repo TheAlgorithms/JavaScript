@@ -4534,8 +4534,6 @@
 
 - [@kzganesan](https://github.com/kzganesan)
 
-<<<<<<< HEAD
-
 - [@motheroftrouble](https://github.com/motheroftrouble)
 
 - [@mariko971](https://github.com/mariko971/)
