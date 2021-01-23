@@ -4516,7 +4516,7 @@
 
 - [@AksharAthreya](https://github.com/akshar-Athreya97)
 
-- [@deevasgrg68] (https://github.com/deevasgrg68)
+- [@deevasgrg68]( https://github.com/deevasgrg68)
 
 - [@jaggehns](https://github.com/jaggehns)
 
@@ -4524,13 +4524,34 @@
 
 - [@samabarker](https://github.com/samabarker)
 
--[@JoshMTRobinson](https://github.com/JoshMTRobinson)
+- [@deevasgrg68](https://github.com/deevasgrg68)
+
+- [@akshay-turkar](https://github.com/akshay-turkar)
+
+- [@JoshMTRobinson](https://github.com/JoshMTRobinson)
 
 - [@clinzy25](https://github.com/clinzy25)
 
--[@salutemsp](https://github.com/salutemsp)
+- [@salutemsp](https://github.com/salutemsp)
 
 - [@kzganesan](https://github.com/kzganesan)
 
--[@mariko971](https://github.com/mariko971/)
+- [@mariko971](https://github.com/mariko971/)
 
+- [@c-mcmahon](https://github.com/c-mcmahon/)
+
+- [@dyl98an](https://github.com/dyl98an)
+
+- [@nachmatt](https://github.com/nachmatt/)
+
+- [@Nanda2608](https://github.com/Nanda2608/)
+
+- [@mrfury0](https://github.com/mrfury0/)
+
+- [@RobRobsonTech](https://github.com/RobRobsonTech/)
+
+- [@HunterKane](https://github.com/HunterKane)
+
+- [@mckay1818](https://github.com/mckay1818)
+
+- [@PiyushMathur231](https://github.com/PiyushMathur231)
