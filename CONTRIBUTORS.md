@@ -1820,6 +1820,8 @@
 
 - [@ekkemand](https://github.com/ekkemand)
 
+- [@ekondratovics](https://github.com/ekondratovics)
+
 - [@elcajo](https://github.com/elcajo/)
 
 - [@elcarn23](https://github.com/elcarn23/)
@@ -4519,3 +4521,31 @@
 - [@jaggehns](https://github.com/jaggehns)
 
 - [@akshay-turkar](https://github.com/akshay-turkar)
+
+- [@Landbios](https://github.com/Landbios)
+
+- [@JoshMTRobinson](https://github.com/JoshMTRobinson)
+
+- [@clinzy25](https://github.com/clinzy25)
+
+- [@salutemsp](https://github.com/salutemsp)
+
+- [@kzganesan](https://github.com/kzganesan)
+
+- [@mariko971](https://github.com/mariko971/)
+
+- [@c-mcmahon](https://github.com/c-mcmahon/)
+
+- [@dyl98an](https://github.com/dyl98an)
+
+- [@nachmatt](https://github.com/nachmatt/)
+
+- [@Nanda2608](https://github.com/Nanda2608/)
+
+- [@mrfury0](https://github.com/mrfury0/)
+
+- [@RobRobsonTech](https://github.com/RobRobsonTech/)
+
+- [@HunterKane](https://github.com/HunterKane)
+
+- [@PiyushMathur231](https://github.com/PiyushMathur231)
