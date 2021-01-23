@@ -4522,6 +4522,10 @@
 
 - [@Landbios](https://github.com/Landbios)
 
+- [@samabarker](https://github.com/samabarker)
+
+- [@akshay-turkar](https://github.com/akshay-turkar)
+
 - [@JoshMTRobinson](https://github.com/JoshMTRobinson)
 
 - [@clinzy25](https://github.com/clinzy25)
@@ -4529,6 +4533,8 @@
 - [@salutemsp](https://github.com/salutemsp)
 
 - [@kzganesan](https://github.com/kzganesan)
+
+<<<<<<< HEAD
 
 - [@motheroftrouble](https://github.com/motheroftrouble)
 
@@ -4548,3 +4554,6 @@
 
 - [@HunterKane](https://github.com/HunterKane)
 
+- [@mckay1818](https://github.com/mckay1818)
+
+- [@PiyushMathur231](https://github.com/PiyushMathur231)
