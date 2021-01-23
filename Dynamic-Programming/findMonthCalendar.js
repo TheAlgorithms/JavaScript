@@ -99,7 +99,6 @@ class Month {
   }
 }
 
-
-//testing
+// testing
 const x = new Month()
 x.generateMonthCal('1/2021')
