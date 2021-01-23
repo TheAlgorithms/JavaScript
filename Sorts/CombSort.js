@@ -12,6 +12,8 @@
  * which does the actual swap, is modified such that gap between swapped
  * elements goes down (for each iteration of outer loop) in steps of
  * a "shrink factor" k: [ n/k, n/k2, n/k3, ..., 1 ].
+ * 
+ * Wikipedia: https://en.wikipedia.org/wiki/Comb_sort
  */
 
 function combSort (list) {
