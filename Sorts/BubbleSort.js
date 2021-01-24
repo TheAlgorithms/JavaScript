@@ -9,6 +9,7 @@
 *  it is greater than itself, if so we swap them.
 *
 *  Wikipedia: https://en.wikipedia.org/wiki/Bubble_sort
+*  Animated Visual: https://www.toptal.com/developers/sorting-algorithms/bubble-sort
 */
 
 /*
