@@ -53,7 +53,7 @@ function bubbleSort (items) {
 /*
 *  Implementation of 2 for loops method
 */
-var array1 = [5, 6, 7, 8, 1, 2, 12, 14]
+const array1 = [5, 6, 7, 8, 1, 2, 12, 14]
 // Before Sort
 console.log('\n- Before Sort | Implementation using 2 for loops -')
 console.log(array1)
@@ -84,7 +84,7 @@ function alternativeBubbleSort (arr) {
 /*
 *  Implementation of a while loop and a for loop method
 */
-var array2 = [5, 6, 7, 8, 1, 2, 12, 14]
+const array2 = [5, 6, 7, 8, 1, 2, 12, 14]
 // Before Sort
 console.log('\n- Before Sort | Implementation using a while loop and a for loop -')
 console.log(array2)
