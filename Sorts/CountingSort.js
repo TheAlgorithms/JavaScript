@@ -30,11 +30,14 @@ function countingSort (arr, min, max) {
   return arr
 }
 
-const arr = [3, 0, 2, 5, 4, 1]
-
-// Array before Sort
-console.log('-----before sorting-----')
-console.log(arr)
-// Array after sort
-console.log('-----after sorting-----')
-console.log(countingSort(arr, 0, 5))
+/**
+* Implementation of Counting Sort
+*/
+const array = [3, 0, 2, 5, 4, 1]
+// Before Sort
+console.log('\n- Before Sort | Implementation of Counting Sort -')
+console.log(array)
+// After Sort
+console.log('- After Sort | Implementation of Counting Sort -')
+console.log(comcountingSortbSort(array))
+console.log('\n')
