@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@ishansinghal9810](https://github.com/ishansinghal9810)
+
 - [@AbhijeetSatpute](https://github.com/abhijeetsatpute)
 
 - [@LinkinN](https://github.com/linkinn)
