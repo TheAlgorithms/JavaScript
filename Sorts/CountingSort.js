@@ -1,9 +1,9 @@
 /**
- * Counting sort is an algorithm for sorting a collection 
+ * Counting sort is an algorithm for sorting a collection
  * of objects according to keys that are small integers.
- * 
+ *
  * It is an integer sorting algorithm.
- * 
+ *
  * Wikipedia: https://en.wikipedia.org/wiki/Counting_sort
  * Animated Visual: https://www.cs.usfca.edu/~galles/visualization/CountingSort.html
  */
@@ -39,5 +39,5 @@ console.log('\n- Before Sort | Implementation of Counting Sort -')
 console.log(array)
 // After Sort
 console.log('- After Sort | Implementation of Counting Sort -')
-console.log(comcountingSortbSort(array))
+console.log(countingSort(array))
 console.log('\n')
