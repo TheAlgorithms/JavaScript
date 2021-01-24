@@ -1,8 +1,11 @@
-/*
- * Counting sort is an algorithm for sorting a collection of objects according to keys that are small integers;
- * that is, it is an integer sorting algorithm.
- * more information: https://en.wikipedia.org/wiki/Counting_sort
- * counting sort visualization: https://www.cs.usfca.edu/~galles/visualization/CountingSort.html
+/**
+ * Counting sort is an algorithm for sorting a collection 
+ * of objects according to keys that are small integers.
+ * 
+ * It is an integer sorting algorithm.
+ * 
+ * Wikipedia: https://en.wikipedia.org/wiki/Counting_sort
+ * Animated Visual: https://www.cs.usfca.edu/~galles/visualization/CountingSort.html
  */
 
 function countingSort (arr, min, max) {
