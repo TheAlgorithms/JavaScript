@@ -1,8 +1,8 @@
 # CONTRIBUTORS
 
-- [@ishansinghal9810](https://github.com/ishansinghal9810)
-
 - [@AbhijeetSatpute](https://github.com/abhijeetsatpute)
+
+- [@ishansinghal9810](https://github.com/ishansinghal9810)
 
 - [@LinkinN](https://github.com/linkinn)
 
@@ -4478,9 +4478,9 @@
 
 - [@ThesllaDev](https://github.com/ThesllaDev)
 
-- [@AchrefMekni](https://github.com/Achref-Mekni)
-
 - [@shazzy152](https://github.com/shazzy152)
+
+- [@AchrefMekni](https://github.com/Achref-Mekni)
 
 - [@Oliverfk93916](https://github.com/Oliverfk93916)
 
@@ -4562,9 +4562,13 @@
 
 - [@adiphoorn](https://github.com/adiphoorn/)
 
+- [@clinzy25](https://github.com/clinzy25)
+
 - [@PiyushMathur231](https://github.com/PiyushMathur231)
 
 - [@soumya-ramteke](https://github.com/soumya-ramteke)
+
+- [@kzganesan](https://github.com/kzganesan)
 
 - [@ptreuden](https://github.com/ptreuden)
 
@@ -4574,6 +4578,10 @@
 
 - [@ohisee](https://github.com/ohisee)
 
+- [@SefYellnikoff](https://github.com/SefYellnikoff)
+
+- [@Jordanhill90](https://github.com/Jordanhill90/)
+
 - [@papesaliouka](https://github.com/papesaliouka/)
 
 - [@bennychengws](https://github.com/bennychengws/)
@@ -4582,6 +4590,10 @@
 
 - [@CountRochester](https://github.com/CountRochester/)
 
--[@SefYellnikoff](https://github.com/SefYellnikoff)
+- [@epGameDev](https://github.com/epGameDev)
 
--[@Jordanhill90](https://github.com/Jordanhill90/)
+- [@Pedro-Murilo](https://github.com/Pedro-Murilo)
+
+- [@Capi-ai](https://github.com/Capi-ai)
+
+- [@Radu-Stroe](https://github.com/Radu-Stroe)
