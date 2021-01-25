@@ -53,9 +53,15 @@ function cycleSort (list) {
   }
   return writes
 }
-const arrOrignal = [5, 6, 7, 8, 1, 2, 12, 14]
-// Array before Sort
-console.log(arrOrignal)
-cycleSort(arrOrignal)
-// Array after sort
-console.log(arrOrignal)
+
+/**
+* Implementation of Cycle Sort
+*/
+const array = [5, 6, 7, 8, 1, 2, 12, 14]
+// Before Sort
+console.log('\n- Before Sort | Implementation of Cycle Sort -')
+console.log(array)
+// After Sort
+console.log('- After Sort | Implementation of Cycle Sort -')
+console.log(countingSort(array))
+console.log('\n')
