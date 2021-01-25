@@ -4,6 +4,8 @@
  * number of writes to the original array, unlike any other in-place sorting
  * algorithm. It is based on the idea that the permutation to be sorted can
  * be factored into cycles, which can individually be rotated to give a sorted result.
+ * 
+ * Wikipedia: https://en.wikipedia.org/wiki/Cycle_sort
  */
 
 function cycleSort (list) {
