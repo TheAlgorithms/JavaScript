@@ -4606,12 +4606,20 @@
 
 - [@jdmiranda22](https://github.com/jdmiranda22)
 
-- [@Nazmul-dot](https://github.com/Nazmul-dot )
+- [@Nazmul-dot](https://github.com/Nazmul-dot)
 
 - [@mdillemuth](https://github.com/mdillemuth/)
 
 - [@johnwick11111](https://github.com/johnwick11111/)
 
--[@shanks-t](https://github.com/shanks-t/)
+- [@shanks-t](https://github.com/shanks-t/)
 
--[@EncryptedAsimov]('https://github.com/EncryptedAsimov')
+- [@colejbodine](https://github.com/colejbodine/)
+
+- [@EncryptedAsimov]('https://github.com/EncryptedAsimov')
+
+- [@rarefiction]('https://github.com/rarefiction')
+
+- [@Sagar231]('https://github.com/Sagar231/')
+
+- [@ahlgren1234]('https://github.com/ahlgren1234/')
