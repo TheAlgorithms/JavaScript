@@ -4614,4 +4614,4 @@
 
 - [@shanks-t](https://github.com/shanks-t/)
 
-- [@EncryptedAsimov]('https://github.com/EncryptedAsimov/')
+- [@EncryptedAsimov](https://github.com/EncryptedAsimov/)
