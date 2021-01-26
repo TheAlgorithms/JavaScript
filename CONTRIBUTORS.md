@@ -4606,7 +4606,7 @@
 
 - [@jdmiranda22](https://github.com/jdmiranda22)
 
-- [@Nazmul-dot](https://github.com/Nazmul-dot )
+- [@Nazmul-dot](https://github.com/Nazmul-dot)
 
 - [@mdillemuth](https://github.com/mdillemuth/)
 
@@ -4614,4 +4614,6 @@
 
 - [@shanks-t](https://github.com/shanks-t/)
 
-- [@EncryptedAsimov](https://github.com/EncryptedAsimov/)
+- [@colejbodine](https://github.com/colejbodine/)
+
+- [@EncryptedAsimov]('https://github.com/EncryptedAsimov')
