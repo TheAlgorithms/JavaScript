@@ -4627,3 +4627,7 @@
 - [@Yashaswini278]('https://github.com/Yashaswini278/')
 
 - [@novasgit](https://github.com/novasgit/)
+
+- [@ADaouadji](https://github.com/ADaouadji)
+
+- [@katamaxx23](https://github.com/katamaxx23)
