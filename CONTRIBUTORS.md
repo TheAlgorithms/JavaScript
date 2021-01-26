@@ -4612,6 +4612,6 @@
 
 - [@johnwick11111](https://github.com/johnwick11111/)
 
--[@shanks-t](https://github.com/shanks-t/)
+- [@shanks-t](https://github.com/shanks-t/)
 
--[@colejbodine](https://github.com/colejbodine/)
+- [@colejbodine](https://github.com/colejbodine/)
