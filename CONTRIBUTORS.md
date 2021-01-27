@@ -4616,15 +4616,15 @@
 
 - [@colejbodine](https://github.com/colejbodine/)
 
-- [@EncryptedAsimov]('https://github.com/EncryptedAsimov')
+- [@EncryptedAsimov](https://github.com/EncryptedAsimov)
 
-- [@rarefiction]('https://github.com/rarefiction')
+- [@rarefiction](https://github.com/rarefiction)
 
-- [@Sagar231]('https://github.com/Sagar231/')
+- [@Sagar231](https://github.com/Sagar231/)
 
-- [@ahlgren1234]('https://github.com/ahlgren1234/')
+- [@ahlgren1234](https://github.com/ahlgren1234/)
 
-- [@Yashaswini278]('https://github.com/Yashaswini278/')
+- [@Yashaswini278](https://github.com/Yashaswini278/)
 
 - [@novasgit](https://github.com/novasgit/)
 
@@ -4632,8 +4632,12 @@
 
 - [@katamaxx23](https://github.com/katamaxx23)
 
+- [@rbarts4](https://github.com/rbarts4)
+
 - [@gmfuster](https://github.com/gmfuster)
 
 - [@gvenu984](https://github.com/gvenu984/)
 
 - [@JaeJun-Park](https://github.com/JaeJun-Park/)
+
+- [@CubricPrune01](https://github.com/CubricPrune01/)
