@@ -4618,7 +4618,7 @@
 
 - [@EncryptedAsimov]('https://github.com/EncryptedAsimov')
 
-- [@rarefiction]('https://github.com/rarefiction')
+- [@rarefiction](https://github.com/rarefiction)
 
 - [@Sagar231]('https://github.com/Sagar231/')
 
