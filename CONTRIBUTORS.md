@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@Anthony-Rose](https://github.com/Anthony-Rose)
+
 - [@AbhijeetSatpute](https://github.com/abhijeetsatpute)
 
 - [@ishansinghal9810](https://github.com/ishansinghal9810)
