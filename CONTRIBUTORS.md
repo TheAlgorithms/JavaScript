@@ -4658,7 +4658,7 @@
 
 - [@arihant47](https://github.com/arihant47/)
 
--[@shayCamp](https://github.com/shayCamp)
+- [@shayCamp](https://github.com/shayCamp)
 
 - [@JayantGoel001](https://github.com/JayantGoel001)
 
@@ -4666,4 +4666,6 @@
 
 - [@tabbathacrouch](https://github.com/tabbathacrouch)
 
--[@ezatullah-hub](https://github.com/ezatullah-hub)
+- [@ezatullah-hub](https://github.com/ezatullah-hub)
+
+- [@lucas1086](https://github.com/lucas1086)
