@@ -4680,4 +4680,4 @@
 
 - [cfinical](https://github.com/cfinical)
 
-- [@sourcecontrol-exe](https://github.com/sourcecontrol-exe)
+-[@sourcecontrol-exe](https://github.com/sourcecontrol-exe)
