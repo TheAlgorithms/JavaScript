@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@Anthony-Rose](https://github.com/Anthony-Rose)
+
 - [@AbhijeetSatpute](https://github.com/abhijeetsatpute)
 
 - [@ishansinghal9810](https://github.com/ishansinghal9810)
@@ -11,6 +13,8 @@
 - [@Gulshanaggarwal](https://github.com/Gulshanaggarwal)
 
 - [@Jos02378](https://github.com/Jos02378)
+
+- [@sourcecontrol-exe](https://github.com/sourcecontrol-exe)
 
 - [@starique04](https://github.com/starique04)
 
@@ -4616,15 +4620,15 @@
 
 - [@colejbodine](https://github.com/colejbodine/)
 
-- [@EncryptedAsimov]('https://github.com/EncryptedAsimov')
+- [@EncryptedAsimov](https://github.com/EncryptedAsimov)
 
-- [@rarefiction]('https://github.com/rarefiction')
+- [@rarefiction](https://github.com/rarefiction)
 
-- [@Sagar231]('https://github.com/Sagar231/')
+- [@Sagar231](https://github.com/Sagar231/)
 
-- [@ahlgren1234]('https://github.com/ahlgren1234/')
+- [@ahlgren1234](https://github.com/ahlgren1234/)
 
-- [@Yashaswini278]('https://github.com/Yashaswini278/')
+- [@Yashaswini278](https://github.com/Yashaswini278/)
 
 - [@novasgit](https://github.com/novasgit/)
 
@@ -4632,9 +4636,52 @@
 
 - [@katamaxx23](https://github.com/katamaxx23)
 
-- [@deevasgrg68](https://github.com/deevasgrg68)
-
 - [@sarangagp9](https://github.com/sarangagp9)
 
 - [@gmfuster](https://github.com/gmfuster)
 
+- [@rbarts4](https://github.com/rbarts4)
+
+- [@gvenu984](https://github.com/gvenu984/)
+
+- [@JaeJun-Park](https://github.com/JaeJun-Park/)
+
+- [@CubricPrune01](https://github.com/CubricPrune01/)
+
+- [@Kasheefali](https://github.com/Kasheefali/)
+
+- [@japesc20](https://github.com/japesc20/)
+
+- [@mohammadalnajar](https://github.com/mohammadalnajar)
+
+- [@achiyahb](https://github.com/achiyahb)
+
+- [@amoore-dev](https://github.com/amoore-dev)
+
+- [@gerll](https://github.com/Gerll)
+
+- [@arihant47](https://github.com/arihant47/)
+
+- [@shayCamp](https://github.com/shayCamp)
+
+- [@trinidadamiel](https://github.com/trinidadamiel)
+
+- [@tabbathacrouch](https://github.com/tabbathacrouch)
+
+- [@ezatullah-hub](https://github.com/ezatullah-hub)
+
+- [@web223dev](https://github.com/web223dev)
+
+- [@CoreyMMiller](https://github.com/CoreyMMiller)
+
+- [@guyreuveni](https://github.com/guyreuveni)
+
+- [@Nikilham](https://github.com/Nikilham)
+
+- [@Anoopjadhav](https://github.com/Anoopjadhav)
+
+- [@cfinical](https://github.com/cfinical)
+
+- [@santiholot](https://github.com/santiholot?tab=repositories)
+
+- [@guznoer](https://github.com/guznoer)
