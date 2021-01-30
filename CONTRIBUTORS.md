@@ -14,6 +14,8 @@
 
 - [@Jos02378](https://github.com/Jos02378)
 
+- [@sourcecontrol-exe](https://github.com/sourcecontrol-exe)
+
 - [@starique04](https://github.com/starique04)
 
 - [@Devtinator](https://github.com/Devtinator)
@@ -4679,3 +4681,8 @@
 - [@Anoopjadhav](https://github.com/Anoopjadhav)
 
 - [cfinical](https://github.com/cfinical)
+
+- [@santiholot](https://github.com/santiholot?tab=repositories)
+
+- [@guznoer](https://github.com/guznoer)
+
