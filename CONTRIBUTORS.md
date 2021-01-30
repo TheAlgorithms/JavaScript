@@ -1,6 +1,10 @@
 # CONTRIBUTORS
 
+- [@Anthony-Rose](https://github.com/Anthony-Rose)
+
 - [@AbhijeetSatpute](https://github.com/abhijeetsatpute)
+
+- [@ishansinghal9810](https://github.com/ishansinghal9810)
 
 - [@LinkinN](https://github.com/linkinn)
 
@@ -9,6 +13,8 @@
 - [@Gulshanaggarwal](https://github.com/Gulshanaggarwal)
 
 - [@Jos02378](https://github.com/Jos02378)
+
+- [@sourcecontrol-exe](https://github.com/sourcecontrol-exe)
 
 - [@starique04](https://github.com/starique04)
 
@@ -4476,9 +4482,9 @@
 
 - [@ThesllaDev](https://github.com/ThesllaDev)
 
-- [@AchrefMekni](https://github.com/Achref-Mekni)
-
 - [@shazzy152](https://github.com/shazzy152)
+
+- [@AchrefMekni](https://github.com/Achref-Mekni)
 
 - [@Oliverfk93916](https://github.com/Oliverfk93916)
 
@@ -4560,6 +4566,130 @@
 
 - [@adiphoorn](https://github.com/adiphoorn/)
 
+- [@clinzy25](https://github.com/clinzy25)
+
 - [@PiyushMathur231](https://github.com/PiyushMathur231)
+
+- [@soumya-ramteke](https://github.com/soumya-ramteke)
+
+- [@kzganesan](https://github.com/kzganesan)
+
+- [@ptreuden](https://github.com/ptreuden)
+
+- [@Herbo19](https://github.com/Herbo19/)
+
+- [@gextra1](https://github.com/gextra1)
+
+- [@ohisee](https://github.com/ohisee)
+
+- [@SefYellnikoff](https://github.com/SefYellnikoff)
+
+- [@Jordanhill90](https://github.com/Jordanhill90/)
+
+- [@papesaliouka](https://github.com/papesaliouka/)
+
+- [@bennychengws](https://github.com/bennychengws/)
+
+- [@RZidan](https://github.com/RZidan/)
+
+- [@CountRochester](https://github.com/CountRochester/)
+
+- [@epGameDev](https://github.com/epGameDev)
+
+- [@Pedro-Murilo](https://github.com/Pedro-Murilo)
+
+- [@Capi-ai](https://github.com/Capi-ai)
+
+- [@Radu-Stroe](https://github.com/Radu-Stroe)
+
+- [@muleyashutosh](https://github.com/muleyashutosh)
+
+- [@ayushkathpalia](https://github.com/ayushkathpalia)
+
+- [@shessafridi](https://github.com/shessafridi)
+
+- [@jdmiranda22](https://github.com/jdmiranda22)
+
+- [@Nazmul-dot](https://github.com/Nazmul-dot)
+
+- [@mdillemuth](https://github.com/mdillemuth/)
+
+- [@johnwick11111](https://github.com/johnwick11111/)
+
+- [@shanks-t](https://github.com/shanks-t/)
+
+- [@colejbodine](https://github.com/colejbodine/)
+
+- [@EncryptedAsimov](https://github.com/EncryptedAsimov)
+
+- [@rarefiction](https://github.com/rarefiction)
+
+- [@Sagar231](https://github.com/Sagar231/)
+
+- [@ahlgren1234](https://github.com/ahlgren1234/)
+
+- [@Yashaswini278](https://github.com/Yashaswini278/)
+
+- [@novasgit](https://github.com/novasgit/)
+
+- [@ADaouadji](https://github.com/ADaouadji)
+
+- [@katamaxx23](https://github.com/katamaxx23)
+
+- [@sarangagp9](https://github.com/sarangagp9)
+
+- [@gmfuster](https://github.com/gmfuster)
+
+- [@rbarts4](https://github.com/rbarts4)
+
+- [@gvenu984](https://github.com/gvenu984/)
+
+- [@JaeJun-Park](https://github.com/JaeJun-Park/)
+
+- [@CubricPrune01](https://github.com/CubricPrune01/)
+
+- [@Kasheefali](https://github.com/Kasheefali/)
+
+- [@japesc20](https://github.com/japesc20/)
+
+- [@mohammadalnajar](https://github.com/mohammadalnajar)
+
+- [@achiyahb](https://github.com/achiyahb)
+
+- [@amoore-dev](https://github.com/amoore-dev)
+
+- [@gerll](https://github.com/Gerll)
+
+- [@arihant47](https://github.com/arihant47/)
+
+- [@shayCamp](https://github.com/shayCamp)
+
+- [@trinidadamiel](https://github.com/trinidadamiel)
+
+- [@tabbathacrouch](https://github.com/tabbathacrouch)
+
+- [@ezatullah-hub](https://github.com/ezatullah-hub)
+
+- [@lucas1086](https://github.com/lucas1086)
+
+- [@web223dev](https://github.com/web223dev)
+
+- [@CoreyMMiller](https://github.com/CoreyMMiller)
+
+- [@guyreuveni](https://github.com/guyreuveni)
+
+- [@Nikilham](https://github.com/Nikilham)
+
+- [@Anoopjadhav](https://github.com/Anoopjadhav)
+
+- [@cfinical](https://github.com/cfinical)
+
+- [@santiholot](https://github.com/santiholot?tab=repositories)
+
+- [@RazMachlev](https://github.com/RazMachlev)
+
+- [@guznoer](https://github.com/guznoer)
+
+- [@Rishabh-Rawat192](https://github.com/Rishabh-Rawat192)
 
 - [@chelle05](https://github.com/chelle05)
