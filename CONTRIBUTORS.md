@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@sclie001](https://github.com/sclie001)
+
 - [@Anthony-Rose](https://github.com/Anthony-Rose)
 
 - [@AbhijeetSatpute](https://github.com/abhijeetsatpute)
@@ -4697,3 +4699,7 @@
 - [@saeedhashim](https://github.com/saeedhashim/)
 
 - [@shivesh-p](https://github.com/shivesh-p/)
+
+- [@eddie-codes](https://github.com/Eddie-codes/)
+
+- [@e4ma](https://github.com/E4ma/)
