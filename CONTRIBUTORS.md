@@ -4718,7 +4718,12 @@
 
 - [@satelerd](https://github.com/satelerd)
 
-- [@dfnino10](https://github.com/dfnino10)
-
 - [@bug-end](https://github.com/bug-end)
 
+- [@dorukozerr](https://github.com/dorukozerr)
+
+- [@DEALTALFA](https://github.com/DEALTALFA)
+
+- [@Bulardi](https://github.com/Bulardi)
+
+- [@dfnino10](https://github.com/dfnino10)
