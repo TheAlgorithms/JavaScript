@@ -4700,6 +4700,8 @@
 
 - [@shivesh-p](https://github.com/shivesh-p/)
 
+- [@jrdnc](https://github.com/jrdnc)
+
 - [@eddie-codes](https://github.com/Eddie-codes/)
 
 - [@e4ma](https://github.com/E4ma/)
