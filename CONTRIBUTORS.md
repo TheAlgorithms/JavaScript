@@ -4715,3 +4715,5 @@
 - [@zafergencz] (https://github.com/zafergencz)
 
 - [@PurpleCapacitor](https://github.com/PurpleCapacitor)
+
+- [@satelerd](https://github.com/satelerd)
