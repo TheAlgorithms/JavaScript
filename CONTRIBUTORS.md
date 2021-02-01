@@ -4700,8 +4700,46 @@
 
 - [@shivesh-p](https://github.com/shivesh-p/)
 
+- [@jrdnc](https://github.com/jrdnc)
+
 - [@eddie-codes](https://github.com/Eddie-codes/)
 
 - [@e4ma](https://github.com/E4ma/)
 
 - [@jameslusk](https://github.com/jameslusk/)
+
+- [@oana-cyber](https://github.com/oana-cyber/)
+
+- [@maharshi66](https://github.com/maharshi66)
+
+- [@yeshwanth585](https://github.com/yeshwanth585)
+
+- [@prakhar7792](https://github.com/prakhar7792)
+
+- [@zafergencz](https://github.com/zafergencz)
+
+- [@PurpleCapacitor](https://github.com/PurpleCapacitor)
+
+- [@satelerd](https://github.com/satelerd)
+
+- [@bug-end](https://github.com/bug-end)
+
+- [@dorukozerr](https://github.com/dorukozerr)
+
+- [@DEALTALFA](https://github.com/DEALTALFA)
+
+- [@Bulardi](https://github.com/Bulardi)
+
+- [@dfnino10](https://github.com/dfnino10)
+
+- [@Feyd-Dent](https://github.com/Feyd-Dent)
+
+- [@Mr-LazyProgrammer](https://github.com/Mr-LazyProgrammer)
+
+- [@AlexiaDelorme](https://github.com/AlexiaDelorme)
+
+- [@MuskanV2001](https://github.com/MuskanV2001)
+
+- [@zhao-peiyi](https://github.com/zhao-peiyi)
+
+- [@matuzaite](https://github.com/matuzaite)
