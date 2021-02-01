@@ -4706,13 +4706,17 @@
 
 - [@e4ma](https://github.com/E4ma/)
 
+- [@jameslusk](https://github.com/jameslusk/)
+
+- [@oana-cyber](https://github.com/oana-cyber/)
+
 - [@maharshi66](https://github.com/maharshi66)
 
-- [@yeshwanth585] (https://github.com/yeshwanth585)
+- [@yeshwanth585](https://github.com/yeshwanth585)
 
-- [@prakhar7792] (https://github.com/prakhar7792)
+- [@prakhar7792](https://github.com/prakhar7792)
 
-- [@zafergencz] (https://github.com/zafergencz)
+- [@zafergencz](https://github.com/zafergencz)
 
 - [@PurpleCapacitor](https://github.com/PurpleCapacitor)
 
@@ -4733,3 +4737,9 @@
 - [@Mr-LazyProgrammer](https://github.com/Mr-LazyProgrammer)
 
 - [@AlexiaDelorme](https://github.com/AlexiaDelorme)
+
+- [@MuskanV2001](https://github.com/MuskanV2001)
+
+- [@zhao-peiyi](https://github.com/zhao-peiyi)
+
+- [@matuzaite](https://github.com/matuzaite)
