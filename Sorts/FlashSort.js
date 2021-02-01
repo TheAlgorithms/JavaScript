@@ -1,8 +1,8 @@
 /**
- * Flashsort is a distribution sorting algorithm showing linear 
+ * Flashsort is a distribution sorting algorithm showing linear
  * computational complexity O(n) for uniformly distributed
  * data sets and relatively little additional memory requirement.
- * 
+ *
  * Wikipedia: https://en.wikipedia.org/wiki/Flashsort
  */
 
