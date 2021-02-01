@@ -4715,3 +4715,19 @@
 - [@zafergencz] (https://github.com/zafergencz)
 
 - [@PurpleCapacitor](https://github.com/PurpleCapacitor)
+
+- [@satelerd](https://github.com/satelerd)
+
+- [@bug-end](https://github.com/bug-end)
+
+- [@dorukozerr](https://github.com/dorukozerr)
+
+- [@DEALTALFA](https://github.com/DEALTALFA)
+
+- [@Bulardi](https://github.com/Bulardi)
+
+- [@dfnino10](https://github.com/dfnino10)
+
+- [@Feyd-Dent](https://github.com/Feyd-Dent)
+
+- [@Mr-LazyProgrammer](https://github.com/Mr-LazyProgrammer)
