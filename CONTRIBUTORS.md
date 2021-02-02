@@ -4754,3 +4754,5 @@
 - [@Sanjaya1996](https://github.com/sanjaya1996)
 
 - [@Sambit-Behura](https://sambit-behura.github.io/literate-eureka/)
+
+- [@devarie](https://github.com/devarie/)
