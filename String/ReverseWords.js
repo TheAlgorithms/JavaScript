@@ -1,4 +1,23 @@
+/*
+*  Doctests
+*
+* > reverseWords('I Love JS')
+*  'JS Love I'
+* > reverseWords('Hello World')
+*  'World Hello'
+* > reverseWords('The Algorithms Javascript')
+*  'Javascript Algorithms The'
+* > reverseWords([])
+*  ! TypeError
+* > reverseWords({})
+*  ! TypeError
+* > reverseWords(null)
+*  ! TypeError
+*/
 const reverseWords = (str) => {
+  if (typeof str !== 'string') {
+    throw new TypeError('The given value is not a string')
+  }
   // Split string into words
   // Ex. "I Love JS" => ["I", "Love", "JS"]
   const words = str.split(' ')
@@ -10,6 +29,4 @@ const reverseWords = (str) => {
   return reversedWords.join(' ')
 }
 
-// testing
-console.log(reverseWords('I Love JS'))
-console.log(reverseWords('My Name Is JavaScript'))
+export { reverseWords }

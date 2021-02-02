@@ -1,10 +1,12 @@
-/*
-Wikipedia says: Cycle sort is an in-place, unstable sorting algorithm,
-a comparison sort that is theoretically optimal in terms of the total
-number of writes to the original array, unlike any other in-place sorting
-algorithm. It is based on the idea that the permutation to be sorted can
-be factored into cycles, which can individually be rotated to give a sorted result.
-*/
+/**
+ * Cycle sort is an in-place, unstable sorting algorithm,
+ * a comparison sort that is theoretically optimal in terms of the total
+ * number of writes to the original array, unlike any other in-place sorting
+ * algorithm. It is based on the idea that the permutation to be sorted can
+ * be factored into cycles, which can individually be rotated to give a sorted result.
+ *
+ * Wikipedia: https://en.wikipedia.org/wiki/Cycle_sort
+ */
 
 function cycleSort (list) {
   let writes = 0
@@ -51,9 +53,15 @@ function cycleSort (list) {
   }
   return writes
 }
-const arrOrignal = [5, 6, 7, 8, 1, 2, 12, 14]
-// Array before Sort
-console.log(arrOrignal)
-cycleSort(arrOrignal)
-// Array after sort
-console.log(arrOrignal)
+
+/**
+* Implementation of Cycle Sort
+*/
+const array = [5, 6, 7, 8, 1, 2, 12, 14]
+// Before Sort
+console.log('\n- Before Sort | Implementation of Cycle Sort -')
+console.log(array)
+// After Sort
+console.log('- After Sort | Implementation of Cycle Sort -')
+console.log(cycleSort(array))
+console.log('\n')

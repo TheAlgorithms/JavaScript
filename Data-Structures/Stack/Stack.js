@@ -30,7 +30,7 @@ var Stack = (function () {
 
     this.top--
     var result = this.stack[this.top]
-    delete this.stack[this.top]
+    this.stack = this.stack.splice(0, this.top)
     return result
   }
 

@@ -8,6 +8,7 @@
 ![](https://img.shields.io/github/repo-size/TheAlgorithms/Javascript.svg?label=Repo%20size&style=flat-square)&nbsp;
 
 ### All algorithms implemented in JavaScript (for educational purposes only)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/TheAlgorithms/Javascript)&nbsp;
 
 These are for demonstration purposes only. There are many implementations of sorts in the JavaScript standard library that are much better for performance reasons.
 

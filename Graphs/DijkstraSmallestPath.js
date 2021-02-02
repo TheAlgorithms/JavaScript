@@ -1,23 +1,23 @@
 // starting at s
 function solve (graph, s) {
-  var solutions = {}
+  const solutions = {}
   solutions[s] = []
   solutions[s].dist = 0
 
   while (true) {
-    var p = null
-    var neighbor = null
-    var dist = Infinity
+    let p = null
+    let neighbor = null
+    let dist = Infinity
 
-    for (var n in solutions) {
+    for (const n in solutions) {
       if (!solutions[n]) { continue }
-      var ndist = solutions[n].dist
-      var adj = graph[n]
+      const ndist = solutions[n].dist
+      const adj = graph[n]
 
-      for (var a in adj) {
+      for (const a in adj) {
         if (solutions[a]) { continue }
 
-        var d = adj[a] + ndist
+        const d = adj[a] + ndist
         if (d < dist) {
           p = solutions[n]
           neighbor = a
@@ -40,9 +40,9 @@ function solve (graph, s) {
   return solutions
 }
 // create graph
-var graph = {}
+const graph = {}
 
-var layout = {
+const layout = {
   R: ['2'],
   2: ['3', '4'],
   3: ['4', '6', '13'],
@@ -61,7 +61,7 @@ var layout = {
 }
 
 // convert uni-directional to bi-directional graph
-// var graph = {
+// let  graph = {
 //     a: {e:1, b:1, g:3},
 //     b: {a:1, c:1},
 //     c: {b:1, d:1},
@@ -72,7 +72,7 @@ var layout = {
 //     h: {f:1}
 // };
 
-for (var id in layout) {
+for (const id in layout) {
   if (!graph[id]) { graph[id] = {} }
   layout[id].forEach(function (aid) {
     graph[id][aid] = 1
@@ -82,13 +82,13 @@ for (var id in layout) {
 }
 
 // choose start node
-var start = '10'
+const start = '10'
 // get all solutions
-var solutions = solve(graph, start)
+const solutions = solve(graph, start)
 
 console.log("From '" + start + "' to")
 // display solutions
-for (var s in solutions) {
+for (const s in solutions) {
   if (!solutions[s]) continue
   console.log(' -> ' + s + ': [' + solutions[s].join(', ') + ']   (dist:' + solutions[s].dist + ')')
 }
