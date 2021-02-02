@@ -8,4 +8,4 @@ function density (numberOfNodes, numberOfEdges, isDirected = false) {
   return (multi * numberOfEdges) / (numberOfNodes * (numberOfNodes - 1))
 }
 
-(() => { console.log(density(10, 2)) })()
+console.log(density(10, 2))
