@@ -4748,3 +4748,9 @@
 
 - [@MtikeG](https://github.com/MtikeG)
 - [@UmmarHassan96](https://github.com/UmmarHassan96)
+
+- [@mariusmoldovan2100](https://github.com/mariusmoldovan2100)
+
+- [@Sanjaya1996](https://github.com/sanjaya1996)
+
+- [@Sambit-Behura](https://sambit-behura.github.io/literate-eureka/)
