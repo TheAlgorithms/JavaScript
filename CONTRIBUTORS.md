@@ -4222,12 +4222,7 @@
 
 - [@sohak22](https://github.com/sohak22)
 
-
-- [@anishnair95](https://github.com/anishnair95)
-
 - [@mual5746](https://github.com/mual5746)
-
-- [@AshishW](https://github.com/AshishW)
 
 - [@juansoto87](https://github.com/juansoto87/)
 
@@ -4713,6 +4708,80 @@
 
 - [@e4ma](https://github.com/E4ma/)
 
+- [@jameslusk](https://github.com/jameslusk/)
+
+- [@oana-cyber](https://github.com/oana-cyber/)
+
 - [@maharshi66](https://github.com/maharshi66)
 
-- [@yeshwanth585] (https://github.com/yeshwanth585)
+- [@yeshwanth585](https://github.com/yeshwanth585)
+
+- [@prakhar7792](https://github.com/prakhar7792)
+
+- [@zafergencz](https://github.com/zafergencz)
+
+- [@PurpleCapacitor](https://github.com/PurpleCapacitor)
+
+- [@satelerd](https://github.com/satelerd)
+
+- [@bug-end](https://github.com/bug-end)
+
+- [@dorukozerr](https://github.com/dorukozerr)
+
+- [@DEALTALFA](https://github.com/DEALTALFA)
+
+- [@Bulardi](https://github.com/Bulardi)
+
+- [@dfnino10](https://github.com/dfnino10)
+
+- [@Feyd-Dent](https://github.com/Feyd-Dent)
+
+- [@Mr-LazyProgrammer](https://github.com/Mr-LazyProgrammer)
+
+- [@AlexiaDelorme](https://github.com/AlexiaDelorme)
+
+- [@MuskanV2001](https://github.com/MuskanV2001)
+
+- [@zhao-peiyi](https://github.com/zhao-peiyi)
+
+- [@matuzaite](https://github.com/matuzaite)
+
+- [@ronyAhmed1200](https://github.com/ronyAhmed1200)
+
+- [@MtikeG](https://github.com/MtikeG)
+
+- [@UmmarHassan96](https://github.com/UmmarHassan96)
+
+- [@mariusmoldovan2100](https://github.com/mariusmoldovan2100)
+
+- [@Sanjaya1996](https://github.com/sanjaya1996)
+
+- [@Sambit-Behura](https://sambit-behura.github.io/literate-eureka/)
+
+- [@devarie](https://github.com/devarie/)
+
+- [@ronsamgeorge](https://github.com/ronsamgeorge/)
+
+- [@shaunak09vb](https://github.com/shaunak09vb)
+
+- [@paulkang8869](https://github.com/paulkang8869)
+
+- [@jusliu9547](https://github.com/jusliu9547)
+
+- [@Shwetabh2017](https://github.com/Shwetabh2017)
+
+- [@Nasic-badar](https://github.com/Nassic-badar)
+
+- [@tippi-fifestarr](https://github.com/tippi-fifestarr)
+
+- [@seamusbeecher](https://github.com/seamusbeecher)
+
+- [@hekla00](https://github.com/hekla00)
+
+- [@johnleosamante](https://github.com/johnleosamante)
+
+- [@Akindejoye](https://github.com/Akindejoye)
+
+- [@Mayumayumau](https://github.com/Mayumayumau)
+
+- [@rvidor](https://github.com/rvidor)
