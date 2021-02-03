@@ -1,4 +1,5 @@
 # CONTRIBUTORS
+- [@Bekarion](https://github.com/beqarion)
 
 - [@sclie001](https://github.com/sclie001)
 
