@@ -4789,4 +4789,11 @@
 - [@rvidor](https://github.com/rvidor)
 
 - [@thalesnishida](https://github.com/thalesnishida)
+
 -[@olusanyaconcepts](https://github.com/olusanyaconcepts/)
+
+- [@tomas-klecl](https://github.com/tomas-klecl)
+
+- [@Danidol](https://github.com/Danidol)
+
+- [@JonasAX](https://github.com/JonasAX)
