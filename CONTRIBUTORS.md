@@ -4787,3 +4787,5 @@
 - [@Mayumayumau](https://github.com/Mayumayumau)
 
 - [@rvidor](https://github.com/rvidor)
+
+- [@thalesnishida](https://github.com/thalesnishida)
