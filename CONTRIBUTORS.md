@@ -1,10 +1,13 @@
 # CONTRIBUTORS
+- [@Bekarion](https://github.com/beqarion)
 
 - [@sclie001](https://github.com/sclie001)
 
 - [@Anthony-Rose](https://github.com/Anthony-Rose)
 
 - [@AbhijeetSatpute](https://github.com/abhijeetsatpute)
+
+- [@joaquiera](https://github.com/joaquiera)
 
 - [@ishansinghal9810](https://github.com/ishansinghal9810)
 
@@ -4790,10 +4793,18 @@
 
 - [@thalesnishida](https://github.com/thalesnishida)
 
--[@olusanyaconcepts](https://github.com/olusanyaconcepts/)
+- [@olusanyaconcepts](https://github.com/olusanyaconcepts/)
 
 - [@tomas-klecl](https://github.com/tomas-klecl)
 
 - [@Danidol](https://github.com/Danidol)
 
 - [@JonasAX](https://github.com/JonasAX)
+
+- [@PaulKang](https://github.com/paulkang8869)
+
+- [@benji5656](https://github.com/Benji5656)
+
+- [@tonyf8321](https://github.com/tonyf8321)
+
+- [@Hekmundo](https://github.com/Hekmundo)
