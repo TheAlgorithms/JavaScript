@@ -4770,3 +4770,9 @@
 - [@Nasic-badar](https://github.com/Nassic-badar)
 
 - [@tippi-fifestarr](https://github.com/tippi-fifestarr)
+
+- [@seamusbeecher](https://github.com/seamusbeecher)
+
+- [@hekla00](https://github.com/hekla00)
+
+- [@johnleosamante](https://github.com/johnleosamante)
