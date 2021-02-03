@@ -4774,3 +4774,5 @@
 - [@seamusbeecher](https://github.com/seamusbeecher)
 
 - [@hekla00](https://github.com/hekla00)
+
+- [@johnleosamante](https://github.com/johnleosamante)
