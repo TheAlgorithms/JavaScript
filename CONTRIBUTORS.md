@@ -4222,6 +4222,8 @@
 
 - [@sohak22](https://github.com/sohak22)
 
+- [@mual5746](https://github.com/mual5746)
+
 - [@juansoto87](https://github.com/juansoto87/)
 
 - [@anhnt160190](https://github.com/anhnt160190)
@@ -4722,6 +4724,8 @@
 
 - [@satelerd](https://github.com/satelerd)
 
+- [@bocolo](https://github.com/Bocolo)
+
 - [@bug-end](https://github.com/bug-end)
 
 - [@dorukozerr](https://github.com/dorukozerr)
@@ -4747,6 +4751,7 @@
 - [@ronyAhmed1200](https://github.com/ronyAhmed1200)
 
 - [@MtikeG](https://github.com/MtikeG)
+
 - [@UmmarHassan96](https://github.com/UmmarHassan96)
 
 - [@mariusmoldovan2100](https://github.com/mariusmoldovan2100)
@@ -4776,3 +4781,9 @@
 - [@hekla00](https://github.com/hekla00)
 
 - [@johnleosamante](https://github.com/johnleosamante)
+
+- [@Akindejoye](https://github.com/Akindejoye)
+
+- [@Mayumayumau](https://github.com/Mayumayumau)
+
+- [@rvidor](https://github.com/rvidor)
