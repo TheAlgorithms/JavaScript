@@ -6,6 +6,8 @@
 
 - [@AbhijeetSatpute](https://github.com/abhijeetsatpute)
 
+- [@joaquiera](https://github.com/joaquiera)
+
 - [@ishansinghal9810](https://github.com/ishansinghal9810)
 
 - [@LinkinN](https://github.com/linkinn)
