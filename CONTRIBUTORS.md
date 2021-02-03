@@ -4778,3 +4778,5 @@
 - [@johnleosamante](https://github.com/johnleosamante)
 - [@Akindejoye](https://github.com/Akindejoye)
 - [@Mayumayumau](https://github.com/Mayumayumau)
+
+-[@rvidor](https://github.com/rvidor)
