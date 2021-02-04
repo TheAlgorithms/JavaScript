@@ -1,4 +1,5 @@
 # CONTRIBUTORS
+
 - [@Bekarion](https://github.com/beqarion)
 
 - [@sclie001](https://github.com/sclie001)
@@ -4818,3 +4819,5 @@
 - [@a-badoni](https://github.com/a-badoni/)
 
 - [@GuyTdev](https://github.com/GuyTdev/)
+
+- [@Didbar](https://github.com/Didbar/)
