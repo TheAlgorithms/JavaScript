@@ -18,6 +18,7 @@
   * [XORCipher](https://github.com/TheAlgorithms/Javascript/blob/master/Ciphers/XORCipher.js)
 
 ## Conversions
+  * [ArbitraryBase](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/ArbitraryBase.js)
   * [BinaryToDecimal](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/BinaryToDecimal.js)
   * [DecimalToBinary](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/DecimalToBinary.js)
   * [DecimalToHex](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/DecimalToHex.js)
