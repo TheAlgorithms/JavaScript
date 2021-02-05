@@ -11,9 +11,9 @@
 const gcdOfTwoNumbers = (x, y) => {
   // x is smaller than y
   // let gcd of x and y is gcdXY
-  // so it devides x and y completely
-  // so gcdXY should also devides y%x (y = gcdXY*a and x = gcdXY*b and y%x = y - x*k so y%x = gcdXY(a - b*k))
-  // and gcd(x,y) is equals to gcd(y%x , x)
+  // so it divides x and y completely
+  // so gcdXY should also divide y%x (y = gcdXY*a and x = gcdXY*b and y%x = y - x*k so y%x = gcdXY(a - b*k))
+  // and gcd(x,y) is equal to gcd(y%x , x)
   return x === 0 ? y : gcdOfTwoNumbers(y % x, x)
 }
 
