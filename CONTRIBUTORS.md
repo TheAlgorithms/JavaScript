@@ -4823,5 +4823,15 @@
 
 - [@Adnanrobi](https://github.com/Adnanrobi/) 
 
-- [@HarrisMBrad] (https://github.com/HarrisMBrad/)
+- [@HarrisMBrad](https://github.com/HarrisMBrad/)
 
+- [@Sargsian](https://github.com/Sargsian)
+
+- [@StoodMag] (https://github.com/StoodMag/)
+
+- [@LEO0331](https://github.com/LEO0331/)
+- [@Shrikantpatil2197](https://github.com/Shrikantpatil2197)
+
+- [@wodwine](https://github.com/wodwine)
+
+- [@bobbywilliamskgh](https://github.com/bobbywilliamskgh/)
