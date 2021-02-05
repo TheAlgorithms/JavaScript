@@ -1,4 +1,5 @@
 # CONTRIBUTORS
+
 - [@Bekarion](https://github.com/beqarion)
 
 - [@sclie001](https://github.com/sclie001)
@@ -4821,13 +4822,13 @@
 
 - [@Abhishek-555](https://github.com/Abhishek-555)
 
-- [@Adnanrobi](https://github.com/Adnanrobi/) 
+- [@Adnanrobi](https://github.com/Adnanrobi/)
 
 - [@HarrisMBrad](https://github.com/HarrisMBrad/)
 
 - [@Sargsian](https://github.com/Sargsian)
 
-- [@StoodMag] (https://github.com/StoodMag/)
+- [@StoodMag](https://github.com/StoodMag/)
 
 - [@LEO0331](https://github.com/LEO0331/)
 - [@Shrikantpatil2197](https://github.com/Shrikantpatil2197)
@@ -4836,8 +4837,10 @@
 
 - [@bobbywilliamskgh](https://github.com/bobbywilliamskgh/)
 
--[@CapitaineAllaire](https://github.com/CapitaineAllaire/)
+- [@CapitaineAllaire](https://github.com/CapitaineAllaire/)
 
--[@NWilde4](https://github.com/NWilde4)
+- [@NWilde4](https://github.com/NWilde4)
 
--[@ShashankDharpure](https://github.com/ShashankDharpure)
+- [@ShashankDharpure](https://github.com/ShashankDharpure)
+
+- [@lfidelino](https://github.com/lfidelino)
