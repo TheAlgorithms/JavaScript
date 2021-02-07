@@ -1,10 +1,15 @@
 # CONTRIBUTORS
+- [@Sivakar](https://github.com/sivakar94)
+
+- [@Bekarion](https://github.com/beqarion)
 
 - [@sclie001](https://github.com/sclie001)
 
 - [@Anthony-Rose](https://github.com/Anthony-Rose)
 
 - [@AbhijeetSatpute](https://github.com/abhijeetsatpute)
+
+- [@joaquiera](https://github.com/joaquiera)
 
 - [@ishansinghal9810](https://github.com/ishansinghal9810)
 
@@ -4222,6 +4227,8 @@
 
 - [@sohak22](https://github.com/sohak22)
 
+- [@mual5746](https://github.com/mual5746)
+
 - [@juansoto87](https://github.com/juansoto87/)
 
 - [@anhnt160190](https://github.com/anhnt160190)
@@ -4722,6 +4729,8 @@
 
 - [@satelerd](https://github.com/satelerd)
 
+- [@bocolo](https://github.com/Bocolo)
+
 - [@bug-end](https://github.com/bug-end)
 
 - [@dorukozerr](https://github.com/dorukozerr)
@@ -4751,3 +4760,106 @@
 - [@UmmarHassan96](https://github.com/UmmarHassan96)
 
 - [@Harshil-Gupta](https://github.com/Harshil-Gupta)
+
+- [@TeetSimson](https://github.com/TeetSimson)
+
+- [@mariusmoldovan2100](https://github.com/mariusmoldovan2100)
+
+- [@Sanjaya1996](https://github.com/sanjaya1996)
+
+- [@Sambit-Behura](https://sambit-behura.github.io/literate-eureka/)
+
+- [@devarie](https://github.com/devarie/)
+
+- [@ronsamgeorge](https://github.com/ronsamgeorge/)
+
+- [@shaunak09vb](https://github.com/shaunak09vb)
+
+- [@paulkang8869](https://github.com/paulkang8869)
+
+- [@jusliu9547](https://github.com/jusliu9547)
+
+- [@Shwetabh2017](https://github.com/Shwetabh2017)
+
+- [@Nasic-badar](https://github.com/Nassic-badar)
+
+- [@tippi-fifestarr](https://github.com/tippi-fifestarr)
+
+- [@seamusbeecher](https://github.com/seamusbeecher)
+
+- [@hekla00](https://github.com/hekla00)
+
+- [@johnleosamante](https://github.com/johnleosamante)
+
+- [@Akindejoye](https://github.com/Akindejoye)
+
+- [@Mayumayumau](https://github.com/Mayumayumau)
+
+- [@rvidor](https://github.com/rvidor)
+
+- [@thalesnishida](https://github.com/thalesnishida)
+
+- [@olusanyaconcepts](https://github.com/olusanyaconcepts/)
+
+- [@tomas-klecl](https://github.com/tomas-klecl)
+
+- [@Danidol](https://github.com/Danidol)
+
+- [@JonasAX](https://github.com/JonasAX)
+
+- [@PaulKang](https://github.com/paulkang8869)
+
+- [@benji5656](https://github.com/Benji5656)
+
+- [@tonyf8321](https://github.com/tonyf8321)
+
+- [@Hekmundo](https://github.com/Hekmundo)
+
+- [@mikiyashussen](https://github.com/mikiyashussen/)
+
+- [@skmamman](https://github.com/skmamman/)
+
+- [@songiso](https://github.com/songiso/)
+
+- [@a-badoni](https://github.com/a-badoni/)
+
+- [@GuyTdev](https://github.com/GuyTdev/)
+
+- [@Abhishek-555](https://github.com/Abhishek-555)
+
+- [@Adnanrobi](https://github.com/Adnanrobi/) 
+
+- [@HarrisMBrad](https://github.com/HarrisMBrad/)
+
+- [@Sargsian](https://github.com/Sargsian)
+
+- [@StoodMag] (https://github.com/StoodMag/)
+
+- [@LEO0331](https://github.com/LEO0331/)
+- [@Shrikantpatil2197](https://github.com/Shrikantpatil2197)
+
+- [@wodwine](https://github.com/wodwine)
+
+- [@bobbywilliamskgh](https://github.com/bobbywilliamskgh/)
+
+-[@CapitaineAllaire](https://github.com/CapitaineAllaire/)
+
+-[@NWilde4](https://github.com/NWilde4)
+
+-[@ShashankDharpure](https://github.com/ShashankDharpure)
+
+-[@HMSAlHilal](https://github.com/HMSAlHilal)
+
+- [@justin-rim](https://github.com/justin-rim)
+
+- [@dingdingLee](https://github.com/dingdingLee) 
+
+- [@RobertoSaback](https://github.com/RobertoSaback) 
+
+- [@Michaelchen753](https://github.com/Michaelchen753) 
+
+-[@noraliptai](https://github.com/noraliptai/)
+
+-[@SREEHARI-M-S](https://github.com/SREEHARI-M-S/)
+
+-[@jonprather](https://github.com/jonprather)
