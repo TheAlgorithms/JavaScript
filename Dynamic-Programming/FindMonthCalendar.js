@@ -57,7 +57,16 @@ class Month {
   }
 
   isGreater (startDate, endDate) {
-    if (startDate.year > endDate.year) { return true } else if (startDate.year < endDate.year) { return false } else if (startDate.month > endDate.month) { return true } else if (startDate.month < endDate.month) { return false } else return true
+    if (startDate.year > endDate.year) {
+      return true
+    } else if (startDate.year < endDate.year) {
+      return false
+    } else if (startDate.month > endDate.month) {
+      return true
+    } else if (startDate.month < endDate.month) {
+      return false
+    }
+    return true
   }
 
   getDayDiff (startDate, endDate) {
