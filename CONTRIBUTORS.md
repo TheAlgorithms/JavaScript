@@ -1,4 +1,5 @@
 # CONTRIBUTORS
+
 - [@Sivakar](https://github.com/sivakar94)
 
 - [@Bekarion](https://github.com/beqarion)
@@ -4759,6 +4760,10 @@
 
 - [@UmmarHassan96](https://github.com/UmmarHassan96)
 
+- [@Harshil-Gupta](https://github.com/Harshil-Gupta)
+
+- [@TeetSimson](https://github.com/TeetSimson)
+
 - [@mariusmoldovan2100](https://github.com/mariusmoldovan2100)
 
 - [@Sanjaya1996](https://github.com/sanjaya1996)
@@ -4778,6 +4783,8 @@
 - [@Shwetabh2017](https://github.com/Shwetabh2017)
 
 - [@Nasic-badar](https://github.com/Nassic-badar)
+
+- [@gitskilled](https://github.com/gitskilled)
 
 - [@tippi-fifestarr](https://github.com/tippi-fifestarr)
 
@@ -4821,6 +4828,10 @@
 
 - [@GuyTdev](https://github.com/GuyTdev/)
 
+- [@Syed-Farzaan](https://github.com/Syed-Farzaan/)
+
+- [@Didbar](https://github.com/Didbar/)
+
 - [@Abhishek-555](https://github.com/Abhishek-555)
 
 - [@Adnanrobi](https://github.com/Adnanrobi/) 
@@ -4829,22 +4840,23 @@
 
 - [@Sargsian](https://github.com/Sargsian)
 
-- [@StoodMag] (https://github.com/StoodMag/)
+- [@StoodMag](https://github.com/StoodMag/)
 
 - [@LEO0331](https://github.com/LEO0331/)
+
 - [@Shrikantpatil2197](https://github.com/Shrikantpatil2197)
 
 - [@wodwine](https://github.com/wodwine)
 
 - [@bobbywilliamskgh](https://github.com/bobbywilliamskgh/)
 
--[@CapitaineAllaire](https://github.com/CapitaineAllaire/)
+- [@CapitaineAllaire](https://github.com/CapitaineAllaire/)
 
--[@NWilde4](https://github.com/NWilde4)
+- [@NWilde4](https://github.com/NWilde4)
 
--[@ShashankDharpure](https://github.com/ShashankDharpure)
+- [@ShashankDharpure](https://github.com/ShashankDharpure)
 
--[@HMSAlHilal](https://github.com/HMSAlHilal)
+- [@HMSAlHilal](https://github.com/HMSAlHilal)
 
 - [@justin-rim](https://github.com/justin-rim)
 
@@ -4854,8 +4866,12 @@
 
 - [@Michaelchen753](https://github.com/Michaelchen753) 
 
--[@noraliptai](https://github.com/noraliptai/)
+- [@noraliptai](https://github.com/noraliptai/)
 
--[@SREEHARI-M-S](https://github.com/SREEHARI-M-S/)
+- [@SREEHARI-M-S](https://github.com/SREEHARI-M-S/)
 
--[@jonprather](https://github.com/jonprather)
+- [@jonprather](https://github.com/jonprather)
+
+- [@utkarsh2020](https://github.com/utkarsh2020)
+
+- [@madhur89](https://github.com/madhur89)
