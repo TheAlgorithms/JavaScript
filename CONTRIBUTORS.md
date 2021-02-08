@@ -1,4 +1,5 @@
 # CONTRIBUTORS
+- [@eudinson](https://github.com/Eudinson) "Hello World"
 
 - [@Sivakar](https://github.com/sivakar94)
 
