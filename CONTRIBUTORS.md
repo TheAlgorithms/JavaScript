@@ -1,4 +1,5 @@
 # CONTRIBUTORS
+- [@eudinson](https://github.com/Eudinson) "Hello I'm on the top of the World"
 
 - [@Sivakar](https://github.com/sivakar94)
 
@@ -4881,3 +4882,9 @@
 - [@Szo89](https://github.com/Szo89/)
 
 - [@ponjae](https://github.com/ponjae)
+
+- [@eudinson](https://github.com/Eudinson)
+
+- [@EpicRowan](https://github.com/EpicRowan)
+
+- [@Vikas0004](https://github.com/Vikas0004)
