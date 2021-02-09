@@ -1,4 +1,5 @@
 # CONTRIBUTORS
+
 - [@eudinson](https://github.com/Eudinson) "Hello I'm on the top of the World"
 
 - [@Sivakar](https://github.com/sivakar94)
@@ -582,6 +583,8 @@
 - [@KanchanaKumari202](https://github.com/KanchanaKumari202)
 
 - [@Karanveer-singh671](https://github.com/Karanveer-singh671)
+
+- [@Karthik-Nayak98](https://github.com/Karthik-Nayak98)
 
 - [@Kaushal-Dhungel](https://github.com/Kaushal-Dhungel)
 
@@ -4835,7 +4838,7 @@
 
 - [@Abhishek-555](https://github.com/Abhishek-555)
 
-- [@Adnanrobi](https://github.com/Adnanrobi/) 
+- [@Adnanrobi](https://github.com/Adnanrobi/)
 
 - [@HarrisMBrad](https://github.com/HarrisMBrad/)
 
@@ -4861,11 +4864,11 @@
 
 - [@justin-rim](https://github.com/justin-rim)
 
-- [@dingdingLee](https://github.com/dingdingLee) 
+- [@dingdingLee](https://github.com/dingdingLee)
 
-- [@RobertoSaback](https://github.com/RobertoSaback) 
+- [@RobertoSaback](https://github.com/RobertoSaback)
 
-- [@Michaelchen753](https://github.com/Michaelchen753) 
+- [@Michaelchen753](https://github.com/Michaelchen753)
 
 - [@noraliptai](https://github.com/noraliptai/)
 
