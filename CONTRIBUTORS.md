@@ -1,5 +1,6 @@
 # CONTRIBUTORS
-- [@eudinson](https://github.com/Eudinson) "Hello I'm on the top of the World"
+
+- [@eudinson](https://github.com/Eudinson)
 
 - [@Sivakar](https://github.com/sivakar94)
 
@@ -4835,7 +4836,7 @@
 
 - [@Abhishek-555](https://github.com/Abhishek-555)
 
-- [@Adnanrobi](https://github.com/Adnanrobi/) 
+- [@Adnanrobi](https://github.com/Adnanrobi/)
 
 - [@HarrisMBrad](https://github.com/HarrisMBrad/)
 
@@ -4847,6 +4848,8 @@
 
 - [@Shrikantpatil2197](https://github.com/Shrikantpatil2197)
 
+- [@rawatdev](https://github.com/rawatdev/)
+
 - [@wodwine](https://github.com/wodwine)
 
 - [@bobbywilliamskgh](https://github.com/bobbywilliamskgh/)
@@ -4857,15 +4860,17 @@
 
 - [@ShashankDharpure](https://github.com/ShashankDharpure)
 
+- [@lfidelino](https://github.com/lfidelino)
+
 - [@HMSAlHilal](https://github.com/HMSAlHilal)
 
 - [@justin-rim](https://github.com/justin-rim)
 
-- [@dingdingLee](https://github.com/dingdingLee) 
+- [@dingdingLee](https://github.com/dingdingLee)
 
-- [@RobertoSaback](https://github.com/RobertoSaback) 
+- [@RobertoSaback](https://github.com/RobertoSaback)
 
-- [@Michaelchen753](https://github.com/Michaelchen753) 
+- [@Michaelchen753](https://github.com/Michaelchen753)
 
 - [@noraliptai](https://github.com/noraliptai/)
 
@@ -4883,8 +4888,36 @@
 
 - [@ponjae](https://github.com/ponjae)
 
-- [@eudinson](https://github.com/Eudinson)
+- [@EpicRowan](https://github.com/EpicRowan)
+
+- [@Vikas0004](https://github.com/Vikas0004)
+
+- [@jahangir86](https://github.com/jahangir86)
+
+- [@mariyajames96](https://github.com/mariyajames96)
+
+- [@gargk747](https://github.com/gargk747)
+
+- [@Venkatesh-09](https://github.com/venkatesh-09)
+
+- [@Psatlawa](https://github.com/Psatlawa)
+
+- [@AmithSinghk](https://github.com/AmithSinghk)
+
+- [@aboveTheWaves22](https://github.com/aboveTheWaves22)
+
+- [@linjennifer960](https://github.com/linjennifer960)
+
+- [@MK98-809](https://github.com/MK98-809/)
+
+- [@RusssianMusketeer](https://github.com/RusssianMusketeer)
+
+- [@francinelodya](https://github.com/francinelodya)
+
+-[@scriptjsname](https://github.com/scriptjsname/)
 
 - [@EpicRowan](https://github.com/EpicRowan)
 
-- [@olga1598](https://github.com/olga1598)
+- [@sangpotado](https://github.com/sangpotado/)
+
+- [@olga1598](https://github.com/olga1598/)
