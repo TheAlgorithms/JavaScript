@@ -1,5 +1,9 @@
 # CONTRIBUTORS
 
+- [@eudinson](https://github.com/Eudinson)
+
+- [@Sivakar](https://github.com/sivakar94)
+
 - [@Bekarion](https://github.com/beqarion)
 
 - [@sclie001](https://github.com/sclie001)
@@ -4758,6 +4762,10 @@
 
 - [@UmmarHassan96](https://github.com/UmmarHassan96)
 
+- [@Harshil-Gupta](https://github.com/Harshil-Gupta)
+
+- [@TeetSimson](https://github.com/TeetSimson)
+
 - [@mariusmoldovan2100](https://github.com/mariusmoldovan2100)
 
 - [@Sanjaya1996](https://github.com/sanjaya1996)
@@ -4777,6 +4785,8 @@
 - [@Shwetabh2017](https://github.com/Shwetabh2017)
 
 - [@Nasic-badar](https://github.com/Nassic-badar)
+
+- [@gitskilled](https://github.com/gitskilled)
 
 - [@tippi-fifestarr](https://github.com/tippi-fifestarr)
 
@@ -4820,6 +4830,10 @@
 
 - [@GuyTdev](https://github.com/GuyTdev/)
 
+- [@Syed-Farzaan](https://github.com/Syed-Farzaan/)
+
+- [@Didbar](https://github.com/Didbar/)
+
 - [@Abhishek-555](https://github.com/Abhishek-555)
 
 - [@Adnanrobi](https://github.com/Adnanrobi/)
@@ -4834,6 +4848,8 @@
 
 - [@Shrikantpatil2197](https://github.com/Shrikantpatil2197)
 
+- [@rawatdev](https://github.com/rawatdev/)
+
 - [@wodwine](https://github.com/wodwine)
 
 - [@bobbywilliamskgh](https://github.com/bobbywilliamskgh/)
@@ -4846,8 +4862,6 @@
 
 - [@lfidelino](https://github.com/lfidelino)
 
-- [@ShashankDharpure](https://github.com/ShashankDharpure)
-
 - [@HMSAlHilal](https://github.com/HMSAlHilal)
 
 - [@justin-rim](https://github.com/justin-rim)
@@ -4858,4 +4872,42 @@
 
 - [@Michaelchen753](https://github.com/Michaelchen753) 
 
+- [@noraliptai](https://github.com/noraliptai/)
 
+- [@SREEHARI-M-S](https://github.com/SREEHARI-M-S/)
+
+- [@jonprather](https://github.com/jonprather)
+
+- [@utkarsh2020](https://github.com/utkarsh2020)
+
+- [@madhur89](https://github.com/madhur89)
+
+- [@rachelRozenberg](https://github.com/rachelRozenberg)
+
+- [@Szo89](https://github.com/Szo89/)
+
+- [@ponjae](https://github.com/ponjae)
+
+- [@EpicRowan](https://github.com/EpicRowan)
+
+- [@Vikas0004](https://github.com/Vikas0004)
+
+- [@jahangir86](https://github.com/jahangir86)
+
+- [@mariyajames96](https://github.com/mariyajames96)
+
+- [@gargk747](https://github.com/gargk747)
+
+- [@Venkatesh-09](https://github.com/venkatesh-09)
+
+- [@Psatlawa](https://github.com/Psatlawa)
+
+- [@AmithSinghk](https://github.com/AmithSinghk)
+
+- [@aboveTheWaves22](https://github.com/aboveTheWaves22)
+
+- [@linjennifer960](https://github.com/linjennifer960)
+
+- [@MK98-809](https://github.com/MK98-809/)
+
+- [@francinelodya](https://github.com/francinelodya)
