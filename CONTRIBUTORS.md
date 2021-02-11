@@ -4918,6 +4918,8 @@
 
 -[@scriptjsname](https://github.com/scriptjsname/)
 
+- [@EpicRowan](https://github.com/EpicRowan)
+
 - [@sangpotado](https://github.com/sangpotado/)
 
 - [@Glenda](https://github.com/glendaaac)
