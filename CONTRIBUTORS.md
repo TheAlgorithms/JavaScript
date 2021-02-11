@@ -2,6 +2,8 @@
 
 - [@eudinson](https://github.com/Eudinson)
 
+- [@Erick-Hdez](https://github.com/Erick-Hdez)
+
 - [@Sivakar](https://github.com/sivakar94)
 
 - [@Bekarion](https://github.com/beqarion)
@@ -4921,4 +4923,3 @@
 - [@Glenda](https://github.com/glendaaac)
 
 -[@Tushar00728](https://github.com/Tushar00728)
-
