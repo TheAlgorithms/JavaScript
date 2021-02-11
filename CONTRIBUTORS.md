@@ -2,6 +2,8 @@
 
 - [@eudinson](https://github.com/Eudinson)
 
+- [@Erick-Hdez](https://github.com/Erick-Hdez)
+
 - [@Sivakar](https://github.com/sivakar94)
 
 - [@Bekarion](https://github.com/beqarion)
@@ -4917,3 +4919,14 @@
 -[@scriptjsname](https://github.com/scriptjsname/)
 
 - [@sangpotado](https://github.com/sangpotado/)
+
+- [@Glenda](https://github.com/glendaaac)
+
+-[@Tushar00728](https://github.com/Tushar00728)
+- [@Ryozen7](https://github.com/Ryozen7)
+
+-[@gthbsarah](https://github.com/gthbsarah/)
+
+-[@KunYuChang](https://github.com/KunYuChang/)
+
+- [@chryzcodez](https://github.com/chryzcodez)
