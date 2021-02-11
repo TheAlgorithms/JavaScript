@@ -3225,6 +3225,8 @@
 - [@tommybuelens](https://github.com/tommybuelens)
 
 - [@tomo169](https://github.com/tomo169)
+  
+- [@tricelex](https://github.com/tricelex)
 
 - [@tonim19](https://github.com/tonim19)
 
@@ -4918,11 +4920,14 @@
 
 -[@scriptjsname](https://github.com/scriptjsname/)
 
+- [@EpicRowan](https://github.com/EpicRowan)
+
 - [@sangpotado](https://github.com/sangpotado/)
 
 - [@Glenda](https://github.com/glendaaac)
 
 -[@Tushar00728](https://github.com/Tushar00728)
+
 - [@Ryozen7](https://github.com/Ryozen7)
 
 -[@gthbsarah](https://github.com/gthbsarah/)
@@ -4930,3 +4935,9 @@
 -[@KunYuChang](https://github.com/KunYuChang/)
 
 - [@chryzcodez](https://github.com/chryzcodez)
+
+- [@Mohnish07](https://github.com/Mohnish07/)
+
+- [@olga1598](https://github.com/olga1598/)
+
+- [@fjarar](https://github.com/fjarar)
