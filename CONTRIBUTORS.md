@@ -3225,6 +3225,8 @@
 - [@tommybuelens](https://github.com/tommybuelens)
 
 - [@tomo169](https://github.com/tomo169)
+  
+- [@tricelex](https://github.com/tricelex)
 
 - [@tonim19](https://github.com/tonim19)
 
