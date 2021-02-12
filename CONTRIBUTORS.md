@@ -34,6 +34,8 @@
 
 - [@Porosh](https://github.com/porosh2002)
 
+- [@ThomasDelatte](https://github.com/ThomasDelatte)
+
 - [@sawankhanchi](https://github.com/sawankhanchi)
 
 - [@AndreasGZ](https://github.com/AndreasGZ)
@@ -3225,7 +3227,6 @@
 - [@tommybuelens](https://github.com/tommybuelens)
 
 - [@tomo169](https://github.com/tomo169)
-  
 - [@tricelex](https://github.com/tricelex)
 
 - [@tonim19](https://github.com/tonim19)
@@ -4941,3 +4942,11 @@
 - [@olga1598](https://github.com/olga1598/)
 
 - [@fjarar](https://github.com/fjarar)
+
+- [@arpit2425](https://github.com/arpit2425)
+
+- [@Catao-P](https://github.com/Catao-P/)
+
+- [@bintou123-ski](https://github.com/bintou123-ski/)
+
+- [@arham2002](https://github.com/arham2002/)
