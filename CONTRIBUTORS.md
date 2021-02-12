@@ -34,6 +34,8 @@
 
 - [@Porosh](https://github.com/porosh2002)
 
+- [@ThomasDelatte](https://github.com/ThomasDelatte)
+
 - [@sawankhanchi](https://github.com/sawankhanchi)
 
 - [@AndreasGZ](https://github.com/AndreasGZ)
