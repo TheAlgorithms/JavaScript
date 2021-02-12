@@ -1,6 +1,12 @@
 # CONTRIBUTORS
 
+<<<<<<< HEAD
 - [@eudinson](https://github.com/Eudinson) "Hello I'm on the top of the World"
+=======
+- [@eudinson](https://github.com/Eudinson)
+
+- [@Erick-Hdez](https://github.com/Erick-Hdez)
+>>>>>>> 5215e9f4e62d35f7cc143069007cea9058bcb703
 
 - [@Sivakar](https://github.com/sivakar94)
 
@@ -3225,6 +3231,7 @@
 - [@tommybuelens](https://github.com/tommybuelens)
 
 - [@tomo169](https://github.com/tomo169)
+- [@tricelex](https://github.com/tricelex)
 
 - [@tonim19](https://github.com/tonim19)
 
@@ -4850,6 +4857,8 @@
 
 - [@Shrikantpatil2197](https://github.com/Shrikantpatil2197)
 
+- [@rawatdev](https://github.com/rawatdev/)
+
 - [@wodwine](https://github.com/wodwine)
 
 - [@bobbywilliamskgh](https://github.com/bobbywilliamskgh/)
@@ -4859,6 +4868,8 @@
 - [@NWilde4](https://github.com/NWilde4)
 
 - [@ShashankDharpure](https://github.com/ShashankDharpure)
+
+- [@lfidelino](https://github.com/lfidelino)
 
 - [@HMSAlHilal](https://github.com/HMSAlHilal)
 
@@ -4886,8 +4897,62 @@
 
 - [@ponjae](https://github.com/ponjae)
 
-- [@eudinson](https://github.com/Eudinson)
-
 - [@EpicRowan](https://github.com/EpicRowan)
 
 - [@Vikas0004](https://github.com/Vikas0004)
+
+- [@jahangir86](https://github.com/jahangir86)
+
+- [@mariyajames96](https://github.com/mariyajames96)
+
+- [@gargk747](https://github.com/gargk747)
+
+- [@Venkatesh-09](https://github.com/venkatesh-09)
+
+- [@Psatlawa](https://github.com/Psatlawa)
+
+- [@AmithSinghk](https://github.com/AmithSinghk)
+
+- [@aboveTheWaves22](https://github.com/aboveTheWaves22)
+
+- [@linjennifer960](https://github.com/linjennifer960)
+
+- [@MK98-809](https://github.com/MK98-809/)
+
+- [@RusssianMusketeer](https://github.com/RusssianMusketeer)
+
+- [@francinelodya](https://github.com/francinelodya)
+
+-[@scriptjsname](https://github.com/scriptjsname/)
+
+- [@EpicRowan](https://github.com/EpicRowan)
+
+<<<<<<< HEAD
+- [@Vikas0004](https://github.com/Vikas0004)
+=======
+- [@sangpotado](https://github.com/sangpotado/)
+
+- [@Glenda](https://github.com/glendaaac)
+
+-[@Tushar00728](https://github.com/Tushar00728)
+
+- [@Ryozen7](https://github.com/Ryozen7)
+
+-[@gthbsarah](https://github.com/gthbsarah/)
+
+-[@KunYuChang](https://github.com/KunYuChang/)
+
+- [@chryzcodez](https://github.com/chryzcodez)
+
+- [@Mohnish07](https://github.com/Mohnish07/)
+
+- [@olga1598](https://github.com/olga1598/)
+
+- [@fjarar](https://github.com/fjarar)
+
+- [@arpit2425](https://github.com/arpit2425)
+
+- [@Catao-P](https://github.com/Catao-P/)
+
+- [@bintou123-ski](https://github.com/bintou123-ski/)
+>>>>>>> 5215e9f4e62d35f7cc143069007cea9058bcb703
