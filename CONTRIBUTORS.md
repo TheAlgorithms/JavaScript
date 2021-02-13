@@ -212,6 +212,8 @@
 
 - [@Bednak](https://github.com/Bednak)
 
+- [@BernStrom](https://github.com/BernStrom)
+
 - [@BeshirK](https://github.com/BeshirK)
 
 - [@Bethsam](https://github.com/Bethsam/)
