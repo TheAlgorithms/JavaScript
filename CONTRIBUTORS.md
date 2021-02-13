@@ -212,6 +212,8 @@
 
 - [@Bednak](https://github.com/Bednak)
 
+- [@BernStrom](https://github.com/BernStrom)
+
 - [@BeshirK](https://github.com/BeshirK)
 
 - [@Bethsam](https://github.com/Bethsam/)
@@ -4952,3 +4954,11 @@
 - [@arham2002](https://github.com/arham2002/)
 
 - [@highhorse69](https://github.com/highhorse69/)
+
+- [@shubham1429](https://github.com/shubham1429/)
+
+- [@jwang0110](https://github.com/jwang0110/)
+
+- [@sid-tech-dev](https://github.com/sid-tech-dev/)
+
+- [@Spooky-Scary-Skeleton](https://github.com/Spooky-Scary-Skeleton/)
