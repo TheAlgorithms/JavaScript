@@ -176,6 +176,7 @@
   * [Problem4](https://github.com/TheAlgorithms/Javascript/blob/master/Project-Euler/Problem4.js)
   * [Problem6](https://github.com/TheAlgorithms/Javascript/blob/master/Project-Euler/Problem6.js)
   * [Problem7](https://github.com/TheAlgorithms/Javascript/blob/master/Project-Euler/Problem7.js)
+  * [Problem9](https://github.com/TheAlgorithms/Javascript/blob/master/Project-Euler/Problem9.js)
 
 ## Recursive
   * [BinarySearch](https://github.com/TheAlgorithms/Javascript/blob/master/Recursive/BinarySearch.js)
