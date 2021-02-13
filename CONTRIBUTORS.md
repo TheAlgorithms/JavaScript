@@ -4971,3 +4971,5 @@
 - [@Spooky-Scary-Skeleton](https://github.com/Spooky-Scary-Skeleton/)
 
 - [@joao-vg-souza](https://github.com/joao-vg-souza/)
+
+- [@Nagato-Prog](https://github.com/Nagato-Prog/)
