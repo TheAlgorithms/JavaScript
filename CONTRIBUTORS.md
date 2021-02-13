@@ -212,6 +212,8 @@
 
 - [@Bednak](https://github.com/Bednak)
 
+- [@BernStrom](https://github.com/BernStrom)
+
 - [@BeshirK](https://github.com/BeshirK)
 
 - [@Bethsam](https://github.com/Bethsam/)
@@ -3227,6 +3229,7 @@
 - [@tommybuelens](https://github.com/tommybuelens)
 
 - [@tomo169](https://github.com/tomo169)
+
 - [@tricelex](https://github.com/tricelex)
 
 - [@tonim19](https://github.com/tonim19)
@@ -4891,6 +4894,12 @@
 
 - [@Szo89](https://github.com/Szo89/)
 
+- [@j-alvarezsone](https://github.com/j-alvarezsone)
+
+- [@dgdem](https://github.com/dgdem)
+
+- [@eudinson](https://github.com/Eudinson)
+
 - [@ponjae](https://github.com/ponjae)
 
 - [@EpicRowan](https://github.com/EpicRowan)
@@ -4919,21 +4928,19 @@
 
 - [@francinelodya](https://github.com/francinelodya)
 
--[@scriptjsname](https://github.com/scriptjsname/)
-
-- [@EpicRowan](https://github.com/EpicRowan)
+- [@scriptjsname](https://github.com/scriptjsname/)
 
 - [@sangpotado](https://github.com/sangpotado/)
 
 - [@Glenda](https://github.com/glendaaac)
 
--[@Tushar00728](https://github.com/Tushar00728)
+- [@Tushar00728](https://github.com/Tushar00728)
 
 - [@Ryozen7](https://github.com/Ryozen7)
 
--[@gthbsarah](https://github.com/gthbsarah/)
+- [@gthbsarah](https://github.com/gthbsarah/)
 
--[@KunYuChang](https://github.com/KunYuChang/)
+- [@KunYuChang](https://github.com/KunYuChang/)
 
 - [@chryzcodez](https://github.com/chryzcodez)
 
@@ -4952,5 +4959,15 @@
 - [@arham2002](https://github.com/arham2002/)
 
 - [@highhorse69](https://github.com/highhorse69/)
-- 
+
 - [@SmartAutopro](https://github.com/SmartAutopro/)
+
+- [@shubham1429](https://github.com/shubham1429/)
+
+- [@jwang0110](https://github.com/jwang0110/)
+
+- [@sid-tech-dev](https://github.com/sid-tech-dev/)
+
+- [@Spooky-Scary-Skeleton](https://github.com/Spooky-Scary-Skeleton/)
+
+- [@joao-vg-souza](https://github.com/joao-vg-souza/)
