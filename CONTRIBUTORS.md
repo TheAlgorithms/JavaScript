@@ -4978,7 +4978,10 @@
 
 - [@edojarror](https://github.com/edojarror/)
 
--[@salihbezai](https://github.com/salihbezai)
+- [@salihbezai](https://github.com/salihbezai)
 
 - [@syedhamza15](https://github.com/syedhamza15/)
 
+- [@thommccarthy](https://github.com/thommccarthy/)
+
+- [@luigi970](https://github.com/luigi970/)
