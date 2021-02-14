@@ -38,6 +38,8 @@
 
 - [@Porosh](https://github.com/porosh2002)
 
+- [@ThomasDelatte](https://github.com/ThomasDelatte)
+
 - [@sawankhanchi](https://github.com/sawankhanchi)
 
 - [@AndreasGZ](https://github.com/AndreasGZ)
@@ -213,6 +215,8 @@
 - [@Bealln](https://github.com/Bealln)
 
 - [@Bednak](https://github.com/Bednak)
+
+- [@BernStrom](https://github.com/BernStrom)
 
 - [@BeshirK](https://github.com/BeshirK)
 
@@ -3231,6 +3235,7 @@
 - [@tommybuelens](https://github.com/tommybuelens)
 
 - [@tomo169](https://github.com/tomo169)
+
 - [@tricelex](https://github.com/tricelex)
 
 - [@tonim19](https://github.com/tonim19)
@@ -4895,6 +4900,12 @@
 
 - [@Szo89](https://github.com/Szo89/)
 
+- [@j-alvarezsone](https://github.com/j-alvarezsone)
+
+- [@dgdem](https://github.com/dgdem)
+
+- [@eudinson](https://github.com/Eudinson)
+
 - [@ponjae](https://github.com/ponjae)
 
 - [@EpicRowan](https://github.com/EpicRowan)
@@ -4923,9 +4934,7 @@
 
 - [@francinelodya](https://github.com/francinelodya)
 
--[@scriptjsname](https://github.com/scriptjsname/)
-
-- [@EpicRowan](https://github.com/EpicRowan)
+- [@scriptjsname](https://github.com/scriptjsname/)
 
 <<<<<<< HEAD
 - [@Vikas0004](https://github.com/Vikas0004)
@@ -4934,13 +4943,13 @@
 
 - [@Glenda](https://github.com/glendaaac)
 
--[@Tushar00728](https://github.com/Tushar00728)
+- [@Tushar00728](https://github.com/Tushar00728)
 
 - [@Ryozen7](https://github.com/Ryozen7)
 
--[@gthbsarah](https://github.com/gthbsarah/)
+- [@gthbsarah](https://github.com/gthbsarah/)
 
--[@KunYuChang](https://github.com/KunYuChang/)
+- [@KunYuChang](https://github.com/KunYuChang/)
 
 - [@chryzcodez](https://github.com/chryzcodez)
 
@@ -4955,4 +4964,39 @@
 - [@Catao-P](https://github.com/Catao-P/)
 
 - [@bintou123-ski](https://github.com/bintou123-ski/)
+<<<<<<< HEAD
 >>>>>>> 5215e9f4e62d35f7cc143069007cea9058bcb703
+=======
+
+- [@arham2002](https://github.com/arham2002/)
+
+- [@bizzocode](https://github.com/bizzocode/)
+
+- [@highhorse69](https://github.com/highhorse69/)
+
+- [@SmartAutopro](https://github.com/SmartAutopro/)
+
+- [@shubham1429](https://github.com/shubham1429/)
+
+- [@jwang0110](https://github.com/jwang0110/)
+
+- [@sid-tech-dev](https://github.com/sid-tech-dev/)
+
+- [@Spooky-Scary-Skeleton](https://github.com/Spooky-Scary-Skeleton/)
+
+- [@joao-vg-souza](https://github.com/joao-vg-souza/)
+
+- [@Nagato-Prog](https://github.com/Nagato-Prog/)
+
+- [@edojarror](https://github.com/edojarror/)
+
+- [@salihbezai](https://github.com/salihbezai)
+
+- [@syedhamza15](https://github.com/syedhamza15/)
+
+- [@thommccarthy](https://github.com/thommccarthy/)
+
+- [@luigi970](https://github.com/luigi970/)
+
+- [@kritagya009](https://github.com/kritagya009)
+>>>>>>> 930631fb28c4497f2332b2af09ca75ad94430825
