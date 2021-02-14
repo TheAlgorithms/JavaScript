@@ -590,6 +590,8 @@
 
 - [@Karanveer-singh671](https://github.com/Karanveer-singh671)
 
+- [@Karthik-Nayak98](https://github.com/Karthik-Nayak98)
+
 - [@Kaushal-Dhungel](https://github.com/Kaushal-Dhungel)
 
 - [@Kavtorev](https://github.com/Kavtorev)
@@ -4898,8 +4900,6 @@
 
 - [@dgdem](https://github.com/dgdem)
 
-- [@eudinson](https://github.com/Eudinson)
-
 - [@ponjae](https://github.com/ponjae)
 
 - [@EpicRowan](https://github.com/EpicRowan)
@@ -4978,6 +4978,12 @@
 
 - [@edojarror](https://github.com/edojarror/)
 
+- [@salihbezai](https://github.com/salihbezai)
+
 - [@syedhamza15](https://github.com/syedhamza15/)
 
 - [@thommccarthy](https://github.com/thommccarthy/)
+
+- [@luigi970](https://github.com/luigi970/)
+
+- [@kritagya009](https://github.com/kritagya009)
