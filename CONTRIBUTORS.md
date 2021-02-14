@@ -1,12 +1,8 @@
 # CONTRIBUTORS
 
-<<<<<<< HEAD
-- [@eudinson](https://github.com/Eudinson) "Hello I'm on the top of the World"
-=======
 - [@eudinson](https://github.com/Eudinson)
 
 - [@Erick-Hdez](https://github.com/Erick-Hdez)
->>>>>>> 5215e9f4e62d35f7cc143069007cea9058bcb703
 
 - [@Sivakar](https://github.com/sivakar94)
 
@@ -4904,8 +4900,6 @@
 
 - [@dgdem](https://github.com/dgdem)
 
-- [@eudinson](https://github.com/Eudinson)
-
 - [@ponjae](https://github.com/ponjae)
 
 - [@EpicRowan](https://github.com/EpicRowan)
@@ -4936,9 +4930,6 @@
 
 - [@scriptjsname](https://github.com/scriptjsname/)
 
-<<<<<<< HEAD
-- [@Vikas0004](https://github.com/Vikas0004)
-=======
 - [@sangpotado](https://github.com/sangpotado/)
 
 - [@Glenda](https://github.com/glendaaac)
@@ -4964,9 +4955,6 @@
 - [@Catao-P](https://github.com/Catao-P/)
 
 - [@bintou123-ski](https://github.com/bintou123-ski/)
-<<<<<<< HEAD
->>>>>>> 5215e9f4e62d35f7cc143069007cea9058bcb703
-=======
 
 - [@arham2002](https://github.com/arham2002/)
 
@@ -4999,4 +4987,3 @@
 - [@luigi970](https://github.com/luigi970/)
 
 - [@kritagya009](https://github.com/kritagya009)
->>>>>>> 930631fb28c4497f2332b2af09ca75ad94430825
