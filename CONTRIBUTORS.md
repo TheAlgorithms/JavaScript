@@ -4994,4 +4994,8 @@
 
 - [@coste082](https://github.com/coste082/)
 
--[@yourdudecomposer](https://github.com/yourdudecomposer)
+- [@yourdudecomposer](https://github.com/yourdudecomposer)
+
+- [@nlyle01](https://github.com/nlyle01)
+
+- [@not-Ax](https://github.com/not-Ax/)
