@@ -15,18 +15,6 @@ The Game of Life is a cellular automaton devised by the British mathematician Jo
 *  [ [ 0, 0, 0 ], [ 1, 1, 1 ], [ 0, 0, 0 ] ]
 */
 
-// Define glider example
-const glider = [
-  [0, 1, 0, 0, 0, 0, 0, 0],
-  [0, 0, 1, 0, 0, 0, 0, 0],
-  [1, 1, 1, 0, 0, 0, 0, 0],
-  [0, 0, 0, 0, 0, 0, 0, 0],
-  [0, 0, 0, 0, 0, 0, 0, 0],
-  [0, 0, 0, 0, 0, 0, 0, 0],
-  [0, 0, 0, 0, 0, 0, 0, 0],
-  [0, 0, 0, 0, 0, 0, 0, 0]
-]
-
 /*
 *  Generates the next generation for a given state of Conway's Game of Life.
 */
@@ -86,5 +74,17 @@ async function animate (cells, steps) {
     printCells(cells)
   }
 }
+
+// Define glider example
+const glider = [
+  [0, 1, 0, 0, 0, 0, 0, 0],
+  [0, 0, 1, 0, 0, 0, 0, 0],
+  [1, 1, 1, 0, 0, 0, 0, 0],
+  [0, 0, 0, 0, 0, 0, 0, 0],
+  [0, 0, 0, 0, 0, 0, 0, 0],
+  [0, 0, 0, 0, 0, 0, 0, 0],
+  [0, 0, 0, 0, 0, 0, 0, 0],
+  [0, 0, 0, 0, 0, 0, 0, 0]
+]
 
 animate(glider, 16)
