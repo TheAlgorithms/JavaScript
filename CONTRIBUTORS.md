@@ -5046,4 +5046,6 @@
 
 -[@hithesh98](https://github.com/hithesh98)
 
--[@msnkr](https://github.com/msnkr)
+- [@RichardJonBacon](https://github.com/RichardJonBacon)
+
+- [@msnkr](https://github.com/msnkr)
