@@ -5054,4 +5054,4 @@
 
 -[@Irynatar](https://github.com/Irynatar/)
 
-- [@zdennyp] (https://github.com/zdennyp/)
+- [@zdennyp](https://github.com/zdennyp/)
