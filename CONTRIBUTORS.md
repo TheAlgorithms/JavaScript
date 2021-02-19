@@ -5049,3 +5049,14 @@
 - [@RichardJonBacon](https://github.com/RichardJonBacon)
 
 - [@msnkr](https://github.com/msnkr)
+
+- [@RebeccaStanley](https://github.com/RebeccaStanley)
+
+-[@Irynatar](https://github.com/Irynatar/)
+
+- [@zdennyp](https://github.com/zdennyp/)
+  
+- [@Th3Wall](https://github.com/Th3Wall/)
+-[@isiakaabd](https://github.com/isiakaabd/)
+
+-[@mbayefev3](https://github.com/mbayefev3/)
