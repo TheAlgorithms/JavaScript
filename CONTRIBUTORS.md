@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+-[@Amoghtech](https://github.com/Amoghtech)
+
 - [@eudinson](https://github.com/Eudinson)
 
 - [@Erick-Hdez](https://github.com/Erick-Hdez)
@@ -5065,3 +5067,7 @@
 -[@Abdelrhmantarek](https://github.com/Abdelrhmantarek/)
 
 -[@bassmastertt](https://github.com/bassmastertt/)
+
+-[@DevBasito](https://github.com/DevBasito/)
+
+-[@stamford11](https://github.com/stamford11/)
