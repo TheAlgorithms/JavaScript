@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+-[@Amoghtech](https://github.com/Amoghtech)
+
 - [@eudinson](https://github.com/Eudinson)
 
 - [@Erick-Hdez](https://github.com/Erick-Hdez)
