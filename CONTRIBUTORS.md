@@ -1,6 +1,6 @@
 # CONTRIBUTORS
 
--[@Amoghtech](https://github.com/Amoghtech)
+- [@Amoghtech](https://github.com/Amoghtech)
 
 - [@eudinson](https://github.com/Eudinson)
 
@@ -4990,6 +4990,8 @@
 
 - [@kritagya009](https://github.com/kritagya009)
 
+- [@SuSSan143](https://github.com/SuSSan143)
+
 - [@Norbert445](https://github.com/Norbert445/)
 
 - [@paulyg13](https://github.com/paulyg13/)
@@ -5004,30 +5006,36 @@
 
 - [@Lameday](https://github.com/Lameday)
 
--[@matpickett](https://github.com/matpickett)
+- [@matpickett](https://github.com/matpickett)
 
--[@yogesh7275](https://github.com/yogesh7275)
+- [@yogesh7275](https://github.com/yogesh7275)
 
--[@turpen2319](https://github.com/turpen2319)
+- [@CheeMinHao](https://github.com/CheeMinHao)
 
--[@nainabhalla123](https://github.com/nainabhalla123/)
+- [@turpen2319](https://github.com/turpen2319)
 
--[@jh-chen95](https://github.com/jh-chen95)
+- [@nainabhalla123](https://github.com/nainabhalla123/)
 
--[@ThomasVoets](https://github.com/ThomasVoets/)
--[@hkxxx843](https://github.com/hkxxx843)
--[@virhs](https://github.com/virhs)
+- [@jh-chen95](https://github.com/jh-chen95)
 
--[@Kwabena-Agyeman](https://github.com/Kwabena-Agyeman/)
+- [@ThomasVoets](https://github.com/ThomasVoets/)
 
--[@sajanwrs](https://github.com/sajanwrs/)
+- [@hkxxx843](https://github.com/hkxxx843)
+
+- [@virhs](https://github.com/virhs)
+
+- [@Kwabena-Agyeman](https://github.com/Kwabena-Agyeman/)
+
+- [@sajanwrs](https://github.com/sajanwrs/)
+
 - [@aryobimoww](https://github.com/aryobimoww/)
 
--[@swad007](https://github.com/swad007)
+- [@swad007](https://github.com/swad007)
 
 - [@katetroian](https://github.com/katetroian)
 
 - [@Kpriyansh](https://github.com/Kpriyansh/)
+
 - [@nasir-khan01](https://github.com/nasir-khan01/)
 
 - [@martincorona007](https://github.com/martincorona007)
@@ -5046,7 +5054,7 @@
 
 - [@SandeepThokala](https://github.com/SandeepThokala)
 
--[@hithesh98](https://github.com/hithesh98)
+- [@hithesh98](https://github.com/hithesh98)
 
 - [@RichardJonBacon](https://github.com/RichardJonBacon)
 
@@ -5054,21 +5062,22 @@
 
 - [@RebeccaStanley](https://github.com/RebeccaStanley)
 
--[@Irynatar](https://github.com/Irynatar/)
+- [@Irynatar](https://github.com/Irynatar/)
 
 - [@zdennyp](https://github.com/zdennyp/)
-  
+
 - [@Th3Wall](https://github.com/Th3Wall/)
--[@isiakaabd](https://github.com/isiakaabd/)
 
--[@mbayefev3](https://github.com/mbayefev3/)
+- [@isiakaabd](https://github.com/isiakaabd/)
 
--[@abdo4232](https://github.com/abdo4232/)
+- [@mbayefev3](https://github.com/mbayefev3/)
 
--[@JanRolenc](https://github.com/JanRolenc/)
+- [@abdo4232](https://github.com/abdo4232/)
 
--[@Abdelrhmantarek](https://github.com/Abdelrhmantarek/)
+- [@JanRolenc](https://github.com/JanRolenc/)
 
--[@DevBasito](https://github.com/DevBasito/)
+- [@Abdelrhmantarek](https://github.com/Abdelrhmantarek/)
 
--[@stamford11](https://github.com/stamford11/)
+- [@DevBasito](https://github.com/DevBasito/)
+
+- [@stamford11](https://github.com/stamford11/)
