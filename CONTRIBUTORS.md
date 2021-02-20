@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@Amoghtech](https://github.com/Amoghtech)
+
 - [@eudinson](https://github.com/Eudinson)
 
 - [@Erick-Hdez](https://github.com/Erick-Hdez)
@@ -4989,3 +4991,91 @@
 - [@kritagya009](https://github.com/kritagya009)
 
 - [@SuSSan143](https://github.com/SuSSan143)
+
+- [@Norbert445](https://github.com/Norbert445/)
+
+- [@paulyg13](https://github.com/paulyg13/)
+
+- [@coste082](https://github.com/coste082/)
+
+- [@yourdudecomposer](https://github.com/yourdudecomposer)
+
+- [@nlyle01](https://github.com/nlyle01)
+
+- [@not-Ax](https://github.com/not-Ax/)
+
+- [@Lameday](https://github.com/Lameday)
+
+- [@matpickett](https://github.com/matpickett)
+
+- [@yogesh7275](https://github.com/yogesh7275)
+
+- [@turpen2319](https://github.com/turpen2319)
+
+- [@nainabhalla123](https://github.com/nainabhalla123/)
+
+- [@jh-chen95](https://github.com/jh-chen95)
+
+- [@ThomasVoets](https://github.com/ThomasVoets/)
+
+- [@hkxxx843](https://github.com/hkxxx843)
+
+- [@virhs](https://github.com/virhs)
+
+- [@Kwabena-Agyeman](https://github.com/Kwabena-Agyeman/)
+
+- [@sajanwrs](https://github.com/sajanwrs/)
+
+- [@aryobimoww](https://github.com/aryobimoww/)
+
+- [@swad007](https://github.com/swad007)
+
+- [@katetroian](https://github.com/katetroian)
+
+- [@Kpriyansh](https://github.com/Kpriyansh/)
+
+- [@nasir-khan01](https://github.com/nasir-khan01/)
+
+- [@martincorona007](https://github.com/martincorona007)
+
+- [@tan27](https://github.com/tan27)
+
+- [@shengcen](https://github.com/shengcen)
+
+- [@jay-rav](https://github.com/jay-rav)
+
+- [@arpcache](https://github.com/arpcache)
+
+- [@NakulRattan](https://github.com/NakulRattan)
+
+- [@YaduKdev](https://github.com/YaduKdev)
+
+- [@SandeepThokala](https://github.com/SandeepThokala)
+
+- [@hithesh98](https://github.com/hithesh98)
+
+- [@RichardJonBacon](https://github.com/RichardJonBacon)
+
+- [@msnkr](https://github.com/msnkr)
+
+- [@RebeccaStanley](https://github.com/RebeccaStanley)
+
+- [@Irynatar](https://github.com/Irynatar/)
+
+- [@zdennyp](https://github.com/zdennyp/)
+
+- [@Th3Wall](https://github.com/Th3Wall/)
+
+- [@isiakaabd](https://github.com/isiakaabd/)
+
+- [@mbayefev3](https://github.com/mbayefev3/)
+
+- [@abdo4232](https://github.com/abdo4232/)
+
+- [@JanRolenc](https://github.com/JanRolenc/)
+
+- [@Abdelrhmantarek](https://github.com/Abdelrhmantarek/)
+
+- [@DevBasito](https://github.com/DevBasito/)
+
+- [@stamford11](https://github.com/stamford11/)
