@@ -40,6 +40,8 @@
 
 - [@ThomasDelatte](https://github.com/ThomasDelatte)
 
+- [@MadPonHad](https://github.com/MadPonHad)
+
 - [@sawankhanchi](https://github.com/sawankhanchi)
 
 - [@AndreasGZ](https://github.com/AndreasGZ)
@@ -5124,3 +5126,11 @@
 - [@roshanamjad](https://github.com/roshanamjad)
 
 - [@dieovitski](https://github.com/dieovitski)
+
+- [@ajose-malik](https://github.com/ajose-malik)
+
+- [@hseritt](https://github.com/hseritt)
+
+- [@kartikchechani](https://github.com/kartikchechani)
+
+- [@broserra](https://github.com/broserra)
