@@ -2,6 +2,8 @@
 
 - [@Amoghtech](https://github.com/Amoghtech)
 
+- [@Himanshu](https://github.com/himanshu007-creator)
+
 - [@eudinson](https://github.com/Eudinson)
 
 - [@Erick-Hdez](https://github.com/Erick-Hdez)
@@ -5101,3 +5103,22 @@
 - [@harshitbhat](https://github.com/harshitbhat)
 
 - [@eimantas20](https://github.com/Eimantas20/)
+
+- [@ndesai15](https://github.com/ndesai15)
+
+- [@jimmygm](https://github.com/jimmygm)
+
+- [@mu11cw](https://github.com/mu11cw)
+
+- [@liadraz](https://github.com/liadraz)
+
+- [@CodeHealthy](https://github.com/CodeHealthy)
+- [@aysf](https://github.com/aysf)
+
+- [@nikolay-rudenko](https://github.com/nikolay-rudenko)
+
+- [@AndrewBergstrom](https://github.com/AndrewBergstrom)
+
+- [@Satadru_Datta](https://github.com/SatadruDatta)
+
+- [@roshanamjad](https://github.com/roshanamjad)
