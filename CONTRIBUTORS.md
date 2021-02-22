@@ -2,6 +2,8 @@
 
 - [@Amoghtech](https://github.com/Amoghtech)
 
+- [@Himanshu](https://github.com/himanshu007-creator)
+
 - [@eudinson](https://github.com/Eudinson)
 
 - [@Erick-Hdez](https://github.com/Erick-Hdez)
