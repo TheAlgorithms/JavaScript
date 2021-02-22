@@ -40,6 +40,8 @@
 
 - [@ThomasDelatte](https://github.com/ThomasDelatte)
 
+- [@MadPonHad](https://github.com/MadPonHad)
+
 - [@sawankhanchi](https://github.com/sawankhanchi)
 
 - [@AndreasGZ](https://github.com/AndreasGZ)
