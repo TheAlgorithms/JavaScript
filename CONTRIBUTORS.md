@@ -5056,6 +5056,8 @@
 
 - [@YaduKdev](https://github.com/YaduKdev)
 
+- [@nb89portfolio](https://github.com/nb89portfolio)
+
 - [@SandeepThokala](https://github.com/SandeepThokala)
 
 - [@hithesh98](https://github.com/hithesh98)
@@ -5088,9 +5090,9 @@
 
 - [@rcj1](https://github.com/rcj1/)
 
--[@ObiWanWheeler](https://github.com/ObiWanWheeler/)
+- [@ObiWanWheeler](https://github.com/ObiWanWheeler/)
 
--[@EMCestari](https://github.com/EMCestari/)
+- [@EMCestari](https://github.com/EMCestari/)
 
 - [@kirstymullen](https://github.com/kirstymullen)
 
@@ -5115,6 +5117,7 @@
 - [@liadraz](https://github.com/liadraz)
 
 - [@CodeHealthy](https://github.com/CodeHealthy)
+
 - [@aysf](https://github.com/aysf)
 
 - [@nikolay-rudenko](https://github.com/nikolay-rudenko)
@@ -5139,11 +5142,12 @@
 
 - [@ChamodiDH](https://github.com/ChamodiDH)
 
--[@VictorJBowers](https://github.com/VictorJBowers/)
+- [@VictorJBowers](https://github.com/VictorJBowers/)
 
--[@RichardKentos](https://github.com/RichardKentos)
+- [@RichardKentos](https://github.com/RichardKentos)
 
 - [@aronjts](https://github.com/aronjts)
+
 - [@XessX](https://github.com/XessX/)
 
 - [@Rayen-Barry](https://github.com/Rayen-Barry)
@@ -5155,3 +5159,5 @@
 - [@victorsouza-mnz](https://github.com/victorsouza-mnz)
 
 - [@matsofargone](https://github.com/matsofargone)
+
+- [@winatungmiharja](https://github.com/winatungmiharja)
