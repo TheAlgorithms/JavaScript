@@ -5147,3 +5147,11 @@
 - [@XessX](https://github.com/XessX/)
 
 - [@Rayen-Barry](https://github.com/Rayen-Barry)
+
+- [@cristenrh](https://github.com/cristenrh/)
+
+- [@airje](https://github.com/airje)
+
+- [@victorsouza-mnz](https://github.com/victorsouza-mnz)
+
+- [@matsofargone](https://github.com/matsofargone)
