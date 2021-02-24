@@ -5028,10 +5028,19 @@
 
 - [@virhs](https://github.com/virhs)
 
+<<<<<<< HEAD
+-[@ThomasVoets](https://github.com/ThomasVoets/) -[@hkxxx843](https://github.com/hkxxx843) -[@virhs](https://github.com/virhs)
+=======
 - [@Kwabena-Agyeman](https://github.com/Kwabena-Agyeman/)
+>>>>>>> ee72ae05e820b6b8f45a549b5e5fa7b97e31713a
 
 - [@sajanwrs](https://github.com/sajanwrs/)
 
+<<<<<<< HEAD
+-[@sajanwrs](https://github.com/sajanwrs/)
+
+=======
+>>>>>>> ee72ae05e820b6b8f45a549b5e5fa7b97e31713a
 - [@aryobimoww](https://github.com/aryobimoww/)
 
 - [@swad007](https://github.com/swad007)
@@ -5043,6 +5052,8 @@
 - [@nasir-khan01](https://github.com/nasir-khan01/)
 
 - [@martincorona007](https://github.com/martincorona007)
+
+- [@loocd](https://github.com/loocd)
 
 - [@tan27](https://github.com/tan27)
 
@@ -5071,8 +5082,12 @@
 - [@Irynatar](https://github.com/Irynatar/)
 
 - [@zdennyp](https://github.com/zdennyp/)
+<<<<<<< HEAD
+- [@Th3Wall](https://github.com/Th3Wall/) -[@isiakaabd](https://github.com/isiakaabd/)
+=======
 
 - [@Th3Wall](https://github.com/Th3Wall/)
+>>>>>>> ee72ae05e820b6b8f45a549b5e5fa7b97e31713a
 
 - [@isiakaabd](https://github.com/isiakaabd/)
 
@@ -5164,4 +5179,14 @@
 
 - [@sherryliao21](https://github.com/sherryliao21)
 
--[@Pugnatore](https://github.com/Pugnatore)
+- [@sajanwrs](https://github.com/sajanwrs/)
+
+- [@he414](https://github.com/he414/)
+
+- [@bassmastertt](https://github.com/bassmastertt/)
+
+- [@DevBasito](https://github.com/DevBasito/)
+
+- [@kirstymullen](https://github.com/kirstymullen)
+
+- [@Pugnatore](https://github.com/Pugnatore)
