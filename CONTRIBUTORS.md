@@ -5200,3 +5200,5 @@
 - [@KalalaProjects](https://github.com/KalalaProjects)
 
 - [@DaNeculai](https://github.com/DaNeculai)
+
+- [@tatom89](https://github.com/tatom89)
