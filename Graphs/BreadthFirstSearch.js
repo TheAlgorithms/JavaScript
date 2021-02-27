@@ -6,17 +6,17 @@ Breadth-first search is an algorithm for traversing a graph. It's discovers all 
 
 /*
 Doctests
-> breadthFirstSearch(graph, "C")
+> Array.from(breadthFirstSearch(graph, "C"))
 [ 'C', 'D', 'A', 'B', 'E' ]
-> breadthFirstSearch(graph, "A")
+> Array.from(breadthFirstSearch(graph, "A"))
 [ 'A', 'B', 'D', 'E' ]
-> breadthFirstSearch(graph, "F")
+> Array.from(breadthFirstSearch(graph, "F"))
 [ 'F', 'G' ]
 */
 
 function breadthFirstSearch (graph, startingNode) {
   // visited keeps track of all nodes visited
-  const visited = []
+  const visited = new Set()
 
   // queue contains the nodes to be explored in the future
   const queue = [startingNode]
@@ -25,9 +25,9 @@ function breadthFirstSearch (graph, startingNode) {
     // start with the queue's first node
     const node = queue.shift()
 
-    if (!visited.includes(node)) {
+    if (!visited.has(node)) {
       // mark the node as visited
-      visited.push(node)
+      visited.add(node)
       const neighbors = graph[node]
 
       // put all its neighbors into the queue
