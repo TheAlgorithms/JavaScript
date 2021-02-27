@@ -174,6 +174,8 @@
 
 - [@Anusha-IIITH](https://github.com/Anusha-IIITH)
 
+- [@Apex-Blaze](https://github.com/apex-blaze)
+
 - [@ArataKagan](https://github.com/ArataKagan)
 
 - [@Aravind-pk](https://github.com/Aravind-pk/)
