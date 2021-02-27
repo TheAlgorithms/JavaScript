@@ -5225,3 +5225,5 @@
 - [@vicnadu](https://github.com/vicnadu)
 
 - [@daniel](https://github.com/virusxd521)
+
+- [@deltavitor](https://github.com/deltavitor)
