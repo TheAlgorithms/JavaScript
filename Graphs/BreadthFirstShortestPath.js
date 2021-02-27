@@ -1,5 +1,5 @@
 /*
-Breadth-first approach can be applied to determine the shortest path between two nodes in a graph. It searches the target node among all neighbors of the starting node. Then the process is repeated on the level of the neighbors of the neighbors and so on.
+Breadth-first approach can be applied to determine the shortest path between two nodes in an unweighted graph. It searches the target node among all neighbors of the starting node. Then the process is repeated on the level of the neighbors of the neighbors and so on.
 (See also: https://en.wikipedia.org/wiki/Breadth-first_search )
 (see also: https://www.koderdojo.com/blog/breadth-first-search-and-shortest-path-in-csharp-and-net-core )
 */
@@ -23,7 +23,7 @@ function breadthFirstShortestPath (graph, startNode, targetNode) {
   }
 
   // visited keeps track of all nodes visited
-  const visited = []
+  const visited = new Set()
 
   // queue contains the paths to be explored in the future
   const initialPath = [startNode]
@@ -35,9 +35,9 @@ function breadthFirstShortestPath (graph, startNode, targetNode) {
     const node = path[path.length - 1]
 
     // explore this node if it hasn't been visited yet
-    if (!visited.includes(node)) {
+    if (!visited.has(node)) {
       // mark the node as visited
-      visited.push(node)
+      visited.add(node)
 
       const neighbors = graph[node]
 
