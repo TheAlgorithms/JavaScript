@@ -5245,3 +5245,17 @@
 - [@kenbomber_altai_new](https://github.com/kenbomber)
 
 - [@ymir0804](https://github.com/ymir0804) 
+
+- [@Carlo88](https://github.com/Carlo88) 
+
+- [@KateKalashnikova](https://github.com/KateKalashnikova) 
+
+- [@Iftee97](https://github.com/Iftee97)
+
+- [@Iftee97](https://github.com/Iftee97)
+
+- [@SamiaMehrdad](https://github.com/SamiaMehrdad)
+
+- [@HarperJo12](https://github.com/HarperJo12)
+
+- [@joshuadsingh](https://github.com/joshuadsingh)
