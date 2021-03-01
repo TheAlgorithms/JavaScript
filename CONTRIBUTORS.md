@@ -5040,10 +5040,6 @@
 
 - [@hkxxx843](https://github.com/hkxxx843) 
 
-- [@Kwabena-Agyeman](https://github.com/Kwabena-Agyeman/)
-
-- [@sajanwrs](https://github.com/sajanwrs/)
-
 - [@aryobimoww](https://github.com/aryobimoww/)
 
 - [@swad007](https://github.com/swad007)
@@ -5089,8 +5085,6 @@
 - [@Th3Wall](https://github.com/Th3Wall/)
 
 - [@isiakaabd](https://github.com/isiakaabd/)
-
-- [@Th3Wall](https://github.com/Th3Wall/)
 
 - [@mbayefev3](https://github.com/mbayefev3/)
 
