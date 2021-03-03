@@ -2,6 +2,8 @@
 
 - [@Amoghtech](https://github.com/Amoghtech)
 
+- [@CodesOfAnurag](https://github.com/CodesOfAnurag)
+
 - [@Himanshu](https://github.com/himanshu007-creator)
 
 - [@eudinson](https://github.com/Eudinson)
