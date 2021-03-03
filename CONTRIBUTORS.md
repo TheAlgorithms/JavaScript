@@ -466,6 +466,8 @@
 
 - [@HardikJain40153](https://github.com/HardikJain40153)
 
+- [@HariAcidReign](https://github.com/HariAcidReign)
+
 - [@HarshaKumar23](https://github.com/HarshaKumar23/)
 
 - [@Harshavarthan07](https://github.com/Harshavarthan07)
@@ -5269,3 +5271,9 @@
 - [@leonedott](https://github.com/leonedott)
 
 - [@yanivyadin](https://github.com/yanivyadin)
+
+-[@Prezj1](https://github.com/Prezj1)
+
+-[@saikumarkothamasu51](https://github.com/saikumarkothamasu51)
+
+-[@Dopamin001](https://github.com/Dopamin001)
