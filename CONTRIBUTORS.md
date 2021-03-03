@@ -1,4 +1,5 @@
-# CONTRIBUTORS
+#
+ CONTRIBUTORS
 
 - [@Amoghtech](https://github.com/Amoghtech)
 
@@ -5285,3 +5286,6 @@
 -[@godfinger23](https://github.com/godfinger23)
 
 -[@schmelto](https://github.com/schmelto)
+
+-[@iamfarraz](https://github.com/iamfarraz)
+
