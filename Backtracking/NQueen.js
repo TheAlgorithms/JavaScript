@@ -1,6 +1,6 @@
 class NQueen {
   constructor (size) {
-    this.board = new Array(size).fill('.').map(() => new Array(size).fill('.'))
+    this.board = new Array(size).fill(Array(size).fill('.'));
     this.size = size
   }
 
