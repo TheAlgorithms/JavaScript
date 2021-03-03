@@ -466,6 +466,8 @@
 
 - [@HardikJain40153](https://github.com/HardikJain40153)
 
+- [@HariAcidReign](https://github.com/HariAcidReign)
+
 - [@HarshaKumar23](https://github.com/HarshaKumar23/)
 
 - [@Harshavarthan07](https://github.com/Harshavarthan07)
