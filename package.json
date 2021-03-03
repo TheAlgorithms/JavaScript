@@ -1,0 +1,19 @@
+{
+  "name": "start-here-guidelines",
+  "version": "1.0.0",
+  "description": "Guidelines on how this open source community works :)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamfarraz/start-here-guidelines.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamfarraz/start-here-guidelines/issues"
+  },
+  "homepage": "https://github.com/iamfarraz/start-here-guidelines#readme"
+}
