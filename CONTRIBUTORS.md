@@ -20,6 +20,8 @@
 
 - [@sclie001](https://github.com/sclie001)
 
+- [@sTheRhicrosoradile1](https://github.com/TheRhicrosoradile1)
+
 - [@Anthony-Rose](https://github.com/Anthony-Rose)
 
 - [@AbhijeetSatpute](https://github.com/abhijeetsatpute)
@@ -5044,9 +5046,9 @@
 
 - [@sajanwrs](https://github.com/sajanwrs/)
 
-- [@ThomasVoets](https://github.com/ThomasVoets/) 
+- [@ThomasVoets](https://github.com/ThomasVoets/)
 
-- [@hkxxx843](https://github.com/hkxxx843) 
+- [@hkxxx843](https://github.com/hkxxx843)
 
 - [@aryobimoww](https://github.com/aryobimoww/)
 
@@ -5248,7 +5250,7 @@
 
 - [@GloriBird](https://github.com/GloriBird)
 
-- [@Carlo88](https://github.com/Carlo88) 
+- [@Carlo88](https://github.com/Carlo88)
 
 - [@KateKalashnikova](https://github.com/KateKalashnikova)
 
