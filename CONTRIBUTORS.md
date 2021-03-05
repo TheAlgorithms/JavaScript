@@ -2,6 +2,8 @@
 
 - [@mluevanos](https://github.com/mluevanos)
 
+-[@amritha-patil](https://github.com/amritha-patil)
+
 - [@Amoghtech](https://github.com/Amoghtech)
 
 - [@CodesOfAnurag](https://github.com/CodesOfAnurag)
