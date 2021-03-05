@@ -2,6 +2,8 @@
 
 - [@mluevanos](https://github.com/mluevanos)
 
+-[@amritha-patil](https://github.com/amritha-patil)
+
 - [@Amoghtech](https://github.com/Amoghtech)
 
 - [@CodesOfAnurag](https://github.com/CodesOfAnurag)
@@ -5305,3 +5307,15 @@
 -[@jwalker18](https://github.com/jwalker18)
 
 -[@mpurcella](https://github.com/mpurcella)
+
+-[@DevelopWithJJ](https://github.com/DevelopWithJJ)
+
+-[@Rounak-Aggarwal](https://github.com/Rounak-Aggarwal)
+
+-[@martinbruno-mb](https://github.com/martinbruno-mb)
+
+-[@surajondev](https://github.com/surajondev)
+
+-[@Rwuijster](https://github.com/Rwuijster)
+
+-[@bismaanuger](https://github.com/bismaanuger)
