@@ -74,6 +74,8 @@
   * [ZeroOneKnapsack](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/ZeroOneKnapsack.js)
 
 ## Graphs
+  * [BreadthFirstSearch](https://github.com/TheAlgorithms/Javascript/blob/master/Graphs/BreadthFirstSearch.js)
+  * [BreadthFirstShortestPath](https://github.com/TheAlgorithms/Javascript/blob/master/Graphs/BreadthFirstShortestPath.js)
   * [ConnectedComponents](https://github.com/TheAlgorithms/Javascript/blob/master/Graphs/ConnectedComponents.js)
   * [Density](https://github.com/TheAlgorithms/Javascript/blob/master/Graphs/Density.js)
   * [DepthFirstSearchIterative](https://github.com/TheAlgorithms/Javascript/blob/master/Graphs/DepthFirstSearchIterative.js)
