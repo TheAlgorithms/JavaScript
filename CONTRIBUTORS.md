@@ -5044,9 +5044,9 @@
 
 - [@sajanwrs](https://github.com/sajanwrs/)
 
-- [@ThomasVoets](https://github.com/ThomasVoets/) 
+- [@ThomasVoets](https://github.com/ThomasVoets/)
 
-- [@hkxxx843](https://github.com/hkxxx843) 
+- [@hkxxx843](https://github.com/hkxxx843)
 
 - [@aryobimoww](https://github.com/aryobimoww/)
 
@@ -5248,7 +5248,7 @@
 
 - [@GloriBird](https://github.com/GloriBird)
 
-- [@Carlo88](https://github.com/Carlo88) 
+- [@Carlo88](https://github.com/Carlo88)
 
 - [@KateKalashnikova](https://github.com/KateKalashnikova)
 
@@ -5292,8 +5292,6 @@
 
 -[@schmelto](https://github.com/schmelto)
 
-
-
 -[@Ricksters2000](https://github.com/Ricksters2000)
 
 -[@demarcj](https://github.com/demarcj)
@@ -5319,3 +5317,5 @@
 -[@Rwuijster](https://github.com/Rwuijster)
 
 -[@bismaanuger](https://github.com/bismaanuger)
+
+-[@victorterekhov](https://github.com/victorterekhov)
