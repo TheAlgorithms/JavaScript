@@ -1,5 +1,9 @@
 # CONTRIBUTORS
 
+- [@mluevanos](https://github.com/mluevanos)
+
+- [@amritha-patil](https://github.com/amritha-patil)
+
 - [@Amoghtech](https://github.com/Amoghtech)
 
 - [@CodesOfAnurag](https://github.com/CodesOfAnurag)
@@ -5040,10 +5044,13 @@
 
 - [@sajanwrs](https://github.com/sajanwrs/)
 
+<<<<<<< HEAD
 - [@ThomasVoets](https://github.com/ThomasVoets/)
 
 - [@hkxxx843](https://github.com/hkxxx843)
 
+=======
+>>>>>>> fe26dff1ac9c4799d8ff23e0847cfbb25eb3681c
 - [@aryobimoww](https://github.com/aryobimoww/)
 
 - [@swad007](https://github.com/swad007)
@@ -5244,8 +5251,11 @@
 
 - [@GloriBird](https://github.com/GloriBird)
 
+<<<<<<< HEAD
 - [@Carlo88](https://github.com/Carlo88)
 
+=======
+>>>>>>> fe26dff1ac9c4799d8ff23e0847cfbb25eb3681c
 - [@KateKalashnikova](https://github.com/KateKalashnikova)
 
 - [@Iftee97](https://github.com/Iftee97)
@@ -5262,22 +5272,68 @@
 
 - [@eduenez33](https://github.com/eduenez33)
 
+- [@Mark-R-5388](https://github.com/Mark-R-5388)
+
 - [@mmelzaghl](https://github.com/mmelzaghl)
 
 - [@generalman025](https://github.com/generalman025)
+
+- [@code-odyssey-trunk](https://github.com/code-odyssey-trunk)
 
 - [@aaditiDiksha](https://github.com/aaditiDiksha/)
 
 - [@rohanthakur10](https://github.com/rohanthakur10/)
 
 - [@leonedott](https://github.com/leonedott)
+  
+- [@csdojo](https://github.com/csdojo)
 
 - [@yanivyadin](https://github.com/yanivyadin)
 
--[@Prezj1](https://github.com/Prezj1)
+- [@Prezj1](https://github.com/Prezj1)
 
--[@saikumarkothamasu51](https://github.com/saikumarkothamasu51)
+- [@saikumarkothamasu51](https://github.com/saikumarkothamasu51)
 
--[@Dopamin001](https://github.com/Dopamin001)
+- [@Dopamin001](https://github.com/Dopamin001)
 
--[@Mrjacint](https://github.com/Mrjacint)
+- [@GiridharSundar](https://github.com/GiridharSundar)
+
+- [@godfinger23](https://github.com/godfinger23)
+
+- [@somayina](https://github.com/somayina)
+
+- [@schmelto](https://github.com/schmelto)
+
+- [@Ricksters2000](https://github.com/Ricksters2000)
+
+- [@demarcj](https://github.com/demarcj)
+
+- [@Cdambrain](https://github.com/Cdambrain)
+
+- [@MMansourii](https://github.com/MMansourii)
+
+- [@mihaifcristian](https://github.com/mihaifcristian)
+
+- [@jwalker18](https://github.com/jwalker18)
+
+- [@mpurcella](https://github.com/mpurcella)
+
+- [@DevelopWithJJ](https://github.com/DevelopWithJJ)
+
+- [@Rounak-Aggarwal](https://github.com/Rounak-Aggarwal)
+
+- [@martinbruno-mb](https://github.com/martinbruno-mb)
+
+- [@surajondev](https://github.com/surajondev)
+
+- [@Rwuijster](https://github.com/Rwuijster)
+
+- [@bismaanuger](https://github.com/bismaanuger)
+
+- [@carranzacristian](https://github.com/carranzacristian)
+
+- [@Dopamin001](https://github.com/Dopamin001)
+
+- [@Mrjacint](https://github.com/Mrjacint)
+
+- [@alansfj](https://github.com/alansfj)
