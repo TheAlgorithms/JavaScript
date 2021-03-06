@@ -10,6 +10,9 @@
   * [LFUCache](https://github.com/TheAlgorithms/Javascript/blob/master/Cache/LFUCache.js)
   * [LRUCache](https://github.com/TheAlgorithms/Javascript/blob/master/Cache/LRUCache.js)
 
+## Cellular-Automata
+  * [ConwaysGameOfLife](https://github.com/TheAlgorithms/Javascript/blob/master/Cellular-Automata/ConwaysGameOfLife.js)
+
 ## Ciphers
   * [CaesarsCipher](https://github.com/TheAlgorithms/Javascript/blob/master/Ciphers/CaesarsCipher.js)
   * [KeyFinder](https://github.com/TheAlgorithms/Javascript/blob/master/Ciphers/KeyFinder.js)
