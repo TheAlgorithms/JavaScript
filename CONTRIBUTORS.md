@@ -5319,3 +5319,7 @@
 -[@Rwuijster](https://github.com/Rwuijster)
 
 -[@bismaanuger](https://github.com/bismaanuger)
+
+-[@carranzacristian](https://github.com/carranzacristian)
+
+-[@alansfj](https://github.com/alansfj)
