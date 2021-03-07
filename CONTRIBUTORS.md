@@ -20,6 +20,8 @@
 
 - [@sclie001](https://github.com/sclie001)
 
+- [@sTheRhicrosoradile1](https://github.com/TheRhicrosoradile1)
+
 - [@Anthony-Rose](https://github.com/Anthony-Rose)
 
 - [@AbhijeetSatpute](https://github.com/abhijeetsatpute)
@@ -5044,10 +5046,6 @@
 
 - [@sajanwrs](https://github.com/sajanwrs/)
 
-- [@ThomasVoets](https://github.com/ThomasVoets/) 
-
-- [@hkxxx843](https://github.com/hkxxx843) 
-
 - [@aryobimoww](https://github.com/aryobimoww/)
 
 - [@swad007](https://github.com/swad007)
@@ -5248,8 +5246,6 @@
 
 - [@GloriBird](https://github.com/GloriBird)
 
-- [@Carlo88](https://github.com/Carlo88) 
-
 - [@KateKalashnikova](https://github.com/KateKalashnikova)
 
 - [@Iftee97](https://github.com/Iftee97)
@@ -5266,15 +5262,21 @@
 
 - [@eduenez33](https://github.com/eduenez33)
 
+- [@Mark-R-5388](https://github.com/Mark-R-5388)
+
 - [@mmelzaghl](https://github.com/mmelzaghl)
 
 - [@generalman025](https://github.com/generalman025)
+
+- [@code-odyssey-trunk](https://github.com/code-odyssey-trunk)
 
 - [@aaditiDiksha](https://github.com/aaditiDiksha/)
 
 - [@rohanthakur10](https://github.com/rohanthakur10/)
 
 - [@leonedott](https://github.com/leonedott)
+
+- [@csdojo](https://github.com/csdojo)
 
 - [@yanivyadin](https://github.com/yanivyadin)
 
@@ -5321,3 +5323,37 @@
 - [@carranzacristian](https://github.com/carranzacristian)
 
 - [@alansfj](https://github.com/alansfj)
+
+=======
+
+- [@Mrjacint](https://github.com/Mrjacint)
+
+- [@dekonata](https://github.com/dekonata)
+
+- [@iamfarraz](https://github.com/iamfarraz)
+
+- [@DevelopWithJJ](https://github.com/DevelopWithJJ/)
+
+- [@jtkyber](https://github.com/jtkyber)
+
+- [@wikitiki10](https://github.com/wikitiki10)
+
+- [@peterjjonas](https://github.com/peterjjonas)
+
+- [@UcheAzubuko](https://github.com/UcheAzubuko)
+
+- [@Skinz-dotcom](https://github.com/Skinz-dotcom)
+
+- [@ritin0204](https://github.com/ritin0204)
+
+- [@Adarsh-619](https://github.com/Adarsh-619)
+
+- [@shivani2021Y](https://github.com/shivani2021Y)
+
+- [@Hendrasob](https://github.com/hendrasob)
+
+- [@houssem-jeddou](https://github.com/houssem-jeddou)
+
+- [@rkbharti806](https://github.com/rkbharti806)
+
+- [@victorterekhov](https://github.com/victorterekhov)
