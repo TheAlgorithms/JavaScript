@@ -28,7 +28,7 @@ function eulerFull (xStart, xEnd, stepSize, yStart, differentialEquation) {
   let yCurrent = yStart
   let xCurrent = xStart
 
-  while (xCurrent <= xEnd - stepSize) {
+  while (xCurrent < xEnd) {
     // Euler method for next step
     yCurrent = eulerStep(xCurrent, stepSize, yCurrent, differentialEquation)
     xCurrent += stepSize
@@ -86,7 +86,7 @@ function exampleEquation3 (x, y) {
 }
 
 const points1 = eulerFull(0, 4, 0.1, 0, exampleEquation1)
-const points2 = eulerFull(0, 4.1, 0.1, 1, exampleEquation2)
+const points2 = eulerFull(0, 4, 0.1, 1, exampleEquation2)
 const points3 = eulerFull(0, 0.1, 0.025, 1, exampleEquation3)
 
 console.log(points1)
