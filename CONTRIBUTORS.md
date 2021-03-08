@@ -5376,3 +5376,5 @@
 - [@tanannis](https://github.com/tanannis)
 
 - [@jlachondo](https://github.com/jlachondo)
+
+- [@taluliel](https://github.com/taluliel)
