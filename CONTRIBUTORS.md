@@ -5372,3 +5372,5 @@
 - [@sephdiza](https://github.com/sephdiza)
 
 - [@Hex-Tron](https://github.com/Hex-Tron)
+
+- [@tanannis](https://github.com/tanannis)
