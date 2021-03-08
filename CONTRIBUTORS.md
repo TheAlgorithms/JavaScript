@@ -5374,3 +5374,5 @@
 - [@Hex-Tron](https://github.com/Hex-Tron)
 
 - [@tanannis](https://github.com/tanannis)
+
+- [@jlachondo](https://github.com/jlachondo)
