@@ -5376,3 +5376,29 @@
 - [@tanannis](https://github.com/tanannis)
 
 - [@jlachondo](https://github.com/jlachondo)
+
+- [@sarahsipple](https://github.com/sarahsipple)
+
+- [@mahendra-riyad](https://github.com/mahendra-riyad)
+
+-[@Foxoner](https://github.com/Foxoner)
+
+-[@Alphainvicta](https://github.com/Alphainvicta)
+
+- [@borissoto](https://github.com/borissoto)
+
+-[@rakshith22-glitch](https://github.com/rakshith22-glitch)
+
+-[@Genttq](https://github.com/Genttq/)
+
+-[@Shazi9](https://github.com/Shazi9)
+
+-[@ting0997](https://github.com/ting0997)
+
+-[@pav5069](https://github.com/pav5069)
+
+- [@rennandg](https://github.com/rennandg)
+
+- [@Stevenzs](https://github.com/Stevenzs)
+
+-[@Notse](https://github.com/Notse)
