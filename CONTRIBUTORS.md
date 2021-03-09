@@ -5385,7 +5385,7 @@
 
 -[@Alphainvicta](https://github.com/Alphainvicta)
 
-- [@borissoto](https://github.com/borissoto)
+-[@borissoto](https://github.com/borissoto)
 
 -[@rakshith22-glitch](https://github.com/rakshith22-glitch)
 
@@ -5397,4 +5397,6 @@
 
 -[@pav5069](https://github.com/pav5069)
 
-- [@rennandg](https://github.com/rennandg)
+-[@rennandg](https://github.com/rennandg)
+
+-[@Notse](https://github.com/Notse)
