@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@veganedge] (https://github.com/veganedge)
+
 - [@mluevanos](https://github.com/mluevanos)
 
 - [@amritha-patil](https://github.com/amritha-patil)
