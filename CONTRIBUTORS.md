@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@veganedge] (https://github.com/veganedge)
+
 - [@mluevanos](https://github.com/mluevanos)
 
 - [@amritha-patil](https://github.com/amritha-patil)
@@ -5434,3 +5436,5 @@
 -[@iambubbaq](https://github.com/iambubbaq)
 
 -[@shmulyitz](https://github.com/shmulyitz)
+
+-[@craig-hunt](https://github.com/craig-hunt)
