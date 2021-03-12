@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@johnduong](https://github.com/johnduong)
+
 - [@veganedge](https://github.com/veganedge)
 
 - [@mluevanos](https://github.com/mluevanos)
