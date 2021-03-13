@@ -1,4 +1,5 @@
 # CONTRIBUTORS
+- [@kaydee0502](https://github.com/kaydee0502)
 
 - [@kira00007](https://github.com/kira00007)
 
