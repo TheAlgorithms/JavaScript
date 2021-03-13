@@ -1,4 +1,5 @@
 # CONTRIBUTORS
+- [@kaydee0502](https://github.com/kaydee0502)
 
 - [@kira00007](https://github.com/kira00007)
 
@@ -5467,3 +5468,5 @@
 - [@lucas-00](https://github.com/lucas-00)
 
 - [@maxemileffort](https://github.com/maxemileffort)
+
+- [@kudratmullani](https://github.com/kudratmullani)
