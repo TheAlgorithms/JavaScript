@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@kira00007](https://github.com/kira00007)
+
 - [@johnduong](https://github.com/johnduong)
 
 - [@veganedge](https://github.com/veganedge)
@@ -5464,3 +5466,4 @@
 
 - [@lucas-00](https://github.com/lucas-00)
 
+- [@maxemileffort](https://github.com/maxemileffort)
