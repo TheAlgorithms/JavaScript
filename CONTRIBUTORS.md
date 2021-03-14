@@ -5384,6 +5384,8 @@
 
 - [@jlachondo](https://github.com/jlachondo)
 
+- [@taluliel](https://github.com/taluliel)
+
 - [@sarahsipple](https://github.com/sarahsipple)
 
 - [@mahendra-riyad](https://github.com/mahendra-riyad)
@@ -5392,7 +5394,7 @@
 
 - [@Alphainvicta](https://github.com/Alphainvicta)
 
--[@borissoto](https://github.com/borissoto)
+- [@borissoto](https://github.com/borissoto)
 
 - [@rakshith22-glitch](https://github.com/rakshith22-glitch)
 
@@ -5482,4 +5484,6 @@
 
 - [@huzmasood](https://github.com/huzmasood)
 
--[@jongwoop](https://github.com/Jongwoop)
+- [@jongwoop](https://github.com/Jongwoop)
+
+- [@Manisha0711](https://github.com/Manisha0711)
