@@ -298,6 +298,8 @@
 
 - [@cmulay](https://github.com/cmulay)
 
+- [@atharva21-stack](https://github.com/atharva21-stack)
+
 - [@CodeWithBorys](https://github.com/CodeWithBorys)
 
 - [@ColinGM-dev](https://github.com/ColinGM-dev)
@@ -5520,3 +5522,17 @@
 -[@Lmath2001](https://github.com/Lmath2001/)
 
 -[@dunnettsj](https://github.com/dunnettsj/)
+
+-[@Mathew29](https://github.com/Mathew29/)
+
+-[@dominicancoderjedi](https://github.com/dominicancoderjedi/)
+
+-[@estherylau](https://github.com/estherylau/)
+
+-[@GifinoThoriq](https://github.com/GifinoThoriq)
+
+-[@sara-07](https://github.com/sara-07)
+
+-[@Nightherald](https://github.com/Nightherald)
+
+-[@AakashMathurgit](https://github.com/AakashMathurgit)
