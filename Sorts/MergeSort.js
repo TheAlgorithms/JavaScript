@@ -34,17 +34,20 @@
 *  [ ]
 */
 
-function merge (list1, list2) {
-  var results = []
+function merge(list1, list2) {
+  results = Array(list1.length + list2.length);
 
-  while (list1.length && list2.length) {
-    if (list1[0] <= list2[0]) {
-      results.push(list1.shift())
-    } else {
-      results.push(list2.shift())
-    }
+  let i = (j = k = 0);
+  while (i < list1.length && j < list2.length) {
+    results[k++] = list1[i] < list2[j] ? list1[i++] : list2[j++];
   }
-  return results.concat(list1, list2)
+  while (i < list1.length) {
+    results[k++] = list1[i++];
+  }
+  while (j < list2.length) {
+    results[k++] = list2[j++];
+  }
+  return results;
 }
 
 /**
