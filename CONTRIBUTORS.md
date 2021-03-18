@@ -366,11 +366,13 @@
 
 - [@Dipak654](https://github.com/Dipak654)
 
+- [@dcs-soni](https://github.com/dcs-soni)
+
 - [@DivYuS](https://github.com/DivYuS)
 
 - [@EderIRE](https://github.com/EderIRE)
 
-- [@EdgardoPinto-Escalier](https://github.com/EdgardoPinto-Escalier)
+- [@EdgardoPinto-Escalier](https://github.com/EdgardoPinto-Esadcalier)
 
 - [@Ej1seven](https://github.com/Ej1seven)
 
@@ -5537,3 +5539,14 @@
 
 -[@AakashMathurgit](https://github.com/AakashMathurgit)
 -[@Sahilparte750](https://github.com/Sahilparte750)
+
+-[@yassinebaji](https://github.com/yassinebaji)
+
+-[@SanchRepo](https://github.com/SanchRepo)
+
+- [@mjuhe](https://github.com/mjuhe)
+
+- [@oguzhanzny](https://github.com/oguzhanzny)
+
+- [@dvilches1](https://github.com/dvilches1)
+- [@jasden](https://github.com/jasden)
