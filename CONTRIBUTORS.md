@@ -366,11 +366,13 @@
 
 - [@Dipak654](https://github.com/Dipak654)
 
+- [@dcs-soni](https://github.com/dcs-soni)
+
 - [@DivYuS](https://github.com/DivYuS)
 
 - [@EderIRE](https://github.com/EderIRE)
 
-- [@EdgardoPinto-Escalier](https://github.com/EdgardoPinto-Escalier)
+- [@EdgardoPinto-Escalier](https://github.com/EdgardoPinto-Esadcalier)
 
 - [@Ej1seven](https://github.com/Ej1seven)
 
