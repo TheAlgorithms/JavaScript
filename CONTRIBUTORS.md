@@ -5558,3 +5558,8 @@
 - [@saidul-mondal-au7](https://github.com/saidul-mondal-au7)
 
 - [@Ligottica](https://github.com/Ligottica)
+- [@ashishtyagii](https://github.com/ashishtyagii)
+
+- [@BlakeLReeves](https://github.com/BlakeLReeves)
+
+- [@FelipeCVSS](https://github.com/FelipeCVSS)
