@@ -5590,10 +5590,34 @@
 
 - [@AbdulrazakT](https://github.com/AbdulrazakT/)
 
-- [@AakashMathurgit](https://github.com/AakashMathurgit)
-
 - [@Manali99mm](https://github.com/Manali99mm)
 
-- [@Sahilparte750](https://github.com/Sahilparte750)
-
 - [@astalcodex](https://github.com/AstalCodek/)
+
+- [@fchagassjr](https://github.com/fchagassjr/)
+
+- [@shash619](https://github.com/shash619/)
+
+- [@RanjeetNSuthar](https://github.com/RanjeetNSuthar/)
+
+- [@JustTom77](https://github.com/JustTom77/)
+
+- [@zeinaabusharkh](https://github.com/zeinaabusharkh/)
+
+- [@Keith9seven](https://github.com/Keith9seven)
+
+- [@mbea-int](https://github.com/mbea-int)
+
+- [@Clupai8o0](https://github.com/Clupai8o0)
+
+- [@andrewkovalenko1959](https://github.com/andrewkovalenko1959)
+
+- [@zohoorparvaz](https://github.com/zohoorparvazg)
+
+- [@sohahib](https://github.com/sohahib)
+
+- [@hanh0722](https://github.com/hanh0722)
+
+- [@mharre](https://github.com/mharre)
+
+- [@Pedginald](https://github.com/Pedginald)
