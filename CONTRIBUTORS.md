@@ -5622,4 +5622,12 @@
 
 - [@Pedginald](https://github.com/Pedginald)
 
+- [@Saliq97](https://github.com/Saliq97)
+
+- [@AuguestGao](https://github.com/AuguestGao)
+
+- [@yisus44](https://github.com/yisus44)
+
+- [@Cristiamp09](https://github.com/Cristiamp09)
+
 - [@TheDanCotti](https://github.com/TheDanCotti)
