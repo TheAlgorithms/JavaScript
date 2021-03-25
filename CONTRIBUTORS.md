@@ -5655,3 +5655,5 @@
 - [@bhikhi-gc](https://github.com/bhikhi-gc)
 
 - [@FilipKupanovac](https://github.com/FilipKupanovac)
+
+- [@SoareM195](https://github.com/SoareM195)
