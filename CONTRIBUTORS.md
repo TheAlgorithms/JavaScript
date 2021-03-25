@@ -5669,3 +5669,5 @@
 - [@Lynx-Lynx](https://github.com/Lynx-Lynx)
 
 - [@dmei8](https://github.com/dmei8)
+
+- [@natasya-ptr](https://github.com/natasya-ptr)
