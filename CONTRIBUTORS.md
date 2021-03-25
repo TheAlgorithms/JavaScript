@@ -5667,3 +5667,5 @@
 - [@czagrzebski](https://github.com/czagrzebski)
 
 - [@Lynx-Lynx](https://github.com/Lynx-Lynx)
+
+- [@fidsta1990](https://github.com/fidsta1990)
