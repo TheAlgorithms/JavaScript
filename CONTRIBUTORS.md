@@ -384,6 +384,8 @@
 
 - [@Elldrigar](https://github.com/Elldrigar)
 
+- [@ellzorz](https://github.com/ellzorz)
+
 - [@Emheonivek](https://github.com/Emheonivek/)
 
 - [@Emmyoks](https://github.com/emmyoks)
