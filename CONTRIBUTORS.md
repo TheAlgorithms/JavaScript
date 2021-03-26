@@ -384,6 +384,8 @@
 
 - [@Elldrigar](https://github.com/Elldrigar)
 
+- [@ellzorz](https://github.com/ellzorz)
+
 - [@Emheonivek](https://github.com/Emheonivek/)
 
 - [@Emmyoks](https://github.com/emmyoks)
@@ -5663,3 +5665,11 @@
 - [@ryancrumble](https://github.com/ryancrumble)
 
 -[@khuttanhimesh](https://github.com/khuttanhimesh)
+
+- [@czagrzebski](https://github.com/czagrzebski)
+
+- [@Lynx-Lynx](https://github.com/Lynx-Lynx)
+
+- [@dmei8](https://github.com/dmei8)
+
+- [@natasya-ptr](https://github.com/natasya-ptr)
