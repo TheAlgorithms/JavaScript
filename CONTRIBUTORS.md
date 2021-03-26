@@ -5675,3 +5675,5 @@
 - [@natasya-ptr](https://github.com/natasya-ptr)
 
 - [@kashyaprajan11](https://github.com/kashyaprajan11)
+
+- [@Divine-max](https://github.com/Divine-max)
