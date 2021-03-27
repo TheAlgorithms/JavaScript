@@ -5681,3 +5681,9 @@
 - [@Divine-max](https://github.com/Divine-max)
 
 - [@skanderf](https://github.com/skanderf)
+
+- [@SoulDevK](https://github.com/SoulDevK)
+
+- [@CoderLum](https://github.com/CoderLum)
+
+- [@jasonaviandre](https://github.com/jasonaviandre/)
