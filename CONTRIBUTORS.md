@@ -5670,6 +5670,7 @@
 
 - [@Lynx-Lynx](https://github.com/Lynx-Lynx)
 
+- [@fidsta1990](https://github.com/fidsta1990)
 - [@dmei8](https://github.com/dmei8)
 
 - [@natasya-ptr](https://github.com/natasya-ptr)
@@ -5726,3 +5727,7 @@
 --[@chandravenky](https://github.com/chandravenky/)
 
 --[@zmaaj] (https://github.com/zmaaj/)
+
+- [@Alirezak2n](https://github.com/Alirezak2n/)
+
+- [@mateomazzucco11](https://github.com/mateomazzucco11/)
