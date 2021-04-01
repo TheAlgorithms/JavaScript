@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@toihirhalim](https://github.com/toihirhalim)
+
 - [@AtulChourasia](https://github.com/AtulChourasia)
 
 - [@kaydee0502](https://github.com/kaydee0502)
@@ -5761,3 +5763,5 @@
 -[@aEmreAydemir](https://github.com/aEmreAydemir)
 
 -[@stormbre4ker](https://github.com/stormbre4ker)
+
+-[@x-walker-x](https://github.com/x-walker-x)
