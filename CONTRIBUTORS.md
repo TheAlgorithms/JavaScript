@@ -1,4 +1,4 @@
-# CONTRIBUTORS
+- [@Amitava100](https://github.com/Amitava100)
 
 - [@AtulChourasia](https://github.com/AtulChourasia)
 
