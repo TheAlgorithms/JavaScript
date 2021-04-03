@@ -7,6 +7,8 @@
 ![update_directory_md](https://github.com/TheAlgorithms/Javascript/workflows/update_directory_md/badge.svg)
 ![](https://img.shields.io/github/repo-size/TheAlgorithms/Javascript.svg?label=Repo%20size&style=flat-square)&nbsp;
 
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2FJavascript.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2FJavascript?ref=badge_large)
+
 ### All algorithms implemented in JavaScript (for educational purposes only)
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/TheAlgorithms/Javascript)&nbsp;
 
