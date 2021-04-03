@@ -3,25 +3,25 @@
 * For more information, see here: https://en.wikipedia.org/wiki/Quicksort
 */
 
-function quickSort(items) {
-  if (items.length <= 1) return items;
+const quickSort = (items) => {
+  if (items.length <= 1) return items
 
-  let LESSER = [];
-  let GREATER = [];
-  const PIVOT = items.shift();
+  const LESSER = []
+  const GREATER = []
+  const PIVOT = items.shift()
 
-  for (let i of items) {
+  for (const i of items) {
     if (i > PIVOT) GREATER.push(i)
     else LESSER.push(items[i])
   }
 
-  return quickSort(LESSER).concat(PIVOT, quickSort(GREATER));
+  return quickSort(LESSER).concat(PIVOT, quickSort(GREATER))
 }
 
 // testing the algorithm
 
-const testArray = [3, 0, 5, 2, 2, -1, 4, 1];
-console.log("Input:", testArray);
-console.time("Executed in");
-console.log("Output:", quickSort(testArray));
-console.timeEnd("Executed in");
+const testArray = [3, 0, 5, 2, 2, -1, 4, 1]
+console.log('Input:', testArray)
+console.time('Executed in')
+console.log('Output:', quickSort(testArray))
+console.timeEnd('Executed in')
