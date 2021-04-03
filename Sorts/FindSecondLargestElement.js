@@ -8,11 +8,20 @@
 * Resources:
 * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set
 */
-// Dummy data
-const numberArray = [2, 5, 8, 4, 13, 6, 10, 10, 47, 24, 36, 1]
-const removeRepeatedNumbers = (array) =>
-  [...new Set(array)] // A value in a Set() can only appear once
 
-// Implementation
-const newSorted = removeRepeatedNumbers(numberArray).sort((a, b) => a - b)
-console.log(newSorted[newSorted.length - 2])
+const secondLargestElement = (array) => {
+  const largestElement = Math.max(...array)
+  let element = 0
+
+  for (let i = 0; i < array.length; i++) {
+    if (element < array[i] && array[i] !== largestElement) {
+      element = array[i]
+    }
+  }
+
+  return element
+}
+
+
+
+export { secondLargestElement }
