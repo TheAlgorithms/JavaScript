@@ -23,4 +23,3 @@ const secondLargestElement = (array) => {
 }
 
 export { secondLargestElement }
-
