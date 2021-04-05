@@ -1,6 +1,6 @@
 # CONTRIBUTORS
 
--[@aostark] (https://github.com/aostark)
+- [@aostark](https://github.com/aostark)
 
 - [@toihirhalim](https://github.com/toihirhalim)
 
