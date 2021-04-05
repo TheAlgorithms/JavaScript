@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@aostark](https://github.com/aostark)
+
 - [@toihirhalim](https://github.com/toihirhalim)
 
 - [@AtulChourasia](https://github.com/AtulChourasia)
