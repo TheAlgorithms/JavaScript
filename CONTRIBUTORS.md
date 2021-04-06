@@ -5867,3 +5867,5 @@
 - [@pratiksha269](https://github.com/pratiksha269/)
 
 - [@queenyjain](https://github.com/queenyjain)
+
+- [@patrishoo](https://github.com/patrishoo)
