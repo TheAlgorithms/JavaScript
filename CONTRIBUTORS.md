@@ -1,7 +1,9 @@
 # CONTRIBUTORS
 
+- [@anish-m-code](https://github.com/anish-m-code)
+
 - [@aostark](https://github.com/aostark)
- 
+
 - [@toihirhalim](https://github.com/toihirhalim)
 
 - [@AtulChourasia](https://github.com/AtulChourasia)
@@ -5703,7 +5705,7 @@
 - [@YheraldBautista](https://github.com/YheraldBautista/)
 
 - [@gerald-tetteh](https://github.com/gerald-tetteh)
- 
+
 - [@alexnathan91](https://github.com/alexnathan91)
 
 - [@UrangaEsteban](https://github.com/UrangaEsteban)
@@ -5734,6 +5736,8 @@
 
 - [@zmaaj](https://github.com/zmaaj/)
 
+>>>>>>> f134776435ecd6bd882187282eca3ec83dcbb46b
+
 - [@Alirezak2n](https://github.com/Alirezak2n/)
 
 - [@mateomazzucco11](https://github.com/mateomazzucco11/)
@@ -5753,6 +5757,8 @@
 - [@pina-k](https://github.com/pina-k)
 
 - [@lovemytux](https://github.com/lovemytux)
+
+- [@akifunal](https://github.com/akifunal)
 
 - [@raymanlee89](https://github.com/raymanlee89/)
 
@@ -5811,3 +5817,17 @@
 - [@tamones]((https://github.com/tamones)
 
 - [@tmtribe20](https://github.com/tmtribe20)
+
+- [@dariodiaz](https://github.com/dariodiaz)
+
+- [@srikrishnanSK](https://github.com/srikrishnanSK)
+
+- [@mikelakoju](https://github.com/mikelakoju)
+
+- [@patalexander](https://github.com/patalexander)
+
+- [@Sahil-Poonia](https://github.com/Sahil-Poonia)
+
+- [@christianmu](https://github.com/christianmu/)
+
+- [@PranshuSrivastava](https://github.com/PranshuSrivastava)
