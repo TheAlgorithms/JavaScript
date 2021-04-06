@@ -7,6 +7,7 @@
 ![update_directory_md](https://github.com/TheAlgorithms/Javascript/workflows/update_directory_md/badge.svg)
 ![](https://img.shields.io/github/repo-size/TheAlgorithms/Javascript.svg?label=Repo%20size&style=flat-square)&nbsp;
 
+
 ### All algorithms implemented in JavaScript (for educational purposes only)
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/TheAlgorithms/Javascript)&nbsp;
 

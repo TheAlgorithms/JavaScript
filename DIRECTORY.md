@@ -211,6 +211,7 @@
   * [CombSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/CombSort.js)
   * [CountingSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/CountingSort.js)
   * [CycleSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/CycleSort.js)
+  * [FindSecondLargestElement](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/FindSecondLargestElement.js)
   * [FlashSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/FlashSort.js)
   * [GnomeSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/GnomeSort.js)
   * [HeapSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/HeapSort.js)
