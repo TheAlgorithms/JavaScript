@@ -5854,4 +5854,8 @@
 
 - [@dropEm69](https://github.com/dropEm69)
 
+- [@koolwafer](https://github.com/koolwafer)
+
+- [@kaustavpaul1297](https://github.com/kaustavpaul1297)
+
 - [@queenyjain](https://github.com/queenyjain)
