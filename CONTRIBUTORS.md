@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@aostark](https://github.com/aostark)
+ 
 - [@toihirhalim](https://github.com/toihirhalim)
 
 - [@AtulChourasia](https://github.com/AtulChourasia)
@@ -5791,3 +5793,21 @@
 - [@mariamparvez](https://github.com/mariamparvez/)
 
 - [@boaztanui](https://github.com/boaztanui)
+
+- [@Adithya-Srinivas](https://github.com/Adithya-Srinivas)
+
+- [@Luiz-Darbem](https://github.com/tazeomaximo)
+
+- [@mallia-pk](https://github.com/mallia-pk)
+
+- [@koolwafer](https://github.com/koolwafer)
+
+- [@TheSpecksy](https://github.com/TheSpecksy)
+
+- [@jenchen-dev](https://github.com/jenchen-dev)
+
+- [@prabin-git](https://github.com/prabin-git)
+
+- [@tamones]((https://github.com/tamones)
+
+- [@tmtribe20](https://github.com/tmtribe20)
