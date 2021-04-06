@@ -5834,8 +5834,12 @@
 
 - [@Shazil2154](https://github.com/Shazil2154)
 
--[@aEmreAydemir](https://github.com/aEmreAydemir)
+- [@aEmreAydemir](https://github.com/aEmreAydemir)
 
--[@Amitava100](https://github.com/Amitava100)
+- [@Amitava100](https://github.com/Amitava100)
+
+- [@kanidja22](https://github.com/Kanidja22)
+
+- [@ashishk831](https://github.com/ashishk831)
 
 - [@queenyjain](https://github.com/queenyjain)
