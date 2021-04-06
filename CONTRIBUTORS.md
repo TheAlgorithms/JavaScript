@@ -5862,3 +5862,4 @@
 
 - [@tingyunchiu](https://github.com/tingyunchiu)
 
+- [@claudiobarsante](https://github.com/claudiobarsante)
