@@ -1,5 +1,9 @@
 # CONTRIBUTORS
 
+- [@anish-m-code](https://github.com/anish-m-code)
+
+- [@aostark](https://github.com/aostark)
+ 
 - [@toihirhalim](https://github.com/toihirhalim)
 
 - [@AtulChourasia](https://github.com/AtulChourasia)
@@ -5805,3 +5809,9 @@
 -[@tamones]((https://github.com/tamones)
 
 -[@tmtribe20](https://github.com/tmtribe20)
+
+-[@dariodiaz](https://github.com/dariodiaz)
+
+-[@srikrishnanSK](https://github.com/srikrishnanSK)
+
+-[@Sahil-Poonia](https://github.com/Sahil-Poonia)
