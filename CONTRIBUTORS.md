@@ -5807,3 +5807,5 @@
 -[@tamones]((https://github.com/tamones)
 
 -[@tmtribe20](https://github.com/tmtribe20)
+
+-[@dariodiaz](https://github.com/dariodiaz)
