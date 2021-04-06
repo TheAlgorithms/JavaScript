@@ -9,6 +9,14 @@
   "author": "TheAlgorithms",
   "license": "GPL-3.0",
   "dependencies": {
+  <<<<<<< master
+    "@babel/core": "^7.13.14",
+    "@babel/plugin-transform-runtime": "^7.13.10",
+    "@babel/preset-env": "^7.13.12",
+    "jsdom": "^16.5.2",
+    "node": "^14.16.0",
+    "node-fetch": "2.6.1"
+  =======
     "@babel/core": "^7.11.6",
     "@babel/plugin-transform-runtime": "^7.11.5",
     "@babel/preset-env": "^7.11.5",
@@ -16,6 +24,7 @@
     "node": "^14.13.1",
     "node-fetch": "2.6.1",
     "atob": "2.1.2"
+  >>>>>>> master
   },
   "standard": {
     "env": [
@@ -23,9 +32,9 @@
     ]
   },
   "devDependencies": {
-    "babel-jest": "^26.3.0",
+    "babel-jest": "^26.6.3",
     "doctest": "^0.17.1",
-    "jest": "^26.4.2",
+    "jest": "^26.6.3",
     "standard": "^14.3.4"
   }
 }
