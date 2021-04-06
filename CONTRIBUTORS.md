@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@anish-m-code](https://github.com/anish-m-code)
+
 - [@aostark](https://github.com/aostark)
  
 - [@toihirhalim](https://github.com/toihirhalim)
