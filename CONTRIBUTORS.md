@@ -5736,8 +5736,6 @@
 
 - [@zmaaj](https://github.com/zmaaj/)
 
->>>>>>> f134776435ecd6bd882187282eca3ec83dcbb46b
-
 - [@Alirezak2n](https://github.com/Alirezak2n/)
 
 - [@mateomazzucco11](https://github.com/mateomazzucco11/)
@@ -5835,3 +5833,5 @@
 - [@malik-zee-code](https://github.com/malik-zee-code)
 
 - [@Shazil2154](https://github.com/Shazil2154)
+
+- [@queenyjain](https://github.com/queenyjain)
