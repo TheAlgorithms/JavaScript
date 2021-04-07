@@ -5866,6 +5866,6 @@
 
 - [@Docstone](https://github.com/Docstone)
 
-- [@charan225] (https://github.com/charan225)
+- [@charan225](https://github.com/charan225)
 
-- [@xenark] (https://github.com/xenark)
+- [@xenark](https://github.com/xenark)
