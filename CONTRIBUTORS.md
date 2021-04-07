@@ -1,4 +1,4 @@
-# CONTRIBUTORS
+﻿# CONTRIBUTORS
 
 - [@anish-m-code](https://github.com/anish-m-code)
 
@@ -5885,4 +5885,6 @@
 
 - [@blopez24](https://github.com/blopez24)
 
--[@oybek703](https://github.com/oybek703)
+- [@oybek703](https://github.com/oybek703)
+
+- [@wahyuts](https://github.com/wahyuts)
