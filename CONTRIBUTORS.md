@@ -44,6 +44,8 @@
 
 - [@AbhijeetSatpute](https://github.com/abhijeetsatpute)
 
+- [@joancodes](https://github.com/joancodes)
+
 - [@joaquiera](https://github.com/joaquiera)
 
 - [@ishansinghal9810](https://github.com/ishansinghal9810)
