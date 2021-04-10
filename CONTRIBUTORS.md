@@ -1,4 +1,4 @@
-# CONTRIBUTORS
+﻿# CONTRIBUTORS
 
 - [@anish-m-code](https://github.com/anish-m-code)
 
@@ -5900,6 +5900,8 @@
 
 - [@oybek703](https://github.com/oybek703)
 
+- [@wahyuts](https://github.com/wahyuts)
+
 - [@rahul007cdr](https://github.com/rahul007cdr)
 
 - [@TyroneJensen](https://github.com/TyroneJensen)
@@ -5921,4 +5923,3 @@
 - [@aoandrade1](https://github.com/aoandrade1/)
 
 - [@mhasan341](https://github.com/mhasan341)
-
