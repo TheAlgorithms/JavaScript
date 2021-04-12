@@ -67,7 +67,7 @@ true
  * @param value Brightness-value of the color.
  * @return The tuple of RGB-components.
  */
-function hsvToRgb (hue, saturation, value) {
+function hsvToRgb (hue, saturation, value) { // eslint-disable-line no-unused-vars
   if (hue < 0 || hue > 360) {
     throw new Error('hue should be between 0 and 360')
   }
@@ -96,7 +96,7 @@ function hsvToRgb (hue, saturation, value) {
  * @param blue Blue-component of the color.
  * @return The tuple of HSV-components.
  */
-function rgbToHsv (red, green, blue) {
+function rgbToHsv (red, green, blue) { // eslint-disable-line no-unused-vars
   if (red < 0 || red > 255) {
     throw new Error('red should be between 0 and 255')
   }
@@ -132,7 +132,7 @@ function rgbToHsv (red, green, blue) {
   return [hue, saturation, value]
 }
 
-function approximatelyEqualHsv (hsv1, hsv2) {
+function approximatelyEqualHsv (hsv1, hsv2) { // eslint-disable-line no-unused-vars
   const bHue = Math.abs(hsv1[0] - hsv2[0]) < 0.2
   const bSaturation = Math.abs(hsv1[1] - hsv2[1]) < 0.002
   const bValue = Math.abs(hsv1[2] - hsv2[2]) < 0.002
