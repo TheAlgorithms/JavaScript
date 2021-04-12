@@ -3,7 +3,7 @@
  * together in various ways to reproduce a broad array of colors. The name of the model comes from
  * the initials of the three additive primary colors, red, green, and blue. Meanwhile, the HSV
  * representation models how colors appear under light. In it, colors are represented using three
- * components: hue, saturation and (brightness-)value. This class provides methods for converting
+ * components: hue, saturation and (brightness-)value. This file provides functions for converting
  * colors from one representation to the other. (description adapted from
  * https://en.wikipedia.org/wiki/RGB_color_model and https://en.wikipedia.org/wiki/HSL_and_HSV).
  */
@@ -142,6 +142,10 @@ function approximatelyEqualHsv (hsv1, hsv2) {
 
 function getRgbBySection (
   hueSection, chroma, matchValue, secondLargestComponent) {
+  function convertToInt (input) {
+    return Math.round(255 * input)
+  }
+
   let red
   let green
   let blue
@@ -173,8 +177,4 @@ function getRgbBySection (
   }
 
   return [red, green, blue]
-}
-
-function convertToInt (input) {
-  return Math.round(255 * input)
 }
