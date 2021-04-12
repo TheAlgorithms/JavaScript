@@ -35,8 +35,7 @@ Test hsvToRgb-method
 [128, 32, 80]
 
 Test rgbToHsv-method
-approximate-assertions needed because of small deviations due to converting between
-int-values and double-values.
+function "approximatelyEqualHsv" needed because of small deviations due to rounding for the RGB-values.
 > approximatelyEqualHsv(rgbToHsv(0, 0, 0), [0, 0, 0])
 true
 > approximatelyEqualHsv(rgbToHsv(255, 255, 255), [0, 0, 1])
