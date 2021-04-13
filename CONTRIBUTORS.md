@@ -2,6 +2,8 @@
 
 - [@anish-m-code](https://github.com/anish-m-code)
 
+- [@KaramveerSidhu](https://github.com/KaramveerSidhu)
+
 - [@aostark](https://github.com/aostark)
 
 - [@toihirhalim](https://github.com/toihirhalim)
@@ -5961,3 +5963,13 @@
 -[@BabymLIN](https://github.com/babymlin)
 
 -[@MatejDelic](https://github.com/MatejDelic)
+
+-[@jsam7](https://github.com/jsam7)
+
+-[@ChloeBors](https://github.com/ChloeBors)
+
+- [@Rb-wahid](https://github.com/Rb-wahid) 🇧🇩
+
+- [@LaterDrom](https://github.com/LaterDrom)
+
+-[@aloresarts](https://github.com/aloresarts)
