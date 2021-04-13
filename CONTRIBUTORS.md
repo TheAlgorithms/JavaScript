@@ -5876,7 +5876,7 @@
 
 - [@mariagomez982](https://github.com/mariagomez982/)
 
-- [@charan225] (https://github.com/charan225)
+- [@charan225](https://github.com/charan225)
 
 - [@HrvojeRobert6](https://github.com/HrvojeRobert6)
 
