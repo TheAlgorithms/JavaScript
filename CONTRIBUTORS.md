@@ -5816,7 +5816,7 @@
 
 - [@prabin-git](https://github.com/prabin-git)
 
-- [@tamones]((https://github.com/tamones)
+- [@tamones](https://github.com/tamones)
 
 - [@tmtribe20](https://github.com/tmtribe20)
 
