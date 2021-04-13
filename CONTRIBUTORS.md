@@ -2,6 +2,8 @@
 
 - [@anish-m-code](https://github.com/anish-m-code)
 
+- [@KaramveerSidhu](https://github.com/KaramveerSidhu)
+
 - [@aostark](https://github.com/aostark)
 
 - [@toihirhalim](https://github.com/toihirhalim)
