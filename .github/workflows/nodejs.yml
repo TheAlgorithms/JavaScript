@@ -9,18 +9,16 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: Use Node.js ${{ matrix.node-version }}
-      uses: actions/setup-node@v1
+      uses: actions/setup-node@v2
       with:
         node-version: ${{ matrix.node-version }}
     - name: npm install, build, and test
       run: |
         npm install doctest standard --save-dev
-        npx doctest **/*.js || true  # TODO: error: Line 1: Unexpected token >>
+        npx doctest **/*.js
         npx standard
         npm ci
         npm run build --if-present
-        # TODO: Remove the next line when #539 is fixed.
-        rm  Linear-Algebra/test/test.js String/LevenshteinDistance.test.js
         npm test
       env:
         CI: true
