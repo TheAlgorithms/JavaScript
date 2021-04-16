@@ -109,6 +109,7 @@
   * [BinaryExponentiationIterative](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/BinaryExponentiationIterative.js)
   * [decimalIsolate](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/decimalIsolate.js)
   * [DigitSum](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/DigitSum.js)
+  * [EulerMethod](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/EulerMethod.js)
   * [EulersTotientFunction](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/EulersTotientFunction.js)
   * [Factorial](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/Factorial.js)
   * [Factors](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/Factors.js)
