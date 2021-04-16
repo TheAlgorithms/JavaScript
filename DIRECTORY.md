@@ -118,6 +118,7 @@
   * [GridGet](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/GridGet.js)
   * [isDivisible](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/isDivisible.js)
   * [isOdd](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/isOdd.js)
+  * [Mandelbrot](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/Mandelbrot.js)
   * [MatrixMultiplication](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/MatrixMultiplication.js)
   * [MeanSquareError](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/MeanSquareError.js)
   * [ModularBinaryExponentiationRecursive](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/ModularBinaryExponentiationRecursive.js)
