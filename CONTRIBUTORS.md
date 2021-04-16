@@ -2,6 +2,8 @@
 
 - [@anish-m-code](https://github.com/anish-m-code)
 
+- [@KaramveerSidhu](https://github.com/KaramveerSidhu)
+
 - [@aostark](https://github.com/aostark)
 
 - [@toihirhalim](https://github.com/toihirhalim)
@@ -5926,36 +5928,60 @@
 
 - [@mhasan341](https://github.com/mhasan341)
 
--[@aoandrade1](https://github.com/aoandrade1/)
+- [@aoandrade1](https://github.com/aoandrade1/)
 
--[@panvo](https://github.com/panvo)
+- [@panvo](https://github.com/panvo)
 
--[@DindoLeonard](https://github.com/DindoLeonard) 
+- [@DindoLeonard](https://github.com/DindoLeonard)
 
--[@boraneak](https://github.com/boraneak)
+- [@boraneak](https://github.com/boraneak)
 
--[@kelvinho1020](https://github.com/kelvinho1020)
+- [@kelvinho1020](https://github.com/kelvinho1020)
 
--[@issacvp](https://github.com/issacvp)
+- [@issacvp](https://github.com/issacvp)
 
--[@mdz24](https://github.com/mdz24)
+- [@mdz24](https://github.com/mdz24)
 
--[@Aphelion-im](https://github.com/Aphelion-im)
+- [@Aphelion-im](https://github.com/Aphelion-im)
 
--[@hailstormCodes](https://github.com/hailstormCodes)
+- [@hailstormCodes](https://github.com/hailstormCodes)
 
--[@amino19](https://github.com/amino19)
+- [@amino19](https://github.com/amino19)
 
--[@yuvatimankar](https://github.com/yuvatimankar)
+- [@yuvatimankar](https://github.com/yuvatimankar)
 
--[@chiragdatwani](https://github.com/chiragdatwani)
+- [@chiragdatwani](https://github.com/chiragdatwani)
 
--[@MariaJesus0527](https://github.com/MariaJesus0527)
+- [@MariaJesus0527](https://github.com/MariaJesus0527)
 
--[@Aash417](https://github.com/Aash417)
+- [@Aash417](https://github.com/Aash417)
 
--[@prodevmrp](https://github.com/prodevmrp)
+- [@prodevmrp](https://github.com/prodevmrp)
 
--[@rodrigoherrerai](https://github.com/rodrigoherrerai/)
+- [@rodrigoherrerai](https://github.com/rodrigoherrerai/)
 
+- [@mdariam](https://github.com/MDariaM)
 
+- [@BabymLIN](https://github.com/babymlin)
+
+- [@MatejDelic](https://github.com/MatejDelic)
+
+- [@jsam7](https://github.com/jsam7)
+
+- [@ChloeBors](https://github.com/ChloeBors)
+
+- [@Rb-wahid](https://github.com/Rb-wahid)
+
+- [@LaterDrom](https://github.com/LaterDrom)
+
+- [@aloresarts](https://github.com/aloresarts)
+
+- [@erdookuhwa](https://github.com/erdookuhwa)
+
+- [@surajanand-j](https://github.com/surajanand-j)
+
+- [@sonofman5024](https://github.com/sonofman5024)
+
+- [@al-yakubovich](https://github.com/al-yakubovich)
+
+- [@Insidiae](https://github.com/Insidiae)
