@@ -5982,9 +5982,17 @@
 
 - [@al-yakubovich](https://github.com/al-yakubovich)
 
-- [@sherlocked01](https://github.com/sherlocked01)
+- [@klientcos] (https://github.com/klientcos)
 
 - [@Insidiae](https://github.com/Insidiae)
+
+- [@MihaelaCretu11](https://github.com/MihaelaCretu11)
+
+- [@AakashChahal](https://github.com/AakashChahal)
+
+- [@Mirzohid22](https://github.com/Mirzohid22)
+
+- [@sherlocked01](https://github.com/sherlocked01)
 
 - [@bamabybee](https://github.com/bamabybee)
 
