@@ -5982,7 +5982,13 @@
 
 - [@al-yakubovich](https://github.com/al-yakubovich)
 
-- [@klientcos] (https://github.com/klientcos)
+- [@muczaczos](https://github.com/muczaczaczos)
+
+- [@sherlocked01](https://github.com/sherlocked01)
+
+- [@josueazambrano](https://github.com/josueazambrano/)
+
+- [@klientcos](https://github.com/klientcos)
 
 - [@Insidiae](https://github.com/Insidiae)
 
@@ -5991,8 +5997,6 @@
 - [@AakashChahal](https://github.com/AakashChahal)
 
 - [@Mirzohid22](https://github.com/Mirzohid22)
-
-- [@sherlocked01](https://github.com/sherlocked01)
 
 - [@bamabybee](https://github.com/bamabybee)
 
