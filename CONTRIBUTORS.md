@@ -5982,6 +5982,10 @@
 
 - [@al-yakubovich](https://github.com/al-yakubovich)
 
+- [@Insidiae](https://github.com/Insidiae)
+
+- [@hubirslv](https://github.com/hubirslv)
+
 - [@muczaczos](https://github.com/muczaczaczos)
 
 - [@sherlocked01](https://github.com/sherlocked01)
@@ -5989,8 +5993,6 @@
 - [@josueazambrano](https://github.com/josueazambrano/)
 
 - [@klientcos](https://github.com/klientcos)
-
-- [@Insidiae](https://github.com/Insidiae)
 
 - [@MihaelaCretu11](https://github.com/MihaelaCretu11)
 
@@ -6003,3 +6005,5 @@
 - [@j-mrosa](https://github.com/j-mrosa)
 
 - [@Rajcody](https://github.com/Rajcody)
+
+- [@kazblacktopp](https://github.com/kazblacktopp)
