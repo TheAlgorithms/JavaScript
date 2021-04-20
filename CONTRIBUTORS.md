@@ -5982,11 +5982,11 @@
 
 - [@al-yakubovich](https://github.com/al-yakubovich)
 
+- [@muczaczos](https://github.com/muczaczos)
+
 - [@Insidiae](https://github.com/Insidiae)
 
 - [@hubirslv](https://github.com/hubirslv)
-
-- [@muczaczos](https://github.com/muczaczaczos)
 
 - [@sherlocked01](https://github.com/sherlocked01)
 
