@@ -5955,7 +5955,9 @@
 - [@Aash417](https://github.com/Aash417)
 
 - [@prodevmrp](https://github.com/prodevmrp)
--[@bimbo-ade](https://github.com/bimbo-ade)
+
+- [@bimbo-ade](https://github.com/bimbo-ade)
+
 - [@rodrigoherrerai](https://github.com/rodrigoherrerai/)
 
 - [@mdariam](https://github.com/MDariaM)
@@ -6011,4 +6013,11 @@
 - [@aspmac](https://github.com/aspmac)
 
 - [@originalsidd](https://github.com/aspmac/originalsidd)
+
 - [@helenonewhouse](https://github.com/helenonewhouse)
+
+- [@nikita-jain-01](https://github.com/nikita-jain-01)
+
+- [@iKadum](https://github.com/iKadum)
+
+- [@abduturkman](https://github.com/abduturkman)
