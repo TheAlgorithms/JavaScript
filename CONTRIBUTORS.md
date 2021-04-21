@@ -5954,14 +5954,10 @@
 
 - [@Aash417](https://github.com/Aash417)
 
-<<<<<<< HEAD
-- [@prodevmrp](https://github.com/prodevmrp) -[@bimbo-ade](https://github.com/bimbo-ade)
-=======
 - [@prodevmrp](https://github.com/prodevmrp)
 
 - [@bimbo-ade](https://github.com/bimbo-ade)
 
->>>>>>> cfe3c3dd6e4b7099f742a818365789873b7a88c9
 - [@rodrigoherrerai](https://github.com/rodrigoherrerai/)
 
 - [@mdariam](https://github.com/MDariaM)
@@ -6035,3 +6031,5 @@
 - [@abduturkman](https://github.com/abduturkman)
 
 - [@JudithF92](https://github.com/JudithF92)
+
+- [@niinortey12](https://github.com/niinortey12)
