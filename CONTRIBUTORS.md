@@ -1,5 +1,7 @@
 ﻿# CONTRIBUTORS
 
+- [@MattCSmith](https://github.com/mattcsmith)
+
 - [@anish-m-code](https://github.com/anish-m-code)
 
 - [@KaramveerSidhu](https://github.com/KaramveerSidhu)
@@ -6033,3 +6035,5 @@
 - [@JudithF92](https://github.com/JudithF92)
 
 - [@niinortey12](https://github.com/niinortey12)
+
+- [@oferro](https://github.com/oferro)
