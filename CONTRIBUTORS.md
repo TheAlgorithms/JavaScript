@@ -5986,13 +5986,15 @@
 
 - [@al-yakubovich](https://github.com/al-yakubovich)
 
-- [@muczaczos](https://github.com/muczaczos)
+- [@lexlu726](https://github.com/lexlu726)
+
+- [@sherlocked01](https://github.com/sherlocked01)
 
 - [@Insidiae](https://github.com/Insidiae)
 
-- [@hubirslv](https://github.com/hubirslv)
+- [@muczaczos](https://github.com/muczaczaczos)
 
-- [@sherlocked01](https://github.com/sherlocked01)
+- [@hubirslv](https://github.com/hubirslv)
 
 - [@josueazambrano](https://github.com/josueazambrano/)
 
@@ -6009,6 +6011,8 @@
 - [@j-mrosa](https://github.com/j-mrosa)
 
 - [@Rajcody](https://github.com/Rajcody)
+
+- [@nomanbaig98](https://github.com/nomanbaig98)
 
 - [@kazblacktopp](https://github.com/kazblacktopp)
 
@@ -6041,3 +6045,9 @@
 - [@CaribbeanViking](https://github.com/CaribbeanViking)
 
 - [@Mygithub-Data](https://github.com/Mygithub-Data)
+
+- [@P5anj1l](https://github.com/P5anj1l/)
+
+- [@zakelhajoui](https://github.com/zakelhajoui)
+
+- [@Akhilesh1621](https://github.com/Akhilesh1621)
