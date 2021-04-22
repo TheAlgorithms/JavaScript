@@ -1,5 +1,7 @@
 ﻿# CONTRIBUTORS
 
+- [@MattCSmith](https://github.com/mattcsmith)
+
 - [@anish-m-code](https://github.com/anish-m-code)
 
 - [@KaramveerSidhu](https://github.com/KaramveerSidhu)
@@ -5956,6 +5958,8 @@
 
 - [@prodevmrp](https://github.com/prodevmrp)
 
+- [@bimbo-ade](https://github.com/bimbo-ade)
+
 - [@rodrigoherrerai](https://github.com/rodrigoherrerai/)
 
 - [@mdariam](https://github.com/MDariaM)
@@ -5982,9 +5986,23 @@
 
 - [@al-yakubovich](https://github.com/al-yakubovich)
 
-- [@sherlocked01](https://github.com/sherlocked01)
+- [@muczaczos](https://github.com/muczaczos)
 
 - [@Insidiae](https://github.com/Insidiae)
+
+- [@hubirslv](https://github.com/hubirslv)
+
+- [@sherlocked01](https://github.com/sherlocked01)
+
+- [@josueazambrano](https://github.com/josueazambrano/)
+
+- [@klientcos](https://github.com/klientcos)
+
+- [@MihaelaCretu11](https://github.com/MihaelaCretu11)
+
+- [@AakashChahal](https://github.com/AakashChahal)
+
+- [@Mirzohid22](https://github.com/Mirzohid22)
 
 - [@bamabybee](https://github.com/bamabybee)
 
@@ -5993,3 +6011,38 @@
 - [@Rajcody](https://github.com/Rajcody)
 
 - [@nomanbaig98](https://github.com/nomanbaig98)
+
+- [@kazblacktopp](https://github.com/kazblacktopp)
+
+- [@aspmac](https://github.com/aspmac)
+
+- [@originalsidd](https://github.com/aspmac/originalsidd)
+
+- [@Suhrid-Talukder333](https://github.com/Suhrid-Talukder333)
+
+- [@nonpensavo](https://github.com/nonpensavo)
+
+- [@joesanthosh24](https://github.com/joesanthosh24)
+
+- [@sdeadric](https://github.com/sdeadric)
+
+- [@helenonewhouse](https://github.com/helenonewhouse)
+
+- [@nikita-jain-01](https://github.com/nikita-jain-01)
+
+- [@iKadum](https://github.com/iKadum)
+
+- [@abduturkman](https://github.com/abduturkman)
+
+- [@JudithF92](https://github.com/JudithF92)
+
+- [@niinortey12](https://github.com/niinortey12)
+
+- [@oferro](https://github.com/oferro)
+
+- [@CaribbeanViking](https://github.com/CaribbeanViking)
+
+- [@Mygithub-Data](https://github.com/Mygithub-Data)
+
+- [@P5anj1l](https://github.com/P5anj1l/)
+
