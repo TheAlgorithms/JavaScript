@@ -6052,6 +6052,22 @@
 
 - [@Akhilesh1621](https://github.com/Akhilesh1621)
 
+- [@ArpanGyawali](https://github.com/ArpanGyawali)
+
 - [@Rub4ik](https://github.com/Rub4ik)
 
+<<<<<<< HEAD
 - [@niel98](https://github.com/niel98)
+=======
+- [@idanishkalam](https://github.com/idanishkalam)
+
+- [@dipu702](https://github.com/Dipu702)
+
+- [@Ajithkr0129](https://github.com/Ajithkr0129)
+
+- [@davidchangoluisa](https://github.com/davidchangoluisa)
+
+- [@AJAX-123456](https://github.com/AJAX-123456)
+
+- [@inolas05](https://github.com/inolas05)
+>>>>>>> ac5a8441bfe5c14c2aad06fd6c2da7f77c057927
