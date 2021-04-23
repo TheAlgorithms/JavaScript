@@ -5684,6 +5684,8 @@
 
 - [@Lynx-Lynx](https://github.com/Lynx-Lynx)
 
+- [@dmei8](https://github.com/dmei8)
+- [@div-j](https://github.com/div-j)
 - [@fidsta1990](https://github.com/fidsta1990)
 
 - [@dmei8](https://github.com/dmei8)
@@ -6083,3 +6085,4 @@
 - [@ajschaefer](https://github.com/ajschaefer)
 
 - [@emre273](https://github.com/emre273)
+
