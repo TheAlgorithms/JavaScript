@@ -5684,6 +5684,8 @@
 
 - [@Lynx-Lynx](https://github.com/Lynx-Lynx)
 
+- [@dmei8](https://github.com/dmei8)
+- [@div-j](https://github.com/div-j)
 - [@fidsta1990](https://github.com/fidsta1990)
 
 - [@dmei8](https://github.com/dmei8)
@@ -6040,6 +6042,8 @@
 
 - [@niinortey12](https://github.com/niinortey12)
 
+- [@PS-Development](https://github.com/PS-Development)
+
 - [@oferro](https://github.com/oferro)
 
 - [@CaribbeanViking](https://github.com/CaribbeanViking)
@@ -6051,6 +6055,8 @@
 - [@zakelhajoui](https://github.com/zakelhajoui)
 
 - [@Akhilesh1621](https://github.com/Akhilesh1621)
+
+- [@miki-wedi](https://github.com/miki-wedi)
 
 - [@ArpanGyawali](https://github.com/ArpanGyawali)
 
@@ -6076,3 +6082,12 @@
 
 - [@Mehrez27](https://github.com/Mehrez27)
 
+- [@Edmilson-da-Conceicao](https://github.com/Edmilson-da-Conceicao)
+
+- [@MMathew93](https://github.com/MMathew93)
+
+- [@ajschaefer](https://github.com/ajschaefer)
+
+- [@emre273](https://github.com/emre273)
+
+- [@ozaid15](https://github.com/ozaid15)
