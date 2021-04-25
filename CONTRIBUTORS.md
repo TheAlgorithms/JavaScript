@@ -1,5 +1,7 @@
 ﻿# CONTRIBUTORS
 
+- [@hebilidu](https://github.com/hebilidu)
+
 - [@MattCSmith](https://github.com/mattcsmith)
 
 - [@anish-m-code](https://github.com/anish-m-code)
@@ -6100,3 +6102,9 @@
 - [@heuzin](https://github.com/heuzin)
 
 - [@UPBKRATOS](https://github.com/UPBKRATOS)
+
+- [@abidemit](https://github.com/abidemit)
+
+- [@howard1352h](https://github.com/howard1352h)
+
+- [@Devanshkr](https://github.com/Devanshkr)
