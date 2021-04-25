@@ -1,5 +1,7 @@
 ﻿# CONTRIBUTORS
 
+- [@hebilidu](https://github.com/hebilidu)
+
 - [@MattCSmith](https://github.com/mattcsmith)
 
 - [@anish-m-code](https://github.com/anish-m-code)
@@ -6102,4 +6104,24 @@
 - [@UPBKRATOS](https://github.com/UPBKRATOS)
 
 - [@abidemit](https://github.com/abidemit)
+
 - [@happyboi93](https://github.com/happyboi93)
+=======
+
+- [@howard1352h](https://github.com/howard1352h)
+
+- [@Devanshkr](https://github.com/Devanshkr)
+
+- [@dev499](https://github.com/dev499)
+
+- [@david-borja](https://github.com/david-borja)
+
+- [@GohZHong](https://github.com/GohZHong)
+
+- [@EllaPrager](https://github.com/EllaPrager)
+
+- [@manimovassagh](https://github.com/manimovassagh)
+
+- [@jackoyau](https://github.com/jackoyau)
+
+- [@ns-dev-code](https://github.com/ns-dev-code) .
