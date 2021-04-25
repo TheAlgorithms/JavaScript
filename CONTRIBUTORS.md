@@ -6105,8 +6105,7 @@
 
 - [@abidemit](https://github.com/abidemit)
 
-- [@happyboi93](https://github.com/happyboi93)
-=======
+- # [@happyboi93](https://github.com/happyboi93)
 
 - [@howard1352h](https://github.com/howard1352h)
 
@@ -6131,3 +6130,5 @@
 -[@destinygreece](https://github.com/destinygreece)
 
 -[@atodeh](https://github.com/atodeh)
+
+-[@thecoderjt](https://github.com/TheCoderJT)
