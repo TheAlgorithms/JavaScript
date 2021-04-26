@@ -1,7 +1,7 @@
 ﻿# CONTRIBUTORS
--[@Lokesh01](https://github.com/Lokesh01)
-
 - [@hebilidu](https://github.com/hebilidu)
+
+- [@Lokesh01](https://github.com/Lokesh01)
 
 - [@MattCSmith](https://github.com/mattcsmith)
 
