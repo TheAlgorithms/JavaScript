@@ -1,4 +1,5 @@
 ﻿# CONTRIBUTORS
+
 -[@Lokesh01](https://github.com/Lokesh01)
 
 - [@hebilidu](https://github.com/hebilidu)
@@ -6106,8 +6107,7 @@
 
 - [@abidemit](https://github.com/abidemit)
 
-- [@happyboi93](https://github.com/happyboi93)
-=======
+- # [@happyboi93](https://github.com/happyboi93)
 
 - [@howard1352h](https://github.com/howard1352h)
 
@@ -6144,3 +6144,5 @@
 -[@TanjaKuo](https://github.com/TanjaKuo)
 
 -[@mbronstein1](https://github.com/mbronstein1)
+
+-[@AnthonyRodriguez93](https://github.com/AnthonyRodriguez93)
