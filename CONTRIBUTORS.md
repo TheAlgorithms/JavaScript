@@ -6153,3 +6153,7 @@
 - [@Schraut](https://github.com/Schraut)
 
 - [@kkcdp](https://github.com/kkcdp)
+
+- [@taroserigano](https://github.com/taroserigano)
+
+
