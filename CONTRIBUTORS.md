@@ -1,5 +1,6 @@
 ﻿# CONTRIBUTORS
--[@Lokesh01](https://github.com/Lokesh01)
+
+- [@Lokesh01](https://github.com/Lokesh01)
 
 - [@hebilidu](https://github.com/hebilidu)
 
@@ -18,6 +19,7 @@
 - [@AtulChourasia](https://github.com/AtulChourasia)
 
 - [@kaydee0502](https://github.com/kaydee0502)
+
 - [@dianacpg](https://github.com/dianacpg)
 
 - [@kira00007](https://github.com/kira00007)
@@ -6106,8 +6108,7 @@
 
 - [@abidemit](https://github.com/abidemit)
 
-- [@happyboi93](https://github.com/happyboi93)
-=======
+- # [@happyboi93](https://github.com/happyboi93)
 
 - [@howard1352h](https://github.com/howard1352h)
 
@@ -6127,22 +6128,24 @@
 
 - [@ns-dev-code](https://github.com/ns-dev-code)
 
-- [@radjesus](https://github.com/radjesus) .
+- [@radjesus](https://github.com/radjesus)
 
-- [@Naveen51020](https://github.com/Naveen51020)
+- [@destinygreece](https://github.com/destinygreece)
 
--[@destinygreece](https://github.com/destinygreece)
+- [@JohnMaturan97](https://github.com/JohnMaturan97)
 
--[@atodeh](https://github.com/atodeh)
+- [@ujju20](https://github.com/ujju20)
 
--[JohnMaturan97](https://github.com/JohnMaturan97)
+- [@ThanasisGio](https://github.com/ThanasisGio)
 
--[@ujju20](https://github.com/ujju20)
+- [@TanjaKuo](https://github.com/TanjaKuo)
 
--[@ThanasisGio](https://github.com/ThanasisGio)
+- [@mbronstein1](https://github.com/mbronstein1)
 
--[@TanjaKuo](https://github.com/TanjaKuo)
+- [@AnthonyRodriguez93](https://github.com/AnthonyRodriguez93)
 
--[@mbronstein1](https://github.com/mbronstein1)
+- [@atodeh](https://github.com/atodeh)
 
--[@btellefsen11](https://github.com/BTellefsen11)
+- [@thecoderjt](https://github.com/TheCoderJT)
+
+- [@btellefsen11](https://github.com/BTellefsen11)
