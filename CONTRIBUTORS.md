@@ -6066,13 +6066,13 @@
 
 - [@Akhilesh1621](https://github.com/Akhilesh1621)
 
+- [@idanishkalam](https://github.com/idanishkalam)
+
 - [@miki-wedi](https://github.com/miki-wedi)
 
 - [@ArpanGyawali](https://github.com/ArpanGyawali)
 
 - [@Rub4ik](https://github.com/Rub4ik)
-
-- [@idanishkalam](https://github.com/idanishkalam)
 
 - [@dipu702](https://github.com/Dipu702)
 
@@ -6110,7 +6110,7 @@
 
 - [@abidemit](https://github.com/abidemit)
 
-- # [@happyboi93](https://github.com/happyboi93)
+- [@happyboi93](https://github.com/happyboi93)
 
 - [@howard1352h](https://github.com/howard1352h)
 
