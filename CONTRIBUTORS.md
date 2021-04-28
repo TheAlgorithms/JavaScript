@@ -1,4 +1,4 @@
- # CONTRIBUTORS
+# CONTRIBUTORS
 
 - [@vsvijay987](https://github.com/vsvijay987)
 
@@ -6159,3 +6159,5 @@
 - [@ArpanAgnihotri](https://github.com/arpanagnihotri)
 
 - [@bonejah](https://github.com/boneja)
+
+- [@windycy](https://github.com/windycy)
