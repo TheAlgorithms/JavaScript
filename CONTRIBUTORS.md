@@ -1,4 +1,4 @@
-﻿# CONTRIBUTORS
+ # CONTRIBUTORS
 
 - [@Lokesh01](https://github.com/Lokesh01)
 
@@ -6153,3 +6153,5 @@
 - [@Schraut](https://github.com/Schraut)
 
 - [@kkcdp](https://github.com/kkcdp)
+
+- [@ArpanAgnihotri](https://github.com/arpanagnihotri)
