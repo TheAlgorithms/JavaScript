@@ -1,5 +1,7 @@
  # CONTRIBUTORS
 
+- [@vsvijay987](https://github.com/vsvijay987)
+
 - [@Lokesh01](https://github.com/Lokesh01)
 
 - [@hebilidu](https://github.com/hebilidu)
