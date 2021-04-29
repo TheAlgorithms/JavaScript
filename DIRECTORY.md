@@ -56,6 +56,8 @@
     * [AVLTree](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Tree/AVLTree.js)
     * [BinarySearchTree](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Tree/BinarySearchTree.js)
     * [Trie](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Tree/Trie.js)
+  * Vectors
+    * [Vector2](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Vectors/Vector2.js)
 
 ## Dynamic-Programming
   * [ClimbingStairs](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/ClimbingStairs.js)
