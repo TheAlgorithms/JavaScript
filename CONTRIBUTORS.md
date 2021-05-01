@@ -6197,3 +6197,6 @@
 - [@ionutgit](https://github.com/ionutgit)
 
 - [@fatinrose](https://github.com/fatinrose)
+
+- [@TidbitsJS](https://github.com/TidbitsJS)
+
