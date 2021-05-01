@@ -1,4 +1,4 @@
- # CONTRIBUTORS
+# CONTRIBUTORS
 
 - [@vsvijay987](https://github.com/vsvijay987)
 
@@ -6204,6 +6204,6 @@
 
 - [@dhruvhm](https://github.com/dhruvhm)
 
--[@malcomowenflood](https://github.com/malcomowenflood)
+- [@malcomowenflood](https://github.com/malcomowenflood)
 
--[@malcomowenflood](https://github.com/malcomowenflood)
+- [@TimaKreac](https://github.com/TimaKreac)
