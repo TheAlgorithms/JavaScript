@@ -26,6 +26,8 @@
 
 - [@kira00007](https://github.com/kira00007)
 
+- [@JMCrawf](https://github.com/JMCrawf)
+
 - [@johnduong](https://github.com/johnduong)
 
 - [@veganedge](https://github.com/veganedge)
