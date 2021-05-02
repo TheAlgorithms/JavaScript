@@ -10,6 +10,8 @@
 
 - [@anish-m-code](https://github.com/anish-m-code)
 
+- [@JMCrawf](https://github.com/JMCrawf)
+
 - [@KaramveerSidhu](https://github.com/KaramveerSidhu)
 
 - [@aostark](https://github.com/aostark)
