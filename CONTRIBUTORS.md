@@ -1,4 +1,4 @@
- # CONTRIBUTORS
+# CONTRIBUTORS
 
 - [@vsvijay987](https://github.com/vsvijay987)
 
@@ -6160,9 +6160,13 @@
 
 - [@kkcdp](https://github.com/kkcdp)
 
+- [@taroserigano](https://github.com/taroserigano)
+
 - [@ArpanAgnihotri](https://github.com/arpanagnihotri)
 
 - [@bonejah](https://github.com/boneja)
+
+- [@windycy](https://github.com/windycy)
 
 - [@MrJithil](https://github.com/MrJithil)
 
@@ -6208,6 +6212,5 @@
 
 - [@dhruvhm](https://github.com/dhruvhm)
 
--[@malcomowenflood](https://github.com/malcomowenflood)
+- [@malcomowenflood](https://github.com/malcomowenflood)
 
--[@malcomowenflood](https://github.com/malcomowenflood)
