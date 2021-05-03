@@ -1,4 +1,5 @@
 # CONTRIBUTORS
+- [@LR-Argentino](https://github.com/LR-Argentino)
 
 - [@vsvijay987](https://github.com/vsvijay987)
 
@@ -6215,3 +6216,8 @@
 - [@nancykwantify](https://github.com/nancykwantify)
 
 - [@sohaibafani](https://github.com/SohaibAfani/)
+
+- [@lampenny](https://github.com/lampenny/)
+
+- [@Geemarn](https://github.com/Geemarn/)
+- [@SUF145](https://github.com/SUF145/) 
