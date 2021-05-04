@@ -5,7 +5,7 @@ More at : https://en.wikipedia.org/wiki/Permutation
 */
 
 const createPermutations = (str) => {
-// convert string to array
+  // convert string to array
   const arr = str.split('')
 
   // get array length
@@ -34,4 +34,4 @@ const createPermutations = (str) => {
   return perms
 }
 
-console.log(createPermutations('abc')) // should print ["abc", "acb", "bac", "bca", "cab", "cba"]
+export { createPermutations }
