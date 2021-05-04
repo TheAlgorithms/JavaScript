@@ -6236,3 +6236,5 @@
 - [@jabaghSaeed](https://github.com/jabaghSaeed)
 
 - [@cntran](https://github.com/cntran/)
+
+- [@Soare95](https://github.com/Soare95)
