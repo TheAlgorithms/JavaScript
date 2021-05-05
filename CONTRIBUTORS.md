@@ -1,4 +1,5 @@
 # CONTRIBUTORS
+
 - [@LR-Argentino](https://github.com/LR-Argentino)
 
 - [@vsvijay987](https://github.com/vsvijay987)
@@ -6222,7 +6223,7 @@
 - [@lampenny](https://github.com/lampenny/)
 
 - [@Geemarn](https://github.com/Geemarn/)
-- [@SUF145](https://github.com/SUF145/) 
+- [@SUF145](https://github.com/SUF145/)
 
 - [@BossElijah](https://github.com/BossElijah)
 
@@ -6244,3 +6245,7 @@
 - [@Evanm97](https://github.com/Evanm97)
 
 - [@renanmenezesviolao](https://github.com/renanmenezesviolao)
+
+- [@archit-manek] (https://github.com/archit-manek)
+
+- [@ak-create] (https://github.com/ak-create)
