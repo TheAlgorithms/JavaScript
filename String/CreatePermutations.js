@@ -33,5 +33,4 @@ const createPermutations = (str) => {
   }
   return perms
 }
-
 export { createPermutations }
