@@ -110,7 +110,7 @@
   * [AverageMean](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/AverageMean.js)
   * [BinaryConvert](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/BinaryConvert.js)
   * [BinaryExponentiationIterative](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/BinaryExponentiationIterative.js)
-  * [decimalIsolate](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/decimalIsolate.js)
+  * [DecimalIsolate](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/DecimalIsolate.js)
   * [DigitSum](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/DigitSum.js)
   * [EulerMethod](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/EulerMethod.js)
   * [EulersTotientFunction](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/EulersTotientFunction.js)
