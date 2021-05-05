@@ -6246,10 +6246,10 @@
 
 - [@renanmenezesviolao](https://github.com/renanmenezesviolao)
 
-- [@archit-manek] (https://github.com/archit-manek)
+- [@archit-manek](https://github.com/archit-manek)
 
-- [@ak-create] (https://github.com/ak-create)
+- [@ak-create](https://github.com/ak-create)
 
-- [@AyeshaMunawar] (https://github.com/AyeshaMunawar-profile)
+- [@AyeshaMunawar](https://github.com/AyeshaMunawar-profile)
 
-- [@mrkc2303] (https://github.com/mrkc2303)
+- [@mrkc2303](https://github.com/mrkc2303)
