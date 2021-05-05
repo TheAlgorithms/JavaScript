@@ -6180,6 +6180,8 @@
 
 - [@faizan346](https://github.com/faizan346)
 
+- [@sanketwakhare](https://github.com/sanketwakhare)
+
 - [@GangulySrishti](https://github.com/GangulySrishti)
 
 - [@Ayush-singh-07](https://github.com/Ayush-singh-07)
@@ -6223,30 +6225,37 @@
 - [@lampenny](https://github.com/lampenny/)
 
 - [@Geemarn](https://github.com/Geemarn/)
+
 - [@SUF145](https://github.com/SUF145/)
 
 - [@BossElijah](https://github.com/BossElijah)
 
 - [@tarek90salim](https://github.com/tarek90salim)
 
--[@AlexMJesus](https://github.com/AlexMJesus)
+- [@AlexMJesus](https://github.com/AlexMJesus)
 
--[@Lucasanim](https://github.com/Lucasanim/)
+- [@Lucasanim](https://github.com/Lucasanim/)
 
 - [@lakshya-1209](https://github.com/lakshya-1209/)
+
 - [@jabaghSaeed](https://github.com/jabaghSaeed)
 
 - [@cntran](https://github.com/cntran/)
 
 - [@Soare95](https://github.com/Soare95)
 
--[@mrsharathps](https://github.com/mrsharathps)
+- [@mrsharathps](https://github.com/mrsharathps)
 
 - [@Evanm97](https://github.com/Evanm97)
 
 - [@renanmenezesviolao](https://github.com/renanmenezesviolao)
 
-- [@archit-manek] (https://github.com/archit-manek)
+- [@archit-manek](https://github.com/archit-manek)
 
-- [@ak-create] (https://github.com/ak-create)
-- [@AyeshaMunawar] (https://github.com/AyeshaMunawar-profile)
+- [@ak-create](https://github.com/ak-create)
+
+- [@AyeshaMunawar](https://github.com/AyeshaMunawar-profile)
+
+- [@mrkc2303](https://github.com/mrkc2303)
+
+- [@arfelrayarriola](https://github.com/arfelrayarriola)
