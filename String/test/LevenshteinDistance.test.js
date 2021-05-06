@@ -1,4 +1,4 @@
-import levenshteinDistance from './LevenshteinDistance'
+import { levenshteinDistance } from '../LevenshteinDistance'
 
 describe('levenshteinDistance', () => {
   it('should calculate edit distance between two strings', () => {

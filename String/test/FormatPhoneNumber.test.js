@@ -1,4 +1,4 @@
-import { formatPhoneNumber } from './FormatPhoneNumber'
+import { formatPhoneNumber } from '../FormatPhoneNumber'
 
 describe('PhoneNumberFormatting', () => {
   it('expects to return the formatted phone number', () => {
