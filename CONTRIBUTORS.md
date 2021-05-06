@@ -1,6 +1,10 @@
 # CONTRIBUTORS
 
+- [@LR-Argentino](https://github.com/LR-Argentino)
+
 - [@vsvijay987](https://github.com/vsvijay987)
+
+- [@kdgyimah](https://github.com/kdgyimah)
 
 - [@Lokesh01](https://github.com/Lokesh01)
 
@@ -6180,6 +6184,8 @@
 
 - [@faizan346](https://github.com/faizan346)
 
+- [@sanketwakhare](https://github.com/sanketwakhare)
+
 - [@GangulySrishti](https://github.com/GangulySrishti)
 
 - [@Ayush-singh-07](https://github.com/Ayush-singh-07)
@@ -6210,7 +6216,64 @@
 
 - [@FloydRoseTrem](https://github.com/FloydRoseTrem)
 
+- [@apialam01744](https://github.com/apialam01744)
+
 - [@dhruvhm](https://github.com/dhruvhm)
 
 - [@malcomowenflood](https://github.com/malcomowenflood)
 
+- [@TimaKreac](https://github.com/TimaKreac)
+
+- [@yungchu123](https://github.com/yungchu123)
+
+- [@nancykwantify](https://github.com/nancykwantify)
+
+- [@sohaibafani](https://github.com/SohaibAfani/)
+
+- [@lampenny](https://github.com/lampenny/)
+
+- [@Geemarn](https://github.com/Geemarn/)
+
+- [@SUF145](https://github.com/SUF145/)
+
+- [@BossElijah](https://github.com/BossElijah)
+
+- [@tarek90salim](https://github.com/tarek90salim)
+
+- [@AlexMJesus](https://github.com/AlexMJesus)
+
+- [@Lucasanim](https://github.com/Lucasanim/)
+
+- [@lakshya-1209](https://github.com/lakshya-1209/)
+
+- [@jabaghSaeed](https://github.com/jabaghSaeed)
+
+- [@cntran](https://github.com/cntran/)
+
+- [@Soare95](https://github.com/Soare95)
+
+- [@mrsharathps](https://github.com/mrsharathps)
+
+- [@Evanm97](https://github.com/Evanm97)
+
+- [@renanmenezesviolao](https://github.com/renanmenezesviolao)
+
+- [@archit-manek](https://github.com/archit-manek)
+
+- [@ak-create](https://github.com/ak-create)
+
+- [@AyeshaMunawar](https://github.com/AyeshaMunawar-profile)
+
+- [@mrkc2303](https://github.com/mrkc2303)
+
+- [@arfelrayarriola](https://github.com/arfelrayarriola)
+
+- [@gdsghost](https://github.com/gdsghost)
+
+- [@rcleps](https://github.com/rcleps)
+
+- [@saaheel](https://github.com/saaheel)
+
+- [@edseN-pfl](https://github.com/edseN-pfl)
+
+- [@gbiamgaurav](https://github.com/gbiamgaurav)
