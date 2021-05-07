@@ -32,8 +32,6 @@
 
 - [@kira00007](https://github.com/kira00007)
 
-- [@JMCrawf](https://github.com/JMCrawf)
-
 - [@johnduong](https://github.com/johnduong)
 
 - [@veganedge](https://github.com/veganedge)
@@ -6230,6 +6228,8 @@
 
 - [@sohaibafani](https://github.com/SohaibAfani/)
 
+- [@anudesh98](https://github.com/anudesh98)
+
 - [@lampenny](https://github.com/lampenny/)
 
 - [@Geemarn](https://github.com/Geemarn/)
@@ -6284,7 +6284,8 @@
 
 - [@DKI9](https://github.com/DKI9)
 
--  [@07ayushi](https://github.com/07ayushi)
+- [@07ayushi](https://github.com/07ayushi)
 
--[@yonasAlex](https://github.com/yonasAlex)
+- [@yonasAlex](https://github.com/yonasAlex)
 
+- [@billievillegas](https://github.com/billievillegas)
