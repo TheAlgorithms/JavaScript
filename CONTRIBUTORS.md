@@ -1,4 +1,5 @@
 # CONTRIBUTORS
+- [@sarahjameson](https://github.com/sarahjameson)
 
 - [@LR-Argentino](https://github.com/LR-Argentino)
 
