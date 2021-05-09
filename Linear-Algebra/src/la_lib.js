@@ -5,7 +5,8 @@
     The namespace LinearAlgebra contains useful classes and functions for dealing with
     linear algebra under JavaScript.
 */
-var LinearAlgebra;
+let LinearAlgebra = {};
+
 (function (LinearAlgebra) {
   /*
         class: Vector
@@ -309,3 +310,5 @@ var LinearAlgebra;
   }()) // end of class Matrix
   LinearAlgebra.Matrix = Matrix
 })(LinearAlgebra || (LinearAlgebra = {})) // end of namespace LinearAlgebra
+
+export default LinearAlgebra

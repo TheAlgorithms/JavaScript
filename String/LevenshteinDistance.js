@@ -48,4 +48,4 @@ const levenshteinDistance = (a, b) => {
   return distanceMatrix[b.length][a.length]
 }
 
-export { levenshteinDistance }
+export default levenshteinDistance
