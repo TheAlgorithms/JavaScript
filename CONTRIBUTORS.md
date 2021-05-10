@@ -6315,3 +6315,5 @@
 - [@jihmmi](https://github.com/jihmmi)
 
 - [@andersondebrito](https://github.com/andersondebrito)
+
+- [@MatheusTrinca](https://github.com/MatheusTrinca)
