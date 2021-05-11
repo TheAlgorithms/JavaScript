@@ -6328,4 +6328,16 @@
 
 - [@gcn12](https://github.com/gcn12)
 
+-[@DeathWalker](https://github.com/deathwalker741)
+
+-[@florianbuehler](https://github.com/florianbuehler)
+
+-[@domidevelop](https://github.com/domidevelop)
+
+-[@rein042997](https://github.com/rein042997)
+
+-[@yogesh-19-shukla](https://github.com/yogesh-19-shukla)
+
+-[@JuiinHao](https://github.com/JuiinHao)
+
 -[@hajiasb](https://github.com/hajiasb/)
