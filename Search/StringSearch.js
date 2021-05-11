@@ -60,7 +60,7 @@ function stringSearch (str, word) {
     // P = `a b`a b
     // we will jump to `a b` and we will compare d and a in the next iteration
     // a b a b `d` e
-    //     a b `a` b
+   
     if (j === word.length) {
       matches.push(i - j)
       j = prefixes[j - 1]
