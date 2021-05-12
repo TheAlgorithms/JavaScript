@@ -6244,7 +6244,7 @@
 
 - [@tarek90salim](https://github.com/tarek90salim)
 
-- [@AlexMJesus](https://github.com/AlexMJesus)
+- [@DevZeus90](https://github.com/DevZeus90)
 
 - [@Lucasanim](https://github.com/Lucasanim/)
 
