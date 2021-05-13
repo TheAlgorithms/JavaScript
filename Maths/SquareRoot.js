@@ -7,11 +7,11 @@
 */
 
 function sqrt (num, precision = 10) {
-	let sqrt = 1
-	for (let i = 0; i < precision; i++) {
-		sqrt -= (sqrt * sqrt - num) / (2 * sqrt)
-	}
-	return sqrt
+  let sqrt = 1
+  for (let i = 0; i < precision; i++) {
+    sqrt -= (sqrt * sqrt - num) / (2 * sqrt)
+  }
+  return sqrt
 }
 
 export { sqrt }
