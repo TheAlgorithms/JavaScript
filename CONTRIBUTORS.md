@@ -312,6 +312,8 @@
 
 - [@CataMuresan](https://github.com/CataMuresan)
 
+- [@Slimattcode](https://github.com/Slimattcode)
+
 - [@Catanelu](https://github.com/Catanelu)
 
 - [@Cebarnsley](https://github.com/Cebarnsley)
@@ -6399,3 +6401,7 @@
 - [@edcast45](https://github.com/edcast45)
 
 - [@fernandacduarte](https://github.com/fernandacduarte)
+
+- [@dlever](https://github.com/dlever)
+
+- [@Alberto03](https://github.com/Alberto03)
