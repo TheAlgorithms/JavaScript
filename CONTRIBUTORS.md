@@ -312,6 +312,8 @@
 
 - [@CataMuresan](https://github.com/CataMuresan)
 
+- [@Slimattcode](https://github.com/Slimattcode)
+
 - [@Catanelu](https://github.com/Catanelu)
 
 - [@Cebarnsley](https://github.com/Cebarnsley)
