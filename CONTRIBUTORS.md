@@ -6380,4 +6380,4 @@
 
 - [@jwnle31](https://github.com/jwnle31/)
 
-- [@anna0mclachlan](https://github.com/anna0mclachlan/)
+-[@anna0mclachlan](https://github.com/anna0mclachlan)
