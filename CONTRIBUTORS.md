@@ -1,5 +1,7 @@
 ﻿# CONTRIBUTORS
 
+- [@AbhinavGangrade](https://github.com/abhinavgangrade1997)
+
 - [@sarahjameson](https://github.com/sarahjameson)
 
 - [@LR-Argentino](https://github.com/LR-Argentino)
@@ -309,6 +311,8 @@
 - [@Carls13](https://github.com/carls13)
 
 - [@CataMuresan](https://github.com/CataMuresan)
+
+- [@Slimattcode](https://github.com/Slimattcode)
 
 - [@Catanelu](https://github.com/Catanelu)
 
@@ -6301,7 +6305,7 @@
 - [@dragavit](https://github.com/dragavit)
 
 - [@Damirbey](https://github.com/Damirbey)
-
+- [@amibhatti312](https://github.com/amibhatti312/)
 - [@nambosaa](https://github.com/nambosaa)
 
 - [@dewi155](https://github.com/dewi155)
@@ -6381,3 +6385,32 @@
 - [@jwnle31](https://github.com/jwnle31/)
 
 -[@anna0mclachlan](https://github.com/anna0mclachlan)
+
+- [@the-localhost](https://github.com/the-localhost/)
+
+- [@GAlexandruD](https://github.com/GAlexandruD/)
+
+- [@jay1234321](https://github.com/jay1234321/)
+
+- [@sjoemetsa](https://github.com/sjoemetsa/)
+
+- [@saransudheer](https://github.com/saransudheer/)
+
+- [@Ivan-Dobro](https://github.com/Ivan-Dobro)
+
+- [@aibenStunner](https://github.com/aibenStunner)
+
+- [@edcast45](https://github.com/edcast45)
+
+- [@fernandacduarte](https://github.com/fernandacduarte)
+
+- [@dlever](https://github.com/dlever)
+
+- [@Alberto03](https://github.com/Alberto03)
+
+- [@MR-MicR0](https://github.com/MR-MicR0)
+
+- [@kailau02](https://github.com/kailau02)
+
+- [@NemesisXOX](https://github.com/NemesisXOX)
+
