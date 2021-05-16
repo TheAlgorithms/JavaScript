@@ -6384,6 +6384,8 @@
 
 - [@jwnle31](https://github.com/jwnle31/)
 
+-[@anna0mclachlan](https://github.com/anna0mclachlan)
+
 - [@the-localhost](https://github.com/the-localhost/)
 
 - [@GAlexandruD](https://github.com/GAlexandruD/)
@@ -6409,3 +6411,7 @@
 - [@MR-MicR0](https://github.com/MR-MicR0)
 
 - [@kailau02](https://github.com/kailau02)
+
+- [@NemesisXOX](https://github.com/NemesisXOX)
+
+- [@phonethawhtet](https://github.com/phonethawhtet)
