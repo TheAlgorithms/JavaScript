@@ -2,6 +2,8 @@
 
 - [@AbhinavGangrade](https://github.com/abhinavgangrade1997)
 
+- [@blackphoenix42](https://github.com/blackphoenix42)
+
 - [@sarahjameson](https://github.com/sarahjameson)
 
 - [@LR-Argentino](https://github.com/LR-Argentino)
