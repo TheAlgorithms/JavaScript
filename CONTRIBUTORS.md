@@ -1,4 +1,4 @@
-﻿# CONTRIBUTORS
+# CONTRIBUTORS
 
 - [@AbhinavGangrade](https://github.com/abhinavgangrade1997)
 
@@ -6449,3 +6449,5 @@
 - [@bnjtgly](https://github.com/bnjtgly)
 
 - [@MMH-P](https://github.com/MMH-P)
+
+- [@dr-tuba](https://github.com/dr-tuba)
