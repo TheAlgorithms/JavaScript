@@ -6460,4 +6460,6 @@
 
 - [@MaMH20](https://github.com/MaMH20)
 
-- [@LxrdRU] (https://github.com/LxrdRU/)
+- [@LxrdRU](https://github.com/LxrdRU/)
+
+- [@asadbekfarmonov](https://github.com/asadbekfarmonov)
