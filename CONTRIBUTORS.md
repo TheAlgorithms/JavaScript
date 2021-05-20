@@ -1,4 +1,4 @@
-﻿# CONTRIBUTORS
+# CONTRIBUTORS
 
 - [@AbhinavGangrade](https://github.com/abhinavgangrade1997)
 
@@ -6440,6 +6440,8 @@
 
 - [@suriaselvarajoo](https://github.com/suriaselvarajoo)
 
+- [@Shivangi020](https://github.com/Shivangi020/)
+
 - [@PSOrigins](https://github.com/PSOrigins)
 
 - [@mdfaraday](https://github.com/mdfaraday)
@@ -6450,4 +6452,50 @@
 
 - [@MMH-P](https://github.com/MMH-P)
 
+
 - [@Enjamin1](https://github.come/Enjamin1)
+
+- [@dr-tuba](https://github.com/dr-tuba)
+
+- [@lamwj98](https://github.com/lamwj98)
+
+- [@rpardofen](https://github.com/rpardofen)
+
+- [@peteru0808](https://github.com/peteru0808/)
+
+- [@MaMH20](https://github.com/MaMH20)
+
+- [@LxrdRU](https://github.com/LxrdRU/)
+
+- [@asadbekfarmonov](https://github.com/asadbekfarmonov)
+
+- [@hrshl212](https://github.com/hrshl212)
+
+- [@Snabith](https://github.com/Snabith)
+
+- [thedarkoniko](https://github.com/thedarkoniko)
+
+- [@akashdwivedi98](https://github.com/akashdwivedi98)
+
+- [@nishadmm](https://github.com/nishadmm)
+
+- [@prof-amer](https://github.com/prof-amer)
+
+- [@dcasados](https://github.com/dcasados/)
+
+- [@mahrous05](https://github.com/mahrous05/)
+
+- [@piyush-kumar-au9](https://github.com/piyush-kumar-au9)
+
+- [@rohan3342](https://github.com/rohan3342)
+
+- [@adnan-sheikh](https://github.com/adnan-sheikh/)
+
+- [@aguillot](https://github.com/aguillot/)
+
+- [@Revati99](http://github.com/Revati99/)
+
+- [@mofratulislam](http://github.com/mofratulislam/)
+
+-[@FarahSinada](https://github.com/FarahSinada)
+
