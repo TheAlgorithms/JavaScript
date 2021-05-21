@@ -6511,3 +6511,5 @@
 - [@DariusNicolas](https://github.com/DariusNicolas)
 
 -[@ginestah](https://github.com/ginestah)
+
+-[@jmitt](https://github.com/jmitt)
