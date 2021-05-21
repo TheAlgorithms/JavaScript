@@ -45,7 +45,7 @@ function introsort (array, compare) {
    * @param {Object} obj
    * @returns {String} String representation of given object
    */
-  var toString = function (obj) {
+  const toString = function (obj) {
     if (obj === null) return 'null'
     if (typeof obj === 'boolean' || typeof obj === 'number') {
       return obj.toString()
