@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@Rukkylaw](https://github.com/Rukkylaw)
+
 - [@AbhinavGangrade](https://github.com/abhinavgangrade1997)
 
 - [@blackphoenix42](https://github.com/blackphoenix42)
