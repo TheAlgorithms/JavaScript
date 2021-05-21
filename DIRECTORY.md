@@ -140,6 +140,7 @@
   * [ReversePolishNotation](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/ReversePolishNotation.js)
   * [SieveOfEratosthenes](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/SieveOfEratosthenes.js)
   * [Softmax](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/Softmax.js)
+  * [SquareRoot](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/SquareRoot.js)
   * test
     * [Abs](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/test/Abs.test.js)
     * [Area](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/test/Area.test.js)
