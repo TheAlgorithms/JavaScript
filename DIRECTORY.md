@@ -75,6 +75,7 @@
   * [MinimumCostPath](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/MinimumCostPath.js)
   * [NumberOfSubsetEqualToGivenSum](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/NumberOfSubsetEqualToGivenSum.js)
   * [SieveOfEratosthenes](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/SieveOfEratosthenes.js)
+  * [Shuf](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/Shuf.js)
   * [SudokuSolver](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/SudokuSolver.js)
   * [TrappingRainWater](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/TrappingRainWater.js)
   * [ZeroOneKnapsack](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/ZeroOneKnapsack.js)
