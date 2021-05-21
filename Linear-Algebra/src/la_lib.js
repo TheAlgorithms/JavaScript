@@ -309,3 +309,5 @@ let LinearAlgebra;
   }()) // end of class Matrix
   LinearAlgebra.Matrix = Matrix
 })(LinearAlgebra || (LinearAlgebra = {})) // end of namespace LinearAlgebra
+
+export { LinearAlgebra }
