@@ -7,9 +7,10 @@
 function insertionSort (unsortedList) {
   const len = unsortedList.length
   for (let i = 1; i < len; i++) {
+    let j
     const tmp = unsortedList[i] // Copy of the current element.
     /* Check through the sorted part and compare with the number in tmp. If large, shift the number */
-    for (var j = i - 1; j >= 0 && (unsortedList[j] > tmp); j--) {
+    for (j = i - 1; j >= 0 && (unsortedList[j] > tmp); j--) {
       // Shift the number
       unsortedList[j + 1] = unsortedList[j]
     }
