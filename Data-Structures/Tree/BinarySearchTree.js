@@ -11,7 +11,7 @@
 */
 
 // class Node
-var Node = (function () {
+const Node = (function () {
   // Node in the tree
   function Node (val) {
     this.value = val
@@ -67,7 +67,7 @@ var Node = (function () {
 }())
 
 // class Tree
-var Tree = (function () {
+const Tree = (function () {
   function Tree () {
     // Just store the root
     this.root = null
@@ -103,7 +103,7 @@ var Tree = (function () {
 }())
 
 // Implementation of BST
-var bst = new Tree()
+const bst = new Tree()
 bst.addValue(6)
 bst.addValue(3)
 bst.addValue(9)
