@@ -36,15 +36,18 @@
 
 function merge (list1, list2) {
   const results = []
+  let i = 0
+  let j = 0
 
-  while (list1.length && list2.length) {
-    if (list1[0] <= list2[0]) {
-      results.push(list1.shift())
+  while (i < list1.length && j < list2.length) {
+    if (list1[i] < list2[j]) {
+      results.push(list1[i++])
     } else {
-      results.push(list2.shift())
+      results.push(list2[j++])
     }
   }
-  return results.concat(list1, list2)
+
+  return results.concat(list1.slice(i), list2.slice(j))
 }
 
 /**
