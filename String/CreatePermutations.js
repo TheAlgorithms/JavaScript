@@ -33,5 +33,4 @@ const createPermutations = (str) => {
   }
   return perms
 }
-
-console.log(createPermutations('abc')) // should print ["abc", "acb", "bac", "bca", "cab", "cba"]
+export { createPermutations }
