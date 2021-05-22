@@ -12,6 +12,6 @@
   "author": "Christian Bender",
   "license": "MIT",
   "dependencies": {
-    "mocha": "^5.0.2"
+    "mocha": "^5.2.0"
   }
 }
