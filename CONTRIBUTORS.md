@@ -5750,7 +5750,7 @@
 
 - [@amir-maulana](https://github.com/amir-maulana)
 
--   ⚡[@DeepakRawat24](https://github.com/DeepakRawat24)
+- ⚡[@DeepakRawat24](https://github.com/DeepakRawat24)
 
 - [@harshkgit](https://github.com/harshkgit)
 
@@ -6537,3 +6537,7 @@
 - [@astromarrr](https://github.com/astromarrr)
 
 - [@grbknr1996](https://github.com/grbknr1996)
+
+- [@sttatusx](https://github.com/sttatusx)
+
+- [@nileshsaini](https://github.com/Nilesh-Saini-09)
