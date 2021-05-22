@@ -9,11 +9,11 @@
   "author": "TheAlgorithms",
   "license": "GPL-3.0",
   "dependencies": {
-    "@babel/core": "^7.13.13",
-    "@babel/plugin-transform-runtime": "^7.13.10",
-    "@babel/preset-env": "^7.13.12",
-    "jsdom": "^16.5.2",
-    "node": "^14.16.0",
+    "@babel/core": "^7.14.3",
+    "@babel/plugin-transform-runtime": "^7.14.3",
+    "@babel/preset-env": "^7.14.2",
+    "jsdom": "^16.5.3",
+    "node": "^14.16.1",
     "node-fetch": "2.6.1"
   },
   "standard": {
