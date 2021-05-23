@@ -28,6 +28,7 @@
   * [DecimalToHex](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/DecimalToHex.js)
   * [DecimalToOctal](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/DecimalToOctal.js)
   * [HexToRGB](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/HexToRGB.js)
+  * [OctToDecimal](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/OctToDecimal.js)
   * [RgbHsvConversion](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/RgbHsvConversion.js)
   * [RGBToHex](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/RGBToHex.js)
   * [RomanToDecimal](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/RomanToDecimal.js)
