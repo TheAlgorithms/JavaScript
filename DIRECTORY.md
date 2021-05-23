@@ -80,6 +80,9 @@
   * [TrappingRainWater](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/TrappingRainWater.js)
   * [ZeroOneKnapsack](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/ZeroOneKnapsack.js)
 
+## Geometry
+  * [ConvexHullGraham](https://github.com/TheAlgorithms/Javascript/blob/master/Geometry/ConvexHullGraham.js)
+
 ## Graphs
   * [BreadthFirstSearch](https://github.com/TheAlgorithms/Javascript/blob/master/Graphs/BreadthFirstSearch.js)
   * [BreadthFirstShortestPath](https://github.com/TheAlgorithms/Javascript/blob/master/Graphs/BreadthFirstShortestPath.js)
