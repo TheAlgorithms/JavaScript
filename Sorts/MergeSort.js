@@ -35,16 +35,19 @@
 */
 
 function merge (list1, list2) {
-  var results = []
+  const results = []
+  let i = 0
+  let j = 0
 
-  while (list1.length && list2.length) {
-    if (list1[0] <= list2[0]) {
-      results.push(list1.shift())
+  while (i < list1.length && j < list2.length) {
+    if (list1[i] < list2[j]) {
+      results.push(list1[i++])
     } else {
-      results.push(list2.shift())
+      results.push(list2[j++])
     }
   }
-  return results.concat(list1, list2)
+
+  return results.concat(list1.slice(i), list2.slice(j))
 }
 
 /**
@@ -55,15 +58,15 @@ function merge (list1, list2) {
 function mergeSort (list) {
   if (list.length < 2) return list
 
-  var listHalf = Math.floor(list.length / 2)
-  var subList1 = list.slice(0, listHalf)
-  var subList2 = list.slice(listHalf, list.length)
+  const listHalf = Math.floor(list.length / 2)
+  const subList1 = list.slice(0, listHalf)
+  const subList2 = list.slice(listHalf, list.length)
 
   return merge(mergeSort(subList1), mergeSort(subList2))
 }
 
 // Merge Sort Example
-var unsortedArray = [10, 5, 3, 8, 2, 6, 4, 7, 9, 1]
-var sortedArray = mergeSort(unsortedArray)
+const unsortedArray = [10, 5, 3, 8, 2, 6, 4, 7, 9, 1]
+const sortedArray = mergeSort(unsortedArray)
 
 console.log('Before:', unsortedArray, 'After:', sortedArray)
