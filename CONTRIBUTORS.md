@@ -6482,7 +6482,9 @@
 
 - [@Snabith](https://github.com/Snabith)
 
-- [thedarkoniko](https://github.com/thedarkoniko)
+- [@thedarkoniko](https://github.com/thedarkoniko)
+
+- [@KingLui22](https://github.com/KingLui22)
 
 - [@akashdwivedi98](https://github.com/akashdwivedi98)
 
@@ -6544,4 +6546,16 @@
 
 - [@EliabLM](https://github.com/EliabLM)
 
+- [@shubham92000](https://github.com/shubham92000)
+
+- [@chana678](https://github.com/chana678)
+
+- [@codersneha](https://github.com/codersneha/)
+
 - [@wordssaysalot](https://github.com/wordssaysalot)
+
+- [@KKKKKYYYYY](https://github.com/KKKKKYYYYY)
+
+- [@mazer225](https://github.com/mazer225)
+
+- [@mmathavan32](https://github.com/mmathavan32)
