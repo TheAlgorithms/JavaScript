@@ -6,6 +6,9 @@
   * [NQueen](https://github.com/TheAlgorithms/Javascript/blob/master/Backtracking/NQueen.js)
   * [Sudoku](https://github.com/TheAlgorithms/Javascript/blob/master/Backtracking/Sudoku.js)
 
+## Bit-Manipulation
+  * [BinaryCountSetBits](https://github.com/TheAlgorithms/Javascript/blob/master/Bit-Manipulation/BinaryCountSetBits.js)
+
 ## Cache
   * [LFUCache](https://github.com/TheAlgorithms/Javascript/blob/master/Cache/LFUCache.js)
   * [LRUCache](https://github.com/TheAlgorithms/Javascript/blob/master/Cache/LRUCache.js)
