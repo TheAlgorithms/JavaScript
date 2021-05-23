@@ -2,7 +2,7 @@ import { selectionSort } from './SelectionSort'
 
 describe('selectionSort', () => {
   it('expects to return the array sorted in ascending order', () => {
-    var toSort = [5, 6, 7, 8, 1, 2, 12, 14]
+    const toSort = [5, 6, 7, 8, 1, 2, 12, 14]
     const expected = [1, 2, 5, 6, 7, 8, 12, 14]
 
     expect(selectionSort(toSort)).toEqual(expected)
