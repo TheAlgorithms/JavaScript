@@ -63,7 +63,7 @@ const FibonacciDpWithoutRecursion = (number) => {
   const table = []
   table.push(1)
   table.push(1)
-  for (var i = 2; i < number; ++i) {
+  for (let i = 2; i < number; ++i) {
     table.push(table[i - 1] + table[i - 2])
   }
   return table

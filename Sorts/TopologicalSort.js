@@ -1,10 +1,10 @@
 
 function TopologicalSorter () {
-  var graph = {}
-  var isVisitedNode
-  var finishTimeCount
-  var finishingTimeList
-  var nextNode
+  const graph = {}
+  let isVisitedNode
+  let finishTimeCount
+  let finishingTimeList
+  let nextNode
 
   this.addOrder = function (nodeA, nodeB) {
     nodeA = String(nodeA)
@@ -18,7 +18,7 @@ function TopologicalSorter () {
     finishTimeCount = 0
     finishingTimeList = []
 
-    for (var node in graph) {
+    for (const node in graph) {
       if (Object.prototype.hasOwnProperty.call(graph, node) && !isVisitedNode[node]) {
         dfsTraverse(node)
       }
@@ -34,7 +34,7 @@ function TopologicalSorter () {
   function dfsTraverse (node) {
     isVisitedNode[node] = true
     if (graph[node]) {
-      for (var i = 0; i < graph[node].length; i++) {
+      for (let i = 0; i < graph[node].length; i++) {
         nextNode = graph[node][i]
         if (isVisitedNode[nextNode]) continue
         dfsTraverse(nextNode)
@@ -49,7 +49,7 @@ function TopologicalSorter () {
 }
 
 /* TEST */
-var topoSorter = new TopologicalSorter()
+const topoSorter = new TopologicalSorter()
 topoSorter.addOrder(5, 2)
 topoSorter.addOrder(5, 0)
 topoSorter.addOrder(4, 0)

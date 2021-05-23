@@ -50,10 +50,9 @@ const main = () => {
       arr.push(input[j])
       j++
     }
-    const newArr = []
-    arr.map(e => {
-      newArr.push(e.trim().split(' ').map(Number))
-    })
+    const newArr = arr.map(e =>
+      e.trim().split(' ').map(Number)
+    )
     const cache = []
     for (let i = 0; i <= currlen; i++) {
       const temp = []
