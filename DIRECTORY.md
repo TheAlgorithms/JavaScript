@@ -16,6 +16,7 @@
 ## Ciphers
   * [CaesarsCipher](https://github.com/TheAlgorithms/Javascript/blob/master/Ciphers/CaesarsCipher.js)
   * [KeyFinder](https://github.com/TheAlgorithms/Javascript/blob/master/Ciphers/KeyFinder.js)
+  * [KeywordShiftedAlphabet](https://github.com/TheAlgorithms/Javascript/blob/master/Ciphers/KeywordShiftedAlphabet.js)
   * [ROT13](https://github.com/TheAlgorithms/Javascript/blob/master/Ciphers/ROT13.js)
   * [VigenereCipher](https://github.com/TheAlgorithms/Javascript/blob/master/Ciphers/VigenereCipher.js)
   * [XORCipher](https://github.com/TheAlgorithms/Javascript/blob/master/Ciphers/XORCipher.js)
