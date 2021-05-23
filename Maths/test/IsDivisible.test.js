@@ -17,21 +17,21 @@ describe('isDivisible', () => {
     [5, -0, false]
   ]
 
-  test.each(testCases)("if parameters are (%i, %i) it returns %p", (dividend, divisor, expected) => {
-    expect(isDivisible(dividend, divisor)).toBe(expected);
+  test.each(testCases)('if parameters are (%i, %i) it returns %p', (dividend, divisor, expected) => {
+    expect(isDivisible(dividend, divisor)).toBe(expected)
   })
 
   const errorCases = [
     [NaN, NaN],
     [NaN, 1],
     [1, NaN],
-    ["1", 1],
-    [1, "1"],
+    ['1', 1],
+    [1, '1'],
     [1, true],
     [false, 2]
   ]
 
-  test.each(errorCases)("throws an error if parameters are (%p, %p)", (dividend, divisor) => {
+  test.each(errorCases)('throws an error if parameters are (%p, %p)', (dividend, divisor) => {
     expect(() => {
       isDivisible(dividend, divisor)
     }).toThrow()
