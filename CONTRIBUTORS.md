@@ -34,6 +34,8 @@
 
 - [@AtulChourasia](https://github.com/AtulChourasia)
 
+- [@rohit kulkarni](https://github.com/rohitkulkarnii)
+
 - [@kaydee0502](https://github.com/kaydee0502)
 
 - [@dianacpg](https://github.com/dianacpg)
@@ -6563,3 +6565,7 @@
 - [@sophfx](https://github.com/sophfx)
 
 - [@josemoralesdev](https://github.com/josemoralesdev)
+
+- [@ashishxcode](https://github.com/ashishxcode/)
+
+- [@Bear-crawl](https://github.com/Bear-crawl/)
