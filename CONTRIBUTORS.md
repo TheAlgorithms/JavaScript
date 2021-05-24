@@ -6572,4 +6572,4 @@
 
 - [@webdevhead](https://github.com/webdevhead/)
 
-- [@mwarsame20] (https://github.com/mwarsame20)
+- [@mwarsame20](https://github.com/mwarsame20)
