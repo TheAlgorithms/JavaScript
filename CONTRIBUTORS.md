@@ -6586,4 +6586,6 @@
 
 - [@Darshan2003](https://github.com/Darshan2003)
 
-- [@Primus023008] (https://github.com/Primus023008)
+- [@Primus023008](https://github.com/Primus023008)
+
+- [@Shiinoya](https://github.com/Shiinoya)
