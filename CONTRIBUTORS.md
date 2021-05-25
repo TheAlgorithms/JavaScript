@@ -6573,3 +6573,5 @@
 - [@webdevhead](https://github.com/webdevhead/)
 
 - [@mwarsame20](https://github.com/mwarsame20)
+
+- [@stephanduval](https://github.com/stephanduval)
