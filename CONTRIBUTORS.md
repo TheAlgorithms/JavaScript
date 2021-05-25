@@ -6573,3 +6573,9 @@
 - [@webdevhead](https://github.com/webdevhead/)
 
 - [@mwarsame20](https://github.com/mwarsame20)
+
+- [@stephanduval](https://github.com/stephanduval)
+
+- [@AmrDhaliwal](https://github.com/AmrDhaliwal)
+
+- [@thejaswin123](https://github.com/thejaswin123)
