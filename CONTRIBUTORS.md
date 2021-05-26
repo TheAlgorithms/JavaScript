@@ -6599,6 +6599,7 @@
 - [@Rub4l1to](https://github.com/Rub4l1to)
 
 - [@yoayushraj99](https://github.com/yoayushraj99)
+
 - [@LucianIoan31](https://github.com/LucianIoan31)
 
 - [@nampellyvarun](https://github.com/nampellyvarun)
@@ -6606,3 +6607,5 @@
 - [@danieltibola](https://github.com/danieltibola)
 
 - [@komronn](https://github.com/komronn)
+
+- [@NateWise7](https://github.com/NateWise7)
