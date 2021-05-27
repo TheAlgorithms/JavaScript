@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@white-hat-master](https://github.com/white-hat-master)
+
 - [@AbhinavGangrade](https://github.com/abhinavgangrade1997)
 
 - [@sarahjameson](https://github.com/sarahjameson)
