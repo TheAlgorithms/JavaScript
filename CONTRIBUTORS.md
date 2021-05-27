@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@white-hat-master](https://github.com/white-hat-master)
+
 - [@AbhinavGangrade](https://github.com/abhinavgangrade1997)
 
 - [@sarahjameson](https://github.com/sarahjameson)
@@ -6548,8 +6550,6 @@
 
 - [@EliabLM](https://github.com/EliabLM)
 
-- [@shubham92000](https://github.com/shubham92000)
-
 - [@chana678](https://github.com/chana678)
 
 - [@codersneha](https://github.com/codersneha/)
@@ -6562,9 +6562,6 @@
 
 - [@mmathavan32](https://github.com/mmathavan32)
 
--[@rein042997](https://github.com/rein042997)
--[@yogesh-19-shukla](https://github.com/yogesh-19-shukla)
-
 - [@sophfx](https://github.com/sophfx)
 
 - [@josemoralesdev](https://github.com/josemoralesdev)
@@ -6575,9 +6572,50 @@
 
 - [@webdevhead](https://github.com/webdevhead/)
 
--[@AnhHuynhDev](https://github.com/AnhHuynhDev)
-
--[@9jadeveloper](https://github.com/9jadeveloper)
+- [@9jadeveloper](https://github.com/9jadeveloper)
 
 - [@mwarsame20](https://github.com/mwarsame20)
 
+- [@stephanduval](https://github.com/stephanduval)
+
+- [@AmrDhaliwal](https://github.com/AmrDhaliwal)
+
+- [@thejaswin123](https://github.com/thejaswin123)
+
+- [@Manishkumar-jsk](https://github.com/Manishkumar-jsk/)
+
+- [@awugudoalomeda](https://github.com/awugudoalomeda/)
+
+- [@Darshan2003](https://github.com/Darshan2003)
+
+- [@Primus023008](https://github.com/Primus023008)
+
+- [@Shiinoya](https://github.com/Shiinoya)
+
+- [@nitishkohade](https://github.com/nitishkohade)
+
+- [@ahmedadelbayoumi](https://github.com/ahmedadelbayoumi)
+
+- [@profmartz](https://github.com/profmartz)
+
+- [@Rub4l1to](https://github.com/Rub4l1to)
+
+- [@yoayushraj99](https://github.com/yoayushraj99)
+
+- [@LucianIoan31](https://github.com/LucianIoan31)
+
+- [@nampellyvarun](https://github.com/nampellyvarun)
+
+- [@danieltibola](https://github.com/danieltibola)
+
+- [@komronn](https://github.com/komronn)
+
+- [@kevinlc33](https://github.com/Kevinlc33)
+
+- [@mcken-vince](https://github.com/mcken-vince)
+
+- [@sujithchenanath909](https://github.com/sujithchenanath909)
+
+- [@Aman-Syed](https://github.com/Aman-Syed)
+
+- [@SravanSTG](https://github.com/SravanSTG)
