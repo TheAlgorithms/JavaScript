@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@white-hat-master](https://github.com/white-hat-master)
+
 - [@AbhinavGangrade](https://github.com/abhinavgangrade1997)
 
 - [@sarahjameson](https://github.com/sarahjameson)
@@ -6548,8 +6550,6 @@
 
 - [@EliabLM](https://github.com/EliabLM)
 
-- [@shubham92000](https://github.com/shubham92000)
-
 - [@chana678](https://github.com/chana678)
 
 - [@codersneha](https://github.com/codersneha/)
@@ -6571,6 +6571,8 @@
 - [@Bear-crawl](https://github.com/Bear-crawl/)
 
 - [@webdevhead](https://github.com/webdevhead/)
+
+- [@9jadeveloper](https://github.com/9jadeveloper)
 
 - [@mwarsame20](https://github.com/mwarsame20)
 
@@ -6609,3 +6611,13 @@
 - [@komronn](https://github.com/komronn)
 
 - [@NateWise7](https://github.com/NateWise7)
+
+- [@kevinlc33](https://github.com/Kevinlc33)
+
+- [@mcken-vince](https://github.com/mcken-vince)
+
+- [@sujithchenanath909](https://github.com/sujithchenanath909)
+
+- [@Aman-Syed](https://github.com/Aman-Syed)
+
+- [@SravanSTG](https://github.com/SravanSTG)
