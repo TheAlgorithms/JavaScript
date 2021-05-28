@@ -6625,3 +6625,5 @@
 - [@suhtoshi](https://github.com/suhtoshi)
 
 - [@arteficent](https://github.com/arteficent)
+
+- [@EddJamesEast](https://github.com/EddJamesEast)
