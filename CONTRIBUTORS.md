@@ -6625,3 +6625,7 @@
 - [@suhtoshi](https://github.com/suhtoshi)
 
 - [@arteficent](https://github.com/arteficent)
+
+-[@ManishHari42](https://github.com/ManishHari42)
+
+-[@Ph0enix171](https://github.com/Ph0enix171)
