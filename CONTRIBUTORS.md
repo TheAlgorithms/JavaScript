@@ -6627,3 +6627,16 @@
 - [@arteficent](https://github.com/arteficent)
 
 - [@EddJamesEast](https://github.com/EddJamesEast)
+
+-[@ManishHari42](https://github.com/ManishHari42)
+
+-[@Ph0enix171](https://github.com/Ph0enix171)
+
+-[@Sahil-Hate](https://github.com/Sahil-Hate)
+
+-[@Ahmedh42](https://github.com/Ahmedh42)
+
+-[@aitaDev](https://github.com/aitaDev)
+
+-[@khalillamharchi20](https://github.com/khalillamharchi20)
+
