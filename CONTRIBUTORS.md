@@ -1,4 +1,5 @@
 # CONTRIBUTORS
+-[@Kiruthi-1312](https://github.com/Kiruthi-1312)
 
 - [@white-hat-master](https://github.com/white-hat-master)
 
