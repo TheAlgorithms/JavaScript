@@ -6630,13 +6630,7 @@
 
 - [@arteficent](https://github.com/arteficent)
 
-<<<<<<< HEAD
-
 - [@EddJamesEast](https://github.com/EddJamesEast)
-
--[@ManishHari42](https://github.com/ManishHari42)
-
-=======
 
 - [@ManishHari42](https://github.com/ManishHari42)
 
