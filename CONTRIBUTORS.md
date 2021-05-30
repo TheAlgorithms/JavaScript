@@ -1,5 +1,7 @@
 # CONTRIBUTORS
--[@Kiruthi-1312](https://github.com/Kiruthi-1312)
+- [@GabrielOAvila](https://github.com/GabrielOAvila)
+
+- [@Kiruthi-1312](https://github.com/Kiruthi-1312)
 
 - [@white-hat-master](https://github.com/white-hat-master)
 
@@ -6640,6 +6642,7 @@
 -[@khalillamharchi20](https://github.com/khalillamharchi20)
 
 -[@senpaii1](https://github.com/senpaii1)
+
 -[@aasiazahir](https://github.com/aasiazahir)
 
 -[@mentolate](https://github.com/mentolate)
