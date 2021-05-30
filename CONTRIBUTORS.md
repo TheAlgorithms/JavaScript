@@ -6661,3 +6661,5 @@
 - [@amitsharmaa](https://github.com/amitsharmaa)
 
 - [@raquelsalmeron](https://github.com/raquelsalmeron)
+
+- [@kurthakim](https://github.com/kurthakim)
