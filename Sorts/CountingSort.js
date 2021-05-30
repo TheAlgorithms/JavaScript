@@ -39,5 +39,5 @@ console.log('\n- Before Sort | Implementation of Counting Sort -')
 console.log(array)
 // After Sort
 console.log('- After Sort | Implementation of Counting Sort -')
-console.log(countingSort(array))
+console.log(countingSort(array,0,5))
 console.log('\n')
