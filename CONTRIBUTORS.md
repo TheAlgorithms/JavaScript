@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@Kiruthi-1312](https://github.com/Kiruthi-1312)
+
 - [@white-hat-master](https://github.com/white-hat-master)
 
 - [@AbhinavGangrade](https://github.com/abhinavgangrade1997)
@@ -6568,6 +6570,8 @@
 
 - [@ashishxcode](https://github.com/ashishxcode/)
 
+- [@Fish-A-code](https://github.com/kentdaniel777)
+
 - [@Bear-crawl](https://github.com/Bear-crawl/)
 
 - [@webdevhead](https://github.com/webdevhead/)
@@ -6626,17 +6630,38 @@
 
 - [@arteficent](https://github.com/arteficent)
 
+<<<<<<< HEAD
+
 - [@EddJamesEast](https://github.com/EddJamesEast)
 
 -[@ManishHari42](https://github.com/ManishHari42)
 
--[@Ph0enix171](https://github.com/Ph0enix171)
+=======
 
--[@Sahil-Hate](https://github.com/Sahil-Hate)
+- [@ManishHari42](https://github.com/ManishHari42)
 
--[@Ahmedh42](https://github.com/Ahmedh42)
+- [@Ph0enix171](https://github.com/Ph0enix171)
 
--[@aitaDev](https://github.com/aitaDev)
+- [@Sahil-Hate](https://github.com/Sahil-Hate)
 
--[@khalillamharchi20](https://github.com/khalillamharchi20)
+- [@Ahmedh42](https://github.com/Ahmedh42)
 
+- [@aitaDev](https://github.com/aitaDev)
+
+- [@khalillamharchi20](https://github.com/khalillamharchi20)
+
+- [@senpaii1](https://github.com/senpaii1)
+
+- [@aasiazahir](https://github.com/aasiazahir)
+
+- [@mentolate](https://github.com/mentolate)
+
+- [@joshcode25](https://github.com/joshcode25)
+
+- [@rjmead23](https://github.com/rjmead23)
+
+- [@rewpt](http://github.com/rewpt)
+
+- [@coder3223](http://github.com/coder3223)
+
+- [@amitsharmaa](https://github.com/amitsharmaa)
