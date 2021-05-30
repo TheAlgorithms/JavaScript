@@ -216,6 +216,7 @@
   * [EucledianGCD](https://github.com/TheAlgorithms/Javascript/blob/master/Recursive/EucledianGCD.js)
   * [factorial](https://github.com/TheAlgorithms/Javascript/blob/master/Recursive/factorial.js)
   * [FibonacciNumberRecursive](https://github.com/TheAlgorithms/Javascript/blob/master/Recursive/FibonacciNumberRecursive.js)
+  * [FloodFill](https://github.com/TheAlgorithms/Javascript/blob/master/Recursive/FloodFill.js)
   * [KochSnowflake](https://github.com/TheAlgorithms/Javascript/blob/master/Recursive/KochSnowflake.js)
   * [Palindrome](https://github.com/TheAlgorithms/Javascript/blob/master/Recursive/Palindrome.js)
   * [TowerOfHanoi](https://github.com/TheAlgorithms/Javascript/blob/master/Recursive/TowerOfHanoi.js)
