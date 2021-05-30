@@ -6,7 +6,7 @@
 * Finding the square root of a number using Newton's method.
 */
 
-function sqrt (num, precision = 10) {
+function sqrt (num, precision = 4) {
   if (!Number.isFinite(num)) { throw new TypeError(`Expected a number, received ${typeof num}`) }
   if (!Number.isFinite(precision)) { throw new TypeError(`Expected a number, received ${typeof precision}`) }
   let sqrt = 1
