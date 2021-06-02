@@ -6709,4 +6709,5 @@
 - [@rez4president](https://github.com/rez4president)
 
 - [@ydroopert](https://github.com/ydroopert)
-- [@aayush142002](https://github.com/aayush142002/)
+
+- [@aayush142002](https://github.com/aayush142002)
