@@ -1006,6 +1006,8 @@
 
 - [@Rukminipisipati](https://github.com/Rukminipisipati)
 
+- [@Rutikab12](https://github.com/Rutikab12)
+
 - [@RyderHe](https://github.com/RyderHe)
 
 - [@S-Yousuf](https://github.com/S-Yousuf)
