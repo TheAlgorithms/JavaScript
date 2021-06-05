@@ -136,6 +136,8 @@
 
 - [@1Dree](https://github.com/1Dree)
 
+- [@pAkalpa](https://github.com/pAkalpa)
+
 - [@5ebs](https://github.com/5ebs)
 
 - [@96nikhil07](https://github.com/96nikhil07/)
@@ -6754,3 +6756,6 @@
 
 -[@azizsultan](https://github.com/azizsultan)
 
+-[@debu1207](https://github.com/debu1207)
+
+-[@BaseMax](https://github.com/BaseMax)
