@@ -2718,6 +2718,8 @@
 
 - [@nicholaslywong](https://github.com/nicholaslywong)
 
+- [@nicolas-webdev](https://github.com/nicolas-webdev)
+
 - [@nileshkum](https://github.com/nileshkum)
 
 - [@nimmi89](https://github.com/nimmi89)
