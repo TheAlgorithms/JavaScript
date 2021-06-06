@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@shannon-nz](https://github.com/shannon-nz)
+
 - [@aryan-121](https://github.com/aryan-121)
 
 - [@Kiruthi-1312](https://github.com/Kiruthi-1312)
@@ -6774,6 +6776,12 @@
 
 - [@wongkiinging](https://github.com/wongkiinging)
 
+-[@jinkrd](https://github.com/jinkrd)
+
 - [@ajmooney](https://github.com/ajmooney)
+
+- [@shilpi66](https://github.com/shilpi66)
+
+- [@HerrEurobeat](https://github.com/HerrEurobeat)
 
 - [@rayleighrozier](https://github.com/rayleighrozier)
