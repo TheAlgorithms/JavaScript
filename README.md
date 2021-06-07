@@ -5,6 +5,7 @@
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/TheAlgorithms/Javascript.svg?logo=lgtm&logoWidth=18&style=flat-square)](https://lgtm.com/projects/g/TheAlgorithms/Javascript/context:javascript)
 ![Node CI](https://github.com/TheAlgorithms/Javascript/workflows/Node%20CI/badge.svg)
 ![update_directory_md](https://github.com/TheAlgorithms/Javascript/workflows/update_directory_md/badge.svg)
+[![Discord chat](https://img.shields.io/discord/808045925556682782.svg?logo=discord&colorB=7289DA&style=flat-square)](https://discord.gg/c7MnfGFGa6)
 ![](https://img.shields.io/github/repo-size/TheAlgorithms/Javascript.svg?label=Repo%20size&style=flat-square)&nbsp;
 
 
