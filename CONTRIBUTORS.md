@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@shannon-nz](https://github.com/shannon-nz)
+
 - [@aryan-121](https://github.com/aryan-121)
 
 - [@Kiruthi-1312](https://github.com/Kiruthi-1312)
@@ -6773,3 +6775,29 @@
 - [@Sahil21](https://github.com/sahilpedamkar21)
 
 - [@wongkiinging](https://github.com/wongkiinging)
+
+-[@jinkrd](https://github.com/jinkrd)
+
+- [@ajmooney](https://github.com/ajmooney)
+
+- [@shilpi66](https://github.com/shilpi66)
+
+- [@HerrEurobeat](https://github.com/HerrEurobeat)
+
+- [@rayleighrozier](https://github.com/rayleighrozier)
+
+- [@unknown-cat](https://github.com/unknown-cat)
+
+-[@dogaozgon](https://github.com/dogaozgon)
+
+- [@abhilasha007](https://github.com/abhilasha007)
+
+- [@WoodyXiao](https://github.com/WoodyXiao)
+
+- [@Benlamar](https://github.com/Benlamar)
+
+- [@LilpiggieJeffrey](https://github.com/Lilpiggie0522)
+
+- [@gviidas](https://github.com/gviidas)
+
+- [@iamDeepanshu9](https://github.com/iamDeepanshu9)
