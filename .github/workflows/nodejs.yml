@@ -14,10 +14,9 @@ jobs:
         node-version: ${{ matrix.node-version }}
     - name: npm install, build, and test
       run: |
-        npm install doctest standard --save-dev
-        npx doctest **/*.js || true  # TODO: Add all doctests
-        npx standard
         npm ci
+        find . -name '*.js' -not -path './node_modules/*' -print0 | xargs -0 -n 1 npx doctest || true  # TODO: Add all doctests
+        npx standard
         npm run build --if-present
         npm test
       env:
