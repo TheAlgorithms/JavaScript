@@ -6809,3 +6809,7 @@
 - [@abgq](https://github.com/abgq)
 
 - [@khaliltkhalil](https://github.com/khaliltkhalil)
+
+- [@mirshadoz](https://github.com/mirshadoz)
+
+- [@Marcin-Kowalczykk](https://github.com/Marcin-Kowalczykk)
