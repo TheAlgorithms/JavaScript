@@ -1,17 +1,17 @@
 class Sudoku {
-  // Sudoku Class to hold the board and related functions
   constructor (board) {
     this.board = board
+    this.solutionFound = false
   }
 
   findEmptyCell () {
-    // Find a empty cell in the board (returns [-1, -1] if all cells are filled)
     for (let i = 0; i < 9; i++) {
       for (let j = 0; j < 9; j++) {
         if (this.board[i][j] === 0) return [i, j]
       }
     }
-    return [-1, -1]
+    const noEmptyCell = [-1, -1]
+    return noEmptyCell
   }
 
   check ([y, x], value) {
@@ -41,13 +41,19 @@ class Sudoku {
   solve () {
     const [y, x] = this.findEmptyCell()
 
-    // checking if the board is complete
-    if (y === -1 && x === -1) return true
+    const boardIsComplete = y === -1 && x === -1
+    if (boardIsComplete) {
+      this.printBoard()
+      this.solutionFound = true
+      return true
+    }
 
     for (let val = 1; val < 10; val++) {
       if (this.check([y, x], val)) {
         this.board[y][x] = val
-        if (this.solve()) return true
+        if (this.solve()) {
+          return true
+        }
         // backtracking if the board cannot be solved using current configuration
         this.board[y][x] = 0
       }
@@ -61,7 +67,6 @@ class Sudoku {
   }
 
   printBoard () {
-    // helper function to display board
     for (let i = 0; i < 9; i++) {
       if (i % 3 === 0 && i !== 0) console.log('- - - - - - - - - - - -')
       console.log(
@@ -73,7 +78,6 @@ class Sudoku {
 }
 
 function main () {
-  // main function with an example
   const sudokuBoard = new Sudoku([
     [3, 0, 6, 5, 0, 8, 4, 0, 0],
     [5, 2, 0, 0, 0, 0, 0, 0, 0],
@@ -85,13 +89,10 @@ function main () {
     [0, 0, 0, 0, 0, 0, 0, 7, 4],
     [0, 0, 5, 2, 0, 6, 3, 0, 0]
   ])
-
-  sudokuBoard.printBoard()
-
-  console.log('\n')
   sudokuBoard.solve()
 
-  sudokuBoard.printBoard()
+// > sudokuBoard.solutionFound
+// true
 }
 
 main()
