@@ -4,6 +4,7 @@ class OpenKnightTour {
   constructor (size) {
     this.board = new Array(size).fill(0).map(() => new Array(size).fill(0))
     this.size = size
+    this.solutionFound = false
   }
 
   getMoves ([i, j]) {
@@ -39,12 +40,16 @@ class OpenKnightTour {
 
   solveHelper ([i, j], curr) {
     // helper function for the main computation
-    if (this.isComplete()) return true
+    if (this.isComplete()) {
+      this.printBoard()
+      this.solutionFound = true
+      return true
+    }
 
     for (const [y, x] of this.getMoves([i, j])) {
       if (this.board[y][x] === 0) {
         this.board[y][x] = curr + 1
-        if (this.solveHelper([y, x], curr + 1)) return true
+        if (this.solveHelper([y, x], curr + 1)) { return true }
         // backtracking
         this.board[y][x] = 0
       }
@@ -72,7 +77,8 @@ function main () {
 
   board.solve()
 
-  board.printBoard()
+  // > board.solutionFound
+  // true
 }
 
 main()
