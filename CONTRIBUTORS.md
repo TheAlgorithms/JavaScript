@@ -1252,7 +1252,7 @@
 
 - [@Visible-Radio](https://github.com/Visible-Radio)
 
-- [@Vivek2509](htpps://github.com/Vivek2509)
+- [@Vivek2509](https://github.com/Vivek2509)
 
 - [@VoodooScience1](https://github.com/VoodooScience1)
 
