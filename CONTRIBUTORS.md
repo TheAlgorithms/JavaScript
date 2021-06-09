@@ -1252,7 +1252,7 @@
 
 - [@Visible-Radio](https://github.com/Visible-Radio)
 
-- [@Vivek2509](htpps://github.com/Vivek2509)
+- [@Vivek2509](https://github.com/Vivek2509)
 
 - [@VoodooScience1](https://github.com/VoodooScience1)
 
@@ -6016,6 +6016,8 @@
 
 - [@MatejDelic](https://github.com/MatejDelic)
 
+- [@ArshiaAggarwal] (https://github.com/ArshiaAggarwal749)
+
 - [@jsam7](https://github.com/jsam7)
 
 - [@ChloeBors](https://github.com/ChloeBors)
@@ -6776,7 +6778,7 @@
 
 - [@wongkiinging](https://github.com/wongkiinging)
 
--[@jinkrd](https://github.com/jinkrd)
+- [@jinkrd](https://github.com/jinkrd)
 
 - [@ajmooney](https://github.com/ajmooney)
 
@@ -6788,7 +6790,7 @@
 
 - [@unknown-cat](https://github.com/unknown-cat)
 
--[@dogaozgon](https://github.com/dogaozgon)
+- [@dogaozgon](https://github.com/dogaozgon)
 
 - [@abhilasha007](https://github.com/abhilasha007)
 
@@ -6802,7 +6804,7 @@
 
 - [@iamDeepanshu9](https://github.com/iamDeepanshu9)
 
--- [@imchiragtyagi](https://github.com/imchiragtyagi)
+- [@imchiragtyagi](https://github.com/imchiragtyagi)
 
 - [@TallGoblin](https://github.com/TallGoblin)
 
