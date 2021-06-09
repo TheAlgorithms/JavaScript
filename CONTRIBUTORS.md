@@ -6740,6 +6740,10 @@
 
 - [@ShajadulGH](https://github.com/ShajadulGH)
 
+ -[@hackhim18](https://github.com/hackhim18)
+
+-[@Ravi-FEHCJ-Developer](https://github.com/Ravi-FEHCJ-Developer)
+
 - [@srisatya1197](https://github.com/srisatya1197)
 
 - [@hackhim18](https://github.com/hackhim18)
@@ -6846,4 +6850,9 @@
 
 -[@ChiraShankar](https://github.com/ChiraShankar)
 
+-[@filbertfelim](https://github.com/filbertfelim)
+
+-[@jdpelletier](https://github.com/jdpelletier)
+
 -[@CyKaBit](https://github.com/CyKaBit)
+
