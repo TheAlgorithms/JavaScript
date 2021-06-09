@@ -6818,6 +6818,8 @@
 
 -[@alirazalalani](https://github.com/alirazalalani/)
 
+-[@kazzyklein](https://github.com/kazzyklein)
+
 -[sameer882000](https://github.com/sameer882000)
 
 -[@PhillipNGay](https://github.com/PhillipNGay/)
@@ -6825,3 +6827,8 @@
 -[@Dabakeman7](https://github.com/Dabakeman7)
 
 -[@the-arogs](https://github.com/the-arogs/)
+
+-[@ChiraShankar](https://github.com/ChiraShankar)
+
+-[@CyKaBit](https://github.com/CyKaBit)
+
