@@ -6714,6 +6714,10 @@
 
 - [@Apathy643](https://github.com/Apathy643)
 
+-[@senpaii1](https://github.com/senpaii1)
+
+-[@aasiazahir](https://github.com/aasiazahir)
+
 - [@VanshKela](https://github.com/VanshKela)
 
 - [@Ryan258](https://github.com/ryan258)
@@ -6725,6 +6729,10 @@
 - [@rez4president](https://github.com/rez4president)
 
 - [@ydroopert](https://github.com/ydroopert)
+
+- [@ssathvick](https://github.com/ssathvick)
+
+- [@GabrielOAvila](https://github.com/GabrielOAvila)
 
 - [@aayush142002](https://github.com/aayush142002)
 
@@ -6855,4 +6863,3 @@
 -[@jdpelletier](https://github.com/jdpelletier)
 
 -[@CyKaBit](https://github.com/CyKaBit)
-
