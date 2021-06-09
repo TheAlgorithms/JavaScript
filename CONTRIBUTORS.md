@@ -1252,7 +1252,7 @@
 
 - [@Visible-Radio](https://github.com/Visible-Radio)
 
-- [@Vivek2509](htpps://github.com/Vivek2509)
+- [@Vivek2509](https://github.com/Vivek2509)
 
 - [@VoodooScience1](https://github.com/VoodooScience1)
 
@@ -6016,6 +6016,8 @@
 
 - [@MatejDelic](https://github.com/MatejDelic)
 
+- [@ArshiaAggarwal] (https://github.com/ArshiaAggarwal749)
+
 - [@jsam7](https://github.com/jsam7)
 
 - [@ChloeBors](https://github.com/ChloeBors)
@@ -6740,7 +6742,7 @@
 
 - [@srisatya1197](https://github.com/srisatya1197)
 
- - [@hackhim18](https://github.com/hackhim18)
+- [@hackhim18](https://github.com/hackhim18)
 
 - [@Ravi-FEHCJ-Developer](https://github.com/Ravi-FEHCJ-Developer)
 
@@ -6776,7 +6778,7 @@
 
 - [@wongkiinging](https://github.com/wongkiinging)
 
--[@jinkrd](https://github.com/jinkrd)
+- [@jinkrd](https://github.com/jinkrd)
 
 - [@ajmooney](https://github.com/ajmooney)
 
@@ -6790,3 +6792,52 @@
 
 - [@joeyz11](https://github.com/joeyz11) 
 
+-[@Webistics](https://https://github.com/Webistics)
+
+- [@dogaozgon](https://github.com/dogaozgon)
+
+- [@abhilasha007](https://github.com/abhilasha007)
+
+- [@WoodyXiao](https://github.com/WoodyXiao)
+
+- [@Benlamar](https://github.com/Benlamar)
+
+- [@LilpiggieJeffrey](https://github.com/Lilpiggie0522)
+
+- [@gviidas](https://github.com/gviidas)
+
+- [@iamDeepanshu9](https://github.com/iamDeepanshu9)
+
+- [@imchiragtyagi](https://github.com/imchiragtyagi)
+
+- [@TallGoblin](https://github.com/TallGoblin)
+
+- [@abgq](https://github.com/abgq)
+
+- [@khaliltkhalil](https://github.com/khaliltkhalil)
+
+- [@mirshadoz](https://github.com/mirshadoz)
+
+- [@Marcin-Kowalczykk](https://github.com/Marcin-Kowalczykk)
+
+-[@jeeljain19](https://github.com/jeeljain19)
+
+-[@alirazalalani](https://github.com/alirazalalani/)
+
+-[sameer882000](https://github.com/sameer882000)
+
+-[@sampsonas](https://github.com/sampsonas)
+
+-[@kazzyklein](https://github.com/kazzyklein)
+
+-[sameer882000](https://github.com/sameer882000)
+
+-[@PhillipNGay](https://github.com/PhillipNGay/)
+
+-[@Dabakeman7](https://github.com/Dabakeman7)
+
+-[@the-arogs](https://github.com/the-arogs/)
+
+-[@ChiraShankar](https://github.com/ChiraShankar)
+
+-[@CyKaBit](https://github.com/CyKaBit)
