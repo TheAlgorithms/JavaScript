@@ -6817,5 +6817,15 @@
 -[@jeeljain19](https://github.com/jeeljain19)
 
 -[@alirazalalani](https://github.com/alirazalalani/)
--[@kazzyklein](https://github.com/kazzyklein/)
 
+-[@kazzyklein](https://github.com/kazzyklein)
+
+-[sameer882000](https://github.com/sameer882000)
+
+-[@PhillipNGay](https://github.com/PhillipNGay/)
+
+-[@ChiraShankar](https://github.com/ChiraShankar)
+
+-[@Dabakeman7](https://github.com/Dabakeman7)
+
+-[@CyKaBit](https://github.com/CyKaBit)
