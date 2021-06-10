@@ -6878,6 +6878,6 @@
 
 - [@rubyspch](https://github.com/rubyspch)
 
--[@DavidKMuchiri](https://github.com/DavidKMuchiri)
+- [@DavidKMuchiri](https://github.com/DavidKMuchiri)
 
--[@Tebogo11](https://github.com/Tebogo11)
+- [@Tebogo11](https://github.com/Tebogo11)
