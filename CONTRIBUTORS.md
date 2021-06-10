@@ -6798,7 +6798,7 @@
 
 - [@unknown-cat](https://github.com/unknown-cat)
 
-- [@joeyz11](https://github.com/joeyz11) 
+- [@joeyz11](https://github.com/joeyz11)
 
 - [@Webistics](https://https://github.com/Webistics)
 
@@ -6869,3 +6869,5 @@
 - [@NickzArora](https://github.com/NickzArora)
 
 - [@abegpatel](https://github.com/abegpatel)
+
+- [@NassimBouNasr](https://github.com/NassimBouNasr)
