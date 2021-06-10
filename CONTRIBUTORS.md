@@ -6742,7 +6742,7 @@
 
 - [@ShajadulGH](https://github.com/ShajadulGH)
 
- - [@hackhim18](https://github.com/hackhim18)
+- [@hackhim18](https://github.com/hackhim18)
 
 - [@Ravi-FEHCJ-Developer](https://github.com/Ravi-FEHCJ-Developer)
 
@@ -6798,7 +6798,7 @@
 
 - [@unknown-cat](https://github.com/unknown-cat)
 
-- [@joeyz11](https://github.com/joeyz11) 
+- [@joeyz11](https://github.com/joeyz11)
 
 - [@Webistics](https://https://github.com/Webistics)
 
@@ -6855,3 +6855,5 @@
 - [@FedericoAcostaDev](https://github.com/FedericoAcostaDev)
 
 - [@olavi16](https://github.com/olavi16)
+
+- [@BrandonKTC](https://github.com/BrandonKTC)
