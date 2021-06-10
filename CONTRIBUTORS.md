@@ -6878,6 +6878,8 @@
 
 - [@rubyspch](https://github.com/rubyspch)
 
--[@DavidKMuchiri](https://github.com/DavidKMuchiri)
+- [@DavidKMuchiri](https://github.com/DavidKMuchiri)
 
--[@llugo-dev](https://github.com/llugo-dev)
+- [@llugo-dev](https://github.com/llugo-dev)
+
+- [@kkjonnykk](https://github.com/kkjonnykk)
