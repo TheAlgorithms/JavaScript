@@ -6798,7 +6798,7 @@
 
 - [@unknown-cat](https://github.com/unknown-cat)
 
-- [@joeyz11](https://github.com/joeyz11) 
+- [@joeyz11](https://github.com/joeyz11)
 
 - [@Webistics](https://https://github.com/Webistics)
 
@@ -6813,6 +6813,8 @@
 - [@Benlamar](https://github.com/Benlamar)
 
 - [@LilpiggieJeffrey](https://github.com/Lilpiggie0522)
+
+- [@SaiCVK32](https://github.com/SaiCVK32/)
 
 - [@gviidas](https://github.com/gviidas)
 
@@ -6869,3 +6871,17 @@
 - [@NickzArora](https://github.com/NickzArora)
 
 - [@abegpatel](https://github.com/abegpatel)
+
+- [@NassimBouNasr](https://github.com/NassimBouNasr)
+
+- [@yatendra2001](https://github.com/yatendra2001)
+
+- [@rubyspch](https://github.com/rubyspch)
+
+-[@DavidKMuchiri](https://github.com/DavidKMuchiri)
+
+-[@llugo-dev](https://github.com/llugo-dev)
+
+-[@anharsuganda](https://github.com/anharsuganda)
+
+- [@y00gi](https://github.com/y00gi/)
