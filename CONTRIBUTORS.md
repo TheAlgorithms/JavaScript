@@ -6888,9 +6888,8 @@
 
 - [@Anurag0798](https://github.com/Anurag0798/)
 
-<<<<<<< HEAD
 - [@siznkocy](https://github.com/siznkocy/)
-=======
+
 - [@Saverio683](https://github.com/Saverio683/)
 
 - [@DrantDumani](https://github.com/DrantDumani)
@@ -6902,5 +6901,3 @@
 - [@sai-charan-adurthi](https://github.com/sai-charan-adurthi/)
 
 - [@giorgistrat](https://github.com/giorgistrat/)
-
->>>>>>> 41ebf24ebbde3d07814ee107be754882cef36ec2
