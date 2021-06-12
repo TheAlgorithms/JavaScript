@@ -6888,6 +6888,8 @@
 
 - [@Anurag0798](https://github.com/Anurag0798/)
 
+- [@siznkocy](https://github.com/siznkocy/)
+
 - [@Saverio683](https://github.com/Saverio683/)
 
 - [@DrantDumani](https://github.com/DrantDumani)
@@ -6899,4 +6901,3 @@
 - [@sai-charan-adurthi](https://github.com/sai-charan-adurthi/)
 
 - [@giorgistrat](https://github.com/giorgistrat/)
-
