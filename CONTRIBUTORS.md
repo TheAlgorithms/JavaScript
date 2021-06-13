@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@sammiepls](https://github.com/sammiepls)
+
 - [@shannon-nz](https://github.com/shannon-nz)
 
 - [@aryan-121](https://github.com/aryan-121)
