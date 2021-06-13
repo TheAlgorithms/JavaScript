@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@sammiepls](https://github.com/sammiepls)
+
 - [@shannon-nz](https://github.com/shannon-nz)
 
 - [@aryan-121](https://github.com/aryan-121)
@@ -6920,4 +6922,8 @@
 
 - [@laulina](https://github.com/laulina)
 
--[@NikkiKal](https://github.com/NikkiKal/)
+- [@NikkiKal](https://github.com/NikkiKal/)
+
+- [@pcsmomo](https://github.com/pcsmomo/)
+
+- [@avvijeet](https://github.com/avvijeet/)
