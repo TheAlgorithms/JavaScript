@@ -6953,6 +6953,13 @@
 
 - [@neha-hegde](https://github.com/neha-hegde/)
 
+- [@DavidKMuchiri](https://github.com/DavidKMuchiri)
+
+- [@llugo-dev](https://github.com/llugo-dev)
+
+- [@mdubelbeis](https://github.com/mdubelbeis)
+
 -[@llugo-dev](https://github.com/llugo-dev)
 
 -[@jmurphy5613](https://github.com/jmurphy5613)
+
