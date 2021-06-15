@@ -1,8 +1,8 @@
 # CONTRIBUTORS
 
-- [@sammiepls](https://github.com/sammiepls)
-
 - [@shannon-nz](https://github.com/shannon-nz)
+
+- [@sammiepls](https://github.com/sammiepls)
 
 - [@aryan-121](https://github.com/aryan-121)
 
@@ -6822,6 +6822,8 @@
 
 - [@imchiragtyagi](https://github.com/imchiragtyagi)
 
+- [@TallGoblin](https://github.com/TallGoblin)
+
 - [@bogvoicescu](https://github.com/bogvoicescu)
 
 - [@abgq](https://github.com/abgq)
@@ -6858,9 +6860,9 @@
 
 - [@olavi16](https://github.com/olavi16)
 
-- [@BrandonKTC](https://github.com/BrandonKTC)
-
 - [@abhinav-193](https://github.com/abhinav-193)
+
+- [@BrandonKTC](https://github.com/BrandonKTC)
 
 - [@enahum0412](https://github.com/enahum0412)
 
@@ -6874,9 +6876,9 @@
 
 - [@abegpatel](https://github.com/abegpatel)
 
-- [@ponniahRajagopal](https://github.com/ponniahRajagopal)
-
 - [@NassimBouNasr](https://github.com/NassimBouNasr)
+
+- [@ponniahRajagopal](https://github.com/ponniahRajagopal)
 
 - [@yatendra2001](https://github.com/yatendra2001)
 
@@ -6924,6 +6926,8 @@
 
 - [@NikkiKal](https://github.com/NikkiKal/)
 
+- [@ngochieu642](https://github.com/ngochieu642)
+
 - [@pcsmomo](https://github.com/pcsmomo/)
 
 - [@avvijeet](https://github.com/avvijeet/)
@@ -6934,6 +6938,24 @@
 
 - [@iurynadin](https://github.com/iurynadin/)
 
+- [@MartinMFM](https://github.com/MartinMFM/)
+
+- [@liran282](https://github.com/liran282/)
+
+- [@jelmore1674](https://github.com/jelmore1674)
+
 - [@neha-hegde](https://github.com/neha-hegde/)
 
-- [@MartinMFM](https://github.com/MartinMFM/)
+- [@mdubelbeis](https://github.com/mdubelbeis)
+
+- [@jmurphy5613](https://github.com/jmurphy5613)
+
+- [@corleone0007](https://github.com/corleone0007)
+
+- [@mixhaelangelo](https://github.com/mixhaelangelo)
+
+- [@theo923](https://github.com/theo923)
+
+- [@ScoobyDooDoo](https://github.com/ScoobyDooDoo)
+
+- [@fleuronvilik](https://github.com/fleuronvilik)
