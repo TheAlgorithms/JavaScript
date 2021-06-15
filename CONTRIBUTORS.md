@@ -6960,6 +6960,8 @@
 
 - [@fleuronvilik](https://github.com/fleuronvilik)
 
+- [@Aleck-Kit](https://github.com/Aleck-Kit)
+
 -[@dinoDanic](https://github.com/dinoDanic)
 
 -[@Sand-a](https://github.com/Sand-a)
