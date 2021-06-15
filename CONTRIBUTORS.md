@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@LJones95](https://github.com/LJones95)
+
 - [@shannon-nz](https://github.com/shannon-nz)
 
 - [@sammiepls](https://github.com/sammiepls)
@@ -6981,5 +6983,9 @@
 -[@leutamommx](https://github.com/leutamommx/)
 
 -[@dcsamba](https://github.com/dcsamba/)
+
+-[@jolanipekun](https://github.com/jolanipekun/)
+
+-[@arunthulasidharan88](https://github.com/arunthulasidharan88/)
 
 -[@jjayguy23](https://github.com/jjayguy23/)
