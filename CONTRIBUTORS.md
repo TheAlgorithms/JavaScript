@@ -6018,7 +6018,7 @@
 
 - [@MatejDelic](https://github.com/MatejDelic)
 
-- [@ArshiaAggarwal] (https://github.com/ArshiaAggarwal749)
+- [@ArshiaAggarwal] (<https://github.com/ArshiaAggarwal749>)
 
 - [@jsam7](https://github.com/jsam7)
 
@@ -6961,3 +6961,21 @@
 - [@fleuronvilik](https://github.com/fleuronvilik)
 
 - [@Aleck-Kit](https://github.com/Aleck-Kit)
+
+-[@dinoDanic](https://github.com/dinoDanic)
+
+-[@Sand-a](https://github.com/Sand-a)
+
+-[@SaiyanAhmed](https://github.com/SaiyanAhmed)
+
+-[@benjaminpeto](https://github.com/benjaminpeto)
+
+-[@ShaunForster](https://github.com/ShaunForster)
+
+-[@pilauria](https://github.com/pilauria)
+
+-[@UmarZaman9](https://github.com/UmarZaman9/)
+
+-[@NasDevFe](https://github.com/NasDevFe)
+
+-[@leutamommx](https://github.com/leutamommx/)
