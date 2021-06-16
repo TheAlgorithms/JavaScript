@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@LJones95](https://github.com/LJones95)
+
 - [@shannon-nz](https://github.com/shannon-nz)
 
 - [@sammiepls](https://github.com/sammiepls)
@@ -6018,7 +6020,7 @@
 
 - [@MatejDelic](https://github.com/MatejDelic)
 
-- [@ArshiaAggarwal] (https://github.com/ArshiaAggarwal749)
+- [@ArshiaAggarwal] (<https://github.com/ArshiaAggarwal749>)
 
 - [@jsam7](https://github.com/jsam7)
 
@@ -6960,6 +6962,8 @@
 
 - [@fleuronvilik](https://github.com/fleuronvilik)
 
+- [@Aleck-Kit](https://github.com/Aleck-Kit)
+
 -[@dinoDanic](https://github.com/dinoDanic)
 
 -[@Sand-a](https://github.com/Sand-a)
@@ -6967,3 +6971,21 @@
 -[@SaiyanAhmed](https://github.com/SaiyanAhmed)
 
 -[@benjaminpeto](https://github.com/benjaminpeto)
+
+-[@ShaunForster](https://github.com/ShaunForster)
+
+-[@pilauria](https://github.com/pilauria)
+
+-[@UmarZaman9](https://github.com/UmarZaman9/)
+
+-[@NasDevFe](https://github.com/NasDevFe)
+
+-[@leutamommx](https://github.com/leutamommx/)
+
+-[@dcsamba](https://github.com/dcsamba/)
+
+-[@jolanipekun](https://github.com/jolanipekun/)
+
+-[@arunthulasidharan88](https://github.com/arunthulasidharan88/)
+
+-[@jjayguy23](https://github.com/jjayguy23/)
