@@ -6994,3 +6994,16 @@
 
 - [@Bikesh-ui](https://github.com/Bikesh-ui)
 
+- [@DrFauzeAbdel](https://github.com/DrFauzeAbdel)
+
+- [@delasimensah](https://github.com/delasimensah)
+
+- [@Charly-Crypton](https://github.com/Charly-Crypton)
+
+- [@oxerene](https://github.com/Oxerene)
+
+- [@s403o](https://github.com/s403o)
+
+-[@Prayag-creator](https://github.com/Prayag-creator)
+
+-[@evsprout](https://github.com/evsprout)
