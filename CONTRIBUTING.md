@@ -46,13 +46,13 @@ Algorithms in this repo should not be how-to examples for existing JavaScript pa
 
 #### File Naming Convention
   - filenames should use the UpperCamelCase (PascalCase) style.
-  - There should be no spaces in filenames.  
+  - There should be no spaces in filenames.
  **Example:**`UserProfile.js` is allowed but `userprofile.js`,`Userprofile.js`,`user-Profile.js`,`userProfile.js` are not
 
 #### Testing
 
-Be confident that your code works. When was the last time you committed a code change, your build failed, and half of your app stopped working? Mine was last week. Writing tests for our Algorithms will help us ensure the implementations are air tight even after multiple fixes and code changes. 
-We use a NPM package [doctest](https://www.npmjs.com/package/doctest) to add basic testing functionality to our code. Doctests are simple structured comments that evaluate an function and ensure a required result.
+Be confident that your code works. When was the last time you committed a code change, your build failed, and half of your app stopped working? Mine was last week. Writing tests for our Algorithms will help us ensure the implementations are air tight even after multiple fixes and code changes.
+We use a NPM package [doctest](https://www.npmjs.com/package/doctest) to add basic testing functionality to our code. Doctests are simple structured comments that evaluate a function and ensure a required result.
 
 The implementation of doctest is quite simple. You can easily learn it [here](https://www.npmjs.com/package/doctest).
 
@@ -76,23 +76,23 @@ To maximize the readability and correctness of our code, we require that new sub
     $ standard MyFile.js  // if that fails, try: npx standard MyFile.js
     ```
 
-- Use camelCase for with leading character lowercase for identifier names (variables and functions)
+- Use camelCase with the leading character as lowercase for identifier names (variables and functions)
 - Names start with a letter
 - follow code indentation
   - Always use 2 spaces for indentation of code blocks
     ```
     function sumOfArray (arrayOfNumbers) {
-        let sum = 0
-        for (let i = 0; i < arrayOfNumbers.length; i++) {
-          sum += arrayOfNumbers[i]
-        }
-        return (sum)
+      let sum = 0
+      for (let i = 0; i < arrayOfNumbers.length; i++) {
+        sum += arrayOfNumbers[i]
       }
+      return (sum)
+    }
 
     ```
 - Avoid using global variables and avoid '=='
 - Please use 'let' over 'var'
-- Please use 'console.log()'  
+- Please use 'console.log()'
 - We strongly recommend the use of ECMAScript 6
 - Avoid importing external libraries for basic algorithms. Only use those libraries for complicated algorithms.
 - Most importantly,
