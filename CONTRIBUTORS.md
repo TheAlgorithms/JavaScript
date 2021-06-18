@@ -6020,7 +6020,7 @@
 
 - [@MatejDelic](https://github.com/MatejDelic)
 
-- [@ArshiaAggarwal] (<https://github.com/ArshiaAggarwal749>)
+- [@ArshiaAggarwal](https://github.com/ArshiaAggarwal749)
 
 - [@jsam7](https://github.com/jsam7)
 
@@ -7015,3 +7015,5 @@
 - [@Aashish-1607](https://github.com/Aashish-1607)
 
 - [@hamidrezaghanbari](https://github.com/hamidrezaghanbari)
+
+- [@AnastasiosPas](https://github.com/AnastasiosPas)
