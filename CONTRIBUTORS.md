@@ -7045,3 +7045,5 @@
 -[@AlcoKD](https://github.com/AlcoKD)
 
 -[@chrisjmckeown](https://github.com/chrisjmckeown)
+
+-[@nicoleanalisecox](https://github.com/nicoleanalisecox)
