@@ -6020,7 +6020,7 @@
 
 - [@MatejDelic](https://github.com/MatejDelic)
 
-- [@ArshiaAggarwal] (<https://github.com/ArshiaAggarwal749>)
+- [@ArshiaAggarwal](https://github.com/ArshiaAggarwal749)
 
 - [@jsam7](https://github.com/jsam7)
 
@@ -7012,9 +7012,32 @@
 
 - [@Sir_Unkie](https://github.com/Sir-Unkie)
 
+- [@KirthiSM](https://github.com/KirthiSM)
+
 - [@Aashish-1607](https://github.com/Aashish-1607)
 
 - [@hamidrezaghanbari](https://github.com/hamidrezaghanbari)
 
 - [@vsa19964](https://github.com/vsa19964)
 
+- [@tryomn](https://github.com/tryomn)
+
+- [@AnastasiosPas](https://github.com/AnastasiosPas)
+
+- [@Groense1](https://github.com/Groense1/)
+
+- [@satyadeep16](https://github.com/satyadeep16)
+
+- [@chinmaybhole](https://github.com/chinmaybhole/)
+
+- [@NickWitt81](https://github.com/NickWitt81)
+
+- [@IN25](https://github.com/IN25)
+
+- [@davidedmondson](https://github.com/davidedmondson)
+
+- [@shrinker03](https://github.com/shrinker03/)
+
+- [@NineNintyNine](https://github.com/NineNintyNine/)
+
+- [@niharikakanakala](https://github.com/niharikakanakala/)
