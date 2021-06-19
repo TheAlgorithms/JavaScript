@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@smeubank](https://github.com/smeubank)
+
 - [@LJones95](https://github.com/LJones95)
 
 - [@shannon-nz](https://github.com/shannon-nz)
@@ -7043,3 +7045,7 @@
 - [@niharikakanakala](https://github.com/niharikakanakala/)
 
 -[@AlcoKD](https://github.com/AlcoKD)
+
+-[@chrisjmckeown](https://github.com/chrisjmckeown)
+
+-[@nicoleanalisecox](https://github.com/nicoleanalisecox)
