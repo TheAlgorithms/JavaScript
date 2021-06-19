@@ -7012,6 +7012,8 @@
 
 - [@Sir_Unkie](https://github.com/Sir-Unkie)
 
+- [@KirthiSM](https://github.com/KirthiSM)
+
 - [@Aashish-1607](https://github.com/Aashish-1607)
 
 - [@hamidrezaghanbari](https://github.com/hamidrezaghanbari)
@@ -7029,3 +7031,11 @@
 - [@NickWitt81](https://github.com/NickWitt81)
 
 - [@IN25](https://github.com/IN25)
+
+- [@davidedmondson](https://github.com/davidedmondson)
+
+- [@shrinker03](https://github.com/shrinker03/)
+
+- [@NineNintyNine](https://github.com/NineNintyNine/)
+
+- [@niharikakanakala](https://github.com/niharikakanakala/)
