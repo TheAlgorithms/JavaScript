@@ -7044,20 +7044,20 @@
 
 - [@niharikakanakala](https://github.com/niharikakanakala/)
 
--[@AlcoKD](https://github.com/AlcoKD)
+- [@AlcoKD](https://github.com/AlcoKD)
 
--[@chrisjmckeown](https://github.com/chrisjmckeown)
+- [@chrisjmckeown](https://github.com/chrisjmckeown)
 
--[@nicoleanalisecox](https://github.com/nicoleanalisecox)
+- [@nicoleanalisecox](https://github.com/nicoleanalisecox)
 
 - [@HareerSakhi](https://github.com/HareerSakhi)
 
-- [@jayden-leuciuc] (https://github.com/jayden-leuciuc)
+- [@jayden-leuciuc](https://github.com/jayden-leuciuc)
 
 - [@kadenswarr](https://github.com/kadenswarr)
 
 - [@ya-liu](https://github.com/ya-liu)
-  
+
 - [@Tharun2331](https://github.com/Tharun2331)
 
 - [@aditimehta-coding](https://github.com/aditimehta-coding/)
