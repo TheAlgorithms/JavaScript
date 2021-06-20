@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@hariharen9](https://github.com/hariharen9)
+
 - [@smeubank](https://github.com/smeubank)
 
 - [@LJones95](https://github.com/LJones95)
