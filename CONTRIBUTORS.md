@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@hariharen9](https://github.com/hariharen9)
+
 - [@smeubank](https://github.com/smeubank)
 
 - [@LJones95](https://github.com/LJones95)
@@ -7062,8 +7064,8 @@
 
 - [@aditimehta-coding](https://github.com/aditimehta-coding/)
 
-<<<<<<< HEAD
 - [@liangcode001](https://github.com/liangcode001)
-=======
+
 - [@Canello](https://github.com/Canello/)
->>>>>>> fc803f1c4c187ad7e31e8b910551169fd29962c8
+
+- [@dowoo71548](https://github.com/dowoo71548/)
