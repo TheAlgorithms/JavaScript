@@ -1,5 +1,6 @@
 # CONTRIBUTORS
 
+- [@RupamG](https://github.com/RupamG)
 - [@hariharen9](https://github.com/hariharen9)
 
 - [@smeubank](https://github.com/smeubank)
