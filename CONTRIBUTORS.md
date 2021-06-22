@@ -7087,3 +7087,5 @@
 - [@Wurdalpoke](https://github.com/Wurdalpoke/)
 
 - [@Ryii](https://github.com/Ryii)
+
+- [@jeremiemadara](https://github.com/jeremievalili)
