@@ -1,5 +1,6 @@
 # CONTRIBUTORS
 
+- [@RupamG](https://github.com/RupamG)
 - [@hariharen9](https://github.com/hariharen9)
 
 - [@smeubank](https://github.com/smeubank)
@@ -7094,3 +7095,19 @@
 - [@Jithendra71](https://github.com/Jithendra71)
 
 - [@sayanroy11](https://github.com/sayanroy11)
+
+- [@aarontkrieg](https://github.com/aarontkrieg)
+
+- [@AdroTheWanderer](https://github.com/AdroTheWanderer)
+
+- [@hassan-anees](https://github.com/hassan-anees)
+
+- [@sorlac3](https://github.com/solrac3)
+
+- [@clevermiraz](https://github.com/clevermiraz)
+
+- [@Oluwatosin123](https://github.com/Oluwatosin123)
+
+- [@Starenzo](https://github.com/Starenzo)
+
+- [@DukeWendo](https://github.com/Dukewendo)
