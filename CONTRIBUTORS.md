@@ -3,6 +3,8 @@
 - [@RupamG](https://github.com/RupamG)
 - [@hariharen9](https://github.com/hariharen9)
 
+- [@clevermiraz](https://github.com/clevermiraz)
+
 - [@smeubank](https://github.com/smeubank)
 
 - [@LJones95](https://github.com/LJones95)
@@ -7103,5 +7105,3 @@
 - [@hassan-anees](https://github.com/hassan-anees)
 
 - [@sorlac3](https://github.com/solrac3)
-
-- [@clevermiraz](https://github.com/clevermiraz)
