@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@RupamG](https://github.com/RupamG)
+
 - [@hariharen9](https://github.com/hariharen9)
 
 - [@smeubank](https://github.com/smeubank)
@@ -7089,3 +7091,45 @@
 - [@Ryii](https://github.com/Ryii)
 
 - [@yashppawar](https://github.com/yashppawar)
+
+- [@jonyahmed19](https://github.com/jonyahmed19)
+
+- [@codeph_0bia](https://github.com/codeph-0bia)
+
+- [@Jithendra71](https://github.com/Jithendra71)
+
+- [@sayanroy11](https://github.com/sayanroy11)
+
+- [@aarontkrieg](https://github.com/aarontkrieg)
+
+- [@AdroTheWanderer](https://github.com/AdroTheWanderer)
+
+- [@hassan-anees](https://github.com/hassan-anees)
+
+- [@sorlac3](https://github.com/solrac3)
+
+- [@clevermiraz](https://github.com/clevermiraz)
+
+- [@Oluwatosin123](https://github.com/Oluwatosin123)
+
+- [@Starenzo](https://github.com/Starenzo)
+
+- [@DukeWendo](https://github.com/Dukewendo)
+
+- [@Amanbek1](https://github.com/Amanbek1)
+
+- [@VishnuBhatt](https://github.com/vishnubbhatt)
+
+- [@traidattron](https://github.com/traidattron)
+
+- [@johnsohn0827](https://github.com/johnsohn0827)
+
+- [@vivienneobrien](https://github.com/vivienneobrien)
+
+- [@suman2020](https://github.com/suman2020) 
+
+- [@alexchanocua](https://github.com/alexchanocua)
+
+- [@john29sab](https://github.com/john29sab)
+
+- [@Adityakapse](https://github.com/Adityakapse)
