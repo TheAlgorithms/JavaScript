@@ -7144,9 +7144,9 @@
 
 - [@solidtm](https://github.com/solidtm)
 
--[@thenewking007](https://github.com/thenewking007/)
+- [@thenewking007](https://github.com/thenewking007/)
 
--[@james115511](https://github.com/james115511)
+- [@james115511](https://github.com/james115511)
 
 - [@rajdeepg](https://github.com/rajdeepg)
 
