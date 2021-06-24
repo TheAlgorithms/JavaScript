@@ -7144,10 +7144,9 @@
 
 - [@solidtm](https://github.com/solidtm)
 
-<<<<<<< HEAD
 -[@thenewking007](https://github.com/thenewking007/)
 
 -[@james115511](https://github.com/james115511)
-=======
+
 - [@rajdeepg](https://github.com/rajdeepg)
->>>>>>> 1bb30abcc246e49ed10431ed850dff8627d82919
+
