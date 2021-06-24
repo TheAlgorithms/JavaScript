@@ -5063,11 +5063,6 @@
 
 - [@bintou123-ski](https://github.com/bintou123-ski/)
 
-<<<<<<< HEAD
-- [@arham2002](https://github.com/arham2002/)
-=======
-- [@arham2002](https://github.com/arham2002/)
-
 - [@bizzocode](https://github.com/bizzocode/)
 
 - [@highhorse69](https://github.com/highhorse69/)
@@ -7114,5 +7109,21 @@
 - [@Starenzo](https://github.com/Starenzo)
 
 - [@DukeWendo](https://github.com/Dukewendo)
+
+- [@Amanbek1](https://github.com/Amanbek1)
+
+- [@VishnuBhatt](https://github.com/vishnubbhatt)
+
+- [@traidattron](https://github.com/traidattron)
+
+- [@johnsohn0827](https://github.com/johnsohn0827)
+
+- [@vivienneobrien](https://github.com/vivienneobrien)
+
+- [@suman2020](https://github.com/suman2020) 
+
+- [@alexchanocua](https://github.com/alexchanocua)
+
+-[@john29sab](https://github.com/john29sab)
 
 - [@arham2002](https://github.com/arham2002)
