@@ -1,6 +1,7 @@
 # CONTRIBUTORS
 
 - [@RupamG](https://github.com/RupamG)
+
 - [@hariharen9](https://github.com/hariharen9)
 
 - [@clevermiraz](https://github.com/clevermiraz)
@@ -7090,6 +7091,9 @@
 - [@Wurdalpoke](https://github.com/Wurdalpoke/)
 
 - [@Ryii](https://github.com/Ryii)
+
+- [@yashppawar](https://github.com/yashppawar)
+
 - [@jonyahmed19](https://github.com/jonyahmed19)
 
 - [@codeph_0bia](https://github.com/codeph-0bia)
@@ -7105,3 +7109,41 @@
 - [@hassan-anees](https://github.com/hassan-anees)
 
 - [@sorlac3](https://github.com/solrac3)
+
+- [@Oluwatosin123](https://github.com/Oluwatosin123)
+
+- [@Starenzo](https://github.com/Starenzo)
+
+- [@DukeWendo](https://github.com/Dukewendo)
+
+- [@Amanbek1](https://github.com/Amanbek1)
+
+- [@VishnuBhatt](https://github.com/vishnubbhatt)
+
+- [@traidattron](https://github.com/traidattron)
+
+- [@johnsohn0827](https://github.com/johnsohn0827)
+
+- [@vivienneobrien](https://github.com/vivienneobrien)
+
+- [@suman2020](https://github.com/suman2020) 
+
+- [@alexchanocua](https://github.com/alexchanocua)
+
+- [@john29sab](https://github.com/john29sab)
+
+- [@Adityakapse](https://github.com/Adityakapse)
+
+- [@Santosh325](https://github.com/Santosh325)
+
+- [@SpBhalani](https://github.com/SpBhalani)
+
+- [@Rahul-debug123](https://github.com/@Rahul-debug123)
+
+- [@omkarov](https://github.com/omkarov)
+
+- [@solidtm](https://github.com/solidtm)
+
+- [@rajdeepg](https://github.com/rajdeepg)
+
+- [@AnshulNegi03](https://github.com/AnshulNegi03)
