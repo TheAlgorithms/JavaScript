@@ -1,7 +1,10 @@
 # CONTRIBUTORS
 
 - [@RupamG](https://github.com/RupamG)
+
 - [@hariharen9](https://github.com/hariharen9)
+
+- [@clevermiraz](https://github.com/clevermiraz)
 
 - [@smeubank](https://github.com/smeubank)
 
@@ -7086,6 +7089,9 @@
 - [@Wurdalpoke](https://github.com/Wurdalpoke/)
 
 - [@Ryii](https://github.com/Ryii)
+
+- [@yashppawar](https://github.com/yashppawar)
+
 - [@jonyahmed19](https://github.com/jonyahmed19)
 
 - [@codeph_0bia](https://github.com/codeph-0bia)
@@ -7101,8 +7107,6 @@
 - [@hassan-anees](https://github.com/hassan-anees)
 
 - [@sorlac3](https://github.com/solrac3)
-
-- [@clevermiraz](https://github.com/clevermiraz)
 
 - [@Oluwatosin123](https://github.com/Oluwatosin123)
 
@@ -7124,6 +7128,22 @@
 
 - [@alexchanocua](https://github.com/alexchanocua)
 
--[@john29sab](https://github.com/john29sab)
-
 - [@arham2002](https://github.com/arham2002)
+
+- [@john29sab](https://github.com/john29sab)
+
+- [@Adityakapse](https://github.com/Adityakapse)
+
+- [@Santosh325](https://github.com/Santosh325)
+
+- [@SpBhalani](https://github.com/SpBhalani)
+
+- [@Rahul-debug123](https://github.com/@Rahul-debug123)
+
+- [@omkarov](https://github.com/omkarov)
+
+- [@solidtm](https://github.com/solidtm)
+
+- [@rajdeepg](https://github.com/rajdeepg)
+
+- [@AnshulNegi03](https://github.com/AnshulNegi03)
