@@ -4,6 +4,8 @@
 
 - [@hariharen9](https://github.com/hariharen9)
 
+- [@clevermiraz](https://github.com/clevermiraz)
+
 - [@smeubank](https://github.com/smeubank)
 
 - [@LJones95](https://github.com/LJones95)
@@ -5064,8 +5066,6 @@
 
 - [@bintou123-ski](https://github.com/bintou123-ski/)
 
-- [@arham2002](https://github.com/arham2002/)
-
 - [@bizzocode](https://github.com/bizzocode/)
 
 - [@highhorse69](https://github.com/highhorse69/)
@@ -7108,8 +7108,6 @@
 
 - [@sorlac3](https://github.com/solrac3)
 
-- [@clevermiraz](https://github.com/clevermiraz)
-
 - [@Oluwatosin123](https://github.com/Oluwatosin123)
 
 - [@Starenzo](https://github.com/Starenzo)
@@ -7126,15 +7124,19 @@
 
 - [@vivienneobrien](https://github.com/vivienneobrien)
 
-- [@suman2020](https://github.com/suman2020) 
+- [@suman2020](https://github.com/suman2020)
 
 - [@alexchanocua](https://github.com/alexchanocua)
+
+- [@arham2002](https://github.com/arham2002)
 
 - [@john29sab](https://github.com/john29sab)
 
 - [@Adityakapse](https://github.com/Adityakapse)
 
 - [@Santosh325](https://github.com/Santosh325)
+
+- [@gobie498](https://github.com/gobie498)
 
 - [@SpBhalani](https://github.com/SpBhalani)
 
@@ -7144,4 +7146,10 @@
 
 - [@solidtm](https://github.com/solidtm)
 
+- [@james115511](https://github.com/james115511)
+
 - [@rajdeepg](https://github.com/rajdeepg)
+
+- [@AnshulNegi03](https://github.com/AnshulNegi03)
+
+- [@DannyLeeWalasek](https://github.com/dannyleewalasek)
