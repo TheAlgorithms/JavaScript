@@ -1,6 +1,7 @@
 # CONTRIBUTORS
 
 - [@RupamG](https://github.com/RupamG)
+
 - [@hariharen9](https://github.com/hariharen9)
 
 - [@smeubank](https://github.com/smeubank)
@@ -7088,6 +7089,9 @@
 - [@Wurdalpoke](https://github.com/Wurdalpoke/)
 
 - [@Ryii](https://github.com/Ryii)
+
+- [@yashppawar](https://github.com/yashppawar)
+
 - [@jonyahmed19](https://github.com/jonyahmed19)
 
 - [@codeph_0bia](https://github.com/codeph-0bia)
@@ -7126,4 +7130,18 @@
 
 - [@alexchanocua](https://github.com/alexchanocua)
 
--[@john29sab](https://github.com/john29sab)
+- [@john29sab](https://github.com/john29sab)
+
+- [@Adityakapse](https://github.com/Adityakapse)
+
+- [@Santosh325](https://github.com/Santosh325)
+
+- [@SpBhalani](https://github.com/SpBhalani)
+
+- [@Rahul-debug123](https://github.com/@Rahul-debug123)
+
+- [@omkarov](https://github.com/omkarov)
+
+- [@solidtm](https://github.com/solidtm)
+
+- [@rajdeepg](https://github.com/rajdeepg)
