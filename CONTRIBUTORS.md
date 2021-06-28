@@ -7180,3 +7180,5 @@
 - [@coolzoa](https://github.com/coolzoa/)
 
 - [@gabygramajo](https://github.com/gabygramajo)
+
+- [@jmontesd](https://github.com/jmontesd)
