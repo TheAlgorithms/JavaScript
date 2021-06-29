@@ -7200,3 +7200,5 @@
 - [@jtteeters](https://github.com/jtteeters/)
 
 - [@mejasonatkinson](https://github.com/mejasonatkinson/)
+
+- [@JeanPimmel](https://github.com/JeanPimmel)
