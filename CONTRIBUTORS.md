@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@nikita12c](https://github.com/nikita12c)
+
 - [@RupamG](https://github.com/RupamG)
 
 - [@hariharen9](https://github.com/hariharen9)
@@ -7170,6 +7172,8 @@
 
 - [@souravpatra17](https://github.com/souravpatra17)
 
+-[@Burrito{}](https://github.com/burrito3)
+=======
 - [@alialiayman](https://github.com/alialiayman/)
 
 - [@themsv](https://github.com/themsv)
@@ -7207,3 +7211,6 @@
 
 - [@Druvith](https://github.com/Druvith)
 - [@FormoSeanIap](https://github.com/FormoSeanIap)
+- [@Moysser](https://github.com/Moysser)
+
+- [@KohRonald](https://github.com/KohRonald/)
