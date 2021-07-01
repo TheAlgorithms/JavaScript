@@ -7226,3 +7226,5 @@
 - [@JamesSimel] (https://github.com/JamesSimel/)
 - [@VaibhaviKhachane](https://github.com/VaibhaviKhachane)
 -[@lefagana](https://github.com/Lefagana)
+
+- [@riteshsingh1](https://github.com/riteshsingh1)
