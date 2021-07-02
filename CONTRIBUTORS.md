@@ -7074,7 +7074,7 @@
 
 - [@dowoo71548](https://github.com/dowoo71548/)
 
--[@aw-santo](https://github.com/@aw-santo/)
+- [@aw-santo](https://github.com/@aw-santo/)
 
 - [@ReymoT](https://github.com/ReymoT/)
 
@@ -7172,8 +7172,8 @@
 
 - [@souravpatra17](https://github.com/souravpatra17)
 
--[@Burrito{}](https://github.com/burrito3)
-=======
+- [@Burrito{}](https://github.com/burrito3)
+
 - [@alialiayman](https://github.com/alialiayman/)
 
 - [@themsv](https://github.com/themsv)
@@ -7197,6 +7197,7 @@
 - [@NoelCov](https://github.com/NoelCov)
 
 - [@knownbymanoj](https://github.com/knownbymanoj)
+
 - [@SudharshanSr](https://github.com/SudharshanSr)
 
 - [@moshtaghfr](https://github.com/moshtaghfr)
@@ -7210,7 +7211,9 @@
 - [@Larryking007](https://github.com/Larryking007)
 
 - [@Druvith](https://github.com/Druvith)
+
 - [@FormoSeanIap](https://github.com/FormoSeanIap)
+
 - [@Moysser](https://github.com/Moysser)
 
 - [@KohRonald](https://github.com/KohRonald/)
@@ -7218,23 +7221,29 @@
 - [@SimplyAvi](https://github.com/SimplyAvi)
 
 - [@harshadajog](https://github.com/harshadajog)
+
 - [@nayanathapa] (https://github.com/nayana-thapa)
 
--[@pb7singh] (https://github.com/pb7singh/)
+- [@pb7singh] (https://github.com/pb7singh/)
 
 - [@snehap02] (https://github.com/snehap02/)
+
 - [@JamesSimel] (https://github.com/JamesSimel/)
+
 - [@VaibhaviKhachane](https://github.com/VaibhaviKhachane)
--[@lefagana](https://github.com/Lefagana)
+
+- [@lefagana](https://github.com/Lefagana)
 
 - [@riteshsingh1](https://github.com/riteshsingh1)
 
--[@deivydaslipskis](https://github.com/deivydaslipskis)
+- [@deivydaslipskis](https://github.com/deivydaslipskis)
 
--[@lodux](https://github.com/lodux)
+- [@lodux](https://github.com/lodux)
 
--[@Ashwin0-0] (https://github.com/Ashwin0-0)
+- [@Ashwin0-0] (https://github.com/Ashwin0-0)
 
--[@ElenaChien](https://github.com/ElenaChien)
+- [@ElenaChien](https://github.com/ElenaChien)
 
--[@ashucode](https://github.com/ashucode)
+- [@ashucode](https://github.com/ashucode)
+
+- [@Git-Harshit](https://github.com/Git-Harshit)
