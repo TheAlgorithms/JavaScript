@@ -1,7 +1,5 @@
 # CONTRIBUTORS
 
-- [@aviv7385](https://github.com/aviv7385)
-
 - [@nikita12c](https://github.com/nikita12c)
 
 - [@RupamG](https://github.com/RupamG)
@@ -7250,3 +7248,5 @@
 -[@alish003](https//github.com/alish003)
 
 -[@polykhel](https://github.com/polykhel)
+
+- [@aviv7385](https://github.com/aviv7385)
