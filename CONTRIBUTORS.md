@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@aviv7385](https://github.com/aviv7385)
+
 - [@nikita12c](https://github.com/nikita12c)
 
 - [@RupamG](https://github.com/RupamG)
