@@ -7217,20 +7217,22 @@
 - [@Moysser](https://github.com/Moysser)
 
 - [@KohRonald](https://github.com/KohRonald/)
-  
+
 - [@SimplyAvi](https://github.com/SimplyAvi)
 
 - [@harshadajog](https://github.com/harshadajog)
 
-- [@nayanathapa] (https://github.com/nayana-thapa)
+- [@nayanathapa](https://github.com/nayana-thapa)
 
-- [@pb7singh] (https://github.com/pb7singh/)
+- [@pb7singh](https://github.com/pb7singh/)
 
-- [@snehap02] (https://github.com/snehap02/)
+- [@snehap02](https://github.com/snehap02/)
 
-- [@JamesSimel] (https://github.com/JamesSimel/)
+- [@JamesSimel](https://github.com/JamesSimel/)
 
 - [@VaibhaviKhachane](https://github.com/VaibhaviKhachane)
+
+- [@andrea-everett](https://github.com/andrea-everett/)
 
 - [@lefagana](https://github.com/Lefagana)
 
@@ -7240,10 +7242,44 @@
 
 - [@lodux](https://github.com/lodux)
 
-- [@Ashwin0-0] (https://github.com/Ashwin0-0)
+- [@Ashwin0-0](https://github.com/Ashwin0-0)
 
 - [@ElenaChien](https://github.com/ElenaChien)
 
 - [@ashucode](https://github.com/ashucode)
 
 - [@Git-Harshit](https://github.com/Git-Harshit)
+
+- [@Shrirang-Rajguru](https://github.com/Shrirang-Rajguru)
+
+- [@vpehere](https://github.com/vpehere)
+
+- [@rykite](https://github.com/ryan-kite)
+
+- [@alish003](https//github.com/alish003)
+
+- [@polykhel](https://github.com/polykhel)
+
+- [@aviv7385](https://github.com/aviv7385)
+
+- [@QiangFu96](https://github.com/QiangFu96)
+
+- [@gonzavai](https://github.com/gonzavai)
+
+- [@andresfb88](https://github.com/andresfb88)
+
+- [@arefeh-89](https://github.com/arefeh-89)
+
+- [@igorbutnaru](https://github.com/igorbutnaru)
+
+- [@StevanZ](https://github.com/StevanZ)
+
+- [@tengine8000](https://github.com/tengine8000)
+
+- [@Raghav14200](https://github.com/Raghav14200/)
+
+- [@oalgammal](https://github.com/oalgammal)
+
+- [@ProfessorLaytom](https://github.com/ProfessorLaytom)
+
+- [@zavdonCSH](https://github.com/ZavdonCSH)
