@@ -10,6 +10,9 @@
 
 ## Bit-Manipulation
   * [BinaryCountSetBits](https://github.com/TheAlgorithms/Javascript/blob/master/Bit-Manipulation/BinaryCountSetBits.js)
+  * [SetBit](https://github.com/TheAlgorithms/Javascript/blob/master/Bit-Manipulation/SetBit.js)
+  * test
+    * [SetBit](https://github.com/TheAlgorithms/Javascript/blob/master/Bit-Manipulation/test/SetBit.test.js)
 
 ## Cache
   * [LFUCache](https://github.com/TheAlgorithms/Javascript/blob/master/Cache/LFUCache.js)
