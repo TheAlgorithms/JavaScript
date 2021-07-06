@@ -7294,7 +7294,7 @@
 
 - [@ronrk](https://github.com/ronrk)
 
-- [@CHZelaya](https://github.com/CHZelaya)
+- [@CHZelaya] (https://github.com/CHZelaya)
 
 - [@Nitesh-Singh-5](https://github.com/Nitesh-Singh-5)
 
@@ -7306,3 +7306,4 @@
 - [@nandinichhajed](https://github.com/nandinichhajed/)
 
 - [@dedovich-s](https://github.com/dedovich-s)
+- [@HFConsultant](https://github.com/HFConsultant)
