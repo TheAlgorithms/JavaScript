@@ -7304,3 +7304,5 @@
 - [@Shohruzjon-tech](https://github.com/shohruzjon-tech)
 
 - [@nandinichhajed](https://github.com/nandinichhajed/)
+
+- [@dedovich-s](https://github.com/dedovich-s)
