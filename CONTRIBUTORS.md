@@ -7305,4 +7305,4 @@
 
 - [@nandinichhajed](https://github.com/nandinichhajed/)
 
--[@dedovich-s](https://github.com/dedovich-s)
+- [@dedovich-s](https://github.com/dedovich-s)
