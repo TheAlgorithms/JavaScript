@@ -12,6 +12,8 @@
 
 - [@LJones95](https://github.com/LJones95)
 
+- [@Hanh] (https://github.com/hanh845)
+
 - [@shannon-nz](https://github.com/shannon-nz)
 
 - [@sammiepls](https://github.com/sammiepls)
@@ -7291,3 +7293,9 @@
 - [@aliakhavanrad](https://github.com/aliakhavanrad)
 
 - [@ronrk](https://github.com/ronrk)
+
+- [@CHZelaya] (https://github.com/CHZelaya)
+
+- [@Nitesh-Singh-5](https://github.com/Nitesh-Singh-5)
+
+- [@marcocrupi](https://github.com/marcocrupi)
