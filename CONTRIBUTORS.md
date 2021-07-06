@@ -12,7 +12,7 @@
 
 - [@LJones95](https://github.com/LJones95)
 
-- [@Hanh] (https://github.com/hanh845)
+- [@Hanh](https://github.com/hanh845)
 
 - [@shannon-nz](https://github.com/shannon-nz)
 
