@@ -7294,10 +7294,17 @@
 
 - [@ronrk](https://github.com/ronrk)
 
-- [@CHZelaya] (https://github.com/CHZelaya)
+- [@CHZelaya](https://github.com/CHZelaya)
 
 - [@Nitesh-Singh-5](https://github.com/Nitesh-Singh-5)
 
 - [@marcocrupi](https://github.com/marcocrupi)
 
 - [@JayantGoel001](https://github.com/JayantGoel001)
+- [@Shohruzjon-tech](https://github.com/shohruzjon-tech)
+
+- [@nandinichhajed](https://github.com/nandinichhajed/)
+
+- [@dedovich-s](https://github.com/dedovich-s)
+
+- [@Christinele14](https://github.com/Christinele14/)
