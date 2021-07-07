@@ -7,9 +7,11 @@ How many such routes are there through a 20×20 grid?
 // A lattice path is composed of horizontal and vertical lines that pass through lattice points.
 
 const latticePath = (gridSize) => {
-  for (var i = 1, paths = 1; i <= gridSize; i++)
+  let paths
+  for (let i = 1, paths = 1; i <= gridSize; i++) {
+    paths = paths * (gridSize + i) / i
+  }
   // The total number of paths can be found using the binomial coefficient (b+a)/a.
-  { paths = paths * (gridSize + i) / i }
   return paths
 }
 console.log(latticePath(20)) // output = 137846528820
