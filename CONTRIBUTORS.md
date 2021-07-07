@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@ainurabek](https://github.com/ainurabek)
+
 - [@nikita12c](https://github.com/nikita12c)
 
 - [@RupamG](https://github.com/RupamG)
@@ -11,6 +13,8 @@
 - [@smeubank](https://github.com/smeubank)
 
 - [@LJones95](https://github.com/LJones95)
+
+- [@Hanh](https://github.com/hanh845)
 
 - [@shannon-nz](https://github.com/shannon-nz)
 
@@ -7234,9 +7238,9 @@
 
 - [@VaibhaviKhachane](https://github.com/VaibhaviKhachane)
 
-- [@andrea-everett](https://github.com/andrea-everett/)
-
 - [@lefagana](https://github.com/Lefagana)
+
+- [@andrea-everett](https://github.com/andrea-everett/)
 
 - [@riteshsingh1](https://github.com/riteshsingh1)
 
@@ -7292,9 +7296,34 @@
 
 - [@ronrk](https://github.com/ronrk)
 
-- [@SupreethDevang](https://github.com/SupreethDevang)
-
 - [@shivam397](https://github.com/shivam397)
 
-- [@CHZelaya] (https://github.com/CHZelaya)
+- [@CHZelaya](https://github.com/CHZelaya)
 
+- [@Nitesh-Singh-5](https://github.com/Nitesh-Singh-5)
+
+- [@marcocrupi](https://github.com/marcocrupi)
+
+- [@Shohruzjon-tech](https://github.com/shohruzjon-tech)
+
+- [@nandinichhajed](https://github.com/nandinichhajed/)
+
+- [@dedovich-s](https://github.com/dedovich-s)
+
+- [@ruhamasahle](https://github.com/ruhamasahle/)
+
+- [@Christinele14](https://github.com/Christinele14/)
+
+- [@gaoagong](https://github.com/gaoagong)
+
+- [@ofernandovegano](https://github.com/ofernandovegano)
+
+- [@HFConsultant](https://github.com/HFConsultant)
+
+- [@vanshaj1-dev](https://github.com/vanshaj1-dev/)
+
+- [@Sahitya713](https://github.com/Sahitya713)
+
+- [@nx01champ](https://github.com/nx01champ)
+
+- [@ainurabek](https://github.com/ainurabek/)
