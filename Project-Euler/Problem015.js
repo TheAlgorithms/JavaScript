@@ -4,10 +4,13 @@ the right and down, there are exactly 6 routes to the bottom right corner.
 How many such routes are there through a 20×20 grid?
 */
 
-const latticePath = n => {
+//A lattice path is composed of horizontal and vertical lines that pass through lattice points.
 
-    for (var i = 1, c = 1; i <= n; i++)
-        c = c * (n + i) / i;
-    return c;
+const latticePath = (gridSize) => {
+
+    for (var i = 1, paths = 1; i <= gridSize; i++)
+        //The total number of paths can be found using the binomial coefficient (b+a)/a.
+        paths = paths * (gridSize + i) / i;
+    return paths;
 }
-console.log(latticePath(20));
+console.log(latticePath(20));  //output = 137846528820
