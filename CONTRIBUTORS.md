@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@ainurabek](https://github.com/ainurabek)
+
 - [@nikita12c](https://github.com/nikita12c)
 
 - [@RupamG](https://github.com/RupamG)
@@ -12,7 +14,7 @@
 
 - [@LJones95](https://github.com/LJones95)
 
-- [@Hanh] (https://github.com/hanh845)
+- [@Hanh](https://github.com/hanh845)
 
 - [@shannon-nz](https://github.com/shannon-nz)
 
@@ -7300,7 +7302,6 @@
 
 - [@marcocrupi](https://github.com/marcocrupi)
 
-- [@JayantGoel001](https://github.com/JayantGoel001)
 - [@Shohruzjon-tech](https://github.com/shohruzjon-tech)
 
 - [@nandinichhajed](https://github.com/nandinichhajed/)
@@ -7309,3 +7310,14 @@
 
 - [@gaoagong](https://github.com/gaoagong)
 
+- [@ofernandovegano](https://github.com/ofernandovegano)
+
+- [@HFConsultant](https://github.com/HFConsultant)
+
+- [@Christinele14](https://github.com/Christinele14/)
+
+- [@vanshaj1-dev](https://github.com/vanshaj1-dev/)
+
+- [@ainurabek](https://github.com/ainurabek/)
+
+- [@martinapinky](https://github.com/martinapinky/)
