@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+-[@ainurabek](https://github.com/ainurabek)
+
 - [@nikita12c](https://github.com/nikita12c)
 
 - [@RupamG](https://github.com/RupamG)
