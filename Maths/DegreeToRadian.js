@@ -18,6 +18,6 @@
  * @param {number} degree
  * @return {number}
  */
-export function degreeToRadian(degree) {
+export const degreeToRadian = (degree) => {
   return degree * (Math.PI / 180)
 }
