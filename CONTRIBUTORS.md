@@ -120,6 +120,8 @@
 
 - [@Devtinator](https://github.com/Devtinator)
 
+PulseFiction
+
 - [@Porosh](https://github.com/porosh2002)
 
 - [@ThomasDelatte](https://github.com/ThomasDelatte)
