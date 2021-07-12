@@ -120,6 +120,8 @@
 
 - [@Devtinator](https://github.com/Devtinator)
 
+PulseFiction
+
 - [@Porosh](https://github.com/porosh2002)
 
 - [@ThomasDelatte](https://github.com/ThomasDelatte)
@@ -7388,3 +7390,9 @@
 -[@Leo-Contreras](https://github.com/Leo-Contreras)
 
 -[@cv-bit](https://github.com/cv-bit)
+
+-[@SibilSoren](https://github.com/SibilSoren)
+
+-[@vjohndo](https://github.com/vjohndo)
+
+-[@sylvesterimerion](https://github.com/sylvesterimerion/)
