@@ -120,6 +120,8 @@
 
 - [@Devtinator](https://github.com/Devtinator)
 
+PulseFiction
+
 - [@Porosh](https://github.com/porosh2002)
 
 - [@ThomasDelatte](https://github.com/ThomasDelatte)
@@ -7368,8 +7370,29 @@
 
 -[@UiPath-li](https://github.com/UiPath-li/)
 
+-[@Abhay2342](https://github.com/Abhay2342)
+
 -[@mdfakih](https://github.com/mdfakih/)
 
 -[Ayikanying-ux](https://github.com/Ayikanying-ux/)
+
+-[@ycleo](https://github.com/ycleo)
+
+-[@healertrix](https://github.com/healertrix)
+-[@ujjwal-2706](https://github.com/ujjwal-2706)
+
+-[@aad3rinto](https://github.com/aad3rinto)
+
+-[@MauricioAliendre182](https://github.com/MauricioAliendre182)
+
+-[@Mr-Cornflake](https://github.com/Mr-Cornflake)
+
+-[@Leo-Contreras](https://github.com/Leo-Contreras)
+
+-[@cv-bit](https://github.com/cv-bit)
+
+-[@SibilSoren](https://github.com/SibilSoren)
+
+-[@vjohndo](https://github.com/vjohndo)
 
 -[@sylvesterimerion](https://github.com/sylvesterimerion/)
