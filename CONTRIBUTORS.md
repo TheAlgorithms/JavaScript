@@ -1,4 +1,5 @@
 # CONTRIBUTORS
+- [@shashwatbangar](https://github.com/shashwatbangar)
 
 - [@ainurabek](https://github.com/ainurabek)
 
@@ -7399,3 +7400,20 @@ PulseFiction
 
 -[@manish-jandu](https://github.com/manish-jandu)
 -[@victoradesamuel](https://github.com/victoradesamuel)
+
+-[@mocz] (https://github.com/mocz)
+
+-[@jox51] (https://github.com/jox51)
+-[@jeancds29] (https://github.com/jeancds29)
+
+- [@yashitanamdeo](https://github.com/yashitanamdeo)
+
+- [@germanfrelo](https://github.com/germanfrelo)
+
+-[@umairkhan532](https://github.com/umairkhan532)
+
+- [@UGarvicu](https://github.com/UGarvicu)
+
+-[@Guruprasad-S-R](https://github.com/Guruprasad-S-R)
+
+- [@msdinesh07](https://github.com/msdinesh07)
