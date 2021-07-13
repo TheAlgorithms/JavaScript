@@ -7409,3 +7409,5 @@ PulseFiction
 - [@yashitanamdeo](https://github.com/yashitanamdeo)
 
 - [@germanfrelo](https://github.com/germanfrelo)
+
+-[@umairkhan532](https://github.com/umairkhan532)
