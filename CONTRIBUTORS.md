@@ -1,4 +1,5 @@
 # CONTRIBUTORS
+- [@shashwatbangar](https://github.com/shashwatbangar)
 
 - [@ainurabek](https://github.com/ainurabek)
 
