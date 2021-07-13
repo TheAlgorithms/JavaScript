@@ -7407,3 +7407,5 @@ PulseFiction
 -[@jeancds29] (https://github.com/jeancds29)
 
 - [@yashitanamdeo](https://github.com/yashitanamdeo)
+
+- [@germanfrelo](https://github.com/germanfrelo)
