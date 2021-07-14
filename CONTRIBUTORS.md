@@ -7435,3 +7435,5 @@ PulseFiction
 -[@darkflowkc](https://github/darkflowkc)
 
 -[@jaiswalakash170](https://github.com/jaiswalakash170/)
+
+-[@brighton-mcfarlane](https://github.com/brighton-mcfarlane/)
