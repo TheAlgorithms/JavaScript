@@ -1,4 +1,5 @@
 # CONTRIBUTORS
+- [@shashwatbangar](https://github.com/shashwatbangar)
 
 - [@ainurabek](https://github.com/ainurabek)
 
@@ -119,6 +120,8 @@
 - [@starique04](https://github.com/starique04)
 
 - [@Devtinator](https://github.com/Devtinator)
+
+PulseFiction
 
 - [@Porosh](https://github.com/porosh2002)
 
@@ -7368,13 +7371,73 @@
 
 -[@UiPath-li](https://github.com/UiPath-li/)
 
+-[@Abhay2342](https://github.com/Abhay2342)
+
 -[@mdfakih](https://github.com/mdfakih/)
 
 -[Ayikanying-ux](https://github.com/Ayikanying-ux/)
 
 -[@ycleo](https://github.com/ycleo)
 
+-[@healertrix](https://github.com/healertrix)
+-[@ujjwal-2706](https://github.com/ujjwal-2706)
+
+-[@aad3rinto](https://github.com/aad3rinto)
+
+-[@MauricioAliendre182](https://github.com/MauricioAliendre182)
+
+-[@Mr-Cornflake](https://github.com/Mr-Cornflake)
+
+-[@Leo-Contreras](https://github.com/Leo-Contreras)
+
+-[@cv-bit](https://github.com/cv-bit)
+
+-[@SibilSoren](https://github.com/SibilSoren)
+
+-[@vjohndo](https://github.com/vjohndo)
+
+-[@sylvesterimerion](https://github.com/sylvesterimerion/)
+
+-[@manish-jandu](https://github.com/manish-jandu)
+-[@victoradesamuel](https://github.com/victoradesamuel)
+
+-[@mocz] (https://github.com/mocz)
+
+-[@jox51] (https://github.com/jox51)
+-[@jeancds29] (https://github.com/jeancds29)
+
+- [@yashitanamdeo](https://github.com/yashitanamdeo)
+
+- [@germanfrelo](https://github.com/germanfrelo)
+
+-[@umairkhan532](https://github.com/umairkhan532)
+
+- [@UGarvicu](https://github.com/UGarvicu)
+
+-[@Guruprasad-S-R](https://github.com/Guruprasad-S-R)
+
+- [@msdinesh07](https://github.com/msdinesh07)
+
+-[@spyrohiro](https://github.com/spyrohiro)
+
+-[@eman2211](https://github.com/eman2211)
+
+-[@sdxsofteng](https://github.com/sdxsofteng)
+
+-[@dxnjeta](https://github.com/dxnjeta)
+
+-[@RMTTech](https://github.com/RMTTech)
+
+-[@stevenliu595](https://github.com/stevenliu595)
+
+-[@zaapen](https://github.com/zaapen)
+
+-[@darkflowkc](https://github/darkflowkc)
+
+-[@jaiswalakash170](https://github.com/jaiswalakash170/)
+
+-[@brighton-mcfarlane](https://github.com/brighton-mcfarlane/)
+
+-[@Radnyanyy](https://github.com/Radnyanyy/)
+-[@dmintrip](https://github.com/DmiNTriP)
 -[@HudaShahid11](https://github.com/HudaShahid11/)
-
-
-
