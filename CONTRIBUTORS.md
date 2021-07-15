@@ -1,6 +1,8 @@
 # CONTRIBUTORS
 - [@shashwatbangar](https://github.com/shashwatbangar)
 
+- [@bhanutejachindukuri](https://github.bhanutejachindukuri)
+
 - [@ainurabek](https://github.com/ainurabek)
 
 - [@nikita12c](https://github.com/nikita12c)
