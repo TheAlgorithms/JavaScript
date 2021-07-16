@@ -1,4 +1,6 @@
 # CONTRIBUTORS
+- [@Chrisg](https://github.com/chrisgithubok)
+
 - [@shashwatbangar](https://github.com/shashwatbangar)
 
 - [@bhanutejachindukuri](https://github.bhanutejachindukuri)
