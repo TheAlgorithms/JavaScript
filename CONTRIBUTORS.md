@@ -1,6 +1,8 @@
 # CONTRIBUTORS
 - [@shashwatbangar](https://github.com/shashwatbangar)
 
+- [@bhanutejachindukuri](https://github.bhanutejachindukuri)
+
 - [@ainurabek](https://github.com/ainurabek)
 
 - [@nikita12c](https://github.com/nikita12c)
@@ -7431,3 +7433,27 @@ PulseFiction
 -[@stevenliu595](https://github.com/stevenliu595)
 
 -[@zaapen](https://github.com/zaapen)
+
+-[@darkflowkc](https://github/darkflowkc)
+
+-[@jaiswalakash170](https://github.com/jaiswalakash170/)
+
+-[@brighton-mcfarlane](https://github.com/brighton-mcfarlane/)
+
+-[@Radnyanyy](https://github.com/Radnyanyy/)
+-[@dmintrip](https://github.com/DmiNTriP)
+-[@HudaShahid11](https://github.com/HudaShahid11/)
+
+-[@Atharva12Bowlekar](https://github.com/Atharva12Bowlekar/)
+-[@NomanXD97](https://github.com/Atharva12Bowlekar/NomanXD97)
+
+-[@Tuni-eng](https://github.com/Tuni-eng)
+
+-[@galuhdipa](https://github.com/galuhdipa)
+
+-[@jmopolis](https://github.com/jmopolis)
+-[@dorianCBrwn](https://github.com/DorianCBrwn)
+
+-[@meilune](https://github.com/meilune)
+
+-[@joshhn](https://github.com/joshhn)
