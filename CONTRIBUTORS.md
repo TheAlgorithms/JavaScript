@@ -7457,3 +7457,15 @@ PulseFiction
 -[@meilune](https://github.com/meilune)
 
 -[@joshhn](https://github.com/joshhn)
+
+-[@shivamparkar](https://github.com/shivamparkar)
+
+-[@onkar444](https://github.com/onkar444/)
+
+-[@edwardleewj](https://github.com/edwardleewj)
+
+-[@josezch07](https://github.com/josezch07)
+
+-[@layali64] (https://github.com/layali64)
+
+-[@okhaimie-dev] (https://github.com/okhaimie-dev)
