@@ -7471,3 +7471,5 @@ PulseFiction
 -[@layali64] (https://github.com/layali64)
 
 -[@okhaimie-dev] (https://github.com/okhaimie-dev)
+
+-[@Waleed-abdullah](https://github.com/Waleed-abdullah)
