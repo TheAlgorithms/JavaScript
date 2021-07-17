@@ -1,4 +1,6 @@
 # CONTRIBUTORS
+- [@Chrisg](https://github.com/chrisgithubok)
+
 - [@shashwatbangar](https://github.com/shashwatbangar)
 
 - [@bhanutejachindukuri](https://github.bhanutejachindukuri)
@@ -7460,5 +7462,14 @@ PulseFiction
 
 -[@shivamparkar](https://github.com/shivamparkar)
 
--[@Waleed-abdullah](https://github.com/Waleed-abdullah)
+-[@onkar444](https://github.com/onkar444/)
 
+-[@edwardleewj](https://github.com/edwardleewj)
+
+-[@josezch07](https://github.com/josezch07)
+
+-[@layali64] (https://github.com/layali64)
+
+-[@okhaimie-dev] (https://github.com/okhaimie-dev)
+
+-[@Waleed-abdullah](https://github.com/Waleed-abdullah)
