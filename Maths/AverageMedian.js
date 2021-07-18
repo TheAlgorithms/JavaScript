@@ -20,7 +20,7 @@
   */
 
 function averageMedian(numbers) {
-    let median = 0; const numLength = numbers.length
+    let median = 0, numLength = numbers.length
     numbers = numbers.sort(sortNumbers)
     
     if (numLength % 2 === 0) {
