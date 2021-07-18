@@ -1,8 +1,25 @@
 # CONTRIBUTORS
+- [@Chrisg](https://github.com/chrisgithubok)
+
+- [@shashwatbangar](https://github.com/shashwatbangar)
+
+- [@bhanutejachindukuri](https://github.bhanutejachindukuri)
+
+- [@ainurabek](https://github.com/ainurabek)
+
+- [@nikita12c](https://github.com/nikita12c)
+
+- [@RupamG](https://github.com/RupamG)
+
+- [@hariharen9](https://github.com/hariharen9)
+
+- [@clevermiraz](https://github.com/clevermiraz)
 
 - [@smeubank](https://github.com/smeubank)
 
 - [@LJones95](https://github.com/LJones95)
+
+- [@Hanh](https://github.com/hanh845)
 
 - [@shannon-nz](https://github.com/shannon-nz)
 
@@ -107,6 +124,8 @@
 - [@starique04](https://github.com/starique04)
 
 - [@Devtinator](https://github.com/Devtinator)
+
+PulseFiction
 
 - [@Porosh](https://github.com/porosh2002)
 
@@ -5060,8 +5079,6 @@
 
 - [@bintou123-ski](https://github.com/bintou123-ski/)
 
-- [@arham2002](https://github.com/arham2002/)
-
 - [@bizzocode](https://github.com/bizzocode/)
 
 - [@highhorse69](https://github.com/highhorse69/)
@@ -7044,10 +7061,442 @@
 
 - [@niharikakanakala](https://github.com/niharikakanakala/)
 
--[@AlcoKD](https://github.com/AlcoKD)
+- [@AlcoKD](https://github.com/AlcoKD)
 
--[@chrisjmckeown](https://github.com/chrisjmckeown)
+- [@chrisjmckeown](https://github.com/chrisjmckeown)
 
--[@nicoleanalisecox](https://github.com/nicoleanalisecox)
+- [@nicoleanalisecox](https://github.com/nicoleanalisecox)
 
 -[@AvidCoder101](https://github.com/AvidCoder101)
+
+- [@jayden-leuciuc](https://github.com/jayden-leuciuc)
+
+- [@kadenswarr](https://github.com/kadenswarr)
+
+- [@ya-liu](https://github.com/ya-liu)
+
+- [@Tharun2331](https://github.com/Tharun2331)
+
+- [@aditimehta-coding](https://github.com/aditimehta-coding/)
+
+- [@liangcode001](https://github.com/liangcode001)
+
+- [@Canello](https://github.com/Canello/)
+
+- [@dowoo71548](https://github.com/dowoo71548/)
+
+- [@aw-santo](https://github.com/@aw-santo/)
+
+- [@ReymoT](https://github.com/ReymoT/)
+
+- [@constantions-spanachis](https://github.com/constantinos-spanachis/)
+
+- [@Ananyaa03](https://github.com/Ananyaa03)
+
+- [@kteodo](https://github.com/kteodo/)
+
+- [@itsmyhouse](https://github.com/itsmyhouse/)
+
+- [@glassd](https://github.com/glassd/)
+
+- [@Wurdalpoke](https://github.com/Wurdalpoke/)
+
+- [@Ryii](https://github.com/Ryii)
+
+- [@yashppawar](https://github.com/yashppawar)
+
+- [@jonyahmed19](https://github.com/jonyahmed19)
+
+- [@codeph_0bia](https://github.com/codeph-0bia)
+
+- [@Jithendra71](https://github.com/Jithendra71)
+
+- [@sayanroy11](https://github.com/sayanroy11)
+
+- [@aarontkrieg](https://github.com/aarontkrieg)
+
+- [@AdroTheWanderer](https://github.com/AdroTheWanderer)
+
+- [@hassan-anees](https://github.com/hassan-anees)
+
+- [@sorlac3](https://github.com/solrac3)
+
+- [@Oluwatosin123](https://github.com/Oluwatosin123)
+
+- [@Starenzo](https://github.com/Starenzo)
+
+- [@DukeWendo](https://github.com/Dukewendo)
+
+- [@Amanbek1](https://github.com/Amanbek1)
+
+- [@VishnuBhatt](https://github.com/vishnubbhatt)
+
+- [@traidattron](https://github.com/traidattron)
+
+- [@johnsohn0827](https://github.com/johnsohn0827)
+
+- [@vivienneobrien](https://github.com/vivienneobrien)
+
+- [@suman2020](https://github.com/suman2020)
+
+- [@alexchanocua](https://github.com/alexchanocua)
+
+- [@arham2002](https://github.com/arham2002)
+
+- [@john29sab](https://github.com/john29sab)
+
+- [@Adityakapse](https://github.com/Adityakapse)
+
+- [@Santosh325](https://github.com/Santosh325)
+
+- [@gobie498](https://github.com/gobie498)
+
+- [@SpBhalani](https://github.com/SpBhalani)
+
+- [@Rahul-debug123](https://github.com/@Rahul-debug123)
+
+- [@omkarov](https://github.com/omkarov)
+
+- [@solidtm](https://github.com/solidtm)
+
+- [@james115511](https://github.com/james115511)
+
+- [@rajdeepg](https://github.com/rajdeepg)
+
+- [@AnshulNegi03](https://github.com/AnshulNegi03)
+
+- [@DannyLeeWalasek](https://github.com/dannyleewalasek)
+
+- [@ganggbp](https://github.com/ganggbp)
+
+- [@sherkar81](https://github.com/sherkar81)
+
+- [@Vedantikawagaj](https://github.com/Vedantikawagaj)
+
+- [@RojinPm](https://github.com/RojinPm)
+
+- [@SantiagoMurilloMorador](https://github.com/SantiagoMurilloMorador)
+
+- [@CihanGonen](https://github.com/CihanGonen)
+
+- [@kohallo](https://github.com/kohallo)
+
+- [@souravpatra17](https://github.com/souravpatra17)
+
+- [@Burrito{}](https://github.com/burrito3)
+
+- [@alialiayman](https://github.com/alialiayman/)
+
+- [@themsv](https://github.com/themsv)
+
+- [@JoelGudasalmani](https://github.com/JoelGudasalmani)
+
+- [@souravs34](https://github.com/souravs34)
+
+- [@cheryl3030](https://github.com/cheryl3030)
+
+- [@coolzoa](https://github.com/coolzoa/)
+
+- [@gabygramajo](https://github.com/gabygramajo)
+
+- [@jmontesd](https://github.com/jmontesd)
+
+- [@duyhau3314](https://github.com/duyhau3314)
+
+- [@SupreethDevang](https://github.com/SupreethDevang)
+
+- [@NoelCov](https://github.com/NoelCov)
+
+- [@knownbymanoj](https://github.com/knownbymanoj)
+
+- [@SudharshanSr](https://github.com/SudharshanSr)
+
+- [@moshtaghfr](https://github.com/moshtaghfr)
+
+- [@jtteeters](https://github.com/jtteeters/)
+
+- [@mejasonatkinson](https://github.com/mejasonatkinson/)
+
+- [@JeanPimmel](https://github.com/JeanPimmel)
+
+- [@Larryking007](https://github.com/Larryking007)
+
+- [@Druvith](https://github.com/Druvith)
+
+- [@FormoSeanIap](https://github.com/FormoSeanIap)
+
+- [@Moysser](https://github.com/Moysser)
+
+- [@utkucm](https://github.com/utkucm)
+
+- [@KohRonald](https://github.com/KohRonald/)
+
+- [@SimplyAvi](https://github.com/SimplyAvi)
+
+- [@harshadajog](https://github.com/harshadajog)
+
+- [@nayanathapa](https://github.com/nayana-thapa)
+
+- [@pb7singh](https://github.com/pb7singh/)
+
+- [@snehap02](https://github.com/snehap02/)
+
+- [@JamesSimel](https://github.com/JamesSimel/)
+
+- [@VaibhaviKhachane](https://github.com/VaibhaviKhachane)
+
+- [@lefagana](https://github.com/Lefagana)
+
+- [@andrea-everett](https://github.com/andrea-everett/)
+
+- [@riteshsingh1](https://github.com/riteshsingh1)
+
+- [@deivydaslipskis](https://github.com/deivydaslipskis)
+
+- [@lodux](https://github.com/lodux)
+
+- [@Ashwin0-0](https://github.com/Ashwin0-0)
+
+- [@ElenaChien](https://github.com/ElenaChien)
+
+- [@ashucode](https://github.com/ashucode)
+
+- [@Git-Harshit](https://github.com/Git-Harshit)
+
+- [@Shrirang-Rajguru](https://github.com/Shrirang-Rajguru)
+
+- [@vpehere](https://github.com/vpehere)
+
+- [@rykite](https://github.com/ryan-kite)
+
+- [@alish003](https//github.com/alish003)
+
+- [@aviv7385](https://github.com/aviv7385)
+
+- [@QiangFu96](https://github.com/QiangFu96)
+
+- [@gonzavai](https://github.com/gonzavai)
+
+- [@andresfb88](https://github.com/andresfb88)
+
+- [@arefeh-89](https://github.com/arefeh-89)
+
+- [@igorbutnaru](https://github.com/igorbutnaru)
+
+- [@StevanZ](https://github.com/StevanZ)
+
+- [@tengine8000](https://github.com/tengine8000)
+
+- [@Raghav14200](https://github.com/Raghav14200/)
+
+- [@oalgammal](https://github.com/oalgammal)
+
+- [@ProfessorLaytom](https://github.com/ProfessorLaytom)
+
+- [@polykhel](https://github.com/polykhel)
+
+- [@marchelmon](https://github.com/marchelmon/)
+
+- [@zavdonCSH](https://github.com/ZavdonCSH)
+
+- [@aliakhavanrad](https://github.com/aliakhavanrad)
+
+- [@ronrk](https://github.com/ronrk)
+
+- [@shivam397](https://github.com/shivam397)
+
+- [@CHZelaya](https://github.com/CHZelaya)
+
+- [@Nitesh-Singh-5](https://github.com/Nitesh-Singh-5)
+
+- [@marcocrupi](https://github.com/marcocrupi)
+
+- [@daniyal-khalid](https://github.com/daniyal-khalid/)
+
+- [@Shohruzjon-tech](https://github.com/shohruzjon-tech)
+
+- [@nandinichhajed](https://github.com/nandinichhajed/)
+
+- [@dedovich-s](https://github.com/dedovich-s)
+
+- [@ruhamasahle](https://github.com/ruhamasahle/)
+
+- [@Christinele14](https://github.com/Christinele14/)
+
+- [@gaoagong](https://github.com/gaoagong)
+
+- [@ofernandovegano](https://github.com/ofernandovegano)
+
+- [@HFConsultant](https://github.com/HFConsultant)
+
+- [@vanshaj1-dev](https://github.com/vanshaj1-dev/)
+
+- [@Sahitya713](https://github.com/Sahitya713)
+
+- [@nx01champ](https://github.com/nx01champ)
+
+- [@ainurabek](https://github.com/ainurabek/)
+
+- [@fardin-kibria](https://github.com/fardin-kibria)
+
+- [@nederjosh](https://github.com/nederjosh)
+
+- [@bjm43](https://github.com/bjm43)
+
+- [@aobaldia](https://github.com/aobaldia)
+
+- [@shivam](https://github.com/shivam7112)
+
+- [@Saransh-Das](https://github.com/Saransh-Das/)
+
+- [@shehroze-1122](https://github.com/shehroze-1122)
+
+- [@pyxmaster](https://github.com/pyxmaster/)
+
+- [@srimaniteja19](https://github.com/srimaniteja19)
+
+- [@rahul-d-s](https://github.com/rahul-d-s/)
+
+- [@chris260602](https://github.com/chris260602)
+
+- [@hamilton-mike](https://github.com/hamilton-mike)
+
+- [@carlosdgild] (https://github.com/Carlosdgild)
+
+- [@victoriacheng15] (https://github.com/victoriacheng15)
+
+-[@bcwin-i](https://github.com/bcwin-i)
+
+-[@godsy07](https://github.com/godsy07)
+
+-[@Divyesh-C](https://github.com/Divyesh-C/)
+
+-[@Gahstanz](http://github.com/Gahstanz)
+
+-[@UiPath-li](https://github.com/UiPath-li/)
+
+-[@Abhay2342](https://github.com/Abhay2342)
+
+-[@mdfakih](https://github.com/mdfakih/)
+
+-[Ayikanying-ux](https://github.com/Ayikanying-ux/)
+
+-[@ycleo](https://github.com/ycleo)
+
+-[@healertrix](https://github.com/healertrix)
+-[@ujjwal-2706](https://github.com/ujjwal-2706)
+
+-[@aad3rinto](https://github.com/aad3rinto)
+
+-[@MauricioAliendre182](https://github.com/MauricioAliendre182)
+
+-[@Mr-Cornflake](https://github.com/Mr-Cornflake)
+
+-[@Leo-Contreras](https://github.com/Leo-Contreras)
+
+-[@cv-bit](https://github.com/cv-bit)
+
+-[@SibilSoren](https://github.com/SibilSoren)
+
+-[@vjohndo](https://github.com/vjohndo)
+
+-[@sylvesterimerion](https://github.com/sylvesterimerion/)
+
+-[@manish-jandu](https://github.com/manish-jandu)
+-[@victoradesamuel](https://github.com/victoradesamuel)
+
+-[@mocz] (https://github.com/mocz)
+
+-[@jox51] (https://github.com/jox51)
+-[@jeancds29] (https://github.com/jeancds29)
+
+- [@yashitanamdeo](https://github.com/yashitanamdeo)
+
+- [@germanfrelo](https://github.com/germanfrelo)
+
+-[@umairkhan532](https://github.com/umairkhan532)
+
+- [@UGarvicu](https://github.com/UGarvicu)
+
+-[@Guruprasad-S-R](https://github.com/Guruprasad-S-R)
+
+- [@msdinesh07](https://github.com/msdinesh07)
+
+-[@spyrohiro](https://github.com/spyrohiro)
+
+-[@eman2211](https://github.com/eman2211)
+
+-[@sdxsofteng](https://github.com/sdxsofteng)
+
+-[@dxnjeta](https://github.com/dxnjeta)
+
+-[@RMTTech](https://github.com/RMTTech)
+
+-[@stevenliu595](https://github.com/stevenliu595)
+
+-[@zaapen](https://github.com/zaapen)
+
+-[@darkflowkc](https://github/darkflowkc)
+
+-[@jaiswalakash170](https://github.com/jaiswalakash170/)
+
+-[@brighton-mcfarlane](https://github.com/brighton-mcfarlane/)
+
+-[@Radnyanyy](https://github.com/Radnyanyy/)
+-[@dmintrip](https://github.com/DmiNTriP)
+-[@HudaShahid11](https://github.com/HudaShahid11/)
+
+-[@Atharva12Bowlekar](https://github.com/Atharva12Bowlekar/)
+-[@NomanXD97](https://github.com/Atharva12Bowlekar/NomanXD97)
+
+-[@Tuni-eng](https://github.com/Tuni-eng)
+
+-[@galuhdipa](https://github.com/galuhdipa)
+
+-[@jmopolis](https://github.com/jmopolis)
+-[@dorianCBrwn](https://github.com/DorianCBrwn)
+
+-[@meilune](https://github.com/meilune)
+
+-[@joshhn](https://github.com/joshhn)
+
+-[@shivamparkar](https://github.com/shivamparkar)
+
+-[@onkar444](https://github.com/onkar444/)
+
+-[@edwardleewj](https://github.com/edwardleewj)
+
+-[@josezch07](https://github.com/josezch07)
+
+-[@layali64] (https://github.com/layali64)
+
+-[@okhaimie-dev] (https://github.com/okhaimie-dev)
+
+-[@Waleed-abdullah](https://github.com/Waleed-abdullah)
+
+-[@Jasper19901029](https://github.com/Jasper19901029)
+
+-[@cristinelpopescu](https://github.com/cristinelpopescu)
+
+-[@cvamsikrishna11](https://github.com/cvamsikrishna11)
+
+-[@sreepadh92](https://github.com/sreepadh92)
+
+-[@llomellamomario](https://github.com/llomellamomario)
+
+-[@ErikAvetisyan](https://github.com/ErikAvetisyan)
+
+-[@Rayologist](https://github.com/Rayologist)
+
+-[@MrParker93](https://github.com/MrParker93)
+
+-[@bwbrown75] (https://github.com/bwbrown75)
+
+-[@jessicayau](https://github.com/jessicayau)
+
+-[@knsssuraj16](https://github.com/knsssuraj16)
+
+-[@Asad-Sanuri](https://github.com/Asad-Sanuri)
+
+-[@Milan-rawat](https://github.com/Milan-rawat)
+
