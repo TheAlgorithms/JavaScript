@@ -7049,4 +7049,5 @@
 -[@chrisjmckeown](https://github.com/chrisjmckeown)
 
 -[@nicoleanalisecox](https://github.com/nicoleanalisecox)
-- [@HareerSakhi](https://github.com/HareerSakhi)
+
+-[@AvidCoder101](https://github.com/AvidCoder101)
