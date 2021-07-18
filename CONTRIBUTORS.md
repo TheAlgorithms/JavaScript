@@ -7481,3 +7481,17 @@ PulseFiction
 -[@cvamsikrishna11](https://github.com/cvamsikrishna11)
 
 -[@sreepadh92](https://github.com/sreepadh92)
+
+-[@llomellamomario](https://github.com/llomellamomario)
+
+-[@ErikAvetisyan](https://github.com/ErikAvetisyan)
+
+-[@Rayologist](https://github.com/Rayologist)
+
+-[@MrParker93](https://github.com/MrParker93)
+
+-[@bwbrown75] (https://github.com/bwbrown75)
+
+-[@jessicayau](https://github.com/jessicayau)
+
+-[@knsssuraj16](https://github.com/knsssuraj16)
