@@ -1,4 +1,6 @@
 /*
+ * Median: https://en.wikipedia.org/wiki/Median
+ *
  * function averageMedian
  * to find the median value of an array of numbers
  * the numbers in an array will be sorted in ascending order by the function sortNumbers
