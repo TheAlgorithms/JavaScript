@@ -47,7 +47,7 @@ const Node = (function () {
 
   // Add a node
   Node.prototype.addNode = function (n) {
-    if (n.value < this.value) {
+    if (n.value <= this.value) {
       if (this.left == null) {
         this.left = n
       } else {
