@@ -16,6 +16,6 @@ test('should return the median of an array of numbers:', () => {
 })
 
 test('should return the median of an array of numbers:', () => {
-  const medianValue = averageMedian([1,2,3,4,6,8])
+  const medianValue = averageMedian([1, 2, 3, 4, 6, 8])
   expect(medianValue).toBe(3.5)
 })
