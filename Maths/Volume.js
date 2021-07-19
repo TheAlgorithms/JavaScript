@@ -39,7 +39,7 @@ const volCube = (length) => {
 const volCone = (radius, height) => {
   isNumber(radius, 'Radius')
   isNumber(height, 'Height')
-  return (Math.PI * radius ** 2 * height/3)
+  return (Math.PI * radius ** 2 * height/3.0)
 }
 
 /*
@@ -50,7 +50,7 @@ const volPyramid = (baseLength, baseWidth, height) => {
   isNumber(baseLength, 'BaseLength')
   isNumber(baseWidth, 'BaseWidth')
   isNumber(height, 'Height')
-  return (baseLength * baseWidth * height) / 3 
+  return (baseLength * baseWidth * height) / 3.0 
 }
 
 /*
@@ -91,7 +91,7 @@ const volPentagonalPrism = (pentagonalLength, pentagonalBaseLength, height) => {
 */
 const volSphere = (radius) => {
   isNumber(radius, 'Radius')
-  return (4/3 * PI * radius ** 3)
+  return (4/3 * Math.PI * radius ** 3)
 }
 
 /*
@@ -100,7 +100,7 @@ const volSphere = (radius) => {
 */
 const volHemisphere = (radius) => {
   isNumber(radius, 'Radius')
-  return (2 * PI * radius ** 3)/3
+  return (2.0 * Math.PI * radius ** 3)/ 3.0
 }
 
 const isNumber = (number, noName = 'number') => {
