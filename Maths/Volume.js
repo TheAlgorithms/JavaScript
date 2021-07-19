@@ -14,6 +14,7 @@
 
 /*
   Calculate the volume for a Cuboid
+  Reference: https://www.cuemath.com/measurement/volume-of-cuboid/
   return width * length * height
 */
 const volCuboid = (width, length, height) => {
@@ -25,6 +26,7 @@ const volCuboid = (width, length, height) => {
 
 /*
   Calculate the volume for a Cube
+  Reference: https://www.cuemath.com/measurement/volume-of-cube/
   return length * length * length
 */
 const volCube = (length) => {
@@ -34,6 +36,7 @@ const volCube = (length) => {
 
 /*
   Calculate the volume for a Cone
+  Reference: https://www.cuemath.com/measurement/volume-of-cone/
   return PI * radius^2 * height/3
 */
 const volCone = (radius, height) => {
@@ -44,6 +47,7 @@ const volCone = (radius, height) => {
 
 /*
   Calculate the volume for a Pyramid
+  Reference: https://www.cuemath.com/measurement/volume-of-pyramid/
   return (baseLength * baseWidth * height) / 3
 */
 const volPyramid = (baseLength, baseWidth, height) => {
@@ -55,6 +59,7 @@ const volPyramid = (baseLength, baseWidth, height) => {
 
 /*
   Calculate the volume for a Cylinder
+  Reference: https://www.cuemath.com/measurement/volume-of-cylinder/
   return PI * radius^2 * height
 */
 const volCylinder = (radius, height) => {
@@ -65,6 +70,7 @@ const volCylinder = (radius, height) => {
 
 /*
   Calculate the volume for a Triangular Prism
+  Reference: http://lrd.kangan.edu.au/numbers/content/03_volume/04_page.htm
   return 1 / 2 * baseLengthTriangle * heightTriangle * height 
 */
 const volTriangularPrism = (baseLengthTriangle, heightTriangle, height) => {
@@ -76,6 +82,7 @@ const volTriangularPrism = (baseLengthTriangle, heightTriangle, height) => {
 
 /*
   Calculate the volume for a Pentagonal Prism
+  Reference: https://www.cuemath.com/measurement/volume-of-pentagonal-prism/
   return 5/2 * pentagonalLength * pentagonalBaseLength * height
 */
 const volPentagonalPrism = (pentagonalLength, pentagonalBaseLength, height) => {
@@ -87,6 +94,7 @@ const volPentagonalPrism = (pentagonalLength, pentagonalBaseLength, height) => {
 
 /*
   Calculate the volume for a Sphere
+  Reference: https://www.cuemath.com/measurement/volume-of-sphere/
   return 4/3 * PI * radius^3
 */
 const volSphere = (radius) => {
@@ -96,6 +104,7 @@ const volSphere = (radius) => {
 
 /*
   Calculate the volume for a Hemisphere
+  Reference: https://www.cuemath.com/measurement/volume-of-hemisphere/
   return (2 * PI * radius^3)/3
 */
 const volHemisphere = (radius) => {
