@@ -19,7 +19,7 @@
   * 3.5
   */
 
-function averageMedian(numbers) {
+const averageMedian = (numbers) => {
     let median = 0, numLength = numbers.length
     numbers = numbers.sort(sortNumbers)
     
@@ -32,10 +32,8 @@ function averageMedian(numbers) {
     return median
 }
 
-function sortNumbers(num1, num2) {
+const sortNumbers = (num1, num2) => {
     return num1 - num2
 }
 
-console.log(averageMedian([8, 9, 1, 2, 5, 10, 11]))
-console.log(averageMedian([15, 18, 3, 9, 13, 5]))
-console.log(averageMedian([1,2,3,4,6,8]))
+export { averageMedian }
