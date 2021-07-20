@@ -204,6 +204,7 @@
     * [ReversePolishNotation](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/test/ReversePolishNotation.test.js)
     * [SieveOfEratosthenes](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/test/SieveOfEratosthenes.test.js)
     * [Softmax](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/test/Softmax.test.js)
+  * [Volume](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/Volume.js)
   * [WhileLoopFactorial](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/WhileLoopFactorial.js)
 
 ## Navigation
