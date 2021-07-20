@@ -1,16 +1,16 @@
 /*
-	  Calculate the volume of the shapes
-	
-	  Volume for Cuboid
-    Volume for Cube
-    Volume for Cone
-    Volume for Pyramid
-    Volume for Cylinder
-    Volume for Triangular Prism
-    Volume for Pentagonal Prism
-    Volume for Sphere 
-    Volume for Hemisphere
-	 */
+Calculate the volume of the shapes
+
+Volume for Cuboid
+Volume for Cube
+Volume for Cone
+Volume for Pyramid
+Volume for Cylinder
+Volume for Triangular Prism
+Volume for Pentagonal Prism
+Volume for Sphere
+Volume for Hemisphere
+*/
 
 /*
   Calculate the volume for a Cuboid
@@ -42,7 +42,7 @@ const volCube = (length) => {
 const volCone = (radius, height) => {
   isNumber(radius, 'Radius')
   isNumber(height, 'Height')
-  return (Math.PI * radius ** 2 * height/3.0)
+  return (Math.PI * radius ** 2 * height / 3.0)
 }
 
 /*
@@ -54,7 +54,7 @@ const volPyramid = (baseLength, baseWidth, height) => {
   isNumber(baseLength, 'BaseLength')
   isNumber(baseWidth, 'BaseWidth')
   isNumber(height, 'Height')
-  return (baseLength * baseWidth * height) / 3.0 
+  return (baseLength * baseWidth * height) / 3.0
 }
 
 /*
@@ -71,7 +71,7 @@ const volCylinder = (radius, height) => {
 /*
   Calculate the volume for a Triangular Prism
   Reference: http://lrd.kangan.edu.au/numbers/content/03_volume/04_page.htm
-  return 1 / 2 * baseLengthTriangle * heightTriangle * height 
+  return 1 / 2 * baseLengthTriangle * heightTriangle * height
 */
 const volTriangularPrism = (baseLengthTriangle, heightTriangle, height) => {
   isNumber(baseLengthTriangle, 'BaseLengthTriangle')
@@ -89,7 +89,7 @@ const volPentagonalPrism = (pentagonalLength, pentagonalBaseLength, height) => {
   isNumber(pentagonalLength, 'PentagonalLength')
   isNumber(pentagonalBaseLength, 'PentagonalBaseLength')
   isNumber(height, 'Height')
-  return (5/2 * pentagonalLength * pentagonalBaseLength * height)
+  return (5 / 2 * pentagonalLength * pentagonalBaseLength * height)
 }
 
 /*
@@ -99,7 +99,7 @@ const volPentagonalPrism = (pentagonalLength, pentagonalBaseLength, height) => {
 */
 const volSphere = (radius) => {
   isNumber(radius, 'Radius')
-  return (4/3 * Math.PI * radius ** 3)
+  return (4 / 3 * Math.PI * radius ** 3)
 }
 
 /*
@@ -109,7 +109,7 @@ const volSphere = (radius) => {
 */
 const volHemisphere = (radius) => {
   isNumber(radius, 'Radius')
-  return (2.0 * Math.PI * radius ** 3)/ 3.0
+  return (2.0 * Math.PI * radius ** 3) / 3.0
 }
 
 const isNumber = (number, noName = 'number') => {
@@ -120,4 +120,4 @@ const isNumber = (number, noName = 'number') => {
   }
 }
 
-export {volCuboid, volCube, volCone, volPyramid, volCylinder, volTriangularPrism, volPentagonalPrism, volSphere, volHemisphere }
+export { volCuboid, volCube, volCone, volPyramid, volCylinder, volTriangularPrism, volPentagonalPrism, volSphere, volHemisphere }
