@@ -11,8 +11,8 @@ test('Testing on volCube', () => {
 })
 
 test('Testing on volCone', () => {
-  const volCone = volume.volCone(2.0, 8.0)
-  expect(volCone).toBe(33.5103)
+  const volCone = volume.volCone(3.0, 8.0)
+  expect(volCone).toBe(75.39822)
 })
 
 test('Testing on volPyramid', () => {
@@ -21,8 +21,8 @@ test('Testing on volPyramid', () => {
 })
 
 test('Testing on volCylinder', () => {
-  const volCylinder = volume.volCylinder(2.0, 8.0)
-  expect(volCylinder).toBe(100.5310)
+  const volCylinder = volume.volCylinder(3.0, 8.0)
+  expect(volCylinder).toBe(226.19467)
 })
 
 test('Testing on volTriangularPrism', () => {
@@ -37,10 +37,10 @@ test('Testing on volPentagonalPrism', () => {
 
 test('Testing on volSphere', () => {
   const volSphere = volume.volSphere(4.0)
-  expect(volSphere).toBe(268.0826)
+  expect(volSphere).toBe(268.08257)
 })
 
 test('Testing on volHemisphere', () => {
   const volHemisphere = volume.volHemisphere(4.0)
-  expect(volHemisphere).toBe(134.0413)
+  expect(volHemisphere).toBe(134.041285)
 })
