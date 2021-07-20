@@ -7520,3 +7520,9 @@ PulseFiction
 (https://github.com/samandcode/)
 
 -[@Schildpadbaas](https://github.com/Schildpadbaas)
+
+-[@shsarv](https://github.com/shsarv)
+
+-[@Wolfslicht](https://github.com/Wolfslicht)
+
+-[@manjindersingh786](https://github.com/manjindersingh786)
