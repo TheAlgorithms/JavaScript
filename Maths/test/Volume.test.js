@@ -1,6 +1,6 @@
 import * as volume from '../Volume'
 
-test('Testing on volCuboid', () => {
+describe('Testing on volCuboid', () => {
   it('with correct args', () => {
     const volCuboid = volume.volCuboid(2.0, 5.0, 3)
     expect(volCuboid).toBe(30.0)
@@ -18,7 +18,7 @@ test('Testing on volCuboid', () => {
   })
 })
 
-test('Testing on volCube', () => {
+describe('Testing on volCube', () => {
   it('with correct args', () => {
     const volCube = volume.volCube(2.0)
     expect(volCube).toBe(8.0)
@@ -30,7 +30,7 @@ test('Testing on volCube', () => {
   })
 })
 
-test('Testing on volCone', () => {
+describe('Testing on volCone', () => {
   it('with correct args', () => {
     const volCone = volume.volCone(2.0, 8.0)
     expect(volCone).toBe(33.5103)
@@ -45,7 +45,7 @@ test('Testing on volCone', () => {
   })
 })
 
-test('Testing on volPyramid', () => {
+describe('Testing on volPyramid', () => {
   it('with correct args', () => {
     const volPyramid = volume.volPyramid(2.0, 3.0, 8.0)
     expect(volPyramid).toBe(16.0)
@@ -63,7 +63,7 @@ test('Testing on volPyramid', () => {
   })
 })
 
-test('Testing on volCylinder', () => {
+describe('Testing on volCylinder', () => {
   it('with correct args', () => {
     const volCylinder = volume.volCylinder(2.0, 8.0)
     expect(volCylinder).toBe(100.5310)
@@ -78,7 +78,7 @@ test('Testing on volCylinder', () => {
   })
 })
 
-test('Testing on volTriangularPrism', () => {
+describe('Testing on volTriangularPrism', () => {
   it('with correct args', () => {
     const volTriangularPrism = volume.volTriangularPrism(3.0, 6.0, 8.0)
     expect(volTriangularPrism).toBe(72.0)
@@ -96,7 +96,7 @@ test('Testing on volTriangularPrism', () => {
   })
 })
 
-test('Testing on volPentagonalPrism', () => {
+describe('Testing on volPentagonalPrism', () => {
   it('with correct args', () => {
     const volPentagonalPrism = volume.volPentagonalPrism(1.0, 4.0, 8.0)
     expect(volPentagonalPrism).toBe(80.0)
@@ -114,7 +114,7 @@ test('Testing on volPentagonalPrism', () => {
   })
 })
 
-test('Testing on volSphere', () => {
+describe('Testing on volSphere', () => {
   it('with correct args', () => {
     const volSphere = volume.volSphere(4.0)
     expect(volSphere).toBe(268.0826)
@@ -126,7 +126,7 @@ test('Testing on volSphere', () => {
   })
 })
 
-test('Testing on volHemisphere', () => {
+describe('Testing on volHemisphere', () => {
   it('with correct args', () => {
     const volHemisphere = volume.volHemisphere(4.0)
     expect(volHemisphere).toBe(134.0413)
