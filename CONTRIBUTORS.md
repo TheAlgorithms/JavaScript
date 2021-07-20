@@ -7407,11 +7407,11 @@ PulseFiction
 
 - [@victoradesamuel](https://github.com/victoradesamuel)
 
-- [@mocz] (https://github.com/mocz)
+- [@mocz](https://github.com/mocz)
 
-- [@jox51] (https://github.com/jox51)
+- [@jox51](https://github.com/jox51)
 
-- [@jeancds29] (https://github.com/jeancds29)
+- [@jeancds29](https://github.com/jeancds29)
 
 - [@yashitanamdeo](https://github.com/yashitanamdeo)
 
@@ -7475,7 +7475,7 @@ PulseFiction
 
 - [@josezch07](https://github.com/josezch07)
 
-- [@layali64] (https://github.com/layali64)
+- [@layali64](https://github.com/layali64)
 
 - [@okhaimie-dev] (https://github.com/okhaimie-dev)
 
@@ -7497,7 +7497,7 @@ PulseFiction
 
 - [@MrParker93](https://github.com/MrParker93)
 
-- [@bwbrown75] (https://github.com/bwbrown75)
+- [@bwbrown75](https://github.com/bwbrown75)
 
 - [@jessicayau](https://github.com/jessicayau)
 
