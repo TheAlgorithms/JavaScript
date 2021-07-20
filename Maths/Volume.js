@@ -115,7 +115,7 @@ const volHemisphere = (radius) => {
 const isNumber = (number, noName = 'number') => {
   if (typeof number !== 'number') {
     throw new TypeError('The ' + noName + ' should be Number type')
-  } else if (number < 0) {
+  } else if (number < 0 || (!Number.isFinite(number))) {
     throw new Error('The ' + noName + ' only accepts positive values')
   }
 }
