@@ -7524,3 +7524,5 @@ PulseFiction
 -[@shsarv](https://github.com/shsarv)
 
 -[@Wolfslicht](https://github.com/Wolfslicht)
+
+-[@manjindersingh786](https://github.com/manjindersingh786)
