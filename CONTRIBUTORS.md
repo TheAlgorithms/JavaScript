@@ -7532,3 +7532,5 @@ master
 -[@Malahdl](https://github.com/Malahdl)
 
 -[@adrinorosario](https://github.com/adrinorosario/)
+
+-[@VitaExMachina-dev](https://github.com/VitaExMAchina-dev/)
