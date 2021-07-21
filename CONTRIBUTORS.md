@@ -1,4 +1,7 @@
 # CONTRIBUTORS
+
+- [@IM-Deane](https://github.com/IM-Deane)
+
 - [@Chrisg](https://github.com/chrisgithubok)
 
 - [@shashwatbangar](https://github.com/shashwatbangar)
@@ -7383,8 +7386,7 @@ PulseFiction
 
 -[@ycleo](https://github.com/ycleo)
 
--[@healertrix](https://github.com/healertrix)
--[@ujjwal-2706](https://github.com/ujjwal-2706)
+-[@healertrix](https://github.com/healertrix) -[@ujjwal-2706](https://github.com/ujjwal-2706)
 
 -[@aad3rinto](https://github.com/aad3rinto)
 
@@ -7402,13 +7404,12 @@ PulseFiction
 
 -[@sylvesterimerion](https://github.com/sylvesterimerion/)
 
--[@manish-jandu](https://github.com/manish-jandu)
--[@victoradesamuel](https://github.com/victoradesamuel)
+-[@manish-jandu](https://github.com/manish-jandu) -[@victoradesamuel](https://github.com/victoradesamuel)
 
 -[@mocz] (https://github.com/mocz)
 
--[@jox51] (https://github.com/jox51)
--[@jeancds29] (https://github.com/jeancds29)
+-[@jox51] (https://github.com/jox51) -[@jeancds29]
+(https://github.com/jeancds29)
 
 - [@yashitanamdeo](https://github.com/yashitanamdeo)
 
@@ -7442,19 +7443,15 @@ PulseFiction
 
 -[@brighton-mcfarlane](https://github.com/brighton-mcfarlane/)
 
--[@Radnyanyy](https://github.com/Radnyanyy/)
--[@dmintrip](https://github.com/DmiNTriP)
--[@HudaShahid11](https://github.com/HudaShahid11/)
+-[@Radnyanyy](https://github.com/Radnyanyy/) -[@dmintrip](https://github.com/DmiNTriP) -[@HudaShahid11](https://github.com/HudaShahid11/)
 
--[@Atharva12Bowlekar](https://github.com/Atharva12Bowlekar/)
--[@NomanXD97](https://github.com/Atharva12Bowlekar/NomanXD97)
+-[@Atharva12Bowlekar](https://github.com/Atharva12Bowlekar/) -[@NomanXD97](https://github.com/Atharva12Bowlekar/NomanXD97)
 
 -[@Tuni-eng](https://github.com/Tuni-eng)
 
 -[@galuhdipa](https://github.com/galuhdipa)
 
--[@jmopolis](https://github.com/jmopolis)
--[@dorianCBrwn](https://github.com/DorianCBrwn)
+-[@jmopolis](https://github.com/jmopolis) -[@dorianCBrwn](https://github.com/DorianCBrwn)
 
 -[@meilune](https://github.com/meilune)
 
@@ -7498,8 +7495,7 @@ PulseFiction
 
 -[@Asad-Sanuri](https://github.com/Asad-Sanuri)
 
--[@Milan-rawat](https://github.com/Milan-rawat)
--[@PRABHAKAR9107](https://github.com/PRABHAKAR9107)
+-[@Milan-rawat](https://github.com/Milan-rawat) -[@PRABHAKAR9107](https://github.com/PRABHAKAR9107)
 
 - [@Vishakhavel](https://github.com/Vishakhavel/)
 
@@ -7515,15 +7511,13 @@ PulseFiction
 
 -[@nithish0301](https://github.com/nithish0301)
 
--[@allansanyaz](https://github.com/allansanyaz/)
--[@Samandcode]
+-[@allansanyaz](https://github.com/allansanyaz/) -[@Samandcode]
 (https://github.com/samandcode/)
 
 -[@Schildpadbaas](https://github.com/Schildpadbaas)
 
 -[@shsarv](https://github.com/shsarv)
-master
--[@shaine-bjp](https://github.com/shaine-bjp)
+master -[@shaine-bjp](https://github.com/shaine-bjp)
 
 -[@Wolfslicht](https://github.com/Wolfslicht)
 
@@ -7531,6 +7525,4 @@ master
 
 -[@Malahdl](https://github.com/Malahdl)
 
--[@adrinorosario](https://github.com/adrinorosario/)
--[@Osemeke10](https://github.com/Osemeke10)
--[@kamdem-arielle](https://github.com/kamdem-arielle)
+-[@adrinorosario](https://github.com/adrinorosario/) -[@Osemeke10](https://github.com/Osemeke10) -[@kamdem-arielle](https://github.com/kamdem-arielle)
