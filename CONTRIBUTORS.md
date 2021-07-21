@@ -7522,6 +7522,8 @@ PulseFiction
 -[@Schildpadbaas](https://github.com/Schildpadbaas)
 
 -[@shsarv](https://github.com/shsarv)
+master
+-[@shaine-bjp](https://github.com/shaine-bjp)
 
 -[@Wolfslicht](https://github.com/Wolfslicht)
 
