@@ -7522,4 +7522,13 @@ PulseFiction
 -[@Schildpadbaas](https://github.com/Schildpadbaas)
 
 -[@shsarv](https://github.com/shsarv)
+master
 -[@shaine-bjp](https://github.com/shaine-bjp)
+
+-[@Wolfslicht](https://github.com/Wolfslicht)
+
+-[@manjindersingh786](https://github.com/manjindersingh786)
+
+-[@Malahdl](https://github.com/Malahdl)
+
+-[@adrinorosario](https://github.com/adrinorosario/)
