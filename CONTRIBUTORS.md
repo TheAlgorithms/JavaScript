@@ -7556,3 +7556,5 @@ PulseFiction
 -[@nishanthr18](https://github.com/nishanthr18)
 
 -[@AleksandarMakaric](https://github.com/AleksandarMakaric)
+
+-[@jmende27](https://github.com/jmende27)
