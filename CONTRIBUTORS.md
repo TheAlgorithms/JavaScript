@@ -7534,3 +7534,20 @@ PulseFiction
 -[@GuilhermeAR-Oliveira](https://github.com/GuilhermeAR-Oliveira)
 
 -[@Yafet-Segid](https://github.com/Yafet-Segid)
+
+-[@mjlearn13](https://github.com/mjlearn13)
+
+-[@Spacefox123](https://github.com/Spacefox123)
+
+-[@properpin](https://github.com/properpin)
+
+-[@izzy-tait](https://github.com/izzy-tait)
+
+-[@ironhight](https://github.com/ironhight)
+
+-[@nishanthr18](https://github.com/nishanthr18)
+
+-[@AleksandarMakaric](https://github.com/AleksandarMakaric)
+
+-[@jmende27](https://github.com/jmende27)
+
