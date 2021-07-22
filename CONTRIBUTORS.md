@@ -7384,6 +7384,7 @@ PulseFiction
 -[@ycleo](https://github.com/ycleo)
 
 -[@healertrix](https://github.com/healertrix)
+
 -[@ujjwal-2706](https://github.com/ujjwal-2706)
 
 -[@aad3rinto](https://github.com/aad3rinto)
@@ -7403,11 +7404,13 @@ PulseFiction
 -[@sylvesterimerion](https://github.com/sylvesterimerion/)
 
 -[@manish-jandu](https://github.com/manish-jandu)
+
 -[@victoradesamuel](https://github.com/victoradesamuel)
 
 -[@mocz] (https://github.com/mocz)
 
 -[@jox51] (https://github.com/jox51)
+
 -[@jeancds29] (https://github.com/jeancds29)
 
 - [@yashitanamdeo](https://github.com/yashitanamdeo)
@@ -7443,10 +7446,13 @@ PulseFiction
 -[@brighton-mcfarlane](https://github.com/brighton-mcfarlane/)
 
 -[@Radnyanyy](https://github.com/Radnyanyy/)
+
 -[@dmintrip](https://github.com/DmiNTriP)
+
 -[@HudaShahid11](https://github.com/HudaShahid11/)
 
 -[@Atharva12Bowlekar](https://github.com/Atharva12Bowlekar/)
+
 -[@NomanXD97](https://github.com/Atharva12Bowlekar/NomanXD97)
 
 -[@Tuni-eng](https://github.com/Tuni-eng)
@@ -7454,6 +7460,7 @@ PulseFiction
 -[@galuhdipa](https://github.com/galuhdipa)
 
 -[@jmopolis](https://github.com/jmopolis)
+
 -[@dorianCBrwn](https://github.com/DorianCBrwn)
 
 -[@meilune](https://github.com/meilune)
@@ -7499,6 +7506,7 @@ PulseFiction
 -[@Asad-Sanuri](https://github.com/Asad-Sanuri)
 
 -[@Milan-rawat](https://github.com/Milan-rawat)
+
 -[@PRABHAKAR9107](https://github.com/PRABHAKAR9107)
 
 - [@Vishakhavel](https://github.com/Vishakhavel/)
@@ -7516,8 +7524,8 @@ PulseFiction
 -[@nithish0301](https://github.com/nithish0301)
 
 -[@allansanyaz](https://github.com/allansanyaz/)
--[@Samandcode]
-(https://github.com/samandcode/)
+
+-[@Samandcode](https://github.com/samandcode/)
 
 -[@Schildpadbaas](https://github.com/Schildpadbaas)
 
@@ -7532,7 +7540,9 @@ PulseFiction
 -[@Malahdl](https://github.com/Malahdl)
 
 -[@adrinorosario](https://github.com/adrinorosario/)
+
 -[@Osemeke10](https://github.com/Osemeke10)
+
 -[@kamdem-arielle](https://github.com/kamdem-arielle)
 
 -[@edilsonmatola](https://github.com/edilsonmatola)
@@ -7550,3 +7560,5 @@ PulseFiction
 -[@properpin](https://github.com/properpin)
 
 -[@izzy-tait](https://github.com/izzy-tait)
+
+-[@melnykandrii](https://github.com/melnykandrii)
