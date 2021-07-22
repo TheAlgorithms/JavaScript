@@ -7522,7 +7522,7 @@ PulseFiction
 -[@Schildpadbaas](https://github.com/Schildpadbaas)
 
 -[@shsarv](https://github.com/shsarv)
-master
+
 -[@shaine-bjp](https://github.com/shaine-bjp)
 
 -[@Wolfslicht](https://github.com/Wolfslicht)
@@ -7534,5 +7534,11 @@ master
 -[@adrinorosario](https://github.com/adrinorosario/)
 -[@Osemeke10](https://github.com/Osemeke10)
 -[@kamdem-arielle](https://github.com/kamdem-arielle)
+
+-[@edilsonmatola](https://github.com/edilsonmatola)
+
+-[@sesame0717](https://github.com/sesame0717)
+
+-[@Radiostranger](https://github.com/Radiostranger)
 
 -[@GuilhermeAR-Oliveira](https://github.com/GuilhermeAR-Oliveira)
