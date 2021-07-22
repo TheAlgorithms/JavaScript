@@ -7523,6 +7523,8 @@ PulseFiction
 
 -[@shsarv](https://github.com/shsarv)
 
+-[@shaine-bjp](https://github.com/shaine-bjp)
+
 -[@Wolfslicht](https://github.com/Wolfslicht)
 
 -[@manjindersingh786](https://github.com/manjindersingh786)
@@ -7530,3 +7532,13 @@ PulseFiction
 -[@Malahdl](https://github.com/Malahdl)
 
 -[@adrinorosario](https://github.com/adrinorosario/)
+-[@Osemeke10](https://github.com/Osemeke10)
+-[@kamdem-arielle](https://github.com/kamdem-arielle)
+
+-[@edilsonmatola](https://github.com/edilsonmatola)
+
+-[@sesame0717](https://github.com/sesame0717)
+
+-[@Radiostranger](https://github.com/Radiostranger)
+
+-[@GuilhermeAR-Oliveira](https://github.com/GuilhermeAR-Oliveira)
