@@ -5,6 +5,8 @@
 
 - [@bhanutejachindukuri](https://github.bhanutejachindukuri)
 
+- [@minaxi6](https://github.com/minaxi6)
+
 - [@ainurabek](https://github.com/ainurabek)
 
 - [@nikita12c](https://github.com/nikita12c)
@@ -7560,3 +7562,11 @@ PulseFiction
 -[@jmende27](https://github.com/jmende27)
 
 -[@abodku](https://github.com/abodku)
+
+-[@mos-adebayo](https://github.com/mos-adebbayo)
+
+-[@mac4122](https://github.com/mac4122)
+
+- [@Amrutha1101](https://github.com/Amrutha1101)
+
+-[@katynguyen96](https://github.com/katynguyen96)
