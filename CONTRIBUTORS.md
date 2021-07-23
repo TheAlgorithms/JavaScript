@@ -5,6 +5,8 @@
 
 - [@bhanutejachindukuri](https://github.bhanutejachindukuri)
 
+- [@minaxi6](https://github.com/minaxi6)
+
 - [@ainurabek](https://github.com/ainurabek)
 
 - [@nikita12c](https://github.com/nikita12c)
@@ -7561,6 +7563,32 @@ PulseFiction
 
 -[@izzy-tait](https://github.com/izzy-tait)
 
--[@melnykandrii](https://github.com/melnykandrii)
-
 -[@ironhight](https://github.com/ironhight)
+
+-[@nishanthr18](https://github.com/nishanthr18)
+
+-[@AleksandarMakaric](https://github.com/AleksandarMakaric)
+
+-[@jmende27](https://github.com/jmende27)
+
+-[@abodku](https://github.com/abodku)
+
+-[@mos-adebayo](https://github.com/mos-adebbayo)
+
+-[@mac4122](https://github.com/mac4122)
+
+- [@Amrutha1101](https://github.com/Amrutha1101)
+
+-[@katynguyen96](https://github.com/katynguyen96)
+
+-[@prakashbhasagi](https://github.com/PrakashBhasagi)
+
+-[@akshyeah](https://github.com/akshyeah)
+
+-[@PoHung16](https://github.com/PoHung16)
+
+-[@trishamedrano](https://github.com/trishamedrano)
+
+-[@M87K452b](https://github.com/M87K452b)
+
+-[@melnykandrii](https://github.com/melnykandrii)
