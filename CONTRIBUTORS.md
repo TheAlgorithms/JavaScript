@@ -5,6 +5,8 @@
 
 - [@bhanutejachindukuri](https://github.bhanutejachindukuri)
 
+- [@minaxi6](https://github.com/minaxi6)
+
 - [@ainurabek](https://github.com/ainurabek)
 
 - [@nikita12c](https://github.com/nikita12c)
@@ -7503,3 +7505,73 @@ PulseFiction
 -[@PRABHAKAR9107](https://github.com/PRABHAKAR9107)
 
 - [@Vishakhavel](https://github.com/Vishakhavel/)
+
+- [@Islandilek](https://github.com/Islandilek)
+
+-[@dhiren474](https://github.com/dhiren474)
+
+- [@Leelaka](https://github.com/Leelaka)
+
+-[@martinkoczkas](https://github.com/martinkoczkas/)
+
+-[@palinko91](https://github.com/palinko91)
+
+-[@nithish0301](https://github.com/nithish0301)
+
+-[@allansanyaz](https://github.com/allansanyaz/)
+-[@Samandcode]
+(https://github.com/samandcode/)
+
+-[@Schildpadbaas](https://github.com/Schildpadbaas)
+
+-[@shsarv](https://github.com/shsarv)
+
+-[@shaine-bjp](https://github.com/shaine-bjp)
+
+-[@Wolfslicht](https://github.com/Wolfslicht)
+
+-[@manjindersingh786](https://github.com/manjindersingh786)
+
+-[@Malahdl](https://github.com/Malahdl)
+
+-[@adrinorosario](https://github.com/adrinorosario/)
+-[@Osemeke10](https://github.com/Osemeke10)
+-[@kamdem-arielle](https://github.com/kamdem-arielle)
+
+-[@edilsonmatola](https://github.com/edilsonmatola)
+
+-[@sesame0717](https://github.com/sesame0717)
+
+-[@Radiostranger](https://github.com/Radiostranger)
+
+-[@GuilhermeAR-Oliveira](https://github.com/GuilhermeAR-Oliveira)
+
+-[@mjlearn13](https://github.com/mjlearn13)
+
+-[@Spacefox123](https://github.com/Spacefox123)
+
+-[@properpin](https://github.com/properpin)
+
+-[@izzy-tait](https://github.com/izzy-tait)
+
+-[@ironhight](https://github.com/ironhight)
+
+-[@nishanthr18](https://github.com/nishanthr18)
+
+-[@AleksandarMakaric](https://github.com/AleksandarMakaric)
+
+-[@jmende27](https://github.com/jmende27)
+
+-[@abodku](https://github.com/abodku)
+
+-[@mos-adebayo](https://github.com/mos-adebbayo)
+
+-[@mac4122](https://github.com/mac4122)
+
+- [@Amrutha1101](https://github.com/Amrutha1101)
+
+-[@katynguyen96](https://github.com/katynguyen96)
+
+-[@prakashbhasagi](https://github.com/PrakashBhasagi)
+
+-[@PoHung16](https://github.com/PoHung16)
