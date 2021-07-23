@@ -5,6 +5,8 @@
 
 - [@bhanutejachindukuri](https://github.bhanutejachindukuri)
 
+- [@minaxi6](https://github.com/minaxi6)
+
 - [@ainurabek](https://github.com/ainurabek)
 
 - [@nikita12c](https://github.com/nikita12c)
