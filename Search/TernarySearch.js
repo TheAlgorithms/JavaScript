@@ -100,3 +100,5 @@ function ternarySearchIterative (arr, key, low = 0, high = arr.length - 1) {
   // the key was not found
   return -1
 }
+
+export { ternarySearchRecursive, ternarySearchIterative }
