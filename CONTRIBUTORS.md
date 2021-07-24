@@ -19,3 +19,5 @@
 - [@emmanuel-sarpedon](https://github.com/emmanuel-sarpedon)
 
 - [@Yafet-Segid](https://github.com/Yafet-Segid)
+
+- [@mairaafreitas](https://github.com/mairaafreitas)
