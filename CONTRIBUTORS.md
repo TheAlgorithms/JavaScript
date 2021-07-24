@@ -21,3 +21,5 @@
 - [@Yafet-Segid](https://github.com/Yafet-Segid)
 
 - [@mairaafreitas](https://github.com/mairaafreitas)
+
+- [@jwilson0213](https://github.com/jwilson0213)
