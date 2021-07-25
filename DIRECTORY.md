@@ -248,6 +248,9 @@
   * [LinearSearch](https://github.com/TheAlgorithms/Javascript/blob/master/Search/LinearSearch.js)
   * [QuickSelectSearch](https://github.com/TheAlgorithms/Javascript/blob/master/Search/QuickSelectSearch.js)
   * [StringSearch](https://github.com/TheAlgorithms/Javascript/blob/master/Search/StringSearch.js)
+  * [TernarySearch](https://github.com/TheAlgorithms/Javascript/blob/master/Search/TernarySearch.js)
+  * test
+    * [TernarySearch](https://github.com/TheAlgorithms/Javascript/blob/master/Search/test/TernarySearch.test.js)
 
 ## Sorts
   * [BeadSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/BeadSort.js)
