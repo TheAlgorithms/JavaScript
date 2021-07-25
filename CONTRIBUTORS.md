@@ -31,3 +31,5 @@
 - [@nevin-sunny04](https://github.com/nevin-sunny04/)
 
 - [@maracartman](https://github.com/maracartman/)
+
+- [@TaraByte79](https://github.com/TaraByte79)
