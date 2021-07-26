@@ -53,3 +53,5 @@
 - [@georgebrianb](https://github.com/georgebrianb/)
 
 - [@kokoblack](https://github.com/kokoblack/)
+
+- [@hjamienordstrom](https://github.com/hjamienordstrom)
