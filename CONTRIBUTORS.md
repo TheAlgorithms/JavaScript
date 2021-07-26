@@ -50,4 +50,4 @@
 
 - [@kashish1928](https://github.com/kashish1928)
 
-- [@georgebrianb](https://github.com/georgebrianb)
+- [@georgebrianb](https://github.com/georgebrianb/)
