@@ -130,6 +130,7 @@
   * [BinaryConvert](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/BinaryConvert.js)
   * [BinaryExponentiationIterative](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/BinaryExponentiationIterative.js)
   * [BinaryExponentiationRecursive](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/BinaryExponentiationRecursive.js)
+  * [Coordinate](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/Coordinate.js)
   * [decimalIsolate](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/decimalIsolate.js)
   * [DegreeToRadian](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/DegreeToRadian.js)
   * [DigitSum](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/DigitSum.js)
