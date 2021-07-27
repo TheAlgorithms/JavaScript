@@ -79,3 +79,5 @@
 - [@pathsu0310](https://github.com/pathsu0310)
 
 - [@JustBaneIsFine](https://github.com/JustBaneIsFine)
+
+- [@agathanelle](https://github.com/agathanelle)
