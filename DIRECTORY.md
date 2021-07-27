@@ -177,6 +177,7 @@
     * [AverageMedian](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/test/AverageMedian.test.js)
     * [BInaryConvert](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/test/BInaryConvert.test.js)
     * [BinaryExponentiationIterative](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/test/BinaryExponentiationIterative.test.js)
+    * [Coordinate](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/test/Coordinate.test.js)
     * [DegreeToRadian](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/test/DegreeToRadian.test.js)
     * [DigitSum](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/test/DigitSum.test.js)
     * [EulersTotientFunction](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/test/EulersTotientFunction.test.js)
