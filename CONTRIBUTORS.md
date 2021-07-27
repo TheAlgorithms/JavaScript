@@ -47,3 +47,21 @@
 - [@kumardeepak99](https://github.com/kumardeepak99/)
 
 - [@RJD02](https://github.com/RJD02)
+
+- [@kashish1928](https://github.com/kashish1928)
+
+- [@georgebrianb](https://github.com/georgebrianb/)
+
+- [@kokoblack](https://github.com/kokoblack/)
+
+- [@hjamienordstrom](https://github.com/hjamienordstrom)
+
+- [@kesava-karri](https://github.com/kesava-karri)
+
+- [@Parshva2111](https://github.com/Parshva2111)
+
+- [@Eldraea](https://github.com/Eldraea)
+
+- [@prociek](https://github.com/prociek)
+
+- [@lea19019](https://github.com/lea19019)
