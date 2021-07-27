@@ -10,7 +10,7 @@ describe('Testing distance2points calculations', () => {
     expect(distance2points).toBeNaN()
   })
   it('Should not give any output given any number of numeric arguments less than 4', () => {
-    const distance2points3arg = coordinate.distance2points(2, 2, -10)    
+    const distance2points3arg = coordinate.distance2points(2, 2, -10)
     const distance2points2arg = coordinate.distance2points(2, 2)
     const distance2points1arg = coordinate.distance2points(2)
     const distance2points0arg = coordinate.distance2points()
