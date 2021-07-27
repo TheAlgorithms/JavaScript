@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@kmrajibfaysal](https://github.com/kmrajibfaysal)
+
 - [@nikitababko](https://github.com/nikitababko)
 
 - [@IM-Deane](https://github.com/IM-Deane)
@@ -65,3 +67,5 @@
 - [@prociek](https://github.com/prociek)
 
 - [@lea19019](https://github.com/lea19019)
+
+- [@suredanish] (https://github.com/suredanish)
