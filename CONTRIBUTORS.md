@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@kmrajibfaysal](https://github.com/kmrajibfaysal)
+
 - [@nikitababko](https://github.com/nikitababko)
 
 - [@IM-Deane](https://github.com/IM-Deane)
