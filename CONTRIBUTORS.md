@@ -75,3 +75,5 @@
 - [@LinTsaiI](https://github.com/LinTsaiI)
 
 - [@aambayec](https://github.com/aambayec)
+
+- [@pathsu0310](https://github.com/pathsu0310)
