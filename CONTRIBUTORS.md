@@ -64,8 +64,30 @@
 
 - [@Eldraea](https://github.com/Eldraea)
 
+- [@mjyster](https://github.com/mjyster)
+
 - [@prociek](https://github.com/prociek)
 
 - [@lea19019](https://github.com/lea19019)
 
-- [@suredanish] (https://github.com/suredanish)
+- [@suredanish](https://github.com/suredanish)
+
+- [@LinTsaiI](https://github.com/LinTsaiI)
+
+- [@aambayec](https://github.com/aambayec)
+
+- [@pathsu0310](https://github.com/pathsu0310)
+
+- [@JustBaneIsFine](https://github.com/JustBaneIsFine)
+
+- [@agathanelle](https://github.com/agathanelle)
+
+- [@seinnlee](https:github.com/seinnlee)
+
+- [@wrg9bs](https://github.com/wrg9bs/)
+
+- [@hswootan](https://github.com/hswootan/)
+
+- [@shribalaji1243](https://github.com/shribalaji1243/)
+
+- [@Aditya-Bojja](https://github.com/Aditya-Bojja)
