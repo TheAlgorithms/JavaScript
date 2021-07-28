@@ -80,4 +80,6 @@
 
 - [@JustBaneIsFine](https://github.com/JustBaneIsFine)
 
-- [@agathanelle](https://github.com/agathanelle)
+- [@agathanelle](https://github.com/agathanelle) 
+
+- [@seinnlee](https:github.com/seinnlee)
