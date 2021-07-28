@@ -50,6 +50,8 @@
 
 - [@RJD02](https://github.com/RJD02)
 
+- [@farrahdionisio](https://github.com/farrahdionisio)
+
 - [@kashish1928](https://github.com/kashish1928)
 
 - [@georgebrianb](https://github.com/georgebrianb/)
@@ -91,3 +93,13 @@
 - [@shribalaji1243](https://github.com/shribalaji1243/)
 
 - [@Aditya-Bojja](https://github.com/Aditya-Bojja)
+
+- [@AndyBowskill](https://github.com/AndyBowskill)
+
+- [@Uma998](https://github.com/Uma998)
+
+- [@leoenss](https://github.com/leoenss)
+
+- [@archit009](https://github.com/archit009)
+
+- [@justigo86](https://github.com/justigo86)
