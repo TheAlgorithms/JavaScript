@@ -103,3 +103,9 @@
 - [@archit009](https://github.com/archit009)
 
 - [@justigo86](https://github.com/justigo86)
+
+- [@sanabadaha](https://github.com/sanabadaha)
+
+- [@gastighost](https://github.com/gastighost)
+
+- [@fokouarnaud](https://github.com/fokouarnaud)
