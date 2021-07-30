@@ -116,4 +116,4 @@
   
 - [@jadepage](https://github.com/jadepage)
 
--[@Jaffery] (https://github.com/jafferytech110)
+- [@Jaffery](https://github.com/jafferytech110)
