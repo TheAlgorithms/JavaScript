@@ -130,3 +130,9 @@
 - [@rashmikt](https://github.com/rashmikt)
 
 - [@tejaswate7](https://github.com/tejaswate7)
+
+- [@yasharma](https://github.com/yasharma)
+
+- [@sanjarkhan-nasibli](https://github.com/sanjarkhan-nasibli)
+
+- [@tulokas](https://github.com/tulokas)
