@@ -133,4 +133,4 @@
 
 - [@yasharma](https://github.com/yasharma)
 
-- [@sanjarhan-nasibli](https://github.com/sanjarkhan-nasibli)
+- [@sanjarkhan-nasibli](https://github.com/sanjarkhan-nasibli)
