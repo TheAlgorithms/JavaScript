@@ -40,6 +40,8 @@
 
 - [@mohsinogen](https://github.com/mohsinogen)
 
+- [@ctran20](https://github.com/ctran20)
+
 - [@G-Mursalin](https://github.com/G-Mursalin)
 
 - [@bhushan-patil-12](https://github.com/bhushan-patil-12/)
