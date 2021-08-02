@@ -142,3 +142,9 @@
 - [@DivRaw](https://github.com/DivRaw)
 
 - [@s0sharma](https://github.com/s0sharma)
+
+- [@doniwirawan](https://github.com/doniwirawan)
+
+- [@Adam-Al-Rahman](https://github.com/Adam-Al-Rahman)
+
+- [@Nitish-ReddyG](https://github.com/Nitish-ReddyG)
