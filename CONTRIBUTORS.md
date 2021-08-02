@@ -143,6 +143,8 @@
 
 - [@doniwirawan](https://github.com/doniwirawan)
 
+- [@Adam-Al-Rahman](https://github.com/Adam-Al-Rahman)
+
 - [@Nitish-ReddyG](https://github.com/Nitish-ReddyG)
 
-- [@Nishant-Minerva](https://github.com/nishantminerva)
+- [@nishantminerva](https://github.com/nishantminerva)
