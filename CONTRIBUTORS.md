@@ -40,6 +40,8 @@
 
 - [@mohsinogen](https://github.com/mohsinogen)
 
+- [@ctran20](https://github.com/ctran20)
+
 - [@G-Mursalin](https://github.com/G-Mursalin)
 
 - [@bhushan-patil-12](https://github.com/bhushan-patil-12/)
@@ -136,3 +138,13 @@
 - [@sanjarkhan-nasibli](https://github.com/sanjarkhan-nasibli)
 
 - [@tulokas](https://github.com/tulokas)
+
+- [@DivRaw](https://github.com/DivRaw)
+
+- [@doniwirawan](https://github.com/doniwirawan)
+
+- [@Adam-Al-Rahman](https://github.com/Adam-Al-Rahman)
+- [@Nitish-ReddyG](https://github.com/Nitish-ReddyG)
+- [@mrobin](https://github.com/mrobin132)
+
+-[@KavishBamboli](https://github.com/KavishBamboli)
