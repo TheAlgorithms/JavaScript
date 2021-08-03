@@ -159,3 +159,6 @@
 - [@KavishBamboli](https://github.com/KavishBamboli)
 
 - [@brunadossantos-tech](https://github.com/brunadossantos-tech)
+
+- [@eyadalomari](https://github.com/eyadalomari)
+
