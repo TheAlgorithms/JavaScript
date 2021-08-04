@@ -158,6 +158,8 @@
 
 - [@KavishBamboli](https://github.com/KavishBamboli)
 
+- [@abd-ar](https://github.com/abd-ar)
+
 - [@brunadossantos-tech](https://github.com/brunadossantos-tech)
 
 - [@eyadalomari](https://github.com/eyadalomari)
@@ -185,3 +187,5 @@
 - [@Greeshma-03](https://github.com/Greeshma-03/)
 
 - [@ZhansayaM](https://github.com/ZhansayaM/)
+
+- [@diegodavilafreitas](https://github.com/diegodavilafreitas)
