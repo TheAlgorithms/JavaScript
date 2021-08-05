@@ -1,4 +1,5 @@
 # CONTRIBUTORS
+
 - [@yash-2115](https://github.com/yash-2115)
 
 - [@kmrajibfaysal](https://github.com/kmrajibfaysal)
@@ -191,12 +192,18 @@
 
 - [@diegodavilafreitas](https://github.com/diegodavilafreitas)
 
--[@sandeepgprec](https://github.com/Sandeepgprec)
+- [@sandeepgprec](https://github.com/Sandeepgprec)
 
 - [@jayghevariya](https://github.com/jayghevariya/)
 
--[@BrandonMagana](https://github.com/BrandonMagana)
+- [@Murph099](https://github.com/Murph099/)
 
--[@abishek-joshua](https://github.com/abishek-joshua)
+- [@BrandonMagana](https://github.com/BrandonMagana)
 
--[@niloypaul12](https://github.com/niloypaul12)
+- [@abishek-joshua](https://github.com/abishek-joshua)
+
+- [@redskowa](https://github.com/redskowa/)
+
+- [@niloypaul12](https://github.com/niloypaul12)
+
+- [@heinminhtun1999](https://github.com/heinminhtun1999)
