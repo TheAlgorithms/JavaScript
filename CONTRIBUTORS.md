@@ -193,3 +193,5 @@
 -[@sandeepgprec](https://github.com/Sandeepgprec)
 
 - [@jayghevariya](https://github.com/jayghevariya/)
+
+-[@BrandonMagana](https://github.com/BrandonMagana)
