@@ -219,3 +219,5 @@
 - [@aamirbhat1](https://github.com/aamirbhat1/)
 
 - [@Nirmitjatana](https://github.com/Nirmitjatana/)
+
+- [@Aryanamish](https://github.com/aryanamish/)
