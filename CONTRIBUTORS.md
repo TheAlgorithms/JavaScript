@@ -213,3 +213,5 @@
 - [@0000x582d6976](https://github.com/0000x582d6976)
 
 - [@NumanAnees](https://github.com/NumanAnees)
+
+- [@janiszakis03](https://github.com/janiszakis03)
