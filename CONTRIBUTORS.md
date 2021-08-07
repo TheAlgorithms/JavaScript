@@ -217,3 +217,9 @@
 - [@janiszakis03](https://github.com/janiszakis03)
 
 - [@aamirbhat1](https://github.com/aamirbhat1/)
+
+- [@Nirmitjatana](https://github.com/Nirmitjatana/)
+
+- [@Aryanamish](https://github.com/aryanamish/)
+
+- [@satkar2001](https://github.com/satkar2001)
