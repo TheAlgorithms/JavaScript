@@ -223,3 +223,5 @@
 - [@Aryanamish](https://github.com/aryanamish/)
 
 - [@satkar2001](https://github.com/satkar2001)
+
+- [@chrish8510](http://github.com/chrish8510)
