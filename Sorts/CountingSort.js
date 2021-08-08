@@ -28,9 +28,7 @@ const countingSort = (arr, min, max) => {
     res[count[arr[i] - min]] = arr[i]
     count[arr[i] - min]--
   }
-  // Copy the result back to back to original array
-  arr = [...res]
-  return arr
+  return res
 }
 
 /**
