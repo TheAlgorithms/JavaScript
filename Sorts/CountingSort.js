@@ -8,31 +8,31 @@
  * Animated Visual: https://www.cs.usfca.edu/~galles/visualization/CountingSort.html
  */
 
-function countingSort (arr, min, max) {
-  let i
-  let z = 0
-  const count = []
-
-  for (i = min; i <= max; i++) {
-    count[i] = 0
+const countingSort = (arr, min, max) => {
+  // Create an auxiliary resultant array
+  const res = []
+  // Create and initialize the frequency[count] array
+  const count = new Array(max - min + 1).fill(0)
+  // Populate the freq array
+  for (let i = 0; i < arr.length; i++) {
+    count[arr[i] - min]++
   }
-
-  for (i = 0; i < arr.length; i++) {
-    count[arr[i]]++
+  // Create a prefix sum array out of the frequency[count] array
+  count[0] -= 1
+  for (let i = 1; i < count.length; i++) {
+    count[i] += count[i - 1]
   }
-
-  for (i = min; i <= max; i++) {
-    while (count[i]-- > 0) {
-      arr[z++] = i
-    }
+  // Populate the result array using the prefix sum array
+  for (let i = arr.length - 1; i >= 0; i--) {
+    res[count[arr[i] - min]] = arr[i]
+    count[arr[i] - min]--
   }
-
-  return arr
+  return res
 }
 
 /**
-* Implementation of Counting Sort
-*/
+ * Implementation of Counting Sort
+ */
 const array = [3, 0, 2, 5, 4, 1]
 // Before Sort
 console.log('\n- Before Sort | Implementation of Counting Sort -')
