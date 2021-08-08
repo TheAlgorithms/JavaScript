@@ -12,12 +12,8 @@ const countingSort = (arr, min, max) => {
   // Create an auxiliary resultant array
   const res = []
   // Create the freq array
-  const count = []
   let len = max - min + 1
-
-  for (let i = 0; i < len; i++) {
-    count[i] = 0
-  }
+  const count = new Array(len).fill(0)
   // Populate the freq array
   for (let i = 0; i < arr.length; i++) {
     count[arr[i] - min] += 1
