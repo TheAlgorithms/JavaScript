@@ -278,3 +278,6 @@
 -[@rasheeqqua](https://github.com/rasheeqqua)
 
 -[@ThreatMatrix](https://github.com/ThreatMatrix)
+
+-[@MinjireVictor](https://github.com/MinjireVictor)
+
