@@ -276,3 +276,5 @@
 -[@chadelofson](https://github.com/chadelofson)
 
 -[@rasheeqqua](https://github.com/rasheeqqua)
+
+-[@MinjireVictor](https://github.com/MinjireVictor)
