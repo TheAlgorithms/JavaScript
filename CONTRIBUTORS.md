@@ -276,3 +276,11 @@
 -[@chadelofson](https://github.com/chadelofson)
 
 -[@rasheeqqua](https://github.com/rasheeqqua)
+
+-[@MinjireVictor](https://github.com/MinjireVictor)
+
+-[@Adeyemitj](https://github.com/Adeyemitj)
+
+-[@noureddineNH9](https://github.com/noureddineNH9)
+
+-[@MarjanovicDario](https://github.com/MarjanovicDario)
