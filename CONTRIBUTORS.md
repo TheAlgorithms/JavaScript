@@ -295,4 +295,6 @@
 
 -[@LuCAN7](https://github.com/LuCAN7)
 
+-[@SCatella](https://github.com/SCatella)
+
 -[@drewcdev](https://github.com/drewcdev)
