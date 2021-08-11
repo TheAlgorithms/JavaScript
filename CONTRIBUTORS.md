@@ -306,3 +306,5 @@
 -[@kmohana](https://github.com/kmohana)
 
 -[@valliant71](https://github.com/valliant71)
+
+-[@snearies](https://github.com/snearies)
