@@ -288,3 +288,13 @@
 -[@rosajen27](https://github.com/rosajen27)
 
 -[@spenjodut](https://github.com/spenjodut)
+
+-[@Benr027](https://github.com/Benr027)
+
+-[@Iamcrazymanny](https://github.com/Iamcrazymanny)
+
+-[@LuCAN7](https://github.com/LuCAN7)
+
+-[@SCatella](https://github.com/SCatella)
+
+-[@drewcdev](https://github.com/drewcdev)
