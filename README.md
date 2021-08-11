@@ -37,9 +37,9 @@ We don't care if you break things. This is a playground and we encourage failing
     git remote add upstream https://github.com/zero-to-mastery/start-here-guidelines.git
     git pull upstream master
     ```
-    
+
     If you run into a **merge conflict**, you have to resolve the conflict. There are a lot of guides online, or you can try this one by [opensource.com](https://opensource.com/article/20/4/git-merge-conflict).
-    
+
 5. On your computer, open your text editor, and add your name to the `CONTRIBUTORS.md` file.
 
 6. Add the changes with `git add`, `git commit` ([write a good commit message](https://chris.beams.io/posts/git-commit/), if possible):
@@ -63,7 +63,7 @@ We don't care if you break things. This is a playground and we encourage failing
 
     Read more about pull requests on the [GitHub help pages](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
-9. Wait until Zerobot or or one of the maintainers merges your pull request. If there are any conflicts, you will get a notification.
+9. Wait until Zerobot or one of the maintainers merges your pull request. If there are any conflicts, you will get a notification.
 
 10. Go join a project and start contributing or create your own group apps. Don't be shy and enjoy creating things together (We have over 20 projects for all level of programmers)! [Check out this guide](https://github.com/zero-to-mastery/start-here-guidelines/blob/master/Get_Started.md) for more information on selecting a project.
 
@@ -113,4 +113,4 @@ Finally, open source projects use the following tools to organize discussion. Re
 
 **Synchronous chat channel**: Some projects use chat channels (such as Discord or IRC) for casual conversation, collaboration, and quick exchanges.
 
-**Get all the ZTM Courses, for one monthly subscription**: [Here](https://zerotomastery.io/courses?utm_source=github&utm_medium=start-here-guidelines).
+**Get all the ZTM Courses, for one monthly subscription** [here](https://zerotomastery.io/courses?utm_source=github&utm_medium=start-here-guidelines).

@@ -16,6 +16,5 @@ markComment: >
 # Comment to post when closing a stale issue. Set to `false` to disable
 closeComment: >
   This issue has been automatically closed because it has not had any recent activity. 
-  If your PR has a merge conflict, it must be resolved before it can be merged. Feel free to resolve and re-open
+  If your PR has a merge conflict, it must be resolved before it can be merged. Feel free to resolve and re-open.
   Thank you for your contributions.
-
