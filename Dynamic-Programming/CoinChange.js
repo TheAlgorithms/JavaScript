@@ -1,4 +1,4 @@
-function change(coins, amount) {
+function change (coins, amount) {
   const combinations = new Array(amount + 1).fill(0)
   combinations[0] = 1
 
@@ -52,7 +52,7 @@ const coinChangeComb = (amount, coins, idx, mem) => {
   return res
 }
 
-function minimumCoins(coins, amount) {
+function minimumCoins (coins, amount) {
   // minimumCoins[i] will store the minimum coins needed for amount i
   const minimumCoins = new Array(amount + 1).fill(0)
 
@@ -78,7 +78,7 @@ function minimumCoins(coins, amount) {
   return minimumCoins[amount]
 }
 
-function main() {
+function main () {
   const amount = 12
   const coins = [2, 4, 5]
   console.log(
