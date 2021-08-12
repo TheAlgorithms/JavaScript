@@ -302,3 +302,15 @@
 -[@saikot-cse](https://github.com/saikot-cse)
 
 -[@Abishek3896](https://github.com/Abishek3896)
+
+-[@kmohana](https://github.com/kmohana)
+
+-[@valliant71](https://github.com/valliant71)
+
+-[@snearies](https://github.com/snearies)
+
+-[@revilosemaj](https://github.com/revilosemaj)
+
+-[@davidmatthewmiller](https://github.com/davidmatthewmiller)
+
+-[@VictorFajardo](https://github.com/VictorFajardo)
