@@ -324,3 +324,5 @@
 -[@Zippa90](https://github.com/Zippa90/)
 
 -[@tiagocostarebelo](https://github.com/tiagocostarebelo)
+
+-[@jtalway](https://github.com/jtalway)
