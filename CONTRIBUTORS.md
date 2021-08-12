@@ -327,4 +327,4 @@
 
 -[@jtalway](https://github.com/jtalway)
 
--[@eyalganor123] (https://github.com/eyalganor123/)
+-[@eyalganor123](https://github.com/eyalganor123/)
