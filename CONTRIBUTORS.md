@@ -312,3 +312,5 @@
 -[@revilosemaj](https://github.com/revilosemaj)
 
 -[@davidmatthewmiller](https://github.com/davidmatthewmiller)
+
+-[@VictorFajardo](https://github.com/VictorFajardo)
