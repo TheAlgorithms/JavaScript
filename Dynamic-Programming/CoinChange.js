@@ -15,28 +15,3 @@ export const change = (coins, amount) => {
   }
   return combinations[amount]
 }
-function minimumCoins (coins, amount) {
-  // minimumCoins[i] will store the minimum coins needed for amount i
-  const minimumCoins = new Array(amount + 1).fill(0)
-
-  minimumCoins[0] = 0
-
-  for (let i = 1; i < amount + 1; i++) {
-    minimumCoins[i] = Number.MAX_SAFE_INTEGER
-  }
-  for (let i = 1; i < amount + 1; i++) {
-    for (let j = 0; j < coins.length; j++) {
-      const coin = coins[j]
-      if (coin <= i) {
-        const subRes = minimumCoins[i - coin]
-        if (
-          subRes !== Number.MAX_SAFE_INTEGER &&
-          subRes + 1 < minimumCoins[i]
-        ) {
-          minimumCoins[i] = subRes + 1
-        }
-      }
-    }
-  }
-  return minimumCoins[amount]
-}
