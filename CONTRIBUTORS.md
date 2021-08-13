@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@CloudsProgram](https://github.com/CloudsProgram)
+
 - [@yash-2115](https://github.com/yash-2115)
 
 - [@kmrajibfaysal](https://github.com/kmrajibfaysal)
@@ -314,3 +316,19 @@
 -[@davidmatthewmiller](https://github.com/davidmatthewmiller)
 
 -[@VictorFajardo](https://github.com/VictorFajardo)
+
+-[@Vikas](https://github.com/vikaspandey18)
+
+-[@nikitabhanderi93](https://github.com/nikitabhanderi93)
+
+-[@Zippa90](https://github.com/Zippa90/)
+
+-[@tiagocostarebelo](https://github.com/tiagocostarebelo)
+
+-[@jtalway](https://github.com/jtalway)
+
+-[@eyalganor123](https://github.com/eyalganor123/)
+
+-[@davdwoo](https://github.com/davdwoo/)
+
+-[@dino-poblete](https://github.com/dino-poblete/)
