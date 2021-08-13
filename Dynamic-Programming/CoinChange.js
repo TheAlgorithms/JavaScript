@@ -15,7 +15,7 @@ export const change = (coins, amount) => {
   }
   return combinations[amount]
 }
-function minimumCoins(coins, amount) {
+function minimumCoins (coins, amount) {
   // minimumCoins[i] will store the minimum coins needed for amount i
   const minimumCoins = new Array(amount + 1).fill(0)
 
