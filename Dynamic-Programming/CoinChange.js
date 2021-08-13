@@ -1,58 +1,21 @@
-function change (coins, amount) {
+/**
+ * @params {Array} coins
+ * @params {Number} amount
+ */
+export const change = (coins, amount) => {
+  // Create and initialize the storage
   const combinations = new Array(amount + 1).fill(0)
   combinations[0] = 1
-
+  // Determine the direction of smallest sub-problem
   for (let i = 0; i < coins.length; i++) {
-    const coin = coins[i]
-
-    for (let j = coin; j < amount + 1; j++) {
-      combinations[j] += combinations[j - coin]
+    // Travel and fill the combinations array
+    for (let j = coins[i]; j < combinations.length; j++) {
+      combinations[j] += combinations[j - coins[i]]
     }
   }
   return combinations[amount]
 }
-
-/** Coin-change combination using recursive approach along with Memoization
- * @param {number} amount
- * @param {number[]} coins
- */
-const changeRecursive = (amount, coins) => {
-  const mem = new Map()
-  return coinChangeComb(amount, coins, 0, mem)
-}
-/** Coin-change combination using recursive approach along with Memoization
- * @param {number} amount
- * @param {number[]} coins
- * @param {number} idx
- * @param {Map} mem
- */
-
-const coinChangeComb = (amount, coins, idx, mem) => {
-  // Negative Base Case
-  if (amount < 0 || idx === coins.length) {
-    return 0
-  }
-  // Positive Base Case
-  if (amount === 0) {
-    return 1
-  }
-
-  // Main Case
-  // Check if the recursive function call results is already memoized
-  if (mem.has(`${amount} - ${idx}`)) {
-    return mem.get(`${amount} - ${idx}`)
-  }
-  let res = 0
-  // Consider the coin at index idx
-  res += coinChangeComb(amount - coins[idx], coins, idx, mem)
-  // Leave the coin at index idx
-  res += coinChangeComb(amount, coins, idx + 1, mem)
-  // Cache the intermediate result in mem
-  mem.set(`${amount} - ${idx}`, res)
-  return res
-}
-
-function minimumCoins (coins, amount) {
+function minimumCoins(coins, amount) {
   // minimumCoins[i] will store the minimum coins needed for amount i
   const minimumCoins = new Array(amount + 1).fill(0)
 
@@ -77,28 +40,3 @@ function minimumCoins (coins, amount) {
   }
   return minimumCoins[amount]
 }
-
-function main () {
-  const amount = 12
-  const coins = [2, 4, 5]
-  console.log(
-    'Number of combinations of getting change for ' +
-      amount +
-      ' is: ' +
-      change(coins, amount)
-  )
-  console.log(
-    'Number of combinations of getting change for ' +
-      amount +
-      ' is: ' +
-      changeRecursive(coins, amount)
-  )
-  console.log(
-    'Minimum number of coins required for amount :' +
-      amount +
-      ' is: ' +
-      minimumCoins(coins, amount)
-  )
-}
-
-main()
