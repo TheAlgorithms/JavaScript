@@ -336,3 +336,5 @@
 -[@TeoJuca](https://github.com/TeoJuca/)
 
 -[@filipussamuel](https://github.com/filipus-samuel/)
+
+-[@joncovington](https://github.com/joncovington/)
