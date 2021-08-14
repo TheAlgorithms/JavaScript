@@ -5,17 +5,24 @@
  * Given a set of points in the plane. The Convex hull of the set is the smallest convex polygon that contains all the points of it.
  */
 
-function compare (a, b) {
+function compare(firstPoint, secondPoint) {
   // Compare Function to Sort the points, a and b are points to compare
-  if (a.x < b.x) return -1
-  if (a.x === b.x && a.y < b.y) return -1
+  if (firstPoint.x < secondPoint.x) return -1
+  if (firstPoint.x === secondPoint.x && firstPoint.y < secondPoint.y) return -1
   return 1
 }
-function orientation (a, b, c) {
+function orientation(
+  firstCoordinatePoint,
+  secondCoordinatePoint,
+  thirdCoordinatePoint
+) {
   // Check orientation of Line(a,b) and Line(b,c)
-  const alpha = (b.y - a.y) / (b.x - a.x)
-  const beta = (c.y - b.y) / (c.x - b.x)
-
+  const alpha =
+    (secondCoordinatePoint.y - firstCoordinatePoint.y) /
+    (secondCoordinatePoint.x - firstCoordinatePoint.x)
+  const beta =
+    (thirdCoordinatePoint.y - secondCoordinatePoint.y) /
+    (thirdCoordinatePoint.x - secondCoordinatePoint.x)
   // Clockwise
   if (alpha > beta) return 1
   // Anticlockwise
@@ -24,47 +31,78 @@ function orientation (a, b, c) {
   return 0
 }
 
-function convexHull (points) {
-  const pointsLen = points.length
-  if (pointsLen <= 2) {
+function checkMinimumPoints(pointsLenght) {
+  if (pointsLenght <= 2) {
     console.log('Minimum of 3 points is required to form closed polygon!')
   }
+}
+
+function convexHull(points) {
+  const pointsLenght = points.length
+
+  checkMinimumPoints(pointsLenght)
 
   points.sort(compare)
-  const p1 = points[0]; const p2 = points[pointsLen - 1]
+
+  const coordinateP1 = points[0]
+  const coordinateP2 = points[pointsLenght - 1]
 
   // Divide Hull in two halfs
-  const upperPoints = []; const lowerPoints = []
+  const upperPoints = []
+  const lowerPoints = []
 
-  upperPoints.push(p1)
-  lowerPoints.push(p1)
+  upperPoints.push(coordinateP1)
+  lowerPoints.push(coordinateP1)
 
-  for (let i = 1; i < pointsLen; i++) {
-    if (i === pointsLen - 1 || orientation(p1, points[i], p2) !== -1) {
-      let upLen = upperPoints.length
+  for (let i = 1; i < pointsLenght; i++) {
+    if (
+      i === pointsLenght - 1 ||
+      orientation(coordinateP1, points[i], coordinateP2) !== -1
+    ) {
+      let upperLenght = upperPoints.length
 
-      while (upLen >= 2 && orientation(upperPoints[upLen - 2], upperPoints[upLen - 1], points[i]) === -1) {
+      while (
+        upperLenght >= 2 &&
+        orientation(
+          upperPoints[upperLenght - 2],
+          upperPoints[upperLenght - 1],
+          points[i]
+        ) === -1
+      ) {
         upperPoints.pop()
-        upLen = upperPoints.length
+        upperLenght = upperPoints.length
       }
       upperPoints.push(points[i])
     }
-    if (i === pointsLen - 1 || orientation(p1, points[i], p2) !== 1) {
-      let lowLen = lowerPoints.length
-      while (lowLen >= 2 && orientation(lowerPoints[lowLen - 2], lowerPoints[lowLen - 1], points[i]) === 1) {
+    if (
+      i === pointsLenght - 1 ||
+      orientation(coordinateP1, points[i], coordinateP2) !== 1
+    ) {
+      let lowerLenght = lowerPoints.length
+      while (
+        lowerLenght >= 2 &&
+        orientation(
+          lowerPoints[lowerLenght - 2],
+          lowerPoints[lowerLenght - 1],
+          points[i]
+        ) === 1
+      ) {
         lowerPoints.pop()
-        lowLen = lowerPoints.length
+        lowerLenght = lowerPoints.length
       }
       lowerPoints.push(points[i])
     }
   }
   const hull = []
+
   for (let i = 1; i < upperPoints.length - 1; i++) {
     hull.push(upperPoints[i])
   }
+
   for (let i = lowerPoints.length - 1; i >= 0; i--) {
     hull.push(lowerPoints[i])
   }
+
   console.log('The Convex Hull found is: \n')
   console.log(hull)
 }
@@ -77,6 +115,7 @@ const points = [
   { x: 0, y: 0 },
   { x: 1, y: 2 },
   { x: 3, y: 1 },
-  { x: 3, y: 3 }]
+  { x: 3, y: 3 }
+]
 
 convexHull(points)
