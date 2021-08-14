@@ -351,3 +351,5 @@
 - [@oajalla](https://github.com/oajalla)
 
 - [@joncovington](https://github.com/joncovington/)
+
+- [@rodelcdavid](https://github.com/rodelcdavid)
