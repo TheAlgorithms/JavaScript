@@ -352,5 +352,5 @@
 
 - [@joncovington](https://github.com/joncovington/)
 
--[@thenextgen1](https://github.com/thenextgen1)
+- [@thenextgen1](https://github.com/thenextgen1)
 
