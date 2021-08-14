@@ -25,19 +25,19 @@ const grid = `
 84580156166097919133875499200524063689912560717606
 05886116467109405077541002256983155200055935729725
 71636269561882670428252483600823257530420752963450
-`.trim().split("\n").join("").split(/[01]+/)
+`.trim().split('\n').join('').split(/[01]+/)
 
 const x = 13
 let max = 0
 
-function largestProduct(){
+function largestProduct () {
   grid.forEach((str) => {
     if (str.length < x) {
       return
     }
     for (let i = 0, l = str.length; i <= l - x; i++) {
       // substring() method returns the part of the string between the start and end indexes
-      const digits = str.substring(i, i + x).split("")
+      const digits = str.substring(i, i + x).split('')
       const product = digits.reduce((prod, c) => prod * parseInt(c), 1)
       // update the max variable in case if our product is larger then max
       if (product > max) max = product
