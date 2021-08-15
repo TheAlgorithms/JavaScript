@@ -15,3 +15,19 @@ export const change = (coins, amount) => {
   }
   return combinations[amount]
 }
+/**
+ * @params {Array} coins
+ * @params {Number} amount
+ */
+export const coinChangeMin = (coins, amount) => {
+  const map = { 0: 1 }
+  for (let i = 1; i <= amount; i++) {
+    let min = Infinity
+    for (const coin of coins) {
+      if (i < coin) continue
+      min = Math.min(min, 1 + map[i - coin])
+    }
+    map[i] = min
+  }
+  return map[amount] === Infinity ? -1 : map[amount] - 1
+}
