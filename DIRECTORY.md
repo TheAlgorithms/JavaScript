@@ -90,6 +90,8 @@
   * [Shuf](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/Shuf.js)
   * [SieveOfEratosthenes](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/SieveOfEratosthenes.js)
   * [SudokuSolver](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/SudokuSolver.js)
+  * tests
+    * [CoinChange](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/tests/CoinChange.test.js)
   * [TrappingRainWater](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/TrappingRainWater.js)
   * [ZeroOneKnapsack](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/ZeroOneKnapsack.js)
 
