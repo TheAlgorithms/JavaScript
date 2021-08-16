@@ -355,6 +355,7 @@
 - [@thenextgen1](https://github.com/thenextgen1)
 
 - [@sowmyasri9](https://github.com/sowmyasri9)
+
 - [@iamdpunk1](https://github.com/iamdpunkr1)
 
 - [@Hari-krishna-tech](https://github.com/Hari-krishna-tech)
@@ -368,3 +369,5 @@
 - [@djente44](https://github.com/djente44/)
 
 - [@Caofontaine](https://github.com/caofontaine/)
+
+- [@qmkDuran](https://github.com/qmkDuran/)
