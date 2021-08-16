@@ -364,3 +364,5 @@
 - [@ogunmisim](https://github.com/ogunmisim)
 
 - [@imsunokdir](https://github.com/imsunokdir/)
+
+- [@djente44](https://github.com/djente44/)
