@@ -241,6 +241,7 @@
   * [FloodFill](https://github.com/TheAlgorithms/Javascript/blob/master/Recursive/FloodFill.js)
   * [KochSnowflake](https://github.com/TheAlgorithms/Javascript/blob/master/Recursive/KochSnowflake.js)
   * [Palindrome](https://github.com/TheAlgorithms/Javascript/blob/master/Recursive/Palindrome.js)
+  * [SubsequenceRecursive](https://github.com/TheAlgorithms/Javascript/blob/master/Recursive/SubsequenceRecursive.js)
   * [TowerOfHanoi](https://github.com/TheAlgorithms/Javascript/blob/master/Recursive/TowerOfHanoi.js)
 
 ## Search
