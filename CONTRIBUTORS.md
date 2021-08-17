@@ -382,3 +382,11 @@
 - [@fabgrel10](https://github.com/fabgrel10)
 
 - [@chirag-ji](https://github.com/chirag-ji)
+-[@ayush-0111](https://github.com/ayush-0111)
+
+-[@morebeautifulthandoriangray](https://github.com/morebeautifulthandoriangray)
+
+-[@eric12s](https://github.com/eric12s)
+
+- [@frontEndJohn](https://github.com/frontEndJohn)
+-[@Neha9849](https://github.com/Neha9849)
