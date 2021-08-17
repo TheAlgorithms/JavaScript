@@ -20,7 +20,7 @@
  */
 
 const subsequence = (str, seq, low) => {
-  if (low <= str.length && str.length !== '') {
+  if (low <= str.length && str.length !== 0) {
     console.log(seq)
   }
   for (let i = low; i < str.length; i++) {
