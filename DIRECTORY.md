@@ -2,6 +2,7 @@
 ## [babel](https://github.com/TheAlgorithms/Javascript/blob/master//babel.config.js)
 
 ## Backtracking
+  * [GeneratePermutations](https://github.com/TheAlgorithms/Javascript/blob/master/Backtracking/GeneratePermutations.js)
   * [KnightTour](https://github.com/TheAlgorithms/Javascript/blob/master/Backtracking/KnightTour.js)
   * [NQueen](https://github.com/TheAlgorithms/Javascript/blob/master/Backtracking/NQueen.js)
   * [Sudoku](https://github.com/TheAlgorithms/Javascript/blob/master/Backtracking/Sudoku.js)
