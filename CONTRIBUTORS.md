@@ -252,8 +252,6 @@
 
 - [@Abideen-program](https://github.com/Abideen-program/)
 
-- [@Abideen-program] (https://github.com/Abideen-program/)
-
 - [@rzmk](https://github.com/rzmk)
 
 - [@headpnc](https://github.com/headpnc)
@@ -382,17 +380,12 @@
 - [@fabgrel10](https://github.com/fabgrel10)
 
 - [@chirag-ji](https://github.com/chirag-ji)
--[@ayush-0111](https://github.com/ayush-0111)
-
--[@morebeautifulthandoriangray](https://github.com/morebeautifulthandoriangray)
-
--[@eric12s](https://github.com/eric12s)
-
+- [@ayush-0111](https://github.com/ayush-0111)
+- [@morebeautifulthandoriangray](https://github.com/morebeautifulthandoriangray)
+- [@eric12s](https://github.com/eric12s)
 - [@frontEndJohn](https://github.com/frontEndJohn)
--[@Neha9849](https://github.com/Neha9849)
-
+- [@Neha9849](https://github.com/Neha9849)
 - [@vihahuynh](https://github.com/vihahuynh)
-
--[@ashcbrd](https://github.com/ashcbrd)
-
--[@senthil-pandi](https://github.com/senthil-pandi)
+- [@ashcbrd](https://github.com/ashcbrd)
+- [@senthil-pandi](https://github.com/senthil-pandi)
+- [@okfriasyah-moh](https://github.com/okfriansyah-moh)
