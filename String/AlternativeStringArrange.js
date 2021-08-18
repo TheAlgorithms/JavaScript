@@ -1,4 +1,7 @@
 // Alternative arrange the two given strings in one string in O(n) time complexity.
+
+// Problem Source & Explanation: https://www.geeksforgeeks.org/alternatively-merge-two-strings-in-java/ 
+
 /**
  * Alternative arrange the two given strings in one string in O(n) time complexity.
  * @param {String} str1 first input string
