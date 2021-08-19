@@ -23,8 +23,3 @@ jobs:
       uses: ad-m/github-push-action@master
     - name: See contents of CONTRIBUTORS.md after
       run: cat CONTRIBUTORS.md
-      # - name: Save CONTRIBUTORS.md as artifact
-      #   uses: actions/upload-artifact@v2
-      #   with:
-      #     name: CONTRIBUTORS.md
-      #     path: CONTRIBUTORS.md
