@@ -11,10 +11,10 @@ jobs:
           python-version: 3.9
       - name: Run script
         run: python sort-users.py
+      - name: Check for changes
+          run: git status
       - name: Save contributors.md as artifact
         uses: actions/upload-artifact@v2
         with:
           name: CONTRIBUTORS.md
           path: CONTRIBUTORS.md
-      - name: Check for changes
-          run: git status
