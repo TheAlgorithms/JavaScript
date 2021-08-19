@@ -1,4 +1,4 @@
-PATH = 'CONTRIBUTORS.md'
+PATH = '../../CONTRIBUTORS.md'
 
 def get_contents(path):
     with open(path, 'r') as f:
