@@ -1,5 +1,7 @@
 name: run-python-sort-script
-on: [push]
+on:
+  push:
+    branches: [editContrib]
 jobs:
   build:
     runs-on: ubuntu-latest
