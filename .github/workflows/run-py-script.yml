@@ -12,10 +12,6 @@ jobs:
         python-version: 3.9
     - name: Run script
       run: python sort-users.py
-    - name: Look for python file
-      run: cat sort-users.py
-    - name: Look for md file
-      run: cat CONTRIBUTORS.md
     - name: Check for changes
       run: git status
       # - name: Save contributors.md as artifact

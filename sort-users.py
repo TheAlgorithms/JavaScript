@@ -59,7 +59,7 @@ def alphabetize_contrib(user_list, user_dict):
     with open(PATH, 'w') as f:
         f.write('# CONTRIBUTORS\n\n')
         for user in user_list:
-            user_entry = f'- [@{user}] ({user_dict[user]})\n\n'
+            user_entry = f'- [@{user}]({user_dict[user]})\n\n'
             f.write(user_entry)
 
 
