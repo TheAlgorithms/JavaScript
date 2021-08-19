@@ -1,5 +1,5 @@
 name: run-python-sort-script
-on: [push]
+on: [pull_request]
 jobs:
   build:
     name: Run sort-users.py
@@ -14,8 +14,8 @@ jobs:
       run: python sort-users.py
     - name: Commit files
       run: |
-        git config --local user.email "jaketucker7@gmail.com"
-        git config --local user.name "Dysrhythmic"
+        git config --local user.email "EMAIL-HERE"
+        git config --local user.name "USERNAME-HERE"
         git commit -m "Add changes" -a
     - name: Push changes
       uses: ad-m/github-push-action@master
