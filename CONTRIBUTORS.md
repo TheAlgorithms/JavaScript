@@ -399,6 +399,8 @@
 
 -[@hchowdha](https://github.com/hchowdha)
 
+-[@haristiro](https://github.com/haristiro/)
+
 - [@aliceinthebighistory](https://github.com/aliceinthebighistory/)
 
 -[@rafimuh19](https://github.com/rafimuh19)
@@ -413,6 +415,12 @@
 
 -[@superagm123](https://github.com/superagm123)
 
-- [@Dysrhythmic](https://github.com/Dysrhythmic)
+-[@Dysrhythmic](https://github.com/Dysrhythmic)
 
 -[@surajpulekar](https://github.com/surajpulekar)
+
+-[@Aigerim-ai](https://github.com/Aigerim-ai)
+
+- [luistorres0](https://github.com/luistorres0)
+
+-[@kamar101](http://github.com/kamar101/)
