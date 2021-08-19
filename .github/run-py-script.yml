@@ -1,0 +1,13 @@
+name: run-python-alphabetize-script
+on: [push]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Install Python 3
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.9
+      - name: Run script
+        run: python alphabetize-users.py
