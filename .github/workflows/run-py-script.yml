@@ -6,6 +6,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
+    - name: See contents of CONTRIBUTORS.md before
+      run: cat CONTRIBUTORS.md
     - name: Install Python 3
       uses: actions/setup-python@v2
       with:
@@ -14,7 +16,9 @@ jobs:
       run: python sort-users.py
     - name: Check for changes
       run: git status
-      # - name: Save contributors.md as artifact
+    - name: See contents of CONTRIBUTORS.md after
+      run: cat CONTRIBUTORS.md
+      # - name: Save CONTRIBUTORS.md as artifact
       #   uses: actions/upload-artifact@v2
       #   with:
       #     name: CONTRIBUTORS.md
