@@ -6,7 +6,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-    - name: See contents of CONTRIBUTORS.md before
     - name: Install Python 3
       uses: actions/setup-python@v2
       with:
@@ -20,4 +19,3 @@ jobs:
         git commit -m "Add changes" -a
     - name: Push changes
       uses: ad-m/github-push-action@master
-    - name: See contents of CONTRIBUTORS.md after
