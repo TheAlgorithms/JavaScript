@@ -235,6 +235,7 @@
     * [Problem10](https://github.com/TheAlgorithms/Javascript/blob/master/Project-Euler/test/Problem10.test.js)
 
 ## Recursive
+  * [BinaryEquivalent](https://github.com/TheAlgorithms/Javascript/blob/master/Recursive/BinaryEquivalent.js)
   * [BinarySearch](https://github.com/TheAlgorithms/Javascript/blob/master/Recursive/BinarySearch.js)
   * [EucledianGCD](https://github.com/TheAlgorithms/Javascript/blob/master/Recursive/EucledianGCD.js)
   * [factorial](https://github.com/TheAlgorithms/Javascript/blob/master/Recursive/factorial.js)
