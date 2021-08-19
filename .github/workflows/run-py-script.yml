@@ -16,3 +16,5 @@ jobs:
         with:
           name: CONTRIBUTORS.md
           path: CONTRIBUTORS.md
+      - name: Check for changes
+          run: git status
