@@ -355,6 +355,7 @@
 - [@thenextgen1](https://github.com/thenextgen1)
 
 - [@sowmyasri9](https://github.com/sowmyasri9)
+
 - [@iamdpunk1](https://github.com/iamdpunkr1)
 
 - [@Hari-krishna-tech](https://github.com/Hari-krishna-tech)
@@ -382,35 +383,37 @@
 - [@fabgrel10](https://github.com/fabgrel10)
 
 - [@chirag-ji](https://github.com/chirag-ji)
--[@ayush-0111](https://github.com/ayush-0111)
 
--[@morebeautifulthandoriangray](https://github.com/morebeautifulthandoriangray)
+- [@ayush-0111](https://github.com/ayush-0111)
 
--[@eric12s](https://github.com/eric12s)
+- [@morebeautifulthandoriangray](https://github.com/morebeautifulthandoriangray)
+
+- [@eric12s](https://github.com/eric12s)
 
 - [@frontEndJohn](https://github.com/frontEndJohn)
--[@Neha9849](https://github.com/Neha9849)
+
+- [@Neha9849](https://github.com/Neha9849)
 
 - [@vihahuynh](https://github.com/vihahuynh)
 
--[@ashcbrd](https://github.com/ashcbrd)
+- [@ashcbrd](https://github.com/ashcbrd)
 
--[@senthil-pandi](https://github.com/senthil-pandi)
+- [@senthil-pandi](https://github.com/senthil-pandi)
 
--[@hchowdha](https://github.com/hchowdha)
+- [@hchowdha](https://github.com/hchowdha)
 
 - [@aliceinthebighistory](https://github.com/aliceinthebighistory/)
 
--[@rafimuh19](https://github.com/rafimuh19)
+- [@rafimuh19](https://github.com/rafimuh19)
 
--[@jiansheng](https://github.com/jianshengdai/)
+- [@jiansheng](https://github.com/jianshengdai/)
 
--[@mumblebaj](https://github.com/mumblebaj/)
+- [@mumblebaj](https://github.com/mumblebaj/)
 
--[@mohantirumalasetti](https://github.com/mohantirumalasetti/)
+- [@mohantirumalasetti](https://github.com/mohantirumalasetti/)
 
--[@AliAli](https://github.com/ali-ali1/)
+- [@AliAli](https://github.com/ali-ali1/)
 
--[@superagm123](https://github.com/superagm123)
+- [@superagm123](https://github.com/superagm123)
 
 - [@Dysrhythmic](https://github.com/Dysrhythmic)
