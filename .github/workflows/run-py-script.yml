@@ -11,8 +11,11 @@ jobs:
           python-version: 3.9
       - name: Run script
         run: python alphabetize-users.py
-      - name: Upload output file
-        uses: actions/upload-artifact@v2
-        with:
-          name: CONTRIBUTORS.md
-          path: CONTRIBUTORS.md
+      - name: Check for changes
+        run: git status
+      - name: Stage sorted file
+        run: git add CONTRIBUTORS.md
+      - name: Commit sorted file
+        run: git commit -m "Auto sorting CONTRIBUTORS.md"
+      - name: Push sorted file
+        run: git push origin master
