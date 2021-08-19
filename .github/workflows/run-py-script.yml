@@ -11,3 +11,8 @@ jobs:
           python-version: 3.9
       - name: Run script
         run: python alphabetize-users.py
+      - name: Upload output file
+        uses: actions/upload-artifact@v2
+        with:
+          name: CONTRIBUTORS.md
+          path: CONTRIBUTORS.md
