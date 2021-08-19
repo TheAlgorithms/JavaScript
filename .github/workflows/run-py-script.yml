@@ -18,4 +18,4 @@ jobs:
       - name: Commit sorted file
         run: git commit -m "Auto sorting CONTRIBUTORS.md"
       - name: Push sorted file
-        run: git push origin master
+        run: git push origin editContrib
