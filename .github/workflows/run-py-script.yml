@@ -16,6 +16,10 @@ jobs:
       run: python sort-users.py
     - name: Check for changes
       run: git status
+    - name: Commit files
+      run: git commit -m "Add changes" -a
+    - name: Push changes
+      uses: ad-m/github-push-action@master
     - name: See contents of CONTRIBUTORS.md after
       run: cat CONTRIBUTORS.md
       # - name: Save CONTRIBUTORS.md as artifact
