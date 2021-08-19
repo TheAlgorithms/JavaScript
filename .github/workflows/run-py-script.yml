@@ -4,17 +4,18 @@ on:
     branches: [editContrib]
 jobs:
   build:
+    name: Run sort-users.py
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - name: Install Python 3
-        uses: actions/setup-python@v2
-        with:
-          python-version: 3.9
-      - name: Run script
-        run: python sort-users.py
-      - name: Check for changes
-          run: git status
+    - uses: actions/checkout@v2
+    - name: Install Python 3
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.9
+    - name: Run script
+      run: python sort-users.py
+    - name: Check for changes
+        run: git status
       # - name: Save contributors.md as artifact
       #   uses: actions/upload-artifact@v2
       #   with:
