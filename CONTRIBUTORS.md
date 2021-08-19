@@ -424,3 +424,11 @@
 - [luistorres0](https://github.com/luistorres0)
 
 -[@kamar101](http://github.com/kamar101/)
+
+- [@Ahmed-Asharf](https://github.com/Ahmed-Asharf)
+
+-[@DenaldM](https://github.com/DenaldM)
+
+-[@nvontz](https://github.com/nvontz)
+
+-[@elozada21](http://github.com/elozada21/)
