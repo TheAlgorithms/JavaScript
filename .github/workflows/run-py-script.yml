@@ -12,6 +12,8 @@ jobs:
         python-version: 3.9
     - name: Run script
       run: python sort-users.py
+    - name: Add remote url
+      run: git remote add origin https://github.com/Dysrhythmic/start-here-guidelines.git
     - name: Check for changes
       run: git status
       # - name: Save contributors.md as artifact
