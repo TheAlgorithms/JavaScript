@@ -399,6 +399,8 @@
 
 -[@hchowdha](https://github.com/hchowdha)
 
+-[@haristiro](https://github.com/haristiro/)
+
 - [@aliceinthebighistory](https://github.com/aliceinthebighistory/)
 
 -[@rafimuh19](https://github.com/rafimuh19)
