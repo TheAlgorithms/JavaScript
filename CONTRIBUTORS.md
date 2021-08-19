@@ -424,3 +424,5 @@
 - [luistorres0](https://github.com/luistorres0)
 
 -[@kamar101](http://github.com/kamar101/)
+
+-[@elozada21](http://github.com/elozada21/)
