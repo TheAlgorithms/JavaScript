@@ -3,10 +3,10 @@
  *
  * What is Binary Equivalent?
  * - In binary number system, a number is represented in terms of 0s and 1s,
- * 	 for example:
- * 	 - Binary Of 2 = 10
- *   - Binary of 3 = 11
- *   - Binary of 4 = 100
+ *   for example:
+ *    - Binary Of 2 = 10
+ *    - Binary of 3 = 11
+ *    - Binary of 4 = 100
  *
  * Reference on how to find Binary Equivalent
  * - https://byjus.com/maths/decimal-to-binary/
