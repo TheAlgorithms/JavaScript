@@ -10,7 +10,7 @@
 const CheckCamelCase = (varName) => {
   // firstly, check that input is a string or not.
   if (typeof varName !== 'string') {
-    return 'Not string(s)'
+    return new TypeError("Argument is not a string.")
   }
 
   const pat = /^[a-z][A-Za-z]*$/
