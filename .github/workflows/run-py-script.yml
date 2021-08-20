@@ -5,7 +5,10 @@ jobs:
     name: Run sort-users.py
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@master
+      with:
+        persist-credentials: false
+        fetch-depth: 0
     - name: Install Python 3
       uses: actions/setup-python@v2
       with:
