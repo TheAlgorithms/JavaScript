@@ -290,8 +290,10 @@
 ## String
   * [AlternativeStringArrange](https://github.com/TheAlgorithms/Javascript/blob/master/String/AlternativeStringArrange.js)
   * [CheckAnagram](https://github.com/TheAlgorithms/Javascript/blob/master/String/CheckAnagram.js)
+  * [CheckCamelCase](https://github.com/TheAlgorithms/Javascript/blob/master/String/CheckCamelCase.js)
   * [CheckPalindrome](https://github.com/TheAlgorithms/Javascript/blob/master/String/CheckPalindrome.js)
   * [CheckPangram](https://github.com/TheAlgorithms/Javascript/blob/master/String/CheckPangram.js)
+  * [CheckPascalCase](https://github.com/TheAlgorithms/Javascript/blob/master/String/CheckPascalCase.js)
   * [CheckRearrangePalindrome](https://github.com/TheAlgorithms/Javascript/blob/master/String/CheckRearrangePalindrome.js)
   * [CheckVowels](https://github.com/TheAlgorithms/Javascript/blob/master/String/CheckVowels.js)
   * [CheckVowels](https://github.com/TheAlgorithms/Javascript/blob/master/String/CheckVowels.test.js)
