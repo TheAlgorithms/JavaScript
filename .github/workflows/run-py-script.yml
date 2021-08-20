@@ -16,10 +16,11 @@ jobs:
         python-version: 3.9
     - name: Run script
       run: python sort-users.py
-    - name: Commit files
+    - name: Push Back Formatted Code
       run: |
-        git config --local user.email "matt@matt-smith.dev"
-        git config --local user.name "mattcsmith"
-        git commit -m "Add changes" -a
-    - name: Push changes
-      uses: ad-m/github-push-action@master
+        # configure git
+        git config --global user.name "Zero to Mastery"
+        git config --global user.email "zero-to-mastery@users.noreply.github.com"
+        git add .
+        git commit -m "(CI) format code" || echo "nothing to commit"
+        git push
