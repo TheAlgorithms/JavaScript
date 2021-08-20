@@ -1,11 +1,11 @@
-// CheckKebabCase method checks the given string is in kebab_case or not.
+// CheckKebabCase method checks the given string is in kebab-case or not.
 
 // Problem Source & Explanation: https://en.wikipedia.org/wiki/Naming_convention_(programming)
 
 /**
- * CheckKebabCase method returns true if the string in kebab_case, else return the false.
+ * CheckKebabCase method returns true if the string in kebab-case, else return the false.
  * @param {String} varName the name of the variable to check.
- * @returns `Boolean` return true if the string is in kebab_case, else return false.
+ * @returns `Boolean` return true if the string is in kebab-case, else return false.
  */
 const CheckKebabCase = (varName) => {
   // firstly, check that input is a string or not.
