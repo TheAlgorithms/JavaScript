@@ -5,10 +5,11 @@ jobs:
     name: Run sort-users.py
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@master
+    - name: Pull Repo
+      uses: actions/checkout@v2
       with:
-        persist-credentials: false
         fetch-depth: 0
+        ref: ${{ github.event.pull_request.head.ref }}
     - name: Install Python 3
       uses: actions/setup-python@v2
       with:
