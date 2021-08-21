@@ -25,3 +25,5 @@
 - [@piyushyadav0191](https://github.com/piyushyadav0191/)
 
 - [@jango-070](https://github.com/jango-070/)
+
+- [@tejasn14](https://github.com/tejasn14/)
