@@ -18,4 +18,4 @@
 
 - [@osaeafari](https://github.com/osaeafari/)
 
--[@Nirbhayparmar](https://github.com/Nirbhayparmar/)
+- [@Nirbhayparmar](https://github.com/Nirbhayparmar/)
