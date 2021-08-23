@@ -5,6 +5,7 @@
   * [GeneratePermutations](https://github.com/TheAlgorithms/Javascript/blob/master/Backtracking/GeneratePermutations.js)
   * [KnightTour](https://github.com/TheAlgorithms/Javascript/blob/master/Backtracking/KnightTour.js)
   * [NQueen](https://github.com/TheAlgorithms/Javascript/blob/master/Backtracking/NQueen.js)
+  * [RatInAMaze](https://github.com/TheAlgorithms/Javascript/blob/master/Backtracking/RatInAMaze.js)
   * [Sudoku](https://github.com/TheAlgorithms/Javascript/blob/master/Backtracking/Sudoku.js)
   * tests
     * [NQueen](https://github.com/TheAlgorithms/Javascript/blob/master/Backtracking/tests/NQueen.test.js)
