@@ -35,6 +35,7 @@
 ## Conversions
   * [ArbitraryBase](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/ArbitraryBase.js)
   * [BinaryToDecimal](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/BinaryToDecimal.js)
+  * [DateToDay](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/DateToDay.js)
   * [DecimalToBinary](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/DecimalToBinary.js)
   * [DecimalToHex](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/DecimalToHex.js)
   * [DecimalToOctal](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/DecimalToOctal.js)
