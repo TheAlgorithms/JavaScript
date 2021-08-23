@@ -35,3 +35,23 @@
 - [@dsnoeijer](https://github.com/dsnoeijer)
 
 - [@ranggaradiitya](https://github.com/ranggaradiitya/)
+
+-[@shankhwarsumit](https://github.com/shankhwarsumit/)
+
+-[@dctoo42me](https://github.com/dctoo42me/)
+
+-[@siddharth25pandey](https://github.com/siddharth25pandey/)
+
+-[@povitasku](https://github.com/povitasku)
+
+-[@Sapphireyed](https://github.com/Sapphireyed)
+
+-[@krish-98](https://github.com/krish-98)
+
+-[@alamtwaha](https://github.com/alamtwaha/)
+
+-[@pv-oliveira](https://github.com/pv-oliveira)
+
+-[@VKM-BOSS](https://github.com/VKM-BOSS)
+
+-[@Zhuzum](https://github.com/Zhuzum)
