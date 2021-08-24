@@ -67,3 +67,5 @@
 -[@tihusky](https://github.com/tihusky/)
 
 -[@Hansh-1484519](https://github.com/Hansh-1484519/)
+
+-[@hectorg2211](https://github.com/hectorg2211)
