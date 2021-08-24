@@ -55,3 +55,19 @@
 -[@VKM-BOSS](https://github.com/VKM-BOSS)
 
 -[@Zhuzum](https://github.com/Zhuzum)
+
+-[@chirayumit001](https://github.com/chirayumit001)
+
+-[@praveen-ah](https://github.com/praveen-ah)
+
+-[@Rankind94](https://github.com/Rankind94)
+
+-[@MrdjaS](https://github.com/MrdjaS)
+
+-[@tihusky](https://github.com/tihusky/)
+
+-[@Hansh-1484519](https://github.com/Hansh-1484519/)
+
+-[@hectorg2211](https://github.com/hectorg2211)
+
+-[@sebgeomag](https://github.com/sebgeomag)
