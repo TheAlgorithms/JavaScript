@@ -77,4 +77,7 @@
 -[@JIMMYOOOPS](https://github.com/JIMMYOOOPS/)
 
 -[@cynthia0713](https://github.com/cynthia0713)
+
 -[@amirahmedimtiaz](https://github.com/amirahmedimtiaz/)
+
+-[@KaisaSS] (https://github.com/KaisaSS/)
