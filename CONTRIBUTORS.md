@@ -73,3 +73,5 @@
 -[@sebgeomag](https://github.com/sebgeomag)
 
 -[@dreamzCode](https://github.com/dreamzCode)
+
+-[@JIMMYOOOPS](https://github.com/JIMMYOOOPS/)
