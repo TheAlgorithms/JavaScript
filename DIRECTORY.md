@@ -47,6 +47,7 @@
   * [RgbHsvConversion](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/RgbHsvConversion.js)
   * [RGBToHex](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/RGBToHex.js)
   * [RomanToDecimal](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/RomanToDecimal.js)
+  * [UpperCaseConversion](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/UpperCaseConversion.js)
 
 ## Data-Structures
   * Array
