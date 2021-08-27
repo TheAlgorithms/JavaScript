@@ -95,10 +95,13 @@
 - [@lgolin](https://github.com/lgolin/)
 
 - [@gkaframanis](https://github.com/gkaframanis/)
+
 - [@developer-metalhead](https://github.com/developer-metalhead/)
 
--[@KnowingWithShrish](https://github.com/KnowingWithShrish)
+- [@KnowingWithShrish](https://github.com/KnowingWithShrish)
 
--[@aniketh-varma](https://github.com/aniketh-varma)
+- [@aniketh-varma](https://github.com/aniketh-varma)
 
--[@akshaytare](https://github.com/akshaytare)
+- [@akshaytare](https://github.com/akshaytare)
+
+- [@Wickerman24](https://github.com/Wickerman24)
