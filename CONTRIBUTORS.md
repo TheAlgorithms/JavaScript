@@ -96,3 +96,5 @@
 
 - [@gkaframanis](https://github.com/gkaframanis/)
 - [@developer-metalhead](https://github.com/developer-metalhead/)
+
+-[@KnowingWithShrish](https://github.com/KnowingWithShrish)
