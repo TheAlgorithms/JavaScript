@@ -91,3 +91,14 @@
 - [@cjmugs](https://github.com/cjmugs/)
 
 - [@Aswin40](https://github.com/Aswin40/)
+
+- [@lgolin](https://github.com/lgolin/)
+
+- [@gkaframanis](https://github.com/gkaframanis/)
+- [@developer-metalhead](https://github.com/developer-metalhead/)
+
+-[@KnowingWithShrish](https://github.com/KnowingWithShrish)
+
+-[@aniketh-varma](https://github.com/aniketh-varma)
+
+-[@akshaytare](https://github.com/akshaytare)
