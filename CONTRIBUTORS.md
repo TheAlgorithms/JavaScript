@@ -109,7 +109,7 @@
 
 - [@Supratim30](https://github.com/Supratim30)
 
-- [@Eternal_](https://github.com/Tarun-Kamboj)
+- [@Eternal\_](https://github.com/Tarun-Kamboj)
 
 - [@rariveraa](https://github.com/rariveraa)
 
@@ -119,3 +119,4 @@
 
 - [@Nierusan](https://github.com/nierusan)
 
+- [@sayedsadat98](https://github.com/sayedsadat98)
