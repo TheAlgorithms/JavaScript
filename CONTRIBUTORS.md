@@ -114,3 +114,5 @@
 - [@rariveraa](https://github.com/rariveraa)
 
 - [@rariveraa](https://github.com/rariveraa)
+
+- [@Abdulmalik](https://github.com/abdulmalik-ayorinde)
