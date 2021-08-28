@@ -102,3 +102,21 @@
 -[@aniketh-varma](https://github.com/aniketh-varma)
 
 -[@akshaytare](https://github.com/akshaytare)
+
+- [@ddaniel90](https://github.com/ddaniel90)
+
+-[@AJLM10](https://github.com/AJLM10)
+
+- [@Supratim30](https://github.com/Supratim30)
+
+- [@Eternal\_](https://github.com/Tarun-Kamboj)
+
+- [@rariveraa](https://github.com/rariveraa)
+
+- [@rariveraa](https://github.com/rariveraa)
+
+- [@Abdulmalik](https://github.com/abdulmalik-ayorinde)
+
+- [@Nierusan](https://github.com/nierusan)
+
+- [@sayedsadat98](https://github.com/sayedsadat98)
