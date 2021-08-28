@@ -116,3 +116,6 @@
 - [@rariveraa](https://github.com/rariveraa)
 
 - [@Abdulmalik](https://github.com/abdulmalik-ayorinde)
+
+- [@Nierusan](https://github.com/nierusan)
+
