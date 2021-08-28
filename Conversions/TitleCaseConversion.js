@@ -1,3 +1,12 @@
+/*
+    Problem statement and Explanation : https://www.codeproject.com/Tips/162540/Letter-Case-Conversion-Algorithms-Title-Case-Toggl
+*/
+
+/**
+ * The TitleCaseConversion converts a string into a title case string.
+ * @param {String} inputString input string
+ * @returns {String}
+ */
 const TitleCaseConversion = (inputString) => {
     // Extact all space seprated string.
     const stringCollections = inputString.split(' ').map(word => {
@@ -30,4 +39,4 @@ const TitleCaseConversion = (inputString) => {
     return stringCollections.join(' ');
 }
 
-console.log(TitleCaseConversion("thIs is A mY best n string."));
+module.exports = TitleCaseConversion;
