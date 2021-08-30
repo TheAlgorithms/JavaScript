@@ -13,7 +13,6 @@
  */
 const getGcd = (arg1, arg2) => {
   // Find a minimum of both numbers.
-
   let less = arg1 > arg2 ? arg2 : arg1
   // Iterate the number and find the gcd of the number using the above explanation.
   for (less; less >= 2; less--) {
