@@ -133,4 +133,6 @@
 
 -[@avilovi](https://github.com/avilovi)
 
-- [@lopsluan ](https://github.com/lopsluan)
+- [@lopsluan](https://github.com/lopsluan)
+
+- [@anettta](https://github.com/anettta)
