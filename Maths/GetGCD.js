@@ -12,15 +12,15 @@
  * @returns return a `gcd` value of both number.
  */
 const getGcd = (arg1, arg2) => {
-    // Find a minimum of both numbers.
-    
-    let less = arg1 > arg2 ? arg2 : arg1
-    // Iterate the number and find the gcd of the number using the above explanation.
-    for (less; less >= 2; less--) {
-        if ((arg1 % less === 0) && (arg2 % less === 0)) return (less)
-    }
+  // Find a minimum of both numbers.
 
-    return (less)
+  let less = arg1 > arg2 ? arg2 : arg1
+  // Iterate the number and find the gcd of the number using the above explanation.
+  for (less; less >= 2; less--) {
+    if ((arg1 % less === 0) && (arg2 % less === 0)) return (less)
+  }
+
+  return (less)
 }
 
 module.exports = getGcd
