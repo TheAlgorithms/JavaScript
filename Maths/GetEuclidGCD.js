@@ -1,5 +1,5 @@
 /*
-    Problem statement and Explanation : https://en.wikipedia.org/wiki/Greatest_common_divisor
+    Problem statement and Explanation : https://en.wikipedia.org/wiki/Euclidean_algorithm
 
     In this method, we have followed the iterative approach to first
     find a minimum of both numbers and go to the next step.
@@ -12,6 +12,10 @@
  * @returns return a `gcd` value of both number.
  */
 const getGcd = (arg1, arg2) => {
+  // firstly, check that input is a number or not.
+  if (typeof arg1 !== 'number' || typeof arg2 !== 'number') {
+    return new TypeError('Argument is not a number.')
+  }
   // Find a minimum of both numbers.
   let less = arg1 > arg2 ? arg2 : arg1
   // Iterate the number and find the gcd of the number using the above explanation.

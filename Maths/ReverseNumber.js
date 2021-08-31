@@ -8,6 +8,10 @@
  * @returns `Number` n reverse in reverse.
  */
 const ReverseNumber = (number) => {
+  // firstly, check that input is a number or not.
+  if (typeof number !== 'number') {
+    return new TypeError('Argument is not a number.')
+  }
   // A variable for storing the reversed number.
   let reverseNumber = 0
   // Iterate the process until getting the number is 0.
