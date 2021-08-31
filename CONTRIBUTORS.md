@@ -126,3 +126,17 @@
 -[@didargml](https://github.com/didargml)
 
 -[@Raunak173](https://github.com/Raunak173)
+
+- [@Kolako17](https://github.com/Kolako17)
+
+- [@arishwin](https://github.com/arishwin)
+
+-[@avilovi](https://github.com/avilovi)
+
+- [@lopsluan](https://github.com/lopsluan)
+
+- [@anettta](https://github.com/anettta)
+
+- [@tranfh](https://github.com/tranfh)
+
+- [@Double-T1](https://github.com/Double-T1)
