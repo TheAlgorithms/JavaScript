@@ -152,3 +152,5 @@
 -[@pyxmaster](https://github.com/pyxmaster)
 
 -[@BKmotoz](https://github.com/BKmotoz)
+
+-[@bruno-aviles](https://github.com/bruno-aviles)
