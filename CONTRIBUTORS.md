@@ -160,3 +160,5 @@
 -[@DanijelSVK](https://github.com/DanijelSVK)
 
 -[@Gomatheeswaran](https://github.com/Gomatheeswaran)
+
+-[@almeidapedro07](https://github.com/almeidapedro07)
