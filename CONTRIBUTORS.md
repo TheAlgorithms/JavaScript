@@ -140,3 +140,17 @@
 - [@tranfh](https://github.com/tranfh)
 
 - [@Double-T1](https://github.com/Double-T1)
+
+-[@varsha631](https://github.com/varsha631)
+
+- [@SebastianAdi](https://github.com/SebastianAdi)
+
+-[@Akashkumar2898](https://github.com/Akashkumar2898)
+
+-[@arhab07](https://github.com/arhab07)
+
+-[@pyxmaster](https://github.com/pyxmaster)
+
+-[@BKmotoz](https://github.com/BKmotoz)
+
+-[@bruno-aviles](https://github.com/bruno-aviles)
