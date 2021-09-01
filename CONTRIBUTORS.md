@@ -156,3 +156,8 @@
 -[@bruno-aviles](https://github.com/bruno-aviles)
 
 -[@Gomatheeswaran](https://github.com/Gomatheeswaran)
+
+-[@kapshar](https://github.com/kapshar)
+
+- [@DanijelSVK](https://github.com/DanijelSVK)
+
