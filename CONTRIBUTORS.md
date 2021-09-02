@@ -64,6 +64,8 @@
 
 - [@MrdjaS](https://github.com/MrdjaS)
 
+-[@mark123jesper](https://github.com/mark123jesper)
+
 - [@tihusky](https://github.com/tihusky/)
 
 - [@Hansh-1484519](https://github.com/Hansh-1484519/)
@@ -160,3 +162,20 @@
 - [@DanijelSVK](https://github.com/DanijelSVK)
 
 -[@timphamvn33](https://github.com/timphamvn33)
+
+-[@DanijelSVK](https://github.com/DanijelSVK)
+
+-[@Gomatheeswaran](https://github.com/Gomatheeswaran)
+
+-[@almeidapedro07](https://github.com/almeidapedro07)
+
+-[@KyngCoder](https://github.com/KyngCoder)
+
+-[@Clannis](https://github.com/Clannis)
+
+-[@abdullah19000](https://github.com/abdullah19000)
+
+-[@abaran803](http://github.com/abaran803)
+
+-[@Divyateja04](https://github.com/Divyateja04)
+
