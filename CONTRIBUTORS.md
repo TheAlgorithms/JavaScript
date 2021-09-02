@@ -166,3 +166,5 @@
 -[@almeidapedro07](https://github.com/almeidapedro07)
 
 -[@KyngCoder](https://github.com/KyngCoder)
+
+-[@Clannis](https://github.com/Clannis)
