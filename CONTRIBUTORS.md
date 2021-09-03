@@ -396,9 +396,9 @@
 
 - [@DanijelSVK](https://github.com/DanijelSVK)
 
--[@timphamvn33](https://github.com/timphamvn33)
+- [@timphamvn33](https://github.com/timphamvn33)
 
--[@DanijelSVK](https://github.com/DanijelSVK)
+- [@DanijelSVK](https://github.com/DanijelSVK)
 
 - [@hchowdha](https://github.com/hchowdha)
 
@@ -414,9 +414,8 @@
 
 - [@KarlCullington](https://github.com/KarlCullington)
 
--[@Divyateja04](https://github.com/Divyateja04)
+- [@Divyateja04](https://github.com/Divyateja04)
 
 - [@Divyateja04](https://github.com/Divyateja04)
 
--  [@paulotasso7](https://github.com/paulotasso7)
-
+- [@paulotasso7](https://github.com/paulotasso7)
