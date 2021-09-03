@@ -382,6 +382,8 @@
 
 - [@morebeautifulthandoriangray](https://github.com/morebeautifulthandoriangray)
 
+- [@nafumie](https://github.com/nafumie)
+
 - [@eric12s](https://github.com/eric12s)
 
 - [@frontEndJohn](https://github.com/frontEndJohn)
