@@ -382,6 +382,8 @@
 
 - [@morebeautifulthandoriangray](https://github.com/morebeautifulthandoriangray)
 
+- [@nafumie](https://github.com/nafumie)
+
 - [@eric12s](https://github.com/eric12s)
 
 - [@frontEndJohn](https://github.com/frontEndJohn)
@@ -427,5 +429,16 @@
 - [@PatrickDurofchalk](https://github.com/PatrickDurofchalk)
 
 - [@PhilipBeauford](https://github.com/PhilipBeauford)
+
 - [@PhilipBeauford](https://github.com/PhilipBeauford)
+
+- [@PhilipBeauford](https://github.com/PhilipBeauford)
+
+- [@harry7337](https://github.com/harry7337)
+
+- [@oguzBatur](https://github.com/oguzBatur)
+
+- [@ayangupta9](https://github.com/ayangupta9) 
+
+- [@shelupets89](https://github.com/shelupets89) 
 
