@@ -1,26 +1,26 @@
-name: run-python-sort-script
-on: [pull_request]
-jobs:
-  build:
-    name: Run sort-users.py
-    runs-on: ubuntu-latest
-    steps:
-    - name: Pull Repo
-      uses: actions/checkout@v2
-      with:
-        fetch-depth: 0
-        ref: ${{ github.event.pull_request.head.ref }}
-    - name: Install Python 3
-      uses: actions/setup-python@v2
-      with:
-        python-version: 3.9
-    - name: Run script
-      run: python sort-users.py
-    - name: Push Back Formatted Code
-      run: |
-        # configure git
-        git config --global user.name "Zero to Mastery"
-        git config --global user.email "zero-to-mastery@users.noreply.github.com"
-        git add .
-        git commit -m "(CI) format code" || echo "nothing to commit"
-        git push
+# name: run-python-sort-script
+# on: [pull_request]
+# jobs:
+#   build:
+#     name: Run sort-users.py
+#     runs-on: ubuntu-latest
+#     steps:
+#     - name: Pull Repo
+#       uses: actions/checkout@v2
+#       with:
+#         fetch-depth: 0
+#         ref: ${{ github.event.pull_request.head.ref }}
+#     - name: Install Python 3
+#       uses: actions/setup-python@v2
+#       with:
+#         python-version: 3.9
+#     - name: Run script
+#       run: python sort-users.py
+#     - name: Push Back Formatted Code
+#       run: |
+#         # configure git
+#         git config --global user.name "Zero to Mastery"
+#         git config --global user.email "zero-to-mastery@users.noreply.github.com"
+#         git add .
+#         git commit -m "(CI) format code" || echo "nothing to commit"
+#         git push
