@@ -44,6 +44,7 @@
   * [HexToRGB](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/HexToRGB.js)
   * [LowerCaseConversion](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/LowerCaseConversion.js)
   * [OctToDecimal](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/OctToDecimal.js)
+  * [RailwayTimeConversion](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/RailwayTimeConversion.js)
   * [RgbHsvConversion](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/RgbHsvConversion.js)
   * [RGBToHex](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/RGBToHex.js)
   * [RomanToDecimal](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/RomanToDecimal.js)
