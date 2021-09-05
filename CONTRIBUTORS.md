@@ -174,8 +174,6 @@
 
 - [@mpbasto](https://github.com/mpbasto)
 
-=======
-
 - [@dreamzCode](https://github.com/dreamzCode)
 
 - [@JIMMYOOOPS](https://github.com/JIMMYOOOPS/)
@@ -273,8 +271,6 @@
 - [@abdullah19000](https://github.com/abdullah19000)
 
 - [@abaran803](http://github.com/abaran803)
-
->>>>>>> 33baf3d571a5155eff7d97b70dbd62ce91a18774
 
 - [@Prithviraj1810](https://github.com/Prithviraj1810)
 
@@ -462,4 +458,9 @@
 
 - [@MarwanAhmed-96](https://github.com/MarwanAhmed-96)
 
-- [Youssef-Elouasbi](https://github.com/Youssef-Elouasbi)
+- [@Youssef-Elouasbi](https://github.com/Youssef-Elouasbi)
+
+- [@caiman16](https://github.com/caiman16)
+
+- [@Pawnesh03](https://github.com/Pawnesh03)
+
