@@ -5,6 +5,10 @@
 //Best-case performance O(E) 
 //Worst-case space complexity O(V)
 
+//Reference: 
+//https://en.wikipedia.org/wiki/Bellman–Ford_algorithm
+//https://cp-algorithms.com/graph/bellman_ford.html
+
 function BellmanFord(graph, V, E, src)
 {
     // Initialize distance of all vertices as infinite.
