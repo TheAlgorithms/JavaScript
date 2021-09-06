@@ -14,7 +14,7 @@ Reference:
 
 */
 
-function BellmanFord (graph, V, E, src) {
+function BellmanFord (graph, V, E, src, dest) {
   // Initialize distance of all vertices as infinite.
   const dis = Array(V).fill(Infinity)
   // initialize distance of source as 0
@@ -34,12 +34,11 @@ function BellmanFord (graph, V, E, src) {
     const y = graph[i][1]
     const weight = graph[i][2]
     if ((dis[x] !== Infinity) && (dis[x] + weight < dis[y])) {
-      console.log('Graph contains negative weight cycle')
+      return null
     }
   }
-  console.log('Vertex Distance from Source')
   for (let i = 0; i < V; i++) {
-    console.log(i + '   ' + dis[i])
+    if (i === dest) return dis[i]
   }
 }
 
@@ -47,6 +46,7 @@ function main () {
   // Driver code
   const V = 5 // Number of vertices in graph
   const E = 8 // Number of edges in graph
+  const destination = 3 // Destination where we want to reach
 
   // Every edge has three values (u, v, w) where
   // the edge is from vertex u to v. And weight
@@ -56,7 +56,7 @@ function main () {
     [1, 4, 2], [3, 2, 5],
     [3, 1, 1], [4, 3, -3]]
 
-  BellmanFord(graph, V, E, 0)
+  console.log(BellmanFord(graph, V, E, 0, destination))
 }
 
 main()
