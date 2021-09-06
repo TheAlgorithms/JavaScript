@@ -471,3 +471,5 @@
 - [@caesarb-34](https://github.com/caesarb-34)
 
 - [@ufombam](https://github.com/ufombam)
+
+- [@daeima](https://github.com/daeima)
