@@ -20,10 +20,10 @@ const GetEuclidGCD = require('./GetEuclidGCD')
  * @returns return correspond boolean value, if both number are co-prime return `true`, else return `false`.
  */
 const CoPrimeCheck = (firstNumber, secondNumber) => {
-    // firstly, check that input is a number or not.
-    if (typeof firstNumber !== 'number' || typeof secondNumber !== 'number') {
-        return new TypeError('Argument is not a number.');
-    }
+  // firstly, check that input is a number or not.
+  if (typeof firstNumber !== 'number' || typeof secondNumber !== 'number') {
+    return new TypeError('Argument is not a number.')
+  }
   /*
     This is the most efficient algorithm for checking co-primes
     if the GCD of both the numbers is 1 that means they are co-primes.
