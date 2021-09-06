@@ -274,7 +274,7 @@
 
 - [@abaran803](http://github.com/abaran803)
 
->>>>>>> 33baf3d571a5155eff7d97b70dbd62ce91a18774
+> > > > > > > 33baf3d571a5155eff7d97b70dbd62ce91a18774
 
 - [@Prithviraj1810](https://github.com/Prithviraj1810)
 
@@ -471,3 +471,10 @@
 - [@caesarb-34](https://github.com/caesarb-34)
 
 - [@ufombam](https://github.com/ufombam)
+
+- [@daeima](https://github.com/daeima)
+- [@majidshakeelshawl](https://github.com/majidshakeelshawl)
+
+- [@MrMotivated23](https://github.com/MrMotivated23)
+
+- [@Ruby-Zhuang](https://github.com/Ruby-Zhuang)
