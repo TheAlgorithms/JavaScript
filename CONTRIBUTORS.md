@@ -473,3 +473,17 @@
 - [@ufombam](https://github.com/ufombam)
 
 - [@archinmodi](https://github.com/archinmodi)
+
+- [@daeima](https://github.com/daeima)
+
+- [@majidshakeelshawl](https://github.com/majidshakeelshawl)
+
+- [@MrMotivated23](https://github.com/MrMotivated23)
+
+- [@Ruby-Zhuang](https://github.com/Ruby-Zhuang)
+
+- [@emrizki](https://github.com/emrizki)
+
+- [@mars1138](https://github.com/mars1138)
+
+- [@gn01792218](https://github.com/gn01792218)
