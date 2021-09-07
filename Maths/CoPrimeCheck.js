@@ -9,8 +9,14 @@
     is coprime with b.
 */
 
-// Here we require an already implemented method.
-const GetEuclidGCD = require('./GetEuclidGCD')
+// Here we use a GetEuclidGCD method as a utility.
+const GetEuclidGCD = (arg1, arg2) => {
+  let less = arg1 > arg2 ? arg2 : arg1
+  for (less; less >= 2; less--) {
+    if ((arg1 % less === 0) && (arg2 % less === 0)) return (less)
+  }
+  return (less)
+}
 
 // CoPrimeCheck function return the boolean in respect of the given number is co-prime or not.
 /**
