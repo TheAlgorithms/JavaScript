@@ -29,10 +29,14 @@ const CheckKishnamurthyNumber = (number) => {
   // create a variable to store the sum of all digits factorial.
   let sumOfAllDigitFactorial = 0
   // convert the number to string for convenience.
-  String(number).split('').map(digit => {
-    // split one by one digit and calculate factorial and store to the variable.
-    return (sumOfAllDigitFactorial += factorial(Number(digit)))
-  })
+  let newNumber = number
+  // Extract number digits using the remainder method.
+  while (newNumber > 0) {
+    const lastDigit = newNumber % 10
+    // calculate each digit factorial.
+    sumOfAllDigitFactorial += factorial(lastDigit)
+    newNumber = Math.floor(newNumber / 10)
+  }
   // if the sumOftheFactorial is equal to the given number it means the number is a Krishnamurthy number.
   return sumOfAllDigitFactorial === number
 }
