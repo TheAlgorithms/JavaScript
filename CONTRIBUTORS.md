@@ -472,6 +472,8 @@
 
 - [@ufombam](https://github.com/ufombam)
 
+- [@archinmodi](https://github.com/archinmodi)
+
 - [@daeima](https://github.com/daeima)
 
 - [@majidshakeelshawl](https://github.com/majidshakeelshawl)
