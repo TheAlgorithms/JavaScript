@@ -508,3 +508,11 @@
 -[@Zephy11](https://github.com/Zephy11)
 
 -[@willyarrows](https://github.com/willyarrows)
+
+-[@Jacob-Wong](https://github.com/Jacob-Wong)
+
+-[@masih4](https://github.com/masih4)
+
+-[@Apower11](https://github.com/Apower11)
+
+-[@ssanudin](https://github.com/ssanudin)
