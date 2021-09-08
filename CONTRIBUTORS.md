@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@betulince](https://github.com/betulince)
+
 - [@alijouni](https://github.com/alijouni)
 
 - [@mohamedvol1](https://github.com/mohamedvol1/)
@@ -496,3 +498,13 @@
 - [@Anuragtech02](https://github.com/Anuragtech02)
 
 - [@sam-adroit](https://github.com/sam-adroit)
+
+- [@hanakamer](https://github.com/hanakamer)
+
+- [@NikhitaThomas](https://github.com/NikhitaThomas/)
+
+-[@Armand0alexis](https://github.com/Armand0alexis)
+
+-[@Zephy11](https://github.com/Zephy11)
+
+-[@willyarrows](https://github.com/willyarrows)
