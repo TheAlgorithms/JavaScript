@@ -15,7 +15,7 @@ jobs:
     - name: npm install, build, and test
       run: |
         npm install doctest standard --save-dev
-        npx doctest **/*.js || true  # TODO: Add all doctests
+        npx doctest a/b.js c/d.js e/f/g.js h/*.js
         npx standard
         npm ci
         npm run build --if-present
