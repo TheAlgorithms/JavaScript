@@ -204,6 +204,10 @@
 
 - [@developer-metalhead](https://github.com/developer-metalhead/)
 
+- [@johngehring2008](https://github.com/johngehring2008/)
+
+- [@ShubhamSondkar](https://github.com/ShubhamSondkar/)
+
 - [@KnowingWithShrish](https://github.com/KnowingWithShrish)
 
 - [@aniketh-varma](https://github.com/aniketh-varma)
@@ -481,6 +485,7 @@
 - [@majidshakeelshawl](https://github.com/majidshakeelshawl)
 
 - [@ranjang09](https://github.com/ranjang09)
+
 - [@MrMotivated23](https://github.com/MrMotivated23)
 
 - [@Ruby-Zhuang](https://github.com/Ruby-Zhuang)
@@ -503,26 +508,28 @@
 
 - [@NikhitaThomas](https://github.com/NikhitaThomas/)
 
--[@Armand0alexis](https://github.com/Armand0alexis)
+- [@Armand0alexis](https://github.com/Armand0alexis)
 
--[@Zephy11](https://github.com/Zephy11)
+- [@Zephy11](https://github.com/Zephy11)
 
--[@willyarrows](https://github.com/willyarrows)
+- [@willyarrows](https://github.com/willyarrows)
 
--[@Jacob-Wong](https://github.com/Jacob-Wong)
+- [@Jacob-Wong](https://github.com/Jacob-Wong)
 
--[@masih4](https://github.com/masih4)
+- [@masih4](https://github.com/masih4)
 
--[@Apower11](https://github.com/Apower11)
+- [@Apower11](https://github.com/Apower11)
 
--[@ssanudin](https://github.com/ssanudin)
+- [@ssanudin](https://github.com/ssanudin)
 
-[@Ezeh20](https://github.com/Ezeh20)
+- [@Ezeh20](https://github.com/Ezeh20)
 
--[@PradhyumArora](https://github.com/PradhyumArora)
+- [@PradhyumArora](https://github.com/PradhyumArora)
 
 - [@Ushisha](https://github.com/Ushisha)
 
 - [@luscarus](https://github.com/luscarus)
 
 - [@Mihir3](https://github.com/Mihir3)
+
+- [@Aishwarode17](https://github.com/Aishwarode17)
