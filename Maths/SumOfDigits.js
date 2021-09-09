@@ -2,6 +2,7 @@
 	Gets the sum of the digits of the numbers inputted
 	sumOfDigits(10) will return 1 + 0 = 1
 	sumOfDigits(255) will return 2 + 5 + 5 = 12
+	Wikipedia: https://en.wikipedia.org/wiki/Digit_sum
 */
 
 /*
@@ -35,9 +36,9 @@ function sumOfDigitsUsingLoop(number) {
 function sumOfDigitsUsingRecursion(number) {
 	if(number < 0) number = -number;
 
-	if(n < 10) return n;
+	if(number < 10) return number;
 
-	return (n % 10) + sumOfDigitsUsingRecursion(Math.floor(n / 10))
+	return (number % 10) + sumOfDigitsUsingRecursion(Math.floor(number / 10))
 }
 
 export { sumOfDigitsUsingRecursion, sumOfDigitsUsingLoop, sumOfDigitsUsingString };
