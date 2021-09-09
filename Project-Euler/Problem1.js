@@ -10,10 +10,9 @@ const multiplesThreeAndFive = (num) => {
   let total = 0
   // total for calculating the sum
   for (let i = 0; i < num; i++) {
-    if (i % 3 === 0 || i % 5 === 0) {
-      total += i
-    }
+    if (i % 3 === 0 || i % 5 === 0) total += i
   }
+
   return total
 }
 
