@@ -107,6 +107,7 @@
   * [ConvexHullGraham](https://github.com/TheAlgorithms/Javascript/blob/master/Geometry/ConvexHullGraham.js)
 
 ## Graphs
+  * [BellmanFord](https://github.com/TheAlgorithms/Javascript/blob/master/Graphs/BellmanFord.js)
   * [BreadthFirstSearch](https://github.com/TheAlgorithms/Javascript/blob/master/Graphs/BreadthFirstSearch.js)
   * [BreadthFirstShortestPath](https://github.com/TheAlgorithms/Javascript/blob/master/Graphs/BreadthFirstShortestPath.js)
   * [ConnectedComponents](https://github.com/TheAlgorithms/Javascript/blob/master/Graphs/ConnectedComponents.js)
@@ -120,6 +121,8 @@
   * [NodeNeighbors](https://github.com/TheAlgorithms/Javascript/blob/master/Graphs/NodeNeighbors.js)
   * [NumberOfIslands](https://github.com/TheAlgorithms/Javascript/blob/master/Graphs/NumberOfIslands.js)
   * [PrimMST](https://github.com/TheAlgorithms/Javascript/blob/master/Graphs/PrimMST.js)
+  * test
+    * [BellmanFord](https://github.com/TheAlgorithms/Javascript/blob/master/Graphs/test/BellmanFord.test.js)
 
 ## Hashes
   * [SHA1](https://github.com/TheAlgorithms/Javascript/blob/master/Hashes/SHA1.js)
@@ -140,7 +143,9 @@
   * [BinaryConvert](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/BinaryConvert.js)
   * [BinaryExponentiationIterative](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/BinaryExponentiationIterative.js)
   * [BinaryExponentiationRecursive](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/BinaryExponentiationRecursive.js)
+  * [CheckKishnamurthyNumber](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/CheckKishnamurthyNumber.js)
   * [Coordinate](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/Coordinate.js)
+  * [CoPrimeCheck](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/CoPrimeCheck.js)
   * [decimalIsolate](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/decimalIsolate.js)
   * [DegreeToRadian](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/DegreeToRadian.js)
   * [DigitSum](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/DigitSum.js)
