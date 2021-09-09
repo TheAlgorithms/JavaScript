@@ -14,6 +14,17 @@ Reference:
 
 */
 
+/**
+ *
+ * @param graph Graph in the format (u, v, w) where
+ *  the edge is from vertex u to v. And weight
+ *  of the edge is w.
+ * @param V Number of vertices in graph
+ * @param E Number of edges in graph
+ * @param src Starting node
+ * @param dest Destination node
+ * @returns Shortest distance from source to destination
+ */
 function BellmanFord (graph, V, E, src, dest) {
   // Initialize distance of all vertices as infinite.
   const dis = Array(V).fill(Infinity)
@@ -42,21 +53,4 @@ function BellmanFord (graph, V, E, src, dest) {
   }
 }
 
-function main () {
-  // Driver code
-  const V = 5 // Number of vertices in graph
-  const E = 8 // Number of edges in graph
-  const destination = 3 // Destination where we want to reach
-
-  // Every edge has three values (u, v, w) where
-  // the edge is from vertex u to v. And weight
-  // of the edge is w.
-  const graph = [[0, 1, -1], [0, 2, 4],
-    [1, 2, 3], [1, 3, 2],
-    [1, 4, 2], [3, 2, 5],
-    [3, 1, 1], [4, 3, -3]]
-
-  console.log(BellmanFord(graph, V, E, 0, destination))
-}
-
-main()
+export { BellmanFord }
