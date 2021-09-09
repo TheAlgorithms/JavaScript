@@ -526,3 +526,5 @@
 - [@luscarus](https://github.com/luscarus)
 
 - [@Mihir3](https://github.com/Mihir3)
+
+- [@Jejorm](https://github.com/Jejorm)
