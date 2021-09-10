@@ -534,4 +534,6 @@
 
 - [@Aishwarode17](https://github.com/Aishwarode17)
 
+- [@Davi27](https://github.com/Davi27)
+
 - [@sdangoy](https://github.com/sdangoy)
