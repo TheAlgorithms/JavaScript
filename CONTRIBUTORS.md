@@ -545,3 +545,5 @@
 - [@abulyousuf](https://github.com/abulyousuf)
 
 - [@Jejorm](https://github.com/Jejorm)
+
+- [@Nicolas2111](https://github.com/Nicolas2111)
