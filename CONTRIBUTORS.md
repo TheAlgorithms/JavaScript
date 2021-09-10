@@ -537,3 +537,5 @@
 - [@Davi27](https://github.com/Davi27)
 
 - [@sdangoy](https://github.com/sdangoy)
+
+- [@HaylzRandom](https://github.com/HaylzRandom)
