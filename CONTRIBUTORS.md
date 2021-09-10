@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@betulince](https://github.com/betulince)
+
 - [@alijouni](https://github.com/alijouni)
 
 - [@mohamedvol1](https://github.com/mohamedvol1/)
@@ -201,6 +203,10 @@
 - [@gkaframanis](https://github.com/gkaframanis/)
 
 - [@developer-metalhead](https://github.com/developer-metalhead/)
+
+- [@johngehring2008](https://github.com/johngehring2008/)
+
+- [@ShubhamSondkar](https://github.com/ShubhamSondkar/)
 
 - [@KnowingWithShrish](https://github.com/KnowingWithShrish)
 
@@ -472,8 +478,13 @@
 
 - [@ufombam](https://github.com/ufombam)
 
+- [@archinmodi](https://github.com/archinmodi)
+
 - [@daeima](https://github.com/daeima)
+
 - [@majidshakeelshawl](https://github.com/majidshakeelshawl)
+
+- [@ranjang09](https://github.com/ranjang09)
 
 - [@MrMotivated23](https://github.com/MrMotivated23)
 
