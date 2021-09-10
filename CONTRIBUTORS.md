@@ -547,3 +547,8 @@
 - [@Jejorm](https://github.com/Jejorm)
 
 - [@Nicolas2111](https://github.com/Nicolas2111)
+
+- [@Jejorm](https://github.com/Jejorm);
+
+- [@PrakharGupta36](https://github.com/PrakharGupta36);
+
