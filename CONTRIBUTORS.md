@@ -555,3 +555,5 @@
 - [@hecgzz](https://github.com/hecgzz)
 
 - [@amfelso](https://github.com/amfelso)
+
+- [@earlyverdy](https://github.com/earlyverdy)
