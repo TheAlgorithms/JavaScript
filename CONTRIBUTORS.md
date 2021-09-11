@@ -557,3 +557,5 @@
 - [@amfelso](https://github.com/amfelso)
 
 - [@earlyverdy](https://github.com/earlyverdy)
+
+- [@kbailey84](https://github.com/kbailey84)
