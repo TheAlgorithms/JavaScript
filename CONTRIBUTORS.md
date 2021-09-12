@@ -520,6 +520,12 @@
 
 - [@Armand0alexis](https://github.com/Armand0alexis)
 
+-[@Insidiae](https://github.com/Insidiae)
+
+- [@lexlu726](https://github.com/lexlu726)
+
+-[@Zephy11](https://github.com/Zephy11)
+
 - [@Zephy11](https://github.com/Zephy11)
 
 - [@willyarrows](https://github.com/willyarrows)
