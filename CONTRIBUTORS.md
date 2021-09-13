@@ -434,7 +434,7 @@
 
 - [@tiagocostarebelo](https://github.com/tiagocostarebelo)
 
-- [@chirag-ji](https://github.com/chirag-ji) 
+- [@chirag-ji](https://github.com/chirag-ji)
 
 - [@ayush-0111](https://github.com/ayush-0111)
 
@@ -444,7 +444,7 @@
 
 - [@davdwoo](https://github.com/davdwoo/)
 
-- [@frontEndJohn](https://github.com/frontEndJohn) 
+- [@frontEndJohn](https://github.com/frontEndJohn)
 
 - [@Neha9849](https://github.com/Neha9849)
 
@@ -598,15 +598,18 @@
 
 - [@dhsluk](https://github.com/dhsluk)
 
-
 - [@Manideep07](https://github.com/Manideep07)
+
 - [@fawwaz95](https://github.com/fawwaz95)
 
 - [@bthbergheim](https://github.com/bthbergheim/)
+
 - [@BiroGabrielZoltan](https://github.com/BiroGabrielZoltan/)
 
 - [@OmarGit99](https://github.com/OmarGit99/)
 
 - [@tanviranjum1](https://github.com/tanviranjum1/)
 
--[@shubhamk-code](https://github.com/shubhamk-code/)
+- [@shubhamk-code](https://github.com/shubhamk-code/)
+
+- [@manzouri-10](https://github.com/manzouri-10/)
