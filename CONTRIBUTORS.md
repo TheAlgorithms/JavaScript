@@ -78,6 +78,8 @@
 
 - [@hectorg2211](https://github.com/hectorg2211)
 
+- [@Nikhil-1503](https://github.com/Nikhil-1503)
+
 - [@sebgeomag](https://github.com/sebgeomag)
 
 - [@lea19019](https://github.com/lea19019)
@@ -598,7 +600,8 @@
 
 - [@dhsluk](https://github.com/dhsluk)
 
-
 - [@Manideep07](https://github.com/Manideep07)
+
 - [@fawwaz95](https://github.com/fawwaz95)
+
 - [@ayadarwesh](https://github.com/ayadarwesh)
