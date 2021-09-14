@@ -4,6 +4,8 @@
 
 - [@alijouni](https://github.com/alijouni)
 
+- [@PrachetShah](https://github.com/PrachetShah)
+
 - [@mohamedvol1](https://github.com/mohamedvol1/)
 
 - [@hychanbn1009](https://github.com/hychanbn1009/)
@@ -604,6 +606,17 @@
 
 - [@bthbergheim](https://github.com/bthbergheim/)
 
+- [@kumar-vasu](https://github.com/kumar-vasu/)
+
 - [@BiroGabrielZoltan](https://github.com/BiroGabrielZoltan/)
 
-- [@kumar-vasu](https://github.com/kumar-vasu/)
+- [@OmarGit99](https://github.com/OmarGit99/)
+
+- [@tanviranjum1](https://github.com/tanviranjum1/)
+
+-[@shubhamk-code](https://github.com/shubhamk-code/)
+
+-[@priyaVora13](https://github.com/priyaVora13)
+
+-[@AStarrs](https://github.com/AStarrs/)
+
