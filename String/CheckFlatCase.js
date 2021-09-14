@@ -19,4 +19,4 @@ const checkFlatCase = (varname) => {
   return pat.test(varname)
 }
 
-module.exports = CheckFlatCase
+export { checkFlatCase }
