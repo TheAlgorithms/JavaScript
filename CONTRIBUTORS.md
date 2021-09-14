@@ -4,6 +4,8 @@
 
 - [@alijouni](https://github.com/alijouni)
 
+- [@PrachetShah](https://github.com/PrachetShah)
+
 - [@mohamedvol1](https://github.com/mohamedvol1/)
 
 - [@hychanbn1009](https://github.com/hychanbn1009/)
@@ -562,6 +564,10 @@
 
 - [@abulyousuf](https://github.com/abulyousuf)
 
+- [@Jejorm](https://github.com/Jejorm)
+
+- [@Nicolas2111](https://github.com/Nicolas2111)
+
 - [@Jejorm](https://github.com/Jejorm);
 
 - [@PrakharGupta36](https://github.com/PrakharGupta36);
@@ -605,3 +611,23 @@
 - [@fawwaz95](https://github.com/fawwaz95)
 
 - [@ayadarwesh](https://github.com/ayadarwesh)
+
+- [@bthbergheim](https://github.com/bthbergheim/)
+
+- [@BiroGabrielZoltan](https://github.com/BiroGabrielZoltan/)
+
+- [@OmarGit99](https://github.com/OmarGit99/)
+
+- [@tanviranjum1](https://github.com/tanviranjum1/)
+
+- [@shubhamk-code](https://github.com/shubhamk-code/)
+
+- [@priyaVora13](https://github.com/priyaVora13)
+
+- [@AStarrs](https://github.com/AStarrs/)
+
+- [@rajehmerhi](https://github.com/rajehmerhi/)
+
+- [@aayush89890](https://github.com/aayush89890/)
+
+- [@MehrshadKh](https://github.com/MehrshadKh/)
