@@ -614,11 +614,8 @@
 
 - [@bthbergheim](https://github.com/bthbergheim/)
 
-<<<<<<< HEAD
 - [@kumar-vasu](https://github.com/kumar-vasu/)
 
-=======
->>>>>>> a34e4b708c027043bf73fb9e95d36f7555fa430e
 - [@BiroGabrielZoltan](https://github.com/BiroGabrielZoltan/)
 
 - [@OmarGit99](https://github.com/OmarGit99/)
@@ -642,3 +639,19 @@
 - [@MohtasimEram] (https://github.com/MohtasimEram/)
 
 - [@MihaiB11] (https://github.com/MihaiB11/)
+
+- [@hopeful89] (https://github.com/hopeful89/)
+
+- [@sanks20] (https://github.com/sanks20/)
+
+- [@ultimatelokal](https://github.com/ultimatelokal)
+
+-[@Bidyutmaji](https://github.com/Bidyutmaji/)
+
+- [@coderj001](https://github.com/coderj001)
+
+- [@hdahou](https://github.com/hdahou)
+
+-[@zabarullah](https://github.com/zabarullah)
+
+-[@sagarparker](https://github.com/sagarparker)
