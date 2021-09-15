@@ -614,11 +614,8 @@
 
 - [@bthbergheim](https://github.com/bthbergheim/)
 
-<<<<<<< HEAD
 - [@kumar-vasu](https://github.com/kumar-vasu/)
 
-=======
->>>>>>> a34e4b708c027043bf73fb9e95d36f7555fa430e
 - [@BiroGabrielZoltan](https://github.com/BiroGabrielZoltan/)
 
 - [@OmarGit99](https://github.com/OmarGit99/)
@@ -652,3 +649,5 @@
 - [@coderj001](https://github.com/coderj001)
 
 - [@hdahou](https://github.com/hdahou)
+
+- [@Jenique22](https://github.com/Jenique22)
