@@ -1,4 +1,5 @@
 # CONTRIBUTORS
+- [@codingwithkinny](https://github.com/codingwithkinny)
 
 - [@betulince](https://github.com/betulince)
 
