@@ -606,6 +606,8 @@
 
 - [@dhsluk](https://github.com/dhsluk)
 
+- [@Ram-Chandra-Marandi](https://github.com/Ram-Chandra-Marandi)
+
 - [@Manideep07](https://github.com/Manideep07)
 
 - [@fawwaz95](https://github.com/fawwaz95)
@@ -614,11 +616,8 @@
 
 - [@bthbergheim](https://github.com/bthbergheim/)
 
-<<<<<<< HEAD
 - [@kumar-vasu](https://github.com/kumar-vasu/)
 
-=======
->>>>>>> a34e4b708c027043bf73fb9e95d36f7555fa430e
 - [@BiroGabrielZoltan](https://github.com/BiroGabrielZoltan/)
 
 - [@OmarGit99](https://github.com/OmarGit99/)
@@ -626,6 +625,8 @@
 - [@tanviranjum1](https://github.com/tanviranjum1/)
 
 - [@shubhamk-code](https://github.com/shubhamk-code/)
+
+- [@manzouri-10](https://github.com/manzouri-10/)
 
 - [@priyaVora13](https://github.com/priyaVora13)
 
@@ -635,10 +636,30 @@
 
 - [@aayush89890](https://github.com/aayush89890/)
 
-- [@rajehmerhi](https://github.com/rajehmerhi/)
-
 - [@MehrshadKh](https://github.com/MehrshadKh/)
 
 - [@MohtasimEram] (https://github.com/MohtasimEram/)
 
 - [@hopeful89] (https://github.com/hopeful89/)
+
+- [@sanks20] (https://github.com/sanks20/)
+
+- [@ultimatelokal](https://github.com/ultimatelokal)
+
+- [@Bidyutmaji](https://github.com/Bidyutmaji/)
+
+- [@coderj001](https://github.com/coderj001)
+
+- [@hdahou](https://github.com/hdahou)
+
+- [@zabarullah](https://github.com/zabarullah)
+
+- [@sagarparker](https://github.com/sagarparker)
+
+- [@enoch02](https://github.com/enoch02)
+
+- [@lucyd133](https://github.com/lucyd133)
+
+- [@AnweshaRoutray](https://github.com/AnweshaRoutray/)
+
+-[@MdIrfan-ul](https://github.com/MdIrfan-ul/)
