@@ -268,6 +268,8 @@
 
 - [@VictorFajardo](https://github.com/VictorFajardo)
 
+- [@Vijay2249](https://github.com/vijay2249)
+
 - [@Vikas](https://github.com/vikaspandey18)
 
 - [@Wickerman24](https://github.com/Wickerman24)
@@ -704,4 +706,3 @@
 
 - [@zabarullah](https://github.com/zabarullah)
 
-- [@Vijay2249](https://github.com/vijay2249)
