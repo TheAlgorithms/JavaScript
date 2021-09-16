@@ -502,6 +502,8 @@
 
 - [@kbailey84](https://github.com/kbailey84)
 
+- [@kidus1o1](https://github.com/kidus1o1/)
+
 - [@kmohana](https://github.com/kmohana)
 
 - [@krish98](https://github.com/krish-98)
@@ -705,4 +707,4 @@
 - [@yogi1917](https://github.com/Yogi1917)
 
 - [@zabarullah](https://github.com/zabarullah)
-- [@kidus1o1](https://github.com/kidus1o1/)
+
