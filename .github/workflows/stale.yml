@@ -1,0 +1,19 @@
+name: 'Stale Handler'
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '* * * * *'
+
+jobs:
+  stale:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/stale@main
+        id: stale
+        with:
+          stale-issue-message: 'This issue has been automatically marked as stale because it has not had recent activity. It will be closed if no further activity occurs. If your PR has a merge conflict, it must be resolved before it can be merged. Thank you for your contributions.'
+          days-before-stale: 10
+          days-before-close: 5
+          exempt-issue-labels: 'pinned,security'
+      - name: Print outputs
+        run: echo ${{ join(steps.stale.outputs.*, ',') }}
