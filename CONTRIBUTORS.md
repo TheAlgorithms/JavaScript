@@ -414,6 +414,8 @@
 
 - [@dinopoblete](https://github.com/dino-poblete/)
 
+- [@dipanjanroy2](https://github.com/dipanjanroy2/)
+
 - [@doniwirawan](https://github.com/doniwirawan)
 
 - [@dreamzCode](https://github.com/dreamzCode)
@@ -716,4 +718,3 @@
 
 - [@zabarullah](https://github.com/zabarullah)
 
-- [@dipanjanroy2](https://github.com/dipanjanroy2/)
