@@ -58,6 +58,8 @@
 
 - [@BiroGabrielZoltan](https://github.com/BiroGabrielZoltan/)
 
+- [@BirukN](https://github.com/Biruk-N)
+
 - [@BrandonMagana](https://github.com/BrandonMagana)
 
 - [@ChristianJayDC](https://github.com/ChristianJayDC)
@@ -710,4 +712,3 @@
 
 - [@zabarullah](https://github.com/zabarullah)
 
-- [@BirukN](https://github.com/Biruk-N)
