@@ -58,6 +58,8 @@
 
 - [@BiroGabrielZoltan](https://github.com/BiroGabrielZoltan/)
 
+- [@BirukN](https://github.com/Biruk-N)
+
 - [@BrandonMagana](https://github.com/BrandonMagana)
 
 - [@ChristianJayDC](https://github.com/ChristianJayDC)
@@ -340,6 +342,8 @@
 
 - [@arturoturris](https://github.com/arturoturris)
 
+- [@arviinmo](https://github.com/arviinmo)
+
 - [@asharma9818](https://github.com/asharma9818/)
 
 - [@avilovi](https://github.com/avilovi)
@@ -473,6 +477,8 @@
 - [@hswootan](https://github.com/hswootan/)
 
 - [@hychanbn1009](https://github.com/hychanbn1009/)
+
+- [@jacksaunders93](https://github.com/JackSaunders93)
 
 - [@jadepage](https://github.com/jadepage)
 
