@@ -342,6 +342,8 @@
 
 - [@arturoturris](https://github.com/arturoturris)
 
+- [@arviinmo](https://github.com/arviinmo)
+
 - [@asharma9818](https://github.com/asharma9818/)
 
 - [@avilovi](https://github.com/avilovi)
@@ -712,4 +714,3 @@
 
 - [@zabarullah](https://github.com/zabarullah)
 
--[@arviinmo](https://github.com/arviinmo)
