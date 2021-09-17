@@ -478,6 +478,8 @@
 
 - [@hychanbn1009](https://github.com/hychanbn1009/)
 
+- [@jacksaunders93](https://github.com/JackSaunders93)
+
 - [@jadepage](https://github.com/jadepage)
 
 - [@jango070](https://github.com/jango-070/)
@@ -714,4 +716,3 @@
 
 - [@zabarullah](https://github.com/zabarullah)
 
--[@jacksaunders93](https://github.com/JackSaunders93)
