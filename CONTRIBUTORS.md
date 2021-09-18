@@ -686,6 +686,8 @@
 
 - [@tulokas](https://github.com/tulokas)
 
+- [@tydiaz](https://github.com/tydiaz)
+
 - [@udaay](https://github.com/Udaay)
 
 - [@ufombam](https://github.com/ufombam)
@@ -708,4 +710,3 @@
 
 - [@zabarullah](https://github.com/zabarullah)
 
-- [@tydiaz](https://github.com/tydiaz)
