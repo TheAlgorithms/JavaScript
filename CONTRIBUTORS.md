@@ -694,6 +694,8 @@
 
 - [@timphamvn33](https://github.com/timphamvn33)
 
+- [@tnehd1998](https://github.com/tnehd1998)
+
 - [@tranfh](https://github.com/tranfh)
 
 - [@tulokas](https://github.com/tulokas)
@@ -722,4 +724,3 @@
 
 - [@zabarullah](https://github.com/zabarullah)
 
-- [@tnehd1998](https://github.com/tnehd1998)
