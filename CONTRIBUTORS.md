@@ -116,6 +116,8 @@
 
 - [@JayantGoel001](https://github.com/JayantGoel001)
 
+- [@JayantGoel001](https://github.com/JayantGoel001)
+
 - [@Jejorm](https://github.com/Jejorm)
 
 - [@JoeBoy61](https://github.com/JoeBoy61)
@@ -706,4 +708,3 @@
 
 - [@zabarullah](https://github.com/zabarullah)
 
-- [@JayantGoel001](https://github.com/JayantGoel001)
