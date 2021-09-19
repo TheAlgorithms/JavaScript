@@ -514,6 +514,8 @@
 
 - [@kmohana](https://github.com/kmohana)
 
+- [@kneo002](https://github.com/kneo002)
+
 - [@krish98](https://github.com/krish-98)
 
 - [@kumarvasu](https://github.com/kumar-vasu/)
@@ -716,4 +718,3 @@
 
 - [@zabarullah](https://github.com/zabarullah)
 
-- [@kneo002](https://github.com/kneo002)
