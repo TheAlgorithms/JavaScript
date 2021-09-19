@@ -276,6 +276,8 @@
 
 - [@Wickerman24](https://github.com/Wickerman24)
 
+- [@Xslasher21](https://github.com/Xslasher21)
+
 - [@YoussefElouasbi](https://github.com/Youssef-Elouasbi)
 
 - [@Zephy11](https://github.com/Zephy11)
@@ -712,4 +714,3 @@
 
 - [@zabarullah](https://github.com/zabarullah)
 
-- [@Xslasher21](https://github.com/Xslasher21)
