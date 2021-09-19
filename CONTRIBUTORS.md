@@ -336,6 +336,8 @@
 
 - [@anikethvarma](https://github.com/aniketh-varma)
 
+- [@anthonyjwwong](https://github.com/anthonyjwwong)
+
 - [@archinmodi](https://github.com/archinmodi)
 
 - [@archit009](https://github.com/archit009)
@@ -724,4 +726,3 @@
 
 - [@zabarullah](https://github.com/zabarullah)
 
-- [@anthonyjwwong](https://github.com/anthonyjwwong)
