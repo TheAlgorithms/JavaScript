@@ -114,6 +114,8 @@
 
 - [@Jaffery](https://github.com/jafferytech110)
 
+- [@Janithabhayarathna](https://github.com/Janithabhayarathna)
+
 - [@JayantGoel001](https://github.com/JayantGoel001)
 
 - [@JayantGoel001](https://github.com/JayantGoel001)
@@ -714,4 +716,3 @@
 
 - [@zabarullah](https://github.com/zabarullah)
 
--[@Janithabhayarathna](https://github.com/Janithabhayarathna)
