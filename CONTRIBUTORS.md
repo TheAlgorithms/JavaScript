@@ -186,8 +186,6 @@
 
 - [@MylesTheCoder](https://github.com/Myles-The-Coder/)
 
-- [@nandumoura](https://github.com/nandumoura)
-
 - [@Naveed333](https://github.com/Naveed333)
 
 - [@Nawang06](http://github.com/Nawang06)
@@ -569,6 +567,8 @@
 - [@mpbasto](https://github.com/mpbasto)
 
 - [@mrobin](https://github.com/mrobin132)
+
+- [@nandumoura](https://github.com/nandumoura)
 
 - [@nigkhar23](https://github.com/nigkhar23)
 
