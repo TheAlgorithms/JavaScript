@@ -228,6 +228,8 @@
 
 - [@RamChandraMarandi](https://github.com/Ram-Chandra-Marandi)
 
+- [@Ranaak](https://github.com/Rana-a-k)
+
 - [@Rankind94](https://github.com/Rankind94)
 
 - [@Raunak173](https://github.com/Raunak173)
@@ -722,4 +724,3 @@
 
 - [@zabarullah](https://github.com/zabarullah)
 
-- [@Rana-a-k](https://github.com/Rana-a-k)
