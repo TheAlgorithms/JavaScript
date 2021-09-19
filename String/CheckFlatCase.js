@@ -1,13 +1,15 @@
-// CheckFlatCase method checks the given string is in flatcase or not.
+// checkFlatCase method checks if the given string is in flatcase or not. Flatcase is a convention
+// where all letters are in lowercase, and there are no spaces between words.
+// thisvariable is an example of flatcase. In camelCase it would be thisVariable, snake_case this_variable and so on.
 
 // Problem Source & Explanation: https://en.wikipedia.org/wiki/Naming_convention_(programming)
 
 /**
- * CheckFlatCase method returns true if the string in flatcase, else return the false.
- * @param {String} varname the name of the variable to check.
- * @returns `Boolean` return true if the string is in flatcase, else return false.
+ * checkFlatCase method returns true if the string in flatcase, else return the false.
+ * @param {string} varname the name of the variable to check.
+ * @returns {boolean} return true if the string is in flatcase, else return false.
  */
-const CheckFlatCase = (varname) => {
+const checkFlatCase = (varname) => {
   // firstly, check that input is a string or not.
   if (typeof varname !== 'string') {
     return new TypeError('Argument is not a string.')
@@ -17,4 +19,4 @@ const CheckFlatCase = (varname) => {
   return pat.test(varname)
 }
 
-module.exports = CheckFlatCase
+export { checkFlatCase }

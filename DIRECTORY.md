@@ -186,6 +186,7 @@
   * [SieveOfEratosthenes](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/SieveOfEratosthenes.js)
   * [Softmax](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/Softmax.js)
   * [SquareRoot](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/SquareRoot.js)
+  * [SumOfDigits](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/SumOfDigits.js)
   * test
     * [Abs](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/test/Abs.test.js)
     * [Area](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/test/Area.test.js)
@@ -223,6 +224,7 @@
     * [ReversePolishNotation](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/test/ReversePolishNotation.test.js)
     * [SieveOfEratosthenes](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/test/SieveOfEratosthenes.test.js)
     * [Softmax](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/test/Softmax.test.js)
+    * [SumOfDigits](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/test/SumOfDigits.test.js)
     * [Volume](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/test/Volume.test.js)
   * [Volume](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/Volume.js)
   * [WhileLoopFactorial](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/WhileLoopFactorial.js)
@@ -293,6 +295,8 @@
   * [OddEvenSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/OddEvenSort.js)
   * [PigeonHoleSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/PigeonHoleSort.js)
   * [QuickSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/QuickSort.js)
+  * [QuickSortRecursive](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/QuickSortRecursive.js)
+  * [QuickSortRecursive](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/QuickSortRecursive.test.js)
   * [RadixSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/RadixSort.js)
   * [SelectionSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/SelectionSort.js)
   * [SelectionSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/SelectionSort.test.js)
@@ -333,6 +337,7 @@
   * [ReverseWords](https://github.com/TheAlgorithms/Javascript/blob/master/String/ReverseWords.js)
   * test
     * [CheckAnagram](https://github.com/TheAlgorithms/Javascript/blob/master/String/test/CheckAnagram.test.js)
+    * [CheckFlatCase](https://github.com/TheAlgorithms/Javascript/blob/master/String/test/CheckFlatCase.test.js)
     * [CheckPalindrome](https://github.com/TheAlgorithms/Javascript/blob/master/String/test/CheckPalindrome.test.js)
     * [CheckPangram](https://github.com/TheAlgorithms/Javascript/blob/master/String/test/CheckPangram.test.js)
     * [CreatePermutations](https://github.com/TheAlgorithms/Javascript/blob/master/String/test/CreatePermutations.test.js)
