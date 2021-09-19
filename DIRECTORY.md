@@ -295,6 +295,8 @@
   * [OddEvenSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/OddEvenSort.js)
   * [PigeonHoleSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/PigeonHoleSort.js)
   * [QuickSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/QuickSort.js)
+  * [QuickSortRecursive](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/QuickSortRecursive.js)
+  * [QuickSortRecursive](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/QuickSortRecursive.test.js)
   * [RadixSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/RadixSort.js)
   * [SelectionSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/SelectionSort.js)
   * [SelectionSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/SelectionSort.test.js)
