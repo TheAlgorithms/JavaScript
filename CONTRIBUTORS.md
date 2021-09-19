@@ -74,6 +74,8 @@
 
 - [@Davi27](https://github.com/Davi27)
 
+- [@DeanFowler](https://github.com/DeanFowler)
+
 - [@DivRaw](https://github.com/DivRaw)
 
 - [@Divyateja04](https://github.com/Divyateja04)
@@ -720,4 +722,3 @@
 
 - [@zabarullah](https://github.com/zabarullah)
 
-- [@DeanFowler](https://github.com/DeanFowler)
