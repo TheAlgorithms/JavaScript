@@ -74,6 +74,8 @@
 
 - [@Davi27](https://github.com/Davi27)
 
+- [@DeanFowler](https://github.com/DeanFowler)
+
 - [@DivRaw](https://github.com/DivRaw)
 
 - [@Divyateja04](https://github.com/Divyateja04)
@@ -113,6 +115,10 @@
 - [@JacobWong](https://github.com/Jacob-Wong)
 
 - [@Jaffery](https://github.com/jafferytech110)
+
+- [@Janithabhayarathna](https://github.com/Janithabhayarathna)
+
+- [@JayantGoel001](https://github.com/JayantGoel001)
 
 - [@JayantGoel001](https://github.com/JayantGoel001)
 
@@ -250,6 +256,8 @@
 
 - [@Sproff](https://github.com/Sproff)
 
+- [@Subhocodegeek](https://github.com/Subho-codegeek)
+
 - [@SuperStar090703](https://github.com/SuperStar090703/)
 
 - [@Supratim30](https://github.com/Supratim30)
@@ -271,6 +279,8 @@
 - [@Vikas](https://github.com/vikaspandey18)
 
 - [@Wickerman24](https://github.com/Wickerman24)
+
+- [@Xslasher21](https://github.com/Xslasher21)
 
 - [@YoussefElouasbi](https://github.com/Youssef-Elouasbi)
 
@@ -470,6 +480,8 @@
 
 - [@hychanbn1009](https://github.com/hychanbn1009/)
 
+- [@ilian6806](https://github.com/ilian6806)
+
 - [@jacksaunders93](https://github.com/JackSaunders93)
 
 - [@jadepage](https://github.com/jadepage)
@@ -505,6 +517,8 @@
 - [@kidus1o1](https://github.com/kidus1o1/)
 
 - [@kmohana](https://github.com/kmohana)
+
+- [@kneo002](https://github.com/kneo002)
 
 - [@krish98](https://github.com/krish-98)
 
@@ -684,6 +698,8 @@
 
 - [@tulokas](https://github.com/tulokas)
 
+- [@tydiaz](https://github.com/tydiaz)
+
 - [@udaay](https://github.com/Udaay)
 
 - [@ufombam](https://github.com/ufombam)
@@ -706,4 +722,3 @@
 
 - [@zabarullah](https://github.com/zabarullah)
 
-- [@JayantGoel001](https://github.com/JayantGoel001)
