@@ -32,6 +32,7 @@ const quickSort = (inputList, low, high) => {
     quickSort(inputList, low, pIndex - 1)
     quickSort(inputList, pIndex + 1, high)
   }
+  return inputList
 }
 
 /**
