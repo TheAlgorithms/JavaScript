@@ -22,6 +22,9 @@
  * @param {number} high higher index for partition.
  */
 const quickSort = (inputList, low, high) => {
+  if (!Array.isArray(inputList)) {
+    throw new TypeError('Please input a valid list or array.')
+  }
   if (low < high) {
     // get the partition index.
     const pIndex = partition(inputList, low, high)
