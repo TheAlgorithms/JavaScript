@@ -452,6 +452,8 @@
 
 - [@frontEndJohn](https://github.com/frontEndJohn)
 
+- [@funnyr0b0t](https://github.com/funnyr0b0t)
+
 - [@gastighost](https://github.com/gastighost)
 
 - [@gkaframanis](https://github.com/gkaframanis/)
@@ -734,4 +736,3 @@
 
 - [@zabarullah](https://github.com/zabarullah)
 
-- [@funnyr0b0t](https://github.com/funnyr0b0t)
