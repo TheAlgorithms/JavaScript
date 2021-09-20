@@ -148,6 +148,8 @@
 
 - [@KyngCoder](https://github.com/KyngCoder)
 
+- [@Kynot54](https://github.com/Kynot54)
+
 - [@Lilyilinet](https://github.com/Lilyilinet)
 
 - [@LinTsaiI](https://github.com/LinTsaiI)
@@ -727,6 +729,4 @@
 - [@yogi1917](https://github.com/Yogi1917)
 
 - [@zabarullah](https://github.com/zabarullah)
-
-- [@Kynot54](https://github.com/Kynot54)
 
