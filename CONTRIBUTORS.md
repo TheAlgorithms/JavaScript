@@ -378,6 +378,8 @@
 
 - [@cemilcrypto](https://github.com/cemil-crypto/)
 
+- [@cfanjos](https://github.com/cfanjos)
+
 - [@chadelofson](https://github.com/chadelofson)
 
 - [@chiragji](https://github.com/chirag-ji)
@@ -736,4 +738,3 @@
 
 - [@zabarullah](https://github.com/zabarullah)
 
-- [@cfanjos](https://github.com/cfanjos)
