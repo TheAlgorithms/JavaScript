@@ -502,6 +502,8 @@
 
 - [@jeddy019](https://github.com/jeddy019)
 
+- [@jlangenhagen](https://github.com/jlangenhagen)
+
 - [@johngehring2008](https://github.com/johngehring2008/)
 
 - [@jtalway](https://github.com/jtalway)
@@ -732,4 +734,3 @@
 
 - [@zabarullah](https://github.com/zabarullah)
 
-- [@jlangenhagen](https://github.com/jlangenhagen)
