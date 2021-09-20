@@ -562,6 +562,8 @@
 
 - [@masih4](https://github.com/masih4)
 
+- [@mizitr](https://github.com/mizitr)
+
 - [@mleduccl](https://github.com/mleduccl/)
 
 - [@mohamedvol1](https://github.com/mohamedvol1/)
@@ -729,6 +731,4 @@
 - [@yogi1917](https://github.com/Yogi1917)
 
 - [@zabarullah](https://github.com/zabarullah)
-
-- [@mizitr](https://github.com/mizitr)
 
