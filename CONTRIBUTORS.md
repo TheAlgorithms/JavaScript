@@ -148,6 +148,8 @@
 
 - [@KyngCoder](https://github.com/KyngCoder)
 
+- [@Kynot54](https://github.com/Kynot54)
+
 - [@Lilyilinet](https://github.com/Lilyilinet)
 
 - [@LinTsaiI](https://github.com/LinTsaiI)
@@ -227,6 +229,8 @@
 - [@Prithviraj1810](https://github.com/Prithviraj1810)
 
 - [@RamChandraMarandi](https://github.com/Ram-Chandra-Marandi)
+
+- [@Ranaak](https://github.com/Rana-a-k)
 
 - [@Rankind94](https://github.com/Rankind94)
 
@@ -333,6 +337,8 @@
 - [@anettta](https://github.com/anettta)
 
 - [@anikethvarma](https://github.com/aniketh-varma)
+
+- [@anthonyjwwong](https://github.com/anthonyjwwong)
 
 - [@archinmodi](https://github.com/archinmodi)
 
@@ -556,6 +562,8 @@
 
 - [@masih4](https://github.com/masih4)
 
+- [@mizitr](https://github.com/mizitr)
+
 - [@mleduccl](https://github.com/mleduccl/)
 
 - [@mohamedvol1](https://github.com/mohamedvol1/)
@@ -563,6 +571,8 @@
 - [@mpbasto](https://github.com/mpbasto)
 
 - [@mrobin](https://github.com/mrobin132)
+
+- [@nandumoura](https://github.com/nandumoura)
 
 - [@nigkhar23](https://github.com/nigkhar23)
 
