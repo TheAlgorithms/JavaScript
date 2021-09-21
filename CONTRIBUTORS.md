@@ -692,6 +692,8 @@
 
 - [@suredanish](https://github.com/suredanish)
 
+- [@suvercall580](https://github.com/suvercall580)
+
 - [@swaydevstan](https://github.com/swaydevstan/)
 
 - [@tanviranjum1](https://github.com/tanviranjum1/)
@@ -740,4 +742,3 @@
 
 - [@zabarullah](https://github.com/zabarullah)
 
-- [@suvercall580](https://github.com/suvercall580)
