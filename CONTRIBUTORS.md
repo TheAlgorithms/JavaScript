@@ -550,6 +550,8 @@
 
 - [@lgolin](https://github.com/lgolin/)
 
+- [@lokesh1998](https://github.com/lokesh1998)
+
 - [@lopsluan](https://github.com/lopsluan)
 
 - [@lsherman2](https://github.com/lsherman2)
@@ -744,4 +746,3 @@
 
 - [@zabarullah](https://github.com/zabarullah)
 
-- [@lokesh1998](https://github.com/lokesh1998)
