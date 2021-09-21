@@ -7,6 +7,7 @@
 ![update_directory_md](https://github.com/TheAlgorithms/Javascript/workflows/update_directory_md/badge.svg)
 [![Discord chat](https://img.shields.io/discord/808045925556682782.svg?logo=discord&colorB=7289DA&style=flat-square)](https://discord.gg/c7MnfGFGa6)
 ![](https://img.shields.io/github/repo-size/TheAlgorithms/Javascript.svg?label=Repo%20size&style=flat-square)&nbsp;
+[![standard.js](https://img.shields.io/badge/code%20style-standardjs-%23f3df49)](https://standardjs.com/)
 
 
 ### All algorithms implemented in JavaScript (for educational purposes only)
