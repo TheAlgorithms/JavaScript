@@ -376,6 +376,8 @@
 
 - [@caiman16](https://github.com/caiman16)
 
+- [@catalinalexandru](https://github.com/catalin-alexandru)
+
 - [@ceelogre](https://github.com/ceelogre)
 
 - [@cemilcrypto](https://github.com/cemil-crypto/)
@@ -741,6 +743,4 @@
 - [@yogi1917](https://github.com/Yogi1917)
 
 - [@zabarullah](https://github.com/zabarullah)
-
--[@catalin-alexandru](https://github.com/catalin-alexandru)
 
