@@ -112,6 +112,8 @@
 
 - [@JIMMYOOOPS](https://github.com/JIMMYOOOPS/)
 
+- [@JacobHasan](https://github.com/Jacob-Hasan)
+
 - [@JacobWong](https://github.com/Jacob-Wong)
 
 - [@Jaffery](https://github.com/jafferytech110)
@@ -748,4 +750,3 @@
 
 - [@zabarullah](https://github.com/zabarullah)
 
-- [@Jacob-Hasan](https://github.com/Jacob-Hasan)
