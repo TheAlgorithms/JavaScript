@@ -550,6 +550,8 @@
 
 - [@lea19019](https://github.com/lea19019)
 
+- [@lenspira](https://github.com/lenspira)
+
 - [@leoenss](https://github.com/leoenss)
 
 - [@lexlu726](https://github.com/lexlu726)
@@ -754,4 +756,3 @@
 
 - [@zabarullah](https://github.com/zabarullah)
 
-- [@lenspira](https://github.com/lenspira)
