@@ -502,6 +502,8 @@
 
 - [@hswootan](https://github.com/hswootan/)
 
+- [@htuohz](https://github.com/htuohz)
+
 - [@hychanbn1009](https://github.com/hychanbn1009/)
 
 - [@ilian6806](https://github.com/ilian6806)
@@ -759,6 +761,4 @@
 - [@yogi1917](https://github.com/Yogi1917)
 
 - [@zabarullah](https://github.com/zabarullah)
-
-- [@htuohz](https://github.com/htuohz)
 
