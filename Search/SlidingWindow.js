@@ -12,9 +12,9 @@
 * Time Complexity: Best - O(n);
 *
 * Examples:
-* slidingWindow([1,2,5,2,8,1,5],2) // returns 10
-* slidingWindow([1,2,5,2,8,1,5],15) // returns null
-* slidingWindow([5,2,6,9],3) // returns 17
+* maxSubarraySum([1,2,5,2,8,1,5],2) // returns 10
+* maxSubarraySum([1,2,5,2,8,1,5],15) // returns null
+* maxSubarraySum([5,2,6,9],3) // returns 17
  * @param {[Int]} arr - An array of integers on which we will perform the test.
  * @param {Int} num - An integer that displays the size of the window you want to check.
  * @returns {Int / Null} - Returns a total of N consecutive numbers or null
@@ -43,3 +43,6 @@ function slidingWindow (arr, num) {
   }
   return maxSum
 }
+
+export { slidingWindow }
+
