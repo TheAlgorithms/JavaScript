@@ -43,9 +43,3 @@ function slidingWindow (arr, num) {
   }
   return maxSum
 }
-
-// ↓↓↓↓↓↓↓↓↓↓↓↓ Test The Function ↓↓↓↓↓↓↓↓↓↓↓↓
-
-console.log(slidingWindow([1, 2, 5, 2, 8, 1, 5], 2)) // return 10
-console.log(slidingWindow([1, 2, 5, 2, 8, 1, 5], 15)) // return null
-console.log(slidingWindow([5, 2, 6, 9], 3)) // return 17
