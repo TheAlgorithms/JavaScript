@@ -1,3 +1,4 @@
+// An [Anagram](https://en.wikipedia.org/wiki/Anagram) is a string that is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once.
 // Anagram check is case sensitive; i.e. Aba and aba is not a anagram.
 // inputs are strings i.e. str1 and str2
 const checkAnagram = (str1, str2) => {
