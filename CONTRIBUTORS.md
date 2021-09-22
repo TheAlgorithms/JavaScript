@@ -584,6 +584,8 @@
 
 - [@madura](https://github.com/madura/)
 
+- [@madurayasantha](http://github.com/madurayasantha)
+
 - [@majidshakeelshawl](https://github.com/majidshakeelshawl)
 
 - [@malkavianleon](https://github.com/malkavianleon/)
@@ -772,4 +774,3 @@
 
 - [@zabarullah](https://github.com/zabarullah)
 
-- [@madurayasantha](http://github.com/madurayasantha)
