@@ -412,6 +412,8 @@
 
 - [@cynthia0713](https://github.com/cynthia0713)
 
+- [@cyrilechristian](https://github.com/cyrilechristian)
+
 - [@daeima](https://github.com/daeima)
 
 - [@davdwoo](https://github.com/davdwoo/)
@@ -762,4 +764,3 @@
 
 - [@zabarullah](https://github.com/zabarullah)
 
-- [@cyrilechristian] (https://github.com/cyrilechristian)
