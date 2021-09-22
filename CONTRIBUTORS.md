@@ -582,6 +582,8 @@
 
 - [@luscarus](https://github.com/luscarus)
 
+- [@madura](https://github.com/madura/)
+
 - [@majidshakeelshawl](https://github.com/majidshakeelshawl)
 
 - [@malkavianleon](https://github.com/malkavianleon/)
@@ -770,4 +772,3 @@
 
 - [@zabarullah](https://github.com/zabarullah)
 
-- [@madura](https://github.com/madura/)
