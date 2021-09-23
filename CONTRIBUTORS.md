@@ -420,6 +420,8 @@
 
 - [@cwhite2776](https://github.com/cwhite2776)
 
+- [@cyclemike](https://github.com/cyclemike)
+
 - [@cynthia0713](https://github.com/cynthia0713)
 
 - [@cyrilechristian](https://github.com/cyrilechristian)
@@ -786,4 +788,3 @@
 
 - [@zabarullah](https://github.com/zabarullah)
 
-- [@cyclemike](https://github.com/cyclemike)
