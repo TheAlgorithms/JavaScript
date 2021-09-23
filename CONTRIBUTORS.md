@@ -134,6 +134,8 @@
 
 - [@Jejorm](https://github.com/Jejorm)
 
+- [@Jizzyjay](https://github.com/Jizzyjay)
+
 - [@JoeBoy61](https://github.com/JoeBoy61)
 
 - [@JosielMatos](https://github.com/JosielMatos)
@@ -159,6 +161,8 @@
 - [@KyngCoder](https://github.com/KyngCoder)
 
 - [@Kynot54](https://github.com/Kynot54)
+
+- [@LRAFam](https://github.com/LRAFam)
 
 - [@Lilyilinet](https://github.com/Lilyilinet)
 
@@ -595,6 +599,8 @@
 - [@lsherman2](https://github.com/lsherman2)
 
 - [@lucyd133](https://github.com/lucyd133)
+
+- [@lunatic7](https://github.com/lunatic-7)
 
 - [@luscarus](https://github.com/luscarus)
 
