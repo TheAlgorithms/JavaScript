@@ -32,6 +32,8 @@
 
 - [@Akashkumar2898](https://github.com/Akashkumar2898)
 
+- [@AmitMorade](https://github.com/Amit-Morade)
+
 - [@Anco2](https://github.com/Anco2)
 
 - [@AndyBowskill](https://github.com/AndyBowskill)
@@ -262,6 +264,8 @@
 
 - [@Sapphireyed](https://github.com/Sapphireyed)
 
+- [@Sarthakischauhan](https://github.com/Sarthakischauhan)
+
 - [@Schandroid243](https://github.com/Schandroid243)
 
 - [@SebastianAdi](https://github.com/SebastianAdi)
@@ -346,6 +350,8 @@
 
 - [@almeidapedro07](https://github.com/almeidapedro07)
 
+- [@alsung](https://github.com/alsung)
+
 - [@amfelso](https://github.com/amfelso)
 
 - [@amirahmedimtiaz](https://github.com/amirahmedimtiaz/)
@@ -402,6 +408,8 @@
 
 - [@chadelofson](https://github.com/chadelofson)
 
+- [@chamikarajanapriya85](https://github.com/chamikarajanapriya85/)
+
 - [@chiragji](https://github.com/chirag-ji)
 
 - [@chirayumit001](https://github.com/chirayumit001)
@@ -415,6 +423,8 @@
 - [@codingwithkinny](https://github.com/codingwithkinny)
 
 - [@cwhite2776](https://github.com/cwhite2776)
+
+- [@cyclemike](https://github.com/cyclemike)
 
 - [@cynthia0713](https://github.com/cynthia0713)
 
@@ -445,6 +455,8 @@
 - [@dinopoblete](https://github.com/dino-poblete/)
 
 - [@dipanjanroy2](https://github.com/dipanjanroy2/)
+
+- [@divyanshugehlot](https://github.com/divyanshugehlot/)
 
 - [@doniwirawan](https://github.com/doniwirawan)
 
@@ -477,6 +489,8 @@
 - [@frontEndJohn](https://github.com/frontEndJohn)
 
 - [@funnyr0b0t](https://github.com/funnyr0b0t)
+
+- [@fznmlk](https://github.com/fznmlk)
 
 - [@gastighost](https://github.com/gastighost)
 
@@ -531,6 +545,8 @@
 - [@jeddy019](https://github.com/jeddy019)
 
 - [@jlangenhagen](https://github.com/jlangenhagen)
+
+- [@john012516](https://github.com/john012516/)
 
 - [@johngehring2008](https://github.com/johngehring2008/)
 
@@ -609,6 +625,8 @@
 - [@mpbasto](https://github.com/mpbasto)
 
 - [@mrobin](https://github.com/mrobin132)
+
+- [@msimao96](https://github.com/msimao96)
 
 - [@nandumoura](https://github.com/nandumoura)
 
