@@ -534,6 +534,8 @@
 
 - [@jlangenhagen](https://github.com/jlangenhagen)
 
+- [@john012516](https://github.com/john012516/)
+
 - [@johngehring2008](https://github.com/johngehring2008/)
 
 - [@jtalway](https://github.com/jtalway)
@@ -775,6 +777,4 @@
 - [@yogi1917](https://github.com/Yogi1917)
 
 - [@zabarullah](https://github.com/zabarullah)
-
--[@john012516](https://github.com/john012516/)
 
