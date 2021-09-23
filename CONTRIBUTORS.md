@@ -262,6 +262,8 @@
 
 - [@Sapphireyed](https://github.com/Sapphireyed)
 
+- [@Sarthakischauhan](https://github.com/Sarthakischauhan)
+
 - [@Schandroid243](https://github.com/Schandroid243)
 
 - [@SebastianAdi](https://github.com/SebastianAdi)
@@ -780,4 +782,3 @@
 
 - [@zabarullah](https://github.com/zabarullah)
 
-- [@Sarthakischauhan](https://github.com/Sarthakischauhan)
