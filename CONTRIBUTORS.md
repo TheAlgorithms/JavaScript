@@ -134,6 +134,8 @@
 
 - [@Jejorm](https://github.com/Jejorm)
 
+- [@Jizzyjay](https://github.com/Jizzyjay)
+
 - [@JoeBoy61](https://github.com/JoeBoy61)
 
 - [@JosielMatos](https://github.com/JosielMatos)
@@ -794,4 +796,3 @@
 
 - [@zabarullah](https://github.com/zabarullah)
 
-- [@Jizzyjay](https://github.com/Jizzyjay)
