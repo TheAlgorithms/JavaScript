@@ -614,6 +614,8 @@
 
 - [@mrobin](https://github.com/mrobin132)
 
+- [@msimao96](https://github.com/msimao96)
+
 - [@nandumoura](https://github.com/nandumoura)
 
 - [@nigkhar23](https://github.com/nigkhar23)
@@ -777,6 +779,4 @@
 - [@yogi1917](https://github.com/Yogi1917)
 
 - [@zabarullah](https://github.com/zabarullah)
-
-- [@msimao96](https://github.com/msimao96)
 
