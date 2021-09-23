@@ -450,6 +450,8 @@
 
 - [@dipanjanroy2](https://github.com/dipanjanroy2/)
 
+- [@divyanshugehlot](https://github.com/divyanshugehlot/)
+
 - [@doniwirawan](https://github.com/doniwirawan)
 
 - [@dreamzCode](https://github.com/dreamzCode)
@@ -784,4 +786,3 @@
 
 - [@zabarullah](https://github.com/zabarullah)
 
-- [@divyanshugehlot](https://github.com/divyanshugehlot/)
