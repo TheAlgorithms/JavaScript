@@ -346,6 +346,8 @@
 
 - [@almeidapedro07](https://github.com/almeidapedro07)
 
+- [@alsung](https://github.com/alsung)
+
 - [@amfelso](https://github.com/amfelso)
 
 - [@amirahmedimtiaz](https://github.com/amirahmedimtiaz/)
@@ -774,4 +776,3 @@
 
 - [@zabarullah](https://github.com/zabarullah)
 
-- [@alsung](https://github.com/alsung)
