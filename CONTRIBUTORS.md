@@ -482,6 +482,8 @@
 
 - [@funnyr0b0t](https://github.com/funnyr0b0t)
 
+- [@fznmlk](https://github.com/fznmlk)
+
 - [@gastighost](https://github.com/gastighost)
 
 - [@gkaframanis](https://github.com/gkaframanis/)
@@ -782,4 +784,3 @@
 
 - [@zabarullah](https://github.com/zabarullah)
 
-- [@fznmlk](https://github.com/fznmlk)
