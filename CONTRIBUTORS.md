@@ -70,6 +70,8 @@
 
 - [@BrandonMagana](https://github.com/BrandonMagana)
 
+- [@Bunnyhops888](https://github.com/Bunnyhops888)
+
 - [@ChristianJayDC](https://github.com/ChristianJayDC)
 
 - [@Clannis](https://github.com/Clannis)
@@ -111,6 +113,8 @@
 - [@HaylzRandom](https://github.com/HaylzRandom)
 
 - [@Iamcrazymanny](https://github.com/Iamcrazymanny)
+
+- [@Ibrahim](https://github.com/piincher)
 
 - [@ImDevFps](https://github.com/ImDevFps)
 
@@ -389,6 +393,8 @@
 - [@ayush0111](https://github.com/ayush-0111)
 
 - [@betulince](https://github.com/betulince)
+
+- [@booyouon](https://github.com/booyouon)
 
 - [@bpyj](https://github.com/bpyj)
 
