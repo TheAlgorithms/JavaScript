@@ -32,6 +32,8 @@
 
 - [@Akashkumar2898](https://github.com/Akashkumar2898)
 
+- [@AmitMorade](https://github.com/Amit-Morade)
+
 - [@Anco2](https://github.com/Anco2)
 
 - [@AndyBowskill](https://github.com/AndyBowskill)
@@ -789,6 +791,4 @@
 - [@yogi1917](https://github.com/Yogi1917)
 
 - [@zabarullah](https://github.com/zabarullah)
-
-- [@Amit-Morade](https://github.com/Amit-Morade)
 
