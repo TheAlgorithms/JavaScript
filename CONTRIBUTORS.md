@@ -392,6 +392,8 @@
 
 - [@betulince](https://github.com/betulince)
 
+- [@booyouon](https://github.com/booyouon)
+
 - [@bpyj](https://github.com/bpyj)
 
 - [@brunadossantostech](https://github.com/brunadossantos-tech)
@@ -800,4 +802,3 @@
 
 - [@zabarullah](https://github.com/zabarullah)
 
-- [@booyouon](https://github.com/booyouon)
