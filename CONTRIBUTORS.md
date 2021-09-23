@@ -70,6 +70,8 @@
 
 - [@BrandonMagana](https://github.com/BrandonMagana)
 
+- [@Bunnyhops888](https://github.com/Bunnyhops888)
+
 - [@ChristianJayDC](https://github.com/ChristianJayDC)
 
 - [@Clannis](https://github.com/Clannis)
@@ -797,6 +799,4 @@
 - [@yogi1917](https://github.com/Yogi1917)
 
 - [@zabarullah](https://github.com/zabarullah)
-
-- [@Bunnyhops888](https://github.com/Bunnyhops888)
 
