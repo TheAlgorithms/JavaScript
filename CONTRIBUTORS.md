@@ -600,6 +600,8 @@
 
 - [@lucyd133](https://github.com/lucyd133)
 
+- [@lunatic7](https://github.com/lunatic-7)
+
 - [@luscarus](https://github.com/luscarus)
 
 - [@madura](https://github.com/madura/)
@@ -796,4 +798,3 @@
 
 - [@zabarullah](https://github.com/zabarullah)
 
-- [@lunatic-7](https://github.com/lunatic-7)
