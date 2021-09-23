@@ -406,6 +406,8 @@
 
 - [@chadelofson](https://github.com/chadelofson)
 
+- [@chamikarajanapriya85](https://github.com/chamikarajanapriya85/)
+
 - [@chiragji](https://github.com/chirag-ji)
 
 - [@chirayumit001](https://github.com/chirayumit001)
@@ -788,4 +790,3 @@
 
 - [@zabarullah](https://github.com/zabarullah)
 
--[@chamikarajanapriya85](https://github.com/chamikarajanapriya85/)
