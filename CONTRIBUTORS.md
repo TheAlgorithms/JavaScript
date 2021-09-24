@@ -66,6 +66,8 @@
 
 - [@BiroGabrielZoltan](https://github.com/BiroGabrielZoltan/)
 
+- [@BiroGabrielZoltan](https://github.com/BiroGabrielZoltan/)
+
 - [@BirukN](https://github.com/Biruk-N)
 
 - [@BrandonMagana](https://github.com/BrandonMagana)
@@ -137,6 +139,8 @@
 - [@JayantGoel001](https://github.com/JayantGoel001)
 
 - [@Jejorm](https://github.com/Jejorm)
+
+- [@Jenique22](https://github.com/Jenique22)
 
 - [@Jizzyjay](https://github.com/Jizzyjay)
 
@@ -522,6 +526,8 @@
 
 - [@hdahou](https://github.com/hdahou)
 
+- [@hdahou](https://github.com/hdahou)
+
 - [@headpnc](https://github.com/headpnc)
 
 - [@hecgzz](https://github.com/hecgzz)
@@ -591,6 +597,8 @@
 - [@kneo002](https://github.com/kneo002)
 
 - [@krish98](https://github.com/krish-98)
+
+- [@kumarvasu](https://github.com/kumar-vasu/)
 
 - [@kumarvasu](https://github.com/kumar-vasu/)
 
@@ -782,10 +790,6 @@
 
 - [@tiagopatriciosantos](https://github.com/tiagopatriciosantos)
 
-- [@kumar-vasu](https://github.com/kumar-vasu/)
-
-- [@BiroGabrielZoltan](https://github.com/BiroGabrielZoltan/)
-
 - [@tihusky](https://github.com/tihusky/)
 
 - [@timphamvn33](https://github.com/timphamvn33)
@@ -819,8 +823,4 @@
 - [@yogi1917](https://github.com/Yogi1917)
 
 - [@zabarullah](https://github.com/zabarullah)
-
-- [@hdahou](https://github.com/hdahou)
-
-- [@Jenique22](https://github.com/Jenique22)
 
