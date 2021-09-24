@@ -310,6 +310,8 @@
 
 - [@Vikas](https://github.com/vikaspandey18)
 
+- [@Vishalsarkar](https://github.com/Vishal-sarkar/)
+
 - [@Wickerman24](https://github.com/Wickerman24)
 
 - [@Xslasher21](https://github.com/Xslasher21)
@@ -806,8 +808,7 @@
 
 - [@yasharma](https://github.com/yasharma)
 
-- [@Vishal-sarkar](https://github.com/Vishal-sarkar/)
-
 - [@yogi1917](https://github.com/Yogi1917)
 
 - [@zabarullah](https://github.com/zabarullah)
+
