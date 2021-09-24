@@ -738,6 +738,8 @@
 
 - [@sebgeomag](https://github.com/sebgeomag)
 
+- [@securedmallo](https://github.com/SecuredMallo)
+
 - [@seif57](https://github.com/seif57)
 
 - [@seinnlee](https:github.com/seinnlee)
@@ -813,6 +815,4 @@
 - [@yogi1917](https://github.com/Yogi1917)
 
 - [@zabarullah](https://github.com/zabarullah)
-
-- [@securedmallo](https://github.com/SecuredMallo)
 
