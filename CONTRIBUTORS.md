@@ -578,6 +578,8 @@
 
 - [@kidus1o1](https://github.com/kidus1o1/)
 
+- [@kirch1](https://github.com/kirch1)
+
 - [@kmohana](https://github.com/kmohana)
 
 - [@kneo002](https://github.com/kneo002)
@@ -804,4 +806,3 @@
 
 - [@zabarullah](https://github.com/zabarullah)
 
-- [@kirch1](https://github.com/kirch1)
