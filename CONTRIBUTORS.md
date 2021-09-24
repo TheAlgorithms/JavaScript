@@ -812,3 +812,5 @@
 
 - [@zabarullah](https://github.com/zabarullah)
 
+- [@securedmallo](https://github.com/SecuredMallo)
+
