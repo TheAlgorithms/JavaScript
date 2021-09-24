@@ -556,6 +556,8 @@
 
 - [@jayghevariya](https://github.com/jayghevariya/)
 
+- [@jdinsdale](https://github.com/jdinsdale)
+
 - [@jeddy019](https://github.com/jeddy019)
 
 - [@jlangenhagen](https://github.com/jlangenhagen)
@@ -811,6 +813,4 @@
 - [@yogi1917](https://github.com/Yogi1917)
 
 - [@zabarullah](https://github.com/zabarullah)
-
-- [@jdinsdale](https://github.com/jdinsdale)
 
