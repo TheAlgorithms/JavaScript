@@ -248,6 +248,8 @@
 
 - [@PrakharGupta36](https://github.com/PrakharGupta36)
 
+- [@Pratapkute](https://github.com/Pratap-kute)
+
 - [@PrinceSandal20](https://github.com/PrinceSandal20)
 
 - [@Prithviraj1810](https://github.com/Prithviraj1810)
@@ -807,6 +809,4 @@
 - [@yogi1917](https://github.com/Yogi1917)
 
 - [@zabarullah](https://github.com/zabarullah)
-
-- [@Pratap-kute](https://github.com/Pratap-kute)
 
