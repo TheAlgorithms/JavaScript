@@ -676,6 +676,8 @@
 
 - [@praveenah](https://github.com/praveen-ah)
 
+- [@preetchani](https://github.com/preetchani)
+
 - [@priyaVora13](https://github.com/priyaVora13)
 
 - [@pvoliveira](https://github.com/pv-oliveira)
@@ -810,4 +812,3 @@
 
 - [@zabarullah](https://github.com/zabarullah)
 
-- [@preetchani](https://github.com/preetchani)
