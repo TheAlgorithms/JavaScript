@@ -264,6 +264,8 @@
 
 - [@Roadtomillion04](https://github.com/Roadtomillion04)
 
+- [@RuanEsterhuyse](https://github.com/RuanEsterhuyse)
+
 - [@RubyZhuang](https://github.com/Ruby-Zhuang)
 
 - [@SCatella](https://github.com/SCatella)
@@ -806,4 +808,3 @@
 
 - [@zabarullah](https://github.com/zabarullah)
 
--[@RuanEsterhuyse](https://github.com/RuanEsterhuyse)
