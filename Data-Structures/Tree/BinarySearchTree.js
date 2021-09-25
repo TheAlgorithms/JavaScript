@@ -11,9 +11,9 @@
 */
 
 // class Node
-const Node = (function () {
+const Node = (function Node() {
   // Node in the tree
-  function Node (val) {
+  function Node(val) {
     this.value = val
     this.left = null
     this.right = null
@@ -62,19 +62,62 @@ const Node = (function () {
     }
   }
 
+  // remove a node
+  Node.prototype.removeNode = function (val) {
+    if (val == this.value) {
+      if (!this.left && !this.right) {
+        return null
+      } else {
+        if (this.left) {
+          const leftMax = maxVal(this.left)
+          this.value = leftMax
+          this.left = this.left.removeNode(leftMax)
+        } else {
+          const rightMin = minVal(this.right)
+          this.value = rightMin
+          this.right = this.right.removeNode(rightMin)
+        }
+      }
+    } else if (val < this.value) {
+      this.left = this.left && this.left.removeNode(val)
+    } else if (val > this.value) {
+      this.right = this.right && this.right.removeNode(val)
+    }
+    return this
+  }
+
+  // find maximum value in the tree
+  const maxVal = function (node) {
+    if (!node.right) {
+      return node.value
+    }
+    return maxVal(node.right)
+  }
+
+  // find minimum value in the tree
+  const minVal = function (node) {
+    if (!node.left) {
+      return node.value
+    }
+    return minVal(node.left)
+  }
   // returns the constructor
   return Node
 }())
 
 // class Tree
 const Tree = (function () {
-  function Tree () {
+  function Tree() {
     // Just store the root
     this.root = null
   };
 
   // Inorder traversal
   Tree.prototype.traverse = function () {
+    if (!this.root) {
+      console.log("No nodes are there in the tree till now")
+      return
+    }
     this.root.visit()
   }
 
@@ -98,7 +141,14 @@ const Tree = (function () {
     }
   }
 
-  // returns the constructor
+
+  //remove a value from the tree
+  Tree.prototype.removeValue = function (val) {
+    // remove something if root exists
+    this.root = this.root && this.root.removeNode(val)
+  }
+
+  //returns the constructor
   return Tree
 }())
 
@@ -112,3 +162,7 @@ bst.addValue(8)
 bst.addValue(4)
 bst.traverse()
 bst.search(8)
+bst.removeValue(3)
+bst.removeValue(8)
+bst.traverse()
+
