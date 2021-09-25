@@ -1,9 +1,5 @@
 # CONTRIBUTORS
 
-- [@]()
-
-- [@]()
-
 - [@0000x582d6976](https://github.com/0000x582d6976)
 
 - [@AJLM10](https://github.com/AJLM10)
@@ -134,9 +130,9 @@
 
 - [@JayantGoel001](https://github.com/JayantGoel001)
 
-- [@JayantGoel001](https://github.com/JayantGoel001)
-
 - [@Jejorm](https://github.com/Jejorm)
+
+- [@Jenique22](https://github.com/Jenique22)
 
 - [@Jizzyjay](https://github.com/Jizzyjay)
 
@@ -248,6 +244,8 @@
 
 - [@PrakharGupta36](https://github.com/PrakharGupta36)
 
+- [@Pratapkute](https://github.com/Pratap-kute)
+
 - [@PrinceSandal20](https://github.com/PrinceSandal20)
 
 - [@Prithviraj1810](https://github.com/Prithviraj1810)
@@ -263,6 +261,8 @@
 - [@RishiKoul](https://github.com/rishi-koul)
 
 - [@Roadtomillion04](https://github.com/Roadtomillion04)
+
+- [@RuanEsterhuyse](https://github.com/RuanEsterhuyse)
 
 - [@RubyZhuang](https://github.com/Ruby-Zhuang)
 
@@ -309,6 +309,8 @@
 - [@Vijay2249](https://github.com/vijay2249)
 
 - [@Vikas](https://github.com/vikaspandey18)
+
+- [@Vishalsarkar](https://github.com/Vishal-sarkar/)
 
 - [@Wickerman24](https://github.com/Wickerman24)
 
@@ -552,6 +554,8 @@
 
 - [@jayghevariya](https://github.com/jayghevariya/)
 
+- [@jdinsdale](https://github.com/jdinsdale)
+
 - [@jeddy019](https://github.com/jeddy019)
 
 - [@jlangenhagen](https://github.com/jlangenhagen)
@@ -578,6 +582,8 @@
 
 - [@kidus1o1](https://github.com/kidus1o1/)
 
+- [@kirch1](https://github.com/kirch1)
+
 - [@kmohana](https://github.com/kmohana)
 
 - [@kneo002](https://github.com/kneo002)
@@ -586,7 +592,7 @@
 
 - [@kumarvasu](https://github.com/kumar-vasu/)
 
-- [@kumarvasu](https://github.com/kumar-vasu/)
+- [@kxmom](https://github.com/kxmom/)
 
 - [@lea19019](https://github.com/lea19019)
 
@@ -670,6 +676,8 @@
 
 - [@praveenah](https://github.com/praveen-ah)
 
+- [@preetchani](https://github.com/preetchani)
+
 - [@priyaVora13](https://github.com/priyaVora13)
 
 - [@pvoliveira](https://github.com/pv-oliveira)
@@ -727,6 +735,8 @@
 - [@sdangoy](https://github.com/sdangoy)
 
 - [@sebgeomag](https://github.com/sebgeomag)
+
+- [@securedmallo](https://github.com/SecuredMallo)
 
 - [@seif57](https://github.com/seif57)
 
