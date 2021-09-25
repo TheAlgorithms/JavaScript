@@ -432,6 +432,8 @@
 
 - [@cjmugs](https://github.com/cjmugs/)
 
+- [@coderaulia](https://github.com/coderaulia)
+
 - [@coderj001](https://github.com/coderj001)
 
 - [@codingwithkinny](https://github.com/codingwithkinny)
@@ -820,4 +822,3 @@
 
 - [@zabarullah](https://github.com/zabarullah)
 
-- [@coderaulia](https://github.com/coderaulia)
