@@ -592,6 +592,8 @@
 
 - [@kumarvasu](https://github.com/kumar-vasu/)
 
+- [@kxmom](https://github.com/kxmom/)
+
 - [@lea19019](https://github.com/lea19019)
 
 - [@lenspira](https://github.com/lenspira)
@@ -812,4 +814,3 @@
 
 - [@zabarullah](https://github.com/zabarullah)
 
-- [@kxmom](https://github.com/kxmom/)
