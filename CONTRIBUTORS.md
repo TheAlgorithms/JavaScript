@@ -804,6 +804,8 @@
 
 - [@vjeko95](https://github.com/vjeko95)
 
+- [@vsammy](https://github.com/vsammy)
+
 - [@willyarrows](https://github.com/willyarrows)
 
 - [@wrg9bs](https://github.com/wrg9bs/)
@@ -814,4 +816,3 @@
 
 - [@zabarullah](https://github.com/zabarullah)
 
-- [@vsammy](https://github.com/vsammy)
