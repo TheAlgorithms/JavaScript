@@ -226,6 +226,8 @@
 
 - [@Obleey](https://github.com/Obleey)
 
+- [@OluJoseph](https://github.com/OluJoseph)
+
 - [@OmarGit99](https://github.com/OmarGit99/)
 
 - [@OnZi12](https://github.com/Onzi12)
@@ -816,4 +818,3 @@
 
 - [@zabarullah](https://github.com/zabarullah)
 
-[@OluJoseph](https://github.com/OluJoseph)
