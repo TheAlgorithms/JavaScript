@@ -464,6 +464,8 @@
 
 - [@deepaksaipendyala](https://github.com/deepaksaipendyala)
 
+- [@devbit4](https://github.com/devbit4)
+
 - [@developermetalhead](https://github.com/developer-metalhead/)
 
 - [@dhsluk](https://github.com/dhsluk)
@@ -826,4 +828,3 @@
 
 - [@zabarullah](https://github.com/zabarullah)
 
-- [@devbit4](https://github.com/devbit4)
