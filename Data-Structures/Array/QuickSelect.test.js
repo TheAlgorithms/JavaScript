@@ -23,7 +23,6 @@ describe('QuickSelect tests', () => {
 
   describe('varieties of list composition', () => {
     it('should return the kth smallest element of a list that is in increasing order', () => {
-      // List in increasing order
       expect(QuickSelect([10, 22, 33, 44, 55], 1)).toEqual(10)
       expect(QuickSelect([10, 22, 33, 44, 55], 2)).toEqual(22)
       expect(QuickSelect([10, 22, 33, 44, 55], 3)).toEqual(33)
