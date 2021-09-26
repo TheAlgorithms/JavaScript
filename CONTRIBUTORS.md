@@ -362,6 +362,8 @@
 
 - [@almeidapedro07](https://github.com/almeidapedro07)
 
+- [@alpanaytekin](https://github.com/alpanaytekin)
+
 - [@alsung](https://github.com/alsung)
 
 - [@amfelso](https://github.com/amfelso)
@@ -821,6 +823,4 @@
 - [@yogi1917](https://github.com/Yogi1917)
 
 - [@zabarullah](https://github.com/zabarullah)
-
-- [@alpanaytekin](https://github.com/alpanaytekin)
 
