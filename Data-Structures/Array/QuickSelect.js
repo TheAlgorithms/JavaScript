@@ -19,12 +19,7 @@ function QuickSelect (items, kth) { // eslint-disable-line no-unused-vars
   return RandomizedSelect(items, 0, items.length - 1, kth)
 }
 
-function RandomizedSelect (
-  items,
-  left,
-  right,
-  i
-) {
+function RandomizedSelect (items, left, right, i) {
   if (left === right) return items[left]
 
   const pivotIndex = RandomizedPartition(items, left, right)
