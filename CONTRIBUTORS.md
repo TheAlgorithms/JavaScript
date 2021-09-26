@@ -2,6 +2,8 @@
 
 - [@0000x582d6976](https://github.com/0000x582d6976)
 
+- [@6586rajan](https://github.com/6586rajan)
+
 - [@AJLM10](https://github.com/AJLM10)
 
 - [@ALanq93](https://github.com/ALanq93/)
@@ -95,6 +97,8 @@
 - [@Eternal\_](https://github.com/Tarun-Kamboj)
 
 - [@Ezeh20](https://github.com/Ezeh20)
+
+- [@Gaurang20](https://github.com/Gaurang2-0/)
 
 - [@Gomatheeswaran](https://github.com/Gomatheeswaran)
 
@@ -225,6 +229,8 @@
 - [@NumanAnees](https://github.com/NumanAnees)
 
 - [@Obleey](https://github.com/Obleey)
+
+- [@OluJoseph](https://github.com/OluJoseph)
 
 - [@OmarGit99](https://github.com/OmarGit99/)
 
@@ -360,6 +366,8 @@
 
 - [@almeidapedro07](https://github.com/almeidapedro07)
 
+- [@alpanaytekin](https://github.com/alpanaytekin)
+
 - [@alsung](https://github.com/alsung)
 
 - [@amfelso](https://github.com/amfelso)
@@ -430,6 +438,8 @@
 
 - [@cjmugs](https://github.com/cjmugs/)
 
+- [@coderaulia](https://github.com/coderaulia)
+
 - [@coderj001](https://github.com/coderj001)
 
 - [@codingwithkinny](https://github.com/codingwithkinny)
@@ -455,6 +465,8 @@
 - [@ddareus](https://github.com/ddareus/)
 
 - [@deepaksaipendyala](https://github.com/deepaksaipendyala)
+
+- [@devbit4](https://github.com/devbit4)
 
 - [@developermetalhead](https://github.com/developer-metalhead/)
 
@@ -804,11 +816,15 @@
 
 - [@vjeko95](https://github.com/vjeko95)
 
+- [@vsammy](https://github.com/vsammy)
+
 - [@willyarrows](https://github.com/willyarrows)
 
 - [@wrg9bs](https://github.com/wrg9bs/)
 
 - [@yasharma](https://github.com/yasharma)
+
+- [@yigitmalik](https://github.com/yigitmalik)
 
 - [@yogi1917](https://github.com/Yogi1917)
 
