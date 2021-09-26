@@ -270,9 +270,11 @@
   * [JumpSearch](https://github.com/TheAlgorithms/Javascript/blob/master/Search/JumpSearch.js)
   * [LinearSearch](https://github.com/TheAlgorithms/Javascript/blob/master/Search/LinearSearch.js)
   * [QuickSelectSearch](https://github.com/TheAlgorithms/Javascript/blob/master/Search/QuickSelectSearch.js)
+  * [SlidingWindow](https://github.com/TheAlgorithms/Javascript/blob/master/Search/SlidingWindow.js)
   * [StringSearch](https://github.com/TheAlgorithms/Javascript/blob/master/Search/StringSearch.js)
   * [TernarySearch](https://github.com/TheAlgorithms/Javascript/blob/master/Search/TernarySearch.js)
   * test
+    * [SlidingWindow](https://github.com/TheAlgorithms/Javascript/blob/master/Search/test/SlidingWindow.test.js)
     * [TernarySearch](https://github.com/TheAlgorithms/Javascript/blob/master/Search/test/TernarySearch.test.js)
 
 ## Sorts
