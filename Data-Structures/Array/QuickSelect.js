@@ -1,5 +1,5 @@
 /**
- * QuickSelect is an algorithm to find the kth smallest number
+ * [QuickSelect](https://www.geeksforgeeks.org/quickselect-algorithm/) is an algorithm to find the kth smallest number
  *
  * Notes:
  * -QuickSelect is related to QuickSort, thus has optimal best and average
