@@ -71,3 +71,5 @@ function Swap (arr, x, y) {
 // "Index Out of Bound"
 // > QuickSelect([1, 4, 2, -2, 4, 5], 7)
 // "Index Out of Bound"
+
+export { QuickSelect }
