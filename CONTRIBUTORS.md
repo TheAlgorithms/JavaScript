@@ -2,6 +2,8 @@
 
 - [@0000x582d6976](https://github.com/0000x582d6976)
 
+- [@6586rajan](https://github.com/6586rajan)
+
 - [@AJLM10](https://github.com/AJLM10)
 
 - [@ALanq93](https://github.com/ALanq93/)
@@ -828,4 +830,3 @@
 
 - [@zabarullah](https://github.com/zabarullah)
 
-- [@6586rajan](https://github.com/6586rajan)
