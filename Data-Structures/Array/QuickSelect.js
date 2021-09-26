@@ -13,7 +13,7 @@
 
 function QuickSelect (items, kth) { // eslint-disable-line no-unused-vars
   if (kth < 1 || kth > items.length) {
-    return 'Index Out of Bound'
+    throw Error('Index Out of Bound')
   }
 
   return RandomizedSelect(items, 0, items.length - 1, kth)
