@@ -96,6 +96,8 @@
 
 - [@Ezeh20](https://github.com/Ezeh20)
 
+- [@Gaurang20](https://github.com/Gaurang2-0/)
+
 - [@Gomatheeswaran](https://github.com/Gomatheeswaran)
 
 - [@Greeshma03](https://github.com/Greeshma-03/)
@@ -823,5 +825,4 @@
 - [@yogi1917](https://github.com/Yogi1917)
 
 - [@zabarullah](https://github.com/zabarullah)
-- [@Gaurang2-0](https://github.com/Gaurang2-0/)
 
