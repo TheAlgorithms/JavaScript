@@ -836,3 +836,4 @@
 
 - [@zedanmaqsood](https://github.com/zedanmaqsood)
 
+- [@jaytintran](https://github.com/jaytintran)
