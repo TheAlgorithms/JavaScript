@@ -274,6 +274,8 @@
 
 - [@SCatella](https://github.com/SCatella)
 
+- [@SRazaN](https://github.com/S-Raza-N)
+
 - [@Sadzak23](https://github.com/Sadzak23)
 
 - [@Sapphireyed](https://github.com/Sapphireyed)
@@ -580,6 +582,8 @@
 
 - [@justigo86](https://github.com/justigo86)
 
+- [@kaduspiaro](https://github.com/kaduspiaro)
+
 - [@kagedevio](https://github.com/kagedevio)
 
 - [@kalokli8](https://github.com/kalokli8)
@@ -841,3 +845,5 @@
 - [@yogi1917](https://github.com/Yogi1917)
 
 - [@zabarullah](https://github.com/zabarullah)
+
+- [@zedanmaqsood](https://github.com/zedanmaqsood)
