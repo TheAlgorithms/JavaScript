@@ -1,5 +1,5 @@
 /**
- * QuickSelect is an algorithm to find the kth smallest number
+ * [QuickSelect](https://www.geeksforgeeks.org/quickselect-algorithm/) is an algorithm to find the kth smallest number
  *
  * Notes:
  * -QuickSelect is related to QuickSort, thus has optimal best and average
@@ -13,18 +13,13 @@
 
 function QuickSelect (items, kth) { // eslint-disable-line no-unused-vars
   if (kth < 1 || kth > items.length) {
-    return 'Index Out of Bound'
+    throw new RangeError('Index Out of Bound')
   }
 
   return RandomizedSelect(items, 0, items.length - 1, kth)
 }
 
-function RandomizedSelect (
-  items,
-  left,
-  right,
-  i
-) {
+function RandomizedSelect (items, left, right, i) {
   if (left === right) return items[left]
 
   const pivotIndex = RandomizedPartition(items, left, right)
@@ -76,3 +71,5 @@ function Swap (arr, x, y) {
 // "Index Out of Bound"
 // > QuickSelect([1, 4, 2, -2, 4, 5], 7)
 // "Index Out of Bound"
+
+export { QuickSelect }
