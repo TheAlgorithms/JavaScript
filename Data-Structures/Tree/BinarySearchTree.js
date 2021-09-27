@@ -11,9 +11,9 @@
 */
 
 // class Node
-const Node = (function Node() {
+const Node = (function Node () {
   // Node in the tree
-  function Node(val) {
+  function Node (val) {
     this.value = val
     this.left = null
     this.right = null
@@ -23,9 +23,9 @@ const Node = (function Node() {
   Node.prototype.search = function (val) {
     if (this.value === val) {
       return this
-    } else if (val < this.value && this.left != null) {
+    } else if (val < this.value && this.left !== null) {
       return this.left.search(val)
-    } else if (val > this.value && this.right != null) {
+    } else if (val > this.value && this.right !== null) {
       return this.right.search(val)
     }
     return null
@@ -34,13 +34,13 @@ const Node = (function Node() {
   // Visit a node
   Node.prototype.visit = function () {
     // Recursively go left
-    if (this.left != null) {
+    if (this.left !== null) {
       this.left.visit()
     }
     // Print out value
     console.log(this.value)
     // Recursively go right
-    if (this.right != null) {
+    if (this.right !== null) {
       this.right.visit()
     }
   }
@@ -48,13 +48,13 @@ const Node = (function Node() {
   // Add a node
   Node.prototype.addNode = function (n) {
     if (n.value < this.value) {
-      if (this.left == null) {
+      if (this.left === null) {
         this.left = n
       } else {
         this.left.addNode(n)
       }
     } else if (n.value > this.value) {
-      if (this.right == null) {
+      if (this.right === null) {
         this.right = n
       } else {
         this.right.addNode(n)
@@ -64,7 +64,7 @@ const Node = (function Node() {
 
   // remove a node
   Node.prototype.removeNode = function (val) {
-    if (val == this.value) {
+    if (val === this.value) {
       if (!this.left && !this.right) {
         return null
       } else {
@@ -107,7 +107,7 @@ const Node = (function Node() {
 
 // class Tree
 const Tree = (function () {
-  function Tree() {
+  function Tree () {
     // Just store the root
     this.root = null
   };
@@ -115,7 +115,7 @@ const Tree = (function () {
   // Inorder traversal
   Tree.prototype.traverse = function () {
     if (!this.root) {
-      console.log("No nodes are there in the tree till now")
+      console.log('No nodes are there in the tree till now')
       return
     }
     this.root.visit()
@@ -134,21 +134,20 @@ const Tree = (function () {
   // Add a new value to the tree
   Tree.prototype.addValue = function (val) {
     const n = new Node(val)
-    if (this.root == null) {
+    if (this.root === null) {
       this.root = n
     } else {
       this.root.addNode(n)
     }
   }
 
-
-  //remove a value from the tree
+  // remove a value from the tree
   Tree.prototype.removeValue = function (val) {
     // remove something if root exists
     this.root = this.root && this.root.removeNode(val)
   }
 
-  //returns the constructor
+  // returns the constructor
   return Tree
 }())
 
@@ -165,4 +164,3 @@ bst.search(8)
 bst.removeValue(3)
 bst.removeValue(8)
 bst.traverse()
-
