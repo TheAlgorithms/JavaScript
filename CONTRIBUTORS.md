@@ -274,6 +274,8 @@
 
 - [@SCatella](https://github.com/SCatella)
 
+- [@SRazaN](https://github.com/S-Raza-N)
+
 - [@Sadzak23](https://github.com/Sadzak23)
 
 - [@Sapphireyed](https://github.com/Sapphireyed)
@@ -832,4 +834,3 @@
 
 - [@zabarullah](https://github.com/zabarullah)
 
-- [@S-Raza-N](https://github.com/S-Raza-N)
