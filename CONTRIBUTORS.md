@@ -776,6 +776,8 @@
 
 - [@snearies](https://github.com/snearies)
 
+- [@souldrop](https://github.com/souldrop)
+
 - [@souravmishra](https://github.com/sourav-mishra)
 
 - [@spenjodut](https://github.com/spenjodut)
@@ -840,4 +842,3 @@
 
 - [@zedanmaqsood](https://github.com/zedanmaqsood)
 
-- [@souldrop](https://github.com/souldrop)
