@@ -652,6 +652,8 @@
 
 - [@masih4](https://github.com/masih4)
 
+- [@metatron1986](https://github.com/metatron1986)
+
 - [@mizitr](https://github.com/mizitr)
 
 - [@mleduccl](https://github.com/mleduccl/)
@@ -838,4 +840,3 @@
 
 - [@zedanmaqsood](https://github.com/zedanmaqsood)
 
-- [@metatron1986](https://github.com/metatron1986)
