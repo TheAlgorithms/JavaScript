@@ -54,6 +54,7 @@
 ## Data-Structures
   * Array
     * [QuickSelect](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Array/QuickSelect.js)
+    * [QuickSelect](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Array/QuickSelect.test.js)
   * Graph
     * [Graph](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Graph/Graph.js)
     * [Graph2](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Graph/Graph2.js)
