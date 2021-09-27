@@ -580,6 +580,8 @@
 
 - [@justigo86](https://github.com/justigo86)
 
+- [@kaduspiaro](https://github.com/kaduspiaro)
+
 - [@kagedevio](https://github.com/kagedevio)
 
 - [@kalokli8](https://github.com/kalokli8)
@@ -830,4 +832,3 @@
 
 - [@zabarullah](https://github.com/zabarullah)
 
-- [@kaduspiaro](https://github.com/kaduspiaro)
