@@ -11,7 +11,7 @@
 */
 
 // class Node
-const Node = (function () {
+const Node = (function Node () {
   // Node in the tree
   function Node (val) {
     this.value = val
@@ -23,9 +23,9 @@ const Node = (function () {
   Node.prototype.search = function (val) {
     if (this.value === val) {
       return this
-    } else if (val < this.value && this.left != null) {
+    } else if (val < this.value && this.left !== null) {
       return this.left.search(val)
-    } else if (val > this.value && this.right != null) {
+    } else if (val > this.value && this.right !== null) {
       return this.right.search(val)
     }
     return null
@@ -34,13 +34,13 @@ const Node = (function () {
   // Visit a node
   Node.prototype.visit = function () {
     // Recursively go left
-    if (this.left != null) {
+    if (this.left !== null) {
       this.left.visit()
     }
     // Print out value
     console.log(this.value)
     // Recursively go right
-    if (this.right != null) {
+    if (this.right !== null) {
       this.right.visit()
     }
   }
@@ -48,13 +48,13 @@ const Node = (function () {
   // Add a node
   Node.prototype.addNode = function (n) {
     if (n.value < this.value) {
-      if (this.left == null) {
+      if (this.left === null) {
         this.left = n
       } else {
         this.left.addNode(n)
       }
     } else if (n.value > this.value) {
-      if (this.right == null) {
+      if (this.right === null) {
         this.right = n
       } else {
         this.right.addNode(n)
@@ -62,6 +62,45 @@ const Node = (function () {
     }
   }
 
+  // remove a node
+  Node.prototype.removeNode = function (val) {
+    if (val === this.value) {
+      if (!this.left && !this.right) {
+        return null
+      } else {
+        if (this.left) {
+          const leftMax = maxVal(this.left)
+          this.value = leftMax
+          this.left = this.left.removeNode(leftMax)
+        } else {
+          const rightMin = minVal(this.right)
+          this.value = rightMin
+          this.right = this.right.removeNode(rightMin)
+        }
+      }
+    } else if (val < this.value) {
+      this.left = this.left && this.left.removeNode(val)
+    } else if (val > this.value) {
+      this.right = this.right && this.right.removeNode(val)
+    }
+    return this
+  }
+
+  // find maximum value in the tree
+  const maxVal = function (node) {
+    if (!node.right) {
+      return node.value
+    }
+    return maxVal(node.right)
+  }
+
+  // find minimum value in the tree
+  const minVal = function (node) {
+    if (!node.left) {
+      return node.value
+    }
+    return minVal(node.left)
+  }
   // returns the constructor
   return Node
 }())
@@ -75,6 +114,10 @@ const Tree = (function () {
 
   // Inorder traversal
   Tree.prototype.traverse = function () {
+    if (!this.root) {
+      console.log('No nodes are there in the tree till now')
+      return
+    }
     this.root.visit()
   }
 
@@ -91,11 +134,17 @@ const Tree = (function () {
   // Add a new value to the tree
   Tree.prototype.addValue = function (val) {
     const n = new Node(val)
-    if (this.root == null) {
+    if (this.root === null) {
       this.root = n
     } else {
       this.root.addNode(n)
     }
+  }
+
+  // remove a value from the tree
+  Tree.prototype.removeValue = function (val) {
+    // remove something if root exists
+    this.root = this.root && this.root.removeNode(val)
   }
 
   // returns the constructor
@@ -112,3 +161,6 @@ bst.addValue(8)
 bst.addValue(4)
 bst.traverse()
 bst.search(8)
+bst.removeValue(3)
+bst.removeValue(8)
+bst.traverse()
