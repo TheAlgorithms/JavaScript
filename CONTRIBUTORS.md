@@ -568,6 +568,8 @@
 
 - [@jayghevariya](https://github.com/jayghevariya/)
 
+- [@jaytintran](https://github.com/jaytintran)
+
 - [@jdinsdale](https://github.com/jdinsdale)
 
 - [@jeddy019](https://github.com/jeddy019)
@@ -836,4 +838,3 @@
 
 - [@zedanmaqsood](https://github.com/zedanmaqsood)
 
-- [@jaytintran](https://github.com/jaytintran)
