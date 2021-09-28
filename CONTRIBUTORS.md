@@ -230,7 +230,7 @@
 
 - [@NumanAnees](https://github.com/NumanAnees)
 
-- [@Obleey](https://github.com/Obleey)
+- [@obleey](https://github.com/obleey)
 
 - [@OluJoseph](https://github.com/OluJoseph)
 
