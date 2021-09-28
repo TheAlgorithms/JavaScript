@@ -658,6 +658,8 @@
 
 - [@manzouri10](https://github.com/manzouri-10/)
 
+- [@marianasegbravo](https://github.com/marianasegbravo)
+
 - [@mark123jesper](https://github.com/mark123jesper)
 
 - [@mars1138](https://github.com/mars1138)
@@ -858,4 +860,3 @@
 
 - [@zedanmaqsood](https://github.com/zedanmaqsood)
 
-- [@marianasegbravo](https://github.com/marianasegbravo)
