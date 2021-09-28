@@ -230,8 +230,6 @@
 
 - [@NumanAnees](https://github.com/NumanAnees)
 
-- [@obleey](https://github.com/obleey)
-
 - [@OluJoseph](https://github.com/OluJoseph)
 
 - [@OmarGit99](https://github.com/OmarGit99/)
@@ -691,6 +689,8 @@
 - [@nishantminerva](https://github.com/nishantminerva)
 
 - [@noureddineNH9](https://github.com/noureddineNH9)
+
+- [@obleey](https://github.com/obleey)
 
 - [@osaeafari](https://github.com/osaeafari/)
 
