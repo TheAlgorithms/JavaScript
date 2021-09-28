@@ -572,6 +572,8 @@
 
 - [@javierb07](https://github.com/javierb07)
 
+- [@jayantaadhikary](https://github.com/jayantaadhikary)
+
 - [@jayeshjain252](https://github.com/jayesh-jain252/)
 
 - [@jayghevariya](https://github.com/jayghevariya/)
@@ -864,4 +866,3 @@
 
 - [@zedanmaqsood](https://github.com/zedanmaqsood)
 
-- [@jayantaadhikary](https://github.com/jayantaadhikary)
