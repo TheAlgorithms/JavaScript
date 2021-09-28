@@ -1,5 +1,4 @@
 # CONTRIBUTORS
-- [@andrew-widjaja](https://github.com/andrew-widjaja)
 
 - [@0000x582d6976](https://github.com/0000x582d6976)
 
@@ -378,6 +377,8 @@
 - [@amirahmedimtiaz](https://github.com/amirahmedimtiaz/)
 
 - [@ammamo](https://github.com/ammamo)
+
+- [@andrewwidjaja](https://github.com/andrew-widjaja)
 
 - [@anettta](https://github.com/anettta)
 
