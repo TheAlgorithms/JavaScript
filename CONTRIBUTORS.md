@@ -694,6 +694,8 @@
 
 - [@obleey](https://github.com/obleey)
 
+- [@okhislop123](https://github.com/okhislop123)
+
 - [@operator19](https://github.com/operator-19)
 
 - [@osaeafari](https://github.com/osaeafari/)
@@ -861,6 +863,4 @@
 - [@zabarullah](https://github.com/zabarullah)
 
 - [@zedanmaqsood](https://github.com/zedanmaqsood)
-
-- [@okhislop123](https://github.com/okhislop123)
 
