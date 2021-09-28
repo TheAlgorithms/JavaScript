@@ -98,6 +98,8 @@
 
 - [@Ezeh20](https://github.com/Ezeh20)
 
+- [@GAlexandruD](https://github.com/GAlexandruD/)
+
 - [@Gaurang20](https://github.com/Gaurang2-0/)
 
 - [@Gomatheeswaran](https://github.com/Gomatheeswaran)
@@ -572,6 +574,8 @@
 
 - [@javierb07](https://github.com/javierb07)
 
+- [@jayeshjain252](https://github.com/jayesh-jain252/)
+
 - [@jayghevariya](https://github.com/jayghevariya/)
 
 - [@jaytintran](https://github.com/jaytintran)
@@ -854,6 +858,3 @@
 
 - [@zedanmaqsood](https://github.com/zedanmaqsood)
 
-- [@GAlexandruD](https://github.com/GAlexandruD/)
-
-- [@jayesh-jain252](https://github.com/jayesh-jain252/)
