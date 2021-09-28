@@ -1,4 +1,4 @@
-﻿# CONTRIBUTORS
+# CONTRIBUTORS
 
 - [@sarahjameson](https://github.com/sarahjameson)
 
@@ -6383,3 +6383,5 @@
 - [@the-localhost](https://github.com/the-localhost/)
 
 - [@GAlexandruD](https://github.com/GAlexandruD/)
+
+- [@jayesh-jain252](https://github.com/jayesh-jain252/)
