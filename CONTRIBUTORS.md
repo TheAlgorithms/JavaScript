@@ -576,6 +576,8 @@
 
 - [@jeddy019](https://github.com/jeddy019)
 
+- [@jjrock36](https://github.com/jjrock36)
+
 - [@jlangenhagen](https://github.com/jlangenhagen)
 
 - [@john012516](https://github.com/john012516/)
@@ -845,4 +847,3 @@
 - [@zabarullah](https://github.com/zabarullah)
 
 - [@zedanmaqsood](https://github.com/zedanmaqsood)
-
