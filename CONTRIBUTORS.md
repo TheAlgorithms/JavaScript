@@ -532,6 +532,8 @@
 
 - [@gabriellend](https://github.com/gabriellend)
 
+- [@gabriellend](https://github.com/gabriellend)
+
 - [@gastighost](https://github.com/gastighost)
 
 - [@gkaframanis](https://github.com/gkaframanis/)
@@ -882,4 +884,3 @@
 
 - [@zedanmaqsood](https://github.com/zedanmaqsood)
 
-- [@gabriellend](https://github.com/gabriellend)
