@@ -218,7 +218,7 @@
 
 - [@NumanAnees](https://github.com/NumanAnees)
 
-- [@Obleey](https://github.com/Obleey)
+- [@obleey](https://github.com/obleey)
 
 - [@OmarGit99](https://github.com/OmarGit99/)
 
