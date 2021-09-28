@@ -606,6 +606,8 @@
 
 - [@jtalway](https://github.com/jtalway)
 
+- [@juli3erickson](https://github.com/juli3erickson)
+
 - [@justigo86](https://github.com/justigo86)
 
 - [@kaduspiaro](https://github.com/kaduspiaro)
@@ -879,6 +881,4 @@
 - [@zabarullah](https://github.com/zabarullah)
 
 - [@zedanmaqsood](https://github.com/zedanmaqsood)
-
-- [@juli3erickson](https://github.com/juli3erickson)
 
