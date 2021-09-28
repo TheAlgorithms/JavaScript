@@ -94,8 +94,6 @@
 
 - [@Ernestocanada](https://github.com/Ernestocanada)
 
-- [@Eternal\_](https://github.com/Tarun-Kamboj)
-
 - [@Ezeh20](https://github.com/Ezeh20)
 
 - [@Gaurang20](https://github.com/Gaurang2-0/)
@@ -301,6 +299,8 @@
 - [@SuperStar090703](https://github.com/SuperStar090703/)
 
 - [@Supratim30](https://github.com/Supratim30)
+
+- [@Tarun-Kamboj](https://github.com/Tarun-Kamboj)
 
 - [@TeoJuca](https://github.com/TeoJuca/)
 
