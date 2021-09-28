@@ -96,6 +96,8 @@
 
 - [@Ezeh20](https://github.com/Ezeh20)
 
+- [@FayasNoushad](https://github.com/FayasNoushad)
+
 - [@Gaurang20](https://github.com/Gaurang2-0/)
 
 - [@Gomatheeswaran](https://github.com/Gomatheeswaran)
