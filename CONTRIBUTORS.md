@@ -586,6 +586,8 @@
 
 - [@johngehring2008](https://github.com/johngehring2008/)
 
+- [@johnyun930](https://github.com/johnyun930)
+
 - [@jtalway](https://github.com/jtalway)
 
 - [@justigo86](https://github.com/justigo86)
@@ -850,4 +852,3 @@
 
 - [@zedanmaqsood](https://github.com/zedanmaqsood)
 
-- [@johnyun930](https://github.com/johnyun930)
