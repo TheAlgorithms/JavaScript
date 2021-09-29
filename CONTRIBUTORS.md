@@ -64,6 +64,8 @@
 
 - [@BiroGabrielZoltan](https://github.com/BiroGabrielZoltan/)
 
+- [@BiroGabrielZoltan](https://github.com/BiroGabrielZoltan/)
+
 - [@BirukN](https://github.com/Biruk-N)
 
 - [@BrandonMagana](https://github.com/BrandonMagana)
@@ -197,6 +199,10 @@
 - [@MoShakib](https://github.com/Mo-Shakib)
 
 - [@MohtasimEram](https://github.com/MohtasimEram/)
+
+- [@MohtasimEram](https://github.com/MohtasimEram/)
+
+- [@MorganJay](https://github.com/MorganJay/)
 
 - [@MrMotivated23](https://github.com/MrMotivated23)
 
@@ -353,6 +359,8 @@
 - [@abulyousuf](https://github.com/abulyousuf)
 
 - [@agathanelle](https://github.com/agathanelle)
+
+- [@ajaybor0](https://github.com/ajaybor0)
 
 - [@ajaychavan](https://github.com/ajay-chavan)
 
@@ -526,6 +534,8 @@
 
 - [@gabriellend](https://github.com/gabriellend)
 
+- [@gabriellend](https://github.com/gabriellend)
+
 - [@gastighost](https://github.com/gastighost)
 
 - [@gkaframanis](https://github.com/gkaframanis/)
@@ -554,6 +564,8 @@
 
 - [@hopeful89](https://github.com/hopeful89/)
 
+- [@hopeful89](https://github.com/hopeful89/)
+
 - [@hrishikeshnikam2000](https://github.com/hrishikeshnikam2000)
 
 - [@hswootan](https://github.com/hswootan/)
@@ -573,6 +585,8 @@
 - [@janiszakis03](https://github.com/janiszakis03)
 
 - [@javierb07](https://github.com/javierb07)
+
+- [@jayantaadhikary](https://github.com/jayantaadhikary)
 
 - [@jayeshjain252](https://github.com/jayesh-jain252/)
 
@@ -594,7 +608,11 @@
 
 - [@johnyun930](https://github.com/johnyun930)
 
+- [@jsphdon](https://github.com/jsphdon)
+
 - [@jtalway](https://github.com/jtalway)
+
+- [@juli3erickson](https://github.com/juli3erickson)
 
 - [@justigo86](https://github.com/justigo86)
 
@@ -621,6 +639,8 @@
 - [@kneo002](https://github.com/kneo002)
 
 - [@krish98](https://github.com/krish-98)
+
+- [@kumarvasu](https://github.com/kumar-vasu/)
 
 - [@kumarvasu](https://github.com/kumar-vasu/)
 
@@ -696,6 +716,8 @@
 
 - [@obleey](https://github.com/obleey)
 
+- [@okhislop123](https://github.com/okhislop123)
+
 - [@operator19](https://github.com/operator-19)
 
 - [@osaeafari](https://github.com/osaeafari/)
@@ -765,6 +787,8 @@
 - [@sandeepgprec](https://github.com/Sandeepgprec)
 
 - [@sanjarkhannasibli](https://github.com/sanjarkhan-nasibli)
+
+- [@sanks20](https://github.com/sanks20/)
 
 - [@sanks20](https://github.com/sanks20/)
 
