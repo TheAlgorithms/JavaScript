@@ -204,6 +204,8 @@
 
 - [@MorganJay](https://github.com/MorganJay/)
 
+- [@Mouez98](https://github.com/Mouez98)
+
 - [@MrMotivated23](https://github.com/MrMotivated23)
 
 - [@MrdjaS](https://github.com/MrdjaS)
@@ -898,4 +900,3 @@
 
 - [@zedanmaqsood](https://github.com/zedanmaqsood)
 
-- [@Mouez98](https://github.com/Mouez98)
