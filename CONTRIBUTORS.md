@@ -470,6 +470,8 @@
 
 - [@daeima](https://github.com/daeima)
 
+- [@daisyleemoon](https://github.com/daisyleemoon)
+
 - [@davdwoo](https://github.com/davdwoo/)
 
 - [@davidmatthewmiller](https://github.com/davidmatthewmiller)
@@ -892,4 +894,3 @@
 
 - [@zedanmaqsood](https://github.com/zedanmaqsood)
 
-- [@daisyleemoon](https://github.com/daisyleemoon)
