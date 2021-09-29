@@ -722,6 +722,8 @@
 
 - [@operator19](https://github.com/operator-19)
 
+- [@operator19](https://github.com/operator-19)
+
 - [@osaeafari](https://github.com/osaeafari/)
 
 - [@oyuan124](https://github.com/oyuan124/)
@@ -890,4 +892,3 @@
 
 - [@zedanmaqsood](https://github.com/zedanmaqsood)
 
-- [@operator-19](https://github.com/operator-19)
