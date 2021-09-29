@@ -606,6 +606,8 @@
 
 - [@johnyun930](https://github.com/johnyun930)
 
+- [@jsphdon](https://github.com/jsphdon)
+
 - [@jtalway](https://github.com/jtalway)
 
 - [@juli3erickson](https://github.com/juli3erickson)
@@ -884,4 +886,3 @@
 
 - [@zedanmaqsood](https://github.com/zedanmaqsood)
 
-- [@jsphdon](https://github.com/jsphdon)
