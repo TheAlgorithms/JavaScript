@@ -702,6 +702,8 @@
 
 - [@mohamedvol1](https://github.com/mohamedvol1/)
 
+- [@moinkhan4](https://github.com/moinkhan4)
+
 - [@mpbasto](https://github.com/mpbasto)
 
 - [@mrobin](https://github.com/mrobin132)
@@ -895,6 +897,4 @@
 - [@zabarullah](https://github.com/zabarullah)
 
 - [@zedanmaqsood](https://github.com/zedanmaqsood)
-
-- [@moinkhan4](https://github.com/moinkhan4)
 
