@@ -548,6 +548,8 @@
 
 - [@harry7337](https://github.com/harry7337)
 
+- [@hasancho](https://github.com/hasancho)
+
 - [@hchowdha](https://github.com/hchowdha)
 
 - [@hdahou](https://github.com/hdahou)
@@ -888,4 +890,3 @@
 
 - [@zedanmaqsood](https://github.com/zedanmaqsood)
 
-- [[@hasancho](https://github.com/hasancho)]
