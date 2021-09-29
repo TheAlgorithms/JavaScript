@@ -312,6 +312,8 @@
 
 - [@ThreatMatrix](https://github.com/ThreatMatrix)
 
+- [@TimothyRowland](https://github.com/TimothyRowland)
+
 - [@Uma998](https://github.com/Uma998)
 
 - [@Ushisha](https://github.com/Ushisha)
@@ -884,6 +886,5 @@
 
 - [@zabarullah](https://github.com/zabarullah)
 
-- [@TimothyRowland](https://github.com/TimothyRowland)
-
 - [@zedanmaqsood](https://github.com/zedanmaqsood)
+
