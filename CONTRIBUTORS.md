@@ -102,6 +102,8 @@
 
 - [@GAlexandruD](https://github.com/GAlexandruD/)
 
+- [@Gab990](https://github.com/Gab990)
+
 - [@Gaurang20](https://github.com/Gaurang2-0/)
 
 - [@Gomatheeswaran](https://github.com/Gomatheeswaran)
@@ -203,6 +205,8 @@
 - [@MohtasimEram](https://github.com/MohtasimEram/)
 
 - [@MorganJay](https://github.com/MorganJay/)
+
+- [@Mouez98](https://github.com/Mouez98)
 
 - [@MrMotivated23](https://github.com/MrMotivated23)
 
@@ -311,6 +315,8 @@
 - [@TeoJuca](https://github.com/TeoJuca/)
 
 - [@ThreatMatrix](https://github.com/ThreatMatrix)
+
+- [@TimothyRowland](https://github.com/TimothyRowland)
 
 - [@Uma998](https://github.com/Uma998)
 
@@ -468,6 +474,8 @@
 
 - [@daeima](https://github.com/daeima)
 
+- [@daisyleemoon](https://github.com/daisyleemoon)
+
 - [@davdwoo](https://github.com/davdwoo/)
 
 - [@davidmatthewmiller](https://github.com/davidmatthewmiller)
@@ -532,7 +540,11 @@
 
 - [@gabriellend](https://github.com/gabriellend)
 
+- [@gabriellend](https://github.com/gabriellend)
+
 - [@gastighost](https://github.com/gastighost)
+
+- [@gawbb](https://github.com/gawbb)
 
 - [@gkaframanis](https://github.com/gkaframanis/)
 
@@ -543,6 +555,8 @@
 - [@hanakamer](https://github.com/hanakamer)
 
 - [@harry7337](https://github.com/harry7337)
+
+- [@hasancho](https://github.com/hasancho)
 
 - [@hchowdha](https://github.com/hchowdha)
 
@@ -604,6 +618,8 @@
 
 - [@johnyun930](https://github.com/johnyun930)
 
+- [@jsphdon](https://github.com/jsphdon)
+
 - [@jtalway](https://github.com/jtalway)
 
 - [@juli3erickson](https://github.com/juli3erickson)
@@ -656,6 +672,8 @@
 
 - [@lsherman2](https://github.com/lsherman2)
 
+- [@lucelledsumalinog](https://github.com/lucelledsumalinog)
+
 - [@lucyd133](https://github.com/lucyd133)
 
 - [@lunatic7](https://github.com/lunatic-7)
@@ -690,6 +708,8 @@
 
 - [@mohamedvol1](https://github.com/mohamedvol1/)
 
+- [@moinkhan4](https://github.com/moinkhan4)
+
 - [@mpbasto](https://github.com/mpbasto)
 
 - [@mrobin](https://github.com/mrobin132)
@@ -714,6 +734,8 @@
 
 - [@operator19](https://github.com/operator-19)
 
+- [@operator19](https://github.com/operator-19)
+
 - [@osaeafari](https://github.com/osaeafari/)
 
 - [@oyuan124](https://github.com/oyuan124/)
@@ -721,6 +743,10 @@
 - [@pathsu0310](https://github.com/pathsu0310)
 
 - [@paulotasso7](https://github.com/paulotasso7)
+
+- [@pccosta](https://github.com/pc-costa)
+
+- [@peggy40429](https://github.com/peggy40429)
 
 - [@phatnguyenuit](https://github.com/phatnguyenuit)
 
