@@ -1,5 +1,8 @@
 import fetch from 'node-fetch';
 
+/* 
+  This algorithm makes use of http://worldtimeapi.org/api
+*/
 const URL_BASE = 'http://worldtimeapi.org/api/'
 
 /* 
