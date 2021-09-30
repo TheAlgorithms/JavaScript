@@ -86,6 +86,8 @@
 
 - [@DeanFowler](https://github.com/DeanFowler)
 
+- [@DedaldinoPapelo](https://github.com/Dedaldino-Papelo)
+
 - [@DivRaw](https://github.com/DivRaw)
 
 - [@Divyateja04](https://github.com/Divyateja04)
@@ -232,6 +234,8 @@
 
 - [@NikhitaThomas](https://github.com/NikhitaThomas/)
 
+- [@Nikola0707](https://github.com/Nikola0707)
+
 - [@Nirbhayparmar](https://github.com/Nirbhayparmar/)
 
 - [@Nirmitjatana](https://github.com/Nirmitjatana/)
@@ -295,6 +299,8 @@
 - [@Schandroid243](https://github.com/Schandroid243)
 
 - [@SebastianAdi](https://github.com/SebastianAdi)
+
+- [@Shimpali](https://github.com/Shimpali)
 
 - [@ShruthiKodle](https://github.com/ShruthiKodle)
 
@@ -360,6 +366,8 @@
 
 - [@abdullah19000](https://github.com/abdullah19000)
 
+- [@abibiii](https://github.com/abibiii)
+
 - [@abishekjoshua](https://github.com/abishek-joshua)
 
 - [@abulyousuf](https://github.com/abulyousuf)
@@ -419,6 +427,8 @@
 - [@ayadarwesh](https://github.com/ayadarwesh)
 
 - [@ayush0111](https://github.com/ayush-0111)
+
+- [@baky0905](https://github.com/baky0905)
 
 - [@bennycwp](https://github.com/bennycwp)
 
@@ -537,8 +547,6 @@
 - [@funnyr0b0t](https://github.com/funnyr0b0t)
 
 - [@fznmlk](https://github.com/fznmlk)
-
-- [@gabriellend](https://github.com/gabriellend)
 
 - [@gabriellend](https://github.com/gabriellend)
 
@@ -889,6 +897,8 @@
 - [@umar052001](https://github.com/umar052001)
 
 - [@varsha631](https://github.com/varsha631)
+
+- [@vbcalinao](https://github.com/vbcalinao)
 
 - [@vjeko95](https://github.com/vjeko95)
 
