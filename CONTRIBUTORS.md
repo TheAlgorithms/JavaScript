@@ -886,6 +886,8 @@
 
 - [@timphamvn33](https://github.com/timphamvn33)
 
+- [@tirtharajsinha](https://github.com/tirtharajsinha)
+
 - [@tnehd1998](https://github.com/tnehd1998)
 
 - [@tranfh](https://github.com/tranfh)
@@ -924,4 +926,3 @@
 
 - [@zedanmaqsood](https://github.com/zedanmaqsood)
 
-- [@tirtharajsinha](https://github.com/tirtharajsinha)
