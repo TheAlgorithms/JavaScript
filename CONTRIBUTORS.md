@@ -232,6 +232,8 @@
 
 - [@NikhitaThomas](https://github.com/NikhitaThomas/)
 
+- [@Nikola0707](https://github.com/Nikola0707)
+
 - [@Nirbhayparmar](https://github.com/Nirbhayparmar/)
 
 - [@Nirmitjatana](https://github.com/Nirmitjatana/)
@@ -905,6 +907,4 @@
 - [@zabarullah](https://github.com/zabarullah)
 
 - [@zedanmaqsood](https://github.com/zedanmaqsood)
-
-- [@Nikola0707](https://github.com/Nikola0707)
 
