@@ -300,6 +300,8 @@
 
 - [@SebastianAdi](https://github.com/SebastianAdi)
 
+- [@Shimpali](https://github.com/Shimpali)
+
 - [@ShruthiKodle](https://github.com/ShruthiKodle)
 
 - [@ShubhamSondkar](https://github.com/ShubhamSondkar/)
@@ -913,4 +915,3 @@
 - [@zabarullah](https://github.com/zabarullah)
 
 - [@zedanmaqsood](https://github.com/zedanmaqsood)
-
