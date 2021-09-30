@@ -156,6 +156,8 @@
 
 - [@JustBaneIsFine](https://github.com/JustBaneIsFine)
 
+- [@KCasie](https://github.com/KCasie)
+
 - [@KaisaSS](https://github.com/KaisaSS/)
 
 - [@Kampani](https://github.com/Kampani)
@@ -925,6 +927,4 @@
 - [@zabarullah](https://github.com/zabarullah)
 
 - [@zedanmaqsood](https://github.com/zedanmaqsood)
-
-- [@KCasie](https://github.com/KCasie)
 
