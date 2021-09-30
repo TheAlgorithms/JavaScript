@@ -86,6 +86,8 @@
 
 - [@DeanFowler](https://github.com/DeanFowler)
 
+- [@DedaldinoPapelo](https://github.com/Dedaldino-Papelo)
+
 - [@DivRaw](https://github.com/DivRaw)
 
 - [@Divyateja04](https://github.com/Divyateja04)
@@ -907,7 +909,4 @@
 - [@zabarullah](https://github.com/zabarullah)
 
 - [@zedanmaqsood](https://github.com/zedanmaqsood)
-
-- [@Dedaldino-Papelo](https://github.com/Dedaldino-Papelo)
-
 
