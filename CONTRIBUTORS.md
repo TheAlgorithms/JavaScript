@@ -54,8 +54,6 @@
 
 - [@Aswin40](https://github.com/Aswin40/)
 
-- [@baky0905](https://github.com/baky0905)
-
 - [@BKmotoz](https://github.com/BKmotoz)
 
 - [@BehnamShahriari](https://github.com/behnam-shahriari)
@@ -425,6 +423,8 @@
 - [@ayadarwesh](https://github.com/ayadarwesh)
 
 - [@ayush0111](https://github.com/ayush-0111)
+
+- [@baky0905](https://github.com/baky0905)
 
 - [@bennycwp](https://github.com/bennycwp)
 
