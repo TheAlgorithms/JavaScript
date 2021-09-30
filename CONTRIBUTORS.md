@@ -540,8 +540,6 @@
 
 - [@gabriellend](https://github.com/gabriellend)
 
-- [@gabriellend](https://github.com/gabriellend)
-
 - [@gastighost](https://github.com/gastighost)
 
 - [@gawbb](https://github.com/gawbb)
