@@ -672,6 +672,8 @@
 
 - [@lsherman2](https://github.com/lsherman2)
 
+- [@lucelledsumalinog](https://github.com/lucelledsumalinog)
+
 - [@lucyd133](https://github.com/lucyd133)
 
 - [@lunatic7](https://github.com/lunatic-7)
@@ -903,7 +905,4 @@
 - [@zabarullah](https://github.com/zabarullah)
 
 - [@zedanmaqsood](https://github.com/zedanmaqsood)
-
-- [@lucelledsumalinog](https://github.com/lucelledsumalinog)
-
 
