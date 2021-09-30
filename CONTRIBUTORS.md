@@ -898,6 +898,8 @@
 
 - [@varsha631](https://github.com/varsha631)
 
+- [@vbcalinao](https://github.com/vbcalinao)
+
 - [@vjeko95](https://github.com/vjeko95)
 
 - [@vsammy](https://github.com/vsammy)
@@ -916,4 +918,3 @@
 
 - [@zedanmaqsood](https://github.com/zedanmaqsood)
 
-- [@vbcalinao](https://github.com/vbcalinao)
