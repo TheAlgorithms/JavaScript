@@ -480,6 +480,8 @@
 
 - [@cynthia0713](https://github.com/cynthia0713)
 
+- [@cyoung11UMBC](https://github.com/cyoung11UMBC)
+
 - [@cyrilechristian](https://github.com/cyrilechristian)
 
 - [@daeima](https://github.com/daeima)
@@ -918,4 +920,3 @@
 
 - [@zedanmaqsood](https://github.com/zedanmaqsood)
 
-- [@cyoung11UMBC](https://github.com/cyoung11UMBC)
