@@ -15,7 +15,7 @@ async function getIPDetails(ipAddress){
 }
 
 const fetchDetailsFromIP = async (ipAddress) =>{
-  let details = await getIpDetails(ipAddress);
+  let details = await getIPDetails(ipAddress);
   console.log(details)
 }
 
