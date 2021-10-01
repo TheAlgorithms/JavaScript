@@ -948,3 +948,4 @@
 
 - [@zedanmaqsood](https://github.com/zedanmaqsood)
 
+- [@darylnauman](https://github.com/darylnauman)
