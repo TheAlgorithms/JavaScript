@@ -14,6 +14,7 @@
  * @param {number} setIndex Index from set of last element in subset
  * @param {sum} Sum of elements from subset
  * @param {targetSum} The target sum on which the subset sum is compared to
+ * @returns {number[][]} Subsets whose elements add up to targetSum
  */
 const subsetSum = (set, subset, setindex, sum, targetSum) => {
     // Base case where the subset sum is equal to target sum
