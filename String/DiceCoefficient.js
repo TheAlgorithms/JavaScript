@@ -48,5 +48,4 @@ function diceCoefficient(stringA, stringB) {
 
   return dice
 }
-
-module.exports = diceCoefficient
+export { diceCoefficient }
