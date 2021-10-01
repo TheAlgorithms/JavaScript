@@ -6,6 +6,7 @@
  *  determine all possible subsets from the given set W whose sum
  *  of its elemets equals to the given value K.
  *
+ *  More info: https://www.geeksforgeeks.org/subset-sum-backtracking-4/
  */
 
 /*
