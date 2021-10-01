@@ -110,6 +110,8 @@
 
 - [@Gaurang20](https://github.com/Gaurang2-0/)
 
+- [@GhostOrder28](https://github.com/GhostOrder28)
+
 - [@Gomatheeswaran](https://github.com/Gomatheeswaran)
 
 - [@Greeshma03](https://github.com/Greeshma-03/)
@@ -928,4 +930,3 @@
 
 - [@zedanmaqsood](https://github.com/zedanmaqsood)
 
-- [@GhostOrder28](https://github.com/GhostOrder28)
