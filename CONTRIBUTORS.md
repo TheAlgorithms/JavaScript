@@ -810,6 +810,8 @@
 
 - [@revilosemaj](https://github.com/revilosemaj)
 
+- [@riomigal](https://github.com/riomigal)
+
 - [@rosajen27](https://github.com/rosajen27)
 
 - [@rzmk](https://github.com/rzmk)
@@ -936,4 +938,3 @@
 
 - [@zedanmaqsood](https://github.com/zedanmaqsood)
 
-- [@riomigal](https://github.com/riomigal)
