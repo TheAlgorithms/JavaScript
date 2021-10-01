@@ -698,6 +698,8 @@
 
 - [@luscarus](https://github.com/luscarus)
 
+- [@m0lese](https://github.com/m0lese)
+
 - [@madura](https://github.com/madura/)
 
 - [@madurayasantha](http://github.com/madurayasantha)
@@ -881,6 +883,8 @@
 - [@tejasn14](https://github.com/tejasn14/)
 
 - [@tejaswate7](https://github.com/tejaswate7)
+
+- [@thinh19981998](https://github.com/thinh19981998)
 
 - [@tiagocostarebelo](https://github.com/tiagocostarebelo)
 
