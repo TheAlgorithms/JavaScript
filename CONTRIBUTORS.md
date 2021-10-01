@@ -942,3 +942,6 @@
 
 - [@zedanmaqsood](https://github.com/zedanmaqsood)
 
+- [@aronjts](https://github.com/aronjts)
+
+- [@CydaCode](https://github.com/CydaCode)
