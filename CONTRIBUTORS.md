@@ -552,6 +552,8 @@
 
 - [@fokouarnaud](https://github.com/fokouarnaud)
 
+- [@freshiro](https://github.com/freshiro)
+
 - [@frontEndJohn](https://github.com/frontEndJohn)
 
 - [@funnyr0b0t](https://github.com/funnyr0b0t)
@@ -808,6 +810,8 @@
 
 - [@revilosemaj](https://github.com/revilosemaj)
 
+- [@riomigal](https://github.com/riomigal)
+
 - [@rosajen27](https://github.com/rosajen27)
 
 - [@rzmk](https://github.com/rzmk)
@@ -924,7 +928,11 @@
 
 - [@wrg9bs](https://github.com/wrg9bs/)
 
+- [@wylenjoan](https://github.com/wylenjoan)
+
 - [@yasharma](https://github.com/yasharma)
+
+- [@yehey1999](https://github.com/yehey1999)
 
 - [@yigitmalik](https://github.com/yigitmalik)
 
