@@ -500,6 +500,8 @@
 
 - [@daisyleemoon](https://github.com/daisyleemoon)
 
+- [@darylnauman](https://github.com/darylnauman)
+
 - [@davdwoo](https://github.com/davdwoo/)
 
 - [@davidmatthewmiller](https://github.com/davidmatthewmiller)
@@ -948,4 +950,3 @@
 
 - [@zedanmaqsood](https://github.com/zedanmaqsood)
 
-- [@darylnauman](https://github.com/darylnauman)
