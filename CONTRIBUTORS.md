@@ -698,6 +698,8 @@
 
 - [@luscarus](https://github.com/luscarus)
 
+- [@m0lese](https://github.com/m0lese)
+
 - [@madura](https://github.com/madura/)
 
 - [@madurayasantha](http://github.com/madurayasantha)
@@ -931,6 +933,4 @@
 - [@zabarullah](https://github.com/zabarullah)
 
 - [@zedanmaqsood](https://github.com/zedanmaqsood)
-
-- [@m0lese](https://github.com/m0lese)
 
