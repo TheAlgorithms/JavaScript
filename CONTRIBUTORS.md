@@ -480,6 +480,8 @@
 
 - [@cjmugs](https://github.com/cjmugs/)
 
+- [@ckosa](https://github.com/ckosa)
+
 - [@coderaulia](https://github.com/coderaulia)
 
 - [@coderj001](https://github.com/coderj001)
@@ -950,4 +952,3 @@
 
 - [@zedanmaqsood](https://github.com/zedanmaqsood)
 
-- [@ckosa](https://github.com/ckosa)
