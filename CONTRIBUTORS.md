@@ -82,6 +82,8 @@
 
 - [@CodeWithBilal](https://github.com/CodeWithBilal)
 
+- [@CydaCode](https://github.com/CydaCode)
+
 - [@DanijelSVK](https://github.com/DanijelSVK)
 
 - [@Davi27](https://github.com/Davi27)
@@ -423,6 +425,8 @@
 - [@arhab07](https://github.com/arhab07)
 
 - [@arishwin](https://github.com/arishwin)
+
+- [@aronjts](https://github.com/aronjts)
 
 - [@arturoturris](https://github.com/arturoturris)
 
@@ -942,6 +946,3 @@
 
 - [@zedanmaqsood](https://github.com/zedanmaqsood)
 
-- [@aronjts](https://github.com/aronjts)
-
-- [@CydaCode](https://github.com/CydaCode)
