@@ -882,6 +882,8 @@
 
 - [@tejaswate7](https://github.com/tejaswate7)
 
+- [@thinh19981998](https://github.com/thinh19981998)
+
 - [@tiagocostarebelo](https://github.com/tiagocostarebelo)
 
 - [@tiagopatriciosantos](https://github.com/tiagopatriciosantos)
@@ -930,4 +932,3 @@
 
 - [@zedanmaqsood](https://github.com/zedanmaqsood)
 
-- [@thinh19981998](https://github.com/thinh19981998)
