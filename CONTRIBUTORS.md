@@ -926,6 +926,8 @@
 
 - [@wrg9bs](https://github.com/wrg9bs/)
 
+- [@wylenjoan](https://github.com/wylenjoan)
+
 - [@yasharma](https://github.com/yasharma)
 
 - [@yigitmalik](https://github.com/yigitmalik)
@@ -935,4 +937,3 @@
 - [@zabarullah](https://github.com/zabarullah)
 
 - [@zedanmaqsood](https://github.com/zedanmaqsood)
-
