@@ -7,8 +7,10 @@
   * [NQueen](https://github.com/TheAlgorithms/Javascript/blob/master/Backtracking/NQueen.js)
   * [RatInAMaze](https://github.com/TheAlgorithms/Javascript/blob/master/Backtracking/RatInAMaze.js)
   * [Sudoku](https://github.com/TheAlgorithms/Javascript/blob/master/Backtracking/Sudoku.js)
+  * [SumOfSubset](https://github.com/TheAlgorithms/Javascript/blob/master/Backtracking/SumOfSubset.js)
   * tests
     * [NQueen](https://github.com/TheAlgorithms/Javascript/blob/master/Backtracking/tests/NQueen.test.js)
+    * [SumOfSubset](https://github.com/TheAlgorithms/Javascript/blob/master/Backtracking/tests/SumOfSubset.test.js)
 
 ## Bit-Manipulation
   * [BinaryCountSetBits](https://github.com/TheAlgorithms/Javascript/blob/master/Bit-Manipulation/BinaryCountSetBits.js)
