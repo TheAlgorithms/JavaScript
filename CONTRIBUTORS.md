@@ -158,6 +158,8 @@
 
 - [@Jizzyjay](https://github.com/Jizzyjay)
 
+- [@jkagawa](https://github.com/jkagawa)
+
 - [@JoeBoy61](https://github.com/JoeBoy61)
 
 - [@JosielMatos](https://github.com/JosielMatos)
@@ -973,4 +975,3 @@
 - [@zabarullah](https://github.com/zabarullah)
 
 - [@zedanmaqsood](https://github.com/zedanmaqsood)
-
