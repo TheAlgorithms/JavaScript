@@ -346,6 +346,7 @@
     * [CheckFlatCase](https://github.com/TheAlgorithms/Javascript/blob/master/String/test/CheckFlatCase.test.js)
     * [CheckPalindrome](https://github.com/TheAlgorithms/Javascript/blob/master/String/test/CheckPalindrome.test.js)
     * [CheckPangram](https://github.com/TheAlgorithms/Javascript/blob/master/String/test/CheckPangram.test.js)
+    * [CheckSnakeCase](https://github.com/TheAlgorithms/Javascript/blob/master/String/test/CheckSnakeCase.test.js)
     * [CreatePermutations](https://github.com/TheAlgorithms/Javascript/blob/master/String/test/CreatePermutations.test.js)
     * [DiceCoefficient](https://github.com/TheAlgorithms/Javascript/blob/master/String/test/DiceCoefficient.test.js)
     * [HammingDistance](https://github.com/TheAlgorithms/Javascript/blob/master/String/test/HammingDistance.test.js)
