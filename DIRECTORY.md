@@ -42,6 +42,7 @@
   * [DecimalToBinary](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/DecimalToBinary.js)
   * [DecimalToHex](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/DecimalToHex.js)
   * [DecimalToOctal](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/DecimalToOctal.js)
+  * [DecimalToRoman](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/DecimalToRoman.js)
   * [HexToDecimal](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/HexToDecimal.js)
   * [HexToRGB](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/HexToRGB.js)
   * [LowerCaseConversion](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/LowerCaseConversion.js)
@@ -50,6 +51,8 @@
   * [RgbHsvConversion](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/RgbHsvConversion.js)
   * [RGBToHex](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/RGBToHex.js)
   * [RomanToDecimal](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/RomanToDecimal.js)
+  * test
+    * [DecimalToRoman](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/test/DecimalToRoman.test.js)
   * [TitleCaseConversion](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/TitleCaseConversion.js)
   * [UpperCaseConversion](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/UpperCaseConversion.js)
 
