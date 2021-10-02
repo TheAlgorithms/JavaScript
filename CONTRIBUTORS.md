@@ -330,6 +330,8 @@
 
 - [@Supratim30](https://github.com/Supratim30)
 
+- [@TAKANOMEDEV](https://github.com/TAKANOME-DEV)
+
 - [@TeoJuca](https://github.com/TeoJuca/)
 
 - [@ThreatMatrix](https://github.com/ThreatMatrix)
@@ -960,4 +962,3 @@
 
 - [@zedanmaqsood](https://github.com/zedanmaqsood)
 
-- [@TAKANOME-DEV](https://github.com/TAKANOME-DEV)
