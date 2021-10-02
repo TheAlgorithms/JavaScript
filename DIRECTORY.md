@@ -365,7 +365,3 @@
 ## Trees
   * [BreadthFirstTreeTraversal](https://github.com/TheAlgorithms/Javascript/blob/master/Trees/BreadthFirstTreeTraversal.js)
   * [DepthFirstSearch](https://github.com/TheAlgorithms/Javascript/blob/master/Trees/DepthFirstSearch.js)
-
-## Web-Programming
-  * [OpenWeatherMaps](https://github.com/TheAlgorithms/Javascript/blob/master/Web-Programming/OpenWeatherMaps.js)
-  * [StockPrice](https://github.com/TheAlgorithms/Javascript/blob/master/Web-Programming/StockPrice.js)
