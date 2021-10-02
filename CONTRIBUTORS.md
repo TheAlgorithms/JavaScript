@@ -330,9 +330,9 @@
 
 - [@Supratim30](https://github.com/Supratim30)
 
-- [@Tarun-Kamboj](https://github.com/Tarun-Kamboj)
-
 - [@TAKANOMEDEV](https://github.com/TAKANOME-DEV)
+
+- [@TarunKamboj](https://github.com/Tarun-Kamboj)
 
 - [@TeoJuca](https://github.com/TeoJuca/)
 
