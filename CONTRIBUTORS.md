@@ -100,6 +100,8 @@
 
 - [@DoubleT1](https://github.com/Double-T1)
 
+- [@EliCoder](https://github.com/EliCoder)
+
 - [@EnverKurbanov](https://github.com/EnverKurbanov)
 
 - [@Ernestocanada](https://github.com/Ernestocanada)
@@ -972,4 +974,3 @@
 
 - [@zedanmaqsood](https://github.com/zedanmaqsood)
 
-- [@EliCoder](https://github.com/EliCoder)
