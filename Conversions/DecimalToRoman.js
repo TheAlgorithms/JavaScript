@@ -49,6 +49,4 @@ function decimalToRoman (num) {
   return roman
 }
 
-console.log(decimalToRoman(34))
-console.log(decimalToRoman(28))
-console.log(decimalToRoman(2021))
+export { decimalToRoman }
