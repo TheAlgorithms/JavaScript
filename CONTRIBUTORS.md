@@ -1,6 +1,6 @@
 # CONTRIBUTORS
 
-- [@Aadi](https://github.com/Aadi2001)
+- [@Aadi2001](https://github.com/Aadi2001)
 
 - [@0000x582d6976](https://github.com/0000x582d6976)
 
