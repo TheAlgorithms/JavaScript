@@ -740,6 +740,8 @@
 
 - [@mohamedvol1](https://github.com/mohamedvol1/)
 
+- [@mohsinsh](https://github.com/mohsin-sh)
+
 - [@moinkhan4](https://github.com/moinkhan4)
 
 - [@mpbasto](https://github.com/mpbasto)
@@ -954,4 +956,3 @@
 
 - [@zedanmaqsood](https://github.com/zedanmaqsood)
 
-- [@mohsin-sh](https://github.com/mohsin-sh)
