@@ -238,7 +238,8 @@
 
 ## Navigation
   * [Haversine](https://github.com/TheAlgorithms/Javascript/blob/master/Navigation/Haversine.js)
-  * [Haversine](https://github.com/TheAlgorithms/Javascript/blob/master/Navigation/Haversine.test.js)
+  * test
+    * [Haversine](https://github.com/TheAlgorithms/Javascript/blob/master/Navigation/test/Haversine.test.js)
 
 ## Project-Euler
   * [Problem013](https://github.com/TheAlgorithms/Javascript/blob/master/Project-Euler/Problem013.js)
@@ -307,11 +308,12 @@
   * [PigeonHoleSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/PigeonHoleSort.js)
   * [QuickSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/QuickSort.js)
   * [QuickSortRecursive](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/QuickSortRecursive.js)
-  * [QuickSortRecursive](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/QuickSortRecursive.test.js)
   * [RadixSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/RadixSort.js)
   * [SelectionSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/SelectionSort.js)
-  * [SelectionSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/SelectionSort.test.js)
   * [ShellSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/ShellSort.js)
+  * test
+    * [QuickSortRecursive](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/test/QuickSortRecursive.test.js)
+    * [SelectionSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/test/SelectionSort.test.js)
   * [TimSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/TimSort.js)
   * [TopologicalSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/TopologicalSort.js)
   * [WiggleSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/WiggleSort.js)
@@ -328,23 +330,17 @@
   * [CheckRearrangePalindrome](https://github.com/TheAlgorithms/Javascript/blob/master/String/CheckRearrangePalindrome.js)
   * [CheckSnakeCase](https://github.com/TheAlgorithms/Javascript/blob/master/String/CheckSnakeCase.js)
   * [CheckVowels](https://github.com/TheAlgorithms/Javascript/blob/master/String/CheckVowels.js)
-  * [CheckVowels](https://github.com/TheAlgorithms/Javascript/blob/master/String/CheckVowels.test.js)
   * [CheckWordOccurrence](https://github.com/TheAlgorithms/Javascript/blob/master/String/CheckWordOccurrence.js)
-  * [CheckWordOcurrence](https://github.com/TheAlgorithms/Javascript/blob/master/String/CheckWordOcurrence.test.js)
   * [CreatePermutations](https://github.com/TheAlgorithms/Javascript/blob/master/String/CreatePermutations.js)
   * [DiceCoefficient](https://github.com/TheAlgorithms/Javascript/blob/master/String/DiceCoefficient.js)
   * [FormatPhoneNumber](https://github.com/TheAlgorithms/Javascript/blob/master/String/FormatPhoneNumber.js)
-  * [FormatPhoneNumber](https://github.com/TheAlgorithms/Javascript/blob/master/String/FormatPhoneNumber.test.js)
   * [GenerateGUID](https://github.com/TheAlgorithms/Javascript/blob/master/String/GenerateGUID.js)
   * [HammingDistance](https://github.com/TheAlgorithms/Javascript/blob/master/String/HammingDistance.js)
   * [KMPPatternSearching](https://github.com/TheAlgorithms/Javascript/blob/master/String/KMPPatternSearching.js)
   * [LevenshteinDistance](https://github.com/TheAlgorithms/Javascript/blob/master/String/LevenshteinDistance.js)
-  * [LevenshteinDistance](https://github.com/TheAlgorithms/Javascript/blob/master/String/LevenshteinDistance.test.js)
   * [MaxCharacter](https://github.com/TheAlgorithms/Javascript/blob/master/String/MaxCharacter.js)
-  * [MaxCharacter](https://github.com/TheAlgorithms/Javascript/blob/master/String/MaxCharacter.test.js)
   * [PatternMatching](https://github.com/TheAlgorithms/Javascript/blob/master/String/PatternMatching.js)
   * [PermutateString](https://github.com/TheAlgorithms/Javascript/blob/master/String/PermutateString.js)
-  * [PermutateString](https://github.com/TheAlgorithms/Javascript/blob/master/String/PermutateString.test.js)
   * [ReverseString](https://github.com/TheAlgorithms/Javascript/blob/master/String/ReverseString.js)
   * [ReverseWords](https://github.com/TheAlgorithms/Javascript/blob/master/String/ReverseWords.js)
   * [ScrambleStrings](https://github.com/TheAlgorithms/Javascript/blob/master/String/ScrambleStrings.js)
@@ -355,20 +351,28 @@
     * [CheckPalindrome](https://github.com/TheAlgorithms/Javascript/blob/master/String/test/CheckPalindrome.test.js)
     * [CheckPangram](https://github.com/TheAlgorithms/Javascript/blob/master/String/test/CheckPangram.test.js)
     * [CheckSnakeCase](https://github.com/TheAlgorithms/Javascript/blob/master/String/test/CheckSnakeCase.test.js)
+    * [CheckVowels](https://github.com/TheAlgorithms/Javascript/blob/master/String/test/CheckVowels.test.js)
+    * [CheckWordOcurrence](https://github.com/TheAlgorithms/Javascript/blob/master/String/test/CheckWordOcurrence.test.js)
     * [CreatePermutations](https://github.com/TheAlgorithms/Javascript/blob/master/String/test/CreatePermutations.test.js)
     * [DiceCoefficient](https://github.com/TheAlgorithms/Javascript/blob/master/String/test/DiceCoefficient.test.js)
+    * [FormatPhoneNumber](https://github.com/TheAlgorithms/Javascript/blob/master/String/test/FormatPhoneNumber.test.js)
     * [HammingDistance](https://github.com/TheAlgorithms/Javascript/blob/master/String/test/HammingDistance.test.js)
     * [KMPPatternSearching](https://github.com/TheAlgorithms/Javascript/blob/master/String/test/KMPPatternSearching.test.js)
+    * [LevenshteinDistance](https://github.com/TheAlgorithms/Javascript/blob/master/String/test/LevenshteinDistance.test.js)
+    * [MaxCharacter](https://github.com/TheAlgorithms/Javascript/blob/master/String/test/MaxCharacter.test.js)
     * [PatternMatching](https://github.com/TheAlgorithms/Javascript/blob/master/String/test/PatternMatching.test.js)
+    * [PermutateString](https://github.com/TheAlgorithms/Javascript/blob/master/String/test/PermutateString.test.js)
     * [ReverseString](https://github.com/TheAlgorithms/Javascript/blob/master/String/test/ReverseString.test.js)
     * [ReverseWords](https://github.com/TheAlgorithms/Javascript/blob/master/String/test/ReverseWords.test.js)
+    * [ScrambleStrings](https://github.com/TheAlgorithms/Javascript/blob/master/String/test/ScrambleStrings.test.js)
     * [ValidateEmail](https://github.com/TheAlgorithms/Javascript/blob/master/String/test/ValidateEmail.test.js)
   * [ValidateEmail](https://github.com/TheAlgorithms/Javascript/blob/master/String/ValidateEmail.js)
 
 ## Timing-Functions
   * [GetMonthDays](https://github.com/TheAlgorithms/Javascript/blob/master/Timing-Functions/GetMonthDays.js)
-  * [GetMonthDays](https://github.com/TheAlgorithms/Javascript/blob/master/Timing-Functions/GetMonthDays.test.js)
   * [IntervalTimer](https://github.com/TheAlgorithms/Javascript/blob/master/Timing-Functions/IntervalTimer.js)
+  * test
+    * [GetMonthDays](https://github.com/TheAlgorithms/Javascript/blob/master/Timing-Functions/test/GetMonthDays.test.js)
 
 ## Trees
   * [BreadthFirstTreeTraversal](https://github.com/TheAlgorithms/Javascript/blob/master/Trees/BreadthFirstTreeTraversal.js)
