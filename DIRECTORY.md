@@ -252,9 +252,11 @@
   * [Problem5](https://github.com/TheAlgorithms/Javascript/blob/master/Project-Euler/Problem5.js)
   * [Problem6](https://github.com/TheAlgorithms/Javascript/blob/master/Project-Euler/Problem6.js)
   * [Problem7](https://github.com/TheAlgorithms/Javascript/blob/master/Project-Euler/Problem7.js)
+  * [Problem8](https://github.com/TheAlgorithms/Javascript/blob/master/Project-Euler/Problem8.js)
   * [Problem9](https://github.com/TheAlgorithms/Javascript/blob/master/Project-Euler/Problem9.js)
   * test
     * [Problem10](https://github.com/TheAlgorithms/Javascript/blob/master/Project-Euler/test/Problem10.test.js)
+    * [Problem8](https://github.com/TheAlgorithms/Javascript/blob/master/Project-Euler/test/Problem8.test.js)
 
 ## Recursive
   * [BinaryEquivalent](https://github.com/TheAlgorithms/Javascript/blob/master/Recursive/BinaryEquivalent.js)
