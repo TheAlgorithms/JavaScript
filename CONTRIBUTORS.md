@@ -100,6 +100,8 @@
 
 - [@DoubleT1](https://github.com/Double-T1)
 
+- [@EliCoder](https://github.com/EliCoder)
+
 - [@EnverKurbanov](https://github.com/EnverKurbanov)
 
 - [@Ernestocanada](https://github.com/Ernestocanada)
@@ -649,6 +651,8 @@
 - [@jeddy019](https://github.com/jeddy019)
 
 - [@jjrock36](https://github.com/jjrock36)
+
+- [@jkagawa](https://github.com/jkagawa)
 
 - [@jlangenhagen](https://github.com/jlangenhagen)
 
