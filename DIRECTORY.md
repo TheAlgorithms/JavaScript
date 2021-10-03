@@ -348,6 +348,7 @@
   * [ReverseWords](https://github.com/TheAlgorithms/Javascript/blob/master/String/ReverseWords.js)
   * test
     * [CheckAnagram](https://github.com/TheAlgorithms/Javascript/blob/master/String/test/CheckAnagram.test.js)
+    * [CheckCamelCase](https://github.com/TheAlgorithms/Javascript/blob/master/String/test/CheckCamelCase.test.js)
     * [CheckFlatCase](https://github.com/TheAlgorithms/Javascript/blob/master/String/test/CheckFlatCase.test.js)
     * [CheckPalindrome](https://github.com/TheAlgorithms/Javascript/blob/master/String/test/CheckPalindrome.test.js)
     * [CheckPangram](https://github.com/TheAlgorithms/Javascript/blob/master/String/test/CheckPangram.test.js)
