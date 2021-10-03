@@ -1,18 +1,24 @@
 # This GitHub Action updates the DIRECTORY.md file (if needed) when doing a git push
-name: update_directory_md
+name: Update Directory
+
 on: [push]
+
 jobs:
-  update_directory_md:
+  updateDirectory:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@master
-      - uses: actions/setup-node@v1
-      - run: |
-          node .github/workflows/UpdateDirectory.js
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+
+      - name: 🗄️ Create Directory from JS files
+        run: node .github/workflows/UpdateDirectory.js
+
+      - name: 🤓 Commit & push new Directory (if needed)
+        run: |
           cat DIRECTORY.md
           git config --global user.name github-actions
           git config --global user.email '${GITHUB_ACTOR}@users.noreply.github.com'
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/$GITHUB_REPOSITORY
-          git add DIRECTORY.md
-          git commit -am "updating DIRECTORY.md" ||  true
-          git push --force origin HEAD:$GITHUB_REF || true
+          .github/workflows/commitAndPushDirectory.sh
