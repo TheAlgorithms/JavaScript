@@ -52,6 +52,7 @@
   * [RGBToHex](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/RGBToHex.js)
   * [RomanToDecimal](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/RomanToDecimal.js)
   * test
+    * [DecimalToHex](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/test/DecimalToHex.test.js)
     * [DecimalToRoman](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/test/DecimalToRoman.test.js)
   * [TitleCaseConversion](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/TitleCaseConversion.js)
   * [UpperCaseConversion](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/UpperCaseConversion.js)
