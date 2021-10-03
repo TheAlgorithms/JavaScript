@@ -10,6 +10,7 @@
   * [SumOfSubset](https://github.com/TheAlgorithms/Javascript/blob/master/Backtracking/SumOfSubset.js)
   * tests
     * [NQueen](https://github.com/TheAlgorithms/Javascript/blob/master/Backtracking/tests/NQueen.test.js)
+    * [Sudoku](https://github.com/TheAlgorithms/Javascript/blob/master/Backtracking/tests/Sudoku.test.js)
     * [SumOfSubset](https://github.com/TheAlgorithms/Javascript/blob/master/Backtracking/tests/SumOfSubset.test.js)
 
 ## Bit-Manipulation
