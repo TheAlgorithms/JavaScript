@@ -347,6 +347,7 @@
   * [PermutateString](https://github.com/TheAlgorithms/Javascript/blob/master/String/PermutateString.test.js)
   * [ReverseString](https://github.com/TheAlgorithms/Javascript/blob/master/String/ReverseString.js)
   * [ReverseWords](https://github.com/TheAlgorithms/Javascript/blob/master/String/ReverseWords.js)
+  * [ScrambleStrings](https://github.com/TheAlgorithms/Javascript/blob/master/String/ScrambleStrings.js)
   * test
     * [CheckAnagram](https://github.com/TheAlgorithms/Javascript/blob/master/String/test/CheckAnagram.test.js)
     * [CheckCamelCase](https://github.com/TheAlgorithms/Javascript/blob/master/String/test/CheckCamelCase.test.js)
