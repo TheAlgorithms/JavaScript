@@ -1,4 +1,4 @@
-import { shuffle } from '../fisherYatesShuffle'
+import { shuffle } from '../FisherYatesShuffle'
 
 describe('shuffle', () => {
   it('expects to have a new array with same size', () => {
