@@ -5,7 +5,7 @@
   find the length of the longest valid (well-formed) parentheses substring.
 */
 
-const longestValidParentheses = (s) => {
+export const longestValidParentheses = (s) => {
   const n = s.length
   const stack = []
 
@@ -33,11 +33,3 @@ const longestValidParentheses = (s) => {
   res.push(0)
   return Math.max(...res)
 }
-
-const main = () => {
-  console.log(longestValidParentheses(')()())')) // output -> 4
-  console.log(longestValidParentheses('')) // output -> 0
-  console.log(longestValidParentheses('(()')) // output -> 2
-}
-
-main()
