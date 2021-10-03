@@ -1,7 +1,5 @@
 # CONTRIBUTORS
 
--[@mojok1444]https://github.com/mojok1444/
-
 - [@0000x582d6976](https://github.com/0000x582d6976)
 
 - [@6586rajan](https://github.com/6586rajan)
@@ -765,6 +763,8 @@
 - [@mohsinsh](https://github.com/mohsin-sh)
 
 - [@moinkhan4](https://github.com/moinkhan4)
+
+- [@mojok1444]()
 
 - [@mpbasto](https://github.com/mpbasto)
 
