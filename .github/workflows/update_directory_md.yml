@@ -12,6 +12,9 @@ jobs:
         with:
           node-version: '14'
 
+      - name: 📦 Install dependencies
+        run: npm ci
+
       - name: 🗄️ Create Directory from JS files
         run: node .github/workflows/UpdateDirectory.mjs
 
