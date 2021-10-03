@@ -280,6 +280,8 @@
 
 - [@Prithviraj1810](https://github.com/Prithviraj1810)
 
+- [@Rahdeg](https://github.com/Rahdeg/)
+
 - [@RamChandraMarandi](https://github.com/Ram-Chandra-Marandi)
 
 - [@Ranaak](https://github.com/Rana-a-k)
@@ -972,4 +974,3 @@
 
 - [@zedanmaqsood](https://github.com/zedanmaqsood)
 
-- [@Rahdeg](https://github.com/Rahdeg/)
