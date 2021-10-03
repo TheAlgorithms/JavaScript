@@ -874,6 +874,8 @@
 
 - [@sayedsadat98](https://github.com/sayedsadat98)
 
+- [@scajago](https://github.com/SCAJago)
+
 - [@sdangoy](https://github.com/sdangoy)
 
 - [@sebgeomag](https://github.com/sebgeomag)
@@ -984,4 +986,3 @@
 
 - [@zedanmaqsood](https://github.com/zedanmaqsood)
 
-- [@scajago](https://github.com/SCAJago)
