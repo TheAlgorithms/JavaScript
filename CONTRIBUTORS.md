@@ -660,6 +660,8 @@
 
 - [@johngehring2008](https://github.com/johngehring2008/)
 
+- [@johnnakate](https://github.com/johnnakate)
+
 - [@johnyun930](https://github.com/johnyun930)
 
 - [@jsphdon](https://github.com/jsphdon)
@@ -976,4 +978,3 @@
 
 - [@zedanmaqsood](https://github.com/zedanmaqsood)
 
-- [@johnnakate](https://github.com/johnnakate)
