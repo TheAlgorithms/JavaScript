@@ -21,12 +21,14 @@ const solved = [
   [8, 5, 1, 7, 9, 2, 6, 4, 3],
   [1, 3, 8, 9, 4, 7, 2, 5, 6],
   [6, 9, 2, 3, 5, 1, 8, 7, 4],
-  [7, 4, 5, 2, 8, 6, 3, 1, 9],
+  [7, 4, 5, 2, 8, 6, 3, 1, 9]
 ]
 
 describe('Sudoku', () => {
   it('should create a valid board successfully', () => {
-    expect(() => {new Sudoku(data)}).not.toThrow()
+    // we deliberately want to check whether this constructor call fails or not
+    // eslint-disable-next-line no-new
+    expect(() => { new Sudoku(data) }).not.toThrow()
   })
 
   it('should find an empty cell', () => {
