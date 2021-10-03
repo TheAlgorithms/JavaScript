@@ -47,4 +47,4 @@ const helper = function (dp, s1, s2) {
   return false
 }
 
-console.log(isScramble('great', 'rgeat'))
+export { isScramble }

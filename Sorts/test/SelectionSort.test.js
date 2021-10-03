@@ -1,4 +1,4 @@
-import { selectionSort } from './SelectionSort'
+import { selectionSort } from '../SelectionSort'
 
 describe('selectionSort', () => {
   it('expects to return the array sorted in ascending order', () => {

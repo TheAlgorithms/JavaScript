@@ -1,4 +1,4 @@
-import { haversineDistance } from './Haversine'
+import { haversineDistance } from '../Haversine'
 
 describe('Testing the haversine distance calculator', () => {
   it('Calculate distance', () => {
