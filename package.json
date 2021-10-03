@@ -27,6 +27,7 @@
   "devDependencies": {
     "babel-jest": "^26.3.0",
     "doctest": "^0.17.1",
+    "globby": "^12.0.2",
     "jest": "^26.4.2",
     "standard": "^14.3.4"
   }

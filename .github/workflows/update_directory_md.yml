@@ -13,7 +13,7 @@ jobs:
           node-version: '14'
 
       - name: 🗄️ Create Directory from JS files
-        run: node .github/workflows/UpdateDirectory.js
+        run: node .github/workflows/UpdateDirectory.mjs
 
       - name: 🤓 Commit & push new Directory (if needed)
         run: |
