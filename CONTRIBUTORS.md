@@ -912,6 +912,8 @@
 
 - [@swaydevstan](https://github.com/swaydevstan/)
 
+- [@talhaarshad7](https://github.com/talhaarshad7)
+
 - [@tanviranjum1](https://github.com/tanviranjum1/)
 
 - [@tatianabuiucli](https://github.com/tatianabuiucli)
@@ -976,4 +978,3 @@
 
 - [@zedanmaqsood](https://github.com/zedanmaqsood)
 
-- [@talhaarshad7](https://github.com/talhaarshad7)
