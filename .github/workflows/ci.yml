@@ -13,17 +13,11 @@ jobs:
 
     - name: 📦 Install dependencies
       run: npm ci
-      env:
-        CI: true
 
     - name: 🧪 Run tests
       run: |
         npm run doctest || true # TODO: Add all doctests
         npm test
-      env:
-        CI: true
 
     - name: 💄 Code style
       run: npm run style
-      env:
-        CI: true
