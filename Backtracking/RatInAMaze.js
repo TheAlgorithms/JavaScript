@@ -6,6 +6,8 @@
  * - The rat can not move diagonally.
  *
  * Reference for this problem: https://www.geeksforgeeks.org/rat-in-a-maze-backtracking-2/
+ *
+ * Based on the original implementation contributed by Chiranjeev Thapliyal (https://github.com/chiranjeev-thapliyal).
  */
 
 /**
@@ -110,6 +112,7 @@ export class RatInAMaze {
   /** Path from the source [0, 0] to the target [N-1, N-1]. */
   #_path = ''
 
+  /** Whether the rat could find a way to the target or not. */
   #_solved = false
 
   constructor (grid) {
