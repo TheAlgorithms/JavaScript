@@ -297,6 +297,7 @@
   * [CountingSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/CountingSort.js)
   * [CycleSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/CycleSort.js)
   * [FindSecondLargestElement](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/FindSecondLargestElement.js)
+  * [FisherYatesShuffle](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/FisherYatesShuffle.js)
   * [FlashSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/FlashSort.js)
   * [GnomeSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/GnomeSort.js)
   * [HeapSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/HeapSort.js)
@@ -312,6 +313,7 @@
   * [SelectionSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/SelectionSort.js)
   * [ShellSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/ShellSort.js)
   * test
+    * [FisherYatesShuffle](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/test/FisherYatesShuffle.test.js)
     * [QuickSortRecursive](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/test/QuickSortRecursive.test.js)
     * [SelectionSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/test/SelectionSort.test.js)
   * [TimSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/TimSort.js)
