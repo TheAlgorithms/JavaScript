@@ -1,4 +1,4 @@
-import { checkVowels } from './CheckVowels'
+import { checkVowels } from '../CheckVowels'
 
 describe('Test the checkVowels function', () => {
   it('expect throws on use wrong param', () => {

@@ -1,4 +1,4 @@
-import { maxCharacter } from './MaxCharacter'
+import { maxCharacter } from '../MaxCharacter'
 
 describe('Testing the maxCharacter function', () => {
   it('Expect throw with wrong arg', () => {

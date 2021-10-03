@@ -1,4 +1,4 @@
-import { checkWordOccurrence } from './CheckWordOccurrence'
+import { checkWordOccurrence } from '../CheckWordOccurrence'
 describe('checkWordOccurrence', () => {
   it('expects throw on insert wrong string', () => {
     const value = 123

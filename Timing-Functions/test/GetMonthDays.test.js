@@ -1,4 +1,4 @@
-import { getMonthDays } from './GetMonthDays'
+import { getMonthDays } from '../GetMonthDays'
 
 describe('Get the Days of a Month', () => {
   it('expects to return 28', () => {
