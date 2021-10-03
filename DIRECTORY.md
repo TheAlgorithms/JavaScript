@@ -109,6 +109,7 @@
     * [CoinChange](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/tests/CoinChange.test.js)
     * [LongestPalindromicSubsequence](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/tests/LongestPalindromicSubsequence.test.js)
     * [LongestValidParentheses](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/tests/LongestValidParentheses.test.js)
+    * [TrappingRainWater](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/tests/TrappingRainWater.test.js)
   * [TrappingRainWater](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/TrappingRainWater.js)
   * [ZeroOneKnapsack](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/ZeroOneKnapsack.js)
 
