@@ -1,4 +1,4 @@
-function intToHex(num) {
+function intToHex (num) {
   switch (num) {
     case 10: return 'A'
     case 11: return 'B'
@@ -10,7 +10,7 @@ function intToHex(num) {
   return num
 }
 
-function decimalToHex(num) {
+function decimalToHex (num) {
   const hexOut = []
   while (num > 15) {
     hexOut.unshift(intToHex(num % 16))
