@@ -10,6 +10,7 @@
   * [SumOfSubset](https://github.com/TheAlgorithms/Javascript/blob/master/Backtracking/SumOfSubset.js)
   * tests
     * [NQueen](https://github.com/TheAlgorithms/Javascript/blob/master/Backtracking/tests/NQueen.test.js)
+    * [RatInAMaze](https://github.com/TheAlgorithms/Javascript/blob/master/Backtracking/tests/RatInAMaze.test.js)
     * [Sudoku](https://github.com/TheAlgorithms/Javascript/blob/master/Backtracking/tests/Sudoku.test.js)
     * [SumOfSubset](https://github.com/TheAlgorithms/Javascript/blob/master/Backtracking/tests/SumOfSubset.test.js)
 
