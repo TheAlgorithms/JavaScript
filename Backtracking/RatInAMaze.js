@@ -108,13 +108,6 @@ function getPath (grid) {
  * Creates an instance of the "rat in a maze" based on a given grid (maze).
  */
 export class RatInAMaze {
-
-  /** Path from the source [0, 0] to the target [N-1, N-1]. */
-  #_path = ''
-
-  /** Whether the rat could find a way to the target or not. */
-  #_solved = false
-
   constructor (grid) {
     // first, let's do some error checking on the input
     validateGrid(grid)
@@ -123,17 +116,11 @@ export class RatInAMaze {
     const solution = getPath(grid)
 
     if (solution !== false) {
-      this.#_path = solution
-      this.#_solved = true
+      this.path = solution
+      this.solved = true
+    } else {
+      this.path = ''
+      this.solved = false
     }
   }
-
-  get solved () {
-    return this.#_solved
-  }
-
-  get path () {
-    return this.#_path
-  }
-
 }

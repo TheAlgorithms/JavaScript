@@ -5,12 +5,16 @@ describe('RatInAMaze', () => {
     const values = [undefined, null, {}, 42, 'hello, world']
 
     for (const value of values) {
-      expect(() => {new RatInAMaze(value)}).toThrow()
+      // we deliberately want to check whether this constructor call fails or not
+      // eslint-disable-next-line no-new
+      expect(() => { new RatInAMaze(value) }).toThrow()
     }
   })
 
   it('should fail for an empty array', () => {
-    expect(() => {new RatInAMaze([])}).toThrow()
+    // we deliberately want to check whether this constructor call fails or not
+    // eslint-disable-next-line no-new
+    expect(() => { new RatInAMaze([]) }).toThrow()
   })
 
   it('should fail for a non-square array', () => {
@@ -19,14 +23,18 @@ describe('RatInAMaze', () => {
       [0, 0]
     ]
 
-    expect(() => {new RatInAMaze(array)}).toThrow()
+    // we deliberately want to check whether this constructor call fails or not
+    // eslint-disable-next-line no-new
+    expect(() => { new RatInAMaze(array) }).toThrow()
   })
 
   it('should fail for arrays containing invalid values', () => {
     const values = [[[2]], [['a']]]
 
     for (const value of values) {
-      expect(() => {new RatInAMaze(value)}).toThrow()
+      // we deliberately want to check whether this constructor call fails or not
+      // eslint-disable-next-line no-new
+      expect(() => { new RatInAMaze(value) }).toThrow()
     }
   })
 
