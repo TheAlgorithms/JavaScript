@@ -532,6 +532,8 @@
 
 - [@didargml](https://github.com/didargml)
 
+- [@rajulkoshta](https://github.com/rajulkoshta)
+
 - [@diegodavilafreitas](https://github.com/diegodavilafreitas)
 
 - [@dinopoblete](https://github.com/dino-poblete/)
