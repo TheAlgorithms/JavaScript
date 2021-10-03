@@ -1,7 +1,7 @@
 export const shuffle = (array) => {
-  let maxLength = array.length,
-    temp,
-    idx
+  let maxLength = array.length
+  let temp
+  let idx
 
   // While there remain elements to shuffle...
   while (maxLength) {
