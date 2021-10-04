@@ -11,7 +11,7 @@ const mergeTwoLists = (l1, l2) => {
   let node = l1
   if (!l1) return l2
   if (!l2) return l1
-  if (!l1 || !l2) return null
+  if (!l1 && !l2) return null
   while (node.next) {
     node = node.next
   }
