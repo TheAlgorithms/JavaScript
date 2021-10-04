@@ -986,3 +986,4 @@
 
 - [@zedanmaqsood](https://github.com/zedanmaqsood)
 
+- [@fpladano](https://github.com/fpladano)
