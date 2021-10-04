@@ -86,6 +86,8 @@
 
 - [@DanijelSVK](https://github.com/DanijelSVK)
 
+- [@Darksied95](https://github.com/darksied95)
+
 - [@Davi27](https://github.com/Davi27)
 
 - [@DeanFowler](https://github.com/DeanFowler)
@@ -536,6 +538,8 @@
 
 - [@dhsluk](https://github.com/dhsluk)
 
+- [@dhurika](https://github.com/Dhurika)
+
 - [@didargml](https://github.com/didargml)
 
 - [@diegodavilafreitas](https://github.com/diegodavilafreitas)
@@ -603,6 +607,8 @@
 - [@hanakamer](https://github.com/hanakamer)
 
 - [@harry7337](https://github.com/harry7337)
+
+- [@harsh5902](https://github.com/harsh5902)
 
 - [@hasancho](https://github.com/hasancho)
 
@@ -977,6 +983,8 @@
 - [@wylenjoan](https://github.com/wylenjoan)
 
 - [@xAJesus](https://github.com/xAJesus)
+
+- [@y0nutz2015123](https://github.com/y0nutz2015123)
 
 - [@y0nutz2015123](https://github.com/y0nutz2015123)
 
