@@ -53,7 +53,7 @@ function bucketSort (list, size) {
   const sorted = []
   // now sort every bucket and merge it to the sorted list
   for (let iBucket = 0; iBucket < buckets.length; iBucket++) {
-    const arr = buckets[iBucket].sort()
+    const arr = buckets[iBucket].sort((a, b) => a - b)
     for (let iSorted = 0; iSorted < arr.length; iSorted++) {
       sorted.push(arr[iSorted])
     }
