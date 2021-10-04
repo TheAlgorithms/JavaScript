@@ -12,4 +12,8 @@ describe('Pow', () => {
   it('should return the base to the exponent power', () => {
     expect(pow(24, 4)).toBe(331776)
   })
+
+  it('should return 0.25 for numbers with base 2 and exponent -2', () => {
+    expect(pow(2, -2)).toBe(0.25)
+  })
 })
