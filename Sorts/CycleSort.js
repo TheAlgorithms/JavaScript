@@ -8,6 +8,12 @@
  * Wikipedia: https://en.wikipedia.org/wiki/Cycle_sort
  */
 
+/**
+ * cycleSort takes an input array of numbers and returns the array sorted in increasing order.
+ *
+ * @param {number[]} list An array of numbers to be sorted.
+ * @return {number[]} An array of numbers sorted in increasing order.
+ */
 function cycleSort (list) {
   let writes = 0
   for (let cycleStart = 0; cycleStart < list.length; cycleStart++) {
