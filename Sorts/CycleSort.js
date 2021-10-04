@@ -57,7 +57,7 @@ function cycleSort (list) {
       writes++
     }
   }
-  return writes
+  return list
 }
 
 /**
