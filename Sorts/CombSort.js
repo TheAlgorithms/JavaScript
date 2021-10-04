@@ -60,3 +60,5 @@ console.log(array)
 console.log('- After Sort | Implementation of Comb Sort -')
 console.log(combSort(array))
 console.log('\n')
+
+export { combSort }
