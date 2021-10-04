@@ -1,5 +1,8 @@
 /*
-    Problem statement and Explanation : https://www.codeproject.com/Tips/162540/Letter-Case-Conversion-Algorithms-Title-Case-Toggl
+    Problem statement and Explanation : https://www.codeproject.com/Tips/162540/Letter-Case-Conversion-Algorithms-Title-Case-Toggl.
+    [Title case](https://en.wikipedia.org/wiki/Title_case) is a style where all words are capitalized. Officially, title case
+    does not capitalize some words, such as very short words like "a" or "is", but for the purposes of this function, a general approach
+    is taken where all words are capitalized regarless of length.
 */
 
 /**
