@@ -18,7 +18,7 @@ Best Case O(n); Average Case O(n); Worst Case O(n)
  * @param {number[]} list The array of numbers to be sorted.
  * @param {number} size The size of the buckets used. If not provided, size will be 5.
  * @return {number[]} An array of numbers sorted in increasing order.
-*/
+ */
 function bucketSort (list, size) {
   if (undefined === size) {
     size = 5
