@@ -1,5 +1,5 @@
 /*
-Wikipedia says: Bucket sort, or bin sort, is a sorting algorithm that works by distributing the
+[Wikipedia says](https://en.wikipedia.org/wiki/Bucket_sort#:~:text=Bucket%20sort%2C%20or%20bin%20sort,applying%20the%20bucket%20sorting%20algorithm.&text=Sort%20each%20non%2Dempty%20bucket.): Bucket sort, or bin sort, is a sorting algorithm that works by distributing the
 elements of an array into a number of buckets. Each bucket is then sorted individually, either using
 a different sorting algorithm, or by recursively applying the bucket sorting algorithm. It is a
 distribution sort, and is a cousin of radix sort in the most to least significant digit flavour.
