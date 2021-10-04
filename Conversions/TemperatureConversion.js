@@ -134,7 +134,7 @@ const reaumur_to_rankine = (reaumur ) => {
     return  Math.round(( (reaumur) * 2.25 + 32 + 459.67) )
 }
 
-module.exports = {
+export {
     celsius_to_fahrenheit,celsius_to_kelvin,celsius_to_rankine,
     fahrenheit_to_celsius,fahrenheit_to_kelvin,fahrenheit_to_rankine,
     kelvin_to_celsius,kelvin_to_fahrenheit,kelvin_to_rankine,
