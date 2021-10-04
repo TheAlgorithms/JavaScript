@@ -7,7 +7,7 @@
  * @param {String} inputString input string
  * @returns {String}
  */
-const TitleCaseConversion = (inputString) => {
+const titleCaseConversion = (inputString) => {
   // Extact all space seprated string.
   const stringCollections = inputString.split(' ').map(word => {
     let firstChar = ''
