@@ -11,11 +11,11 @@
 */
 
 /**
- * UpperCaseConversion takes any case-style string and converts it to the uppercase-style string.
+ * upperCaseConversion takes any case-style string and converts it to the uppercase-style string.
  * @param {string} inputString Any case style string
  * @returns {string} Uppercase string
  */
-const UpperCaseConversion = (inputString) => {
+const upperCaseConversion = (inputString) => {
   // Take a string and split it into characters.
   const newString = inputString.split('').map(char => {
     // Get a character code by the use charCodeAt method.
@@ -32,4 +32,4 @@ const UpperCaseConversion = (inputString) => {
   return newString.join('')
 }
 
-export { UpperCaseConversion }
+export { upperCaseConversion }
