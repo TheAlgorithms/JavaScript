@@ -11,6 +11,7 @@
  * @returns {string} A string that is in title case.
  */
 const titleCaseConversion = (inputString) => {
+  if (inputString === '') return ''
   // Extact all space seprated string.
   const stringCollections = inputString.split(' ').map(word => {
     let firstChar = ''
