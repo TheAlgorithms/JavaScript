@@ -39,4 +39,4 @@ const titleCaseConversion = (inputString) => {
   return stringCollections.join(' ')
 }
 
-module.exports = TitleCaseConversion
+export { titleCaseConversion }
