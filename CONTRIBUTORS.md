@@ -128,6 +128,8 @@
 
 - [@HaylzRandom](https://github.com/HaylzRandom)
 
+- [@HrushikeshMandekar](https://github.com/HrushikeshMandekar)
+
 - [@Iamcrazymanny](https://github.com/Iamcrazymanny)
 
 - [@Ibrahim](https://github.com/piincher)
@@ -987,6 +989,4 @@
 - [@zabarullah](https://github.com/zabarullah)
 
 - [@zedanmaqsood](https://github.com/zedanmaqsood)
-
-- [@HrushikeshMandekar](https://github.com/HrushikeshMandekar)
 
