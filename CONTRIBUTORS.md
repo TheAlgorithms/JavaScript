@@ -282,6 +282,8 @@
 
 - [@Prithviraj1810](https://github.com/Prithviraj1810)
 
+- [@ProgrammerRDAI](https://github.com/Programmer-RD-AI)
+
 - [@Rahdeg](https://github.com/Rahdeg/)
 
 - [@RamChandraMarandi](https://github.com/Ram-Chandra-Marandi)
@@ -990,4 +992,3 @@
 
 - [@zedanmaqsood](https://github.com/zedanmaqsood)
 
-- [@Programmer-RD-AI](https://github.com/Programmer-RD-AI)
