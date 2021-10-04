@@ -572,6 +572,8 @@
 
 - [@fokouarnaud](https://github.com/fokouarnaud)
 
+- [@fpladano](https://github.com/fpladano)
+
 - [@freshiro](https://github.com/freshiro)
 
 - [@frontEndJohn](https://github.com/frontEndJohn)
@@ -986,4 +988,3 @@
 
 - [@zedanmaqsood](https://github.com/zedanmaqsood)
 
-- [@fpladano](https://github.com/fpladano)
