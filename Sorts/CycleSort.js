@@ -71,3 +71,5 @@ console.log(array)
 console.log('- After Sort | Implementation of Cycle Sort -')
 console.log(cycleSort(array))
 console.log('\n')
+
+export { cycleSort }
