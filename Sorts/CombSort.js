@@ -16,7 +16,13 @@
  * Wikipedia: https://en.wikipedia.org/wiki/Comb_sort
  */
 
-function combSort (list) {
+/**
+ * combSort returns an array of numbers sorted in increasing order.
+ *
+ * @param {number[]} list The array of numbers to sort.
+ * @return {number[]} The array of numbers sorted in increasing order.
+ */
+function combSort(list) {
   if (list.length === 0) {
     return list
   }
