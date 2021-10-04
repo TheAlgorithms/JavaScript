@@ -536,6 +536,8 @@
 
 - [@dhsluk](https://github.com/dhsluk)
 
+- [@dhurika](https://github.com/Dhurika)
+
 - [@didargml](https://github.com/didargml)
 
 - [@diegodavilafreitas](https://github.com/diegodavilafreitas)
@@ -994,4 +996,3 @@
 
 - [@zedanmaqsood](https://github.com/zedanmaqsood)
 
-- [@dhurika](https://github.com/Dhurika)
