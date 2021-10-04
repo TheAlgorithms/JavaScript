@@ -22,7 +22,7 @@
  * @param {number[]} list The array of numbers to sort.
  * @return {number[]} The array of numbers sorted in increasing order.
  */
-function combSort(list) {
+function combSort (list) {
   if (list.length === 0) {
     return list
   }
