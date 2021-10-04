@@ -32,4 +32,4 @@ const UpperCaseConversion = (inputString) => {
   return newString.join('')
 }
 
-module.exports = UpperCaseConversion
+export { UpperCaseConversion }
