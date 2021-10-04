@@ -606,6 +606,8 @@
 
 - [@harry7337](https://github.com/harry7337)
 
+- [@harsh5902](https://github.com/harsh5902)
+
 - [@hasancho](https://github.com/hasancho)
 
 - [@hchowdha](https://github.com/hchowdha)
@@ -996,4 +998,3 @@
 
 - [@zedanmaqsood](https://github.com/zedanmaqsood)
 
--[@harsh5902](https://github.com/harsh5902)
