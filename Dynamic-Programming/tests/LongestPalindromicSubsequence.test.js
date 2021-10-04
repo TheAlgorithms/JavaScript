@@ -1,7 +1,7 @@
 import { longestPalindromeSubsequence } from '../LongestPalindromicSubsequence'
 
 describe('LongestPalindromicSubsequence', () => {
-  it('expects to return 0 as longest pallindromic subsequence', () => {
+  it('expects to return 1 as longest pallindromic subsequence', () => {
     expect(longestPalindromeSubsequence('abcdefgh')).toBe(1)
   })
 
