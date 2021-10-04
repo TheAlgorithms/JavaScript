@@ -20,7 +20,7 @@ function cycleSort (list) {
         position++
       }
     }
-    // if its the same continue
+    // if it is the same, continue
     if (position === cycleStart) {
       continue
     }
