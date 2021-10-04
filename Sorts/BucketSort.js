@@ -62,3 +62,5 @@ console.log(arrOrignal)
 const arrSorted = bucketSort(arrOrignal)
 // Array after sort
 console.log(arrSorted)
+
+export { bucketSort }
