@@ -86,6 +86,8 @@
 
 - [@DanijelSVK](https://github.com/DanijelSVK)
 
+- [@Darksied95](https://github.com/darksied95)
+
 - [@Davi27](https://github.com/Davi27)
 
 - [@DeanFowler](https://github.com/DeanFowler)
@@ -998,4 +1000,3 @@
 
 - [@zedanmaqsood](https://github.com/zedanmaqsood)
 
-- [@Darksied95](https://github.com/darksied95)
