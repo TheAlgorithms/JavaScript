@@ -15,7 +15,6 @@
  * @return {number[]} An array of numbers sorted in increasing order.
  */
 function cycleSort (list) {
-  let writes = 0
   for (let cycleStart = 0; cycleStart < list.length; cycleStart++) {
     let value = list[cycleStart]
     let position = cycleStart
@@ -30,7 +29,6 @@ function cycleSort (list) {
     if (position === cycleStart) {
       continue
     }
-
     while (value === list[position]) {
       position++
     }
@@ -38,7 +36,6 @@ function cycleSort (list) {
     const oldValue = list[position]
     list[position] = value
     value = oldValue
-    writes++
 
     // rotate the rest
     while (position !== cycleStart) {
@@ -54,7 +51,6 @@ function cycleSort (list) {
       const oldValueCycle = list[position]
       list[position] = value
       value = oldValueCycle
-      writes++
     }
   }
   return list
