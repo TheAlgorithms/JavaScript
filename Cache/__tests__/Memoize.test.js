@@ -16,7 +16,7 @@ const factorial = (n) => {
   return n * factorial(n - 1)
 }
 
-describe('memoize', () => {
+describe('Memoize', () => {
   it('expects the fibonacci function to use the cache on the second call', () => {
     const memoFibonacci = memoize(fibonacci)
 
@@ -32,6 +32,6 @@ describe('memoize', () => {
     expect(memoFactorial(5)).toEqual(factorial(5))
     expect(memoFactorial(5)).toEqual(120)
     expect(memoFactorial(10)).toEqual(factorial(10))
-    expect(memoFactorial(10)).toEqual(3_628_800)
+    expect(memoFactorial(10)).toEqual(3628800)
   })
 })
