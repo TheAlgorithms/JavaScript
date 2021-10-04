@@ -996,3 +996,4 @@
 
 - [@zedanmaqsood](https://github.com/zedanmaqsood)
 
+- [@Darksied95](https://github.com/darksied95)
