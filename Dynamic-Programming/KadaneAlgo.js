@@ -10,7 +10,7 @@ function KadaneAlgo (array) {
     }
   }
   return maxSum
-  // This function returns largest sum contigous sum in a array
+  // This function returns largest sum contiguous sum in a array
 }
 function main () {
   const myArray = [1, 2, 3, 4, -6]

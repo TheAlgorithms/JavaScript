@@ -5,7 +5,7 @@
     want some changes in hour value.
 
     Input Formate -> 07:05:45PM
-    Output Fromate -> 19:05:45
+    Output Formate -> 19:05:45
 
     Problem & Explanation Source : https://www.mathsisfun.com/time.html
 */

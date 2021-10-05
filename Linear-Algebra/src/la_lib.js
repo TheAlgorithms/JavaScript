@@ -26,7 +26,7 @@ let LinearAlgebra;
         if (N === comps.length) {
           this.components = comps
         } else {
-          throw new Error('Vector: invalide size!')
+          throw new Error('Vector: invalid size!')
         }
       }
     } // end of constructor

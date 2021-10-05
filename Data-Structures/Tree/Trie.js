@@ -14,7 +14,7 @@ function Trie () {
   this.root = new TrieNode(null, null)
 }
 
-// Recursively finds the occurence of all words in a given node
+// Recursively finds the occurrence of all words in a given node
 Trie.findAllWords = function (root, word, output) {
   if (root === null) return
   if (root.count > 0) {
@@ -79,15 +79,15 @@ Trie.prototype.remove = function (word, count) {
     child = child.children[key]
   }
 
-  // Delete no of occurences specified
+  // Delete no of occurrences specified
   if (child.count >= count) child.count -= count
   else child.count = 0
 
-  // If some occurences are left we dont delete it or else
+  // If some occurrences are left we dont delete it or else
   // if the object forms some other objects prefix we dont delete it
   // For checking an empty object
   // https://stackoverflow.com/questions/679915/how-do-i-test-for-an-empty-javascript-object
-  if (child.count <= 0 && (Object.keys(child.children).length && child.childre.constructor === Object)) {
+  if (child.count <= 0 && (Object.keys(child.children).length && child.children.constructor === Object)) {
     child.parent.children[child.key] = undefined
   }
 }

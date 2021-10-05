@@ -6,7 +6,7 @@ describe('Testing the maxWord function', () => {
   })
   it('get the max word', () => {
     const string = 'ba ba ba ba banana'
-    const mostOccuringWord = maxWord(string)
-    expect(mostOccuringWord).toBe('ba')
+    const mostOccurringWord = maxWord(string)
+    expect(mostOccurringWord).toBe('ba')
   })
 })

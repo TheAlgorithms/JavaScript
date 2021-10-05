@@ -1,15 +1,15 @@
-// Given a sentence, return the most occuring word
+// Given a sentence, return the most occurring word
 
 /**
- * @param {string} sentence - the sentence you want to find the most occuring word
- * @returns {string} - the most occuring word
+ * @param {string} sentence - the sentence you want to find the most occurring word
+ * @returns {string} - the most occurring word
  *
  * @example
  *     -  maxWord('lala lili lala'); // lala
  */
 const maxWord = (sentence = '') => {
   if (typeof sentence !== 'string') {
-    throw new TypeError('the param sould be string')
+    throw new TypeError('the param should be string')
   }
 
   if (!sentence) {
