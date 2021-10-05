@@ -6,7 +6,7 @@
     https://en.wikipedia.org/wiki/Exponentiation_by_squaring
 */
 
-const binaryExponentiation = (a, n) => {
+export const binaryExponentiation = (a, n) => {
   // input: a: int, n: int
   // returns: a^n: int
   if (n === 0) {
@@ -18,14 +18,3 @@ const binaryExponentiation = (a, n) => {
     return b * b
   }
 }
-
-const main = () => {
-  // binary_exponentiation(2, 10)
-  // > 1024
-  console.log(binaryExponentiation(2, 10))
-  // binary_exponentiation(3, 9)
-  // > 19683
-  console.log(binaryExponentiation(3, 9))
-}
-
-main()
