@@ -764,6 +764,8 @@
 
 - [@masih4](https://github.com/masih4)
 
+- [@mauriziodm91](https://github.com/mauriziodm91)
+
 - [@metatron1986](https://github.com/metatron1986)
 
 - [@mizitr](https://github.com/mizitr)
@@ -1004,4 +1006,3 @@
 
 - [@zedanmaqsood](https://github.com/zedanmaqsood)
 
-- [mauriziodm91](https://github.com/mauriziodm91)
