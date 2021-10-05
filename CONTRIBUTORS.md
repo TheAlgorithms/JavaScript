@@ -1004,3 +1004,4 @@
 
 - [@zedanmaqsood](https://github.com/zedanmaqsood)
 
+- [mauriziodm91](https://github.com/mauriziodm91)
