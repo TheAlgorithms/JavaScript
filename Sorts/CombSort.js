@@ -49,16 +49,4 @@ function combSort (list) {
   return list
 }
 
-/**
-* Implementation of Comb Sort
-*/
-const array = [5, 6, 7, 8, 1, 2, 12, 14]
-// Before Sort
-console.log('\n- Before Sort | Implementation of Comb Sort -')
-console.log(array)
-// After Sort
-console.log('- After Sort | Implementation of Comb Sort -')
-console.log(combSort(array))
-console.log('\n')
-
 export { combSort }
