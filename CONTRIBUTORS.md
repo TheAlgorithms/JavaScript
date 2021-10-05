@@ -1004,3 +1004,4 @@
 
 - [@zedanmaqsood](https://github.com/zedanmaqsood)
 
+- [@ryantalatagod](https://github.com/ryantalatagod)
