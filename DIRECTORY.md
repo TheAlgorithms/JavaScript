@@ -57,6 +57,7 @@
     * [DecimalToHex](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/test/DecimalToHex.test.js)
     * [DecimalToRoman](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/test/DecimalToRoman.test.js)
     * [TitleCaseConversion](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/test/TitleCaseConversion.test.js)
+    * [UpperCaseConverstion](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/test/UpperCaseConverstion.test.js)
   * [TitleCaseConversion](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/TitleCaseConversion.js)
   * [UpperCaseConversion](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/UpperCaseConversion.js)
 
