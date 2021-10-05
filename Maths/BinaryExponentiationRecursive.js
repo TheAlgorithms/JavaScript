@@ -2,7 +2,7 @@
   Modified from:
     https://github.com/TheAlgorithms/Python/blob/master/maths/binary_exponentiation.py
 
-  Explaination:
+  Explanation:
     https://en.wikipedia.org/wiki/Exponentiation_by_squaring
 */
 

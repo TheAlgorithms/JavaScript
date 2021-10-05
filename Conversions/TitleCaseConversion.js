@@ -2,7 +2,7 @@
     Problem statement and Explanation : https://www.codeproject.com/Tips/162540/Letter-Case-Conversion-Algorithms-Title-Case-Toggl.
     [Title case](https://en.wikipedia.org/wiki/Title_case) is a style where all words are capitalized. Officially, title case
     does not capitalize some words, such as very short words like "a" or "is", but for the purposes of this function, a general approach
-    is taken where all words are capitalized regarless of length.
+    is taken where all words are capitalized regardless of length.
 */
 
 /**
@@ -12,7 +12,7 @@
  */
 const titleCaseConversion = (inputString) => {
   if (inputString === '') return ''
-  // Extact all space seprated string.
+  // Extract all space separated string.
   const stringCollections = inputString.split(' ').map(word => {
     let firstChar = ''
     // Get the [ASCII](https://en.wikipedia.org/wiki/ASCII) character code by the use charCodeAt method.
