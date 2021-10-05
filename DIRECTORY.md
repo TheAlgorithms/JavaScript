@@ -318,6 +318,7 @@
   * [SelectionSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/SelectionSort.js)
   * [ShellSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/ShellSort.js)
   * test
+    * [CombSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/test/CombSort.test.js)
     * [FisherYatesShuffle](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/test/FisherYatesShuffle.test.js)
     * [QuickSortRecursive](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/test/QuickSortRecursive.test.js)
     * [SelectionSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/test/SelectionSort.test.js)
