@@ -25,7 +25,7 @@ class BinaryTree {
     return this.traversal.toLocaleString()
   }
 
-  // Compputing the height of the tree
+  // Computing the height of the tree
   getHeight (node) {
     if (node == null) {
       return 0

@@ -1,7 +1,7 @@
 /**
  * @function Intosort (As implemented in STD C++ Lib)
  * The function performs introsort which is used in
- * C++ Standard LIbrary, the implemntation is inspired from]
+ * C++ Standard LIbrary, the implementation is inspired from]
  * library routine itself.
  * ALGORITHM:
  * 1) It performs quicksort on array until the recursion depth
@@ -111,7 +111,7 @@ function introsort (array, compare) {
      */
     quickSort(0, len, maxDepth)
     /**
-     * A final checlk call to insertion sort
+     * A final check call to insertion sort
      * on sorted array
      */
     insertionSort(0, len)
@@ -140,7 +140,7 @@ function introsort (array, compare) {
     }
     /**
      * @function Helper function to quicksort
-     * @param {Number} start the start of array segment to partitiion
+     * @param {Number} start the start of array segment to partition
      * @param {Number} last  one more than last index of the array segment
      * @param {Number} pivot the index of pivot to be used
      * @returns {Number} the index of pivot after partition

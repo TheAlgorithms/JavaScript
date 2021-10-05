@@ -1,11 +1,11 @@
 /*
     Problem statement and Explanation : https://www.geeksforgeeks.org/check-if-a-number-is-a-krishnamurthy-number-or-not-2/
 
-    krishnamurthy number is a number the sum of the all fectorial of the all dights is equal to the number itself.
+    krishnamurthy number is a number the sum of the all factorial of the all dights is equal to the number itself.
     145 => 1! + 4! + 5! = 1  + 24 + 120 = 145
 */
 
-// factorail utility method.
+// factorial utility method.
 const factorial = (n) => {
   let fact = 1
   while (n !== 0) {
@@ -18,7 +18,7 @@ const factorial = (n) => {
 /**
  * krishnamurthy number is a number the sum of the factorial of the all dights is equal to the number itself.
  * @param {Number} number a number for checking is krishnamurthy number or not.
- * @returns return correspond boolean vlaue, if the number is krishnamurthy number return `true` else return `false`.
+ * @returns return correspond boolean value, if the number is krishnamurthy number return `true` else return `false`.
  * @example 145 => 1! + 4! + 5! = 1  + 24 + 120 = 145
  */
 const CheckKishnamurthyNumber = (number) => {

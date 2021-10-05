@@ -8,7 +8,7 @@
  * @returns {String}
  */
 const TitleCaseConversion = (inputString) => {
-  // Extact all space seprated string.
+  // Extract all space separated string.
   const stringCollections = inputString.split(' ').map(word => {
     let firstChar = ''
     // Get a character code by the use charCodeAt method.

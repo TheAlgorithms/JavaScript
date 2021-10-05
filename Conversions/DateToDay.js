@@ -44,7 +44,7 @@ const DateToDay = (date) => {
   if (typeof date !== 'string') {
     return new TypeError('Argument is not a string.')
   }
-  // extarct the date
+  // extract the date
   const [day, month, year] = date.split('/').map((x) => Number(x))
   // check the data are valid or not.
   if (day < 0 || day > 31 || month > 12 || month < 0) {

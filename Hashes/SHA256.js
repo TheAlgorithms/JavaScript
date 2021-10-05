@@ -20,11 +20,11 @@ const K = [
 ]
 
 /**
- * Adds padding to binary/hex string represention
+ * Adds padding to binary/hex string representation
  *
- * @param {string} str - string represention (binary/hex)
+ * @param {string} str - string representation (binary/hex)
  * @param {int} bits - total number of bits wanted
- * @return {string} - string represention padding with empty (0) bits
+ * @return {string} - string representation padding with empty (0) bits
  *
  * @example
  *      pad("10011", 8); // "00010011"
@@ -56,7 +56,7 @@ function chunkify (str, size) {
 }
 
 /**
- * Rotates string represention of bits to th left
+ * Rotates string representation of bits to th left
  *
  * @param {string} bits - string representation of bits
  * @param {int} turns - number of rotations to make

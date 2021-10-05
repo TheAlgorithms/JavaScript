@@ -22,9 +22,9 @@ const DateDayDifference = (date1, date2) => {
   if (typeof date1 !== 'string' && typeof date2 !== 'string') {
     return new TypeError('Argument is not a string.')
   }
-  // extarct the first date
+  // extract the first date
   const [firstDateDay, firstDateMonth, firstDateYear] = date1.split('/').map((ele) => Number(ele))
-  // extarct the second date
+  // extract the second date
   const [secondDateDay, secondDateMonth, secondDateYear] = date2.split('/').map((ele) => Number(ele))
   // check the both data are valid or not.
   if (firstDateDay < 0 || firstDateDay > 31 ||
