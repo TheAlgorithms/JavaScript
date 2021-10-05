@@ -59,11 +59,17 @@ function pathsToMarkdown (filePaths) {
     if (filepath) {
       ++indent
     }
-    const urls = [URL_BASE, filepath, filename]
-    const url = urls.join('/').replace(' ', '%20')
+
+    // prepare the markdown-esque prefix to the file's line
+    const prefix = pathPrefix(indent)
+
     // remove extension from filename
-    filename = filename.split('.')[0]
-    output.push(`${pathPrefix(indent)} [${filename}](${url})`)
+    const name = filename.split('.')[0]
+
+    // create URL to the actual file on github
+    const url = encodeURI([URL_BASE, filepath, filename].join('/'))
+
+    output.push(`${prefix} [${name}](${url})`)
   }
 
   return output.join('\n')
