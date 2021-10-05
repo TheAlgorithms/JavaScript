@@ -37,7 +37,7 @@ const quickSort = (inputList, low, high) => {
 
 /**
  * Partition In Place method.
- * @param {number[]} partitionList list for partiting.
+ * @param {number[]} partitionList list for partitioning.
  * @param {number} low lower index for partition.
  * @param {number} high higher index for partition.
  * @returns {number} `pIndex` pivot index value.

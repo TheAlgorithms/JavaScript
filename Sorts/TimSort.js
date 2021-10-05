@@ -30,7 +30,7 @@ const Timsort = (array) => {
 /**
  * @function performs insertion sort on the partition
  * @param {Array} array array to be sorted
- * @param {Number} left left index of partiton
+ * @param {Number} left left index of partition
  * @param {Number} right right index of partition
  */
 

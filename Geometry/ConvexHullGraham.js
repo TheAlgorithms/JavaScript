@@ -33,7 +33,7 @@ function convexHull (points) {
   points.sort(compare)
   const p1 = points[0]; const p2 = points[pointsLen - 1]
 
-  // Divide Hull in two halfs
+  // Divide Hull in two halves
   const upperPoints = []; const lowerPoints = []
 
   upperPoints.push(p1)
