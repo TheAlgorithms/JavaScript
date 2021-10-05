@@ -4,24 +4,18 @@
  * @returns
  */
 export const memoize = (func) => {
-  // eslint-disable-next-line no-console
-  console.log(`Creating cache for function '${func.name}'`)
-
+  // Initializing new cache
   const cache = {}
 
   return (...args) => {
     const [arg] = args
 
     if (arg in cache) {
-      // eslint-disable-next-line no-console
-      console.log(`Reading cache with argument ${arg}`)
-
+      // Reading cache by argument
       return cache[arg]
     }
 
-    // eslint-disable-next-line no-console
-    console.log(`Updating cache with argument ${arg}`)
-
+    // Updating cache by argument
     const result = func(arg)
     cache[arg] = result
     return result
