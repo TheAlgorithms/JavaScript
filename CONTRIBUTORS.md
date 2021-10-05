@@ -710,6 +710,8 @@
 
 - [@kneo002](https://github.com/kneo002)
 
+- [@krazeelazy](https://github.com/krazeelazy)
+
 - [@krish98](https://github.com/krish-98)
 
 - [@kumarvasu](https://github.com/kumar-vasu/)
@@ -1002,4 +1004,3 @@
 
 - [@zedanmaqsood](https://github.com/zedanmaqsood)
 
-- [@krazeelazy](https://github.com/krazeelazy)
