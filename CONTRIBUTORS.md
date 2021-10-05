@@ -1014,6 +1014,8 @@
 
 - [@zedanmaqsood](https://github.com/zedanmaqsood)
 
+- [@ryantalatagod](https://github.com/ryantalatagod)
+
 - [@shubhamk-code](https://github.com/shubhamk-code/)
 
 - [@Mesbahialii](https://github.com/MesbahiAlii)
@@ -1023,3 +1025,4 @@
 - [@alkka](https://github.com/alkka)
 
 - [@JubayerJoy](https://github.com/JubayerJoy)
+
