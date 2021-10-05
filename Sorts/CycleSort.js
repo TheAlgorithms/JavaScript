@@ -56,16 +56,4 @@ function cycleSort (list) {
   return list
 }
 
-/**
-* Implementation of Cycle Sort
-*/
-const array = [5, 6, 7, 8, 1, 2, 12, 14]
-// Before Sort
-console.log('\n- Before Sort | Implementation of Cycle Sort -')
-console.log(array)
-// After Sort
-console.log('- After Sort | Implementation of Cycle Sort -')
-console.log(cycleSort(array))
-console.log('\n')
-
 export { cycleSort }
