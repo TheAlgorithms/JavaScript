@@ -4,7 +4,9 @@
   "description": "A repository for All algorithms implemented in Javascript (for educational purposes only)",
   "main": "",
   "scripts": {
-    "test": "jest --no-cache"
+    "doctest": "doctest **/*.js",
+    "test": "jest --no-cache",
+    "style": "standard"
   },
   "author": "TheAlgorithms",
   "license": "GPL-3.0",
@@ -12,10 +14,10 @@
     "@babel/core": "^7.11.6",
     "@babel/plugin-transform-runtime": "^7.11.5",
     "@babel/preset-env": "^7.11.5",
-    "atob": "2.1.2",
     "jsdom": "^16.3.0",
     "node": "^14.13.1",
-    "node-fetch": "2.6.1"
+    "node-fetch": "2.6.1",
+    "atob": "2.1.2"
   },
   "standard": {
     "env": [
@@ -25,6 +27,7 @@
   "devDependencies": {
     "babel-jest": "^26.3.0",
     "doctest": "^0.17.1",
+    "globby": "^12.0.2",
     "jest": "^26.4.2",
     "standard": "^14.3.4"
   }
