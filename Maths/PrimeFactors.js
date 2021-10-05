@@ -3,7 +3,7 @@
     https://github.com/TheAlgorithms/Python/blob/master/maths/prime_factors.py
 */
 
-const PrimeFactors = (n) => {
+export const PrimeFactors = (n) => {
   // input: n: int
   // output: primeFactors: Array of all prime factors of n
   const primeFactors = []
@@ -20,14 +20,3 @@ const PrimeFactors = (n) => {
   }
   return primeFactors
 }
-
-const main = () => {
-  // PrimeFactors(100)
-  // > [ 2, 2, 5, 5 ]
-  console.log(PrimeFactors(100))
-  // PrimeFactors(2560)
-  // > [ 2, 2, 2, 2, 2, 2, 2, 2, 2, 5 ]
-  console.log(PrimeFactors(2560))
-}
-
-main()
