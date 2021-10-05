@@ -12,28 +12,10 @@
 *  Animated Visual: https://www.toptal.com/developers/sorting-algorithms/bubble-sort
 */
 
-/*
-*  Doctests
-*
-*  > bubbleSort([5, 4, 1, 2, 3])
-*  [1, 2, 3, 4, 5]
-*  > bubbleSort([])
-*  []
-*  > bubbleSort([1, 2, 3])
-*  [1, 2, 3]
-*
-*  > alternativeBubbleSort([5, 4, 1, 2, 3])
-*  [1, 2, 3, 4, 5]
-*  > alternativeBubbleSort([])
-*  []
-*  > alternativeBubbleSort([1, 2, 3])
-*  [1, 2, 3]
-*/
-
-/*
-*  Using 2 for loops
-*/
-function bubbleSort (items) {
+/**
+ * Using 2 for loops.
+ */
+export function bubbleSort (items) {
   const length = items.length
 
   for (let i = (length - 1); i > 0; i--) {
@@ -50,22 +32,10 @@ function bubbleSort (items) {
   return items
 }
 
-/*
-*  Implementation of 2 for loops method
-*/
-const array1 = [5, 6, 7, 8, 1, 2, 12, 14]
-// Before Sort
-console.log('\n- Before Sort | Implementation using 2 for loops -')
-console.log(array1)
-// After Sort
-console.log('- After Sort | Implementation using 2 for loops -')
-console.log(bubbleSort(array1))
-console.log('\n')
-
-/*
-*  Using a while loop and a for loop
-*/
-function alternativeBubbleSort (arr) {
+/**
+ * Using a while loop and a for loop.
+ */
+export function alternativeBubbleSort (arr) {
   let swapped = true
 
   while (swapped) {
@@ -80,15 +50,3 @@ function alternativeBubbleSort (arr) {
 
   return arr
 }
-
-/*
-*  Implementation of a while loop and a for loop method
-*/
-const array2 = [5, 6, 7, 8, 1, 2, 12, 14]
-// Before Sort
-console.log('\n- Before Sort | Implementation using a while loop and a for loop -')
-console.log(array2)
-// After Sort
-console.log('- After Sort | Implementation using a while loop and a for loop -')
-console.log(alternativeBubbleSort(array2))
-console.log('\n')
