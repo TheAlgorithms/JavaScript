@@ -912,6 +912,8 @@
 
 - [@shubhamkcode](https://github.com/shubhamk-code/)
 
+- [@shubhamku044](https://github.com/shubhamku044)
+
 - [@siddharth25pandey](https://github.com/siddharth25pandey/)
 
 - [@snearies](https://github.com/snearies)
@@ -1006,4 +1008,3 @@
 
 - [@zedanmaqsood](https://github.com/zedanmaqsood)
 
-- [@shubhamku044](https://github.com/shubhamku044)
