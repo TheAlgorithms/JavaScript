@@ -1,5 +1,5 @@
 // Wikipedia: https://en.wikipedia.org/wiki/Monte_Carlo_method
-// Video Explaination: https://www.youtube.com/watch?v=ELetCV_wX_c
+// Video Explanation: https://www.youtube.com/watch?v=ELetCV_wX_c
 
 const piEstimation = (iterations = 100000) => {
   let circleCounter = 0

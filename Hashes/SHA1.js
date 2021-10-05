@@ -9,11 +9,11 @@
 const CHAR_SIZE = 8
 
 /**
- * Adds padding to binary/hex string represention
+ * Adds padding to binary/hex string representation
  *
- * @param {string} str - string represention (binary/hex)
+ * @param {string} str - string representation (binary/hex)
  * @param {int} bits - total number of bits wanted
- * @return {string} - string represention padding with empty (0) bits
+ * @return {string} - string representation padding with empty (0) bits
  *
  * @example
  *      pad("10011", 8); // "00010011"
