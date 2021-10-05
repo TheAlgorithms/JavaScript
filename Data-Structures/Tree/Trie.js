@@ -87,7 +87,7 @@ Trie.prototype.remove = function (word, count) {
   // if the object forms some other objects prefix we dont delete it
   // For checking an empty object
   // https://stackoverflow.com/questions/679915/how-do-i-test-for-an-empty-javascript-object
-  if (child.count <= 0 && (Object.keys(child.children).length && child.childre.constructor === Object)) {
+  if (child.count <= 0 && (Object.keys(child.children).length && child.children.constructor === Object)) {
     child.parent.children[child.key] = undefined
   }
 }
