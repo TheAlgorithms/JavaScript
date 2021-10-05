@@ -1002,3 +1002,4 @@
 
 - [@zedanmaqsood](https://github.com/zedanmaqsood)
 
+- [@krazeelazy](https://github.com/krazeelazy)
