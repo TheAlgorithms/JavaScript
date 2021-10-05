@@ -11,21 +11,20 @@
  * Find the sum of the digits in the number 100!
  */
 
-const factorialDigitSum = function (n = 100) {
-
+const factorialDigitSum = (n = 100) => {
   // Consider each digit*10^exp separately, right-to-left ([units, tens, ...]).
-  let digits = [1];
+  const digits = [1]
 
-  for (let x=2; x<=n; x++) {
-    let carry = 0;
-    for (let exp=0; exp<digits.length; exp++) {
-      const prod = digits[exp]*x + carry;
-      carry = Math.floor(prod/10);
-      digits[exp] = prod % 10;
+  for (let x = 2; x <= n; x++) {
+    let carry = 0
+    for (let exp = 0; exp < digits.length; exp++) {
+      const prod = digits[exp] * x + carry
+      carry = Math.floor(prod / 10)
+      digits[exp] = prod % 10
     }
     while (carry > 0) {
-      digits.push(carry%10);
-      carry = Math.floor(carry/10);
+      digits.push(carry % 10)
+      carry = Math.floor(carry / 10)
     }
   }
 
