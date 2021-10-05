@@ -15,9 +15,7 @@ jobs:
       run: npm ci
 
     - name: 🧪 Run tests
-      run: |
-        npm run doctest || true # TODO: Add all doctests
-        npm test
+      run: npm test
 
     - name: 💄 Code style
       run: npm run style
