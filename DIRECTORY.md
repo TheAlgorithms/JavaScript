@@ -15,8 +15,6 @@
   * [LFUCache](https://github.com/TheAlgorithms/Javascript/blob/master/Cache/LFUCache.js)
   * [LRUCache](https://github.com/TheAlgorithms/Javascript/blob/master/Cache/LRUCache.js)
   * [Memoize](https://github.com/TheAlgorithms/Javascript/blob/master/Cache/Memoize.js)
-  * test
-    * [Memoize](https://github.com/TheAlgorithms/Javascript/blob/master/Cache/test/Memoize.test.js)
 
 ## Cellular-Automata
   * [ConwaysGameOfLife](https://github.com/TheAlgorithms/Javascript/blob/master/Cellular-Automata/ConwaysGameOfLife.js)
