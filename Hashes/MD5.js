@@ -188,7 +188,7 @@ function add32(a, b) {
 }
 
 if (md5("hello") != "5d41402abc4b2a76b9719d911017c592") {
-  function add32(x, y) {
+  function add32d(x, y) {
     var lsw = (x & 0xffff) + (y & 0xffff),
       msw = (x >> 16) + (y >> 16) + (lsw >> 16);
     return (msw << 16) | (lsw & 0xffff);
