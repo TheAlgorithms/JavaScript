@@ -1,8 +1,8 @@
-const fc = require('../kadaneAlgo')
-test('test1', () => {
+import { kadaneAlgo } from '../KadaneAlgo'
+test('it is being checked that 15 is the answer to the corresponding array input', () => {
   expect(fc.kadaneAlgo([1, 2, 3, 4, 5])).toBe(15)
 })
 
-test('test2', () => {
+test('it is being checked that 5 is the answer to the corresponding array input', () => {
   expect(fc.kadaneAlgo([-1, -2, -3, -4, 5])).toBe(5)
 })

@@ -23,13 +23,4 @@ function kadaneAlgo (array) {
   return maxSum
   // This function returns largest sum contiguous sum in a array
 }
-function main () {
-  // input array
-  const myArray = [1, 2, 3, 4, -6]
-  // calling the function
-  const result = kadaneAlgo(myArray)
-  // result is the variable for storing the ourput of kadaneAlgo function
-  console.log(result)
-}
-main()
-module.exports = { kadaneAlgo }
+export { kadaneAlgo }
