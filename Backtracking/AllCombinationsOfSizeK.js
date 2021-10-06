@@ -38,20 +38,7 @@ class Combinations {
       this.findCombinations(high, total - 1, i + 1)
       this.combinationArray.pop()
     }
-  };
+  }
 }
 
-/*
-  Driver Code
-
-  Test Case 1: n = 3, k = 2
-  Test Case 2: n = 4, k = 2
-*/
-
-console.log('\nFirst Test Case')
-const test1 = new Combinations(3, 2)
-test1.findCombinations()
-
-console.log('\nSecond Test Case')
-const test2 = new Combinations(4, 2)
-test2.findCombinations()
+export { Combinations }
