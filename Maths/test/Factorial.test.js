@@ -1,10 +1,6 @@
 import { calcFactorial } from '../Factorial'
 
 describe('calcFactorial', () => {
-  it('is a function', () => {
-    expect(typeof calcFactorial).toEqual('function')
-  })
-
   it('should return a statement for value "0"', () => {
     expect(calcFactorial(0)).toBe('The factorial of 0 is 1.')
   })

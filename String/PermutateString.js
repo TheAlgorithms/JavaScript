@@ -18,7 +18,7 @@ const permutate = (aString) => {
 
 const calculateCurrentCharacterPermutation = (allPermutations, currentCharacter) => {
   const currentPermutations = []
-  allPermutations.map(permutation => {
+  allPermutations.forEach(permutation => {
     let index = 0
     while (index <= permutation.length) {
       const tmp = [...permutation]

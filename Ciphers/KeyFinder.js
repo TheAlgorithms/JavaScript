@@ -48,7 +48,7 @@ function keyFinder (str) { // str is used to get the input of encrypted string
         // console.log( k + outStrElement + wordBank[i] );//debug
 
         // this part need to be optimize with the calculation of the number of occurrence of word's probabilities
-        // linked list will be used in the next stage of development to calculate the number of occurace of the key
+        // linked list will be used in the next stage of development to calculate the number of occurrence of the key
         if (wordBank[i] === outStrElement) {
           return k // return the key number if founded
         }

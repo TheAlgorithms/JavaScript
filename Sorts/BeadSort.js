@@ -1,30 +1,34 @@
 /**
- * Bead sort (also known as Gravity sort)
- * https://en.wikipedia.org/wiki/Bead_sort
+ * Bead Sort, also known as Gravity sort, this algorithm was
+ * inspired from natural phenomenons and was designed keeping in mind objects(or beads)
+ * falling under the influence of gravity.
  *
- * Does counting sort of provided array according to
- * the digit represented by exp.
- * Only works for arrays of positive integers.
+ * NOTE: It only works for arrays of positive integers.
+ *
+ * Wikipedia: https://en.wikipedia.org/wiki/Bead_sort
  */
 
-// > beadSort([-1, 5, 8, 4, 3, 19])
-// ! RangeError: Sequence must be a list of positive integers!
-// > beadSort([5, 4, 3, 2, 1])
-// [1, 2, 3, 4, 5]
-// > beadSort([7, 9, 4, 3, 5])
-// [3, 4, 5, 7, 9]
+/**
+ * Doctests
+ *
+ * > beadSort([5, 4, 3, 2, 1])
+ * [1, 2, 3, 4, 5]
+ * > beadSort([7, 9, 4, 3, 5])
+ * [3, 4, 5, 7, 9]
+ * > beadSort([-1, 5, 8, 4, 3, 19])
+ * ! RangeError: Sequence must be a list of positive integers!
+ */
 
 function beadSort (sequence) {
-  // first, let's check that our sequence consists
-  // of positive integers
+  /* Let's ensure our sequence has only Positive Integers */
   if (sequence.some((integer) => integer < 0)) {
-    throw RangeError('Sequence must be a list of positive integers!')
+    throw RangeError('Sequence must be a list of Positive integers Only!')
   }
 
   const sequenceLength = sequence.length
   const max = Math.max(...sequence)
 
-  // set initial grid
+  // Set initial Grid
   const grid = sequence.map(number => {
     const maxArr = new Array(max)
 
@@ -35,7 +39,7 @@ function beadSort (sequence) {
     return maxArr
   })
 
-  // drop the beads!
+  // Drop the Beads!
   for (let col = 0; col < max; col++) {
     let beadsCount = 0
 
@@ -55,7 +59,7 @@ function beadSort (sequence) {
     }
   }
 
-  // and, finally, let's turn our bead rows into their respective numbers
+  /* Finally, let's turn our Bead rows into their Respective Numbers */
   const sortedSequence = grid.map((beadArray) => {
     const beadsArray = beadArray.filter(bead => bead === '*')
 
@@ -65,5 +69,14 @@ function beadSort (sequence) {
   return sortedSequence
 }
 
-// implementation
-console.log(beadSort([5, 4, 3, 2, 1]))
+/**
+* Implementation of Bead Sort
+*/
+const array = [5, 4, 3, 2, 1]
+// Before Sort
+console.log('\n- Before Sort | Implementation of Bead Sort -')
+console.log(array)
+// After Sort
+console.log('- After Sort | Implementation of Bead Sort -')
+console.log(beadSort(array))
+console.log('\n')

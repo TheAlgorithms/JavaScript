@@ -48,7 +48,7 @@ function bogoSort (items) {
 
 // Implementation of bogoSort
 
-var ar = [5, 6, 7, 8, 1, 2, 12, 14]
+const ar = [5, 6, 7, 8, 1, 2, 12, 14]
 // Array before Sort
 console.log(ar)
 bogoSort(ar)

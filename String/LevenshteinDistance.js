@@ -15,12 +15,12 @@ const levenshteinDistance = (a, b) => {
     .fill(null)
     .map(() => Array(a.length + 1).fill(null))
 
-  // Initialising first column:
+  // Initializing first column:
   for (let i = 0; i <= a.length; i += 1) {
     distanceMatrix[0][i] = i
   }
 
-  // Initialising first row:
+  // Initializing first row:
   for (let j = 0; j <= b.length; j += 1) {
     distanceMatrix[j][0] = j
   }

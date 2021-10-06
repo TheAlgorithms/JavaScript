@@ -18,7 +18,7 @@ Array.prototype.wiggleSort = function () {
 
 // Implementation of wiggle sort
 
-var arr = [3, 5, 2, 1, 6, 4]
+const arr = [3, 5, 2, 1, 6, 4]
 // Array before Wiggle Sort
 console.log(arr) // [3, 5, 2, 1, 6, 4]
 
