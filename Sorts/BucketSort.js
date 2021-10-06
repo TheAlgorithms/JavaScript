@@ -1,5 +1,5 @@
 /*
-Wikipedia says: Bucket sort, or bin sort, is a sorting algorithm that works by distributing the
+[Wikipedia says](https://en.wikipedia.org/wiki/Bucket_sort#:~:text=Bucket%20sort%2C%20or%20bin%20sort,applying%20the%20bucket%20sorting%20algorithm.&text=Sort%20each%20non%2Dempty%20bucket.): Bucket sort, or bin sort, is a sorting algorithm that works by distributing the
 elements of an array into a number of buckets. Each bucket is then sorted individually, either using
 a different sorting algorithm, or by recursively applying the bucket sorting algorithm. It is a
 distribution sort, and is a cousin of radix sort in the most to least significant digit flavour.
@@ -11,6 +11,14 @@ Time Complexity of Solution:
 Best Case O(n); Average Case O(n); Worst Case O(n)
 
 */
+
+/**
+ * bucketSort returns an array of numbers sorted in increasing order.
+ *
+ * @param {number[]} list The array of numbers to be sorted.
+ * @param {number} size The size of the buckets used. If not provided, size will be 5.
+ * @return {number[]} An array of numbers sorted in increasing order.
+ */
 function bucketSort (list, size) {
   if (undefined === size) {
     size = 5
@@ -45,7 +53,7 @@ function bucketSort (list, size) {
   const sorted = []
   // now sort every bucket and merge it to the sorted list
   for (let iBucket = 0; iBucket < buckets.length; iBucket++) {
-    const arr = buckets[iBucket].sort()
+    const arr = buckets[iBucket].sort((a, b) => a - b)
     for (let iSorted = 0; iSorted < arr.length; iSorted++) {
       sorted.push(arr[iSorted])
     }
@@ -53,12 +61,4 @@ function bucketSort (list, size) {
   return sorted
 }
 
-// Testing
-const arrOriginal = [5, 6, 7, 8, 1, 2, 12, 14]
-// > bucketSort(arrOriginal)
-// [1, 2, 5, 6, 7, 8, 12, 14]
-// Array before Sort
-console.log(arrOriginal)
-const arrSorted = bucketSort(arrOriginal)
-// Array after sort
-console.log(arrSorted)
+export { bucketSort }
