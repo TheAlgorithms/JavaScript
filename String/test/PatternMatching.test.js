@@ -18,7 +18,7 @@ describe('checkIfPatternExists', () => {
     const SUT = checkIfPatternExists(text, pattern)
     expect(SUT).toBe(undefined)
   })
-  it('expects to throw an error message when given inpuut is not a string', () => {
+  it('expects to throw an error message when given input is not a string', () => {
     const text = 123444456
     const pattern = 123
     expect(() => checkIfPatternExists(text, pattern)).toThrow(

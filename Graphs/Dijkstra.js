@@ -2,7 +2,7 @@
  * Author: Samarth Jain
  * Dijkstra's Algorithm implementation in JavaScript
  * Dijkstra's Algorithm calculates the minimum distance between two nodes.
- * It is used to find the shortes path.
+ * It is used to find the shortest path.
  * It uses graph data structure.
  */
 

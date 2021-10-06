@@ -4,7 +4,9 @@
   "description": "A repository for All algorithms implemented in Javascript (for educational purposes only)",
   "main": "",
   "scripts": {
-    "test": "jest --no-cache"
+    "doctest": "doctest **/*.js",
+    "test": "jest --no-cache",
+    "style": "standard"
   },
   "author": "TheAlgorithms",
   "license": "GPL-3.0",
@@ -25,6 +27,7 @@
   "devDependencies": {
     "babel-jest": "^26.3.0",
     "doctest": "^0.17.1",
+    "globby": "^12.0.2",
     "jest": "^26.4.2",
     "standard": "^14.3.4"
   }
