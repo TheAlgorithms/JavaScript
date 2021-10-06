@@ -4,7 +4,7 @@
  * https://en.wikipedia.org/wiki/Vector_(mathematics_and_physics)).
  */
 
-class Vector2 { // eslint-disable-line no-unused-vars
+class Vector2 {
   constructor (x, y) {
     this.x = x
     this.y = y
