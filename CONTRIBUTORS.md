@@ -164,6 +164,8 @@
 
 - [@JosielMatos](https://github.com/JosielMatos)
 
+- [@JubayerJoy](https://github.com/JubayerJoy)
+
 - [@JustBaneIsFine](https://github.com/JustBaneIsFine)
 
 - [@KCasie](https://github.com/KCasie)
@@ -343,6 +345,8 @@
 - [@TarunKamboj](https://github.com/Tarun-Kamboj)
 
 - [@TeoJuca](https://github.com/TeoJuca/)
+
+- [@ThiyageshB](https://github.com/Thiyagesh-B/)
 
 - [@ThreatMatrix](https://github.com/ThreatMatrix)
 
@@ -668,7 +672,7 @@
 
 - [@jlangenhagen](https://github.com/jlangenhagen)
 
-- [@jn-lp](https://github.com/jn-lp)
+- [@jnlp](https://github.com/jn-lp)
 
 - [@john012516](https://github.com/john012516/)
 
@@ -848,8 +852,6 @@
 
 - [@rajulkoshta](https://github.com/rajulkoshta)
 
-- [@rajulkoshta](https://github.com/rajulkoshta)
-
 - [@ranggaradiitya](https://github.com/ranggaradiitya/)
 
 - [@ranjang09](https://github.com/ranjang09)
@@ -918,6 +920,8 @@
 
 - [@siddharth25pandey](https://github.com/siddharth25pandey/)
 
+- [@siddharth329](https://github.com/siddharth329)
+
 - [@snearies](https://github.com/snearies)
 
 - [@souldrop](https://github.com/souldrop)
@@ -982,10 +986,6 @@
 
 - [@vbcalinao](https://github.com/vbcalinao)
 
-- [@Aswin40](https://github.com/Aswin40/)
-
-- [@Thiyagesh-B](https://github.com/Thiyagesh-B/)
-
 - [@vjeko95](https://github.com/vjeko95)
 
 - [@vsammy](https://github.com/vsammy)
@@ -997,8 +997,6 @@
 - [@wylenjoan](https://github.com/wylenjoan)
 
 - [@xAJesus](https://github.com/xAJesus)
-
-- [@y0nutz2015123](https://github.com/y0nutz2015123)
 
 - [@y0nutz2015123](https://github.com/y0nutz2015123)
 
@@ -1014,6 +1012,22 @@
 
 - [@zedanmaqsood](https://github.com/zedanmaqsood)
 
--[@shubhamk-code](https://github.com/shubhamk-code/)
+- [@ryantalatagod](https://github.com/ryantalatagod)
 
--[@Mesbahialii](https://github.com/MesbahiAlii)
+- [@shubhamk-code](https://github.com/shubhamk-code/)
+
+- [@gstavrinos](https://github.com/gstavrinos)
+
+- [@alkka](https://github.com/alkka)
+
+- [@nino812](https://github.com/nino812/)
+
+- [@Mesbahialii](https://github.com/MesbahiAlii)
+
+- [@DoctorWilliamTroll](https://github.com/DoctorWilliamTroll)
+
+- [@shekharmouryaa](https://github.com/shekharmouryaa)
+
+- [@ryzheboka](https://github.com/ryzheboka)
+
+- [@HolyCoder13](https://github.com/HolyCoder13)
