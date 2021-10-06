@@ -9,7 +9,7 @@
  * Reference article :- https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/
  */
 
-function kadaneAlgo (array) {
+export function kadaneAlgo (array) {
   let cummulativeSum = 0
   let maxSum = Number.NEGATIVE_INFINITY // maxSum has the least posible value
   for (let i = 0; i < array.length; i++) {
@@ -23,4 +23,3 @@ function kadaneAlgo (array) {
   return maxSum
   // This function returns largest sum contiguous sum in a array
 }
-export { kadaneAlgo }
