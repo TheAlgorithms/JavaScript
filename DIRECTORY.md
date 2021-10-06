@@ -1,5 +1,6 @@
 
 ## Backtracking
+  * [AllCombinationsOfSizeK](https://github.com/TheAlgorithms/Javascript/blob/master/Backtracking/AllCombinationsOfSizeK.js)
   * [GeneratePermutations](https://github.com/TheAlgorithms/Javascript/blob/master/Backtracking/GeneratePermutations.js)
   * [KnightTour](https://github.com/TheAlgorithms/Javascript/blob/master/Backtracking/KnightTour.js)
   * [NQueen](https://github.com/TheAlgorithms/Javascript/blob/master/Backtracking/NQueen.js)
