@@ -1,7 +1,8 @@
 /**
- * In mathematics and physics, a vector is an element of a vector space. The Vector2-class
- * implements 2-dimensional vectors together with various vector-operations (description adapted from
- * https://en.wikipedia.org/wiki/Vector_(mathematics_and_physics)).
+ * In mathematics and physics, a vector is an element of a vector space.
+ *
+ * The Vector2-class implements 2-dimensional vectors together with various vector-operations.
+ * @see https://en.wikipedia.org/wiki/Vector_(mathematics_and_physics).
  */
 
 class Vector2 {
