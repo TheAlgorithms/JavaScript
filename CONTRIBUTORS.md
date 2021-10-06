@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@niveshbirangal](https://github.com/niveshbirangal)
+
 - [@0000x582d6976](https://github.com/0000x582d6976)
 
 - [@6586rajan](https://github.com/6586rajan)
