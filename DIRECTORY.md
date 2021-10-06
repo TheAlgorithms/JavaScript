@@ -256,11 +256,6 @@
   * [TimSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/TimSort.js)
   * [TopologicalSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/TopologicalSort.js)
   * [WiggleSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/WiggleSort.js)
-  * test
-    * [CycleSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/test/CycleSort.test.js)
-    * [FisherYatesShuffle](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/test/FisherYatesShuffle.test.js)
-    * [QuickSortRecursive](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/test/QuickSortRecursive.test.js)
-    * [SelectionSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/test/SelectionSort.test.js)
 
 ## String
   * [AlternativeStringArrange](https://github.com/TheAlgorithms/Javascript/blob/master/String/AlternativeStringArrange.js)
