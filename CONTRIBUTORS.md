@@ -164,6 +164,8 @@
 
 - [@JosielMatos](https://github.com/JosielMatos)
 
+- [@JubayerJoy](https://github.com/JubayerJoy)
+
 - [@JustBaneIsFine](https://github.com/JustBaneIsFine)
 
 - [@KCasie](https://github.com/KCasie)
@@ -343,6 +345,8 @@
 - [@TarunKamboj](https://github.com/Tarun-Kamboj)
 
 - [@TeoJuca](https://github.com/TeoJuca/)
+
+- [@ThiyageshB](https://github.com/Thiyagesh-B/)
 
 - [@ThreatMatrix](https://github.com/ThreatMatrix)
 
@@ -668,6 +672,8 @@
 
 - [@jlangenhagen](https://github.com/jlangenhagen)
 
+- [@jnlp](https://github.com/jn-lp)
+
 - [@john012516](https://github.com/john012516/)
 
 - [@johngehring2008](https://github.com/johngehring2008/)
@@ -846,8 +852,6 @@
 
 - [@rajulkoshta](https://github.com/rajulkoshta)
 
-- [@rajulkoshta](https://github.com/rajulkoshta)
-
 - [@ranggaradiitya](https://github.com/ranggaradiitya/)
 
 - [@ranjang09](https://github.com/ranjang09)
@@ -915,6 +919,8 @@
 - [@shubhamku044](https://github.com/shubhamku044)
 
 - [@siddharth25pandey](https://github.com/siddharth25pandey/)
+
+- [@siddharth329](https://github.com/siddharth329)
 
 - [@snearies](https://github.com/snearies)
 
@@ -994,8 +1000,6 @@
 
 - [@y0nutz2015123](https://github.com/y0nutz2015123)
 
-- [@y0nutz2015123](https://github.com/y0nutz2015123)
-
 - [@yasharma](https://github.com/yasharma)
 
 - [@yehey1999](https://github.com/yehey1999)
@@ -1008,11 +1012,19 @@
 
 - [@zedanmaqsood](https://github.com/zedanmaqsood)
 
--[@shubhamk-code](https://github.com/shubhamk-code/)
+- [@ryantalatagod](https://github.com/ryantalatagod)
 
--[@MehrshadKh](https://github.com/MehrshadKh/)
+- [@shubhamk-code](https://github.com/shubhamk-code/)
 
--[@nino812](https://github.com/nino812/)
+- [@gstavrinos](https://github.com/gstavrinos)
 
--[@Mesbahialii](https://github.com/MesbahiAlii)
+- [@alkka](https://github.com/alkka)
+
+- [@nino812](https://github.com/nino812/)
+
+- [@Mesbahialii](https://github.com/MesbahiAlii)
+
+- [@DoctorWilliamTroll](https://github.com/DoctorWilliamTroll)
+
+- [@shekharmouryaa](https://github.com/shekharmouryaa)
 
