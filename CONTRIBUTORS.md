@@ -1031,3 +1031,6 @@
 - [@ryzheboka](https://github.com/ryzheboka)
 
 - [@HolyCoder13](https://github.com/HolyCoder13)
+
+- [@carlcidromero](https://github.com/carlcidromero)
+
