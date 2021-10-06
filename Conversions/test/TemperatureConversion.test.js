@@ -12,7 +12,8 @@ describe('Testing Conversion of Celsius to fahrenheit', () => {
 describe('Testing Conversion of Celsius to kelvin', () => {
   it('with celsius value', () => {
     const test1 = tc.celsius_to_kelvin(15)
-    expect(test1).toBe(283)
+    expect(test1).toBe(288)
+
   })
 })
 
