@@ -4,7 +4,7 @@
  *
  *  Given an ordered set W of non-negative integers and a value K,
  *  determine all possible subsets from the given set W whose sum
- *  of its elemets equals to the given value K.
+ *  of its elements equals to the given value K.
  *
  *  More info: https://www.geeksforgeeks.org/subset-sum-backtracking-4/
  */
@@ -53,7 +53,7 @@ const sumOfSubset = (set, subset, setindex, sum, targetSum) => {
       targetSum
     )
 
-    // Concat the recursive result with current result arary
+    // Concat the recursive result with current result array
     results = [...results, ...subsetResult]
   })
 

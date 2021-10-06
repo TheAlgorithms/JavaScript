@@ -17,7 +17,7 @@ function sumOfDigitsUsingString (number) {
 }
 
 /*
-  The input is divided by 10 in each iteraction, till the input is equal to 0
+  The input is divided by 10 in each iteration, till the input is equal to 0
   The sum of all the digits is returned (The res variable acts as a collector, taking the remainders on each iteration)
 */
 function sumOfDigitsUsingLoop (number) {
