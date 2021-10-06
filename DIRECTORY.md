@@ -1,5 +1,6 @@
 
 ## Backtracking
+  * [AllCombinationsOfSizeK](https://github.com/TheAlgorithms/Javascript/blob/master/Backtracking/AllCombinationsOfSizeK.js)
   * [GeneratePermutations](https://github.com/TheAlgorithms/Javascript/blob/master/Backtracking/GeneratePermutations.js)
   * [KnightTour](https://github.com/TheAlgorithms/Javascript/blob/master/Backtracking/KnightTour.js)
   * [NQueen](https://github.com/TheAlgorithms/Javascript/blob/master/Backtracking/NQueen.js)
@@ -156,6 +157,7 @@
   * [IsDivisible](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/IsDivisible.js)
   * [IsEven](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/IsEven.js)
   * [isOdd](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/isOdd.js)
+  * [LeapYear](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/LeapYear.js)
   * [Mandelbrot](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/Mandelbrot.js)
   * [MatrixExponentiationRecursive](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/MatrixExponentiationRecursive.js)
   * [MatrixMultiplication](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/MatrixMultiplication.js)
