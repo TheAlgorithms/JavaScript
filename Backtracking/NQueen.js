@@ -2,6 +2,7 @@ class NQueen {
   constructor (size) {
     this.board = new Array(size).fill('.').map(() => new Array(size).fill('.'))
     this.size = size
+    this.solutionCount = 0
   }
 
   isValid ([row, col]) {
@@ -25,18 +26,26 @@ class NQueen {
     return true
   }
 
+  placeQueen (row, col) {
+    this.board[row][col] = 'Q'
+  }
+
+  removeQueen (row, col) {
+    this.board[row][col] = '.'
+  }
+
   solve (col = 0) {
-    // function to solve the board
-    if (col >= this.size) { return true }
+    if (col >= this.size) {
+      this.printBoard()
+      this.solutionCount++
+      return true
+    }
 
     for (let i = 0; i < this.size; i++) {
       if (this.isValid([i, col])) {
-        this.board[i][col] = 'Q'
-
-        if (this.solve(col + 1)) { return true }
-
-        // backtracking
-        this.board[i][col] = '.'
+        this.placeQueen(i, col)
+        this.solve(col + 1)
+        this.removeQueen(i, col)
       }
     }
 
@@ -44,22 +53,11 @@ class NQueen {
   }
 
   printBoard () {
-    // utility function to display the board
+    console.log('\n')
     for (const row of this.board) {
       console.log(...row)
     }
   }
 }
 
-function main () {
-  const board = new NQueen(8)
-
-  board.printBoard()
-  console.log('\n')
-
-  board.solve()
-
-  board.printBoard()
-}
-
-main()
+export { NQueen }

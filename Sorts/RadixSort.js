@@ -10,29 +10,29 @@ function radixSort (items, RADIX) {
     RADIX = 10
   }
 
-  var maxLength = false
-  var placement = 1
+  let maxLength = false
+  let placement = 1
 
   while (!maxLength) {
     maxLength = true
-    var buckets = []
+    const buckets = []
 
-    for (var i = 0; i < RADIX; i++) {
+    for (let i = 0; i < RADIX; i++) {
       buckets.push([])
     }
 
-    for (var j = 0; j < items.length; j++) {
-      var tmp = items[j] / placement
+    for (let j = 0; j < items.length; j++) {
+      const tmp = items[j] / placement
       buckets[Math.floor(tmp % RADIX)].push(items[j])
       if (maxLength && tmp > 0) {
         maxLength = false
       }
     }
 
-    var a = 0
-    for (var b = 0; b < RADIX; b++) {
-      var buck = buckets[b]
-      for (var k = 0; k < buck.length; k++) {
+    let a = 0
+    for (let b = 0; b < RADIX; b++) {
+      const buck = buckets[b]
+      for (let k = 0; k < buck.length; k++) {
         items[a] = buck[k]
         a++
       }
@@ -44,7 +44,7 @@ function radixSort (items, RADIX) {
 
 // Implementation of radixSort
 
-var ar = [5, 6, 7, 8, 1, 2, 12, 14]
+const ar = [5, 6, 7, 8, 1, 2, 12, 14]
 // Array before Sort
 console.log(ar)
 radixSort(ar)

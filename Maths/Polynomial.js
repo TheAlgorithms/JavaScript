@@ -32,11 +32,9 @@ class Polynomial {
           return `(${coefficient}x^${exponent})`
         }
       })
-      .filter((x) => {
-        if (x !== '0') {
-          return x
-        }
-      })
+      .filter((x) =>
+        x !== '0'
+      )
       .reverse()
       .join(' + ')
   }

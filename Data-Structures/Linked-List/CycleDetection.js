@@ -11,7 +11,7 @@ function main () {
   Note:
   * While Solving the problem in given link below, don't use main() function.
   * Just use only the code inside main() function.
-  * The purpose of using main() function here is to aviod global variables.
+  * The purpose of using main() function here is to avoid global variables.
 
   Link for the Problem: https://leetcode.com/problems/linked-list-cycle/
   */

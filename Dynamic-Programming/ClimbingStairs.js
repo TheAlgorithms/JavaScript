@@ -19,7 +19,7 @@ const climbStairs = (n) => {
 const main = () => {
   const number = 5
 
-  console.log('Number of ways to climb ' + number + ' stairs in ' + climbStairs(5))
+  console.log('Number of ways to climb ' + number + ' stairs in ' + climbStairs(number))
 }
 
 // testing

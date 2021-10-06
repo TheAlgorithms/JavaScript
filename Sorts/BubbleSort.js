@@ -1,5 +1,5 @@
 /* Bubble Sort is an algorithm to sort an array. It
-*  compares adjacent element and swaps thier position
+*  compares adjacent element and swaps their position
 *  The big O on bubble sort in worst and best case is O(N^2).
 *  Not efficient.
 *
@@ -9,6 +9,7 @@
 *  it is greater than itself, if so we swap them.
 *
 *  Wikipedia: https://en.wikipedia.org/wiki/Bubble_sort
+*  Animated Visual: https://www.toptal.com/developers/sorting-algorithms/bubble-sort
 */
 
 /*
@@ -52,7 +53,7 @@ function bubbleSort (items) {
 /*
 *  Implementation of 2 for loops method
 */
-var array1 = [5, 6, 7, 8, 1, 2, 12, 14]
+const array1 = [5, 6, 7, 8, 1, 2, 12, 14]
 // Before Sort
 console.log('\n- Before Sort | Implementation using 2 for loops -')
 console.log(array1)
@@ -83,7 +84,7 @@ function alternativeBubbleSort (arr) {
 /*
 *  Implementation of a while loop and a for loop method
 */
-var array2 = [5, 6, 7, 8, 1, 2, 12, 14]
+const array2 = [5, 6, 7, 8, 1, 2, 12, 14]
 // Before Sort
 console.log('\n- Before Sort | Implementation using a while loop and a for loop -')
 console.log(array2)

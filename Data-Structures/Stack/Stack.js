@@ -8,7 +8,7 @@
 // Functions: push, pop, peek, view, length
 
 // Creates a stack constructor
-var Stack = (function () {
+const Stack = (function () {
   function Stack () {
     // The top of the Stack
     this.top = 0
@@ -29,7 +29,7 @@ var Stack = (function () {
     }
 
     this.top--
-    var result = this.stack[this.top]
+    const result = this.stack[this.top]
     this.stack = this.stack.splice(0, this.top)
     return result
   }
@@ -46,14 +46,14 @@ var Stack = (function () {
 
   // To see all the elements in the stack
   Stack.prototype.view = function () {
-    for (var i = 0; i < this.top; i++) { console.log(this.stack[i]) }
+    for (let i = 0; i < this.top; i++) { console.log(this.stack[i]) }
   }
 
   return Stack
 }())
 
 // Implementation
-var myStack = new Stack()
+const myStack = new Stack()
 
 myStack.push(1)
 myStack.push(5)

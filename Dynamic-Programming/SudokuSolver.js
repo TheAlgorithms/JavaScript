@@ -21,14 +21,14 @@ const isValid = (board, row, col, k) => {
   return true
 }
 
-const sodokoSolver = (data) => {
+const sudokuSolver = (data) => {
   for (let i = 0; i < 9; i++) {
     for (let j = 0; j < 9; j++) {
       if (data[i][j] === '.') {
         for (let k = 1; k <= 9; k++) {
           if (isValid(data, i, j, k)) {
             data[i][j] = `${k}`
-            if (sodokoSolver(data)) {
+            if (sudokuSolver(data)) {
               return true
             } else {
               data[i][j] = '.'
@@ -44,7 +44,7 @@ const sodokoSolver = (data) => {
 
 // testing
 (() => {
-  if (sodokoSolver(_board)) {
+  if (sudokuSolver(_board)) {
     console.log(_board)
   }
 })()
