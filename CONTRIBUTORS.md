@@ -1026,3 +1026,18 @@
 
 - [@zedanmaqsood](https://github.com/zedanmaqsood)
 
+- [@ryantalatagod](https://github.com/ryantalatagod)
+
+- [@shubhamk-code](https://github.com/shubhamk-code/)
+
+- [@Mesbahialii](https://github.com/MesbahiAlii)
+
+- [@gstavrinos](https://github.com/gstavrinos)
+
+- [@alkka](https://github.com/alkka)
+
+- [@JubayerJoy](https://github.com/JubayerJoy)
+
+-[@Mesbahialii](https://github.com/MesbahiAlii)
+
+-[@DoctorWilliamTroll](https://github.com/DoctorWilliamTroll)
