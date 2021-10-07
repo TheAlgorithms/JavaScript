@@ -75,15 +75,4 @@ class BinaryHeap {
   }
 }
 
-const maxHeap = new BinaryHeap((parent, child) => parent >= child)
-maxHeap.insert(4)
-maxHeap.insert(3)
-maxHeap.insert(6)
-maxHeap.insert(1)
-maxHeap.insert(8)
-maxHeap.insert(2)
-
-while (!maxHeap.empty()) {
-  const mx = maxHeap.extract()
-  console.log(mx)
-}
+module.exports.BinaryHeap = BinaryHeap
