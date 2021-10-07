@@ -46,6 +46,7 @@
   * [RgbHsvConversion](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/RgbHsvConversion.js)
   * [RGBToHex](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/RGBToHex.js)
   * [RomanToDecimal](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/RomanToDecimal.js)
+  * [TemperatureConversion](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/TemperatureConversion.js)
   * [TitleCaseConversion](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/TitleCaseConversion.js)
   * [UpperCaseConversion](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/UpperCaseConversion.js)
 
