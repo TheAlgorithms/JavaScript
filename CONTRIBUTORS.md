@@ -1049,3 +1049,5 @@
 - [@karthiknatarajan-27558](https://github.com/karthiknatarajan-27558)
 
 - [@hamzahouri](https://github.com/hamzahouri)
+  
+- [@diogoson11](https://github.com/diogoson11)
