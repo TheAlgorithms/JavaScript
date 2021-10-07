@@ -53,7 +53,7 @@ const kelvinToFahrenheit = (kelvin) => {
 const kelvinToRankine = (kelvin) => {
   // Wikipedia reference: https://en.wikipedia.org/wiki/Kelvin
   // Wikipedia reference: https://en.wikipedia.org/wiki/Rankine_scale
-  return Math.round(( (kelvin) * 9 / 5))
+  return Math.round(((kelvin) * 9 / 5))
 }
 
 const rankineToCelsius = (rankine) => {
