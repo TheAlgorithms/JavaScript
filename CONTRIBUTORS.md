@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@niveshbirangal](https://github.com/niveshbirangal)
+
 - [@0000x582d6976](https://github.com/0000x582d6976)
 
 - [@6586rajan](https://github.com/6586rajan)
@@ -1031,3 +1033,9 @@
 - [@ryzheboka](https://github.com/ryzheboka)
 
 - [@HolyCoder13](https://github.com/HolyCoder13)
+
+- [@carlcidromero](https://github.com/carlcidromero)
+
+- [@ashish10597](https://github.com/ashish10597)
+
+- [@karthiknatarajan-27558](https://github.com/karthiknatarajan-27558)
