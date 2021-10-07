@@ -120,6 +120,8 @@
 
 - [@GhostOrder28](https://github.com/GhostOrder28)
 
+- [@gipsi](https://github.com/gipsi)
+
 - [@Gomatheeswaran](https://github.com/Gomatheeswaran)
 
 - [@Greeshma03](https://github.com/Greeshma-03/)
@@ -1047,3 +1049,11 @@
 - [@Astrogeek77](https://github.com/Astrogeek77)
 
 - [@karthiknatarajan-27558](https://github.com/karthiknatarajan-27558)
+
+- [@hamzahouri](https://github.com/hamzahouri)
+  
+- [@diogoson11](https://github.com/diogoson11)
+
+- [@cebener-maake](https://github.com/cebener-maake)
+
+- [@cydvilla](https://github.com/CydVilla)
