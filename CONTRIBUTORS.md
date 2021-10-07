@@ -120,6 +120,8 @@
 
 - [@GhostOrder28](https://github.com/GhostOrder28)
 
+- [@gipsi](https://github.com/gipsi)
+
 - [@Gomatheeswaran](https://github.com/Gomatheeswaran)
 
 - [@Greeshma03](https://github.com/Greeshma-03/)
