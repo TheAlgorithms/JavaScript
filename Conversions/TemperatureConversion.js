@@ -1,143 +1,137 @@
 // This files has functions to convert different temperature units
-
 // Functions take temperature value as a arguement and returns corresponding converted value
 
-
-
-const celsius_to_fahrenheit = (celsius ) => {
+const celsiusToFahrenheit = (celsius) => {
    
-    // Wikipedia reference: https://en.wikipedia.org/wiki/Celsius
-    // Wikipedia reference: https://en.wikipedia.org/wiki/Fahrenheit
+ // Wikipedia reference: https://en.wikipedia.org/wiki/Celsius
+ // Wikipedia reference: https://en.wikipedia.org/wiki/Fahrenheit
 
-    return  Math.round(( (celsius) * 9 / 5) + 32 );
+ return Math.round(((celsius) * 9 / 5) + 32);
 
 }
 
-const celsius_to_kelvin = (celsius) => {
+const celsiusToKelvin = (celsius) => {
 
-    // Wikipedia reference: https://en.wikipedia.org/wiki/Celsius
-    // Wikipedia reference: https://en.wikipedia.org/wiki/Kelvin
+  // Wikipedia reference: https://en.wikipedia.org/wiki/Celsius
+  // Wikipedia reference: https://en.wikipedia.org/wiki/Kelvin
 
-    return  Math.round( (celsius) + 273.15 )
+  return Math.round((celsius) + 273.15);
 }
 
+const celsiusToRankine = (celsius) => {
 
-const celsius_to_rankine = (celsius ) => {
+  // Wikipedia reference: https://en.wikipedia.org/wiki/Celsius
+  // Wikipedia reference: https://en.wikipedia.org/wiki/Rankine_scale
 
-    // Wikipedia reference: https://en.wikipedia.org/wiki/Celsius
-    // Wikipedia reference: https://en.wikipedia.org/wiki/Rankine_scale
-
-    return  Math.round(( (celsius) * 9 / 5) + 491.67 )
+  return Math.round(((celsius) * 9 / 5) + 491.67);
 }
 
+const fahrenheitToCelsius = (fahrenheit) => {
 
-const fahrenheit_to_celsius = (fahrenheit ) => {
+  // Wikipedia reference: https://en.wikipedia.org/wiki/Fahrenheit
+  // Wikipedia reference: https://en.wikipedia.org/wiki/Celsius
 
-    // Wikipedia reference: https://en.wikipedia.org/wiki/Fahrenheit
-    // Wikipedia reference: https://en.wikipedia.org/wiki/Celsius
-   
-    return  Math.round(( (fahrenheit) - 32) * 5 / 9 )
+  return Math.round(((fahrenheit) - 32) * 5 / 9);
 }
 
-const fahrenheit_to_kelvin = (fahrenheit ) => {
+const fahrenheitToKelvin = (fahrenheit) => {
   
-    // Wikipedia reference: https://en.wikipedia.org/wiki/Fahrenheit
-    // Wikipedia reference: https://en.wikipedia.org/wiki/Kelvin
+  // Wikipedia reference: https://en.wikipedia.org/wiki/Fahrenheit
+  // Wikipedia reference: https://en.wikipedia.org/wiki/Kelvin
 
-    return  Math.round((( (fahrenheit) - 32) * 5 / 9) + 273.15 )
+  return Math.round((((fahrenheit) - 32) * 5 / 9) + 273.15);
 }
 
-const fahrenheit_to_rankine = (fahrenheit ) => {
-   
-    // Wikipedia reference: https://en.wikipedia.org/wiki/Fahrenheit
-    // Wikipedia reference: https://en.wikipedia.org/wiki/Rankine_scale
-   
-    return  Math.round( (fahrenheit) + 459.67 )
+const fahrenheitToRankine = (fahrenheit) => {
+
+  // Wikipedia reference: https://en.wikipedia.org/wiki/Fahrenheit
+  // Wikipedia reference: https://en.wikipedia.org/wiki/Rankine_scale
+
+  return Math.round((fahrenheit) + 459.67);
 }
 
-const kelvin_to_celsius = (kelvin ) => {
-   
-    // Wikipedia reference: https://en.wikipedia.org/wiki/Kelvin
-    // Wikipedia reference: https://en.wikipedia.org/wiki/Celsius
-    
-    return  Math.round( (kelvin) - 273.15 )
+const kelvinToCelsius = (kelvin) => {
+
+  // Wikipedia reference: https://en.wikipedia.org/wiki/Kelvin
+  // Wikipedia reference: https://en.wikipedia.org/wiki/Celsius
+
+  return Math.round((kelvin) - 273.15);
 
 }
 
-const kelvin_to_fahrenheit = (kelvin ) => {
-   
-    // Wikipedia reference: https://en.wikipedia.org/wiki/Kelvin
-    // Wikipedia reference: https://en.wikipedia.org/wiki/Fahrenheit
-   
-   
-    return  Math.round((( (kelvin) - 273.15) * 9 / 5) + 32 )
+const kelvinToFahrenheit = (kelvin) => {
+
+  // Wikipedia reference: https://en.wikipedia.org/wiki/Kelvin
+  // Wikipedia reference: https://en.wikipedia.org/wiki/Fahrenheit
+
+  return Math.round((((kelvin) - 273.15) * 9 / 5) + 32);
 }
 
-const kelvin_to_rankine = (kelvin ) => {
+const kelvinToRankine = (kelvin) => {
 
-    // Wikipedia reference: https://en.wikipedia.org/wiki/Kelvin
-    // Wikipedia reference: https://en.wikipedia.org/wiki/Rankine_scale
+  // Wikipedia reference: https://en.wikipedia.org/wiki/Kelvin
+  // Wikipedia reference: https://en.wikipedia.org/wiki/Rankine_scale
 
-    return  Math.round(( (kelvin) * 9 / 5) )
+  return Math.round(( (kelvin) * 9 / 5));
 }
 
-const rankine_to_celsius = (rankine ) => {
-   
-    // Wikipedia reference: https://en.wikipedia.org/wiki/Rankine_scale
-    // Wikipedia reference: https://en.wikipedia.org/wiki/Celsius
-  
-    return  Math.round(( (rankine) - 491.67) * 5 / 9 )
+const rankineToCelsius = (rankine) => {
+
+  // Wikipedia reference: https://en.wikipedia.org/wiki/Rankine_scale
+  // Wikipedia reference: https://en.wikipedia.org/wiki/Celsius
+
+  return Math.round(((rankine) - 491.67) * 5 / 9);
 }
 
-const rankine_to_fahrenheit = (rankine ) => {
-   
-    // Wikipedia reference: https://en.wikipedia.org/wiki/Rankine_scale
-    // Wikipedia reference: https://en.wikipedia.org/wiki/Fahrenheit
-   
-    return  Math.round( (rankine) - 459.67 )
-}
-
-
-const rankine_to_kelvin = (rankine ) => {
-   
-    // Wikipedia reference: https://en.wikipedia.org/wiki/Rankine_scale
-    // Wikipedia reference: https://en.wikipedia.org/wiki/Kelvin
-   
-    return  Math.round(( (rankine) * 5 / 9) )
-}
-
-const reaumur_to_kelvin = (reaumur ) => {
+const rankineToFahrenheit = (rankine) => {
  
-    // Reference:- http://www.csgnetwork.com/temp2conv.html
+  // Wikipedia reference: https://en.wikipedia.org/wiki/Rankine_scale
+  // Wikipedia reference: https://en.wikipedia.org/wiki/Fahrenheit
 
-    return  Math.round(( (reaumur) * 1.25 + 273.15) )
+  return Math.round((rankine) - 459.67);
 }
 
-const reaumur_to_fahrenheit = (reaumur ) => {
-   
-    // Reference:- http://www.csgnetwork.com/temp2conv.html
-   
-    return  Math.round(( (reaumur) * 2.25 + 32) )
+
+const rankineToKelvin = (rankine) => {
+ 
+  // Wikipedia reference: https://en.wikipedia.org/wiki/Rankine_scale
+  // Wikipedia reference: https://en.wikipedia.org/wiki/Kelvin
+
+  return Math.round(((rankine) * 5 / 9));
 }
 
-const reaumur_to_celsius = (reaumur ) => {
+const reaumurToKelvin = (reaumur) => {
 
-    // Reference:- http://www.csgnetwork.com/temp2conv.html
+  // Reference:- http://www.csgnetwork.com/temp2conv.html
 
-    return  Math.round(( (reaumur) * 1.25) )
+  return Math.round(((reaumur) * 1.25 + 273.15));
 }
 
-const reaumur_to_rankine = (reaumur ) => {
-  
-    // Reference:- http://www.csgnetwork.com/temp2conv.html
+const reaumurToFahrenheit = (reaumur) => {
 
-    return  Math.round(( (reaumur) * 2.25 + 32 + 459.67) )
+  // Reference:- http://www.csgnetwork.com/temp2conv.html
+
+  return Math.round(((reaumur) * 2.25 + 32));
+}
+
+const reaumurToCelsius = (reaumur) => {
+
+  // Reference:- http://www.csgnetwork.com/temp2conv.html
+
+  return Math.round(((reaumur) * 1.25));
+}
+
+const reaumurToRankine = (reaumur) => {
+
+  // Reference:- http://www.csgnetwork.com/temp2conv.html
+
+  return Math.round(((reaumur) * 2.25 + 32 + 459.67));
 }
 
 export {
-    celsius_to_fahrenheit,celsius_to_kelvin,celsius_to_rankine,
-    fahrenheit_to_celsius,fahrenheit_to_kelvin,fahrenheit_to_rankine,
-    kelvin_to_celsius,kelvin_to_fahrenheit,kelvin_to_rankine,
-    rankine_to_celsius,rankine_to_fahrenheit,rankine_to_kelvin,
-    reaumur_to_celsius,reaumur_to_fahrenheit,reaumur_to_kelvin,reaumur_to_rankine
-}
+    celsiusToFahrenheit,celsiusToKelvin,celsiusToRankine,
+    fahrenheitToCelsius,fahrenheitToKelvin,fahrenheitToRankine,
+    kelvinToCelsius,kelvinToFahrenheit,kelvinToRankine,
+    rankineToCelsius,rankineToFahrenheit,rankineToKelvin,
+    reaumurToCelsius,reaumurToFahrenheit,reaumurToKelvin,reaumurToRankine
+};
