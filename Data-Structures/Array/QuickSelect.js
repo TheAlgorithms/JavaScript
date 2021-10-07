@@ -61,15 +61,4 @@ function Swap (arr, x, y) {
   [arr[x], arr[y]] = [arr[y], arr[x]]
 }
 
-// > QuickSelect([1, 4, 2, -2, 4, 5], 1)
-// -2
-// > QuickSelect([1, 4, 2, -2, 4, 5], 5)
-// 4
-// > QuickSelect([1, 4, 2, -2, 4, 5], 6)
-// 5
-// > QuickSelect([1, 4, 2, -2, 4, 5], 0)
-// "Index Out of Bound"
-// > QuickSelect([1, 4, 2, -2, 4, 5], 7)
-// "Index Out of Bound"
-
 export { QuickSelect }

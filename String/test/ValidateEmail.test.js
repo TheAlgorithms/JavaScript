@@ -19,5 +19,6 @@ describe('Validation of an Email Address', () => {
 
   it('expects to throw a type error', () => {
     expect(() => { validateEmail('') }).toThrow('Email Address String Null or Empty.')
+    expect(() => { validateEmail(null) }).toThrow('Email Address String Null or Empty.')
   })
 })

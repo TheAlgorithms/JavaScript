@@ -76,7 +76,13 @@ function pathsToMarkdown (filePaths) {
 }
 
 // get paths of all .js files - excluding node_modules, the .github folder, tests and config stuff
-globby(['**/*.js', '!(node_modules|.github)/**/*', '!**/*.test.js', '!babel.config.js'])
+globby([
+  '**/*.js',
+  '!(node_modules|.github)/**/*',
+  '!**/*.test.js',
+  '!**/*.manual-test.js',
+  '!babel.config.js'
+])
   // create markdown content
   .then(pathsToMarkdown)
   // write markdown to file

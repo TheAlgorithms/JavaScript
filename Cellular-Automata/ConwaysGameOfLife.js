@@ -8,17 +8,10 @@ The Game of Life is a cellular automaton devised by the British mathematician Jo
 (example adapted from https://github.com/TheAlgorithms/Python/blob/master/cellular_automata/conways_game_of_life.py )
 */
 
-/*
-*  Doctests
-*
-*  > newGeneration([[0, 1, 0], [0, 1, 0], [0, 1, 0]])
-*  [ [ 0, 0, 0 ], [ 1, 1, 1 ], [ 0, 0, 0 ] ]
-*/
-
-/*
-*  Generates the next generation for a given state of Conway's Game of Life.
-*/
-function newGeneration (cells) {
+/**
+ * Generates the next generation for a given state of Conway's Game of Life.
+ */
+export function newGeneration (cells) {
   const nextGeneration = []
   for (let i = 0; i < cells.length; i++) {
     const nextGenerationRow = []
@@ -46,45 +39,3 @@ function newGeneration (cells) {
   }
   return nextGeneration
 }
-
-/*
-*  utility function to display a series of generations in the console
-*/
-async function animate (cells, steps) {
-  /*
-  * utility function to print one frame
-  */
-  function printCells (cells) {
-    console.clear()
-    for (let i = 0; i < cells.length; i++) {
-      let line = ''
-      for (let j = 0; j < cells[i].length; j++) {
-        if (cells[i][j] === 1) line += '\u2022'
-        else line += ' '
-      }
-      console.log(line)
-    }
-  }
-
-  printCells(cells)
-
-  for (let i = 0; i < steps; i++) {
-    await new Promise(resolve => setTimeout(resolve, 250)) // sleep
-    cells = newGeneration(cells)
-    printCells(cells)
-  }
-}
-
-// Define glider example
-const glider = [
-  [0, 1, 0, 0, 0, 0, 0, 0],
-  [0, 0, 1, 0, 0, 0, 0, 0],
-  [1, 1, 1, 0, 0, 0, 0, 0],
-  [0, 0, 0, 0, 0, 0, 0, 0],
-  [0, 0, 0, 0, 0, 0, 0, 0],
-  [0, 0, 0, 0, 0, 0, 0, 0],
-  [0, 0, 0, 0, 0, 0, 0, 0],
-  [0, 0, 0, 0, 0, 0, 0, 0]
-]
-
-animate(glider, 16)
