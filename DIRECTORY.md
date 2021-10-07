@@ -61,6 +61,7 @@
     * [MinPriorityQueue](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Heap/MinPriorityQueue.js)
   * Linked-List
     * [CycleDetection](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Linked-List/CycleDetection.js)
+    * [CycleNode](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Linked-List/CycleNode.js)
     * [DoublyLinkedList](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Linked-List/DoublyLinkedList.js)
     * [RotateListRight](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Linked-List/RotateListRight.js)
     * [SingleCircularLinkedList](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Linked-List/SingleCircularLinkedList.js.js)
