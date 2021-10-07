@@ -1,79 +1,11 @@
 /**
- * In mathematics and physics, a vector is an element of a vector space. The Vector2-class
- * implements 2-dimensional vectors together with various vector-operations (description adapted from
- * https://en.wikipedia.org/wiki/Vector_(mathematics_and_physics)).
+ * In mathematics and physics, a vector is an element of a vector space.
+ *
+ * The Vector2-class implements 2-dimensional vectors together with various vector-operations.
+ * @see https://en.wikipedia.org/wiki/Vector_(mathematics_and_physics).
  */
 
-/*
-Doctests
-
-// Test equalsExactly-method
-> new Vector2(1, 0).equalsExactly(new Vector2(1, 0))
-true
-> new Vector2(1.23, 4.56).equalsExactly(new Vector2(0, 0))
-false
-
-// Test equalsApproximately-method
-> new Vector2(1, 0).equalsApproximately(new Vector2(1, 0.0000001), 0.000001)
-true
-> new Vector2(1.23, 4.56).equalsApproximately(new Vector2(1.24, 4.56), 0.000001)
-false
-
-// Test add-method
-> new Vector2(1, 0).add(new Vector2(0, 1)).equalsApproximately(new Vector2(1, 1), 0.000001)
-true
-> new Vector2(-3.3, -9).add(new Vector2(-2.2, 3)).equalsApproximately(new Vector2(-5.5, -6), 0.000001)
-true
-
-// Test subtract-method
-> new Vector2(1, 0).subtract(new Vector2(0, 1)).equalsApproximately(new Vector2(1, -1), 0.000001)
-true
-> new Vector2(234.5, 1.7).subtract(new Vector2(3.3, 2.7)).equalsApproximately(new Vector2(231.2, -1), 0.000001)
-true
-
-// Test multiply-method
-> new Vector2(1, 0).multiply(5).equalsApproximately(new Vector2(5, 0), 0.000001)
-true
-> new Vector2(3.41, -7.12).multiply(-3.1).equalsApproximately(new Vector2(-10.571, 22.072), 0.000001)
-true
-
-// Test length-method
-> new Vector2(1, 0).length()
-1
-> new Vector2(-1, 1).length()
-Math.sqrt(2)
-
-// Test normalize-method
-> new Vector2(1, 0).normalize().equalsApproximately(new Vector2(1, 0), 0.000001)
-true
-> new Vector2(1, -1).normalize().equalsApproximately(new Vector2(Math.sqrt(2) / 2, -Math.sqrt(2) / 2), 0.000001)
-true
-
-// Test distance-method
-> new Vector2(0, 0).distance(new Vector2(0, -1))
-1
-> new Vector2(1, 0).distance(new Vector2(0, 1))
-Math.sqrt(2)
-
-// Test dotProduct-method
-> new Vector2(1, 0).dotProduct(new Vector2(0, 1))
-0
-> new Vector2(1, 2).dotProduct(new Vector2(3, 4))
-1 * 3 + 2 * 4
-
-// Test rotate-method
-> new Vector2(0, -1).rotate(Math.PI / 2).equalsApproximately(new Vector2(1, 0), 0.000001)
-true
-> new Vector2(1.23, -4.56).rotate(Math.PI).equalsApproximately(new Vector2(-1.23, 4.56), 0.000001)
-true
-
-// Test angleBetween-method
-> new Vector2(1, 0).angleBetween(new Vector2(0, 1))
-Math.PI / 2
-> new Vector2(1, 0).angleBetween(new Vector2(1, -1))
--Math.PI / 4
-*/
-class Vector2 { // eslint-disable-line no-unused-vars
+class Vector2 {
   constructor (x, y) {
     this.x = x
     this.y = y
@@ -203,3 +135,5 @@ class Vector2 { // eslint-disable-line no-unused-vars
     return Math.atan2(vector.y, vector.x) - Math.atan2(this.y, this.x)
   }
 }
+
+export { Vector2 }
