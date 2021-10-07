@@ -16,6 +16,12 @@
  * Wikipedia: https://en.wikipedia.org/wiki/Comb_sort
  */
 
+/**
+ * combSort returns an array of numbers sorted in increasing order.
+ *
+ * @param {number[]} list The array of numbers to sort.
+ * @return {number[]} The array of numbers sorted in increasing order.
+ */
 function combSort (list) {
   if (list.length === 0) {
     return list
@@ -43,14 +49,4 @@ function combSort (list) {
   return list
 }
 
-/**
-* Implementation of Comb Sort
-*/
-const array = [5, 6, 7, 8, 1, 2, 12, 14]
-// Before Sort
-console.log('\n- Before Sort | Implementation of Comb Sort -')
-console.log(array)
-// After Sort
-console.log('- After Sort | Implementation of Comb Sort -')
-console.log(combSort(array))
-console.log('\n')
+export { combSort }

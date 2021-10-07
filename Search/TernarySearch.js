@@ -11,25 +11,6 @@
  * Reference: https://www.geeksforgeeks.org/ternary-search/
  */
 
-/*
-*  Doctests
-*
-*  > ternarySearchRecursive([1, 2, 3, 4, 5, 6, 7, 8, 9, 10], 3)
-*  2
-*  > ternarySearchIterative([1, 2, 3, 4, 5, 6, 7, 8, 9, 10], 8)
-*  7
-*  > ternarySearchRecursive([1, 2, 3, 4, 5, 6, 7, 8, 9, 10], 0)
-*  -1
-*  > ternarySearchIterative([1, 2, 3, 4, 5, 6, 7, 8, 9, 10], 12)
-*  -1
-*  > ternarySearchRecursive(["Ali", "Cathrynli", "Josuke", "Thomas"], "Cathrynli")
-*  1
-*  > ternarySearchRecursive(["Ali", "Cathrynli", "Josuke", "Thomas"], "Josuke")
-*  2
-*  > ternarySearchRecursive(["Ali", "Cathrynli", "Josuke", "Thomas"], "Angela")
-*  -1
-*/
-
 function ternarySearchRecursive (arr, key, low = 0, high = arr.length - 1) {
   if (high >= low) {
     // find the mid1 and mid2
@@ -65,6 +46,7 @@ function ternarySearchRecursive (arr, key, low = 0, high = arr.length - 1) {
     return -1
   }
 }
+
 function ternarySearchIterative (arr, key, low = 0, high = arr.length - 1) {
   while (high >= low) {
     // find the mid1 and mid2

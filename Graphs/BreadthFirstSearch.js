@@ -1,20 +1,13 @@
-/*
-Breadth-first search is an algorithm for traversing a graph. It's discovers all nodes reachable from the starting position by exploring all of the neighbor nodes at the present depth prior to moving on to the nodes at the next depth level.
-(description adapted from https://en.wikipedia.org/wiki/Breadth-first_search )
-(see also: https://www.koderdojo.com/blog/breadth-first-search-and-shortest-path-in-csharp-and-net-core )
-*/
-
-/*
-Doctests
-> Array.from(breadthFirstSearch(graph, "C"))
-[ 'C', 'D', 'A', 'B', 'E' ]
-> Array.from(breadthFirstSearch(graph, "A"))
-[ 'A', 'B', 'D', 'E' ]
-> Array.from(breadthFirstSearch(graph, "F"))
-[ 'F', 'G' ]
-*/
-
-function breadthFirstSearch (graph, startingNode) {
+/**
+ * Breadth-first search is an algorithm for traversing a graph.
+ *
+ * It discovers all nodes reachable from the starting position by exploring all of the neighbor nodes at the present
+ * depth prior to moving on to the nodes at the next depth level.
+ *
+ * (description adapted from https://en.wikipedia.org/wiki/Breadth-first_search)
+ * @see https://www.koderdojo.com/blog/breadth-first-search-and-shortest-path-in-csharp-and-net-core
+ */
+export function breadthFirstSearch (graph, startingNode) {
   // visited keeps track of all nodes visited
   const visited = new Set()
 
@@ -39,26 +32,3 @@ function breadthFirstSearch (graph, startingNode) {
 
   return visited
 }
-
-const graph = {
-  A: ['B', 'D'],
-  B: ['E'],
-  C: ['D'],
-  D: ['A'],
-  E: ['D'],
-  F: ['G'],
-  G: []
-}
-/*
-      A <-> B
-      ʌ     |
-      |     |
-      v     v
-C --> D <-- E
-
-F --> G
-*/
-
-console.log(breadthFirstSearch(graph, 'C'))
-console.log(breadthFirstSearch(graph, 'A'))
-console.log(breadthFirstSearch(graph, 'F'))

@@ -37,7 +37,7 @@ let utils;
  */
 const AVLTree = (function () {
   function _avl (comp) {
-    /** @public compartor function */
+    /** @public comparator function */
     this._comp = undefined
     if (comp !== undefined) {
       this._comp = comp
@@ -119,7 +119,7 @@ const AVLTree = (function () {
       node._right = rightRotate(node._right)
       return leftRotate(node) // Right Left
     }
-    return leftRotate(node) // Rigth Right
+    return leftRotate(node) // Right Right
   }
   // implement avl tree insertion
   const insert = function (root, val, tree) {
@@ -202,7 +202,7 @@ const AVLTree = (function () {
     return true
   }
   /**
-   * TO check is a particluar element exists or not
+   * TO check is a particular element exists or not
    * @param {any} _val
    * @returns {Boolean} exists or not
    */
