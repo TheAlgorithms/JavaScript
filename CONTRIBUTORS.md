@@ -1059,3 +1059,5 @@
 - [@cydvilla](https://github.com/CydVilla)
 
 - [@jideabdqudus](https://github.com/jideabdqudus)
+
+- [@tregalloway](https://github.com/TreGalloway)
