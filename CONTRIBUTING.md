@@ -125,15 +125,12 @@ function sumOfArray (arrayOfNumbers) {
   return (sum)
 }
 ```
-* 
 * Avoid using global variables and avoid `==`
 * Please use `let` over `var`
 * Please refrain from using `console.log` or any other console methods
 * **Absolutely** don't use `alert`
 * We strongly recommend the use of ECMAScript 6
-* Avoid importing external libraries for basic algorithms. Only use those libraries for complicated algorithms
+* Do not use external libraries
 * Most importantly:
     * **Be consistent in the use of these guidelines when submitting**
     * Happy coding!
-
-Writer [@itsvinayak](https://github.com/itsvinayak), May 2020.
