@@ -10,6 +10,7 @@
 
 ## Bit-Manipulation
   * [BinaryCountSetBits](https://github.com/TheAlgorithms/Javascript/blob/master/Bit-Manipulation/BinaryCountSetBits.js)
+  * [IsPowerOfTwo](https://github.com/TheAlgorithms/Javascript/blob/master/Bit-Manipulation/IsPowerOfTwo.js)
   * [SetBit](https://github.com/TheAlgorithms/Javascript/blob/master/Bit-Manipulation/SetBit.js)
 
 ## Cache
