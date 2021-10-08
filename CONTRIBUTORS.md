@@ -1073,3 +1073,5 @@
 - [@viktorlinus](https://github.com/viktorlinus)
 
 - [@epaula7149](https://github.com/epaula7149)
+
+- [@thalha-dev](https://github.com/thalha-dev/)
