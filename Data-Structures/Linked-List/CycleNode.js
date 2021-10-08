@@ -12,6 +12,9 @@
   For reference: https://www.codingninjas.com/blog/2020/09/09/floyds-cycle-detection-algorithm/
 */
 
+/*
+  Input: Pass the head (first node) of linked list
+*/ 
 const detectCycleNode = (head) => {
   if (!head || !head.next) {
     return null
