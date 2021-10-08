@@ -1051,7 +1051,6 @@
 - [@karthiknatarajan-27558](https://github.com/karthiknatarajan-27558)
 
 - [@hamzahouri](https://github.com/hamzahouri)
-  
 - [@diogoson11](https://github.com/diogoson11)
 
 - [@cebener-maake](https://github.com/cebener-maake)
@@ -1075,3 +1074,5 @@
 - [@epaula7149](https://github.com/epaula7149)
 
 - [@thalha-dev](https://github.com/thalha-dev/)
+
+- [@DigantaSom](https://github.com/DigantaSom/)
