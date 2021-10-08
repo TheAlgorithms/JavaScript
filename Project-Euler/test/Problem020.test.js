@@ -1,4 +1,4 @@
-const factorialDigitSum = require('../Problem020')
+import { factorialDigitSum } from '../Problem020'
 
 describe('Check Problem 20 - Factorial digit sum', () => {
   it('Factorial digit sum of 10!', () => {

@@ -33,6 +33,4 @@ const factorialDigitSum = (n = 100) => {
   return digits.reduce((prev, current) => prev + current, 0)
 }
 
-console.log('Factorial digit sum of 100! :', factorialDigitSum())
-
-module.exports = factorialDigitSum
+export { factorialDigitSum }
