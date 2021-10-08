@@ -1,3 +1,5 @@
+// About base64: https://en.wikipedia.org/wiki/Base64
+
 /**
  * Converts an array of bytes to base64 encoding
  * @param {ArrayBuffer} binaryData An ArrayBuffer which represents an array of bytes
