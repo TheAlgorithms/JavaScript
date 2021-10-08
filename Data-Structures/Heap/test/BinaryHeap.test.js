@@ -1,4 +1,4 @@
-const BinaryHeap = require('../BinaryHeap').BinaryHeap
+import BinaryHeap from '../BinaryHeap'
 test('Binary Heap works as a Max Heap', function () {
   const maxHeap = new BinaryHeap((parent, child) => parent >= child)
   maxHeap.insert(4)
