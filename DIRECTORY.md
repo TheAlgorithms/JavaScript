@@ -31,6 +31,7 @@
 
 ## Conversions
   * [ArbitraryBase](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/ArbitraryBase.js)
+  * [Base64ToArrayBuffer](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/Base64ToArrayBuffer.js)
   * [BinaryToDecimal](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/BinaryToDecimal.js)
   * [DateDayDifference](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/DateDayDifference.js)
   * [DateToDay](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/DateToDay.js)
