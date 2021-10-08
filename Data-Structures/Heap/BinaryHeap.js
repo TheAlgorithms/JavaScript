@@ -75,4 +75,4 @@ class BinaryHeap {
   }
 }
 
-module.exports.BinaryHeap = BinaryHeap
+export { BinaryHeap }
