@@ -1063,3 +1063,5 @@
 - [@tregalloway](https://github.com/TreGalloway)
 
 - [@patriziomadferitmilione](https://github.com/patriziomadferitmilione)
+
+- [@hrushikute](https://github.com/hrushikute)
