@@ -8,7 +8,7 @@
     O(sqrt(n))
 */
 
-const EulersTotient = (n) => {
+export const EulersTotient = (n) => {
   // input: n: int
   // output: phi(n): count of numbers b/w 1 and n that are coprime to n
   let res = n
@@ -27,14 +27,3 @@ const EulersTotient = (n) => {
   }
   return res
 }
-
-const main = () => {
-  // EulersTotient(9) = 6 as 1, 2, 4, 5, 7, and 8 are coprime to 9
-  // > 6
-  console.log(EulersTotient(9))
-  // EulersTotient(10) = 4 as 1, 3, 7, 9 are coprime to 10
-  // > 4
-  console.log(EulersTotient(10))
-}
-
-main()

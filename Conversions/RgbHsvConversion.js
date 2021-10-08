@@ -1,4 +1,4 @@
-/**
+/*
  * The RGB color model is an additive color model in which red, green, and blue light are added
  * together in various ways to reproduce a broad array of colors. The name of the model comes from
  * the initials of the three additive primary colors, red, green, and blue. Meanwhile, the HSV
@@ -8,57 +8,6 @@
  * https://en.wikipedia.org/wiki/RGB_color_model and https://en.wikipedia.org/wiki/HSL_and_HSV).
  */
 
-/*
-Doctests
-Expected RGB-values taken from https://www.rapidtables.com/convert/color/hsv-to-rgb.html
-Test hsvToRgb-method
-
-> hsvToRgb(0, 0, 0)
-[0, 0, 0]
-> hsvToRgb(0, 0, 1)
-[255, 255, 255]
-> hsvToRgb(0, 1, 1)
-[255, 0, 0]
-> hsvToRgb(60, 1, 1)
-[255, 255, 0]
-> hsvToRgb(120, 1, 1)
-[0, 255, 0]
-> hsvToRgb(240, 1, 1)
-[0, 0, 255]
-> hsvToRgb(300, 1, 1)
-[255, 0, 255]
-> hsvToRgb(180, 0.5, 0.5)
-[64, 128, 128]
-> hsvToRgb(234, 0.14, 0.88)
-[193, 196, 224]
-> hsvToRgb(330, 0.75, 0.5)
-[128, 32, 80]
-
-Test rgbToHsv-method
-function "approximatelyEqualHsv" needed because of small deviations due to rounding for the RGB-values.
-> approximatelyEqualHsv(rgbToHsv(0, 0, 0), [0, 0, 0])
-true
-> approximatelyEqualHsv(rgbToHsv(255, 255, 255), [0, 0, 1])
-true
-> approximatelyEqualHsv(rgbToHsv(255, 0, 0), [0, 1, 1])
-true
-> approximatelyEqualHsv(rgbToHsv(255, 255, 0), [60, 1, 1])
-true
-> approximatelyEqualHsv(rgbToHsv(0, 255, 0), [120, 1, 1])
-true
-> approximatelyEqualHsv(rgbToHsv(0, 0, 255), [240, 1, 1])
-true
-> approximatelyEqualHsv(rgbToHsv(255, 0, 255), [300, 1, 1])
-true
-> approximatelyEqualHsv(rgbToHsv(64, 128, 128), [180, 0.5, 0.5])
-true
-> approximatelyEqualHsv(rgbToHsv(193, 196, 224), [234, 0.14, 0.88])
-true
-> approximatelyEqualHsv(rgbToHsv(128, 32, 80), [330, 0.75, 0.5])
-true
-
-*/
-
 /**
  * Conversion from the HSV-representation to the RGB-representation.
  *
@@ -67,7 +16,7 @@ true
  * @param value Brightness-value of the color.
  * @return The tuple of RGB-components.
  */
-function hsvToRgb (hue, saturation, value) { // eslint-disable-line no-unused-vars
+export function hsvToRgb (hue, saturation, value) {
   if (hue < 0 || hue > 360) {
     throw new Error('hue should be between 0 and 360')
   }
@@ -96,7 +45,7 @@ function hsvToRgb (hue, saturation, value) { // eslint-disable-line no-unused-va
  * @param blue Blue-component of the color.
  * @return The tuple of HSV-components.
  */
-function rgbToHsv (red, green, blue) { // eslint-disable-line no-unused-vars
+export function rgbToHsv (red, green, blue) {
   if (red < 0 || red > 255) {
     throw new Error('red should be between 0 and 255')
   }
@@ -120,7 +69,7 @@ function rgbToHsv (red, green, blue) { // eslint-disable-line no-unused-vars
   if (chroma === 0) {
     hue = 0
   } else if (value === dRed) {
-    hue = 60 * (0 + (dGreen - dBlue) / chroma)
+    hue = 60 * ((dGreen - dBlue) / chroma)
   } else if (value === dGreen) {
     hue = 60 * (2 + (dBlue - dRed) / chroma)
   } else {
@@ -132,7 +81,7 @@ function rgbToHsv (red, green, blue) { // eslint-disable-line no-unused-vars
   return [hue, saturation, value]
 }
 
-function approximatelyEqualHsv (hsv1, hsv2) { // eslint-disable-line no-unused-vars
+export function approximatelyEqualHsv (hsv1, hsv2) {
   const bHue = Math.abs(hsv1[0] - hsv2[0]) < 0.2
   const bSaturation = Math.abs(hsv1[1] - hsv2[1]) < 0.002
   const bValue = Math.abs(hsv1[2] - hsv2[2]) < 0.002
@@ -140,8 +89,7 @@ function approximatelyEqualHsv (hsv1, hsv2) { // eslint-disable-line no-unused-v
   return bHue && bSaturation && bValue
 }
 
-function getRgbBySection (
-  hueSection, chroma, matchValue, secondLargestComponent) {
+function getRgbBySection (hueSection, chroma, matchValue, secondLargestComponent) {
   function convertToInt (input) {
     return Math.round(255 * input)
   }

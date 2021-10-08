@@ -15,7 +15,7 @@ function makeTable (str) {
     // case 1. the current character doesn't match the last character of the longest prefix
     while (maxPrefix > 0 && str.charAt(i) !== str.charAt(maxPrefix)) {
       // if that is the case, we have to backtrack, and try find a character  that will be equal to the current character
-      // if we reach 0, then we couldn't find a chracter
+      // if we reach 0, then we couldn't find a character
       maxPrefix = table[maxPrefix - 1]
     }
     // case 2. The last character of the longest prefix matches the current character in `str`

@@ -8,19 +8,9 @@
  * else if the length of the array is odd number, the median value will be the middle number in the array
  */
 
-/*
-  * Doctests
-  *
-  * > averageMedian([8, 9, 1, 2, 5, 10, 11])
-  * 8
-  * > averageMedian([15, 18, 3, 9, 13, 5])
-  * 11
-  * > averageMedian([1,2,3,4,6,8])
-  * 3.5
-  */
-
 const averageMedian = (numbers) => {
-  let median = 0; const numLength = numbers.length
+  let median = 0
+  const numLength = numbers.length
   numbers = numbers.sort(sortNumbers)
 
   if (numLength % 2 === 0) {

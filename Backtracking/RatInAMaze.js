@@ -1,67 +1,126 @@
 /*
  * Problem Statement:
- * - Given a NxN grid, find whether rat in cell (0,0) can reach target(N-1,N-1);
- * - In grid "0" represent blocked cell and "1" represent empty cell
+ * - Given a NxN grid, find whether rat in cell [0, 0] can reach the target in cell [N-1, N-1]
+ * - The grid is represented as an array of rows. Each row is represented as an array of 0 or 1 values.
+ * - A cell with value 0 can not be moved through. Value 1 means the rat can move here.
+ * - The rat can not move diagonally.
  *
- * Reference for this problem:
- * - https://www.geeksforgeeks.org/rat-in-a-maze-backtracking-2/
+ * Reference for this problem: https://www.geeksforgeeks.org/rat-in-a-maze-backtracking-2/
  *
+ * Based on the original implementation contributed by Chiranjeev Thapliyal (https://github.com/chiranjeev-thapliyal).
  */
 
-// Helper function to find if current cell is out of boundary
-const outOfBoundary = (grid, currentRow, currentColumn) => {
-  if (currentRow < 0 || currentColumn < 0 || currentRow >= grid.length || currentColumn >= grid[0].length) {
-    return true
-  } else {
-    return false
-  }
+/**
+ * Checks if the given grid is valid.
+ *
+ * A grid needs to satisfy these conditions:
+ * - must not be empty
+ * - must be a square
+ * - must not contain values other than {@code 0} and {@code 1}
+ *
+ * @param grid The grid to check.
+ * @throws TypeError When the given grid is invalid.
+ */
+function validateGrid (grid) {
+  if (!Array.isArray(grid) || grid.length === 0) throw new TypeError('Grid must be a non-empty array')
+
+  const allRowsHaveCorrectLength = grid.every(row => row.length === grid.length)
+  if (!allRowsHaveCorrectLength) throw new TypeError('Grid must be a square')
+
+  const allCellsHaveValidValues = grid.every(row => {
+    return row.every(cell => cell === 0 || cell === 1)
+  })
+  if (!allCellsHaveValidValues) throw new TypeError('Grid must only contain 0s and 1s')
 }
 
-const printPath = (grid, currentRow, currentColumn, path) => {
-  // If cell is out of boundary, we can't proceed
-  if (outOfBoundary(grid, currentRow, currentColumn)) return false
+function isSafe (grid, x, y) {
+  const n = grid.length
+  return x >= 0 && x < n && y >= 0 && y < n && grid[y][x] === 1
+}
 
-  // If cell is blocked then you can't go ahead
-  if (grid[currentRow][currentColumn] === 0) return false
+/**
+ * Attempts to calculate the remaining path to the target.
+ *
+ * @param grid The full grid.
+ * @param x The current X coordinate.
+ * @param y The current Y coordinate.
+ * @param solution The current solution matrix.
+ * @param path The path we took to get from the source cell to the current location.
+ * @returns {string|boolean} Either the path to the target cell or false.
+ */
+function getPathPart (grid, x, y, solution, path) {
+  const n = grid.length
 
-  // If we reached target cell, then print path
-  if (currentRow === targetRow && currentColumn === targetColumn) {
-    console.log(path)
-    return true
+  // are we there yet?
+  if (x === n - 1 && y === n - 1 && grid[y][x] === 1) {
+    solution[y][x] = 1
+    return path
   }
 
-  // R,L,D,U are directions `Right, Left, Down, Up`
-  const directions = [
-    [1, 0, 'D'],
-    [-1, 0, 'U'],
-    [0, 1, 'R'],
-    [0, -1, 'L']
-  ]
+  // did we step on a 0 cell or outside the grid?
+  if (!isSafe(grid, x, y)) return false
 
-  for (let i = 0; i < directions.length; i++) {
-    const nextRow = currentRow + directions[i][0]
-    const nextColumn = currentColumn + directions[i][1]
-    const updatedPath = path + directions[i][2]
+  // are we walking onto an already-marked solution coordinate?
+  if (solution[y][x] === 1) return false
 
-    grid[currentRow][currentColumn] = 0
-    if (printPath(grid, nextRow, nextColumn, updatedPath)) return true
-    grid[currentRow][currentColumn] = 1
-  }
+  // none of the above? let's dig deeper!
+
+  // mark the current coordinates on the solution matrix
+  solution[y][x] = 1
+
+  // attempt to move right
+  const right = getPathPart(grid, x + 1, y, solution, path + 'R')
+  if (right) return right
+
+  // right didn't work: attempt to move down
+  const down = getPathPart(grid, x, y + 1, solution, path + 'D')
+  if (down) return down
+
+  // down didn't work: attempt to move up
+  const up = getPathPart(grid, x, y - 1, solution, path + 'U')
+  if (up) return up
+
+  // up didn't work: attempt to move left
+  const left = getPathPart(grid, x - 1, y, solution, path + 'L')
+  if (left) return left
+
+  // no direction was successful: remove this cell from the solution matrix and backtrack
+  solution[y][x] = 0
   return false
 }
 
-// Driver Code
+function getPath (grid) {
+  // grid dimensions
+  const n = grid.length
 
-const grid = [
-  [1, 1, 1, 1],
-  [1, 0, 0, 1],
-  [0, 0, 1, 1],
-  [1, 1, 0, 1]
-]
+  // prepare solution matrix
+  const solution = []
+  for (let i = 0; i < n; i++) {
+    const row = Array(n)
+    row.fill(0)
+    solution[i] = row
+  }
 
-const targetRow = grid.length - 1
-const targetColumn = grid[0].length - 1
+  return getPathPart(grid, 0, 0, solution, '')
+}
 
-// Variation 2 : print a possible path to reach from (0, 0) to (N-1, N-1)
-// If there is no path possible then it will print "Not Possible"
-!printPath(grid, 0, 0, '') && console.log('Not Possible')
+/**
+ * Creates an instance of the "rat in a maze" based on a given grid (maze).
+ */
+export class RatInAMaze {
+  constructor (grid) {
+    // first, let's do some error checking on the input
+    validateGrid(grid)
+
+    // attempt to solve the maze now - all public methods only query the result state later
+    const solution = getPath(grid)
+
+    if (solution !== false) {
+      this.path = solution
+      this.solved = true
+    } else {
+      this.path = ''
+      this.solved = false
+    }
+  }
+}

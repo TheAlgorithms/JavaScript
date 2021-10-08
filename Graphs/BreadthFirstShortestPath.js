@@ -1,25 +1,13 @@
-/*
-Breadth-first approach can be applied to determine the shortest path between two nodes
-in an equi-weighted graph. It searches the target node among all neighbors of the
-starting node, then the process is repeated on the level of the neighbors of the
-neighbors and so on.
-(See also: https://en.wikipedia.org/wiki/Breadth-first_search )
-(see also: https://www.koderdojo.com/blog/breadth-first-search-and-shortest-path-in-csharp-and-net-core )
-*/
-
-/*
-Doctests
-> breadthFirstShortestPath(graph, 'C', 'E')
-[ 'C', 'D', 'A', 'B', 'E' ]
-> breadthFirstShortestPath(graph, 'E', 'B')
-[ 'E', 'D', 'A', 'B' ]
-> breadthFirstShortestPath(graph, 'F', 'G')
-[ 'F', 'G' ]
-> breadthFirstShortestPath(graph, 'A', 'G')
-[]
-*/
-
-function breadthFirstShortestPath (graph, startNode, targetNode) {
+/**
+ * Breadth-first approach can be applied to determine the shortest path between two nodes in an equi-weighted graph.
+ *
+ * It searches the target node among all neighbors of the starting node, then the process is repeated on the level of
+ * the neighbors of the neighbors and so on.
+ *
+ * @see https://en.wikipedia.org/wiki/Breadth-first_search
+ * @see https://www.koderdojo.com/blog/breadth-first-search-and-shortest-path-in-csharp-and-net-core
+ */
+export function breadthFirstShortestPath (graph, startNode, targetNode) {
   // check if startNode & targetNode are identical
   if (startNode === targetNode) {
     return [startNode]
@@ -62,27 +50,3 @@ function breadthFirstShortestPath (graph, startNode, targetNode) {
   // the target node was not reachable
   return []
 }
-
-const graph = {
-  A: ['B', 'D'],
-  B: ['E'],
-  C: ['D'],
-  D: ['A'],
-  E: ['D'],
-  F: ['G'],
-  G: []
-}
-/*
-      A <-> B
-      ʌ     |
-      |     |
-      v     v
-C --> D <-- E
-
-F --> G
-*/
-
-console.log(breadthFirstShortestPath(graph, 'C', 'E'))
-console.log(breadthFirstShortestPath(graph, 'E', 'B'))
-console.log(breadthFirstShortestPath(graph, 'F', 'G'))
-console.log(breadthFirstShortestPath(graph, 'A', 'G'))

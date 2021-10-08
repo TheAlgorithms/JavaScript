@@ -19,6 +19,4 @@ function decimalToHex (num) {
   return intToHex(num) + hexOut.join('')
 }
 
-// test cases
-console.log(decimalToHex(999098) === 'F3EBA')
-console.log(decimalToHex(123) === '7B')
+export { decimalToHex }
