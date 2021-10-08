@@ -44,10 +44,10 @@ Algorithms should be packaged in a way that would make it easy for readers to pu
 
 Algorithms should:
 
-* have intuitive class and function names that make their purpose clear to readers
-* use JavaScript naming conventions and intuitive variable names to ease comprehension
-* be flexible to take different input values
-* raise JavaScript exceptions (RangeError, etc.) on erroneous input values
+* have intuitive class and function names that make their purpose clear to readers.
+* use JavaScript naming conventions and intuitive variable names to ease comprehension.
+* be flexible to take different input values.
+* raise JavaScript exceptions (RangeError, etc.) on erroneous input values.
 
 Algorithms in this repo should not be how-to examples for existing JavaScript packages. Instead, they should perform
 internal calculations or manipulations to convert input values into different output values. Those calculations or
@@ -79,20 +79,20 @@ Please refrain from using `console` in your implementation AND test code.
 You can (and should!) run all tests locally before committing your changes:
 
 ```shell
-npm test
+$ npm test
 ```
 
 If you want save some time and just run a specific test:
 
 ```shell
 # this will run any test file where the filename matches "koch"
-npm test -- koch
+$ npm test -- koch
 ```
 
 You can also start Jest in "watch" mode:
 
 ```shell
-npm test -- --watchAll
+$ npm test -- --watchAll
 ```
 
 This will run all tests and watch source and test files for changes. When a change is made, the tests will run again.
@@ -105,7 +105,7 @@ To maximize the readability and correctness of our code, we require that new sub
 Before committing, please run
 
 ```shell
-npm run style
+$ npm run style
 ```
 
 in order to apply the coding style (where it can be done automatically). If an error is shown, please figure out what's
@@ -113,9 +113,9 @@ wrong, fix it and run standard again.
 
 A few (but not all) of the things to keep in mind:
 
-* Use camelCase with the leading character as lowercase for identifier names (variables and functions)
-* Names start with a letter
-* Follow code indentation: Always use 2 spaces for indentation of code blocks
+* Use camelCase with the leading character as lowercase for identifier names (variables and functions).
+* Names start with a letter.
+* Follow code indentation: Always use 2 spaces for indentation of code blocks:
 ```js
 function sumOfArray (arrayOfNumbers) {
   let sum = 0
@@ -125,12 +125,13 @@ function sumOfArray (arrayOfNumbers) {
   return (sum)
 }
 ```
-* Avoid using global variables and avoid `==`
-* Please use `let` over `var`
-* Please refrain from using `console.log` or any other console methods
-* **Absolutely** don't use `alert`
-* We strongly recommend the use of ECMAScript 6
-* Do not use external libraries
+* Avoid using global variables and avoid `==`.
+* Please use `let` over `var`.
+* Please refrain from using `console.log()` or any other console methods.
+* **Absolutely** don't use `alert`.
+* We strongly recommend the use of ECMAScript 6.
+* Do not use external libraries.
 * Most importantly:
-    * **Be consistent in the use of these guidelines when submitting**
-    * Happy coding!
+    * **Be consistent in the use of these guidelines when submitting**.
+
+### Happy coding!
