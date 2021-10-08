@@ -1,7 +1,12 @@
 import {IsPowerOfTwo} from '../IsPowerOfTwo'
 
 test('Check if 0 is a power of 2 or not:', () => {
-  const res = IsPowerOfTwo(1, 0)
+  const res = IsPowerOfTwo(0)
+  expect(res).toBe(false)
+})
+
+test('Check if 0 is a power of 2 or not:', () => {
+  const res = IsPowerOfTwo(1)
   expect(res).toBe(false)
 })
 
