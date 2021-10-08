@@ -1071,3 +1071,5 @@
 - [@ayushwadhwaa](https://github.com/ayushwadhwaa)
 
 - [@viktorlinus](https://github.com/viktorlinus)
+
+- [@thalha-dev](https://github.com/thalha-dev/)
