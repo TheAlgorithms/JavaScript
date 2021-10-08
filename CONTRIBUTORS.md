@@ -1069,3 +1069,5 @@
 - [@limatfc](https://github.com/limatfc)
 
 - [@ayushwadhwaa](https://github.com/ayushwadhwaa)
+
+- [@viktorlinus](https://github.com/viktorlinus)
