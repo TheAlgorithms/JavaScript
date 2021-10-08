@@ -14,7 +14,7 @@
 
 /*
   Input: Pass the head (first node) of linked list
-*/ 
+*/
 const detectCycleNode = (head) => {
   if (!head || !head.next) {
     return null
