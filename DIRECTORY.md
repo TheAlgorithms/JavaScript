@@ -209,6 +209,15 @@
   * [Problem8](https://github.com/TheAlgorithms/Javascript/blob/master/Project-Euler/Problem8.js)
   * [Problem9](https://github.com/TheAlgorithms/Javascript/blob/master/Project-Euler/Problem9.js)
 
+## patterns
+  * [Diamond](https://github.com/TheAlgorithms/Javascript/blob/master/patterns/star-pattern/diamond.js)
+  * [Hourglass](https://github.com/TheAlgorithms/Javascript/blob/master/patterns/star-pattern/hourglass.js)
+  * [Left Angle Triangle](https://github.com/TheAlgorithms/Javascript/blob/master/patterns/star-pattern/leftTriangle.js)
+  * [Right Angle Triangle](https://github.com/TheAlgorithms/Javascript/blob/master/patterns/star-pattern/rightTriangle.js)
+  * [Pyramid](https://github.com/TheAlgorithms/Javascript/blob/master/patterns/star-pattern/pyramid.js)
+  * [Reversed Pyramid](https://github.com/TheAlgorithms/Javascript/blob/master/patterns/star-pattern/reversedPyramid.js)
+  * [Square](https://github.com/TheAlgorithms/Javascript/blob/master/patterns/star-pattern/square.js)
+  
 ## Recursive
   * [BinaryEquivalent](https://github.com/TheAlgorithms/Javascript/blob/master/Recursive/BinaryEquivalent.js)
   * [BinarySearch](https://github.com/TheAlgorithms/Javascript/blob/master/Recursive/BinarySearch.js)
