@@ -1,4 +1,4 @@
-const powerDigitSum = require('../Problem016')
+import { powerDigitSum } from '../Problem016'
 
 describe('Check Problem 16 - Power digit sum', () => {
   it('Power digit sum of 2^15', () => {

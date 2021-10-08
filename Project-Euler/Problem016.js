@@ -40,6 +40,4 @@ const powerDigitSum = function (n = 2, pow = 1000) {
   return digits.reduce((prev, current) => prev + current, 0)
 }
 
-console.log('Power digit sum of 2^1000 :', powerDigitSum())
-
-module.exports = powerDigitSum
+export { powerDigitSum }
