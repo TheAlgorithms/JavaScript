@@ -1061,3 +1061,5 @@
 - [@jideabdqudus](https://github.com/jideabdqudus)
 
 - [@tregalloway](https://github.com/TreGalloway)
+
+- [@patriziomadferitmilione](https://github.com/patriziomadferitmilione)
