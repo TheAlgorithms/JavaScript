@@ -42,6 +42,11 @@ An Algorithm is one or more functions (or classes) that:
 
 Algorithms should be packaged in a way that would make it easy for readers to put them into larger programs.
 
+Algorithms can import other algorithms present in the repository, following these guidelines:
+
+* Imports should use ESM syntax (`import funcs from 'path'`).
+* Comments should clearly mention what is being imported, and how it is used.
+
 Algorithms should:
 
 * have intuitive class and function names that make their purpose clear to readers.
