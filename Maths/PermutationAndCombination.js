@@ -47,21 +47,4 @@ const combination = (n, r) => {
 }
 
 // Exports the functions to be used in other files.
-module.exports.factorial = factorial
-module.exports.permutation = permutation
-module.exports.combination = combination
-
-/**
- * @example
-
-   const funcs = require("./PermutationAndCombination.js");
-
-   console.log(funcs.factorial(5));
-   console.log(funcs.permutation(5, 2));
-   console.log(funcs.combination(5, 2));
-
- * @output
-   120
-   20
-   10
- */
+export { factorial, permutation, combination }
