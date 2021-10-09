@@ -37,4 +37,4 @@ const CoPrimeCheck = (firstNumber, secondNumber) => {
   return GetEuclidGCD(firstNumber, secondNumber) === 1
 }
 
-module.exports = CoPrimeCheck
+export { CoPrimeCheck }
