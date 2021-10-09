@@ -14,7 +14,7 @@
     And we know that 1's complement is just opp. of that number.
     So, (n & (n-1)) will be 0.
 
-    For eg:    (1000 & (1000-1)) 
+    For eg:    (1000 & (1000-1))
                 1 0 0 0     // Original Number (8)
                 0 1 1 1     // After Subtracting 1 (8-1 = 7)
                 _______
@@ -23,6 +23,8 @@
 */
 
 export const IsPowerOfTwo = (n) => {
-  if (n != 0 && (n & (n - 1)) == 0) return true
-  else return false
+  if (n > 0 && (n & (n - 1)) === 0) {
+    return true
+  }
+  return false
 }
