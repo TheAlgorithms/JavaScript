@@ -5,9 +5,9 @@ test('Check if 0 is a power of 2 or not:', () => {
   expect(res).toBe(false)
 })
 
-test('Check if 0 is a power of 2 or not:', () => {
+test('Check if 1 is a power of 2 or not:', () => {
   const res = IsPowerOfTwo(1)
-  expect(res).toBe(false)
+  expect(res).toBe(true)
 })
 
 test('Check if 4 is a power of 2 or not:', () => {
