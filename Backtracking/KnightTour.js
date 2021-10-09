@@ -64,15 +64,4 @@ class OpenKnightTour {
   }
 }
 
-function main () {
-  const board = new OpenKnightTour(5)
-
-  board.printBoard()
-  console.log('\n')
-
-  board.solve()
-
-  board.printBoard()
-}
-
-main()
+export { OpenKnightTour }
