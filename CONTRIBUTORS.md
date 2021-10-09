@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@nataliarossini](https://github.com/nataliarossini)
+
 - [@niveshbirangal](https://github.com/niveshbirangal)
 
 - [@0000x582d6976](https://github.com/0000x582d6976)
