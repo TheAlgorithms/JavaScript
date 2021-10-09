@@ -22,6 +22,11 @@ function hexToDecimal (hexNum) {
   }, 0)
 }
 
-// test cases
-console.log(hexToDecimal('5DE9A')) // 384666
-console.log(hexToDecimal('3D')) // 61
+export { hexToInt, hexToDecimal }
+
+
+// > hexToDecimal('5DE9A'))
+// 384666
+
+// > hexToDecimal('3D'))
+// 61

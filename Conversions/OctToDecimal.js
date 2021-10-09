@@ -10,6 +10,10 @@ function octalToDecimal (num) {
   return dec
 }
 
-// test cases
-console.log(octalToDecimal(56) === 46)
-console.log(octalToDecimal(2365) === 1269)
+export { octalToDecimal }
+
+// > octalToDecimal(56)
+// 46
+
+// > octalToDecimal(2365)
+// 1269

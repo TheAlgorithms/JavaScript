@@ -11,4 +11,8 @@ function hexStringToRGB (hexString) {
   return obj
 }
 
-console.log(hexStringToRGB('ffffff'))
+export { hexStringToRGB }
+
+
+// > hexStringToRGB('ffffff')
+// { r: 255, g: 255, b: 255 }

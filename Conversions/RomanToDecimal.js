@@ -33,6 +33,4 @@ function romanToDecimal (romanNumber) {
   return sum
 }
 
-console.log(romanToDecimal('XXIIVV'))
-console.log(romanToDecimal('MDCCCIV'))
-console.log(romanToDecimal('XXIVI'))
+export { romanToDecimal }

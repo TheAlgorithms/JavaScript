@@ -8,7 +8,10 @@ const binaryToDecimal = (binaryString) => {
   return decimalNumber
 }
 
-(() => {
-  binaryToDecimal('111001')
-  binaryToDecimal('101')
-})()
+export { binaryToDecimal }
+
+// > binaryToDecimal('111001')
+// 57
+
+// > binaryToDecimal('101')
+// 5
