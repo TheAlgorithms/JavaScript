@@ -193,6 +193,7 @@
   * [Haversine](https://github.com/TheAlgorithms/Javascript/blob/master/Navigation/Haversine.js)
 
 ## Project-Euler
+  * [Problem012](https://github.com/TheAlgorithms/Javascript/blob/master/Project-Euler/Problem012.js)
   * [Problem013](https://github.com/TheAlgorithms/Javascript/blob/master/Project-Euler/Problem013.js)
   * [Problem014](https://github.com/TheAlgorithms/Javascript/blob/master/Project-Euler/Problem014.js)
   * [Problem015](https://github.com/TheAlgorithms/Javascript/blob/master/Project-Euler/Problem015.js)
