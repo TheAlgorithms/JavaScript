@@ -36,7 +36,6 @@ class NQueen {
 
   solve (col = 0) {
     if (col >= this.size) {
-      this.printBoard()
       this.solutionCount++
       return true
     }

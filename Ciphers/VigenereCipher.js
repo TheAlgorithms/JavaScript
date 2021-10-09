@@ -71,8 +71,11 @@ function decrypt (message, key) {
   return result
 }
 
-const messageEncrypt = encrypt('Hello World!', 'code')
-console.log(messageEncrypt) // "Jhpnr Yrvng!"
+export { encrypt, decrypt }
 
-const messageDecrypt = decrypt('Jsopq Zstzg!', 'code')
-console.log(messageDecrypt) // "Hello World!"
+
+// > encrypt('Hello World!', 'code')
+// 'Jsopq Zstzg!'
+
+// > decrypt('Jsopq Zstzg!', 'code')
+// 'Hello World!'
