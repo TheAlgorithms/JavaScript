@@ -1,5 +1,9 @@
 # CONTRIBUTORS
 
+- [@kylengn](https://github.com/kylengn)
+
+- [@nataliarossini](https://github.com/nataliarossini)
+
 - [@niveshbirangal](https://github.com/niveshbirangal)
 
 - [@0000x582d6976](https://github.com/0000x582d6976)
@@ -1051,10 +1055,50 @@
 - [@karthiknatarajan-27558](https://github.com/karthiknatarajan-27558)
 
 - [@hamzahouri](https://github.com/hamzahouri)
-  
 - [@diogoson11](https://github.com/diogoson11)
 
 - [@cebener-maake](https://github.com/cebener-maake)
 
-
 - [@belalbilaldev](https://github.com/belalbilaldev)
+
+- [@cydvilla](https://github.com/CydVilla)
+
+- [@jideabdqudus](https://github.com/jideabdqudus)
+
+- [@tregalloway](https://github.com/TreGalloway)
+
+- [@patriziomadferitmilione](https://github.com/patriziomadferitmilione)
+
+- [@hrushikute](https://github.com/hrushikute)
+
+- [@limatfc](https://github.com/limatfc)
+
+- [@ayushwadhwaa](https://github.com/ayushwadhwaa)
+
+- [@viktorlinus](https://github.com/viktorlinus)
+
+- [@epaula7149](https://github.com/epaula7149)
+
+- [@thalha-dev](https://github.com/thalha-dev/)
+
+- [@DigantaSom](https://github.com/DigantaSom/)
+
+- [@Danny4life](https://github.com/Danny4life/)
+
+- [@bguz](https://github.com/bguz/)
+
+- [@mohsenpasdar](https://github.com/mohsenpasdar/)
+
+- [@Binbaker](https://github.com/Binbaker/)
+
+- [@HiTekRedneck](https://github.com/hitekredneck/)
+
+- [@PranavBhalerao-10](https://github.com/PranavBhalerao-10/)
+
+- [@SimonCherno](https://github.com/SimonCherno/)
+
+- [@genjionn](https://github.com/genjionn/)
+
+- [@sarbajeetmadnal4](https://github.com/sarbajeetmadnal4/)
+
+- [@jongwon254] (https://github.com/jongwon254/)
