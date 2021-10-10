@@ -51,12 +51,15 @@ const getNumOfDivisors = (num) => {
  * Loops till first triangular number with 500 divisors is found
  */
 const firstTriangularWith500Divisors = () => {
-  // loop forever till numberOfDivisors is greater than 500
-  for (let n = 1; n < Infinity; n++) {
+  let numOfDivisors = 0
+  let triangularNum
+  // loop forever until numOfDivisors becomes greater than or equal to 500
+  for (let n = 1; numOfDivisors < 500; n++) {
     // nth triangular number is (1/2)*n*(n+1) by Arithmetic Progression
-    const triangularNum = (1 / 2) * n * (n + 1)
-    if (getNumOfDivisors(triangularNum) >= 500) return triangularNum
+    triangularNum = (1 / 2) * n * (n + 1)
+    numOfDivisors = getNumOfDivisors(triangularNum)
   }
+  return triangularNum
 }
 
 console.log(firstTriangularWith500Divisors())
