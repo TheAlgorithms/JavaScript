@@ -1059,6 +1059,8 @@
 
 - [@cebener-maake](https://github.com/cebener-maake)
 
+- [@belalbilaldev](https://github.com/belalbilaldev)
+
 - [@cydvilla](https://github.com/CydVilla)
 
 - [@jideabdqudus](https://github.com/jideabdqudus)
