@@ -1086,3 +1086,5 @@
 - [@mohsenpasdar](https://github.com/mohsenpasdar/)
 
 - [@Binbaker](https://github.com/Binbaker/)
+
+- [@HiTekRedneck](https://github.com/hitekredneck/)
