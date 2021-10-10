@@ -4,10 +4,6 @@
  * else false
  */
 
-const isOdd = (value) => {
+export const isOdd = (value) => {
   return !!((value & 1))
 }
-
-// testing
-console.log(isOdd(2))
-console.log(isOdd(3))
