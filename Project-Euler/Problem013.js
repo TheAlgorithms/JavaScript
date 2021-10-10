@@ -107,13 +107,11 @@ const numbers = [
   53503534226472524250874054075591789781264330331690
 ]
 
-const findFirstTenDigitsOfSum = () => {
-  const sum = numbers.reduce((prev, current) => {
+export const findFirstTenDigitsOfSum = (N = numbers) => {
+  const sum = N.reduce((prev, current) => {
     current += prev
     return current
   }, 0)
 
   return sum.toLocaleString('fullwide', { useGrouping: false }).split('').slice(0, 10).join('')
 }
-
-console.log(findFirstTenDigitsOfSum())
