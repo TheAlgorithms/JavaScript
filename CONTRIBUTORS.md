@@ -1067,6 +1067,8 @@
 
 - [@tregalloway](https://github.com/TreGalloway)
 
+-[AdeeS121](https://github.com/AdeeS121)
+
 - [@patriziomadferitmilione](https://github.com/patriziomadferitmilione)
 
 - [@hrushikute](https://github.com/hrushikute)
@@ -1101,4 +1103,4 @@
 
 - [@sarbajeetmadnal4](https://github.com/sarbajeetmadnal4/)
 
-- [@jongwon254] (https://github.com/jongwon254/)
+- [@jongwon254](https://github.com/jongwon254/)
