@@ -45,28 +45,14 @@ const Stack = (function () {
   }
 
   // To see all the elements in the stack
-  Stack.prototype.view = function () {
-    for (let i = 0; i < this.top; i++) { console.log(this.stack[i]) }
+  Stack.prototype.view = function (output = value => console.log(value)) {
+    for (let i = 0; i < this.top; i++) {
+      output(this.stack[i])
+    }
   }
 
   return Stack
 }())
 
-// Implementation
-const myStack = new Stack()
 
-myStack.push(1)
-myStack.push(5)
-myStack.push(76)
-myStack.push(69)
-myStack.push(32)
-myStack.push(54)
-console.log(myStack.size())
-console.log(myStack.peek())
-console.log(myStack.pop())
-console.log(myStack.peek())
-console.log(myStack.pop())
-console.log(myStack.peek())
-myStack.push(55)
-console.log(myStack.peek())
-myStack.view()
+export { Stack }

@@ -118,20 +118,4 @@ Trie.prototype.findOccurences = function (word) {
   return node.count
 };
 
-// To test
-(function demo () {
-  const x = new Trie()
-  x.insert('sheldon')
-  x.insert('hello')
-  x.insert('anyword')
-  x.insert('sheldoncooper')
-  console.log(x.findOccurences('sheldon'))
-  x.remove('anything')
-  x.insert('sheldon')
-  console.log(x.findOccurences('sheldon'))
-  console.log(x.findAllWords('sheldon'))
-  x.insert('anything')
-  x.remove('sheldoncooper')
-  console.log(x.contains('sheldoncooper'))
-  console.log(x.findAllWords('sheldon'))
-})()
+export { Trie }
