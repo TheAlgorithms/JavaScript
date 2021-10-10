@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@kylengn](https://github.com/kylengn)
+
 - [@nataliarossini](https://github.com/nataliarossini)
 
 - [@niveshbirangal](https://github.com/niveshbirangal)
@@ -1092,3 +1094,9 @@
 - [@PranavBhalerao-10](https://github.com/PranavBhalerao-10/)
 
 - [@SimonCherno](https://github.com/SimonCherno/)
+
+- [@genjionn](https://github.com/genjionn/)
+
+- [@sarbajeetmadnal4](https://github.com/sarbajeetmadnal4/)
+
+- [@jongwon254] (https://github.com/jongwon254/)
