@@ -9,7 +9,7 @@
  *
  */
 
-function interpolationSearch (arr, key) {
+export function interpolationSearch (arr, key) {
   const length = arr.length - 1
   let low = 0
   let high = length
@@ -38,9 +38,9 @@ function interpolationSearch (arr, key) {
   return -1
 }
 
-const arr = [2, 6, 8, 10, 12, 14, 16, 18, 20, 22, 26, 34, 39]
+// const arr = [2, 6, 8, 10, 12, 14, 16, 18, 20, 22, 26, 34, 39]
 
-console.log('Found at position :' + interpolationSearch(arr, 2))
-console.log('Found at position :' + interpolationSearch(arr, 12))
-console.log('Found at position :' + interpolationSearch(arr, 1000))
-console.log('Found at position :' + interpolationSearch(arr, 39))
+// interpolationSearch(arr, 2)
+// interpolationSearch(arr, 12)
+// interpolationSearch(arr, 1000)
+// interpolationSearch(arr, 39)

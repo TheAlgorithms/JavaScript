@@ -21,7 +21,9 @@ function Search (theArray, key) {
   return -1
 }
 
-const ar = [1, 2, 3, 4, 5, 6, 7, 8, 9]
-SearchArray(3, ar)
-SearchArray(4, ar)
-SearchArray(11, ar)
+export { SearchArray, Search }
+
+// const ar = [1, 2, 3, 4, 5, 6, 7, 8, 9]
+// SearchArray(3, ar)
+// SearchArray(4, ar)
+// SearchArray(11, ar)

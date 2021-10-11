@@ -3,7 +3,7 @@
  * more information: https://en.wikipedia.org/wiki/Shellsort
  *
  */
-function shellSort (items) {
+export function shellSort (items) {
   let interval = 1
 
   while (interval < items.length / 3) {
@@ -25,12 +25,3 @@ function shellSort (items) {
   }
   return items
 }
-
-// Implementation of shellSort
-
-const ar = [5, 6, 7, 8, 1, 2, 12, 14]
-// Array before Sort
-console.log(ar)
-shellSort(ar)
-// Array after sort
-console.log(ar)
