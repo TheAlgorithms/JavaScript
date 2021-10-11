@@ -1,7 +1,6 @@
 // https://projecteuler.net/problem=3
-const problem = 600851475143
 
-const largestPrime = (num) => {
+export const largestPrime = (num = 600851475143) => {
   let newnumm = num
   let largestFact = 0
   let counter = 2
@@ -17,4 +16,3 @@ const largestPrime = (num) => {
   }
   return largestFact
 }
-console.log(largestPrime(problem))

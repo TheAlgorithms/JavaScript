@@ -4,12 +4,13 @@
  * for the target value until a match is found or until all the elements
  * have been searched.
  */
-function SearchArray (searchNum, ar) {
+function SearchArray (searchNum, ar, output = v => console.log(v)) {
   const position = Search(ar, searchNum)
   if (position !== -1) {
-    console.log('The element was found at ' + (position + 1))
-  } else {
-    console.log('The element not found')
+    output('The element was found at ' + (position + 1))
+  }
+  else {
+    output('The element not found')
   }
 }
 
