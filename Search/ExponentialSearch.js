@@ -9,12 +9,12 @@
  *
  */
 
-function binarySearch (arr, x, floor, ceiling) {
+function binarySearch (arr, value, floor, ceiling) {
   // Middle index
   const mid = Math.floor((floor + ceiling) / 2)
 
   // If value is at the mid position return this position
-  if (arr[mid] === x) {
+  if (arr[mid] === value) {
     return mid
   }
 
