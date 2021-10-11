@@ -1,4 +1,4 @@
-import { romanToDecimal } from '../romanToDecimal'
+import { romanToDecimal } from '../RomanToDecimal'
 
 describe('romanToDecimal', () => {
   it('XXIIVV', () => {
