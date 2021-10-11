@@ -18,7 +18,7 @@ const swap = (arr, i, j) => {
 }
 
 const permutations = arr => {
-  let P = []
+  const P = []
   const permute = (arr, low, high) => {
     if (low === high) {
       P.push([...arr])

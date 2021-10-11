@@ -40,7 +40,7 @@ const example = () => {
   input.shift()
   const length = input.length
 
-  let output = []
+  const output = []
 
   let i = 0
   while (i < length) {

@@ -13,6 +13,5 @@ function hexStringToRGB (hexString) {
 
 export { hexStringToRGB }
 
-
 // > hexStringToRGB('ffffff')
 // { r: 255, g: 255, b: 255 }

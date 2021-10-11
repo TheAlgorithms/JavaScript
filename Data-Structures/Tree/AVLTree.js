@@ -229,7 +229,7 @@ const AVLTree = (function () {
     return true
   }
   return _avl
-}());
+}())
 
 /**
  * A Code for Testing the AVLTree

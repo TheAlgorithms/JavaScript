@@ -24,7 +24,6 @@ function hexToDecimal (hexNum) {
 
 export { hexToInt, hexToDecimal }
 
-
 // > hexToDecimal('5DE9A'))
 // 384666
 

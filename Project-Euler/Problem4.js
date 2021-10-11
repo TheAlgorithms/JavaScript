@@ -42,5 +42,3 @@ export const largestPalindromic = (digits) => {
   }
   return NaN // returning not a number, if any such case arise
 }
-
-

@@ -22,7 +22,6 @@ function XOR (str, key) {
 
 export { XOR }
 
-
 // Nb: Node REPL might not output the null char '\x00' (charcode 0)
 
 // > XOR('test string', 32)

@@ -8,8 +8,7 @@ function SearchArray (searchNum, ar, output = v => console.log(v)) {
   const position = Search(ar, searchNum)
   if (position !== -1) {
     output('The element was found at ' + (position + 1))
-  }
-  else {
+  } else {
     output('The element not found')
   }
 }

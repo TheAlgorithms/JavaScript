@@ -116,6 +116,6 @@ Trie.prototype.findOccurences = function (word) {
   // No such word exists
   if (node === null) return 0
   return node.count
-};
+}
 
 export { Trie }

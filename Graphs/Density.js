@@ -9,4 +9,3 @@ function density (numberOfNodes, numberOfEdges, isDirected = false) {
 }
 
 export { density }
-

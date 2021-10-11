@@ -4,7 +4,7 @@ describe('MinPriorityQueue', () => {
   const values = [5, 2, 4, 1, 7, 6, 3, 8]
   const capacity = values.length
 
-  const Queue = new MinPriorityQueue(capacity);
+  const Queue = new MinPriorityQueue(capacity)
 
   values.forEach(v => Queue.insert(v))
 
@@ -12,7 +12,7 @@ describe('MinPriorityQueue', () => {
     const mockFn = jest.fn()
     Queue.print(mockFn)
 
-    expect(mockFn.mock.calls.length).toBe(1)    // Expect one call
+    expect(mockFn.mock.calls.length).toBe(1) // Expect one call
     expect(mockFn.mock.calls[0].length).toBe(1) // Expect one argument
 
     const heap = mockFn.mock.calls[0][0]

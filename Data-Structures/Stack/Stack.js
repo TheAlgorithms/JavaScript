@@ -54,5 +54,4 @@ const Stack = (function () {
   return Stack
 }())
 
-
 export { Stack }

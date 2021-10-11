@@ -73,7 +73,6 @@ function decrypt (message, key) {
 
 export { encrypt, decrypt }
 
-
 // > encrypt('Hello World!', 'code')
 // 'Jsopq Zstzg!'
 

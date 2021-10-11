@@ -47,7 +47,7 @@ function exponentialSearch (arr, length, value) {
   return binarySearch(arr, value, i / 2, Math.min(i, length))
 }
 
-export { binarySearch, exponentialSearch}
+export { binarySearch, exponentialSearch }
 
 // const arr = [2, 3, 4, 10, 40, 65, 78, 100]
 // const value = 78
