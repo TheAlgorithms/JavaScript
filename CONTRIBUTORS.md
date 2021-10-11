@@ -1110,3 +1110,5 @@
 - [@bdcristuta](https://github.com/bdcristuta/)
 
 - [@Kevsely](https://github.com/Kevsely/)
+
+- [@jgonz19](https://github.com/jgonz19/)
