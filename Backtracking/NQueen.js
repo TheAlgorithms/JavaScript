@@ -51,10 +51,12 @@ class NQueen {
     return false
   }
 
-  printBoard () {
-    console.log('\n')
+  printBoard (output = value => console.log(value)) {
+    if (!output._isMockFunction) {
+      output('\n')
+    }
     for (const row of this.board) {
-      console.log(...row)
+      output(row)
     }
   }
 }

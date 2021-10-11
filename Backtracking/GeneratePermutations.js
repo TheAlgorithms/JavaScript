@@ -22,7 +22,6 @@ const permutations = arr => {
   const permute = (arr, low, high) => {
     if (low === high) {
       P.push([...arr])
-      // console.log(arr.join(' '))
       return P
     }
     for (let i = low; i <= high; i++) {

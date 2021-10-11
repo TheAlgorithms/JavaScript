@@ -52,14 +52,14 @@ class OpenKnightTour {
     return false
   }
 
-  printBoard () {
+  printBoard (output = value => console.log(value)) {
     // utility function to display the board
     for (const row of this.board) {
       let string = ''
       for (const elem of row) {
         string += elem + '\t'
       }
-      console.log(string)
+      output(string)
     }
   }
 }

@@ -4,7 +4,7 @@ The script uses `Math.random` in combination with the timestamp for better rando
 The function generate an RFC4122 (https://www.ietf.org/rfc/rfc4122.txt) version 4 UUID/GUID
 */
 
-const Guid = () => {
+export const Guid = () => {
   const pattern = 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'
   let currentDateMilliseconds = new Date().getTime()
   return pattern.replace(/[xy]/g, currentChar => {
@@ -14,4 +14,5 @@ const Guid = () => {
   })
 }
 
-console.log(Guid()) // 'edc848db-3478-1760-8b55-7986003d895f'
+// > Guid()
+// 'edc848db-3478-1760-8b55-7986003d895f'
