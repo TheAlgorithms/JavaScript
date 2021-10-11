@@ -1,0 +1,27 @@
+/* 
+  * You are given a rod of 'n' length and an array of prices associated with all the lengths less than 'n'.
+  * Find the maximum profit possible by cutting the rod and selling the pieces.
+*/
+
+ function rodCut(prices, n){
+        let memo = new Array(n + 1);
+        memo[0] = 0;
+   
+        for (let i = 1; i<=n; i++)
+        {
+            let max_val = Number.MIN_VALUE;
+            for (let j = 0; j < i; j++)
+                max_val = Math.max(max_val, prices[j] + memo[i - j - 1]);
+            memo[i] = max_val;
+        }
+   
+       return memo[n];
+ }
+     
+ function main(){
+    let arr = [1, 5, 4, 2, 1, 11, 19, 12];
+    let n = arr.length;
+    console.log('Maximum Possible Profit is : '+ rodCut(arr,n));
+ }
+ 
+ main();
