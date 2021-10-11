@@ -1,4 +1,4 @@
-import { calculateLargestProductInGrid } from '../Problem11'
+import { calculateLargestProductInGrid } from '../Problem011'
 
 describe('checkCalculateLargestProductInGrid', () => {
   it('Problem statement Example', () => {

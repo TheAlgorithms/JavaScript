@@ -1,4 +1,4 @@
-import { calculateSumOfPrimeNumbers } from '../Problem10'
+import { calculateSumOfPrimeNumbers } from '../Problem010'
 
 describe('checkAnagram', () => {
   it('Return the sum of prime numbers upto but less than 14', () => {

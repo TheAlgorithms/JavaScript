@@ -192,14 +192,7 @@
   * [Haversine](https://github.com/TheAlgorithms/Javascript/blob/master/Navigation/Haversine.js)
 
 ## Project-Euler
-  * [Problem013](https://github.com/TheAlgorithms/Javascript/blob/master/Project-Euler/Problem013.js)
-  * [Problem014](https://github.com/TheAlgorithms/Javascript/blob/master/Project-Euler/Problem014.js)
-  * [Problem015](https://github.com/TheAlgorithms/Javascript/blob/master/Project-Euler/Problem015.js)
-  * [Problem11](https://github.com/TheAlgorithms/Javascript/blob/master/Project-Euler/Problem11.js)
-  * [Problem016](https://github.com/TheAlgorithms/Javascript/blob/master/Project-Euler/Problem016.js)
-  * [Problem020](https://github.com/TheAlgorithms/Javascript/blob/master/Project-Euler/Problem020.js)
   * [Problem1](https://github.com/TheAlgorithms/Javascript/blob/master/Project-Euler/Problem1.js)
-  * [Problem10](https://github.com/TheAlgorithms/Javascript/blob/master/Project-Euler/Problem10.js)
   * [Problem2](https://github.com/TheAlgorithms/Javascript/blob/master/Project-Euler/Problem2.js)
   * [Problem3](https://github.com/TheAlgorithms/Javascript/blob/master/Project-Euler/Problem3.js)
   * [Problem4](https://github.com/TheAlgorithms/Javascript/blob/master/Project-Euler/Problem4.js)
@@ -208,6 +201,13 @@
   * [Problem7](https://github.com/TheAlgorithms/Javascript/blob/master/Project-Euler/Problem7.js)
   * [Problem8](https://github.com/TheAlgorithms/Javascript/blob/master/Project-Euler/Problem8.js)
   * [Problem9](https://github.com/TheAlgorithms/Javascript/blob/master/Project-Euler/Problem9.js)
+  * [Problem010](https://github.com/TheAlgorithms/Javascript/blob/master/Project-Euler/Problem010.js)
+  * [Problem011](https://github.com/TheAlgorithms/Javascript/blob/master/Project-Euler/Problem011.js)
+  * [Problem013](https://github.com/TheAlgorithms/Javascript/blob/master/Project-Euler/Problem013.js)
+  * [Problem014](https://github.com/TheAlgorithms/Javascript/blob/master/Project-Euler/Problem014.js)
+  * [Problem015](https://github.com/TheAlgorithms/Javascript/blob/master/Project-Euler/Problem015.js)
+  * [Problem016](https://github.com/TheAlgorithms/Javascript/blob/master/Project-Euler/Problem016.js)
+  * [Problem020](https://github.com/TheAlgorithms/Javascript/blob/master/Project-Euler/Problem020.js)
 
 ## Recursive
   * [BinaryEquivalent](https://github.com/TheAlgorithms/Javascript/blob/master/Recursive/BinaryEquivalent.js)
