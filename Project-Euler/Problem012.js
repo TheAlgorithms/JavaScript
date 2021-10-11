@@ -32,7 +32,8 @@ const getNumOfDivisors = (num) => {
 
   // if one divisor less than sqrt(num) exists
   // then another divisor greater than sqrt(n) exists and its value is num/i
-  for (let i = 0; i <= Math.sqrt(num); i++) {
+  const sqrtNum = Math.sqrt(num)
+  for (let i = 0; i <= sqrtNum; i++) {
     // check if i divides num
     if (num % i === 0) {
       if (num / i === i) {
@@ -51,17 +52,13 @@ const getNumOfDivisors = (num) => {
  * Loops till first triangular number with 500 divisors is found
  */
 const firstTriangularWith500Divisors = () => {
-  let numOfDivisors = 0
   let triangularNum
   // loop forever until numOfDivisors becomes greater than or equal to 500
-  for (let n = 1; numOfDivisors < 500; n++) {
+  for (let n = 1; ; n++) {
     // nth triangular number is (1/2)*n*(n+1) by Arithmetic Progression
     triangularNum = (1 / 2) * n * (n + 1)
-    numOfDivisors = getNumOfDivisors(triangularNum)
+    if (getNumOfDivisors(triangularNum) >= 500) return triangularNum
   }
-  return triangularNum
 }
-
-console.log(firstTriangularWith500Divisors())
 
 export { firstTriangularWith500Divisors }
