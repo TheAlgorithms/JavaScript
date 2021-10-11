@@ -1,6 +1,7 @@
 {
   "name": "javascript",
   "version": "1.0.0",
+  "type": "module",
   "description": "A repository for All algorithms implemented in Javascript (for educational purposes only)",
   "main": "",
   "scripts": {
