@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@kylengn](https://github.com/kylengn)
+
 - [@nataliarossini](https://github.com/nataliarossini)
 
 - [@niveshbirangal](https://github.com/niveshbirangal)
@@ -1057,11 +1059,15 @@
 
 - [@cebener-maake](https://github.com/cebener-maake)
 
+- [@belalbilaldev](https://github.com/belalbilaldev)
+
 - [@cydvilla](https://github.com/CydVilla)
 
 - [@jideabdqudus](https://github.com/jideabdqudus)
 
 - [@tregalloway](https://github.com/TreGalloway)
+
+-[AdeeS121](https://github.com/AdeeS121)
 
 - [@patriziomadferitmilione](https://github.com/patriziomadferitmilione)
 
@@ -1086,3 +1092,31 @@
 - [@mohsenpasdar](https://github.com/mohsenpasdar/)
 
 - [@codewithanish](https://github.com/codewithanish/)
+=======
+- [@Binbaker](https://github.com/Binbaker/)
+
+- [@HiTekRedneck](https://github.com/hitekredneck/)
+
+- [@PranavBhalerao-10](https://github.com/PranavBhalerao-10/)
+
+- [@SimonCherno](https://github.com/SimonCherno/)
+
+- [@genjionn](https://github.com/genjionn/)
+
+- [@sarbajeetmadnal4](https://github.com/sarbajeetmadnal4/)
+
+- [@jongwon254] (https://github.com/jongwon254/)
+
+- [@lurdslurv](https://github.com/lurdslurv/)
+
+- [@bdcristuta](https://github.com/bdcristuta/)
+
+- [@Kevsely](https://github.com/Kevsely/)
+
+- [@jgonz19](https://github.com/jgonz19/)
+
+- [@art4ho](https://github.com/art4ho)
+
+- [@DoragonArashi](https://github.com/DoragonArashi/)
+
+-[@Just4CodingNow](https://github.com/Just4CodingNow)
