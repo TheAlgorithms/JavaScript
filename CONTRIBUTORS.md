@@ -1091,8 +1091,7 @@
 
 - [@mohsenpasdar](https://github.com/mohsenpasdar/)
 
-- [@codewithanish](https://github.com/codewithanish/)
-=======
+- # [@codewithanish](https://github.com/codewithanish/)
 - [@Binbaker](https://github.com/Binbaker/)
 
 - [@HiTekRedneck](https://github.com/hitekredneck/)
@@ -1120,3 +1119,5 @@
 - [@DoragonArashi](https://github.com/DoragonArashi/)
 
 -[@Just4CodingNow](https://github.com/Just4CodingNow)
+
+- [@Hazelle2511](https://github.com/Hazelle2511/)
