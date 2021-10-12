@@ -3,7 +3,7 @@
   * Find the maximum profit possible by cutting the rod and selling the pieces.
 */
 
- function rodCut(prices, n){
+ export function rodCut(prices, n){
         let memo = new Array(n + 1);
         memo[0] = 0;
    
@@ -18,10 +18,4 @@
        return memo[n];
  }
      
- function main(){
-    let arr = [1, 5, 4, 2, 1, 11, 19, 12];
-    let n = arr.length;
-    console.log('Maximum Possible Profit is : '+ rodCut(arr,n));
- }
- 
- main();
+
