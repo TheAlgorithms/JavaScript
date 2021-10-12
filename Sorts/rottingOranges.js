@@ -9,6 +9,9 @@ Every minute, any fresh orange that is 4-directionally adjacent to a rotten oran
 
 Return the minimum number of minutes that must elapse until no cell has a fresh orange. If this is impossible, return -1. */
 
+
+var dx = [-1,0,+1,0];
+var dy = [0,-1,0,+1];
 var orangesRotting = function(grid) {
     var X = grid[0].length;
     var Y = grid.length;
