@@ -9,7 +9,7 @@ const example = `
 
 describe('Check Problem 18 - Maximum path sum I', () => {
   it('Check example', () => {
-    expect(maxPathSum(triangle)).toBe(23)
+    expect(maxPathSum(example)).toBe(23)
   })
 
   it('Check solution', () => {
