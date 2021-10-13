@@ -1136,3 +1136,5 @@
 - [@Edss888] (https://github.com/Edss888)
 
 - [@raduWD](https://github.com/raduWD)
+
+- [@xdiegors](https://github.com/xdiegors)
