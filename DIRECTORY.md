@@ -197,6 +197,7 @@
   * [Problem014](https://github.com/TheAlgorithms/Javascript/blob/master/Project-Euler/Problem014.js)
   * [Problem015](https://github.com/TheAlgorithms/Javascript/blob/master/Project-Euler/Problem015.js)
   * [Problem016](https://github.com/TheAlgorithms/Javascript/blob/master/Project-Euler/Problem016.js)
+  * [Problem018](https://github.com/TheAlgorithms/Javascript/blob/master/Project-Euler/Problem018.js)
   * [Problem020](https://github.com/TheAlgorithms/Javascript/blob/master/Project-Euler/Problem020.js)
   * [Problem1](https://github.com/TheAlgorithms/Javascript/blob/master/Project-Euler/Problem1.js)
   * [Problem10](https://github.com/TheAlgorithms/Javascript/blob/master/Project-Euler/Problem10.js)
