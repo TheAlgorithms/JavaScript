@@ -1,4 +1,5 @@
 // Returns the value of x to the power of y
+// Exponentiation by squaring : https://en.wikipedia.org/wiki/Exponentiation_by_squaring
 
 const pow = (x, y) => {
   if (y < 0) return pow(1 / x, -y)
