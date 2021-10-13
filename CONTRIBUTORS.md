@@ -1138,3 +1138,5 @@
 - [@raduWD](https://github.com/raduWD)
 
 - [@xdiegors](https://github.com/xdiegors)
+
+- [@chistle](https://github.com/chistle)
