@@ -1,6 +1,7 @@
-/**
- * The Fermat primality test is a probabilistic test to determine whether a number is a probable prime. It relies on
- * Fermat's Little Theorem, which states that if p is prime and a is not divisible by p, then
+/*
+ * The Fermat primality test is a probabilistic test to determine whether a number is a probable prime.
+ *
+ * It relies on Fermat's Little Theorem, which states that if p is prime and a is not divisible by p, then
  *
  *     a^(p - 1) % p = 1
  *
@@ -53,7 +54,7 @@ const modularExponentiation = (base, exponent, modulus) => {
 }
 
 /**
- *  Test if a given number n is prime or not.
+ * Test if a given number n is prime or not.
  *
  * @param {number} n The number to check for primality
  * @param {number} numberOfIterations The number of times to apply Fermat's Little Theorem
@@ -61,20 +62,12 @@ const modularExponentiation = (base, exponent, modulus) => {
  */
 const fermatPrimeCheck = (n, numberOfIterations) => {
   // first check for corner cases
-<<<<<<< HEAD
   if (n <= 1 || n === 4) return false
-=======
-  if (n <= 1 || n == 4) return false
->>>>>>> 951c7258323a057041c0d128880982ddab303ee5
   if (n <= 3) return true // 2 and 3 are included here
 
   for (let i = 0; i < numberOfIterations; i++) {
     // pick a random number between 2 and n - 2
-<<<<<<< HEAD
     const randomNumber = Math.floor(Math.random() * (n - 1 - 2) + 2)
-=======
-    let randomNumber = Math.floor(Math.random() * (n - 1 - 2) + 2)
->>>>>>> 951c7258323a057041c0d128880982ddab303ee5
 
     // if a^(n - 1) % n is different than 1, n is composite
     if (modularExponentiation(randomNumber, n - 1, n) !== 1) {

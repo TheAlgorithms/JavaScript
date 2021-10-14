@@ -1,4 +1,4 @@
-import { modularExponentiation, fermatPrimeCheck } from '../FermatPrimalityTest'
+import { fermatPrimeCheck, modularExponentiation } from '../FermatPrimalityTest'
 
 describe('modularExponentiation', () => {
   it('should give the correct output for all exponentiations', () => {
