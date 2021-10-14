@@ -1,6 +1,7 @@
 /**
  *  Given an array of numbers, return the maximum product
  *  of 3 numbers from the array
+ *  https://wsvincent.com/javascript-three-sum-highest-product-of-three-numbers/
  * @param {number[]} arrayItems
  * @returns number
  */
