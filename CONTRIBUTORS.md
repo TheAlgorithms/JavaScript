@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+-[@AADHISM](https://github.com/AADHISM)
+
 - [@kylengn](https://github.com/kylengn)
 
 - [@nataliarossini](https://github.com/nataliarossini)
@@ -1094,8 +1096,7 @@
 
 - [@mohsenpasdar](https://github.com/mohsenpasdar/)
 
-- [@codewithanish](https://github.com/codewithanish/)
-=======
+- # [@codewithanish](https://github.com/codewithanish/)
 - [@Binbaker](https://github.com/Binbaker/)
 
 - [@HiTekRedneck](https://github.com/hitekredneck/)
