@@ -8,7 +8,7 @@
  * However, there are certain numbers (so called Fermat Liars) that screw things up;
  * if a is one of these liars the equation will hold even though p is composite.
  *
- * But not everything is lost! It's been proven that at least half of all integers aren't Fermat Liar (these ones called
+ * But not everything is lost! It's been proven that at least half of all integers aren't Fermat Liars (these ones called
  * Fermat Witnesses). Thus, if we keep testing the primality with random integers, we can achieve higher reliability.
  *
  * The interesting about all of this is that since half of all integers are Fermat Witnesses, the precision gets really
@@ -60,14 +60,14 @@ const modularExponentiation = (base, exponent, modulus) => {
  * @param {number} numberOfIterations The number of times to apply Fermat's Little Theorem
  * @returns True if prime, false otherwise
  */
-const fermatPrimeCheck = (n, numberOfIterations) => {
-  // first check for corner cases
+const fermatPrimeCheck = (n, numberOfIterations = 50) => {
+  // first check for edge cases
   if (n <= 1 || n === 4) return false
   if (n <= 3) return true // 2 and 3 are included here
 
   for (let i = 0; i < numberOfIterations; i++) {
-    // pick a random number between 2 and n - 2
-    const randomNumber = Math.floor(Math.random() * (n - 1 - 2) + 2)
+    // pick a random number a, with 2 <= a < n - 2 (remember Math.random() range is [0, 1[ -> 1 exclusive)
+    const randomNumber = Math.floor(Math.random() * (n - 2) + 2)
 
     // if a^(n - 1) % n is different than 1, n is composite
     if (modularExponentiation(randomNumber, n - 1, n) !== 1) {

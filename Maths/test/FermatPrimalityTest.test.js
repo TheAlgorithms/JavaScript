@@ -9,11 +9,11 @@ describe('modularExponentiation', () => {
 
 describe('fermatPrimeCheck', () => {
   it('should give the correct output for prime and composite numbers', () => {
-    expect(fermatPrimeCheck(2, 50)).toBe(true)
-    expect(fermatPrimeCheck(10, 50)).toBe(false)
-    expect(fermatPrimeCheck(94286167, 50)).toBe(true)
-    expect(fermatPrimeCheck(83165867, 50)).toBe(true)
-    expect(fermatPrimeCheck(13268774, 50)).toBe(false)
-    expect(fermatPrimeCheck(13233852, 50)).toBe(false)
+    expect(fermatPrimeCheck(2, 35)).toBe(true)
+    expect(fermatPrimeCheck(10, 30)).toBe(false)
+    expect(fermatPrimeCheck(94286167)).toBe(true)
+    expect(fermatPrimeCheck(83165867)).toBe(true)
+    expect(fermatPrimeCheck(13268774)).toBe(false)
+    expect(fermatPrimeCheck(13233852)).toBe(false)
   })
 })
