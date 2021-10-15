@@ -8,7 +8,7 @@
 export function maxProductOfThree(arrayItems) {
   // if size is less than 3, no triplet exists
   let n = arrayItems.length
-  if (n < 3) return -1
+  if (n < 3) throw new Error('Triplet cannot exist with the given array')
   let max1 = arrayItems[0],
     max2 = -1,
     max3 = -1,
