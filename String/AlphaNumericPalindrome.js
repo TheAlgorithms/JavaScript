@@ -49,7 +49,7 @@ const alphaNumericPlaindrome = (str) => {
   }
 
   // if the string is palindrome then palin variable is never changed
-  if (palin == 0) return true
+  if (palin === 0) return true
   else return false
 }
 
