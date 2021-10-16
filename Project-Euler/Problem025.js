@@ -37,7 +37,7 @@ function fibonacci(n) {
     return 1
   }
   else {
-    series = [0,1]
+    let series = [0,1]
     for (let i = 2; i <= n; i++) {
       series.push(sequence[i-1]+sequence[i-2])
     }
