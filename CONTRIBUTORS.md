@@ -1166,3 +1166,5 @@
 - [@Haukar](https://github.com/Haukar)
 - [@cesaralk](https://github.com/cesaralk/)
 - [@armanabkar](https://github.com/armanabkar)
+
+- [@janpronyk](https://github.com/janpronyk)
