@@ -39,9 +39,9 @@ function fibonacci(n) {
   else {
     let series = [0,1]
     for (let i = 2; i <= n; i++) {
-      series.push(sequence[i-1]+sequence[i-2])
+      series.push(series[i-1]+series[i-2])
     }
-    return sequence[n]
+    return series[n]
   }
 }
 
