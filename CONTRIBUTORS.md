@@ -82,6 +82,8 @@
 
 - [@Bunnyhops888](https://github.com/Bunnyhops888)
 
+- [@StavrosCaptain](https://github.com/StavrosCaptain)
+
 - [@ChristianJayDC](https://github.com/ChristianJayDC)
 
 - [@Clannis](https://github.com/Clannis)
