@@ -53,10 +53,4 @@ const alphaNumericPlaindrome = (str) => {
   else return false
 }
 
-// test cases
-// alphaNumericPlaindrome("eye");
-// alphaNumericPlaindrome("0_0 (: /-\ :) 0-0")
-// alphaNumericPlaindrome("five|\_/|four")
-// alphaNumericPlaindrome("A man, a plan, a canal. Panama")
-
 export { alphaNumericPlaindrome }
