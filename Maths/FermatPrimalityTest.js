@@ -1,26 +1,40 @@
 /*
- * The Fermat primality test is a probabilistic test to determine whether a number is a probable prime.
+ * The Fermat primality test is a probabilistic test to determine whether a number
+ * is a probable prime.
  *
- * It relies on Fermat's Little Theorem, which states that if p is prime and a is not divisible by p, then
+ * It relies on Fermat's Little Theorem, which states that if p is prime and a
+ * is not divisible by p, then
  *
  *     a^(p - 1) % p = 1
  *
  * However, there are certain numbers (so called Fermat Liars) that screw things up;
  * if a is one of these liars the equation will hold even though p is composite.
  *
- * But not everything is lost! It's been proven that at least half of all integers aren't Fermat Liars (these ones called
- * Fermat Witnesses). Thus, if we keep testing the primality with random integers, we can achieve higher reliability.
+ * But not everything is lost! It's been proven that at least half of all integers
+ * aren't Fermat Liars (these ones called Fermat Witnesses). Thus, if we keep
+ * testing the primality with random integers, we can achieve higher reliability.
  *
- * The interesting about all of this is that since half of all integers are Fermat Witnesses, the precision gets really
- * high really fast! Suppose that we make the test 50 times: the chance of getting only Fermat Liars in all runs is
+ * The interesting about all of this is that since half of all integers are
+ * Fermat Witnesses, the precision gets really high really fast! Suppose that we
+ *  make the test 50 times: the chance of getting only Fermat Liars in all runs is
  *
  *     1 / 2^50 = 8.8 * 10^-16 (a pretty small number)
  *
- * For comparison, the probability of a cosmic ray causing an error to your infalible program is around 1.4 * 10^-15. An
- * order of magnitude below!
+ * For comparison, the probability of a cosmic ray causing an error to your
+ * infalible program is around 1.4 * 10^-15. An order of magnitude below!
+ *
+ * But because nothing is perfect, there's a major flaw to this algorithm, and
+ * the cause are the so called Carmichael Numbers. These are composite numbers n
+ * that hold the equality from Fermat's Little Theorem for every a < n (excluding
+ * is factors). In other words, if we are trying to determine if a Carmichael Number
+ * is prime or not, the chances of getting a wrong answer are pretty high! Because
+ * of that, the Fermat Primality Test is not used is serious applications. :(
  *
  * You can find more about the Fermat primality test and its flaws here:
  * https://en.wikipedia.org/wiki/Fermat_primality_test
+ *
+ * And about Carmichael Numbers here:
+ * https://primes.utm.edu/glossary/xpage/CarmichaelNumber.html
  */
 
 /**
@@ -66,7 +80,7 @@ const fermatPrimeCheck = (n, numberOfIterations = 50) => {
   if (n <= 3) return true // 2 and 3 are included here
 
   for (let i = 0; i < numberOfIterations; i++) {
-    // pick a random number a, with 2 <= a < n - 2 (remember Math.random() range is [0, 1[ -> 1 exclusive)
+    // pick a random number a, with 2 <= a < n - 2
     const randomNumber = Math.floor(Math.random() * (n - 2) + 2)
 
     // if a^(n - 1) % n is different than 1, n is composite
