@@ -1,4 +1,4 @@
-import { alphaNumericPlaindrome } from '../AlphanumericPalindrome'
+import { alphaNumericPlaindrome } from '../AlphaNumericPalindrome'
 
 test('should return true if the given string has alphanumeric characters that are palindrom irrespective of case and symbols', () => {
   expect(alphaNumericPlaindrome('eye')).toBe(true)
