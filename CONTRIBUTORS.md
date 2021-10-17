@@ -82,6 +82,8 @@
 
 - [@Bunnyhops888](https://github.com/Bunnyhops888)
 
+- [@StavrosCaptain](https://github.com/StavrosCaptain)
+
 - [@ChristianJayDC](https://github.com/ChristianJayDC)
 
 - [@Clannis](https://github.com/Clannis)
@@ -1166,3 +1168,12 @@
 - [@Haukar](https://github.com/Haukar)
 - [@cesaralk](https://github.com/cesaralk/)
 - [@armanabkar](https://github.com/armanabkar)
+
+- [@Chayan-11](https://github.com/Chayan-11)
+
+- [@janpronyk](https://github.com/janpronyk)
+
+-[@RishiRathore7](https://github.com/RishiRathore7)
+
+-[@Aaronphilip2003](https://github.com/Aaronphilip2003)
+-[MattKubica](https://github.com/MattKubica)
