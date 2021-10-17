@@ -5597,8 +5597,10 @@
 - [@RanjeetNSuthar](https://github.com/RanjeetNSuthar/)
 -[@JustTom77](https://github.com/JustTom77/)
 
--[@zeinaabusharkh] (https://github.com/zeinaabusharkh/)
+-[@zeinaabusharkh](https://github.com/zeinaabusharkh/)
 
 - [@Keith9seven](https://github.com/Keith9seven)
 
 - [@mbea-int](https://github.com/mbea-int)
+
+- [@Clupai](https://github.com/Clupai8o0)
