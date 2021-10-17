@@ -5595,9 +5595,9 @@
 - [@fchagassjr](https://github.com/fchagassjr/)
 - [@shash619](https://github.com/shash619/)
 - [@RanjeetNSuthar](https://github.com/RanjeetNSuthar/)
--[@JustTom77](https://github.com/JustTom77/)
+- [@JustTom77](https://github.com/JustTom77/)
 
--[@zeinaabusharkh](https://github.com/zeinaabusharkh/)
+- [@zeinaabusharkh](https://github.com/zeinaabusharkh/)
 
 - [@Keith9seven](https://github.com/Keith9seven)
 
