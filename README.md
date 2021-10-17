@@ -40,9 +40,21 @@ We don't care if you break things. This is a playground and we encourage failing
 
     If you run into a **merge conflict**, you have to resolve the conflict. There are a lot of guides online, or you can try this one by [opensource.com](https://opensource.com/article/20/4/git-merge-conflict).
 
-5. On your computer, open your text editor, and add your name to the `CONTRIBUTORS.md` file.
+5. After adding the upstream and checking that all files are up to date, we now will create new branch before editing any files. There are two ways to do so:
+    
+    ```bash
+    git checkout -b <branch-name>
+    ```
+    
+    ```bash
+    git branch <branch-name>
+    git checkout <branch-name>
+    ```
 
-6. Add the changes with `git add`, `git commit` ([write a good commit message](https://chris.beams.io/posts/git-commit/), if possible):
+
+6. On your computer, open your text editor, and add your name to the `CONTRIBUTORS.md` file.
+
+7. Add the changes with `git add`, `git commit` ([write a good commit message](https://chris.beams.io/posts/git-commit/), if possible):
 
     ```bash
     git add CONTRIBUTORS.md
@@ -51,23 +63,23 @@ We don't care if you break things. This is a playground and we encourage failing
 
     **Replace \<your-github-username\>!**
 
-7. Push your changes _to your repository_:
+8. Push your changes _to your repository_:
 
     ```bash
     git push origin master
     ```
 
-8. Go to the GitHub page of _your fork_, and make a pull request:
+9. Go to the GitHub page of _your fork_, and make a pull request:
 
     ![pull request image](https://help.github.com/assets/images/help/pull_requests/choose-base-and-compare-branches.png)
 
     Read more about pull requests on the [GitHub help pages](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
-9. Wait until Zerobot or one of the maintainers merges your pull request. If there are any conflicts, you will get a notification.
+10. Wait until Zerobot or one of the maintainers merges your pull request. If there are any conflicts, you will get a notification.
 
-10. Go join a project and start contributing or create your own group apps. Don't be shy and enjoy creating things together (We have over 20 projects for all level of programmers)! [Check out this guide](https://github.com/zero-to-mastery/start-here-guidelines/blob/master/Get_Started.md) for more information on selecting a project.
+11. Go join a project and start contributing or create your own group apps. Don't be shy and enjoy creating things together (We have over 20 projects for all level of programmers)! [Check out this guide](https://github.com/zero-to-mastery/start-here-guidelines/blob/master/Get_Started.md) for more information on selecting a project.
 
-11. To see the Zero to Mastery Icon in your GitHub profile, [follow these steps](https://help.github.com/articles/publicizing-or-hiding-organization-membership/) (you must complete step 1 and 2 for this to work).
+12. To see the Zero to Mastery Icon in your GitHub profile, [follow these steps](https://help.github.com/articles/publicizing-or-hiding-organization-membership/) (you must complete step 1 and 2 for this to work).
 
 ## Anatomy of an open source project:
 
