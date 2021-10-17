@@ -28,32 +28,18 @@
 
 // brute force method
 
-function fibonacci(n) {
-  // Creates an array of Fibonacci numbers using the Fibonacci formula. Returns the nth element of the array.
-  if (n === 1) {
-    return 0
-  }
-  else if (n === 2) {
-    return 1
-  }
-  else {
-    let series = [0,1]
-    for (let i = 2; i <= n; i++) {
-      series.push(series[i-1]+series[i-2])
-    }
-    return series[n]
-  }
-}
-
-function fibonacciIndex(n = 1000) {
-  // Computes incrementing Fibonacci numbers starting from 3 and checks if its length is equal to n. Returns the term of the sequence in which it happens first.
-  let digits = 0
-  let index = 2
-  while (digits < n) {
+function fibonacciIndex(t = 1000) {
+  let digits = 10n**BigInt(t-1)
+  let fib0 = BigInt(0)
+  let fib1 = BigInt(1)
+  let index = 1
+  while (fib1 < digits) {  // using this to compare number of digits instead of .toString() significantly improved run time
+    const tempfib = fib1
+    fib1 = fib1 + fib0
+    fib0 = tempfib
     index += 1
-    digits = fibonacci(index).toString().length
   }
-  return index
+  return(index)
 }
 
 export { fibonacciIndex }
