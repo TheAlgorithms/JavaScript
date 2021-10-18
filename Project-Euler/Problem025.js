@@ -1,5 +1,5 @@
 /**
-* Problem 20 - 1000-digit Fibonacci number
+* Problem 25 - 1000-digit Fibonacci number
 *
 * @see {@link https://projecteuler.net/problem=25}
 *
