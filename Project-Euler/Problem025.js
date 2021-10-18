@@ -29,10 +29,10 @@
 // brute force method
 
 function fibonacciIndex(t = 1000) {
-  let digits = 10n**BigInt(t-1)
-  let fib0 = BigInt(0)
-  let fib1 = BigInt(1)
-  let index = 1
+  let digits = 10n**BigInt(t-1),
+      fib0 = BigInt(0),
+      fib1 = BigInt(1),
+      index = 1
   while (fib1 < digits) {  // using this to compare number of digits instead of .toString() significantly improved run time
     const tempfib = fib1
     fib1 = fib1 + fib0
