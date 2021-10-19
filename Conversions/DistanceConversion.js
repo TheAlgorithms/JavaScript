@@ -6,3 +6,6 @@ const feetToMeters = (feet)=>{
 const metersToFeet = (meters)=>{
   return meters*(1/0.3048)
 }
+
+feetToMeters(50) //15.24
+metersToFeet(50) //164.04199475065616
