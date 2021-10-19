@@ -1063,7 +1063,7 @@
 - [@karthiknatarajan-27558](https://github.com/karthiknatarajan-27558)
 
 - [@hamzahouri](https://github.com/hamzahouri)
-- 
+-
 - [@diogoson11](https://github.com/diogoson11)
 
 - [@cebener-maake](https://github.com/cebener-maake)
@@ -1129,8 +1129,7 @@
 
 - [@robertWalker68501](https://github.com/robertWalker68501/)
 
-- [@Just4CodingNow](https://github.com/Just4CodingNow)
--[@Arpigouswami](https://github.com/Arpigouswami)
+- [@Just4CodingNow](https://github.com/Just4CodingNow) -[@Arpigouswami](https://github.com/Arpigouswami)
 
 - [JordanABruce] (https://github.com/JordanABruce)
 
@@ -1175,9 +1174,7 @@
 
 -[@RishiRathore7](https://github.com/RishiRathore7)
 
--[@Aaronphilip2003](https://github.com/Aaronphilip2003)
--[MattKubica](https://github.com/MattKubica)
--[mtkaul](https://github.com/mtkaul)
+-[@Aaronphilip2003](https://github.com/Aaronphilip2003) -[MattKubica](https://github.com/MattKubica) -[mtkaul](https://github.com/mtkaul)
 
 - [@cocogelato](https://github.com/cocogelato/)
 
@@ -1202,3 +1199,5 @@
 - [@mamito](https://github.com/mamito)
 
 - [@Jekwulum](https://github.com/Jekwulum)
+
+- [@zparris](https://github.com/zparris)
