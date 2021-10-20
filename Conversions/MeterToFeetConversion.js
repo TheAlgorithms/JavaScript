@@ -4,8 +4,7 @@ const feetToMeter = (feet) => {
 }
 
 const meterToFeet = (meter) => {
-    return meter*(1/0.3048);
+  return meter/0.3048;
 }
 
-feetToMeter(50); //15.24
-meterToFeet(50); //164.04199475065616
+export { feetToMeter, meterToFeet }
