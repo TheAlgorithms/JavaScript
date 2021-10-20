@@ -1,5 +1,5 @@
 /**
- * [NumberOfLocalMaximumPoints](https://www.geeksforgeeks.org/quickselect-algorithm/) is an algorithm to find the kth smallest number
+ * [NumberOfLocalMaximumPoints](https://www.geeksforgeeks.org/find-indices-of-all-local-maxima-and-local-minima-in-an-array/) is an algorithm to find relative bigger numbers compared to their neighbors
  *
  * Notes:
  * - like the other similar local maxima search function find relative maxima points in array but doesnt stop at one but returns total point count
