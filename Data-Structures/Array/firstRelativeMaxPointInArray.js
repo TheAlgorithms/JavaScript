@@ -2,7 +2,6 @@
  * [LocalMaxima](https://www.geeksforgeeks.org/find-indices-of-all-local-maxima-and-local-minima-in-an-array/) is an algorithm to find relative bigger numbers compared to their neighbors
  *
  * Notes:
- * - QuickSelect is related to QuickSort, thus has optimal best and average
  * - works by using divide and conquer
  * - the function gets the array A with n Real numbersand returns the local max point index (if more than one exists return the first one)
  *
