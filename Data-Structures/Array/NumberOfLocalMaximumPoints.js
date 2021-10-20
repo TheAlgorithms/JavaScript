@@ -1,24 +1,43 @@
-const DoesMaximumPoint = (array, index) => {
+/**
+ * [NumberOfLocalMaximumPoints](https://www.geeksforgeeks.org/quickselect-algorithm/) is an algorithm to find the kth smallest number
+ *
+ * Notes:
+ * - like the other similar local maxima search function find relative maxima points in array but doesnt stop at one but returns total point count
+ * - runs on array A of size n and returns the local maxima count using divide and conquer methodology
+ *
+ * @complexity: O(n) (on average )
+ * @complexity: O(n) (worst case)
+ * @flow
+ */
+
+// check if returned index is a local maxima
+const IsMaximumPoint = (array, index) => {
+    // handle array bounds
+    // array start
     if(index == 0) {
         return array[index] > array[index + 1];
+    // array end
     } else if(index == array.length - 1) {
         return array[index] > array[index - 1];
+    // handle index inside array bounds
     } else {
         return array[index] > array[index + 1] && array[index] > array[index - 1];
     }
 }
 
-const CountMaximumPoints = (array, startIndex, endIndex) => {
+const CountLocalMaximumPoints = (array, startIndex, endIndex) => {
+    // stop check in divide and conquer recursion
     if(startIndex == endIndex) {
-        return DoesMaximumPoint(array, startIndex) ? 1 : 0;
+        return IsMaximumPoint(array, startIndex) ? 1 : 0;
     }
     
+    // handle the two halves
     let middleIndex = parseInt((startIndex + endIndex) / 2);
     return CountMaximumPoints(array, startIndex, middleIndex) + 
         CountMaximumPoints(array, middleIndex + 1, endIndex);
 }
 
-const NumberOfLocalMaximomPoints = (A) => CountMaximumPoints(A, 0, A.length - 1);
+const NumberOfLocalMaximumPoints = (A) => CountMaximumPoints(A, 0, A.length - 1);
 
 const main = () => {
 
