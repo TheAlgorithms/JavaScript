@@ -35,6 +35,7 @@
   * [ArrayBufferToBase64](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/ArrayBufferToBase64.js)
   * [Base64ToArrayBuffer](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/Base64ToArrayBuffer.js)
   * [BinaryToDecimal](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/BinaryToDecimal.js)
+  * [BinaryToHex](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/BinaryToHex.js)
   * [DateDayDifference](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/DateDayDifference.js)
   * [DateToDay](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/DateToDay.js)
   * [DecimalToBinary](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/DecimalToBinary.js)
