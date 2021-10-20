@@ -95,6 +95,7 @@
   * [LongestPalindromicSubsequence](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/LongestPalindromicSubsequence.js)
   * [LongestValidParentheses](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/LongestValidParentheses.js)
   * [MaxNonAdjacentSum](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/MaxNonAdjacentSum.js)
+  * [MaxProductOfThree](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/MaxProductOfThree.js)
   * [MinimumCostPath](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/MinimumCostPath.js)
   * [NumberOfSubsetEqualToGivenSum](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/NumberOfSubsetEqualToGivenSum.js)
   * [Shuf](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/Shuf.js)
