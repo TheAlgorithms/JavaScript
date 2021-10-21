@@ -33,9 +33,7 @@ class CircularQueue {
     }
     const y = this.queue[this.front]
     this.queue[this.front] = '*'
-    if (this.checkSingleelement()) {
-
-    } else {
+    if (!this.checkSingleelement()) {
       if (this.front === this.maxLength) this.front = 1
       else {
         this.front += 1
