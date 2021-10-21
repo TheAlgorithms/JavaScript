@@ -11,6 +11,7 @@
 ## Bit-Manipulation
   * [BinaryCountSetBits](https://github.com/TheAlgorithms/Javascript/blob/master/Bit-Manipulation/BinaryCountSetBits.js)
   * [IsPowerOfTwo](https://github.com/TheAlgorithms/Javascript/blob/master/Bit-Manipulation/IsPowerOfTwo.js)
+  * [NextPowerOfTwo](https://github.com/TheAlgorithms/Javascript/blob/master/Bit-Manipulation/NextPowerOfTwo.js)
   * [SetBit](https://github.com/TheAlgorithms/Javascript/blob/master/Bit-Manipulation/SetBit.js)
 
 ## Cache
@@ -35,6 +36,7 @@
   * [ArrayBufferToBase64](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/ArrayBufferToBase64.js)
   * [Base64ToArrayBuffer](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/Base64ToArrayBuffer.js)
   * [BinaryToDecimal](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/BinaryToDecimal.js)
+  * [BinaryToHex](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/BinaryToHex.js)
   * [DateDayDifference](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/DateDayDifference.js)
   * [DateToDay](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/DateToDay.js)
   * [DecimalToBinary](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/DecimalToBinary.js)
@@ -44,6 +46,7 @@
   * [HexToDecimal](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/HexToDecimal.js)
   * [HexToRGB](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/HexToRGB.js)
   * [LowerCaseConversion](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/LowerCaseConversion.js)
+  * [MeterToFeetConversion](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/MeterToFeetConversion.js)
   * [OctToDecimal](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/OctToDecimal.js)
   * [RailwayTimeConversion](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/RailwayTimeConversion.js)
   * [RgbHsvConversion](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/RgbHsvConversion.js)
@@ -95,8 +98,10 @@
   * [LongestPalindromicSubsequence](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/LongestPalindromicSubsequence.js)
   * [LongestValidParentheses](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/LongestValidParentheses.js)
   * [MaxNonAdjacentSum](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/MaxNonAdjacentSum.js)
+  * [MaxProductOfThree](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/MaxProductOfThree.js)
   * [MinimumCostPath](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/MinimumCostPath.js)
   * [NumberOfSubsetEqualToGivenSum](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/NumberOfSubsetEqualToGivenSum.js)
+  * [RodCutting](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/RodCutting.js)
   * [Shuf](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/Shuf.js)
   * [SieveOfEratosthenes](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/SieveOfEratosthenes.js)
   * [SudokuSolver](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/SudokuSolver.js)
@@ -153,7 +158,9 @@
   * [Factorial](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/Factorial.js)
   * [Factors](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/Factors.js)
   * [FareyApproximation](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/FareyApproximation.js)
+  * [FermatPrimalityTest](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/FermatPrimalityTest.js)
   * [Fibonacci](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/Fibonacci.js)
+  * [FigurateNumber](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/FigurateNumber.js)
   * [FindHcf](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/FindHcf.js)
   * [FindLcm](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/FindLcm.js)
   * [GetEuclidGCD](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/GetEuclidGCD.js)
@@ -264,6 +271,7 @@
   * [WiggleSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/WiggleSort.js)
 
 ## String
+  * [AlphaNumericPalindrome](https://github.com/TheAlgorithms/Javascript/blob/master/String/AlphaNumericPalindrome.js)
   * [AlternativeStringArrange](https://github.com/TheAlgorithms/Javascript/blob/master/String/AlternativeStringArrange.js)
   * [CheckAnagram](https://github.com/TheAlgorithms/Javascript/blob/master/String/CheckAnagram.js)
   * [CheckCamelCase](https://github.com/TheAlgorithms/Javascript/blob/master/String/CheckCamelCase.js)
