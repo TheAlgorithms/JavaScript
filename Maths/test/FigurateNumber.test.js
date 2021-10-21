@@ -54,7 +54,7 @@ describe('FigurateNumber', () => {
   })
   /** End */
 
-  it('Check All : should return all true',() => {
+  it('Check All : should return all true', () => {
     expect(checkAll(1)).toEqual({
       isTriangular: true,
       isTetrahedral: true,
@@ -62,7 +62,7 @@ describe('FigurateNumber', () => {
     })
   })
 
-  it('Check All : should return all true,true,false',() => {
+  it('Check All : should return all true,true,false', () => {
     expect(checkAll(15)).toEqual({
       isTriangular: true,
       isTetrahedral: false,

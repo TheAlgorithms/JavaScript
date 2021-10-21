@@ -39,7 +39,7 @@ const extendedEuclideanGCD = (arg1, arg2) => {
   let t0 = 0
   let t1 = 1
 
-  while (r1 != 0) {
+  while (r1 !== 0) {
     const q = Math.floor(r0 / r1)
 
     const r2 = r0 - r1 * q
