@@ -36,7 +36,7 @@ const getNumOfDivisors = (num) => {
   for (let i = 0; i <= sqrtNum; i++) {
     // check if i divides num
     if (num % i === 0) {
-      if (num / i === i) {
+      if (i === sqrtNum) {
         // if both divisors are equal, i.e., num is perfect square, then only 1 divisor
         numberOfDivisors++
       } else {
