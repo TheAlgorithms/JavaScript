@@ -159,6 +159,7 @@
   * [FareyApproximation](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/FareyApproximation.js)
   * [FermatPrimalityTest](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/FermatPrimalityTest.js)
   * [Fibonacci](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/Fibonacci.js)
+  * [FigurateNumber](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/FigurateNumber.js)
   * [FindHcf](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/FindHcf.js)
   * [FindLcm](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/FindLcm.js)
   * [GetEuclidGCD](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/GetEuclidGCD.js)
