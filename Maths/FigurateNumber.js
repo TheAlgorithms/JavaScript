@@ -18,7 +18,7 @@
  */
 const isTriangular = (number) => {
   for (let i = 0; i <= number; i++) {
-    if ((i * (i + 1)) / 2 == number) {
+    if ((i * (i + 1)) / 2 === number) {
       return true
     } else if ((i * (i + 1)) / 2 > number) {
       return false
@@ -34,7 +34,7 @@ const isTriangular = (number) => {
  */
 const isTetrahedral = (number) => {
   for (let i = 1; i <= number; i++) {
-    if ((i * (i + 1) * (i + 2)) / 6 == number) {
+    if ((i * (i + 1) * (i + 2)) / 6 === number) {
       return true
     } else if ((i * (i + 1) * (i + 2)) / 6 > number) {
       return false
@@ -49,7 +49,7 @@ const isTetrahedral = (number) => {
  */
 const isPentatope = (number) => {
   for (let i = 1; i <= number; i++) {
-    if ((i * (i + 1) * (i + 2) * (i + 3)) / 24 == number) {
+    if ((i * (i + 1) * (i + 2) * (i + 3)) / 24 === number) {
       return true
     } else if ((i * (i + 1) * (i + 2) * (i + 3)) / 24 > number) {
       return false
