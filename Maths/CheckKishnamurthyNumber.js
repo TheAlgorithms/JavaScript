@@ -41,4 +41,4 @@ const CheckKishnamurthyNumber = (number) => {
   return sumOfAllDigitFactorial === number
 }
 
-module.exports = CheckKishnamurthyNumber
+export { CheckKishnamurthyNumber }

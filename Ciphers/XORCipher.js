@@ -20,7 +20,12 @@ function XOR (str, key) {
   return result
 }
 
-const encryptedString = XOR('test string', 32)
-console.log('Encrypted: ', encryptedString)
-const decryptedString = XOR(encryptedString, 32)
-console.log('Decrypted: ', decryptedString)
+export { XOR }
+
+// Nb: Node REPL might not output the null char '\x00' (charcode 0)
+
+// > XOR('test string', 32)
+// 'TEST\x00STRING'
+
+// > XOR('TEST\x00STRING', 32)
+// 'test string'

@@ -28,7 +28,7 @@ class CircularQueue {
   // REMOVES ELEMENTS
   dequeue () {
     if (this.checkEmpty()) {
-      console.log('UNDERFLOW')
+      // UNDERFLOW
       return
     }
     const y = this.queue[this.front]
@@ -62,15 +62,15 @@ class CircularQueue {
   // Checks if max capacity of queue has been reached or not
   checkOverflow () {
     if ((this.front === 1 && this.rear === this.maxLength) || (this.front === this.rear + 1)) {
-      console.log('CIRCULAR QUEUE OVERFLOW')
+      // CIRCULAR QUEUE OVERFLOW
       return true
     }
   }
 
-  // Prints the entire array
-  display () {
+  // Prints the entire array ('*' represents blank space)
+  display (output = value => console.log(value)) {
     for (let index = 1; index < this.queue.length; index++) {
-      console.log(this.queue[index])
+      output(this.queue[index])
     }
   }
 
@@ -85,24 +85,4 @@ class CircularQueue {
   }
 }
 
-function main () {
-  // Star represents blank space
-  const queue = new CircularQueue(6) // Enter Max Length
-  queue.enqueue(1)
-  queue.enqueue(15)
-  queue.enqueue(176)
-  queue.enqueue(59)
-  queue.enqueue(3)
-  queue.enqueue(55)
-
-  queue.display()
-
-  queue.dequeue()
-  queue.dequeue()
-  queue.dequeue()
-  queue.display()
-
-  console.log(queue.peek())
-}
-
-main()
+export { CircularQueue }

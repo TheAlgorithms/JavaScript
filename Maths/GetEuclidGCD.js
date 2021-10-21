@@ -29,4 +29,4 @@ const GetEuclidGCD = (arg1, arg2) => {
   return (less)
 }
 
-module.exports = GetEuclidGCD
+export { GetEuclidGCD }

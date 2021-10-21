@@ -1,10 +1,7 @@
 // https://projecteuler.net/problem=7
 // My approach does not use the Sieve of Eratosthenes but that is another common way to approach this problem. Sieve of Atkin is another possibility as well.
 
-const num = 10001
-const primes = [2, 3, 5, 7, 11, 13] // given list of primes you start with
-
-const calculatePrime = (num) => {
+export const calculatePrime = (num = 10001, primes = [2, 3, 5, 7, 11, 13]) => {
   // Calculate each next prime by checking each number to see what it's divisible by
   let count = primes.length // count number of primes calculated
   let current = primes[count - 1] + 1 // current number being assessed if prime
@@ -27,5 +24,3 @@ const calculatePrime = (num) => {
   }
   return primes[num - 1]
 }
-
-console.log(calculatePrime(num))

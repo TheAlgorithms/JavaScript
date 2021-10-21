@@ -37,14 +37,6 @@ const levenshteinDistance = (a, b) => {
     }
   }
 
-  console.log(
-    'Levenshtein Distance between ' +
-            a +
-            ' and ' +
-            b +
-            ' is = ' +
-            distanceMatrix[b.length][a.length]
-  )
   return distanceMatrix[b.length][a.length]
 }
 

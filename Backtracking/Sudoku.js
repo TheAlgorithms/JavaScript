@@ -60,11 +60,13 @@ class Sudoku {
     return this.board[row].slice(start, end)
   }
 
-  printBoard () {
+  printBoard (output = (...v) => console.log(...v)) {
     // helper function to display board
     for (let i = 0; i < 9; i++) {
-      if (i % 3 === 0 && i !== 0) console.log('- - - - - - - - - - - -')
-      console.log(
+      if (i % 3 === 0 && i !== 0) {
+        output('- - - - - - - - - - - -')
+      }
+      output(
         ...this.getSection(i, [0, 3]), ' | ',
         ...this.getSection(i, [3, 6]), ' | ',
         ...this.getSection(i, [6, 9]))

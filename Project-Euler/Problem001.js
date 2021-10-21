@@ -4,8 +4,6 @@
 Find the sum of all the multiples of 3 or 5 below the provided parameter value number.
 */
 
-const readline = require('readline')
-
 const multiplesThreeAndFive = (num) => {
   let total = 0
   // total for calculating the sum
@@ -17,11 +15,4 @@ const multiplesThreeAndFive = (num) => {
   return total
 }
 
-const rl = readline.createInterface({
-  input: process.stdin,
-  output: process.stdout
-})
-rl.question('Enter a number: ', function (num) {
-  console.log(multiplesThreeAndFive(num)) // multiples3_5 function to calculate the sum of multiples of 3 and 5 within num
-  rl.close()
-})
+export { multiplesThreeAndFive }
