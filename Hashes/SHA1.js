@@ -170,8 +170,5 @@ function SHA1 (message) {
   return HH
 }
 
-console.log(SHA1('A Test'))
-console.log(SHA1('A Test'))
-
 // export SHA1 function
-module.exports = SHA1
+export { SHA1 }

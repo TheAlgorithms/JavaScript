@@ -8,7 +8,7 @@ const values = {
   M: 1000
 }
 
-function romanToDecimal (romanNumber) {
+export function romanToDecimal (romanNumber) {
   let prev = ' '
 
   let sum = 0
@@ -32,7 +32,3 @@ function romanToDecimal (romanNumber) {
   }
   return sum
 }
-
-console.log(romanToDecimal('XXIIVV'))
-console.log(romanToDecimal('MDCCCIV'))
-console.log(romanToDecimal('XXIVI'))

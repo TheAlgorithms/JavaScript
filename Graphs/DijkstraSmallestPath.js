@@ -39,28 +39,31 @@ function solve (graph, s) {
 
   return solutions
 }
-// create graph
-const graph = {}
 
-const layout = {
-  R: ['2'],
-  2: ['3', '4'],
-  3: ['4', '6', '13'],
-  4: ['5', '8'],
-  5: ['7', '11'],
-  6: ['13', '15'],
-  7: ['10'],
-  8: ['11', '13'],
-  9: ['14'],
-  10: [],
-  11: ['12'],
-  12: [],
-  13: ['14'],
-  14: [],
-  15: []
-}
+export { solve }
 
-// convert uni-directional to bi-directional graph
+// // create graph
+// const graph = {}
+
+// const layout = {
+//   R: ['2'],
+//   2: ['3', '4'],
+//   3: ['4', '6', '13'],
+//   4: ['5', '8'],
+//   5: ['7', '11'],
+//   6: ['13', '15'],
+//   7: ['10'],
+//   8: ['11', '13'],
+//   9: ['14'],
+//   10: [],
+//   11: ['12'],
+//   12: [],
+//   13: ['14'],
+//   14: [],
+//   15: []
+// }
+
+// // convert uni-directional to bi-directional graph
 // let  graph = {
 //     a: {e:1, b:1, g:3},
 //     b: {a:1, c:1},
@@ -72,26 +75,22 @@ const layout = {
 //     h: {f:1}
 // };
 
-for (const id in layout) {
-  if (!graph[id]) { graph[id] = {} }
-  layout[id].forEach(function (aid) {
-    graph[id][aid] = 1
-    if (!graph[aid]) { graph[aid] = {} }
-    graph[aid][id] = 1
-  })
-}
+// for (const id in layout) {
+//   if (!graph[id]) { graph[id] = {} }
+//   layout[id].forEach(function (aid) {
+//     graph[id][aid] = 1
+//     if (!graph[aid]) { graph[aid] = {} }
+//     graph[aid][id] = 1
+//   })
+// }
 
-// choose start node
-const start = '10'
-// get all solutions
-const solutions = solve(graph, start)
+// // choose start node
+// const start = '10'
+// // get all solutions
+// const solutions = solve(graph, start)
 
-console.log("From '" + start + "' to")
-// display solutions
-for (const s in solutions) {
-  if (!solutions[s]) continue
-  console.log(' -> ' + s + ': [' + solutions[s].join(', ') + ']   (dist:' + solutions[s].dist + ')')
-}
+// // for s in solutions..
+// ' -> ' + s + ': [' + solutions[s].join(', ') + ']   (dist:' + solutions[s].dist + ')'
 
 // From '10' to
 //  -> 2: [7, 5, 4, 2]   (dist:4)

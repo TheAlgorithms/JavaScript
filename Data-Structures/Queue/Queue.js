@@ -43,38 +43,11 @@ const Queue = (function () {
   }
 
   // List all the items in the queue
-  Queue.prototype.view = function () {
-    console.log(this.queue)
+  Queue.prototype.view = function (output = value => console.log(value)) {
+    output(this.queue)
   }
 
   return Queue
 }())
 
-// Implementation
-const myQueue = new Queue()
-
-myQueue.enqueue(1)
-myQueue.enqueue(5)
-myQueue.enqueue(76)
-myQueue.enqueue(69)
-myQueue.enqueue(32)
-myQueue.enqueue(54)
-
-myQueue.view()
-
-console.log(`Length: ${myQueue.length()}`)
-console.log(`Front item: ${myQueue.peek()}`)
-console.log(`Removed ${myQueue.dequeue()} from front.`)
-console.log(`New front item: ${myQueue.peek()}`)
-console.log(`Removed ${myQueue.dequeue()} from front.`)
-console.log(`New front item: ${myQueue.peek()}`)
-myQueue.enqueue(55)
-console.log('Inserted 55')
-console.log(`New front item: ${myQueue.peek()}`)
-
-for (let i = 0; i < 5; i++) {
-  myQueue.dequeue()
-  myQueue.view()
-}
-
-// console.log(myQueue.dequeue()); // throws exception!
+export { Queue }

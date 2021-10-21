@@ -17,6 +17,7 @@ function costOfSubstitution (x, y) {
   return x === y ? 0 : 1
 }
 
+// Levenshtein distance between x and y
 function calculate (x, y) {
   const dp = new Array(x.length + 1)
   for (let i = 0; i < x.length + 1; i++) {
@@ -38,12 +39,4 @@ function calculate (x, y) {
   return dp[x.length][y.length]
 }
 
-function main () {
-  const x = '' // enter your string here
-  const y = '' // enter your string here
-
-  console.log('Levenshtein distance between ' + x + ' and ' + y + ' is: ')
-  console.log(calculate(x, y))
-}
-
-main()
+export { calculate }

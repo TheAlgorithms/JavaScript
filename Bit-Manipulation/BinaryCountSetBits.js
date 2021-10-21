@@ -13,5 +13,4 @@ function BinaryCountSetBits (a) {
   return a.toString(2).split('1').length - 1
 }
 
-// Run `binary_and` Function to find the binary and operation
-console.log(BinaryCountSetBits(251))
+export { BinaryCountSetBits }

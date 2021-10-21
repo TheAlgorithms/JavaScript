@@ -33,7 +33,7 @@ Array.prototype.heapify = function (index, heapSize) {
  * utilizing the heap property.
  * For more information see: https://en.wikipedia.org/wiki/Heapsort
  */
-function heapSort (items) {
+export function heapSort (items) {
   const length = items.length
 
   for (let i = Math.floor(length / 2) - 1; i > -1; i--) {
@@ -50,9 +50,5 @@ function heapSort (items) {
 
 // Implementation of heapSort
 
-const ar = [5, 6, 7, 8, 1, 2, 12, 14]
-// Array before Sort
-console.log(ar)
-heapSort(ar)
-// Array after sort
-console.log(ar)
+// const ar = [5, 6, 7, 8, 1, 2, 12, 14]
+// heapSort(ar)

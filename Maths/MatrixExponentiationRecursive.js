@@ -45,7 +45,7 @@ const MatMult = (matA, matB) => {
   return matC
 }
 
-const MatrixExponentiationRecursive = (mat, m) => {
+export const MatrixExponentiationRecursive = (mat, m) => {
   // Input: mat: 2D Array of Numbers of size n x n
   // Output: mat^n: 2D Array of Numbers of size n x n
   // Complexity: O(n^3 log m)
@@ -65,20 +65,16 @@ const MatrixExponentiationRecursive = (mat, m) => {
   }
 }
 
-const main = () => {
-  const mat = [[1, 0, 2], [2, 1, 0], [0, 2, 1]]
+// const mat = [[1, 0, 2], [2, 1, 0], [0, 2, 1]]
 
-  // mat ^ 0 = [ [ 1, 0, 0 ], [ 0, 1, 0 ], [ 0, 0, 1 ] ]
-  console.log(MatrixExponentiationRecursive(mat, 0))
+// // mat ^ 0 = [ [ 1, 0, 0 ], [ 0, 1, 0 ], [ 0, 0, 1 ] ]
+// MatrixExponentiationRecursive(mat, 0)
 
-  // mat ^ 1 = [ [ 1, 0, 2 ], [ 2, 1, 0 ], [ 0, 2, 1 ] ]
-  console.log(MatrixExponentiationRecursive(mat, 1))
+// // mat ^ 1 = [ [ 1, 0, 2 ], [ 2, 1, 0 ], [ 0, 2, 1 ] ]
+// MatrixExponentiationRecursive(mat, 1)
 
-  // mat ^ 2 = [ [ 1, 4, 4 ], [ 4, 1, 4 ], [ 4, 4, 1 ] ]
-  console.log(MatrixExponentiationRecursive(mat, 2))
+// // mat ^ 2 = [ [ 1, 4, 4 ], [ 4, 1, 4 ], [ 4, 4, 1 ] ]
+// MatrixExponentiationRecursive(mat, 2)
 
-  // mat ^ 5 = [ [ 1, 4, 4 ], [ 4, 1, 4 ], [ 4, 4, 1 ] ]
-  console.log(MatrixExponentiationRecursive(mat, 5))
-}
-
-main()
+// // mat ^ 5 = [ [ 1, 4, 4 ], [ 4, 1, 4 ], [ 4, 4, 1 ] ]
+// MatrixExponentiationRecursive(mat, 5)

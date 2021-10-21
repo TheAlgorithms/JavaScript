@@ -244,10 +244,10 @@ function introsort (array, compare) {
 /**
  * @example Demo run of the sort routine
  * The data is randomly generated
- * Prints RIGHT:) if the sort routine worked as expected
- * If not prints WRONG!!
+ * Returns 'RIGHT:)' if the sort routine worked as expected,
+ *         'WRONG!!' otherwise
  */
-(function demo () {
+function demo1 () {
   const data = []
   const size = 1000000
   let i = 0
@@ -268,18 +268,18 @@ function introsort (array, compare) {
     }
   }
   if (faulty) {
-    console.log('WRONG!!')
+    return 'WRONG!!'
   } else {
-    console.log('RIGHT:)')
+    return 'RIGHT:)'
   }
-})();
+}
 
 /**
  * @example Demo run of the sort routine
  * using the default compare function and
  * comparing the results with Array.sort
  */
-(function demo () {
+function demo2 () {
   const data = []
   const data2 = []
   const size = 1000000
@@ -300,8 +300,10 @@ function introsort (array, compare) {
     }
   }
   if (faulty) {
-    console.log('WRONG Implented Comparator!!')
+    return 'WRONG Implented Comparator!!'
   } else {
-    console.log('Comparator Works Fine:)')
+    return 'Comparator Works Fine:)'
   }
-})()
+}
+
+export { introsort, demo1, demo2 }

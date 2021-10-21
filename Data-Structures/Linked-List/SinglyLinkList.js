@@ -180,12 +180,12 @@ const LinkedList = (function () {
   }
 
   // Function to view the LinkedList
-  LinkedList.prototype.view = function () {
+  LinkedList.prototype.view = function (output = value => console.log(value)) {
     let currentNode = this.head
     let count = 0
     while (count < this.length) {
       count++
-      console.log(currentNode.element)
+      output(currentNode.element)
       currentNode = currentNode.next
     }
   }
@@ -194,16 +194,4 @@ const LinkedList = (function () {
   return LinkedList
 }())
 
-// Implementation of LinkedList
-const linklist = new LinkedList()
-linklist.add(2)
-linklist.add(5)
-linklist.add(8)
-linklist.add(12)
-linklist.add(17)
-console.log(linklist.size())
-console.log(linklist.removeAt(4))
-linklist.addAt(4, 15)
-console.log(linklist.indexOf(8))
-console.log(linklist.size())
-linklist.view()
+export { LinkedList }

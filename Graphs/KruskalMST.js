@@ -101,15 +101,12 @@ class GraphWeightedUndirectedAdjacencyList {
   }
 }
 
-function main () {
-  const graph = new GraphWeightedUndirectedAdjacencyList()
-  graph.addEdge(1, 2, 1)
-  graph.addEdge(2, 3, 2)
-  graph.addEdge(3, 4, 1)
-  graph.addEdge(3, 5, 100) // Removed in MST
-  graph.addEdge(4, 5, 5)
-  console.log(graph)
-  console.log(graph.KruskalMST())
-}
+export { GraphWeightedUndirectedAdjacencyList }
 
-main()
+// const graph = new GraphWeightedUndirectedAdjacencyList()
+// graph.addEdge(1, 2, 1)
+// graph.addEdge(2, 3, 2)
+// graph.addEdge(3, 4, 1)
+// graph.addEdge(3, 5, 100) // Removed in MST
+// graph.addEdge(4, 5, 5)
+// graph.KruskalMST()

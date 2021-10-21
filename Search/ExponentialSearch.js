@@ -9,12 +9,12 @@
  *
  */
 
-function binarySearch (arr, x, floor, ceiling) {
+function binarySearch (arr, value, floor, ceiling) {
   // Middle index
   const mid = Math.floor((floor + ceiling) / 2)
 
   // If value is at the mid position return this position
-  if (arr[mid] === x) {
+  if (arr[mid] === value) {
     return mid
   }
 
@@ -47,12 +47,8 @@ function exponentialSearch (arr, length, value) {
   return binarySearch(arr, value, i / 2, Math.min(i, length))
 }
 
-const arr = [2, 3, 4, 10, 40, 65, 78, 100]
-const value = 78
-const result = exponentialSearch(arr, arr.length, value)
+export { binarySearch, exponentialSearch }
 
-if (result < 0) {
-  console.log('Element not found')
-} else {
-  console.log('Element found at position :' + result)
-}
+// const arr = [2, 3, 4, 10, 40, 65, 78, 100]
+// const value = 78
+// const result = exponentialSearch(arr, arr.length, value)

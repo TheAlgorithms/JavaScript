@@ -19,7 +19,7 @@
  * the item (number) to be searched for and the length of the items in the array
  ****************************************************************************/
 
-const fibonacciSearch = (arr, x, n) => {
+export const fibonacciSearch = (arr, x, n) => {
   let fib2 = 0 // (K-2)'th Fibonacci Number
   let fib1 = 1 // (K-1)'th Fibonacci Number.
   let fibK = fib2 + fib1 // Kth Fibonacci
@@ -69,9 +69,9 @@ const fibonacciSearch = (arr, x, n) => {
   //    element not found. return -1
   return -1
 }
+
 // Example
-const myArray = [10, 22, 35, 40, 45, 50, 80, 82, 85, 90, 100]
-const n = myArray.length
-const x = 90
-const fibFinder = fibonacciSearch(myArray, x, n)
-console.log('Element found at index:', fibFinder)
+// const myArray = [10, 22, 35, 40, 45, 50, 80, 82, 85, 90, 100]
+// const n = myArray.length
+// const x = 90
+// const fibFinder = fibonacciSearch(myArray, x, n)
