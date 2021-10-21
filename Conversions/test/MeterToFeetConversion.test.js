@@ -1,4 +1,4 @@
-import { meterToFeet, feetToMeter } from "../MeterToFeetConversion";
+import { meterToFeet, feetToMeter } from '../MeterToFeetConversion'
 
 describe('Testing conversion of Meter to Feet', () => {
   it('with feet value', () => {

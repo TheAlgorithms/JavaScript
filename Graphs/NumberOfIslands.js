@@ -46,12 +46,6 @@ Pseudocode:
 
     Return the count
 */
-const grid = [
-  ['1', '1', '0', '0', '0'],
-  ['1', '1', '0', '0', '0'],
-  ['0', '0', '1', '0', '0'],
-  ['0', '0', '0', '1', '1']
-]
 
 const islands = (matrixGrid) => {
   const matrix = matrixGrid
@@ -83,4 +77,12 @@ const islands = (matrixGrid) => {
   }
   return counter
 }
-console.log(islands(grid))
+
+export { islands }
+
+// islands(
+//   ['1', '1', '0', '0', '0'],
+//   ['1', '1', '0', '0', '0'],
+//   ['0', '0', '1', '0', '0'],
+//   ['0', '0', '0', '1', '1']
+// )

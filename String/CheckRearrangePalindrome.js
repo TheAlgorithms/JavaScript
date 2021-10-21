@@ -6,7 +6,7 @@
   *
   **/
 
-const palindromeRearranging = (str) => {
+export const palindromeRearranging = (str) => {
   // check that input is a string
   if (typeof str !== 'string') {
     return 'Not a string'
@@ -27,5 +27,9 @@ const palindromeRearranging = (str) => {
 }
 
 // testing
-console.log(palindromeRearranging('aaeccrr')) // true
-console.log(palindromeRearranging('leve')) // false
+
+// > palindromeRearranging('aaeccrr')
+// true
+
+// > palindromeRearranging('leve')
+// false

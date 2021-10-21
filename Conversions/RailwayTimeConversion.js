@@ -32,4 +32,4 @@ const RailwayTimeConversion = (timeString) => {
   }
 }
 
-module.exports = RailwayTimeConversion
+export { RailwayTimeConversion }

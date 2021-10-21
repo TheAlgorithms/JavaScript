@@ -16,11 +16,4 @@ const climbStairs = (n) => {
   return cur
 }
 
-const main = () => {
-  const number = 5
-
-  console.log('Number of ways to climb ' + number + ' stairs in ' + climbStairs(number))
-}
-
-// testing
-main()
+export { climbStairs }

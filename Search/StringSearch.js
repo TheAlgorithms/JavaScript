@@ -35,7 +35,7 @@ function makeTable (str) {
 }
 
 // Find all the words that matches in a given string `str`
-function stringSearch (str, word) {
+export function stringSearch (str, word) {
   // find the prefix table in O(n)
   const prefixes = makeTable(word)
   const matches = []
@@ -80,4 +80,4 @@ function stringSearch (str, word) {
   return matches
 }
 
-console.log(stringSearch('Hello search the position of me', 'pos'))
+// stringSearch('Hello search the position of me', 'pos')

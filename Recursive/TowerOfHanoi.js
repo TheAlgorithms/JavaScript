@@ -1,16 +1,18 @@
 // wiki - https://en.wikipedia.org/wiki/Tower_of_Hanoi
 // Recursive Javascript function to solve tower of hanoi
 
-function TowerOfHanoi (n, fromRod, toRod, auxRod) {
+export function TowerOfHanoi (n, from, to, aux, output = []) {
   if (n === 1) {
-    console.log(`Move disk 1 from rod ${fromRod} to rod ${toRod}`)
-    return
+    output.push(`Move disk 1 from rod ${from} to rod ${to}`)
+    return output
   }
-  TowerOfHanoi(n - 1, fromRod, auxRod, toRod)
-  console.log(`Move disk ${n} from rod ${fromRod} to rod ${toRod}`)
-  TowerOfHanoi(n - 1, auxRod, toRod, fromRod)
+  TowerOfHanoi(n - 1, from, aux, to, output)
+  output.push(`Move disk ${n} from rod ${from} to rod ${to}`)
+  TowerOfHanoi(n - 1, aux, to, from, output)
+  return output
 }
-// Driver code
-const n = 4
-TowerOfHanoi(n, 'A', 'C', 'B')
-// A, C, B are the name of rods
+
+// Driver code (A, C, B are the name of rods)
+
+// const n = 4
+// TowerOfHanoi(n, 'A', 'C', 'B')

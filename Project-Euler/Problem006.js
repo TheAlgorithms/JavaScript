@@ -1,8 +1,6 @@
 // https://projecteuler.net/problem=6
 
-const num = 100 // number we are checking; change to 10 to check 10 from example
-
-const squareDifference = (num) => {
+export const squareDifference = (num = 100) => {
   let sumOfSquares = 0
   let sums = 0
   for (let i = 1; i <= num; i++) {
@@ -11,5 +9,3 @@ const squareDifference = (num) => {
   }
   return (sums ** 2) - sumOfSquares // difference of square of the total sum and sum of squares
 }
-
-console.log(squareDifference(num))

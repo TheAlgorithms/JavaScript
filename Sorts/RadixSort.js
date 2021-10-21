@@ -4,7 +4,7 @@
 * significant position.
 * For more information see: https://en.wikipedia.org/wiki/Radix_sort
 */
-function radixSort (items, RADIX) {
+export function radixSort (items, RADIX) {
   // default radix is then because we usually count to base 10
   if (RADIX === undefined || RADIX < 1) {
     RADIX = 10
@@ -41,12 +41,3 @@ function radixSort (items, RADIX) {
   }
   return items
 }
-
-// Implementation of radixSort
-
-const ar = [5, 6, 7, 8, 1, 2, 12, 14]
-// Array before Sort
-console.log(ar)
-radixSort(ar)
-// Array after sort
-console.log(ar)

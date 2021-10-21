@@ -12,5 +12,10 @@ function RGBToHex (r, g, b) {
   return `#${toHex(r)}${toHex(g)}${toHex(b)}`
 }
 
-console.log(RGBToHex(255, 255, 255) === '#ffffff')
-console.log(RGBToHex(255, 99, 71) === '#ff6347')
+export { RGBToHex }
+
+// > RGBToHex(255, 255, 255)
+// '#ffffff'
+
+// > RGBToHex(255, 99, 71)
+// '#ff6347'

@@ -23,7 +23,8 @@ function Atbash (message) {
   }
   return decodedString
 }
-// Atbash Example
-const encryptedString = 'HELLO WORLD'
-const decryptedString = Atbash(encryptedString)
-console.log(decryptedString) // SVOOL DLIOW
+
+export { Atbash }
+
+// > Atbash('HELLO WORLD')
+// 'SVOOL DLIOW'

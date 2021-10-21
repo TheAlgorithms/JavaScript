@@ -1,7 +1,7 @@
 /*
     author: Theepag
  */
-const factorialize = (num) => {
+export const factorialize = (num) => {
   // Step 1. variable result to store num
   let result = num
   // If num = 0 OR 1, the factorial will return 1
@@ -14,6 +14,3 @@ const factorialize = (num) => {
   // Step 3. Return the factorial
   return result
 }
-// test
-console.log(factorialize(5))
-console.log(factorialize(4))

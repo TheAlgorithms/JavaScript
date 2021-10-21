@@ -36,7 +36,7 @@ class Graph {
   }
 
   // Prints the vertex and adjacency list
-  printGraph () {
+  printGraph (output = value => console.log(value)) {
     // get all the vertices
     const getKeys = this.AdjList.keys()
 
@@ -54,35 +54,9 @@ class Graph {
       }
 
       // print the vertex and its adjacency list
-      console.log(i + ' -> ' + conc)
+      output(i + ' -> ' + conc)
     }
   }
 }
-// Example
-const graph = new Graph(6)
-const vertices = ['A', 'B', 'C', 'D', 'E', 'F']
 
-// adding vertices
-for (let i = 0; i < vertices.length; i++) {
-  graph.addVertex(vertices[i])
-}
-
-// adding edges
-graph.addEdge('A', 'B')
-graph.addEdge('A', 'D')
-graph.addEdge('A', 'E')
-graph.addEdge('B', 'C')
-graph.addEdge('D', 'E')
-graph.addEdge('E', 'F')
-graph.addEdge('E', 'C')
-graph.addEdge('C', 'F')
-
-// prints all vertex and
-// its adjacency list
-// A -> B D E
-// B -> A C
-// C -> B E F
-// D -> A E
-// E -> A D F C
-// F -> E C
-graph.printGraph()
+export { Graph }

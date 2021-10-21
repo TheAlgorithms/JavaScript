@@ -1,20 +1,19 @@
 /**
- Problem Statment and Explanation : 
+ Problem Statment and Explanation :
  Triangular  => https://en.wikipedia.org/wiki/Triangular_number
  Tetrahedral => https://en.wikipedia.org/wiki/Tetrahedral_number
  Pentatope   => https://en.wikipedia.org/wiki/Pentatope_number
 
-
- Example: 
+ Example:
  Triangular  => (0, 1, 3, 6, 10, 15, 21, 28, 36, 45)
  Tetrahedral => (1, 4, 10, 20, 35, 56, 84, 120, 165,)
  Pentatope   => (1, 5, 15, 35, 70, 126, 210, 330, 495)
  */
 
 /**
- * 
- * @param {*} number 
- * @returns 
+ *
+ * @param {*} number
+ * @returns
  */
 const isTriangular = (number) => {
   for (let i = 0; i <= number; i++) {
@@ -28,9 +27,9 @@ const isTriangular = (number) => {
 }
 
 /**
- * 
- * @param {*} number 
- * @returns 
+ *
+ * @param {*} number
+ * @returns
  */
 const isTetrahedral = (number) => {
   for (let i = 1; i <= number; i++) {
@@ -43,9 +42,9 @@ const isTetrahedral = (number) => {
   return false
 }
 /**
- * 
- * @param {*} number 
- * @returns 
+ *
+ * @param {*} number
+ * @returns
  */
 const isPentatope = (number) => {
   for (let i = 1; i <= number; i++) {
@@ -59,11 +58,11 @@ const isPentatope = (number) => {
 }
 
 /**
- * 
- * @param {*} number 
- * @returns 
+ *
+ * @param {*} number
+ * @returns
  */
-let checkAll = (number) => {
+const checkAll = (number) => {
   return {
     isTriangular: isTriangular(number),
     isTetrahedral: isTetrahedral(number),
