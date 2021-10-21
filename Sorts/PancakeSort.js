@@ -26,7 +26,7 @@
  * @param {number} endIndex The end of the subarray
  * @returns The flipped array
  */
-export function flipArray(array, startIndex, endIndex) {
+export function flipArray (array, startIndex, endIndex) {
   while (startIndex < endIndex) {
     // swap front and back of the subarray
     const temp = array[startIndex]
@@ -49,7 +49,7 @@ export function flipArray(array, startIndex, endIndex) {
  * @param {*} endIndex The end of the subarray
  * @returns The index of the maximum number
  */
-export function findMax(array, startIndex, endIndex) {
+export function findMax (array, startIndex, endIndex) {
   let maxIndex = 0
   for (let i = startIndex; i <= endIndex; i++) {
     if (array[i] > array[maxIndex]) maxIndex = i
@@ -67,7 +67,7 @@ export function findMax(array, startIndex, endIndex) {
  * @param {number[]} array The array to sort
  * @returns The sorted array
  */
-export function pancakeSort(array) {
+export function pancakeSort (array) {
   for (let subarraySize = array.length; subarraySize > 1; subarraySize--) {
     const maximumIndex = findMax(array, 0, subarraySize - 1)
 
