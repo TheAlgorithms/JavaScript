@@ -15,7 +15,4 @@ const flattened = (arr) => {
   return res;
 }
 
-(() => {
-  const arr = [['a'],['bc'],[['cde'], ['f']]];
-  console.log(flattened(arr));
-})()
+module.exports = flattened;
