@@ -23,10 +23,10 @@ function NumberOfSubsetSum (array, sum) {
   return dp[sum]
 }
 
-function main () {
-  const array = [1, 1, 2, 2, 3, 1, 1]
-  const sum = 4
-  const result = NumberOfSubsetSum(array, sum)
-  console.log(result)
-}
-main()
+// example
+
+// const array = [1, 1, 2, 2, 3, 1, 1]
+// const sum = 4
+// const result = NumberOfSubsetSum(array, sum)
+
+export { NumberOfSubsetSum }

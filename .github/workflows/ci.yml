@@ -6,16 +6,17 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
-    - uses: actions/setup-node@v2
-      with:
-        node-version: '14'
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+        with:
+          node-version: "14"
+          cache: npm
 
-    - name: 📦 Install dependencies
-      run: npm ci
+      - name: 📦 Install dependencies
+        run: npm ci
 
-    - name: 🧪 Run tests
-      run: npm test
+      - name: 🧪 Run tests
+        run: npm test
 
-    - name: 💄 Code style
-      run: npm run style
+      - name: 💄 Code style
+        run: npm run style

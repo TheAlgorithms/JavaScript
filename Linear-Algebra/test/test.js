@@ -5,12 +5,11 @@
     This file contains the test-suite for the linear algebra library.
     The tests use javascript test-framework mocha
 */
+
 /* eslint-disable */
 
-import { LinearAlgebra } from "../src/la_lib"
-
-var assert = require('assert')
-var fs = require('fs')
+import { LinearAlgebra } from '../src/la_lib'
+import * as assert from 'assert'
 
 // file is included here
 // Tests goes here

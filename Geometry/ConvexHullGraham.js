@@ -2,7 +2,8 @@
  * Author: Arnab Ray
  * ConvexHull using Graham Scan
  * Wikipedia: https://en.wikipedia.org/wiki/Graham_scan
- * Given a set of points in the plane. The Convex hull of the set is the smallest convex polygon that contains all the points of it.
+ * Given a set of points in the plane. The Convex hull of the set is the smallest
+ * convex polygon that contains all the points of it.
  */
 
 function compare (a, b) {
@@ -27,7 +28,7 @@ function orientation (a, b, c) {
 function convexHull (points) {
   const pointsLen = points.length
   if (pointsLen <= 2) {
-    console.log('Minimum of 3 points is required to form closed polygon!')
+    throw new Error('Minimum of 3 points is required to form closed polygon!')
   }
 
   points.sort(compare)
@@ -65,18 +66,22 @@ function convexHull (points) {
   for (let i = lowerPoints.length - 1; i >= 0; i--) {
     hull.push(lowerPoints[i])
   }
-  console.log('The Convex Hull found is: \n')
-  console.log(hull)
+
+  return hull
 }
 
-const points = [
-  { x: 0, y: 3 },
-  { x: 1, y: 1 },
-  { x: 2, y: 2 },
-  { x: 4, y: 4 },
-  { x: 0, y: 0 },
-  { x: 1, y: 2 },
-  { x: 3, y: 1 },
-  { x: 3, y: 3 }]
+export { convexHull }
 
-convexHull(points)
+// Example
+
+// const points = [
+//   { x: 0, y: 3 },
+//   { x: 1, y: 1 },
+//   { x: 2, y: 2 },
+//   { x: 4, y: 4 },
+//   { x: 0, y: 0 },
+//   { x: 1, y: 2 },
+//   { x: 3, y: 1 },
+//   { x: 3, y: 3 }]
+
+// convexHull(points)

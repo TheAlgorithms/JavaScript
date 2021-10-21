@@ -196,7 +196,11 @@ function DoubleLinkedList () {
   }
 }
 
-const newDoubleLinkedList = new DoubleLinkedList()
-newDoubleLinkedList.append(1)
-newDoubleLinkedList.append(2)
-console.log('Testing: ' + newDoubleLinkedList.size()) // returns 2
+// Example
+
+// const newDoubleLinkedList = new DoubleLinkedList()
+// newDoubleLinkedList.append(1)
+// newDoubleLinkedList.append(2)
+// newDoubleLinkedList.size() // returns 2
+
+export { DoubleLinkedList }

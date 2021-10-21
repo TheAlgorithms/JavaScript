@@ -6,7 +6,7 @@ https://en.wikipedia.org/wiki/Pigeonhole_sort
 * (n) and the length of the range of possible key values (N)
 * are approximately the same.
  */
-function pigeonHoleSort (arr) {
+export function pigeonHoleSort (arr) {
   let min = arr[0]
   let max = arr[0]
 
@@ -14,8 +14,6 @@ function pigeonHoleSort (arr) {
     if (arr[i] > max) { max = arr[i] }
     if (arr[i] < min) { min = arr[i] }
   }
-  console.log(max)
-  console.log(min)
 
   const range = max - min + 1
   const pigeonhole = Array(range).fill(0)
@@ -32,7 +30,3 @@ function pigeonHoleSort (arr) {
     }
   }
 }
-// Driver code
-const arr = [8, 3, 2, 7, 4, 6, 8]
-pigeonHoleSort(arr)
-console.log(arr)

@@ -68,5 +68,7 @@ function decrypt (keyword, message) {
   return translate(getEncryptedAlphabet(keyword.toLowerCase()), alphabet, message)
 }
 
-console.log(encrypt('keyword', 'Hello world!')) // Prints 'Aoggj ujngw!'
-console.log(decrypt('keyword', 'Aoggj ujngw!')) // Prints 'Hello world!
+export { encrypt, decrypt }
+
+// encrypt('keyword', 'Hello world!') // Prints 'Aoggj ujngw!'
+// decrypt('keyword', 'Aoggj ujngw!') // Prints 'Hello world!

@@ -29,8 +29,7 @@ function rot13 (str) {
   return response.join('')
 }
 
-// Caesars Cipher Example
-const encryptedString = 'Uryyb Jbeyq'
-const decryptedString = rot13(encryptedString)
+export { rot13 }
 
-console.log(decryptedString) // Hello World
+// > rot13('Uryyb Jbeyq')
+// 'Hello World'

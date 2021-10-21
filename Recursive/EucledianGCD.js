@@ -27,11 +27,4 @@ function euclideanGCDIterative (first, second) {
   return first
 }
 
-function main () {
-  const first = 20
-  const second = 30
-  console.log('Recursive GCD for %d and %d is %d', first, second, euclideanGCDRecursive(first, second))
-  console.log('Iterative GCD for %d and %d is %d', first, second, euclideanGCDIterative(first, second))
-}
-
-main()
+export { euclideanGCDIterative, euclideanGCDRecursive }

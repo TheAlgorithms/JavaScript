@@ -44,8 +44,7 @@ function diceCoefficient (stringA, stringB) {
   // cut 0.xxxxxx to 0.xx for simplicity
   dice = Math.floor(dice * 100) / 100
 
-  console.log('Dice coefficient of', stringA, 'and', stringB, 'is', dice)
-
   return dice
 }
+
 export { diceCoefficient }

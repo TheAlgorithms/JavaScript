@@ -53,8 +53,8 @@ class MinPriorityQueue {
   }
 
   // prints the heap
-  print () {
-    console.log(this.heap.slice(1))
+  print (output = value => console.log(value)) {
+    output(this.heap.slice(1))
   }
 
   // heap sorting can be done by performing
@@ -109,17 +109,4 @@ class MinPriorityQueue {
   }
 }
 
-// testing
-const q = new MinPriorityQueue(8)
-
-q.insert(5)
-q.insert(2)
-q.insert(4)
-q.insert(1)
-q.insert(7)
-q.insert(6)
-q.insert(3)
-q.insert(8)
-q.print() // [ 1, 2, 3, 5, 7, 6, 4, 8 ]
-q.heapSort()
-q.print() // [ 8, 7, 6, 5, 4, 3, 2, 1 ]
+export { MinPriorityQueue }

@@ -26,4 +26,4 @@ const ReverseNumber = (number) => {
   return reverseNumber
 }
 
-module.exports = ReverseNumber
+export { ReverseNumber }

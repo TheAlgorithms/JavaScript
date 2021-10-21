@@ -4,7 +4,7 @@
 * element one by one from unsorted part; insert into the sorted part at
 * the correct position and expand sorted part one element at a time.
 */
-function insertionSort (unsortedList) {
+export function insertionSort (unsortedList) {
   const len = unsortedList.length
   for (let i = 1; i < len; i++) {
     let j
@@ -19,7 +19,3 @@ function insertionSort (unsortedList) {
     unsortedList[j + 1] = tmp
   }
 }
-
-const arr = [5, 3, 1, 2, 4, 8, 3, 8]
-insertionSort(arr)
-console.log(arr)
