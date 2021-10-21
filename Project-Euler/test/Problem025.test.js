@@ -1,4 +1,4 @@
-import { fibonacciIndex } from '.../Problem025'
+import { fibonacciIndex } from '../Problem025'
 
 describe ('Check Problem 25 - 1000 digit Fibonnaci number', () => {
     it('First term of the Fibonnaci sequence containing 3 digits', () => {
