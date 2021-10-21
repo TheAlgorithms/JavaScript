@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@ducanh4531](https://github.com/ducanh4531)
+
 - [@AADHISM](https://github.com/AADHISM)
 
 - [@kylengn](https://github.com/kylengn)
