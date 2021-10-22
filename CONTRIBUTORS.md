@@ -22,6 +22,8 @@
 
 - [@mattlayton1986](https://github.com/mattlayton1986)
 
--[@Lakshya3119](https://github.com/Lakshya3119)
+- [@Lakshya3119](https://github.com/Lakshya3119)
 
--[@Bryan11](https://github.com/namocbryan11)
+- [@Bryan11](https://github.com/namocbryan11)
+
+- [@huzmasood](https://github.com/huzmasood)
