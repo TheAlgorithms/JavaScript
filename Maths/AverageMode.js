@@ -20,7 +20,7 @@ const averageMode = numbersList => {
       result.push(v)
     }
   })
-  if(result.length == 1){
+  if(result.length === 1){
     return parseFloat(result[0])
   }else{
     result.forEach((v,i)=>{
