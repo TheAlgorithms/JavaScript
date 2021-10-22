@@ -1,7 +1,7 @@
 /* SinglyLinkedList!!
-* A linked list is implar to an array, it hold values.
+* A linked list is similar to an array, it holds a list of values.
 * However, links in a linked list do not have indexes. With
-* a linked list you do not need to predetermine it's size as
+* a linked list you do not need to predetermine its size as
 * it grows and shrinks as it is edited. This is an example of
 * a singly linked list.
 */
@@ -17,7 +17,7 @@ const LinkedList = (function () {
     this.head = null
   }
 
-  // class node (constructor)
+  // Class node (constructor)
   // Creating Node with element's value
   const Node = (function () {
     function Node (element) {
@@ -46,12 +46,12 @@ const LinkedList = (function () {
     } else {
       let currentNode = this.head
 
-      // Loop till there is node present in the list
+      // Loop till there is a node present in the list
       while (currentNode.next) {
         currentNode = currentNode.next
       }
 
-      // Adding node to the end of the list
+      // Adding node at the end of the list
       currentNode.next = node
     }
     // Increment the length

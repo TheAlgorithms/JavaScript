@@ -216,6 +216,7 @@
   * [Problem016](https://github.com/TheAlgorithms/Javascript/blob/master/Project-Euler/Problem016.js)
   * [Problem018](https://github.com/TheAlgorithms/Javascript/blob/master/Project-Euler/Problem018.js)
   * [Problem020](https://github.com/TheAlgorithms/Javascript/blob/master/Project-Euler/Problem020.js)
+  * [Problem023](https://github.com/TheAlgorithms/Javascript/blob/master/Project-Euler/Problem023.js)
   * [Problem025](https://github.com/TheAlgorithms/Javascript/blob/master/Project-Euler/Problem025.js)
 
 ## Recursive
