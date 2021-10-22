@@ -1,5 +1,5 @@
 /* SinglyLinkedList!!
-* A linked list is similar to an array, it holds values.
+* A linked list is similar to an array, it holds a list of values.
 * However, links in a linked list do not have indexes. With
 * a linked list you do not need to predetermine its size as
 * it grows and shrinks as it is edited. This is an example of
