@@ -21,5 +21,3 @@ describe('Check Problem 23 - Non-Abundant Sums', () => {
     expect(sumOfNonAbundantNumbers(30000)).toBe(4179871)
   })
 })
-
-
