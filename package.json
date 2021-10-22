@@ -6,7 +6,7 @@
   "main": "",
   "scripts": {
     "test": "jest --no-cache",
-    "style": "standard --fix"
+    "style": "standard"
   },
   "author": "TheAlgorithms",
   "license": "GPL-3.0",
