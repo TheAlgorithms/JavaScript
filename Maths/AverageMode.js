@@ -16,7 +16,7 @@ const averageMode = numbersList => {
     if(objCount[v]>bigger){
       result = [v];
       bigger = objCount[v];
-    }else if(objCount[v] == bigger){
+    }else if(objCount[v] === bigger){
       result.push(v)
     }
   })
