@@ -33,14 +33,12 @@ class GraphUnweightedUndirected {
   }
 }
 
-function main () {
-  const graph = new GraphUnweightedUndirected()
-  graph.addEdge(1, 2)
-  graph.addEdge(2, 3)
-  graph.addEdge(2, 4)
-  graph.addEdge(3, 5)
-  console.log(graph.DFSRecursive(5, 1))
-  console.log(graph.DFSRecursive(5, 100))
-}
+export { GraphUnweightedUndirected }
 
-main()
+// const graph = new GraphUnweightedUndirected()
+// graph.addEdge(1, 2)
+// graph.addEdge(2, 3)
+// graph.addEdge(2, 4)
+// graph.addEdge(3, 5)
+// graph.DFSRecursive(5, 1)
+// graph.DFSRecursive(5, 100)

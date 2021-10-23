@@ -22,12 +22,11 @@ function longestCommonSubsequence (x, y, str1, str2, dp) {
   }
 }
 
-function main () {
-  const str1 = 'ABCDGH'
-  const str2 = 'AEDFHR'
-  const dp = new Array(str1.length + 1).fill(0).map(x => new Array(str2.length + 1).fill(0))
-  const res = longestCommonSubsequence(str1.length - 1, str2.length - 1, str1, str2, dp)
-  console.log(res)
-}
+// Example
 
-main()
+// const str1 = 'ABCDGH'
+// const str2 = 'AEDFHR'
+// const dp = new Array(str1.length + 1).fill(0).map(x => new Array(str2.length + 1).fill(0))
+// const res = longestCommonSubsequence(str1.length - 1, str2.length - 1, str1, str2, dp)
+
+export { longestCommonSubsequence }

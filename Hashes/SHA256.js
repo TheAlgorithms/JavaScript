@@ -185,4 +185,4 @@ function SHA256 (message) {
 }
 
 // export SHA256 function
-module.exports = SHA256
+export { SHA256 }

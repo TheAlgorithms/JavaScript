@@ -26,21 +26,18 @@ const minCostPath = (matrix) => {
   return moves[n - 1][m - 1]
 }
 
-const main = () => {
-  console.log(
-    minCostPath([
-      [2, 1],
-      [3, 1],
-      [4, 2]
-    ])
-  )
-  console.log(
-    minCostPath([
-      [2, 1, 4],
-      [2, 1, 3],
-      [3, 2, 1]
-    ])
-  )
-}
+export { minCostPath }
 
-main()
+// Example
+
+// minCostPath([
+//   [2, 1],
+//   [3, 1],
+//   [4, 2]
+// ])
+
+// minCostPath([
+//   [2, 1, 4],
+//   [2, 1, 3],
+//   [3, 2, 1]
+// ])

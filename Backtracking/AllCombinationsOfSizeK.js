@@ -25,19 +25,21 @@ class Combinations {
   constructor (n, k) {
     this.n = n
     this.k = k
-    this.combinationArray = [] // will be used for storing current combination
+    this.current = [] // will be used for storing current combination
+    this.combinations = []
   }
 
   findCombinations (high = this.n, total = this.k, low = 1) {
     if (total === 0) {
-      console.log(this.combinationArray)
-      return
+      this.combinations.push([...this.current])
+      return this.combinations
     }
     for (let i = low; i <= high; i++) {
-      this.combinationArray.push(i)
+      this.current.push(i)
       this.findCombinations(high, total - 1, i + 1)
-      this.combinationArray.pop()
+      this.current.pop()
     }
+    return this.combinations
   }
 }
 

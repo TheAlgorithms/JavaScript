@@ -32,4 +32,4 @@ const LowerCaseConversion = (inputString) => {
   return newString.join('')
 }
 
-module.exports = LowerCaseConversion
+export { LowerCaseConversion }

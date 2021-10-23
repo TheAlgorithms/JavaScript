@@ -19,11 +19,11 @@ function maximumNonAdjacentSum (nums) {
   return Math.max(maxExcluding, maxIncluding)
 }
 
-function main () {
-  console.log(maximumNonAdjacentSum([1, 2, 3]))
-  console.log(maximumNonAdjacentSum([1, 5, 3, 7, 2, 2, 6]))
-  console.log(maximumNonAdjacentSum([-1, -5, -3, -7, -2, -2, -6]))
-  console.log(maximumNonAdjacentSum([499, 500, -3, -7, -2, -2, -6]))
-}
+// Exmaple
 
-main()
+// maximumNonAdjacentSum([1, 2, 3]))
+// maximumNonAdjacentSum([1, 5, 3, 7, 2, 2, 6]))
+// maximumNonAdjacentSum([-1, -5, -3, -7, -2, -2, -6]))
+// maximumNonAdjacentSum([499, 500, -3, -7, -2, -2, -6]))
+
+export { maximumNonAdjacentSum }

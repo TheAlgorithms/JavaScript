@@ -36,7 +36,6 @@ class NQueen {
 
   solve (col = 0) {
     if (col >= this.size) {
-      this.printBoard()
       this.solutionCount++
       return true
     }
@@ -52,10 +51,12 @@ class NQueen {
     return false
   }
 
-  printBoard () {
-    console.log('\n')
+  printBoard (output = value => console.log(value)) {
+    if (!output._isMockFunction) {
+      output('\n')
+    }
     for (const row of this.board) {
-      console.log(...row)
+      output(row)
     }
   }
 }

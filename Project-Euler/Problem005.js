@@ -5,7 +5,7 @@ Smallest multiple
 What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 20?
 */
 
-const findSmallestMultiple = () => {
+export const findSmallestMultiple = () => {
   const divisors = [20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2]
   let num = 21
   let result
@@ -18,5 +18,3 @@ const findSmallestMultiple = () => {
 
   return result
 }
-
-console.log(findSmallestMultiple())

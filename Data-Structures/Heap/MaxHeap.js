@@ -71,15 +71,15 @@ class BinaryHeap {
   }
 }
 
-const maxHeap = new BinaryHeap()
-maxHeap.insert([4])
-maxHeap.insert([3])
-maxHeap.insert([6])
-maxHeap.insert([1])
-maxHeap.insert([8])
-maxHeap.insert([2])
+// Example
 
-while (!maxHeap.empty()) {
-  const mx = maxHeap.extractMax()
-  console.log(mx)
-}
+// const maxHeap = new BinaryHeap()
+// maxHeap.insert([4])
+// maxHeap.insert([3])
+// maxHeap.insert([6])
+// maxHeap.insert([1])
+// maxHeap.insert([8])
+// maxHeap.insert([2])
+// const mx = maxHeap.extractMax()
+
+export { BinaryHeap }

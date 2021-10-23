@@ -18,14 +18,9 @@ function sieveOfEratosthenes (n) {
   return primes
 }
 
-function main () {
-  const n = 69 // number till where we wish to find primes
-  const primes = sieveOfEratosthenes(n)
-  for (let i = 2; i <= n; i++) {
-    if (primes[i]) {
-      console.log(i)
-    }
-  }
-}
+// Example
 
-main()
+// const n = 69 // number till where we wish to find primes
+// const primes = sieveOfEratosthenes(n)
+
+export { sieveOfEratosthenes }

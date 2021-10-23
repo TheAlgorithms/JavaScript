@@ -21,13 +21,15 @@ class Graph {
     return result
   }
 
-  printGraph () {
+  printGraph (output = value => console.log(value)) {
     const keys = Object.keys(this.adjacencyMap)
     for (const i of keys) {
       const values = this.adjacencyMap[i]
       let vertex = ''
-      for (const j of values) { vertex += j + ' ' }
-      console.log(i + ' -> ' + vertex)
+      for (const j of values) {
+        vertex += j + ' '
+      }
+      output(i + ' -> ' + vertex)
     }
   }
 
@@ -36,7 +38,7 @@ class Graph {
    *
    * @param {number} source The source vertex to start BFS.
    */
-  bfs (source) {
+  bfs (source, output = value => console.log(value)) {
     const queue = []
     const visited = new Set()
     queue.unshift([source, 0]) // level of source is 0
@@ -46,7 +48,7 @@ class Graph {
       const node = front[0]
       const level = front[1]
       queue.shift() // remove the front of the queue
-      console.log(`Visited node ${node} at level ${level}.`)
+      output(`Visited node ${node} at level ${level}.`)
       for (const next of this.adjacencyMap[node]) {
         if (!visited.has(next)) { // not visited
           queue.unshift([next, level + 1]) // level 1 more than current
@@ -68,11 +70,12 @@ const example = () => {
   g.addEdge(1, 3)
   g.addEdge(2, 4)
   g.addEdge(2, 5)
-  console.log('Printing the adjacency list:\n')
-  g.printGraph()
 
-  // perform a breadth first search
-  console.log('\nBreadth first search at node 1:\n')
+  // Printing the adjacency list
+  // g.printGraph()
+
+  // Breadth first search at node 1
   g.bfs(1)
 }
-example()
+
+export { Graph, example }

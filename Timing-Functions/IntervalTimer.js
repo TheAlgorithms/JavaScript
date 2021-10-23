@@ -63,7 +63,7 @@ class IntervalTimer {
  * Saturday, 01 August 2020 8:33 AM
  * @description Example usage
  */
-const ExampleIntervalTimer = function () {
+const ExampleIntervalTimer = function (output = v => console.log(v)) {
   /**
    * Create am object with default settings.
    * @type {IntervalTimer} Used to get timing information.
@@ -82,12 +82,12 @@ const ExampleIntervalTimer = function () {
 
   // ... A test ...
   // The time taken to run the test.
-  console.log(timer.getElapsedTime(initOffset))
+  output(timer.getElapsedTime(initOffset))
 
   /**
    * Returns the elapsed time and resets the timer to 0.
    */
-  console.log(timer.resetTimer())
+  output(timer.resetTimer())
 }
 
-ExampleIntervalTimer()
+export { IntervalTimer, ExampleIntervalTimer }
