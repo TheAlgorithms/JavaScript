@@ -43,6 +43,7 @@
   * [DecimalToHex](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/DecimalToHex.js)
   * [DecimalToOctal](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/DecimalToOctal.js)
   * [DecimalToRoman](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/DecimalToRoman.js)
+  * [HexToBinary](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/HexToBinary.js)
   * [HexToDecimal](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/HexToDecimal.js)
   * [HexToRGB](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/HexToRGB.js)
   * [LowerCaseConversion](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/LowerCaseConversion.js)
