@@ -30,7 +30,7 @@ const hexToBinary = (hexString) => {
 
   const hexLexemes = hexString.split('')
   hexLexemes.map(lexeme => binLookup(lexeme))
-  return result
+  return hexLexemes.join('')
 }
 
 export default hexToBinary
