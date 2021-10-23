@@ -1,4 +1,4 @@
-export const binaryToDecimal = (binaryString) => {
+export default function binaryToDecimal (binaryString) {
   let decimalNumber = 0
   const binaryDigits = binaryString.split('').reverse() // Splits the binary number into reversed single digits
   binaryDigits.forEach((binaryDigit, index) => {
@@ -6,9 +6,3 @@ export const binaryToDecimal = (binaryString) => {
   })
   return decimalNumber
 }
-
-// > binaryToDecimal('111001')
-// 57
-
-// > binaryToDecimal('101')
-// 5

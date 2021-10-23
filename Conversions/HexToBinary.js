@@ -27,7 +27,6 @@ const hexToBinary = (hexString) => {
     2. Conversion goes by searching in the lookup table
 
     */
-
   const hexLexemes = hexString.split('')
   hexLexemes.map(lexeme => binLookup(lexeme))
   return hexLexemes.join('')

@@ -43,6 +43,7 @@
   * [DecimalToHex](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/DecimalToHex.js)
   * [DecimalToOctal](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/DecimalToOctal.js)
   * [DecimalToRoman](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/DecimalToRoman.js)
+  * [HexToBinary](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/HexToBinary.js)
   * [HexToDecimal](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/HexToDecimal.js)
   * [HexToRGB](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/HexToRGB.js)
   * [LowerCaseConversion](https://github.com/TheAlgorithms/Javascript/blob/master/Conversions/LowerCaseConversion.js)
@@ -194,6 +195,7 @@
   * [Softmax](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/Softmax.js)
   * [SquareRoot](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/SquareRoot.js)
   * [SumOfDigits](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/SumOfDigits.js)
+  * [SumOfGeometricProgression](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/SumOfGeometricProgression.js)
   * [Volume](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/Volume.js)
   * [WhileLoopFactorial](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/WhileLoopFactorial.js)
 
