@@ -28,7 +28,6 @@ const hexToBinary = (hexString) => {
 
     */
 
-  let result = ''
   const hexLexemes = hexString.split('')
   hexLexemes.map(lexeme => binLookup(lexeme))
   return result
