@@ -194,6 +194,7 @@
   * [Softmax](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/Softmax.js)
   * [SquareRoot](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/SquareRoot.js)
   * [SumOfDigits](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/SumOfDigits.js)
+  * [SumOfGeometricProgression](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/SumOfGeometricProgression.js)
   * [Volume](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/Volume.js)
   * [WhileLoopFactorial](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/WhileLoopFactorial.js)
 
