@@ -29,7 +29,7 @@ const hexToBinary = (hexString) => {
     */
 
   let result = ''
-  hexString = hexString.split('')
+  const hexLexemes = hexString.split('')
   hexString.forEach(c => { result += binLookup(c) })
   return result
 }
