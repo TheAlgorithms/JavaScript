@@ -13,7 +13,7 @@
 /**
  * @param {Number} index The position of the number you want to get from the Lucas Series
  */
-function loopLucas (index) {
+function lucas (index) {
   // index can't be negative
   if (index < 0) throw new RangeError('Index cannot be Negative')
 
@@ -30,4 +30,4 @@ function loopLucas (index) {
   return a
 }
 
-export { loopLucas }
+export { lucas }
