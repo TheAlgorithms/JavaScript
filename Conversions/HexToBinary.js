@@ -21,17 +21,14 @@ const binLookup = (c) => {
 }
 const hexToBinary = (hexString) => {
   /*
-    Function for convertung Hex to Binary
+    Function for converting Hex to Binary
 
     1. We convert every hexadecimal bit to 4 binary bits
     2. Conversion goes by searching in the lookup table
 
     */
-
-  let result = ''
-  hexString = hexString.split('')
-  hexString.forEach(c => { result += binLookup(c) })
-  return result
+  const hexLexemes = hexString.split('')
+  return hexLexemes.map(lexeme => binLookup(lexeme)).join('')
 }
 
 export default hexToBinary
