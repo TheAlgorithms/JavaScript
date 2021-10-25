@@ -1,50 +1,50 @@
 # CONTRIBUTORS
 
--[@AADHISM](https://github.com/AADHISM)
+- [@ducanh4531](https://github.com/ducanh4531)
 
-- [@kylengn](https://github.com/kylengn)
+- [@AADHISM](https://github.com/AADHISM)
 
-- [@nataliarossini](https://github.com/nataliarossini)
+- [@mengo6988](https://github.com/mengo6988)
 
-- [@niveshbirangal](https://github.com/niveshbirangal)
+- [@AjinkyaBhagat](https://github.com/AjinkyaBhagat)
 
-- [@0000x582d6976](https://github.com/0000x582d6976)
+- [@rainerita](https://github.com/rainerita)
 
-- [@6586rajan](https://github.com/6586rajan)
+- [@got0values](https://github.com/got0values)
 
-- [@98989898](https://github.com/98989898)
+- [@balloon-pin](https://github.com/balloon-pin)
 
-- [@AJLM10](https://github.com/AJLM10)
+- [@christopherjason](https://github.com/christopherjason)
 
-- [@ALanq93](https://github.com/ALanq93/)
+- [@SyedMuhammedAbbas](https://github.com/SyedMuhammedAbbas)
 
-- [@AStarrs](https://github.com/AStarrs/)
+- [@Hamza-ben-yaflah](https://github.com/Hamza-ben-yaflah)
 
-- [@Aadi2001](https://github.com/Aadi2001)
+- [@mattlayton1986](https://github.com/mattlayton1986)
 
-- [@Abdulmalik](https://github.com/abdulmalik-ayorinde)
+- [@Lakshya3119](https://github.com/Lakshya3119)
 
-- [@Abideenprogram](https://github.com/Abideen-program/)
+- [@Bryan11](https://github.com/namocbryan11)
 
-- [@Abishek3896](https://github.com/Abishek3896)
+- [@huzmasood](https://github.com/huzmasood)
 
-- [@AdamAlRahman](https://github.com/Adam-Al-Rahman)
+- [@Tavi2021](https://github.com/Tavi2021)
 
-- [@Adeyemitj](https://github.com/Adeyemitj)
+- [@mallodev](https://github.com/mallodev)
 
-- [@AdityaBojja](https://github.com/Aditya-Bojja)
+- [@phanatagama](https://github.com/phanatagama)
 
-- [@AhsanRaza059](https://github.com/AhsanRaza059)
+- [@andreidra](https://github.com/andreidra/)
 
-- [@Aishwarode17](https://github.com/Aishwarode17)
+- [@caffeine-coder25](https://github.com/caffeine-coder25)
 
-- [@Ajinkya718](https://github.com/Ajinkya718)
+- [@nicu-chiriac](https://github.com/nicu-chiriac)
 
-- [@Akashkumar2898](https://github.com/Akashkumar2898)
+- [@VimuKale](https://github.com/VimuKale)
 
-- [@AmitMorade](https://github.com/Amit-Morade)
+- [@MPetrushanskyi](https://github.com/MPetrushanskyi)
 
-- [@Anco2](https://github.com/Anco2)
+- [@gulraiznoorbari](https://github.com/gulraiznoorbari)
 
 - [@AndyBowskill](https://github.com/AndyBowskill)
 
@@ -1194,3 +1194,5 @@
 - [@Psalmseen](https://github.com/Psalmseen/)
 
 - [@zahidfck](https://github.com/zahidfck/)
+
+- [@Sofbog](https://github.com/sofbog)
