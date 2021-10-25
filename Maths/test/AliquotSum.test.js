@@ -5,11 +5,11 @@ describe('Aliquot Sum of a Number', () => {
     expect(aliquotSum(6)).toBe(6)
   })
 
-  it('Aliquot Sum of -1', () => {
-    expect(aliquotSum(-1)).toThrow()
+  it('Aliquot Sum of 1', () => {
+    expect(aliquotSum(1)).toBe(0)
   })
 
-  it('Aliquot Sum of 10.5', () => {
-    expect(aliquotSum(10.5)).toThrow()
+  it('Aliquot Sum of 28', () => {
+    expect(aliquotSum(28)).toBe(28)
   })
 })
