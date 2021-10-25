@@ -41,3 +41,5 @@
 - [@nicu-chiriac](https://github.com/nicu-chiriac)
 
 - [@VimuKale](https://github.com/VimuKale)
+
+- [@MPetrushanskyi](https://github.com/MPetrushanskyi)
