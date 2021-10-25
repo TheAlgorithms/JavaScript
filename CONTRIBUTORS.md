@@ -43,3 +43,5 @@
 - [@VimuKale](https://github.com/VimuKale)
 
 - [@MPetrushanskyi](https://github.com/MPetrushanskyi)
+
+- [@Atrix21](https://github.com/Atrix21)
