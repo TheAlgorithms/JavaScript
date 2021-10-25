@@ -45,3 +45,5 @@
 - [@MPetrushanskyi](https://github.com/MPetrushanskyi)
 
 - [@gulraiznoorbari](https://github.com/gulraiznoorbari)
+
+- [@Hazichomwarr] (https://github.com/Hazichomwarr)
