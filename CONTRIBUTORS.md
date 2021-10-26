@@ -67,3 +67,5 @@
 - [@vagison](https://github.com/vagison)
 
 - [@HayleyPfleghaar](https://github.com/HayleyPfleghaar)
+
+- [@SergiuPlesco](https://github.com/SergiuPlesco)
