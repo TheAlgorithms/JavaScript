@@ -66,4 +66,4 @@
 
 - [@vagison](https://github.com/vagison)
 
--[@HayleyPfleghaar](https://github.com/HayleyPfleghaar)
+- [@HayleyPfleghaar](https://github.com/HayleyPfleghaar)
