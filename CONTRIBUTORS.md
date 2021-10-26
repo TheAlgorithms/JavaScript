@@ -63,5 +63,3 @@
 - [@ClementS03](https://github.com/ClementS03)
 
 - [@zahidfck](https://github.com/zahidfck)
-
-- [@vagison](https://github.com/vagison)
