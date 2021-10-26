@@ -246,6 +246,7 @@
   * [SlidingWindow](https://github.com/TheAlgorithms/Javascript/blob/master/Search/SlidingWindow.js)
   * [StringSearch](https://github.com/TheAlgorithms/Javascript/blob/master/Search/StringSearch.js)
   * [TernarySearch](https://github.com/TheAlgorithms/Javascript/blob/master/Search/TernarySearch.js)
+  * [UnionFind](https://github.com/TheAlgorithms/Javascript/blob/master/Search/UnionFind.js)
 
 ## Sorts
   * [BeadSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/BeadSort.js)
