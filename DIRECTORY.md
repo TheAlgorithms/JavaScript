@@ -140,6 +140,7 @@
 
 ## Maths
   * [Abs](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/Abs.js)
+  * [AliquotSum](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/AliquotSum.js)
   * [Area](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/Area.js)
   * [ArmstrongNumber](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/ArmstrongNumber.js)
   * [AverageMean](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/AverageMean.js)
