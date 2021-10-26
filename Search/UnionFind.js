@@ -1,9 +1,12 @@
+//union find data structure for javascript
 function UnionFind(n, key) {
 	if (!(this instanceof UnionFind)) return new UnionFind(n);
 	if (key && typeof key != 'function') {
 		throw new Error("key has to be a function or else left undefined");
 	}
 	var cnt, id, sz, length;
+	// init Union Find with number of distinct groups. Each group will be referred to as index of the array of size 'size' starting at 0. 
+	// Provide an optional key function that maps these indices. I.e. for the groups starting with 1 provide function(a){return a-1;}. The default value is function(a){return a;}.
 	key = key || function(a){ return a; };
 	cnt = length = n;
 	id = new Array(n);
@@ -12,12 +15,15 @@ function UnionFind(n, key) {
 		id[i] = i;
 		sz[i] = 1;
 	}
+	// Returns the number of elements of uf object.
 	this.size = function() {
 		return length;
 	};
+	//Returns the number of distinct groups left inside the object.
 	this.count = function() {
 		return cnt;
 	};
+	// Return the root (value) of the group in which p is.
 	this.find = function (p) {
 		p = key(p);
 		while (p != id[p]) {
@@ -26,12 +32,14 @@ function UnionFind(n, key) {
 		}
 		return p;
 	};
+	//Returns true if p and p are both in same group, false otherwise.
 	this.connected = function(p, q){
 		p = key(p);
 		q = key(q);
 		ensureIndexWithinBounds(p, q);
 		return this.find(p) === this.find(q);
 	};
+	// Combine elements in groups p and q into a single group. In other words connect the two groups.
 	this.union = function(p, q){
 		p = key(p);
 		q = key(q);
@@ -47,7 +55,6 @@ function UnionFind(n, key) {
 		cnt--;
 		return;
 	};
-
 	function ensureIndexWithinBounds(args) {
 		for (var i = arguments.length - 1; i >= 0; i--) {
 			var p = arguments[i];
