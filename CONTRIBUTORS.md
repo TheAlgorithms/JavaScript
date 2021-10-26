@@ -57,3 +57,5 @@
 - [@MooglyOogly](https://github.com/MooglyOogly)
 
 - [@seemranxec](https://github.com/seemranxec)
+
+- [@DanielVierh](https://github.com/DanielVierh)
