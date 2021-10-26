@@ -71,3 +71,5 @@
 - [@SergiuPlesco](https://github.com/SergiuPlesco)
 
 - [@Neixiiss](https://github.com/Neixiiss)
+
+- [@dcmorales](https://github.com/dcmorales)
