@@ -69,3 +69,5 @@
 - [@HayleyPfleghaar](https://github.com/HayleyPfleghaar)
 
 - [@SergiuPlesco](https://github.com/SergiuPlesco)
+
+- [@Neixiiss](https://github.com/Neixiiss)
