@@ -1,4 +1,19 @@
-//union find data structure for javascript
+/**
+ * union find data structure for javascript
+ *
+ * In computer science, a disjoint-set data structure, also called a union–find data structure or merge–find set, 
+ * is a data structure that stores a collection of disjoint (non-overlapping) sets. Equivalently, it stores a partition 
+ * of a set into disjoint subsets. It provides operations for adding new sets, merging sets (replacing them by their union), 
+ * and finding a representative member of a set. 
+ * The last operation allows to find out efficiently if any two elements are in the same or different sets.
+ *
+ * Disjoint-set data structures play a key role in Kruskal's algorithm for finding the minimum spanning tree of a graph. 
+ * The importance of minimum spanning trees means that disjoint-set data structures underlie a wide variety of algorithms. 
+ * In addition, disjoint-set data structures also have applications to symbolic computation, as well in compilers, 
+ * especially for register allocation problems.
+ * 
+ * you can learn more on disjoint-set / union–find data structure at https://en.wikipedia.org/wiki/Disjoint-set_data_structure
+ */
 function UnionFind(n, key) {
 	if (!(this instanceof UnionFind)) return new UnionFind(n);
 	if (key && typeof key != 'function') {
