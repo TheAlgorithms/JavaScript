@@ -59,3 +59,5 @@
 - [@seemranxec](https://github.com/seemranxec)
 
 - [@darmcwil](https://github.com/darmcwil)
+
+- [@ClementS03](https://github.com/ClementS03)
