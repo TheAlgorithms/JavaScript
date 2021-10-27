@@ -1,12 +1,29 @@
+/**
+ *   Min Heap is one of the two Binary Heap types (the other is Max Heap)
+ *   which maintains the smallest value of its input array on top and remaining values in loosely (but not perfectly sorted) order.
+ *   
+ *   Min Heaps can be expressed as a 'complete' binary tree structure 
+ *   (in which all levels of the binary tree are filled, with the exception of the last level which must be filled left-to-right).
+ * 
+ *   However the Min Heap class below expresses this tree structure as an array 
+ *   which represent the binary tree node values in an array ordered from root-to-leaf, left-to-right.
+ * 
+ *   In the array representation, the parent node-child node relationship is such that the
+ *      * parent index relative to its two children are: (parentIdx * 2) and (parent * 2 + 1)
+ *      * and either child's index position relative to its parent is: Math.floor((childIdx-1)/2)
+ * 
+ *   The parent and respective child values define much of heap behavior as we continue to sort or not sort depending on their values.
+ *      * The parent value must be less than or equal to either child's value.
+ *   
+ *   This is a condensed overview but for more information and visuals here is a nice read: https://www.geeksforgeeks.org/binary-heap/
+ */
+
 class MinHeap {
     constructor(array) {
         this.heap = this.initializeHeap(array);
     }
 
     /**
-     *   a parent index relative to its two children are: (parentIdx * 2) and (parent * 2 + 1)
-     *   therefore (either) child's position relative to its parent is: Math.floor((childIdx-1)/2)
-     *   
      *   startingParent represents the parent of the last index (=== array.length-1)
      *   and iterates towards 0 with all index values below sorted to meet heap conditions
      */
