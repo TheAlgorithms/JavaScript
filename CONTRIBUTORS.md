@@ -1849,6 +1849,8 @@
 
 - [@jjrock36](https://github.com/jjrock36)
 
+- [@zahidfck](https://github.com/zahidfck)
+
 - [@jkagawa](https://github.com/jkagawa)
 
 - [@jlangenhagen](https://github.com/jlangenhagen)
