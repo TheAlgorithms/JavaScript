@@ -65,6 +65,7 @@
     * [Graph2](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Graph/Graph2.js)
   * Heap
     * [MaxHeap](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Heap/MaxHeap.js)
+    * [MinHeap](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Heap/MinHeap.js)
     * [MinPriorityQueue](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Heap/MinPriorityQueue.js)
   * Linked-List
     * [CycleDetection](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Linked-List/CycleDetection.js)
