@@ -1185,3 +1185,10 @@
 - [@azolag98](https://github.com/azolag98/)
 
 - [@AV2001](https://github.com/AV2001)
+
+- [@JyotiKumari2](https://github.com/JyotiKumari2)
+
+- [@Zero-max-ai](https://github.com/Zero-max-ai/)
+
+
+
