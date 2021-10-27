@@ -81,3 +81,5 @@
 - [@Glowczyns](https://github.com/Glowczyns)
 
 - [@dknsapatin](https://github.com/dknsapatin)
+
+- [@KennyMcGeoch](https://github.com/KennyMcGeoch/)
