@@ -74,6 +74,6 @@
 
 - [@dcmorales](https://github.com/dcmorales)
 
-- [@Beekaybanky](https://github.com/Beekaybanky)
-
 - [@SahilChandravanshi](https://github.com/SahilChandravanshi)
+
+- [@Beekaybanky](https://github.com/Beekaybanky)
