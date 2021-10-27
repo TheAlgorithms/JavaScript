@@ -9,25 +9,25 @@ describe('MinHeap', () => {
   })
 
   it('should initialize a heap from an input array', () => {
-    expect(heap).toEqual({"heap": [1, 4, 2, 7, 16, 10, 39, 23, 9, 43, 85, 42, 51]})
+    expect(heap).toEqual({ 'heap': [1, 4, 2, 7, 16, 10, 39, 23, 9, 43, 85, 42, 51] })   // eslint-disable-line
   })
 
   it('should show the top value in the heap', () => {
-    const minValue = heap.peek() 
+    const minValue = heap.peek()
 
     expect(minValue).toEqual(1)
   })
 
   it('should remove and return the top value in the heap', () => {
-    const minValue = heap.extractMin() 
+    const minValue = heap.extractMin()
 
     expect(minValue).toEqual(1)
-    expect(heap).toEqual({"heap": [2, 4, 10, 7, 16, 42, 39, 23, 9, 43, 85, 51]})
+    expect(heap).toEqual({ 'heap': [2, 4, 10, 7, 16, 42, 39, 23, 9, 43, 85, 51] })      // eslint-disable-line
   })
 
-   it('should insert a new value and sort until it meets heap conditions', () => {
+  it('should insert a new value and sort until it meets heap conditions', () => {
     heap.insert(15)
 
-    expect(heap).toEqual({"heap": [2, 4, 10, 7, 16, 15, 39, 23, 9, 43, 85, 51, 42]})
+    expect(heap).toEqual({ 'heap': [2, 4, 10, 7, 16, 15, 39, 23, 9, 43, 85, 51, 42] })  // eslint-disable-line
   })
 })
