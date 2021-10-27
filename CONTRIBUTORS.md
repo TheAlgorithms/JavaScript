@@ -1120,4 +1120,8 @@
 
 - [@Phil-Elliott](https://github.com/Phil-Elliott)
 
+- [@Danny4life](https://github.com/Danny4life/)
+
+- [@PenelopeJoice14](https://github.com/PenelopeJoice14/)
+
 - [@MirnaKvc](https://github.com/MirnaKvc)
