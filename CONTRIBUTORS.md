@@ -1150,4 +1150,8 @@
 
 - [@luistorres0](https://github.com/luistorres0)
 
+- [@Just4CodingNow](https://github.com/Just4CodingNow)
+
 - [@MirnaKvc](https://github.com/MirnaKvc)
+
+- [@TeodoraMM](https://github.com/TeodoraMM)
