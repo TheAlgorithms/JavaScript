@@ -1,4 +1,4 @@
-import {IsPowerOfTwo} from '../IsPowerOfTwo'
+import { IsPowerOfTwo } from '../IsPowerOfTwo'
 
 test('Check if 0 is a power of 2 or not:', () => {
   const res = IsPowerOfTwo(0)
