@@ -24,13 +24,12 @@
 
 function integralEvaluation(N, a, b, func) {
     // Check if N is an even integer
-    let isNEven = (N) => {
-        if(N%2  ===  0)
-            return true;
-        return false;
-    }
+    let isNEven = true;
+    if(N%2 !== 0) isNEven = false;
+
     if(!Number.isInteger(N) || Number.isNaN(a) || Number.isNaN(b)) { throw new TypeError("Expected integer N and finite a, b"); }
     if(!isNEven) { throw "N is not an even number"; }
+    if(N <= 0) { throw "N has to be >= 2"; }
 
     // Check if a < b
     if(a > b) { throw "a must be less or equal than b"; }

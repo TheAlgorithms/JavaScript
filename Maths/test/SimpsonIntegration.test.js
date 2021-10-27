@@ -1,4 +1,4 @@
-import { integralEvaluation } from "./SimpsonIntegration"; 
+import { integralEvaluation } from "../SimpsonIntegration"; 
 
 test("Should return the integral of f(x) = sqrt(x) in [1, 3] to be equal 2.797434", () => {
     const result = integralEvaluation(16, 1, 3, (x) => {return Math.sqrt(x);});
