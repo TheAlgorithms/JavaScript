@@ -85,3 +85,5 @@
 - [@KennyMcGeoch](https://github.com/KennyMcGeoch/)
 
 - [@etarasova](https://github.com/etarasova)
+
+- [@dcphantom](https://github.com/dcphantom)
