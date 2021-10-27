@@ -13,7 +13,7 @@ function swap (arr, i, j) {
   arr[j] = tmp
 }
 
-function oddEvenSort (arr) {
+export function oddEvenSort (arr) {
   let sorted = false
   while (!sorted) {
     sorted = true
@@ -31,10 +31,3 @@ function oddEvenSort (arr) {
     }
   }
 }
-const testArray = [5, 6, 7, 8, 1, 2, 12, 14, 5, 3, 2, 2]
-
-// Array before sort
-console.log(testArray)
-oddEvenSort(testArray)
-// Array after sort
-console.log(testArray)

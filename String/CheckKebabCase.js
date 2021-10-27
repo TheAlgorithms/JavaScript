@@ -17,4 +17,4 @@ const CheckKebabCase = (varName) => {
   return pat.test(varName) && !varName.includes('_')
 }
 
-module.exports = CheckKebabCase
+export { CheckKebabCase }

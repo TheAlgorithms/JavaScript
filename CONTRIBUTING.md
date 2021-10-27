@@ -61,6 +61,12 @@ should add unique value.
 * **Example:**`UserProfile.js` is allowed but `userprofile.js`,`Userprofile.js`,`user-Profile.js`,`userProfile.js` are
   not.
 
+#### Module System
+
+We use the [ES Module](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/) system, which bring an official, standardized module system to JavaScript.
+
+It roughly means you will need to use `export` and `import` statements instead of `module.exports` and `require()`.
+
 #### Testing
 
 Be confident that your code works. When was the last time you committed a code change, your build failed, and half of
@@ -125,7 +131,7 @@ function sumOfArray (arrayOfNumbers) {
   return (sum)
 }
 ```
-* 
+*
 * Avoid using global variables and avoid `==`
 * Please use `let` over `var`
 * Please refrain from using `console.log` or any other console methods

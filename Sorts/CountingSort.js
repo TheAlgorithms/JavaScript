@@ -8,7 +8,7 @@
  * Animated Visual: https://www.cs.usfca.edu/~galles/visualization/CountingSort.html
  */
 
-const countingSort = (arr, min, max) => {
+export const countingSort = (arr, min, max) => {
   // Create an auxiliary resultant array
   const res = []
   // Create and initialize the frequency[count] array
@@ -33,11 +33,5 @@ const countingSort = (arr, min, max) => {
 /**
  * Implementation of Counting Sort
  */
-const array = [3, 0, 2, 5, 4, 1]
-// Before Sort
-console.log('\n- Before Sort | Implementation of Counting Sort -')
-console.log(array)
-// After Sort
-console.log('- After Sort | Implementation of Counting Sort -')
-console.log(countingSort(array, 0, 5))
-console.log('\n')
+// const array = [3, 0, 2, 5, 4, 1]
+// countingSort(array, 0, 5)

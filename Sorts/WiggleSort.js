@@ -4,24 +4,18 @@
  *
  */
 
-/* eslint no-extend-native: ["off", { "exceptions": ["Object"] }] */
-Array.prototype.wiggleSort = function () {
-  for (let i = 0; i < this.length; ++i) {
+export const wiggleSort = function (arr) {
+  for (let i = 0; i < arr.length; ++i) {
     const shouldNotBeLessThan = i % 2
-    const isLessThan = this[i] < this[i + 1]
+    const isLessThan = arr[i] < arr[i + 1]
     if (shouldNotBeLessThan && isLessThan) {
-      [this[i], this[i + 1]] = [this[i + 1], this[i]]
+      [arr[i], arr[i + 1]] = [arr[i + 1], arr[i]]
     }
   }
-  return this
+  return arr
 }
 
 // Implementation of wiggle sort
 
-const arr = [3, 5, 2, 1, 6, 4]
-// Array before Wiggle Sort
-console.log(arr) // [3, 5, 2, 1, 6, 4]
-
-arr.wiggleSort()
-// Array after wiggle sort
-console.log(arr) // [ 3, 5, 2, 6, 1, 4 ]
+// > wiggleSort([3, 5, 2, 1, 6, 4])
+// [ 3, 5, 2, 6, 1, 4 ]

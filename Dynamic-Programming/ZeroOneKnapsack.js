@@ -20,7 +20,7 @@ const zeroOneKnapsack = (arr, n, cap, cache) => {
   }
 }
 
-const main = () => {
+const example = () => {
   /*
   Problem Statement:
   You are a thief carrying a single bag with limited capacity S. The museum you stole had N artifact that you could steal. Unfortunately you might not be able to steal all the artifact because of your limited bag capacity.
@@ -39,6 +39,8 @@ const main = () => {
   input = input.trim().split('\n')
   input.shift()
   const length = input.length
+
+  const output = []
 
   let i = 0
   while (i < length) {
@@ -62,9 +64,11 @@ const main = () => {
       cache.push(temp)
     }
     const result = zeroOneKnapsack(newArr, currlen, cap, cache)
-    console.log(result)
+    output.push(result)
     i += currlen + 1
   }
+
+  return output
 }
 
-main()
+export { zeroOneKnapsack, example }

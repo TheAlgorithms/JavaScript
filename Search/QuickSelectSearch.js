@@ -11,7 +11,7 @@
  *
  * [Reference](http://en.wikipedia.org/wiki/Quickselect)
  */
-function quickSelectSearch (array, k) {
+export function quickSelectSearch (array, k) {
   if (!array || array.length <= k) {
     throw new Error('Invalid arguments')
   }
@@ -49,7 +49,7 @@ function quickSelectSearch (array, k) {
 
 /* ---------------------------------- Test ---------------------------------- */
 
-const arr = [1121111, 21, 333, 41, 5, 66, 7777, 28, 19, 11110]
-console.log(quickSelectSearch(arr, 5)) // [ 19, 21, 28, 41, 5, 66, 333, 11110, 1121111, 7777 ]
-console.log(quickSelectSearch(arr, 2)) // [ 19, 5, 21, 41, 28, 333, 11110, 1121111, 7777, 66 ]
-console.log(quickSelectSearch(arr, 7)) // [ 19, 5, 21, 41, 28, 66, 333, 7777, 11110, 1121111 ]
+// const arr = [1121111, 21, 333, 41, 5, 66, 7777, 28, 19, 11110]
+// quickSelectSearch(arr, 5) // [ 19, 21, 28, 41, 5, 66, 333, 11110, 1121111, 7777 ]
+// quickSelectSearch(arr, 2) // [ 19, 5, 21, 41, 28, 333, 11110, 1121111, 7777, 66 ]
+// quickSelectSearch(arr, 7) // [ 19, 5, 21, 41, 28, 66, 333, 7777, 11110, 1121111 ]

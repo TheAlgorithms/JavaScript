@@ -13,8 +13,8 @@ class Month {
     this.monthDaysLeap = [31, 31, 29, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31]
   }
 
-  printCal (days, startDay) {
-    console.log('M   T   W   Th  F   S   Su')
+  printCal (days, startDay, output = value => console.log(value)) {
+    output('M   T   W   Th  F   S   Su')
     const dates = []; let i
     for (i = 1; i <= days; i++) {
       dates.push(i)
@@ -30,7 +30,7 @@ class Month {
           row += ' '
         }
       }
-      console.log(row)
+      output(row)
       if (dates.length === 0) break
     }
   }
@@ -108,6 +108,7 @@ class Month {
   }
 }
 
-// testing
-const x = new Month()
-x.generateMonthCal('1/2021')
+export { Month }
+
+// const x = new Month()
+// x.generateMonthCal('1/2021')

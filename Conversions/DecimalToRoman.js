@@ -40,7 +40,7 @@ const orders = [
 
 function decimalToRoman (num) {
   let roman = ''
-  for (var symbol of orders) {
+  for (const symbol of orders) {
     while (num >= values[symbol]) {
       roman += symbol
       num -= values[symbol]
