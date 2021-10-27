@@ -83,3 +83,5 @@
 - [@dknsapatin](https://github.com/dknsapatin)
 
 - [@KennyMcGeoch](https://github.com/KennyMcGeoch/)
+
+- [@etarasova](https://github.com/etarasova)
