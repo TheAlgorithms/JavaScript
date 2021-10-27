@@ -1152,9 +1152,13 @@
 
 - [@robertWalker68501](https://github.com/robertWalker68501/)
 
-- [@luistorres0](https://github.com/luistorres0)
-
 - [@Just4CodingNow](https://github.com/Just4CodingNow)
+
+- [@Arpigouswami](https://github.com/Arpigouswami)
+
+- [JordanABruce] (https://github.com/JordanABruce)
+
+- [@luistorres0](https://github.com/luistorres0)
 
 - [@MirnaKvc](https://github.com/MirnaKvc)
 
@@ -1166,4 +1170,12 @@
 
 - [@andrewtdunn](https://github.com/andrewtdunn)
 
+- [@weichun0911](https://github.com/WeiChun0911)
+
+- [@Luis-Pinho](https://github.com/Luis-Pinho)
+
+- [@JyotiKumari2](https://github.com/JyotiKumari2)
+
 - [@Hazelle2511](https://github.com/Hazelle2511/)
+
+- [@madamedem](https://github.com/madamedem)
