@@ -1148,4 +1148,6 @@
 
 - [@PenelopeJoice14](https://github.com/PenelopeJoice14/)
 
+- [@luistorres0](https://github.com/luistorres0)
+
 - [@MirnaKvc](https://github.com/MirnaKvc)
