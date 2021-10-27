@@ -1186,8 +1186,12 @@
 
 - [@AV2001](https://github.com/AV2001)
 
+- [@prachidimote](https://github.com/prachidimote)
+
 - [@JyotiKumari2](https://github.com/JyotiKumari2)
 
 - [@Zero-max-ai](https://github.com/Zero-max-ai/)
  
 - [@rahulagrawal26](https://github.com/rahulagrawal26)
+
+- [@incanlove](https://github.com/incanlove)
