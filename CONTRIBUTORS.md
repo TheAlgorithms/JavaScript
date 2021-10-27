@@ -1179,3 +1179,5 @@
 - [@Hazelle2511](https://github.com/Hazelle2511/)
 
 - [@madamedem](https://github.com/madamedem)
+
+- [@azolag98](https://github.com/azolag98/)
