@@ -2363,4 +2363,8 @@
 
 - [@seemranxec](https://github.com/seemranxec)
 
+- [@DEALTALFA](https://github.com/DEALTALFA)
+
 - [@DanielVierh](https://github.com/DanielVierh)
+
+- [@Bulardi](https://github.com/Bulardi/)
