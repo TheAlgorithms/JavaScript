@@ -1122,6 +1122,30 @@
 
 - [@Danny4life](https://github.com/Danny4life/)
 
+- [@bguz](https://github.com/bguz/)
+
+- [@mohsenpasdar](https://github.com/mohsenpasdar/)
+
+- [@Binbaker](https://github.com/Binbaker/)
+
+- [@HiTekRedneck](https://github.com/hitekredneck/)
+
+- [@PranavBhalerao-10](https://github.com/PranavBhalerao-10/)
+
+- [@SimonCherno](https://github.com/SimonCherno/)
+
+- [@genjionn](https://github.com/genjionn/)
+
+- [@sarbajeetmadnal4](https://github.com/sarbajeetmadnal4/)
+
+- [@jongwon254](https://github.com/jongwon254/)
+
+- [@lurdslurv](https://github.com/lurdslurv/)
+
+- [@bdcristuta](https://github.com/bdcristuta/)
+
+- [@Mojit33](https://github.com/Mojit33/)
+
 - [@PenelopeJoice14](https://github.com/PenelopeJoice14/)
 
 - [@MirnaKvc](https://github.com/MirnaKvc)
