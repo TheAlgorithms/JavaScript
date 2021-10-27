@@ -1126,6 +1126,8 @@
 
 - [@mohsenpasdar](https://github.com/mohsenpasdar/)
 
+- [@codewithanish](https://github.com/codewithanish/)
+
 - [@Binbaker](https://github.com/Binbaker/)
 
 - [@HiTekRedneck](https://github.com/hitekredneck/)
@@ -1148,6 +1150,8 @@
 
 - [@PenelopeJoice14](https://github.com/PenelopeJoice14/)
 
+- [@robertWalker68501](https://github.com/robertWalker68501/)
+
 - [@luistorres0](https://github.com/luistorres0)
 
 - [@Just4CodingNow](https://github.com/Just4CodingNow)
@@ -1160,3 +1164,6 @@
 
 - [@TeodoraMM](https://github.com/TeodoraMM)
 
+- [@andrewtdunn](https://github.com/andrewtdunn)
+
+- [@Hazelle2511](https://github.com/Hazelle2511/)
