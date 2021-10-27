@@ -1094,4 +1094,30 @@
 
 - [@karthiknatarajan-27558](https://github.com/karthiknatarajan-27558)
 
+- [@hamzahouri](https://github.com/hamzahouri)
+  
+- [@diogoson11](https://github.com/diogoson11)
+
+- [@cebener-maake](https://github.com/cebener-maake)
+
+- [@cydvilla](https://github.com/CydVilla)
+
+- [@jideabdqudus](https://github.com/jideabdqudus)
+
+- [@tregalloway](https://github.com/TreGalloway)
+
+- [@patriziomadferitmilione](https://github.com/patriziomadferitmilione)
+
+- [@hrushikute](https://github.com/hrushikute)
+
+- [@limatfc](https://github.com/limatfc)
+
+- [@ayushwadhwaa](https://github.com/ayushwadhwaa)
+
+- [@viktorlinus](https://github.com/viktorlinus)
+
+- [@thalha-dev](https://github.com/thalha-dev/)
+
+- [@Phil-Elliott](https://github.com/Phil-Elliott)
+
 - [@MirnaKvc](https://github.com/MirnaKvc)
