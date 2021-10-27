@@ -61,3 +61,23 @@
 - [@darmcwil](https://github.com/darmcwil)
 
 - [@ClementS03](https://github.com/ClementS03)
+
+- [@zahidfck](https://github.com/zahidfck)
+
+- [@vagison](https://github.com/vagison)
+
+- [@HayleyPfleghaar](https://github.com/HayleyPfleghaar)
+
+- [@SergiuPlesco](https://github.com/SergiuPlesco)
+
+- [@Neixiiss](https://github.com/Neixiiss)
+
+- [@dcmorales](https://github.com/dcmorales)
+
+- [@SahilChandravanshi](https://github.com/SahilChandravanshi)
+
+- [@Beekaybanky](https://github.com/Beekaybanky)
+
+- [@Glowczyns](https://github.com/Glowczyns)
+
+- [@dknsapatin](https://github.com/dknsapatin)
