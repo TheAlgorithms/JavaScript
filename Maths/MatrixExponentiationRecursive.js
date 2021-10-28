@@ -22,27 +22,27 @@ const Identity = (n) => {
   return res
 }
 
-const MatMult = (matA, matB) => {
-  // Input: matA: 2D Array of Numbers of size n x n
-  //        matB: 2D Array of Numbers of size n x n
-  // Output: matA x matB: 2D Array of Numbers of size n x n
+const MatMult = (matrixA, matrixB) => {
+  // Input: matrixA: 2D Array of Numbers of size n x n
+  //        matrixB: 2D Array of Numbers of size n x n
+  // Output: matrixA x matrixB: 2D Array of Numbers of size n x n
   // Complexity: O(n^3)
-  const n = matA.length
-  const matC = []
+  const n = matrixA.length
+  const matrixC = []
   for (let i = 0; i < n; i++) {
-    matC[i] = []
+    matrixC[i] = []
     for (let j = 0; j < n; j++) {
-      matC[i][j] = 0
+      matrixC[i][j] = 0
     }
   }
   for (let i = 0; i < n; i++) {
     for (let j = 0; j < n; j++) {
       for (let k = 0; k < n; k++) {
-        matC[i][j] += matA[i][k] * matB[k][j]
+        matrixC[i][j] += matrixA[i][k] * matrixB[k][j]
       }
     }
   }
-  return matC
+  return matrixC
 }
 
 export const MatrixExponentiationRecursive = (mat, m) => {
