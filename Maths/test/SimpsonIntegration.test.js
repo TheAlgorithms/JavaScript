@@ -14,4 +14,3 @@ test('Should return the integral of f(x) = log(x) + Pi*x^3 in [5, 12] to be equa
   const result = integralEvaluation(128, 5, 12, (x) => { return Math.log(x) + Math.PI * Math.pow(x, 3) })
   expect(Number(result.toPrecision(12))).toBe(15809.9141543)
 })
-
