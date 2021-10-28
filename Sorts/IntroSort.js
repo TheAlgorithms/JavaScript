@@ -300,7 +300,7 @@ function demo2 () {
     }
   }
   if (faulty) {
-    return 'WRONG Implented Comparator!!'
+    return 'WRONG Implemented Comparator!!'
   } else {
     return 'Comparator Works Fine:)'
   }
