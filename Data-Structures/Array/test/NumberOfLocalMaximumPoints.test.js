@@ -11,7 +11,7 @@ describe('LocalMaximomPoint tests', () => {
     expect(NumberOfLocalMaximumPoints(Array)).toEqual(1)
   })
 
-  it('test boundry maximom points - both boundries have maximom points', () => {
+  it('test boundry maximom points - both boundries have maximum points', () => {
     // Test a mix of number types (i.e., positive/negative, numbers with decimals, fractions)
     const Array = [13, 2, 3, 4, 5, 6, 12]
     expect(NumberOfLocalMaximumPoints(Array)).toEqual(2)
