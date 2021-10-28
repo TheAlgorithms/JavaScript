@@ -33,7 +33,7 @@ export function flipArray (array, startIndex, endIndex) {
     array[startIndex] = array[endIndex]
     array[endIndex] = temp
 
-    // essentialy reducing the problem to a smaller subarray
+    // essentially reducing the problem to a smaller subarray
     startIndex++
     endIndex--
   }
