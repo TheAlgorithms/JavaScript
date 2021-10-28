@@ -1,5 +1,5 @@
 /* Kadane's algorithm is one of the most efficient ways to
- * calculate the maximum contiguos subarray sum for a given array.
+ * calculate the maximum contiguous subarray sum for a given array.
  * Below is the implementation of kadanes's algorithm along with
  * some sample test cases.
  * There might be a special case in this problem if al the elements
@@ -11,7 +11,7 @@
 
 export function kadaneAlgo (array) {
   let cummulativeSum = 0
-  let maxSum = Number.NEGATIVE_INFINITY // maxSum has the least posible value
+  let maxSum = Number.NEGATIVE_INFINITY // maxSum has the least possible value
   for (let i = 0; i < array.length; i++) {
     cummulativeSum = cummulativeSum + array[i]
     if (maxSum < cummulativeSum) {
