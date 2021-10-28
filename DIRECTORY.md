@@ -197,6 +197,7 @@
   * [ReverseNumber](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/ReverseNumber.js)
   * [ReversePolishNotation](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/ReversePolishNotation.js)
   * [SieveOfEratosthenes](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/SieveOfEratosthenes.js)
+  * [SimpsonIntegration](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/SimpsonIntegration.js)
   * [Softmax](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/Softmax.js)
   * [SquareRoot](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/SquareRoot.js)
   * [SumOfDigits](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/SumOfDigits.js)
