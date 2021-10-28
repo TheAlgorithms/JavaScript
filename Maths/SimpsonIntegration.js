@@ -21,7 +21,6 @@
 *
 */
 
-
 function integralEvaluation (N, a, b, func) {
   // Check if N is an even integer
   let isNEven = true
