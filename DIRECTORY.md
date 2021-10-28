@@ -135,12 +135,6 @@
   * [SHA1](https://github.com/TheAlgorithms/Javascript/blob/master/Hashes/SHA1.js)
   * [SHA256](https://github.com/TheAlgorithms/Javascript/blob/master/Hashes/SHA256.js)
 
-## Linear-Algebra
-  * src
-    * [la_lib](https://github.com/TheAlgorithms/Javascript/blob/master/Linear-Algebra/src/la_lib.js)
-  * test
-    * [test](https://github.com/TheAlgorithms/Javascript/blob/master/Linear-Algebra/test/test.js)
-
 ## Maths
   * [Abs](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/Abs.js)
   * [AliquotSum](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/AliquotSum.js)

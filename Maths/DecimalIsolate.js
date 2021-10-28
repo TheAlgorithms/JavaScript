@@ -5,6 +5,6 @@
  */
 
 export const decimalIsolate = (number) => {
-  const ans = parseFloat((number + '').replace(/^[-\d]+./, '.'))
-  return isNaN(ans) === true ? 0 : ans
+  const answer = parseFloat((number + '').replace(/^[-\d]+./, '.'))
+  return isNaN(answer) === true ? 0 : answer
 }

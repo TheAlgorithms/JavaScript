@@ -1,5 +1,5 @@
 /**
- Problem Statment and Explanation :
+ Problem Statement and Explanation :
  Triangular  => https://en.wikipedia.org/wiki/Triangular_number
  Tetrahedral => https://en.wikipedia.org/wiki/Tetrahedral_number
  Pentatope   => https://en.wikipedia.org/wiki/Pentatope_number

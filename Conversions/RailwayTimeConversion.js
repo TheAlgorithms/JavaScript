@@ -4,8 +4,8 @@
     some changes on hours and minutes and if the time in 'PM' it means the only
     want some changes in hour value.
 
-    Input Formate -> 07:05:45PM
-    Output Formate -> 19:05:45
+    Input Format -> 07:05:45PM
+    Output Format -> 19:05:45
 
     Problem & Explanation Source : https://www.mathsisfun.com/time.html
 */

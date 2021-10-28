@@ -34,7 +34,7 @@ function pad (str, bits) {
  * @return {array} - array of original string split into chunks
  *
  * @example
- *      chunkify("this is a test", 2); // ["th", "is", " i", "s ", "a ", "te", "st"]
+ *      chunkify("this is a test", 2)
  */
 function chunkify (str, size) {
   const chunks = []

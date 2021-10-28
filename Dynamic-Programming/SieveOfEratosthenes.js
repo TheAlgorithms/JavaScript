@@ -1,7 +1,7 @@
 function sieveOfEratosthenes (n) {
   /*
      * Calculates prime numbers till a number n
-     * :param n: Number upto which to calculate primes
+     * :param n: Number up to which to calculate primes
      * :return: A boolean list containing only primes
      */
   const primes = new Array(n + 1)

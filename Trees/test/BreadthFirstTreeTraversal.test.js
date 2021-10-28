@@ -11,7 +11,7 @@ describe('Breadth First Tree Traversal', () => {
   root.right.right = new Node(9)
   binaryTree.root = root
 
-  // Vizualization :
+  // Visualization :
   //
   //            7
   //           / \
