@@ -1,4 +1,4 @@
-import { QuickSelect } from './QuickSelect'
+import { QuickSelect } from '../QuickSelect'
 
 describe('QuickSelect tests', () => {
   it('should return the only element of a list of length 1', () => {
