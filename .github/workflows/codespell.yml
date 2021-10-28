@@ -10,5 +10,5 @@ jobs:
         with:
           check_filenames: true
           # file types to ignore
-          skip: "*.json,*.yml,DIRECTORY.md,PermutateString.test.js"
+          skip: "*.json,*.yml,DIRECTORY.md,PermutateString.test.js,SubsequenceRecursive.js"
           
