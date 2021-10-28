@@ -7,7 +7,7 @@
 /*****************************************************************************
  * What is a palindrome? https://en.wikipedia.org/wiki/Palindrome
  *
- * The function alphaNumericPlaindrome() recieves a sting with varying formats
+ * The function alphaNumericPlaindrome() receives a string with varying formats
  * like "racecar", "RaceCar", and "race CAR"
  * The string can also have special characters
  * like "2A3*3a2", "2A3 3a2", and "2_A3*3#A2"
@@ -43,7 +43,7 @@ const alphaNumericPlaindrome = (str) => {
   // iterate through the arr and check the condition of palindrome
   for (let i = 0; i < arr.length; i++) {
     if (arr[i] !== arrRev[arr.length - 1 - i]) {
-      // if the string is not palindrome then we change palin varaible to 1
+      // if the string is not palindrome then we change palin variable to 1
       palin = 1
     }
   }
