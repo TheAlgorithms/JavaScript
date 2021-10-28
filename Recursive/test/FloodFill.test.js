@@ -1,4 +1,4 @@
-import { breadthFirstSearch, depthFirstSearch } from './FloodFill'
+import { breadthFirstSearch, depthFirstSearch } from '../FloodFill'
 
 // some constants
 const black = [0, 0, 0]
