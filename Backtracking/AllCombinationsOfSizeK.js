@@ -2,7 +2,7 @@
   Problem: Given two numbers, n and k, make all unique combinations of k numbers from 1 to n and in sorted order
 
   What is combinations?
-  - Combinations is selecting items froms a collections without considering order of selection
+  - Combinations is selecting items from a collections without considering order of selection
 
   Example:
   - We have an apple, a banana, and a jackfruit
