@@ -23,7 +23,7 @@ class GraphUnweightedUndirected {
     if (node === value) { return true }
     // adding the current node to the visited set
     visited.add(node)
-    // calling the helper function recursivly for all unvisited nodes
+    // calling the helper function recursively for all unvisited nodes
     for (const neighbour of this.connections[node]) {
       if (!visited.has(neighbour)) {
         if (this.DFSRecursive(neighbour, value, visited)) { return true }
