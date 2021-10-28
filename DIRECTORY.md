@@ -60,6 +60,7 @@
 ## Data-Structures
   * Array
     * [LocalMaximomPoint](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Array/LocalMaximomPoint.js)
+    * [NumberOfLocalMaximumPoints](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Array/NumberOfLocalMaximumPoints.js)
     * [QuickSelect](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Array/QuickSelect.js)
   * Graph
     * [Graph](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Graph/Graph.js)
