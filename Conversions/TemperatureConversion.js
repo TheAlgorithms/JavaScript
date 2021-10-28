@@ -1,5 +1,5 @@
 // This files has functions to convert different temperature units
-// Functions take temperature value as a arguement and returns corresponding converted value
+// Functions take temperature value as a argument and returns corresponding converted value
 
 const celsiusToFahrenheit = (celsius) => {
   // Wikipedia reference: https://en.wikipedia.org/wiki/Celsius
