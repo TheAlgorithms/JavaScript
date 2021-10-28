@@ -1,4 +1,4 @@
-import { LocalMaximomPoint } from './LocalMaximomPoint'
+import { LocalMaximomPoint } from '../LocalMaximomPoint'
 
 describe('LocalMaximomPoint tests', () => {
   it('test boundry maximom points - last element', () => {
