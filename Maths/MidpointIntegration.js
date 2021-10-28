@@ -13,7 +13,7 @@
 *
 * N must be > 0 and a<b. By increasing N, we also increase precision
 *
-* Wikipedia: [More info link](https://tutorial.math.lamar.edu/classes/calcii/approximatingdefintegrals.aspx)
+* [More info link](https://tutorial.math.lamar.edu/classes/calcii/approximatingdefintegrals.aspx)
 *
 */
 
