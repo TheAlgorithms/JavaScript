@@ -1,6 +1,6 @@
 /* The Sørensen–Dice coefficient is a statistic used to gauge the similarity of two samples.
  * Applied to strings, it can give you a value between 0 and 1 (included) which tells you how similar they are.
- * Dice coefficient is calculated by comparing the bigrams of both stings,
+ * Dice coefficient is calculated by comparing the bigrams of both strings,
  * a bigram is a substring of the string of length 2.
  * read more: https://en.wikipedia.org/wiki/S%C3%B8rensen%E2%80%93Dice_coefficient
  */
