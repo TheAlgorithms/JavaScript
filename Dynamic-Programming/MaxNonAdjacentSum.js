@@ -19,7 +19,7 @@ function maximumNonAdjacentSum (nums) {
   return Math.max(maxExcluding, maxIncluding)
 }
 
-// Exmaple
+// Example
 
 // maximumNonAdjacentSum([1, 2, 3]))
 // maximumNonAdjacentSum([1, 5, 3, 7, 2, 2, 6]))
