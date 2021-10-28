@@ -1,4 +1,4 @@
-import { newGeneration } from './ConwaysGameOfLife'
+import { newGeneration } from '../ConwaysGameOfLife'
 
 describe('newGeneration', () => {
   it('should produce the next generation according to the rules', () => {
