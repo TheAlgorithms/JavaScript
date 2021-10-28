@@ -23,26 +23,25 @@ const FloydWarshall = (dist) => {
   return dist
 }
 
-const main = () => {
-  // For the following graph (edge weights are shown in brackets)
-  //  4       1       dist[1][2] = dist[2][1] = 1
-  //   \  (2)/ \      dist[1][3] = dist[3][1] = 2
-  //    \   /   \(1)  dist[1][4] = dist[4][1] = Infinity
-  //  (1)\ /     \    dist[3][4] = dist[4][3] = 1
-  //      3       2   dist[2][4] = dist[4][2] = Infinity
-  //                  dist[2][3] = dist[3][2] = Infinity
-  // Output should be:
-  // [ [0, 1, 2, 3],
-  //   [1, 0, 3, 4],
-  //   [2, 3, 0, 1],
-  //   [3, 4, 1, 0] ]
-  console.log(FloydWarshall(
-    [[0, 1, 2, Infinity],
-      [1, 0, Infinity, Infinity],
-      [2, Infinity, 0, 1],
-      [Infinity, Infinity, 1, 0]
-    ]
-  ))
-}
+export { FloydWarshall }
 
-main()
+// For the following graph (edge weights are shown in brackets)
+//  4       1       dist[1][2] = dist[2][1] = 1
+//   \  (2)/ \      dist[1][3] = dist[3][1] = 2
+//    \   /   \(1)  dist[1][4] = dist[4][1] = Infinity
+//  (1)\ /     \    dist[3][4] = dist[4][3] = 1
+//      3       2   dist[2][4] = dist[4][2] = Infinity
+//                  dist[2][3] = dist[3][2] = Infinity
+// Output should be:
+// [ [0, 1, 2, 3],
+//   [1, 0, 3, 4],
+//   [2, 3, 0, 1],
+//   [3, 4, 1, 0] ]
+
+// FloydWarshall(
+//     [[0, 1, 2, Infinity],
+//       [1, 0, Infinity, Infinity],
+//       [2, Infinity, 0, 1],
+//       [Infinity, Infinity, 1, 0]
+//     ]
+//   )

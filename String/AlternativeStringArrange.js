@@ -41,4 +41,4 @@ const AlternativeStringArrange = (str1, str2) => {
   return outStr
 }
 
-module.exports = AlternativeStringArrange
+export { AlternativeStringArrange }

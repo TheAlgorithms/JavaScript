@@ -52,27 +52,16 @@ class OpenKnightTour {
     return false
   }
 
-  printBoard () {
+  printBoard (output = value => console.log(value)) {
     // utility function to display the board
     for (const row of this.board) {
       let string = ''
       for (const elem of row) {
         string += elem + '\t'
       }
-      console.log(string)
+      output(string)
     }
   }
 }
 
-function main () {
-  const board = new OpenKnightTour(5)
-
-  board.printBoard()
-  console.log('\n')
-
-  board.solve()
-
-  board.printBoard()
-}
-
-main()
+export { OpenKnightTour }

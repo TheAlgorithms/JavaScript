@@ -53,16 +53,5 @@ class Stack {
     return el instanceof Stack
   }
 }
-const newStack = new Stack()
-console.log('Is it a Stack?,', Stack.isStack(newStack))
-console.log('Is stack empty? ', newStack.isEmpty)
-newStack.push('Hello world')
-newStack.push(42)
-newStack.push({ a: 6, b: 7 })
-console.log('The length of stack is ', newStack.length)
-console.log('Is stack empty? ', newStack.isEmpty)
-console.log('Give me the last one ', newStack.last)
-console.log('Pop the latest ', newStack.pop())
-console.log('Pop the latest ', newStack.pop())
-console.log('Pop the latest ', newStack.pop())
-console.log('Is stack empty? ', newStack.isEmpty)
+
+export { Stack }

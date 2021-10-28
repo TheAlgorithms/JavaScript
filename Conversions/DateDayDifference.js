@@ -38,4 +38,4 @@ const DateDayDifference = (date1, date2) => {
 
 // Example : DateDayDifference('17/08/2002', '10/10/2020') => 6630
 
-module.exports = DateDayDifference
+export { DateDayDifference }

@@ -32,13 +32,13 @@ const Node = (function Node () {
   }
 
   // Visit a node
-  Node.prototype.visit = function () {
+  Node.prototype.visit = function (output = value => console.log(value)) {
     // Recursively go left
     if (this.left !== null) {
       this.left.visit()
     }
     // Print out value
-    console.log(this.value)
+    output(this.value)
     // Recursively go right
     if (this.right !== null) {
       this.right.visit()
@@ -115,7 +115,7 @@ const Tree = (function () {
   // Inorder traversal
   Tree.prototype.traverse = function () {
     if (!this.root) {
-      console.log('No nodes are there in the tree till now')
+      // No nodes are there in the tree till now
       return
     }
     this.root.visit()
@@ -124,11 +124,11 @@ const Tree = (function () {
   // Start by searching the root
   Tree.prototype.search = function (val) {
     const found = this.root.search(val)
-    if (found === null) {
-      console.log(val + ' not found')
-    } else {
-      console.log('Found:' + found.value)
+    if (found !== null) {
+      return found.value
     }
+    // not found
+    return null
   }
 
   // Add a new value to the tree
@@ -151,16 +151,4 @@ const Tree = (function () {
   return Tree
 }())
 
-// Implementation of BST
-const bst = new Tree()
-bst.addValue(6)
-bst.addValue(3)
-bst.addValue(9)
-bst.addValue(2)
-bst.addValue(8)
-bst.addValue(4)
-bst.traverse()
-bst.search(8)
-bst.removeValue(3)
-bst.removeValue(8)
-bst.traverse()
+export { Tree }

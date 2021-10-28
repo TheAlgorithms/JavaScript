@@ -61,4 +61,4 @@ const DateToDay = (date) => {
 
 // Example : DateToDay("18/12/2020") => Friday
 
-module.exports = DateToDay
+export { DateToDay }

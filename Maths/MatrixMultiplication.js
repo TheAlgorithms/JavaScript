@@ -10,7 +10,7 @@ const matrixCheck = (matrix) => {
     if (index === 0) {
       columnNumb = matrix[index].length
     } else if (matrix[index].length !== columnNumb) {
-      console.log('The columns in this array are not equal')
+      // The columns in this array are not equal
     } else {
       return columnNumb
     }
@@ -21,7 +21,7 @@ const matrixCheck = (matrix) => {
 const twoMatricesCheck = (first, second) => {
   const [firstRowLength, secondRowLength, firstColLength, secondColLength] = [first.length, second.length, matrixCheck(first), matrixCheck(second)]
   if (firstRowLength !== secondColLength || secondRowLength !== firstColLength) {
-    console.log('These matrices do not have a common side')
+    // These matrices do not have a common side
     return false
   } else {
     return true
@@ -44,7 +44,7 @@ const initiateEmptyArray = (first, second) => {
 // Finally, `matrixMult` uses `Array.prototype.push()`, multiple layers of nested `for` loops, the addition assignment `+=` operator and multiplication operator `*` to perform the dot product between two matrices of differing sizes.
 // Dot product, takes the row of the first matrix and multiplies it by the column of the second matrix, the `twoMatricesCheck` tested to see if they were the same size already.
 // The dot product for each iteration is then saved to its respective index into `multMatrix`.
-const matrixMult = (firstArray, secondArray) => {
+export const matrixMult = (firstArray, secondArray) => {
   const multMatrix = initiateEmptyArray(firstArray, secondArray)
   for (let rm = 0; rm < firstArray.length; rm++) {
     const rowMult = []
@@ -66,26 +66,26 @@ const matrixMult = (firstArray, secondArray) => {
   return multMatrix
 }
 
-const firstMatrix = [
-  [1, 2],
-  [3, 4]
-]
+// const firstMatrix = [
+//   [1, 2],
+//   [3, 4]
+// ]
 
-const secondMatrix = [
-  [5, 6],
-  [7, 8]
-]
+// const secondMatrix = [
+//   [5, 6],
+//   [7, 8]
+// ]
 
-console.log(matrixMult(firstMatrix, secondMatrix)) // [ [ 19, 22 ], [ 43, 50 ] ]
+// matrixMult(firstMatrix, secondMatrix) // [ [ 19, 22 ], [ 43, 50 ] ]
 
-const thirdMatrix = [
-  [-1, 4, 1],
-  [7, -6, 2]
-]
-const fourthMatrix = [
-  [2, -2],
-  [5, 3],
-  [3, 2]
-]
+// const thirdMatrix = [
+//   [-1, 4, 1],
+//   [7, -6, 2]
+// ]
+// const fourthMatrix = [
+//   [2, -2],
+//   [5, 3],
+//   [3, 2]
+// ]
 
-console.log(matrixMult(thirdMatrix, fourthMatrix)) // [ [ 21, 16 ], [ -10, -28 ] ]
+// matrixMult(thirdMatrix, fourthMatrix) // [ [ 21, 16 ], [ -10, -28 ] ]

@@ -49,42 +49,43 @@ function binarySearchIterative (arr, x, low = 0, high = arr.length - 1) {
   return -1
 }
 
+export { binarySearchIterative, binarySearchRecursive }
+
 /* ---------------------------------- Test ---------------------------------- */
 
-const arr = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-const stringArr = [
-  'Alpha',
-  'Bravo',
-  'Charlie',
-  'Delta',
-  'Echo',
-  'Foxtrot',
-  'Golf',
-  'Hotel',
-  'India',
-  'Juliet',
-  'Kilo',
-  'Lima',
-  'Mike',
-  'November',
-  'Oscar',
-  'Papa',
-  'Quebec',
-  'Romeo',
-  'Sierra',
-  'Tango',
-  'Uniform',
-  'Victor',
-  'Whiskey',
-  'X-Ray',
-  'Yankee',
-  'Zulu'
-]
+// const arr = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+// const stringArr = [
+//   'Alpha',
+//   'Bravo',
+//   'Charlie',
+//   'Delta',
+//   'Echo',
+//   'Foxtrot',
+//   'Golf',
+//   'Hotel',
+//   'India',
+//   'Juliet',
+//   'Kilo',
+//   'Lima',
+//   'Mike',
+//   'November',
+//   'Oscar',
+//   'Papa',
+//   'Quebec',
+//   'Romeo',
+//   'Sierra',
+//   'Tango',
+//   'Uniform',
+//   'Victor',
+//   'Whiskey',
+//   'X-Ray',
+//   'Yankee',
+//   'Zulu'
+// ]
 
-console.log(binarySearchRecursive(arr, 3))
-console.log(binarySearchIterative(arr, 7))
-console.log(binarySearchRecursive(arr, 13))
-
-console.log(binarySearchIterative(stringArr, 'Charlie'))
-console.log(binarySearchRecursive(stringArr, 'Zulu'))
-console.log(binarySearchIterative(stringArr, 'Sierra'))
+// binarySearchRecursive(arr, 3)
+// binarySearchIterative(arr, 7)
+// binarySearchRecursive(arr, 13)
+// binarySearchIterative(stringArr, 'Charlie')
+// binarySearchRecursive(stringArr, 'Zulu')
+// binarySearchIterative(stringArr, 'Sierra')

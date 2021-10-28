@@ -4,14 +4,14 @@
 
 
 
-### **Describe your change:**
+### Describe your change:
 
 * [ ] Add an algorithm?
 * [ ] Fix a bug or typo in an existing algorithm?
 * [ ] Documentation change?
 
 
-### **Checklist:**
+### Checklist:
 * [ ] I have read [CONTRIBUTING.md](https://github.com/TheAlgorithms/Javascript/blob/master/CONTRIBUTING.md).
 * [ ] This pull request is all my own work -- I have not plagiarized.
 * [ ] I know that pull requests will not be merged if they fail the automated tests.

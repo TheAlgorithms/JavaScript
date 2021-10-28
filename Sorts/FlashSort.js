@@ -6,7 +6,7 @@
  * Wikipedia: https://en.wikipedia.org/wiki/Flashsort
  */
 
-function flashSort (arr) {
+export function flashSort (arr) {
   let max = 0; let min = arr[0]
   const n = arr.length
   const m = ~~(0.45 * n)
@@ -80,11 +80,5 @@ function flashSort (arr) {
 /**
 * Implementation of Flash Sort
 */
-const array = [3, 0, 2, 5, -1, 4, 1, -2]
-// Before Sort
-console.log('\n- Before Sort | Implementation of Flash Sort -')
-console.log(array)
-// After Sort
-console.log('- After Sort | Implementation of Flash Sort -')
-console.log(flashSort(array))
-console.log('\n')
+// const array = [3, 0, 2, 5, -1, 4, 1, -2]
+// flashSort(array)
