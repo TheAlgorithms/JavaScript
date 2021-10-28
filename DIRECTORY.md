@@ -174,6 +174,7 @@
   * [MatrixExponentiationRecursive](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/MatrixExponentiationRecursive.js)
   * [MatrixMultiplication](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/MatrixMultiplication.js)
   * [MeanSquareError](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/MeanSquareError.js)
+  * [MidpointIntegration](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/MidpointIntegration.js)
   * [ModularBinaryExponentiationRecursive](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/ModularBinaryExponentiationRecursive.js)
   * [NumberOfDigits](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/NumberOfDigits.js)
   * [Palindrome](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/Palindrome.js)
