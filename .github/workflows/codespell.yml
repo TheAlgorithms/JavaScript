@@ -9,5 +9,6 @@ jobs:
       - uses: codespell-project/actions-codespell@master
         with:
           check_filenames: true
-          skip: *.json,*.yml
+          # file types to ignore
+          skip: "*.json,*.yml"
           
