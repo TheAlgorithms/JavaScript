@@ -57,7 +57,7 @@ class MinPriorityQueue {
     output(this.heap.slice(1))
   }
 
-  // heap reverse can be done by performing swaping the first
+  // heap reverse can be done by performing swapping the first
   // element with the last, removing the last element to
   // new array and calling sink function.
   heapReverse () {
