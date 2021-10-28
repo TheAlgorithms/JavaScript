@@ -1,10 +1,10 @@
 /**
 *
-* @title Composite Simpson's rule for definite integral evaluation
+* @title Midpoint rule for definite integral evaluation
 * @author [ggkogkou](https://github.com/ggkogkou)
-* @brief Wikipedia: [Wikipedia link](https://en.wikipedia.org/wiki/Simpson%27s_rule#Composite_Simpson's_rule)
+* @brief Calculate definite integrals with midpoint method
 *
-* @details The idea is to split the interval in an EVEN number N of intervals and use as interpolation points the xi
+* @details The idea is to split the interval in a number N of intervals and use as interpolation points the xi
 * for which it applies that xi = x0 + i*h, where h is a step defined as h = (b-a)/N where a and b are the
 * first and last points of the interval of the integration [a, b].
 *
@@ -12,6 +12,8 @@
 * I = h * {f(x0+h/2) + f(x1+h/2) + ... + f(xN-1+h/2)}
 *
 * N must be > 0 and a<b. By increasing N, we also increase precision
+*
+* Wikipedia: [More info link](https://tutorial.math.lamar.edu/classes/calcii/approximatingdefintegrals.aspx)
 *
 */
 
