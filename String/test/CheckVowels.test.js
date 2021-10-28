@@ -59,7 +59,7 @@ describe('Test the checkVowels function', () => {
     expect(countVowels).toBe(0)
   })
 
-  it('should count multiple occurances of the same vowel in the input', () => {
+  it('should count multiple occurrences of the same vowel in the input', () => {
     const value = 'aaaaa'
     const countVowels = checkVowels(value)
     expect(countVowels).toBe(5)
