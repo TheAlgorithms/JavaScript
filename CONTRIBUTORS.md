@@ -61,3 +61,5 @@
 - [@darmcwil](https://github.com/darmcwil)
 
 - [@ClementS03](https://github.com/ClementS03)
+
+- [@zahidfck](https://github.com/zahidfck)
