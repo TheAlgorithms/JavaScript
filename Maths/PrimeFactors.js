@@ -7,12 +7,10 @@ export const PrimeFactors = (n) => {
   // input: n: int
   // output: primeFactors: Array of all prime factors of n
   const primeFactors = []
-  for (let i = 2; i <= n; i++) {
-    if (n % i === 0) {
-      while (n % i === 0) {
-        primeFactors.push(i)
-        n = Math.floor(n / i)
-      }
+  for (let i = 2; i * i <= n; i++) {
+    while (n % i === 0) {
+      primeFactors.push(i)
+      n = Math.floor(n / i)
     }
   }
   if (n > 1) {
