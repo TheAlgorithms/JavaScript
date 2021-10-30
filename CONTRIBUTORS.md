@@ -2372,6 +2372,16 @@
 
 -[@euhidaman](https://github.com/euhidaman)
 
+- [@ClementS03](https://github.com/ClementS03)
+
+- [@zahidfck](https://github.com/zahidfck)
+
+-[@mjbowden84](https://github.com/mjbowden84)
+
+-[@mjbowden84](https://github.com/mjbowden84)
+
+-[@Angelvicks](https://github.com/Angelvicks)
+ 
 -[@Sbyspaceopera](https://github.com/Sbyspaceopera)
 
 -[@nrishingha](https://github.com/nrishingha/)
