@@ -12,7 +12,7 @@ describe('Validate credit card number', () => {
     const validationResult = validateCreditCard(validCreditCard)
     expect(validationResult).toBe(true)
   })
-  it('should throw error on non numeric charecter in given credit card number', () => {
+  it('should throw an error on non-numeric character in given credit card number', () => {
     const nonNumericCCNumbers = ['123ABCDEF', 'ABCDKDKD', 'ADS232']
     nonNumericCCNumbers.forEach(nonNumericCC => expect(() => validateCreditCard(nonNumericCC)).toThrow(
       `${nonNumericCC} is an invalid credit card number because ` + 'it has nonnumerical characters.'
