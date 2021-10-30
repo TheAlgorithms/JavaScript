@@ -1,0 +1,28 @@
+/*
+Explanation :-
+
+The logic is that this algorithm matters mainly when there are negative integers in the array, as if the array was all +ve integers, then the max subarray would be the sum of the entire array.
+
+To handle negative integers, we need to keep track of:
+
+what the maximum sum of values to the left of a given integer is at all times, and
+what the maximum sum of "all time" is
+by starting of at -Infinity we ensure that the initial pass will set values (if you start with 0 and have an array of all negative integers, then the variables will never have updated values as 0 is always > -ve numbers.
+
+This is O(N) in time complexity.
+*/
+
+var maxSubArray = function(nums) {
+  let maxSoFar = nums[0];
+  let max = nums[0];
+
+  for (let i = 1; i < nums.length; i++) {
+    let current = nums[i];
+    maxSoFar = Math.max(current, current + maxSoFar);
+    max = Math.max(max, maxSoFar);
+  }
+  return max;
+};
+
+let res = maxSubArray([2,-3,4,5,-1]);
+console.log(res);
