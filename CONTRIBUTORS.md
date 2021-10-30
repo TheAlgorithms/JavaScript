@@ -2370,6 +2370,8 @@
 
 -[@bossman602](https://github.com/bossman602/)
 
+-[@nrishingha](https://github.com/nrishingha/)
+
 -[@ccs211](https://github.com/ccs211/)
 
 -[@euhidaman](https://github.com/euhidaman)
