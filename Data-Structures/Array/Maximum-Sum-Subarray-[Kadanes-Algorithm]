@@ -1,0 +1,23 @@
+/*
+Given an array of integers containing positive as well as negative integers. Find the sum of subarray which has maximum sum, in the given array.
+
+Input : 2,-3,4,5,-1
+Output : 9 (Subarray - [2,3])
+
+This is O(N) in time complexity.
+*/
+
+let findMaxSumSubarray = (arr) => {
+  let final_max = arr[0];
+  let curr_max = arr[0];
+
+  for (let i = 1; i < arr.length; i++) {
+    let current = arr[i];
+    final_max = Math.max(current, current + final_max);
+    curr_max = Math.max(curr_max, final_max);
+  }
+  return curr_max;
+};
+
+let res = findMaxSumSubarray([2,-3,4,5,-1]);
+console.log(res);
