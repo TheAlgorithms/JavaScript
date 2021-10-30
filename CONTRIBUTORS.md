@@ -2371,3 +2371,11 @@
 -[@bossman602](https://github.com/bossman602/)
 
 -[@ccs211](https://github.com/ccs211/)
+
+-[@euhidaman](https://github.com/euhidaman)
+
+-[@mjbowden84](https://github.com/mjbowden84)
+
+-[@Angelvicks](https://github.com/Angelvicks)
+
+- [@Galaxy092](https://github.com/Galaxy092)
