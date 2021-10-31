@@ -169,6 +169,7 @@
   * [IsEven](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/IsEven.js)
   * [IsOdd](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/IsOdd.js)
   * [LeapYear](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/LeapYear.js)
+  * [LinearSieve](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/LinearSieve.js)
   * [LucasSeries](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/LucasSeries.js)
   * [Mandelbrot](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/Mandelbrot.js)
   * [MatrixExponentiationRecursive](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/MatrixExponentiationRecursive.js)
