@@ -15,4 +15,8 @@ export const findMax = (arr) => {
       }
     })
     return max
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 7ae8d92c904e3991a3c19779d50fb8f936bbe3a7
