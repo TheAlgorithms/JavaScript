@@ -145,6 +145,7 @@
   * [BinaryConvert](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/BinaryConvert.js)
   * [BinaryExponentiationIterative](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/BinaryExponentiationIterative.js)
   * [BinaryExponentiationRecursive](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/BinaryExponentiationRecursive.js)
+  * [BisectionMethod](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/BisectionMethod.js)
   * [CheckKishnamurthyNumber](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/CheckKishnamurthyNumber.js)
   * [Coordinate](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/Coordinate.js)
   * [CoPrimeCheck](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/CoPrimeCheck.js)
