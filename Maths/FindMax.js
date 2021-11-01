@@ -5,14 +5,13 @@
  */
 
 export const findMax = (arr) => {
-    if (arr.length === 0)
-        return 'Array is empty'
+  if (arr.length === 0) { return 'Array is empty' }
 
-    let max = arr[0]
-    arr.forEach(element =>{
-      if (element > max){
-        max = element
-      }
-    })
-    return max
-  }
+  let max = arr[0]
+  arr.forEach(element => {
+    if (element > max) {
+      max = element
+    }
+  })
+  return max
+}
