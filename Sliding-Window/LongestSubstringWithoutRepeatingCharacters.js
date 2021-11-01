@@ -6,9 +6,9 @@
  */
 
 /**
- * @function Get Longest Substring Without Repeating Characters
+ * @function LongestSubstringWithoutRepeatingCharacters
  * @description Get the length of the longest substring without repeating characters
- * @param {String} str - The input string
+ * @param {String} s - The input string
  */
 export function LongestSubstringWithoutRepeatingCharacters (s) {
   let maxLength = 0
