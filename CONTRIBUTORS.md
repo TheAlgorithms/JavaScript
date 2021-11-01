@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@12otherWays](https://github.com/12otherWays)
+
 - [@ducanh4531](https://github.com/ducanh4531)
 
 - [@AADHISM](https://github.com/AADHISM)
@@ -2409,5 +2411,7 @@
 -[@cmleo](https://github.com/cmleo/)
 
 -[@ashley-alt](https://github.com/ashley-alt/)
+-[@Jerryalys] (https://github.com/Jerryalys/
+-[@maringrgatovic](https://github.com/maringrgatovic/)
 
--[@Jerryalys] (https://github.com/Jerryalys/)
+-[@dzigio](https://github.com/dzigio)
