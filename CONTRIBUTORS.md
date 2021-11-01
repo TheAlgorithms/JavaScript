@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@12otherWays](https://github.com/12otherWays)
+
 - [@ducanh4531](https://github.com/ducanh4531)
 
 - [@AADHISM](https://github.com/AADHISM)
