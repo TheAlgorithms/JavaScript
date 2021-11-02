@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@12otherWays](https://github.com/12otherWays)
+
 - [@ducanh4531](https://github.com/ducanh4531)
 
 - [@AADHISM](https://github.com/AADHISM)
@@ -2399,3 +2401,27 @@
 -[@Dare789](https://github.com/Dare789)
 
 -[@mosabami](https://github.com/mosabami)
+
+-[@sedulance] (https://github.com/sedulance)
+
+-[@keanojorda] (https://github.com/keanojorda)
+
+-[ElizabethA01] (https://github.com/ElizabethA01))
+
+-[@cmleo](https://github.com/cmleo/)
+
+-[@ashley-alt](https://github.com/ashley-alt/)
+
+-[@maringrgatovic](https://github.com/maringrgatovic/)
+
+-[@dzigio](https://github.com/dzigio)
+
+-[@kT382](https://github.com/kT382/)
+
+-[@tonyjemba](https://github.com/tonyjemba)
+
+-[@ishevchyk](https://github.com/ishevchyk/)
+
+-[@Jd536](https://github.com/Jd536)
+
+-[@JoshuaEmor](https://github.com/JoshuaEmor)
