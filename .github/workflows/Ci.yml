@@ -20,4 +20,3 @@ jobs:
 
       - name: 💄 Code style
         run: npm run style
-        
