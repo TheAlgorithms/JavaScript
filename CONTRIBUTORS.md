@@ -2383,7 +2383,7 @@
 -[@mjbowden84](https://github.com/mjbowden84)
 
 -[@Angelvicks](https://github.com/Angelvicks)
- 
+
 -[@Sbyspaceopera](https://github.com/Sbyspaceopera)
 
 -[@nrishingha](https://github.com/nrishingha/)
@@ -2433,3 +2433,11 @@
 -[@Lloyd0gbonna](https://github.com/Lloyd0gbonna)
 
 -[@CristianRP](https://github.com/CristianRP)
+
+-[@ketakisbarde](https://github.com/ketakisbarde)
+
+-[@the-illuminatus](https://github.com/the-illuminatus/)
+
+-[@troypouliot](https://github.com/troypouliot)
+
+-[@febieclinton](https://github.com/febieclinton)
