@@ -1,5 +1,6 @@
 /**
  * Validate a given credit card number
+ * 
  * Ref: https://www.geeksforgeeks.org/luhn-algorithm/
  */
 
@@ -8,7 +9,9 @@ const luhnValidation = (creditCardNumber) => {
   creditCardNumber.split('').forEach((digit, index) => {
     let currentDigit = parseInt(digit)
     if (index % 2 === 0) {
+      // Multiply every 2nd digit from the left by 2
       currentDigit *= 2
+      // if product is greater than 10 add the individual digits of the product to get a single digit
       if (currentDigit > 9) {
         currentDigit %= 10
         currentDigit += 1
@@ -21,7 +24,7 @@ const luhnValidation = (creditCardNumber) => {
 }
 
 const validateCreditCard = (creditCardString) => {
-  const validStartSubString = ['4', '5', '6', '37', '34', '35']
+  const validStartSubString = ['4', '5', '6', '37', '34', '35'] // Valid credit card numbers start with these numbers
 
   if (typeof creditCardString !== 'string') {
     throw new TypeError('The given value is not a string')
