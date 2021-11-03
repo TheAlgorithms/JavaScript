@@ -10,4 +10,4 @@ jobs:
         with:
           # file types to ignore
           skip: "*.json,*.yml,DIRECTORY.md,PermutateString.test.js,SubsequenceRecursive.js"
-          
+          ignore_words_list: "ba"
