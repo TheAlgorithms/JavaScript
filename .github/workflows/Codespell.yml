@@ -9,5 +9,5 @@ jobs:
       - uses: codespell-project/actions-codespell@master
         with:
           # file types to ignore
-          skip: "*.json,*.yml,DIRECTORY.md,PermutateString.test.js,SubsequenceRecursive.js"
-          ignore_words_list: "ba"
+          skip: "*.json,*.yml,DIRECTORY.md"
+          ignore_words_list: "ba,esy,yse"

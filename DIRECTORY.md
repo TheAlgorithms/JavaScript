@@ -108,6 +108,9 @@
   * [RodCutting](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/RodCutting.js)
   * [Shuf](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/Shuf.js)
   * [SieveOfEratosthenes](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/SieveOfEratosthenes.js)
+  * Sliding-Window
+    * [LongestSubstringWithoutRepeatingCharacters](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/Sliding-Window/LongestSubstringWithoutRepeatingCharacters.js)
+    * [PermutationinString](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/Sliding-Window/PermutationinString.js)
   * [SudokuSolver](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/SudokuSolver.js)
   * [TrappingRainWater](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/TrappingRainWater.js)
   * [ZeroOneKnapsack](https://github.com/TheAlgorithms/Javascript/blob/master/Dynamic-Programming/ZeroOneKnapsack.js)
