@@ -2383,7 +2383,7 @@
 -[@mjbowden84](https://github.com/mjbowden84)
 
 -[@Angelvicks](https://github.com/Angelvicks)
- 
+
 -[@Sbyspaceopera](https://github.com/Sbyspaceopera)
 
 -[@nrishingha](https://github.com/nrishingha/)
@@ -2435,3 +2435,5 @@
 -[@CristianRP](https://github.com/CristianRP)
 
 -[@ketakisbarde](https://github.com/ketakisbarde)
+
+-[@the-illuminatus](https://github.com/the-illuminatus/)
