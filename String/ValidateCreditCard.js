@@ -1,6 +1,6 @@
 /**
  * Validate a given credit card number
- * 
+ *
  * Ref: https://www.geeksforgeeks.org/luhn-algorithm/
  */
 
