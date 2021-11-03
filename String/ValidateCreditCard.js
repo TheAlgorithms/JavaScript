@@ -1,8 +1,7 @@
 /**
  * Validate a given credit card number
+ * Ref: https://www.geeksforgeeks.org/luhn-algorithm/
  */
-
-const validStartSubString = ['4', '5', '6', '37', '34', '35']
 
 const luhnValidation = (creditCardNumber) => {
   let validationSum = 0
@@ -22,6 +21,8 @@ const luhnValidation = (creditCardNumber) => {
 }
 
 const validateCreditCard = (creditCardString) => {
+  const validStartSubString = ['4', '5', '6', '37', '34', '35']
+
   if (typeof creditCardString !== 'string') {
     throw new TypeError('The given value is not a string')
   }
