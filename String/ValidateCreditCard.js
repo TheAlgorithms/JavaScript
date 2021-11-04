@@ -1,6 +1,14 @@
 /**
  * Validate a given credit card number
  *
+ * The core of the validation of credit card numbers is the Luhn algorithm.
+ *
+ * The validation sum should be completely divisible by 10 which is calculated as follows, 
+ * every first digit is added directly to the validation sum.
+ * For every second digit in the credit card number, the digit is multiplied by 2.
+ * If the product is greater than 10 the digits of the product are added. 
+ * This resultant digit is considered for the validation sum rather than the digit itself.
+ *
  * Ref: https://www.geeksforgeeks.org/luhn-algorithm/
  */
 
