@@ -30,6 +30,8 @@
 
 - [@Bryan11](https://github.com/namocbryan11)
 
+- [@Arhell](https://github.com/Arhell)
+
 - [@huzmasood](https://github.com/huzmasood)
 
 - [@Tavi2021](https://github.com/Tavi2021)
