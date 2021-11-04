@@ -310,6 +310,7 @@
   * [ReverseString](https://github.com/TheAlgorithms/Javascript/blob/master/String/ReverseString.js)
   * [ReverseWords](https://github.com/TheAlgorithms/Javascript/blob/master/String/ReverseWords.js)
   * [ScrambleStrings](https://github.com/TheAlgorithms/Javascript/blob/master/String/ScrambleStrings.js)
+  * [ValidateCreditCard](https://github.com/TheAlgorithms/Javascript/blob/master/String/ValidateCreditCard.js)
   * [ValidateEmail](https://github.com/TheAlgorithms/Javascript/blob/master/String/ValidateEmail.js)
 
 ## Timing-Functions
