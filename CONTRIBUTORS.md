@@ -30,6 +30,8 @@
 
 - [@Bryan11](https://github.com/namocbryan11)
 
+- [@Arhell](https://github.com/Arhell)
+
 - [@huzmasood](https://github.com/huzmasood)
 
 - [@Tavi2021](https://github.com/Tavi2021)
@@ -2455,3 +2457,9 @@
 -[@kusmoro](https://github.com/kusmoro)
 
 -[@albertb24](https://github.com/albertb24/)
+
+-[@jazzc001](https://github.com/jazzc001/)
+
+-[@talhaansari4761](https://github.com/talhaansari4761/)
+
+-[@ycleo](https://github.com/ycleo)
