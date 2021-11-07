@@ -2479,3 +2479,5 @@
 -[@Spiritual-Programmer](https://github.com/Spiritual-Programmer)
 
 -[@vivkap](https://github.com/vivkap)
+
+-[@Lajatto](https://github.com/Lajatto)
