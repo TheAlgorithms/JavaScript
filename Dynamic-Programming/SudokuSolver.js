@@ -15,7 +15,7 @@ const sudokuSolver = (data) => {
     for (let j = 0; j < 9; j++) {
       if (data[i][j] === '.') {
         for (let k = 1; k <= 9; k++) {
-          if (isValid(data, i, j, k)) {
+          if (isValid(data, i, j, `${k}`)) {
             data[i][j] = `${k}`
             if (sudokuSolver(data)) {
               return true
