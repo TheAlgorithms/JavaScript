@@ -1427,3 +1427,5 @@
 - [@suyash-dubli](https://github.com/suyash-dubli)
 
 - [@DeepWander](https://github.com/DeepWander)
+
+- [@namechit](https://github.com/namechit)
