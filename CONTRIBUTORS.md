@@ -1429,3 +1429,5 @@
 - [@DeepWander](https://github.com/DeepWander)
 
 - [@namechit](https://github.com/namechit)
+
+- [@Jetibo](https://github.com/jetibo)
