@@ -1435,3 +1435,5 @@
 - [@WaltQIII](https://github.com/WaltQIII)
 
 - [@chiapaspc](https://github.com/chiapaspc)
+
+- [@AdamMzkr](https://github.com/AdamMzkr)
