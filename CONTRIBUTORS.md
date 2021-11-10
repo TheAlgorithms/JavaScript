@@ -1432,4 +1432,6 @@
 
 - [@Jetibo](https://github.com/jetibo)
 
+- [@WaltQIII](https://github.com/WaltQIII)
+
 - [@chiapaspc](https://github.com/chiapaspc)
