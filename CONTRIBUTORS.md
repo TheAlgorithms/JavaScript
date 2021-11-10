@@ -1431,3 +1431,5 @@
 - [@namechit](https://github.com/namechit)
 
 - [@Jetibo](https://github.com/jetibo)
+
+- [@chiapaspc](https://github.com/chiapaspc)
