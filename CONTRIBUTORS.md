@@ -1431,3 +1431,6 @@
 - [@namechit](https://github.com/namechit)
 
 - [@Jetibo](https://github.com/jetibo)
+
+- [@WaltQIII](https://github.com/WaltQIII)
+
