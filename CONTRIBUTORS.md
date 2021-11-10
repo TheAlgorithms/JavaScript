@@ -1423,3 +1423,15 @@
 - [@darkhorse-2000](https://github.com/darkhorse-2000)
 
 - [@Topai-Ioan](https://github.com/Topai-Ioan)
+
+- [@suyash-dubli](https://github.com/suyash-dubli)
+
+- [@DeepWander](https://github.com/DeepWander)
+
+- [@namechit](https://github.com/namechit)
+
+- [@Jetibo](https://github.com/jetibo)
+
+- [@WaltQIII](https://github.com/WaltQIII)
+
+- [@chiapaspc](https://github.com/chiapaspc)
