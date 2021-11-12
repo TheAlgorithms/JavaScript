@@ -1453,3 +1453,5 @@
 - [@rosalbac4300](https>//github.com/rosalbac4300)
 
 - [@Trickster36](https>//github.com/Trickster36)
+
+- [@reydisse](https>//github.com/reydisse)
