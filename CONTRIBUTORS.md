@@ -76,6 +76,8 @@
 
 - [@Aswin40](https://github.com/Aswin40/)
 
+- [@ayush-sleeping](https://github.com/ayush-sleeping)
+
 - [@BKmotoz](https://github.com/BKmotoz)
 
 - [@BehnamShahriari](https://github.com/behnam-shahriari)
@@ -1439,3 +1441,28 @@
 - [@AdamMzkr](https://github.com/AdamMzkr)
 
 - [@Salkhaleeli](https://github.com/Salkhaleeli)
+
+- [@kstt27](https://github.com/kstt27)
+
+- [@Byenna](https://github.com/Byenna)
+
+- [@Eijaz21](https://github.com/Eijaz21)
+
+- [@Kaedennn](https://github.com/kaedennn)
+
+- [@rosalbac4300](https>//github.com/rosalbac4300)
+
+- [@Trickster36](https>//github.com/Trickster36)
+
+- [@reydisse](https>//github.com/reydisse)
+
+- [@tuancuong19977](https>//github.com/tuancuong19977)
+- [@Soukainatichirra](https://github.com/Soukainatichirra)
+
+- [@Hadi-Esmaeilpour](https://github.com/Hadi-Esmaeilpour)
+
+- [@misrapk](https://github.com/misrapk)
+
+- [@drmarcell](https://github.com/drmarcell)
+
+-[@avrambozanovic](https://github.com/avrambozanovic)
