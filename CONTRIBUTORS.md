@@ -1478,3 +1478,5 @@
 -[@honeysaxena](https://github.com/honeysaxena/)
 
 -[@KenJRamos](https://github.com/KenJRamos)
+
+-[@SimonJankowski](https://github.com/SimonJankowski)
