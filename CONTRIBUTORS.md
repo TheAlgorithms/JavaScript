@@ -1498,3 +1498,5 @@
 -[@JoeSeVis](https://github.com/JoeSeVis/)
 
 -[@Krubel-Habteyes](https://github.com/Krubel-Habteyes)
+
+-[@haruperi](https://github.com/haruperi/)
