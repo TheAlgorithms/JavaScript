@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@Aleksey-Voko](https://github.com/Aleksey-Voko)
+
 - [@swapnil7711](https://github.com/Swapnil7711)
 
 - [@12otherWays](https://github.com/12otherWays)
@@ -1078,7 +1080,7 @@
 
 - [@hamzahouri](https://github.com/hamzahouri)
 
--
+- 
 
 - [@diogoson11](https://github.com/diogoson11)
 
@@ -1484,3 +1486,11 @@
 -[@SimonJankowski](https://github.com/SimonJankowski)
 
 -[@J-Shun](https://github.com/J-Shun)
+
+-[@SayamJain1](https://github.com/SayamJain1)
+
+- [@shovalm94](https://github.com/shovalm94)
+
+-[@solron](https://github.com/solron)
+
+-[@hatenhaten](https://github.com/hatenhaten)
