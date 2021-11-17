@@ -1495,4 +1495,4 @@
 
 -[@hatenhaten](https://github.com/hatenhaten)
 
--[@JoeSeVis](https://github.com/JoeSeVis)
+-[@JoeSeVis](https://github.com/JoeSeVis/)
