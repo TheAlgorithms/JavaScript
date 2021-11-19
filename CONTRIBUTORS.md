@@ -1080,7 +1080,7 @@
 
 - [@hamzahouri](https://github.com/hamzahouri)
 
-- 
+-
 
 - [@diogoson11](https://github.com/diogoson11)
 
@@ -1494,3 +1494,19 @@
 -[@solron](https://github.com/solron)
 
 -[@hatenhaten](https://github.com/hatenhaten)
+
+-[@JoeSeVis](https://github.com/JoeSeVis/)
+
+-[@Krubel-Habteyes](https://github.com/Krubel-Habteyes)
+
+-[@haruperi](https://github.com/haruperi/)
+
+-[@weihaozhaung](https://github.com/weihaozhaung/)
+
+-[@danielatripon](https://github.com/danielatripon)
+
+-[@amabelleS](https://github.com/amabelleS)
+
+-[@sanggam10](https://github.com/sanggam10)
+
+-[@alijbuchan](https://github.com/alijbuchan)
