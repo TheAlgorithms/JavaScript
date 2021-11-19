@@ -191,6 +191,7 @@
   * [PiApproximationMonteCarlo](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/PiApproximationMonteCarlo.js)
   * [Polynomial](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/Polynomial.js)
   * [Pow](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/Pow.js)
+  * [PowLogarithmic](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/PowLogarithmic.js)
   * [PrimeCheck](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/PrimeCheck.js)
   * [PrimeFactors](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/PrimeFactors.js)
   * [RadianToDegree](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/RadianToDegree.js)
