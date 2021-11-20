@@ -1528,3 +1528,5 @@
 -[@jodavid](https://github.com/jodvid)
 
 -[@paventis](https://github.com/paventis)
+
+-[@cquinsay](http://github.com/cquinsay/)
