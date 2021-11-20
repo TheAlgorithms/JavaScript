@@ -1532,3 +1532,5 @@
 -[@cquinsay](http://github.com/cquinsay/)
 
 -[@Fuckplastic](https://github.com/Fuckplastic)
+
+- [@KonstHardy](https://github.com/KonstHardy)
