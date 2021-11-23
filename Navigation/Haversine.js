@@ -1,10 +1,12 @@
-/*
-  Calculate the distance between two coordinates using the haversine formula
-  More about: https://pt.wikipedia.org/wiki/F%C3%B3rmula_de_Haversine
-  @Param {number} latitude1
-  @Param {number} latitude2
-  @Param {number} longitude1
-  @Param {number} longitude2
+/**
+ * @function HaversineDistance
+ * @description Calculate the distance between two coordinates using the haversine formula
+ * @param {Integer} latitude1 - The input integer
+ * @param {Integer} latitude2 - The input integer
+ * @param {Integer} longitude1 - The input integer
+ * @param {Integer} longitude2 - The input integer
+ * @return {Integer} Haversine Distance.
+ * @see [Haversine_Distance](https://pt.wikipedia.org/wiki/F%C3%B3rmula_de_Haversine)
  */
 const haversineDistance = (latitude1 = 0, longitude1 = 0, latitude2 = 0, longitude2 = 0) => {
   validateLatOrLong(latitude1)
