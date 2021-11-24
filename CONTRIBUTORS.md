@@ -1555,6 +1555,8 @@
 
 -[@rylphs](https://github.com/rylphs)
 
+-[@SanjaZi](https://github.com/SanjaZi)
+
 -[@DCA17](https://github.com/DCA17/)
 
 -[@psilvestri](https://github.com/psilvestri)
