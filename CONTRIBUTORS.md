@@ -1,5 +1,5 @@
 # CONTRIBUTORS
-
+- [@Takewkat](https://github.com/Takewkat)
 - [@Abdi-Bedaso](https://github.com/abdibedaso)
 
 - [@Aleksey-Voko](https://github.com/Aleksey-Voko)
