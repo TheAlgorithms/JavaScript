@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@Abdi-Bedaso](https://github.com/abdibedaso)
+
 - [@Aleksey-Voko](https://github.com/Aleksey-Voko)
 
 - [@rohansaini886](https://github.com/rohansaini886)
