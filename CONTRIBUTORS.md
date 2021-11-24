@@ -1,6 +1,10 @@
 # CONTRIBUTORS
+- [@Takewkat](https://github.com/Takewkat)
+- [@Abdi-Bedaso](https://github.com/abdibedaso)
 
 - [@Aleksey-Voko](https://github.com/Aleksey-Voko)
+
+- [@rohansaini886](https://github.com/rohansaini886)
 
 - [@swapnil7711](https://github.com/Swapnil7711)
 
@@ -1322,6 +1326,8 @@
 
 - [@Angelvicks](https://github.com/Angelvicks)
 
+- [@Angellee177](https://github.com/angellee177)
+
 - [@Sbyspaceopera](https://github.com/Sbyspaceopera)
 
 - [@nrishingha](https://github.com/nrishingha/)
@@ -1510,3 +1516,61 @@
 -[@sanggam10](https://github.com/sanggam10)
 
 -[@alijbuchan](https://github.com/alijbuchan)
+
+-[@mihaelayo](https://github.com/mihaelayo)
+
+-[@harshitasao](https://github.com/harshitasao)
+
+-[@rohanbobby01](https://github.com/rohanbobby01)
+
+-[@rahul97kumar](https://github.com/rahul97kumar)
+
+-[@tysonmedora6](https://github.com/tysonmedora6)
+
+-[@jodavid](https://github.com/jodvid)
+
+-[@paventis](https://github.com/paventis)
+
+-[@cquinsay](http://github.com/cquinsay/)
+
+-[@Fuckplastic](https://github.com/Fuckplastic)
+
+- [@KonstHardy](https://github.com/KonstHardy)
+
+-[@IAmrinderSingh](https://github.com/IAmrinderSingh)
+
+-[LazyMisha](https://github.com/LazyMisha)
+
+- [@sudwiptokm](https://github.com/sudwiptokm)
+
+-[@ehsansh](https://github.com/ehsansh)
+
+-[@PeterVermeulen01123](https://github.com/PeterVermeulen01123)
+
+-[@alegriaj](https://github.com/alegriaj)
+
+- [@rizqizyd](https://github.com/rizqizyd)
+
+-[@45jerryjoseph](https://github.com/45jerryjoseph)
+
+-[@rylphs](https://github.com/rylphs)
+
+-[@SanjaZi](https://github.com/SanjaZi)
+
+-[@DCA17](https://github.com/DCA17/)
+
+-[@psilvestri](https://github.com/psilvestri)
+
+- [@Gydera](https://github.com/Gydera/)
+
+-[@divyesh-rathod](https://github.com/divyesh-rathod)
+
+-[@fatlumbehrami](https://github.com/fatlumbehrami)
+
+-[@princesison](https://github.com/princesison)
+
+-[@antoniosaoc](https://github.com/antoniosaoc)
+
+-[@theatjln](https://github.com/theatjln)
+
+-[@jripke74](https://github.com/jripke74)
