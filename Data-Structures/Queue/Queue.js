@@ -5,49 +5,52 @@
 * implementation uses an array to store the queue.
 */
 
-// Functions: enqueue, dequeue, peek, view, length
-
-const Queue = (function () {
+// Functions: enqueue, dequeue, peek, view, length, empty
+class Queue {
   // constructor
-  function Queue () {
+  constructor () {
     // This is the array representation of the queue
     this.queue = []
   }
 
   // methods
   // Add a value to the end of the queue
-  Queue.prototype.enqueue = function (item) {
+  enqueue (item) {
     this.queue.push(item)
   }
 
   // Removes the value at the front of the queue
-  Queue.prototype.dequeue = function () {
-    if (this.queue.length === 0) {
+  dequeue () {
+    if (this.empty()) {
       throw new Error('Queue is Empty')
     }
 
-    const result = this.queue[0]
-    this.queue.splice(0, 1) // remove the item at position 0 from the array
-
-    return result
+    return this.queue.shift() // remove the item at position 0 from the array and return it
   }
 
   // Return the length of the queue
-  Queue.prototype.length = function () {
+  length () {
     return this.queue.length
   }
 
   // Return the item at the front of the queue
-  Queue.prototype.peek = function () {
+  peek () {
+    if (this.empty()) {
+      throw new Error('Queue is Empty')
+    }
+
     return this.queue[0]
   }
 
   // List all the items in the queue
-  Queue.prototype.view = function (output = value => console.log(value)) {
+  view (output = value => console.log(value)) {
     output(this.queue)
   }
 
-  return Queue
-}())
+  // Return Is queue empty ?
+  empty () {
+    return this.queue.length === 0
+  }
+}
 
 export { Queue }
