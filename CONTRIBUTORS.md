@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@Abdi-Bedaso](https://github.com/abdibedaso)
+
 - [@Aleksey-Voko](https://github.com/Aleksey-Voko)
 
 - [@rohansaini886](https://github.com/rohansaini886)
@@ -1554,3 +1556,17 @@
 -[@rylphs](https://github.com/rylphs)
 
 -[@SanjaZi](https://github.com/SanjaZi)
+
+-[@DCA17](https://github.com/DCA17/)
+
+-[@psilvestri](https://github.com/psilvestri)
+
+- [@Gydera](https://github.com/Gydera/)
+
+-[@divyesh-rathod](https://github.com/divyesh-rathod)
+
+-[@fatlumbehrami](https://github.com/fatlumbehrami)
+
+-[@princesison](https://github.com/princesison)
+
+-[@antoniosaoc](https://github.com/antoniosaoc)
