@@ -39,21 +39,19 @@ class Graph {
    * @param {number} source The source vertex to start BFS.
    */
   bfs (source, output = value => console.log(value)) {
-    const queue = []
+    const queue = [[source, 0]] // level of source is 0
     const visited = new Set()
-    queue.unshift([source, 0]) // level of source is 0
-    visited.add(source)
+
     while (queue.length) {
-      const front = queue[0]
-      const node = front[0]
-      const level = front[1]
-      queue.shift() // remove the front of the queue
+      const [node, level] = queue.shift() // remove the front of the queue
+      if (visited.has(node)) { // visited
+        continue
+      }
+
+      visited.add(node)
       output(`Visited node ${node} at level ${level}.`)
       for (const next of this.adjacencyMap[node]) {
-        if (!visited.has(next)) { // not visited
-          queue.unshift([next, level + 1]) // level 1 more than current
-          visited.add(next)
-        }
+        queue.push([next, level + 1]) // level 1 more than current
       }
     }
   }
