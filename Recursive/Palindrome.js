@@ -1,21 +1,25 @@
+/**
+ * @function Palindrome
+ * @description Check whether the given string is Palindrome or not.
+ * @param {String} str - The input string
+ * @return {Boolean}.
+ * @see [Palindrome](https://en.wikipedia.org/wiki/Palindrome)
+ */
 
-// Check whether the given string is Palindrome or not
-export const Palindrome = (str) => {
+const palindrome = (str) => {
   if (typeof str !== 'string') {
-    str = str.toString()
+    throw new TypeError('Invalid Input')
   }
 
-  if (str === null || str === undefined) {
-    return false
-  }
-
-  if (str.length === 1 || str.length === 0) {
+  if (str.length <= 1) {
     return true
   }
 
   if (str[0] !== str[str.length - 1]) {
     return false
   } else {
-    return Palindrome(str.slice(1, str.length - 1))
+    return palindrome(str.slice(1, str.length - 1))
   }
 }
+
+export { palindrome }
