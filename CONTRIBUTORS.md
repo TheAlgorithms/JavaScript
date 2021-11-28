@@ -1,5 +1,7 @@
 # CONTRIBUTORS
+
 - [@abinayaprasad](https://github.com/abinayaprasad)
+
 - [@Takewkat](https://github.com/Takewkat)
 
 - [@Abdi-Bedaso](https://github.com/abdibedaso)
@@ -1286,8 +1288,6 @@
 
 - [@Just4CodingNow](https://github.com/Just4CodingNow)
 
-- [@Arpigouswami](https://github.com/Arpigouswami)
-
 - [@luistorres0](https://github.com/luistorres0)
 
 - [@MirnaKvc](https://github.com/MirnaKvc)
@@ -1295,8 +1295,6 @@
 - [@rahulagrawal26](https://github.com/rahulagrawal26)
 
 - [@TeodoraMM](https://github.com/TeodoraMM)
-
-- [@Luis-Pinho](https://github.com/Luis-Pinho)
 
 - [@Hazelle2511](https://github.com/Hazelle2511/)
 
@@ -1603,3 +1601,5 @@
 - [@VenomousHamster](https://github.com/VenomousHamster)
 
 - [@RaghavMaskara21](https://github.com/RaghavMaskara21)
+
+- [@JinalPatel](https://github.com/JinalPatel17/)
