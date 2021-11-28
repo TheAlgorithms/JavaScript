@@ -1603,3 +1603,5 @@
 - [@VenomousHamster](https://github.com/VenomousHamster)
 
 - [@RaghavMaskara21](https://github.com/RaghavMaskara21)
+
+- [@JinalPatel](https://github.com/JinalPatel17/)
