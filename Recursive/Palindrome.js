@@ -7,11 +7,11 @@
  */
 
 const palindrome = (str) => {
-  if (typeof str !== 'string' || str === null || str === undefined) {
+  if (typeof str !== 'string') {
     throw new TypeError('Invalid Input')
   }
 
-  if (str.length === 1 || str.length === 0) {
+  if (str.length <= 1) {
     return true
   }
 
