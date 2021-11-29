@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@abinayaprasad](https://github.com/abinayaprasad)
+
 - [@Takewkat](https://github.com/Takewkat)
 
 - [@Abdi-Bedaso](https://github.com/abdibedaso)
@@ -1088,7 +1090,7 @@
 
 - [@hamzahouri](https://github.com/hamzahouri)
 
-- 
+-
 
 - [@diogoson11](https://github.com/diogoson11)
 
@@ -1156,7 +1158,7 @@
 
 - [@robertWalker68501](https://github.com/robertWalker68501/)
 
-- [@Just4CodingNow](https://github.com/Just4CodingNow) 
+- [@Just4CodingNow](https://github.com/Just4CodingNow)
 
 - [@Arpigouswami](https://github.com/Arpigouswami)
 
@@ -1206,9 +1208,9 @@
 
 - [@RishiRathore7](https://github.com/RishiRathore7)
 
-- [@Aaronphilip2003](https://github.com/Aaronphilip2003) 
+- [@Aaronphilip2003](https://github.com/Aaronphilip2003)
 
-- [MattKubica](https://github.com/MattKubica) 
+- [MattKubica](https://github.com/MattKubica)
 
 - [mtkaul](https://github.com/mtkaul)
 
@@ -1284,10 +1286,6 @@
 
 - [@PenelopeJoice14](https://github.com/PenelopeJoice14/)
 
-- [@Just4CodingNow](https://github.com/Just4CodingNow)
-
-- [@Arpigouswami](https://github.com/Arpigouswami)
-
 - [@luistorres0](https://github.com/luistorres0)
 
 - [@MirnaKvc](https://github.com/MirnaKvc)
@@ -1295,8 +1293,6 @@
 - [@rahulagrawal26](https://github.com/rahulagrawal26)
 
 - [@TeodoraMM](https://github.com/TeodoraMM)
-
-- [@Luis-Pinho](https://github.com/Luis-Pinho)
 
 - [@Hazelle2511](https://github.com/Hazelle2511/)
 
@@ -1605,3 +1601,15 @@
 - [@RaghavMaskara21](https://github.com/RaghavMaskara21)
 
 - [@JinalPatel](https://github.com/JinalPatel17/)
+
+- [@snigdhodutta](https://github.com/Snigdho64)
+
+- [@bergstenarn](https://github.com/bergstenarn)
+
+- [@vanessander](https://github.com/vanessander)
+
+- [@pizzio98](https://github.com/pizzio98)
+
+- [@osuyuanqi](https://github.com/osuyuanqi)
+
+- [@MaxyG43](https://github.com/MaxyG43)
