@@ -5,7 +5,7 @@
 */
 
 class FenwickTree {
-  constructFenwickTree (feneickArray, array, n) {
+  constructor (feneickArray, array, n) {
     for (let i = 1; i <= n; i++) {
       feneickArray[i] = 0
     }
