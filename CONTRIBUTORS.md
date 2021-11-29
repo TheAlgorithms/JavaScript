@@ -1607,3 +1607,5 @@
 - [@bergstenarn](https://github.com/bergstenarn)
 
 - [@vanessander](https://github.com/vanessander)
+
+- [@pizzio98](https://github.com/pizzio98)
