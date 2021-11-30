@@ -6,45 +6,40 @@
 * a singly linked list.
 */
 
-// Functions - add, remove, indexOf, elementAt, addAt, removeAt, view
+// Methods - size, head, addLast, addFirst, addAt, removeFirst, removeLast, remove, removeAt, indexOf, isEmpty,  elementAt, get
 
-// class LinkedList and constructor
-// Creates a LinkedList
-const LinkedList = (function () {
-  function LinkedList () {
-    // Length of linklist and head is null at start
+class Node {
+  constructor (data) {
+    this.data = data
+    this.next = null
+  }
+}
+
+class LinkedList {
+  constructor () {
+    this.headNode = null
     this.length = 0
-    this.head = null
   }
 
-  // Class node (constructor)
-  // Creating Node with element's value
-  const Node = (function () {
-    function Node (element) {
-      this.element = element
-      this.next = null
-    }
-    return Node
-  }())
-
   // Returns length
-  LinkedList.prototype.size = function () {
+  size () {
     return this.length
   }
 
   // Returns the head
-  LinkedList.prototype.head = function () {
-    return this.head
+  head () {
+    return this.headNode ? this.headNode.data : null
   }
 
-  // Creates a node and adds it to linklist
-  LinkedList.prototype.add = function (element) {
+  // add a node at last it to linklist
+  addLast (element) {
     const node = new Node(element)
+
     // Check if its the first element
-    if (this.head === null) {
-      this.head = node
+    if (this.headNode === null) {
+      this.headNode = node
     } else {
-      let currentNode = this.head
+      let currentNode = this.headNode
 
       // Loop till there is a node present in the list
       while (currentNode.next) {
@@ -54,144 +49,168 @@ const LinkedList = (function () {
       // Adding node at the end of the list
       currentNode.next = node
     }
-    // Increment the length
-    this.length++
+
+    this.length++ // Increment the length
   }
 
-  // Removes the node with the value as param
-  LinkedList.prototype.remove = function (element) {
-    let currentNode = this.head
-    let previousNode
+  // add a node at first it to linklist
+  addFirst (element) {
+    const node = new Node(element)
+    node.next = this.headNode
+    this.headNode = node
+    this.length++ // Increment the length
+  }
 
-    // Check if the head node is the element to remove
-    if (currentNode.element === element) {
-      this.head = currentNode.next
-    } else {
-      // Check which node is the node to remove
-      while (currentNode.element !== element) {
-        previousNode = currentNode
+  // remove the first from the linklist
+  removeFirst () {
+    if (this.length > 0) {
+      this.headNode = this.headNode.next
+      this.length--
+    }
+  }
+
+  // remove the last from the linklist
+  removeLast () {
+    if (this.length === 1) {
+      this.headNode = null
+      this.length--
+    } else if (this.length > 1) {
+      let index = 0
+      let currentNode = this.headNode
+      while (index !== this.length - 2) {
+        index++
         currentNode = currentNode.next
       }
 
-      // Removing the currentNode
-      previousNode.next = currentNode.next
+      currentNode.next = null
+      this.length--
+    }
+  }
+
+  // Removes the node with the value as param
+  remove (element) {
+    let currentNode = this.headNode
+
+    // Check if the head node is the element to remove
+    if (currentNode.data === element) {
+      this.headNode = currentNode.next
+    } else {
+      // Check which node is the node to remove
+      while (currentNode && currentNode.next) {
+        if (currentNode.next.data === element) {
+          currentNode.next = currentNode.next.next
+          break
+        }
+        currentNode = currentNode.next
+      }
     }
 
-    // Decrementing the length
-    this.length--
+    this.length-- // Decrementing the length
   }
 
   // Return if the list is empty
-  LinkedList.prototype.isEmpty = function () {
+  isEmpty () {
     return this.length === 0
   }
 
   // Returns the index of the element passed as param otherwise -1
-  LinkedList.prototype.indexOf = function (element) {
-    let currentNode = this.head
-    let index = -1
+  indexOf (element) {
+    let currentNode = this.headNode
+    let index = 0
 
     while (currentNode) {
-      index++
-
       // Checking if the node is the element we are searching for
-      if (currentNode.element === element) {
-        return index + 1
+      if (currentNode.data === element) {
+        return index
       }
       currentNode = currentNode.next
+      index++
     }
 
     return -1
   }
 
   // Returns the element at an index
-  LinkedList.prototype.elementAt = function (index) {
-    let currentNode = this.head
+  elementAt (index) {
+    if (index >= this.length || index < 0) {
+      throw new RangeError('Out of Range index')
+    }
+    let currentNode = this.headNode
     let count = 0
     while (count < index) {
       count++
       currentNode = currentNode.next
     }
-    return currentNode.element
+    return currentNode.data
   }
 
   // Adds the element at specified index
-  LinkedList.prototype.addAt = function (index, element) {
-    index--
+  addAt (index, element) {
     const node = new Node(element)
 
-    let currentNode = this.head
-    let previousNode
-    let currentIndex = 0
-
     // Check if index is out of bounds of list
-    if (index > this.length) {
-      return false
+    if (index > this.length || index < 0) {
+      throw new RangeError('Out of Range index')
     }
 
+    let currentNode = this.headNode
+    let currentIndex = 0
     // Check if index is the start of list
     if (index === 0) {
       node.next = currentNode
-      this.head = node
+      this.headNode = node
     } else {
-      while (currentIndex < index) {
+      while (currentIndex !== index - 1) {
         currentIndex++
-        previousNode = currentNode
         currentNode = currentNode.next
       }
 
       // Adding the node at specified index
-      node.next = currentNode
-      previousNode.next = node
+      const temp = currentNode.next
+      currentNode.next = node
+      node.next = temp
     }
 
     // Incrementing the length
     this.length++
-    return true
   }
 
   // Removes the node at specified index
-  LinkedList.prototype.removeAt = function (index) {
-    index--
-    let currentNode = this.head
-    let previousNode
+  removeAt (index) {
+    let currentNode = this.headNode
     let currentIndex = 0
 
     // Check if index is present in list
     if (index < 0 || index >= this.length) {
-      return null
+      throw new RangeError('Out of Range index')
     }
 
     // Check if element is the first element
     if (index === 0) {
-      this.head = currentNode.next
+      this.headNode = currentNode.next
     } else {
-      while (currentIndex < index) {
+      while (currentIndex !== index - 1) {
         currentIndex++
-        previousNode = currentNode
         currentNode = currentNode.next
       }
-      previousNode.next = currentNode.next
+      currentNode.next = currentNode.next.next
     }
 
     // Decrementing the length
     this.length--
-    return currentNode.element
   }
 
-  // Function to view the LinkedList
-  LinkedList.prototype.view = function (output = value => console.log(value)) {
-    let currentNode = this.head
-    let count = 0
-    while (count < this.length) {
-      count++
-      output(currentNode.element)
+  // Method to get the LinkedList
+  get () {
+    const list = []
+    let currentNode = this.headNode
+    while (currentNode) {
+      list.push(currentNode.data)
       currentNode = currentNode.next
     }
-  }
 
-  // returns the constructor
-  return LinkedList
-}())
+    return list
+  }
+}
 
 export { LinkedList }
