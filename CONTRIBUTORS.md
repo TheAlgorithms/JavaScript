@@ -1613,3 +1613,15 @@
 - [@osuyuanqi](https://github.com/osuyuanqi)
 
 - [@MaxyG43](https://github.com/MaxyG43)
+
+- [@Jaeger-11](https://github.com/Jaeger-11)
+
+- [@hichambq](https://github.com/hichambq)
+
+- [@anas-cho](https://github.com/anas-cho)
+
+- [@alexandrupetrut](https://github.com/alexandrupetrut)
+
+- [@Hassan-28](https://github.com/Hassan-28)
+
+- [@smridhiwho](https://github.com/smridhiwho)
