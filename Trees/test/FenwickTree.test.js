@@ -1,4 +1,4 @@
-import { FenwickTree } from '../FenwickTreeImplementation'
+import { FenwickTree } from '../FenwickTree'
 
 describe('Fenwick Tree Implementation', () => {
   const fenwickArray = new Array(1000)
