@@ -13,7 +13,7 @@ describe('Fenwick Tree Implementation', () => {
   })
 
   array[2] += 6
-  fenwickTree.updateFenwickTree(fenwickArray, length, 2, 6)
+  fenwickTree.update(fenwickArray, length, 2, 6)
 
   it('Fenwick Tree - Prefix sum of Updated array', () => {
     const prefixSum = fenwickTree.getPrefixSum(fenwickArray, 6)

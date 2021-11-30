@@ -10,11 +10,11 @@ class FenwickTree {
       feneickArray[i] = 0
     }
     for (let i = 0; i < n; i++) {
-      this.updateFenwickTree(feneickArray, n, i, array[i])
+      this.update(feneickArray, n, i, array[i])
     }
   }
 
-  updateFenwickTree (feneickArray, n, index, value) {
+  update (feneickArray, n, index, value) {
     index = index + 1
     while (index <= n) {
       feneickArray[index] += value
