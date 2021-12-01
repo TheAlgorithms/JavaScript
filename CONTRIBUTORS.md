@@ -1631,3 +1631,5 @@
 - [@lintong2006](https://github.com/lintong2006)
 
 - [@karyseaweed](https://github.com/karyseaweed)
+
+- [@daniel-ginting](https://github.com/daniel-ginting)
