@@ -26,7 +26,6 @@ export function PermutationinString (s1, s2) {
   while (end < s2.length - 1) {
     if (equals(s1Set, s2Set)) return true
     end++
-    console.log(s2[start], s2[end], equals(s1Set, s2Set))
     const c1 = s2[start]
     const c2 = s2[end]
     if (s2Set[c1] > 0) s2Set[c1]--
