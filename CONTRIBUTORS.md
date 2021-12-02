@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@jaminwebdev](https://github.com/jaminwebdev)
+
 - [@abinayaprasad](https://github.com/abinayaprasad)
 
 - [@Takewkat](https://github.com/Takewkat)
