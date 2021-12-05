@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@jaminwebdev](https://github.com/jaminwebdev)
+
 - [@abinayaprasad](https://github.com/abinayaprasad)
 
 - [@Takewkat](https://github.com/Takewkat)
@@ -1636,4 +1638,30 @@
 
 - [@PedroFumero](https://github.com/PedroFumero)
 
--[@ksXV](https://github.com/ksXV)
+- [@ksXV](https://github.com/ksXV)
+
+-[@aman111222](https://github.com/aman111222)
+
+- [@StaroMoon](https://github.com/StaroMoon)
+
+- [@lenindelarosa](https://github.com/lenindelarosa)
+
+- [@Saif19980](https://github.com/Saif19980)
+
+- [@DimitriTavshavadze](https://github.com/DimitriTavshavadze)
+
+- [Agnieszka26](https://github.com/Agnieszka26)
+
+-[@YashKhatri](https://github.com/Yash-Khatri-31)
+
+-[@daanushaikh](https://github.com/daanushaikh)
+
+-[@valentinlako](https://github.com/valentinlako)
+
+-[@AakashPawanGPS](https://github.com/AakashPawanGPS)
+
+-[@d798-SA](https://github.com/d798-SA)
+
+-[@shaponpal6](https://github.com/shaponpal6)
+
+-[@toxajin](https://github.com/toxajin)
