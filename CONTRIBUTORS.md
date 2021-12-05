@@ -1667,3 +1667,5 @@
 -[@toxajin](https://github.com/toxajin)
 
 -[@d3b0nair](https://github.com/d3b0nair)
+
+-[@magocbi](https://github.com/magocbi)
