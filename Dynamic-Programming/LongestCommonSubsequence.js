@@ -13,7 +13,12 @@ Space complexity: O(M x N)
 We need to store the answer for each of the MxN subproblems.
 
 Improvement:
-It's possible to optimize space consumption to O(min(M, N)). Try to figure out how.
+It's possible to optimize space complexity to O(min(M, N)) or time to O((N + r)log(N))
+where r is the number of matches between the two sequences. Try to figure out how.
+
+References:
+[wikipedia](https://en.wikipedia.org/wiki/Longest_common_subsequence_problem)
+[leetcode](https://leetcode.com/problems/longest-common-subsequence/)
 */
 
  /**
