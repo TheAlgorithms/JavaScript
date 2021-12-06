@@ -1,4 +1,4 @@
-import { longestCommonSubsequence } from "../LongestCommonSubsequence";
+import { longestCommonSubsequence } from '../LongestCommonSubsequence'
 
 describe('LongestCommonSubsequence', () => {
   it('expects to return an empty string for empty inputs', () => {
@@ -27,6 +27,6 @@ describe('LongestCommonSubsequence', () => {
 
   it('expects to return the longest common subsequence, medium-length inputs', () => {
     expect(longestCommonSubsequence('bsbininm', 'jmjkbkjkv')).toEqual('b'.length)
-    expect(longestCommonSubsequence('oxcpqrsvwf', 'shmtulqrypy')).toEqual('qr'.length);
+    expect(longestCommonSubsequence('oxcpqrsvwf', 'shmtulqrypy')).toEqual('qr'.length)
   })
 })

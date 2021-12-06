@@ -21,17 +21,17 @@ References:
 [leetcode](https://leetcode.com/problems/longest-common-subsequence/)
 */
 
- /**
-  * Finds the length of the longest common subsequence
-  * @param {string} str1 Input string #1
-  * @param {string} str2 Input string #2
-  * @returns {number} Length of the longest common subsequence
-  */
-function longestCommonSubsequence(str1, str2) {
+/**
+ * Finds the length of the longest common subsequence
+ * @param {string} str1 Input string #1
+ * @param {string} str2 Input string #2
+ * @returns {number} Length of the longest common subsequence
+ */
+function longestCommonSubsequence (str1, str2) {
   const dp = new Array(str1.length + 1).fill(0)
     .map(() => new Array(str2.length + 1).fill(0))
 
-  function recursive(x, y) {
+  function recursive (x, y) {
     if (x === -1 || y === -1) {
       return 0
     }
@@ -44,12 +44,12 @@ function longestCommonSubsequence(str1, str2) {
       dp[x][y] = 1 + recursive(x - 1, y - 1)
       return dp[x][y]
     } else {
-      dp[x][y] = Math.max(recursive(x - 1, y),recursive(x, y - 1))
+      dp[x][y] = Math.max(recursive(x - 1, y), recursive(x, y - 1))
       return dp[x][y]
     }
   }
 
-  return recursive(str1.length - 1, str2.length - 1);
+  return recursive(str1.length - 1, str2.length - 1)
 }
 
 export { longestCommonSubsequence }
