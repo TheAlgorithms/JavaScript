@@ -1,6 +1,6 @@
 import { BinaryConvert } from '../BinaryConvert'
 
-describe('Binary Convert', () => {
+describe('BinaryConvert', () => {
   it('should return the correct value', () => {
     expect(BinaryConvert(12)).toBe(1100)
   })
