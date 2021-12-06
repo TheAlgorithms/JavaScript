@@ -4,13 +4,16 @@ Given two sequences, find the length of longest subsequence present in both of t
 A subsequence is a sequence that appears in the same relative order, but not necessarily contiguous.
 For example, “abc”, “abg”, “bdf”, “aeg”, ‘”acefg”, .. etc are subsequences of “abcdefg”
 
-Solution:
+Our Solution:
 We use recursion with tabular memoization.
 Time complexity: O(M x N)
 Solving each subproblem has a cost of O(1). Again, there are MxN subproblems,
 and so we get a total time complexity of O(MxN).
 Space complexity: O(M x N)
 We need to store the answer for each of the MxN subproblems.
+
+Improvement:
+It's possible to optimize space consumption to O(min(M, N)). Try to figure out how.
 */
 
  /**
