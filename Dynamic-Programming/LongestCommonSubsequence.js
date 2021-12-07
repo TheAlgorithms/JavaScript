@@ -22,30 +22,33 @@ References:
 */
 
 /**
- * Finds the length of the longest common subsequence
+ * Finds length of the longest common subsequence among the two input string
  * @param {string} str1 Input string #1
  * @param {string} str2 Input string #2
  * @returns {number} Length of the longest common subsequence
  */
 function longestCommonSubsequence (str1, str2) {
-  const dp = new Array(str1.length + 1).fill(0)
-    .map(() => new Array(str2.length + 1).fill(0))
+  const memo = new Array(str1.length + 1).fill(null)
+    .map(() => new Array(str2.length + 1).fill(null))
 
-  function recursive (x, y) {
-    if (x === -1 || y === -1) {
+  function recursive (end1, end2) {
+    if (end1 === -1 || end2 === -1) {
       return 0
     }
 
-    if (dp[x][y] !== 0) {
-      return dp[x][y]
+    if (memo[end1][end2] !== null) {
+      return memo[end1][end2]
     }
 
-    if (str1[x] === str2[y]) {
-      dp[x][y] = 1 + recursive(x - 1, y - 1)
-      return dp[x][y]
+    if (str1[end1] === str2[end2]) {
+      memo[end1][end2] = 1 + recursive(end1 - 1, end2 - 1)
+      return memo[end1][end2]
     } else {
-      dp[x][y] = Math.max(recursive(x - 1, y), recursive(x, y - 1))
-      return dp[x][y]
+      memo[end1][end2] = Math.max(
+        recursive(end1 - 1, end2),
+        recursive(end1, end2 - 1)
+      )
+      return memo[end1][end2]
     }
   }
 
