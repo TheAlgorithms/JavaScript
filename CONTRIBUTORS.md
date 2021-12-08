@@ -1707,3 +1707,7 @@
 -[@fanischam](https://github.com/fanischam)
 
 -[@MalandaCS](https://github.com/MalandaCS)
+
+-[@graficdoctor](https://github.com/graficdoctor/)
+
+-[@q-rault](https://github.com/q-rault/)
