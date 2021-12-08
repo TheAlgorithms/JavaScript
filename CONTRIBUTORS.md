@@ -1706,4 +1706,4 @@
 
 -[@fanischam](https://github.com/fanischam)
 
--[@MalandaCS] (https://github.com/MalandaCS)
+-[@MalandaCS](https://github.com/MalandaCS)
