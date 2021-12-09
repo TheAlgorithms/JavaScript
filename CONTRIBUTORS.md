@@ -1706,8 +1706,16 @@
 
 -[@fanischam](https://github.com/fanischam)
 
--[@MalandaCS](https://github.com/MalandaCS)
-
 -[@graficdoctor](https://github.com/graficdoctor/)
 
 -[@q-rault](https://github.com/q-rault/)
+
+-[@HenryBenYakov](https://github.com/HenryBenYakov)
+
+-[@YazeedEld](https://github.com/YazeedEld)
+
+-[@ayoder243](https://github.com/ayoder243)
+
+-[@athomik79](https://github.com/athomik79)
+
+-[@MalandaCS](https://github.com/MalandaCS)
