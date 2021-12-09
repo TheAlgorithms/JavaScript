@@ -8,22 +8,68 @@
  * else if the length of the array is odd number, the median value will be the middle number in the array
  */
 
-const averageMedian = (numbers) => {
-  let median = 0
-  const numLength = numbers.length
-  numbers = numbers.sort(sortNumbers)
+const toArray = (_iterable, _selector) => {
+  const res = [];
+  if(!_selector) {
+    for (const x of _iterable)
+      res.push(x);
+  }
+  else {
+    for (const x of _iterable)
+      res.push(_selector(x));
+  }
+  return res;
+};
 
-  if (numLength % 2 === 0) {
-    median = (numbers[numLength / 2 - 1] + numbers[numLength / 2]) / 2
-  } else {
-    median = numbers[(numLength - 1) / 2]
+const averageMedian = (_arrayOrIterable, {sort, selector} = {}) => {
+  let array = _arrayOrIterable;
+
+  const isArray = Array.isArray(_arrayOrIterable);
+  if(!isArray)
+    array = toArray(array);
+
+  const len = array.length;
+  if (len <= 0)
+    return undefined;
+  if (len === 1) {
+    if (selector)
+      return selector(array[0]);
+    return array[0];
   }
 
-  return median
-}
+  if (len === 2) {
+    const a = array[0];
+    const b = array[1];
+    if (selector)
+      return 0.5 * (selector(a) + selector(b));
+    return 0.5 * (a + b);
+  }
 
-const sortNumbers = (num1, num2) => {
-  return num1 - num2
+  let data = array;
+  if (sort !== false) {
+    if(isArray)
+      data = [...array];
+
+    if (selector)
+      data.sort((_x, _y) => selector(_x) - selector(_y));
+    else
+      data.sort();
+  }
+
+  if (len % 2 === 0) {
+    const i = len / 2;
+    const a = data[i - 1];
+    const b = data[i];
+    if (selector)
+      return 0.5 * (selector(a) + selector(b));
+    return 0.5 * (a + b);
+  }
+
+  const z = data[(len - 1) >> 1];
+  if (selector)
+    return selector(z);
+
+  return z;
 }
 
 export { averageMedian }
