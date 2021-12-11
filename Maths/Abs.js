@@ -1,15 +1,13 @@
-/*
-    author: PatOnTheBack
-    license: GPL-3.0 or later
-
-    Modified from:
-        https://github.com/TheAlgorithms/Python/blob/master/maths/abs.py
-
-    This script will find the absolute value of a number.
-
-    More about absolute values:
-        https://en.wikipedia.org/wiki/Absolute_value
-*/
+/**
+ * @function absVal
+ * @description This script will find the absolute value of a number.
+ * @param {Integer} num - The input integer
+ * @return {Integer} - Absolute number of num.
+ * @see [Absolute_value](https://en.wikipedia.org/wiki/Absolute_value)
+ * @example absVal(-10) = 10
+ * @example absVal(50) = 50
+ * @example absVal(0) = 0
+ */
 
 const absVal = (num) => {
   // Find absolute value of `num`.
