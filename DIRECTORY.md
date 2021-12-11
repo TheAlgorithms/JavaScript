@@ -155,7 +155,6 @@
   * [CoPrimeCheck](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/CoPrimeCheck.js)
   * [DecimalIsolate](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/DecimalIsolate.js)
   * [DegreeToRadian](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/DegreeToRadian.js)
-  * [DigitSum](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/DigitSum.js)
   * [EulerMethod](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/EulerMethod.js)
   * [EulersTotient](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/EulersTotient.js)
   * [EulersTotientFunction](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/EulersTotientFunction.js)
