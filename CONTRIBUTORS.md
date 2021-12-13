@@ -1739,3 +1739,29 @@
 -[@KaramMajdi7](https://github.com/KaramMajdi7)
 
 -[@jesusgz11](https://github.com/jesusgz11)
+
+-[@RoninChimera](https://github.com/RoninChimera)
+
+-[@jonathanpizarra](https://github.com/jonathanpizarra)
+
+-[@RomeoGatcha](https://github.com/RomeoGatcha)
+
+-[@matthapps](https://github.com/matthapps)
+
+-[@sravanthbaratam](https://github.com/sravanthbaratam)
+
+-[@KeepHandsClean](https://github.com/KeepHandsClean)
+
+-[@abhijeetsatpute](https://github.com/abhijeetsatpute)
+
+-[@FatemaBohra](https://github.com/FatemaBohra)
+
+-[@mahiworld] (https://github.com/mahiworld)
+
+-[@MelissaOfficina](https://github.com/MelissaOfficina)
+
+-[@pruthvianveshmuga](https://github.com/pruthvianveshmuga)
+
+-[@antoninabagrin] (https://github.com/antoninabagrin)
+
+-[@kum9748ar] (https://github.com/kum9748ar)
