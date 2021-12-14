@@ -1765,3 +1765,13 @@
 -[@antoninabagrin] (https://github.com/antoninabagrin)
 
 -[@kum9748ar] (https://github.com/kum9748ar)
+
+-[eelnagem](https://github.com/eelnagem)
+
+-[jggsus88](https://github.com/jggsus88)
+
+-[@Marek-Kosmowski](https://github.com/Marek-Kosmowski)
+
+-[@Showshow21217](https://github.com/Showshow21217)
+
+-[@Rida999](https://github.com/Rida999)
