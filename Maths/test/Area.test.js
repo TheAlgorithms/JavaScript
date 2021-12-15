@@ -14,6 +14,7 @@ describe('Testing surfaceAreaCube calculations', () => {
     expect(() => area.surfaceAreaCube('199')).toThrow()
   })
 })
+
 describe('Testing surfaceAreaSphere calculations', () => {
   it('with correct value', () => {
     const calculateArea = area.surfaceAreaSphere(5)
@@ -24,6 +25,7 @@ describe('Testing surfaceAreaSphere calculations', () => {
     expect(() => area.surfaceAreaSphere(-1)).toThrow()
   })
 })
+
 describe('Testing areaRectangle calculations', () => {
   it('with correct args', () => {
     const areaRectangle = area.areaRectangle(2.5, 2)
@@ -36,6 +38,7 @@ describe('Testing areaRectangle calculations', () => {
     expect(() => area.areaRectangle(23, 'zero')).toThrow()
   })
 })
+
 describe('Testing areaSquare calculations', () => {
   it('with correct args', () => {
     const areaSquare = area.areaSquare(2.5)
@@ -46,6 +49,7 @@ describe('Testing areaSquare calculations', () => {
     expect(() => area.areaSquare('zero')).toThrow()
   })
 })
+
 describe('Testing areaTriangle calculations', () => {
   it('with correct args', () => {
     const areaTriangle = area.areaTriangle(1.66, 3.44)
@@ -56,6 +60,19 @@ describe('Testing areaTriangle calculations', () => {
     expect(() => area.areaTriangle(9, 'zero')).toThrow()
   })
 })
+
+describe('Testing areaTriangleWithAllThreeSides calculations', () => {
+  it('with correct args', () => {
+    const areaTriangle = area.areaTriangleWithAllThreeSides(5, 6, 7)
+    expect(areaTriangle).toBe(14.7)
+  })
+  it('with incorrect sides, expect throw', () => {
+    expect(() => area.areaTriangleWithAllThreeSides(-1, 1, 10)).toThrow()
+    expect(() => area.areaTriangleWithAllThreeSides(9, 'zero', 2)).toThrow()
+    expect(() => area.areaTriangleWithAllThreeSides(1, 10, 12)).toThrow()
+  })
+})
+
 describe('Testing areaParallelogram calculations', () => {
   it('with correct args', () => {
     const areaParallelogram = area.areaParallelogram(1.66, 3.44)
@@ -66,6 +83,7 @@ describe('Testing areaParallelogram calculations', () => {
     expect(() => area.areaParallelogram(9, 'zero')).toThrow()
   })
 })
+
 describe('Testing areaTrapezium calculations', () => {
   it('with correct args', () => {
     const areaTrapezium = area.areaTrapezium(1.66, 2.41, 4.1)
@@ -77,6 +95,7 @@ describe('Testing areaTrapezium calculations', () => {
     expect(() => area.areaTrapezium(9, 1, 'seven')).toThrow()
   })
 })
+
 describe('Testing areaCircle calculations', () => {
   it('with correct args', () => {
     const areaCircle = area.areaCircle(3.456)
@@ -87,6 +106,7 @@ describe('Testing areaCircle calculations', () => {
     expect(() => area.areaCircle('zero')).toThrow()
   })
 })
+
 describe('Testing areaRhombus calculations', () => {
   it('with correct args', () => {
     const areaRhombus = area.areaRhombus(2.5, 2.0)
