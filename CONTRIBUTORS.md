@@ -2,6 +2,8 @@
 
 - [@jaminwebdev](https://github.com/jaminwebdev)
 
+- [@Shyamu431](https://github.com/Shyamu431)
+
 - [@abinayaprasad](https://github.com/abinayaprasad)
 
 - [@Takewkat](https://github.com/Takewkat)
