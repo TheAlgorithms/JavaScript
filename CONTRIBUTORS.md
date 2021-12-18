@@ -2,6 +2,8 @@
 
 - [@jaminwebdev](https://github.com/jaminwebdev)
 
+-  [@Shyamu431](https://github.com/Shyamu431)
+
 - [@abinayaprasad](https://github.com/abinayaprasad)
 
 - [@Takewkat](https://github.com/Takewkat)
@@ -1775,3 +1777,31 @@
 -[@Showshow21217](https://github.com/Showshow21217)
 
 -[@Rida999](https://github.com/Rida999)
+
+-[@Tasha53505](https://github.com/Tasha53505)
+
+-[@Durotimicodes](https://github.com/@Durotimicodes/)
+
+-[@Codyjamesie](https://github.com/Codyjamesie)
+
+-[@Ashish9836](https://github.com/Ashish9836)
+
+-[@hanschen666](https://github.com/hanschen666)
+
+-[@Ayush-019](https://github.com/Ayush-019)
+
+-[@Dhruv-Mahajan1](https://github.com/Dhruv-Mahajan1)
+
+-[@lucasvoltera](https://github.com/lucasvoltera/)
+
+-[@jacobcasas](https://github.com/jacobcasas/)
+
+-[@hamzaaldirawi](https://github.com/hamzaaldirawi)
+
+-[@Xuan19](https://github.com/Xuan19)
+
+-[@shiwali](https://github.com/ShiwaliDhiman)
+
+-[@SunilBoopalan](https://github.com/SunilBoopalan)
+
+-[@Marc0s7](https://github.com/Marc0s7/)
