@@ -1812,4 +1812,6 @@
 
 -[@Isaac7app](https://github.com/Isaac7app)
 
+-[@Mayheptad](https://github.com/Mayheptad)
+
 -[@D3stDark](https://github.com/D3stDark)
