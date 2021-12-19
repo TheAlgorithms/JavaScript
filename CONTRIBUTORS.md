@@ -1827,3 +1827,5 @@
 -[@SoloLevelUp](https://github.com/SoloLevelUp)
 
 -[@KevinT27](https://github.com/KevinT27)
+
+-[@reactmallo](https://github.com/reactmallo)
