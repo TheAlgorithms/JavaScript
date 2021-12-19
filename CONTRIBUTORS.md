@@ -1805,3 +1805,17 @@
 -[@SunilBoopalan](https://github.com/SunilBoopalan)
 
 -[@Marc0s7](https://github.com/Marc0s7/)
+
+-[@vabhkumar](https://github.com/vabhkumar/)
+
+-[@harry-shitt](https://github.com/harry-shitt/)
+
+-[@Isaac7app](https://github.com/Isaac7app)
+
+-[@Mayheptad](https://github.com/Mayheptad)
+
+-[@D3stDark](https://github.com/D3stDark)
+
+-[@alexyin0978](https://github.com/alexyin0978)
+
+-[@JohannLHD](https://github.com/JohannLHD)
