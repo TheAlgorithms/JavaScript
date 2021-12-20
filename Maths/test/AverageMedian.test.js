@@ -19,9 +19,3 @@ test('should return the median of an array of numbers:', () => {
   const medianValue = averageMedian([1, 2, 3, 4, 6, 8])
   expect(medianValue).toBe(3.5)
 })
-
-test('shouldn`t change source array', () => {
-  const sourceArray = [3, 2, 1, 4, 6, 8];
-  averageMedian(sourceArray)
-  expect(sourceArray).toEqual([3, 2, 1, 4, 6, 8]);
-})

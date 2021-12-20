@@ -1,3 +1,13 @@
+/*
+ * Median: https://en.wikipedia.org/wiki/Median
+ *
+ * function averageMedian
+ * to find the median value of an array of numbers
+ * the numbers in an array will be sorted in ascending order by the function sortNumbers
+ * if the length of the array is even number, the median value will be the average of the two middle numbers
+ * else if the length of the array is odd number, the median value will be the middle number in the array
+ */
+
 const averageMedian = (_numbers) => {
   let numbers = [..._numbers];
   let median = 0
@@ -10,7 +20,7 @@ const averageMedian = (_numbers) => {
     median = numbers[(numLength - 1) / 2]
   }
 
-  return median;
+  return median
 }
 
 const sortNumbers = (num1, num2) => {
