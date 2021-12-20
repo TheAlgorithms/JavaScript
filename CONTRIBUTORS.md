@@ -1837,3 +1837,9 @@
 -[@Mirai](https://github.com/eyedent1ty)
 
 -[@lyntee](https://github.com/lyntee)
+
+-[@vanimus](https://github.com/vanimus)
+
+-[@JakeWLang](https://github.com/jakewlang)
+
+-[@edu14ca](https://github.com/edu14ca)
