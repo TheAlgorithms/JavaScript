@@ -1848,3 +1848,6 @@
 
 - [@JohannLHD](https://github.com/JohannLHD)
 
+-[@lyntee](https://github.com/lyntee)
+
+-[@JockeyMini](https://github.com/JockeyMini)
