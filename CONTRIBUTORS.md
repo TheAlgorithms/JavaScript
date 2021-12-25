@@ -1891,3 +1891,5 @@
 - [@ltdatphan](https://github.com/ltdatphan)
 
 - [@IsmanDaiyrov](https://github.com/IsmanDaiyrov)
+
+- [@edu2andrade](https://github.com/edu2andrade)
