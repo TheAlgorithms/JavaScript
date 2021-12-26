@@ -1907,3 +1907,5 @@
 -[@lkdgr8](https://github.com/lkdgr8/)
 
 -[@deniafe](https://github.com/deniafe)
+
+-[@Hady El Turk](https://github.com/HadyElTurk)
