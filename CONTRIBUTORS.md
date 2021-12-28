@@ -1943,3 +1943,5 @@
 -[@X610S-06](https://github.com/X610S-06)
 
 -[Madhura Tayade](https://github.com/MadhuraSubhashTayade)
+
+-[@karolpaul-design](https://github.com/karolpaul-design)
