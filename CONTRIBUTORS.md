@@ -1932,4 +1932,6 @@
 
 -[@gooseNJuice](https://github.com/gooseNjuice)
 
--[@LucianaAlbuquerque] (https://github.com/lucianaalbuquerque)
+-[@LucianaAlbuquerque](https://github.com/lucianaalbuquerque)
+
+-[@AliSoftware-D](https://github.com/AliSoftware-D)
