@@ -1969,3 +1969,5 @@
 -[@tilltonystark] (https://github.com/tilltonystark/)
 
 -[@SamoKrose] (https://github.com/SamoKrose/)
+
+-[@jcvegan] (https://github.com/jcvegan/)
