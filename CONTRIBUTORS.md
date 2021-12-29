@@ -1448,6 +1448,8 @@
 
 - [@Topai-Ioan](https://github.com/Topai-Ioan)
 
+- [oduold](https://github.com/oduold)
+
 - [@suyash-dubli](https://github.com/suyash-dubli)
 
 - [@DeepWander](https://github.com/DeepWander)
