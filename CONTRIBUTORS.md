@@ -166,6 +166,8 @@
 
 - [@Greeshma03](https://github.com/Greeshma-03/)
 
+- [@gurjeetsinghvirdee](https://github.com/gurjeetsinghvirdee)
+
 - [@HVAIDH5](https://github.com/HVAIDH5)
 
 - [@HaiderAliDev](https://github.com/Haider-Ali-Dev)
@@ -2009,5 +2011,13 @@
 -[@Metwesh](https://github.com/Metwesh)
 
 -[@gasemjabbari](https://github.com/gasemjabbari)
+
+-[@SandraNaim](https://github.com/SandraNaim)
+
+-[@rdcrth](https://github.com/rdcrth)
+
+-[@Sheng-wei-Tsai](https://github.com/Sheng-wei-Tsai)
+
+-[@l-ram](https://github.com/l-ram)
 
 -[@test](https://github.com/test)
