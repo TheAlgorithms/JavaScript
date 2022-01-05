@@ -162,6 +162,8 @@
 
 - [@gipsi](https://github.com/gipsi)
 
+- [@git-devansh](https://github.com/git-devansh)
+
 - [@Gomatheeswaran](https://github.com/Gomatheeswaran)
 
 - [@Greeshma03](https://github.com/Greeshma-03/)
@@ -2016,6 +2018,8 @@
 
 -[@rdcrth](https://github.com/rdcrth)
 
+-[@sahilpatel09](https://github.com/sahilpatel09)
+
 -[@Sheng-wei-Tsai](https://github.com/Sheng-wei-Tsai)
 
 -[@l-ram](https://github.com/l-ram)
@@ -2031,3 +2035,10 @@
 -[@akashnaundla](https://github.com/akashnaundla)
 
 -[@edwinmbugua](https://github.com/edwinmbugua)
+
+-[@juno-junho](https://github.com/juno-junho)
+
+-[@freddykembo](https://github.com/freddykembo)
+
+-[@Milha](https://github.com/Milha)
+
