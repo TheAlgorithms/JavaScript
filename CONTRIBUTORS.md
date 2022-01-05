@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@dan-sftdev](https://github.com/dan-sftdev)
+
 - [@jaminwebdev](https://github.com/jaminwebdev)
 
 - [@Shyamu431](https://github.com/Shyamu431)
