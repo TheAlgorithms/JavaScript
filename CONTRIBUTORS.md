@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@dan-sftdev](https://github.com/dan-sftdev)
+
 - [@jaminwebdev](https://github.com/jaminwebdev)
 
 - [@Shyamu431](https://github.com/Shyamu431)
@@ -2041,3 +2043,19 @@
 -[@Milha](https://github.com/Milha)
 
 -[@Viniel](https://github.com/Viniel)
+
+-[@PrabhsharanSingh](https://github.com/PrabhsharanSingh)
+
+-[@npxrus](https://github.com/npxrus)
+
+-[@NguyenJohnnyT](https://github.com/NguyenJohnnyT) 
+
+-[@Borensz](https://github.com/Borensz/)
+
+-[@dandevmd](https://github.com/dandevmd/)
+
+-[@hari4742](https://github.com/hari4742/)
+
+-[@Paddi1893](https://github.com/Paddi1893)
+
+-[@Logan-Manor](https://github.com/Logan-Manor)
