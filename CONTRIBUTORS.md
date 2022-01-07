@@ -2046,7 +2046,7 @@
 
 -[@npxrus](https://github.com/npxrus)
 
--[@NguyenJohnnyT](https://github.com/NguyenJohnnyT) 
+-[@NguyenJohnnyT](https://github.com/NguyenJohnnyT)
 
 -[@Borensz](https://github.com/Borensz/)
 
@@ -2061,3 +2061,5 @@
 -[@RasulovFazliddin](https://github.com/RasulovFazliddin)
 
 -[@artursem](https://github.com/artursem)
+
+-[@Lada496](https://github.com/Lada496)
