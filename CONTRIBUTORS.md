@@ -2059,3 +2059,5 @@
 -[@Logan-Manor](https://github.com/Logan-Manor)
 
 -[@RasulovFazliddin](https://github.com/RasulovFazliddin)
+
+-[@artursem](https://github.com/artursem)
