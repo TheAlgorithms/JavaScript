@@ -12,7 +12,7 @@
 
 const binarySearch = (arr, low = 0, high = arr.length - 1, searchValue) => {
   if (high >= low) {
-    const mid = low + Math.floor((high - low) / 2)
+    const mid = Math.floor((high + low) / 2)
 
     // If the element is present at the middle
     if (arr[mid] === searchValue) {
