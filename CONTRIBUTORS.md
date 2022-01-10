@@ -2095,3 +2095,5 @@
 -[@Mareks1993] (https://github.com/Mareks1993)
 
 -[@Vishal-ux-spec](https://github.com/Vishal-ux-spec)
+
+-[@Adityajl](https://github.com/Adityajl)
