@@ -2099,7 +2099,7 @@
 -[@Adityajl](https://github.com/Adityajl)
 
 -[@faisalibal33](https://github.com/faisalibal33)
- 
+
 -[@OlgVol] (https://github.com/OlgVol)
 
 -[@fidicin] (https://github.com/fidicin)
@@ -2107,3 +2107,47 @@
 -[@anakinsonone](https://github.com/anakinsonone)
 
 -[@deveshpatel31](https://github.com/deveshpatel31)
+
+-[@Daprojects1](https://github.com/Daprojects1)
+
+-[@Kaawy](https://github.com/Kaawy)
+
+-[@procesorplus](https://github.com/procesorplus)
+
+-[@siddhantmittal024](https://github.com/siddhantmittal024)
+
+-[@vilay1702](https://github.com/vilay1702)
+
+-[@pbmanapat](https://github.com/pbmanapat)
+
+-[@fakewook](https://github.com/fakewook)
+
+-[@DevTechJr](https://github.com/DevTechJr)
+
+-[@waniroman](https://github.com/waniroman)
+
+-[@stefanr1991](https://github.com/stefanr1991)
+
+-[@alemhar](https://github.com/alemhar)
+
+-[@eyodegree](https://github.com/eyodegree)
+
+-[@maninderSidhu](https://github.com/github4maninder)
+
+-[@shaileshkr7](https://github.com/shaileshkr7/)
+
+-[@rrehlert](https://github.com/rrehlert)
+
+-[@misato0804](https://github.com/misato0804)
+
+-[@willsbit](https://github.com/willsbit)
+
+-[@voletro](https://github.com/voletro)
+
+-[@AtillaP](https://github.com/AtillaP)
+
+-[@joesayat](https://github.com/joesayat)
+
+-[@Animesh-sudo](https://github.com/Animesh-sudo) 
+
+-[@DonMarvex](https://github.com/DonMarvex)
