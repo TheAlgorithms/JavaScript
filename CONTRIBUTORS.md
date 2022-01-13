@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@dan-sftdev](https://github.com/dan-sftdev)
+
 - [@jaminwebdev](https://github.com/jaminwebdev)
 
 - [@Shyamu431](https://github.com/Shyamu431)
@@ -101,6 +103,8 @@
 - [@BKmotoz](https://github.com/BKmotoz)
 
 - [@BehnamShahriari](https://github.com/behnam-shahriari)
+
+- [@BenTan101](https://github.com/BenTan101)
 
 - [@Benr027](https://github.com/Benr027)
 
@@ -2041,4 +2045,112 @@
 -[@freddykembo](https://github.com/freddykembo)
 
 -[@Milha](https://github.com/Milha)
+
+-[@PrabhsharanSingh](https://github.com/PrabhsharanSingh)
+
+-[@npxrus](https://github.com/npxrus)
+
+-[@NguyenJohnnyT](https://github.com/NguyenJohnnyT)
+
+-[@Borensz](https://github.com/Borensz/)
+
+-[@dandevmd](https://github.com/dandevmd/)
+
+-[@hari4742](https://github.com/hari4742/)
+
+-[@Paddi1893](https://github.com/Paddi1893)
+
+-[@Logan-Manor](https://github.com/Logan-Manor)
+
+-[@RasulovFazliddin](https://github.com/RasulovFazliddin)
+
+-[@artursem](https://github.com/artursem)
+
+-[@Lada496](https://github.com/Lada496)
+
+-[@rciszewski](https://github.com/rciszewski)
+
+-[@subverzon](https://github.com/Subverzon)
+
+-[@vGerar](https://github.com/vGerar)
+
+-[@NemesisLW](https://github.com/NemesisLW)
+
+-[@iudchenko](https://github.com/iudchenko)
+
+-[@jack-oleary](https://github.com/jack-oleary/)
+
+-[@PrinceMahdi](https://github.com/PrinceMahdi)
+
+-[@vigneshshettyin](https://github.com/vigneshshettyin)
+
+-[@MrJithil](https://github.com/MrJithil)
+
+-[@renatopetean](https://github.com/renatopetean)
+
+-[@CHMALU](https://github.com/CHMALU)
+
+-[@Xmara](https://github.com/Xmara)
+
+-[@Terminex19] (https://github.com/Terminex19)
+
+-[@Mareks1993] (https://github.com/Mareks1993)
+
+-[@Vishal-ux-spec](https://github.com/Vishal-ux-spec)
+
+-[@Adityajl](https://github.com/Adityajl)
+
+-[@faisalibal33](https://github.com/faisalibal33)
+
+-[@OlgVol] (https://github.com/OlgVol)
+
+-[@fidicin] (https://github.com/fidicin)
+
+-[@anakinsonone](https://github.com/anakinsonone)
+
+-[@deveshpatel31](https://github.com/deveshpatel31)
+
+-[@Daprojects1](https://github.com/Daprojects1)
+
+-[@Kaawy](https://github.com/Kaawy)
+
+-[@procesorplus](https://github.com/procesorplus)
+
+-[@siddhantmittal024](https://github.com/siddhantmittal024)
+
+-[@vilay1702](https://github.com/vilay1702)
+
+-[@pbmanapat](https://github.com/pbmanapat)
+
+-[@fakewook](https://github.com/fakewook)
+
+-[@DevTechJr](https://github.com/DevTechJr)
+
+-[@waniroman](https://github.com/waniroman)
+
+-[@stefanr1991](https://github.com/stefanr1991)
+
+-[@alemhar](https://github.com/alemhar)
+
+-[@eyodegree](https://github.com/eyodegree)
+
+-[@maninderSidhu](https://github.com/github4maninder)
+
+-[@shaileshkr7](https://github.com/shaileshkr7/)
+
+-[@rrehlert](https://github.com/rrehlert)
+
+-[@misato0804](https://github.com/misato0804)
+
+-[@willsbit](https://github.com/willsbit)
+
+-[@voletro](https://github.com/voletro)
+
+-[@AtillaP](https://github.com/AtillaP)
+
+-[@joesayat](https://github.com/joesayat)
+
+-[@Animesh-sudo](https://github.com/Animesh-sudo) 
+
+-[@DonMarvex](https://github.com/DonMarvex)
 
