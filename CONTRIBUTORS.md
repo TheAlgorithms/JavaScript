@@ -2164,4 +2164,4 @@
 
 -[@inesreis](https://github.com/inesreis)
 
-- [@chadegomez](https://githum.com/chadegomez)
+-[@chadegomez](https://github.com/chadegomez)
