@@ -2148,7 +2148,7 @@
 
 -[@joesayat](https://github.com/joesayat)
 
--[@Animesh-sudo](https://github.com/Animesh-sudo) 
+-[@Animesh-sudo](https://github.com/Animesh-sudo)
 
 -[@DonMarvex](https://github.com/DonMarvex)
 
@@ -2180,3 +2180,4 @@
 
 -[@yaelbel](https://github.com/yaelbel)
 
+-[@ColonelBucket8](https://github.com/ColonelBucket8)
