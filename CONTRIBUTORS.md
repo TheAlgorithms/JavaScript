@@ -2148,6 +2148,46 @@
 
 -[@joesayat](https://github.com/joesayat)
 
--[@Animesh-sudo](https://github.com/Animesh-sudo) 
+-[@Animesh-sudo](https://github.com/Animesh-sudo)
 
 -[@DonMarvex](https://github.com/DonMarvex)
+
+-[@binal-12](https://github.com/binal-12)
+
+-[@ThisIsAryan](https://github.com/ThisIsAryan)
+
+-[@BreyRivera2021](https://github.com/BreyRivera2021)
+
+-[@rinkusam12](https://github.com/rinkusam12)
+
+-[@stephnna](https://github.com/stephnna)
+
+-[@inesreis](https://github.com/inesreis)
+
+-[@chadegomez](https://github.com/chadegomez)
+
+-[@rizquadnan](https://github.com/rizquadnan)
+
+-[@Dimitris-Kaler](https://github.com/Dimitris-Kaler)
+
+-[@ms394](https://github.com/ms394)
+
+-[@aiyetoro4] (https://github.com/aiyetoro4)
+
+-[@KatyaNichi] (https://github.com/KatyaNichi)
+
+-[@gxdreamy](https://github.com/gxdreamy)
+
+-[@yaelbel](https://github.com/yaelbel)
+
+-[@ColonelBucket8](https://github.com/ColonelBucket8)
+
+-[@anubhavdevv](https://github.com/anubhavdevv)
+
+-[@pangambu](https://github.com/pangambu)
+
+- [@JoshuaM13](https://github.com/JoshuaM13)
+
+-[@Mahmoud-Barry](https://github.com/Mahmoud-Barry)
+
+-[@anquabkhan](https://github.com/anquabkhan)
