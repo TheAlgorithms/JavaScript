@@ -2,6 +2,8 @@
 
 - [@b-blazej](https://github.com/b-blazej)
 
+- [@Manish Bajagai](https://github.com/manishbajagai2)
+
 - [@dan-sftdev](https://github.com/dan-sftdev)
 
 - [@jaminwebdev](https://github.com/jaminwebdev)
