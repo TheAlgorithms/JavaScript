@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@b-blazej](https://github.com/b-blazej)
+
 - [@dan-sftdev](https://github.com/dan-sftdev)
 
 - [@jaminwebdev](https://github.com/jaminwebdev)
