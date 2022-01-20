@@ -6,11 +6,9 @@ Read below to see how you can join an existing project or create your own.
 
 We don't care if you break things. This is a playground and we encourage failing often. Use this as a practice ground and enjoy contributing to projects you create with your fellow students. Many students have gained real world experience "working in teams" by working on these projects.
 
-## A Guide to Get Started
+## A Guide to Get Started (used to be the 4 step guide)
 
-1. Read the wonderful [_gitStarted Guide_](https://github.com/zero-to-mastery/start-here-guidelines/blob/855a00243db60c71905f6e3afd95ebf2cf7459a0/gitstartedguideoptimized.pdf) by our fellow student [@wanraitelli](https://github.com/wanraitelli).
-
-   Check out [Andrei's videos on github](https://www.udemy.com/the-complete-web-developer-in-2018/learn/v4/t/lecture/8725782/) or this free how-to tutorial at http://makeapullrequest.com/.
+1. Check out [Andrei's videos on github](https://www.youtube.com/watch?v=JN63v_czZqI) if you haven't watched it already. As an option, you can also check out the    [_gitStarted Guide_](https://github.com/zero-to-mastery/start-here-guidelines/blob/855a00243db60c71905f6e3afd95ebf2cf7459a0/gitstartedguideoptimized.pdf) by      our fellow student [@wanraitelli](https://github.com/wanraitelli).
 
 2. On the [GitHub page for this repository](https://github.com/zero-to-mastery/start-here-guidelines), click on the Button "Fork".
 

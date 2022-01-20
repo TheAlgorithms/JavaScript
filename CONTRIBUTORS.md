@@ -1,5 +1,9 @@
 # CONTRIBUTORS
 
+- [@b-blazej](https://github.com/b-blazej)
+
+- [@Manish Bajagai](https://github.com/manishbajagai2)
+
 - [@dan-sftdev](https://github.com/dan-sftdev)
 
 - [@jaminwebdev](https://github.com/jaminwebdev)
@@ -413,6 +417,8 @@
 - [@Uma998](https://github.com/Uma998)
 
 - [@Ushisha](https://github.com/Ushisha)
+
+- [@Utkarsh736](https://github.com/Utkarsh736)
 
 - [@VKMBOSS](https://github.com/VKM-BOSS)
 
@@ -2199,3 +2205,17 @@
 - [@iambolu](https://github.com/iambolu)
 
 -[@ansi13c](https://github.com/ansi13c)
+
+-[@Premkrishna2442](https://github.com/Premkrishna2442)
+
+-[@datdevdez](https://github.com/datdevdez)
+
+-[@Noems20](https://github.com/Noems20)
+
+-[@ArturPoole24](https://github.com/ArturPoole24)
+
+-[@fofana215](https://github.com/fofana215)
+
+-[@Shashanka8](https://github.com/Shashanka8)
+
+-[@cyhfe](https://github.com/cyhfe)
