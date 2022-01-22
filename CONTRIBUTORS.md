@@ -2244,4 +2244,8 @@
 
 - [@Flo-git](https://github.com/Flo-git)
 
+-[@KatyaNichi] (https://github.com/KatyaNichi)
+
+-[@kunehenry](https://github.com/kunehenry)
+
 -[@muhammadasif2017](https://github.com/muhammadasif2017)
