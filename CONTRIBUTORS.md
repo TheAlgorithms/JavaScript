@@ -2232,6 +2232,8 @@
 
 -[akshar-23](https://github.com/akshar-23)
 
+-[@Animesh-sudo](https://github.com/Animesh-sudo)
+
 -[@kanishkjha](https://github.com/kanishkjha)
 
 -[@Harley-Marshall](https://github.com/Harley-marshall)
@@ -2247,5 +2249,9 @@
 -[@KatyaNichi] (https://github.com/KatyaNichi)
 
 -[@kunehenry](https://github.com/kunehenry)
+
+-[@chadegomez](https://github.com/chadegomez)
+
+-[@Gurmander](https://github.com/gurmander)
 
 -[@muhammadasif2017](https://github.com/muhammadasif2017)
