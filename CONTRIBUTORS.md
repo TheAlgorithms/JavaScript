@@ -2234,6 +2234,40 @@
 
 -[@Animesh-sudo](https://github.com/Animesh-sudo)
 
+-[@DonMarvex](https://github.com/DonMarvex)
+
+-[@binal-12](https://github.com/binal-12)
+
+-[@ThisIsAryan](https://github.com/ThisIsAryan)
+
+-[@BreyRivera2021](https://github.com/BreyRivera2021)
+
+-[@rinkusam12](https://github.com/rinkusam12)
+
+-[@stephnna](https://github.com/stephnna)
+
+-[@inesreis](https://github.com/inesreis)
+
+-[@martim0t0](https://github.com/martim0t0)
+
+-[@chadegomez](https://github.com/chadegomez)
+
+-[@rizquadnan](https://github.com/rizquadnan)
+
+-[@Dimitris-Kaler](https://github.com/Dimitris-Kaler)
+
+-[@ms394](https://github.com/ms394)
+
+-[@aiyetoro4] (https://github.com/aiyetoro4)
+
+-[@KatyaNichi] (https://github.com/KatyaNichi)
+
+-[@gxdreamy](https://github.com/gxdreamy)
+
+-[@yaelbel](https://github.com/yaelbel)
+
+-[@ColonelBucket8](https://github.com/ColonelBucket8)
+
 -[@kanishkjha](https://github.com/kanishkjha)
 
 -[@Harley-Marshall](https://github.com/Harley-marshall)
