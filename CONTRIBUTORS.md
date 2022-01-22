@@ -2282,10 +2282,16 @@
 
 -[@KatyaNichi] (https://github.com/KatyaNichi)
 
+-[@Animesh-sudo](https://github.com/Animesh-sudo)
+
 -[@kunehenry](https://github.com/kunehenry)
 
 -[@chadegomez](https://github.com/chadegomez)
 
 -[@Gurmander](https://github.com/gurmander)
+
+-[@BreyRivera2021](https://github.com/BreyRivera2021)
+
+-[@Rashi1999](https://github.com/Rashi1999)
 
 -[@muhammadasif2017](https://github.com/muhammadasif2017)
