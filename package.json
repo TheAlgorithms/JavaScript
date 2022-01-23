@@ -17,7 +17,7 @@
     "atob": "2.1.2",
     "jsdom": "^16.3.0",
     "node": "^14.13.1",
-    "node-fetch": "2.6.1"
+    "node-fetch": "3.1.1"
   },
   "standard": {
     "env": [
