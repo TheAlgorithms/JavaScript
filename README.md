@@ -28,8 +28,13 @@ We don't care if you break things. This is a playground and we encourage failing
 
     Learn more about [forking](https://help.github.com/en/github/getting-started-with-github/fork-a-repo) and [cloning a repo](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository).
 
+4. Shift to project directory:
 
-4. Before you make any changes, [keep your fork in sync](https://www.freecodecamp.org/news/how-to-sync-your-fork-with-the-original-git-repository/) to avoid merge conflicts:
+    ```bash
+    cd start-here-guidelines
+    ```
+
+5. Before you make any changes, [keep your fork in sync](https://www.freecodecamp.org/news/how-to-sync-your-fork-with-the-original-git-repository/) to avoid merge conflicts:
 
     ```bash
     git remote add upstream https://github.com/zero-to-mastery/start-here-guidelines.git
@@ -38,7 +43,7 @@ We don't care if you break things. This is a playground and we encourage failing
 
     If you run into a **merge conflict**, you have to resolve the conflict. There are a lot of guides online, or you can try this one by [opensource.com](https://opensource.com/article/20/4/git-merge-conflict).
 
-5. After adding the upstream and checking that all files are up to date, we now will create new branch before editing any files. There are two ways to do so:
+6. After adding the upstream and checking that all files are up to date, we now will create new branch before editing any files. There are two ways to do so:
     
     ```bash
     git checkout -b <branch-name>
@@ -50,9 +55,9 @@ We don't care if you break things. This is a playground and we encourage failing
     ```
 
 
-6. On your computer, open your text editor, and add your name to the `CONTRIBUTORS.md` file.
+7. On your computer, open your text editor, and add your name to the `CONTRIBUTORS.md` file.
 
-7. Add the changes with `git add`, `git commit` ([write a good commit message](https://chris.beams.io/posts/git-commit/), if possible):
+8. Add the changes with `git add`, `git commit` ([write a good commit message](https://chris.beams.io/posts/git-commit/), if possible):
 
     ```bash
     git add CONTRIBUTORS.md
@@ -61,23 +66,23 @@ We don't care if you break things. This is a playground and we encourage failing
 
     **Replace \<your-github-username\>!**
 
-8. Push your changes _to your repository_:
+9. Push your changes _to your repository_:
 
     ```bash
     git push origin master
     ```
 
-9. Go to the GitHub page of _your fork_, and make a pull request:
+10. Go to the GitHub page of _your fork_, and make a pull request:
 
     ![pull request image](https://help.github.com/assets/images/help/pull_requests/choose-base-and-compare-branches.png)
 
     Read more about pull requests on the [GitHub help pages](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
-10. Wait until Zerobot or one of the maintainers merges your pull request. If there are any conflicts, you will get a notification.
+11. Wait until Zerobot or one of the maintainers merges your pull request. If there are any conflicts, you will get a notification.
 
-11. Go join a project and start contributing or create your own group apps. Don't be shy and enjoy creating things together (We have over 20 projects for all level of programmers)! [Check out this guide](https://github.com/zero-to-mastery/start-here-guidelines/blob/master/Get_Started.md) for more information on selecting a project.
+12. Go join a project and start contributing or create your own group apps. Don't be shy and enjoy creating things together (We have over 20 projects for all level of programmers)! [Check out this guide](https://github.com/zero-to-mastery/start-here-guidelines/blob/master/Get_Started.md) for more information on selecting a project.
 
-12. To see the Zero to Mastery Icon in your GitHub profile, [follow these steps](https://help.github.com/articles/publicizing-or-hiding-organization-membership/) (you must complete step 1 and 2 for this to work).
+13. To see the Zero to Mastery Icon in your GitHub profile, [follow these steps](https://help.github.com/articles/publicizing-or-hiding-organization-membership/) (you must complete step 1 and 2 for this to work).
 
 ## Anatomy of an open source project:
 
