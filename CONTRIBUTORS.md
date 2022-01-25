@@ -2264,6 +2264,10 @@
 
 - [@Maxxx2000](https://github.com/Maxxx2000)
 
+- [@albertb24](https://github.com/albertb24/)
+
+- [@K-eL](https://github.com/K-eL)
+
 - [@TuhinBanerjee31](https://github.com/TuhinBanerjee31)
 
 - [@brunojustino](https://github.com/brunojustino)
