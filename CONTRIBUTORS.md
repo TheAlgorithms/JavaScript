@@ -2278,6 +2278,10 @@
 
 - [@An2ans](https://github.com/An2ans)
 
+- [@Smallz97] (https://github.com/Smallz97)
+
+- [@candebarcelo](https://github.com/candebarcelo)
+
 - [@suren-sn](https://github.com/suren-sn)
 
 - [@arianagh](https://github.com/arianagh)
