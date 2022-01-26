@@ -2276,7 +2276,15 @@
 
 - [@maijasb](https://github.com/maijasb)
 
-- [@arianagh](https://github.com/arianagh)
+- [@An2ans](https://github.com/An2ans)
 
--[@amberitas17](https://github.com/amberitas17)
+- [@Smallz97] (https://github.com/Smallz97)
+
+- [@candebarcelo](https://github.com/candebarcelo)
+
+- [@suren-sn](https://github.com/suren-sn)
+
+- [@amberitas17](https://github.com/amberitas17)
+
+- [@arianagh](https://github.com/arianagh)
 
