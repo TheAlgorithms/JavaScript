@@ -2280,9 +2280,11 @@
 
 - [@maijasb](https://github.com/maijasb)
 
+- [@iammursal](https://github.com/iammursal)
+
 - [@An2ans](https://github.com/An2ans)
 
-- [@Smallz97] (https://github.com/Smallz97)
+- [@Smallz97](https://github.com/Smallz97)
 
 - [@candebarcelo](https://github.com/candebarcelo)
 
