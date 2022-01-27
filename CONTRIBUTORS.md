@@ -126,6 +126,8 @@
 
 - [@StavrosCaptain](https://github.com/StavrosCaptain)
 
+- [@Chaitanya1512](https://github.com/Chaitanya1512)
+
 - [@ChristianJayDC](https://github.com/ChristianJayDC)
 
 - [@Clannis](https://github.com/Clannis)
