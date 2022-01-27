@@ -4,11 +4,15 @@
 
 - [@Manish Bajagai](https://github.com/manishbajagai2)
 
+- [@JeelanisharifS](https://github.com/JeelanisharifS)
+
 - [@dan-sftdev](https://github.com/dan-sftdev)
 
 - [@jaminwebdev](https://github.com/jaminwebdev)
 
 - [@Shyamu431](https://github.com/Shyamu431)
+
+- [@aroramrinaal](https://github.com/aroramrinaal)
 
 - [@abinayaprasad](https://github.com/abinayaprasad)
 
@@ -126,6 +130,8 @@
 
 - [@StavrosCaptain](https://github.com/StavrosCaptain)
 
+- [@Chaitanya1512](https://github.com/Chaitanya1512)
+
 - [@ChristianJayDC](https://github.com/ChristianJayDC)
 
 - [@Clannis](https://github.com/Clannis)
@@ -189,6 +195,8 @@
 - [@HaylzRandom](https://github.com/HaylzRandom)
 
 - [@HrushikeshMandekar](https://github.com/HrushikeshMandekar)
+
+- [@Kevinnm](https://github.com/Kevnnm)
 
 - [@Iamcrazymanny](https://github.com/Iamcrazymanny)
 
@@ -2206,6 +2214,8 @@
 
 - [@JoshuaM13](https://github.com/JoshuaM13)
 
+- [@skywalkerSam](https://github.com/skywalkerSam)
+
 - [@Mahmoud-Barry](https://github.com/Mahmoud-Barry)
 
 - [@anquabkhan](https://github.com/anquabkhan)
@@ -2270,15 +2280,19 @@
 
 - [@TuhinBanerjee31](https://github.com/TuhinBanerjee31)
 
+- [@leonardbailey](https://github.com/leonardbailey)
+
 - [@brunojustino](https://github.com/brunojustino)
 
 - [@candebarcelo](https://github.com/candebarcelo)
 
 - [@maijasb](https://github.com/maijasb)
 
+- [@iammursal](https://github.com/iammursal)
+
 - [@An2ans](https://github.com/An2ans)
 
-- [@Smallz97] (https://github.com/Smallz97)
+- [@Smallz97](https://github.com/Smallz97)
 
 - [@candebarcelo](https://github.com/candebarcelo)
 
@@ -2286,6 +2300,13 @@
 
 - [@arianagh](https://github.com/arianagh)
 
+- [@asau75](https://github.com/asau75)
+
 - [@Alouche-Mustapha](https://github.com/Alouche-Mustapha)
 
-- [@ShyTech1](https://github.com/ShyTech1) 
+- [@HaimHamiel](https://github.com/HaimHamiel)
+
+- [@don1525](https://github.com/don1525)
+
+- [@ansumansahu](https://github.com/ansumansahu)
+>>>>>>> b6734a6c2f21276dbd14c0e0000eb1a05d872dec
