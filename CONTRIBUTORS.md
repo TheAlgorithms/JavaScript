@@ -12,6 +12,8 @@
 
 - [@Shyamu431](https://github.com/Shyamu431)
 
+- [@aroramrinaal](https://github.com/aroramrinaal)
+
 - [@abinayaprasad](https://github.com/abinayaprasad)
 
 - [@Takewkat](https://github.com/Takewkat)
