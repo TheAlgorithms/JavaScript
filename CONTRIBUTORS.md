@@ -194,6 +194,8 @@
 
 - [@HrushikeshMandekar](https://github.com/HrushikeshMandekar)
 
+- [@Kevinnm](https://github.com/Kevnnm)
+
 - [@Iamcrazymanny](https://github.com/Iamcrazymanny)
 
 - [@Ibrahim](https://github.com/piincher)
