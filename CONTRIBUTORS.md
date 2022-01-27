@@ -2302,7 +2302,5 @@
 
 - [@Alouche-Mustapha](https://github.com/Alouche-Mustapha)
 
-<<<<<<< HEAD
 - [@don1525](https://github.com/don1525)
-=======
->>>>>>> ecbaef051a0365d5d748644a88d782acd2aa7442
+
