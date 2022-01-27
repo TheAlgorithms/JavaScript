@@ -2272,6 +2272,8 @@
 
 - [@TuhinBanerjee31](https://github.com/TuhinBanerjee31)
 
+- [@leonardbailey](https://github.com/leonardbailey)
+
 - [@brunojustino](https://github.com/brunojustino)
 
 - [@candebarcelo](https://github.com/candebarcelo)
