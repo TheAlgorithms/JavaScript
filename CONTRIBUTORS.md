@@ -4,6 +4,8 @@
 
 - [@Manish Bajagai](https://github.com/manishbajagai2)
 
+-[@JeelanisharifS](https://github.com/JeelanisharifS)
+
 - [@dan-sftdev](https://github.com/dan-sftdev)
 
 - [@jaminwebdev](https://github.com/jaminwebdev)
