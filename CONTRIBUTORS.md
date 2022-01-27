@@ -4,7 +4,7 @@
 
 - [@Manish Bajagai](https://github.com/manishbajagai2)
 
--[@JeelanisharifS](https://github.com/JeelanisharifS)
+- [@JeelanisharifS](https://github.com/JeelanisharifS)
 
 - [@dan-sftdev](https://github.com/dan-sftdev)
 
@@ -2212,7 +2212,7 @@
 
 - [@JoshuaM13](https://github.com/JoshuaM13)
 
--[@skywalkerSam](https://github.com/skywalkerSam)
+- [@skywalkerSam](https://github.com/skywalkerSam)
 
 - [@Mahmoud-Barry](https://github.com/Mahmoud-Barry)
 
@@ -2298,9 +2298,7 @@
 
 - [@arianagh](https://github.com/arianagh)
 
-
 - [@asau75](https://github.com/asau75)
 
 - [@Alouche-Mustapha](https://github.com/Alouche-Mustapha)
 
-- [@don1525] (https://github.com/don1525)
