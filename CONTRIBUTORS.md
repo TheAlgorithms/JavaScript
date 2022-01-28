@@ -2030,7 +2030,7 @@
 
 - [@Metwesh](https://github.com/Metwesh)
 
-- [@Taylorburk](https://github.com/Taylorburk/) 
+- [@Taylorburk](https://github.com/Taylorburk/)
 
 - [@gasemjabbari](https://github.com/gasemjabbari)
 
@@ -2312,4 +2312,4 @@
 
 - [@ansumansahu](https://github.com/ansumansahu)
 
-- [@skassanjee](https://github.com/skassanjee)
+- [@JoeAtEgypt](https://github.com/JoeAtEgypt)
