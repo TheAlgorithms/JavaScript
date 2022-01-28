@@ -2317,7 +2317,9 @@
 
 - [@hsh988](https//github.com/hsh988)
 
-- [@ytsou1230](https://github.com/ytsou1230)
+- [@ytsou1230](https://github.com/ytsou12)
+
+- [@chilledoutluke](https://github.com/chilledoutluke)
 
 - [@JonRivers30](https://github.com/JonRivers30)
 
