@@ -2303,7 +2303,7 @@
 
 - [@arianagh](https://github.com/arianagh)
 
-- [@Anand_Balasubramanian] (https://github.com/ananthu99)
+- [@joeTHAgoat](https://github.com/joeTHAgoat)
 
 - [@asau75](https://github.com/asau75)
 
