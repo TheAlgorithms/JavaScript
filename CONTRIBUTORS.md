@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@pcamelofreitas](https://github.com/pcamelofreitas)
+
 - [@saulgavrilov](https://github.com/saulgavrilov)
 
 - [@b-blazej](https://github.com/b-blazej)
