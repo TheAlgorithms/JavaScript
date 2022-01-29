@@ -2349,6 +2349,6 @@
 
 - [@jgeiger2](https://github.com/jgeiger2)
 
-- [@CarlosA88] (https://github.com/CarlosA88/)
+- [@CarlosA88](https://github.com/CarlosA88/)
 
 - [@lezejde](https://github.com/lezejde)
