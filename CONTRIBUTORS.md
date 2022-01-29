@@ -2331,7 +2331,6 @@
 
 - [@antonio-erick](https://github.com/antonio-erick)
 
-master
 -[@anquabkhan](https://github.com/anquabkhan)
 
 -[@sstroz](https://github.com/sstroz)
