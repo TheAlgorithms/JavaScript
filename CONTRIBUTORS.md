@@ -2296,7 +2296,10 @@
 
 - [@maijasb](https://github.com/maijasb)
 
+- [@sumitvadhera01](https://github.com/sumitvadhera01)
+
 - [@tsengantaikgo](https://github.com/tsengantaikgo)
+
 - [@iammursal](https://github.com/iammursal)
 
 - [@An2ans](https://github.com/An2ans)
