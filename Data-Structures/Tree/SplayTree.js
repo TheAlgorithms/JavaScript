@@ -188,6 +188,8 @@ class SplayTree {
         };
     }  
 
+    /*
+    Next three functions print directly to console
     
     traversePreOrder() {
             if (this.root === null) {
@@ -227,10 +229,11 @@ class SplayTree {
                 }
                 traversePostOrder(this.root);
             };               
-    }     
+    }  
+    */
 }
   
-
+/*
 // Example
 
 const st = new SplayTree();
