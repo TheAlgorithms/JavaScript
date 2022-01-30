@@ -1,3 +1,21 @@
+/*
+
+A splay tree is a binary search tree with the additional property that recently accessed elements are quick to access again. 
+Like self-balancing binary search trees, a splay tree performs basic operations such as insertion, look-up and removal in 
+O(log n) amortized time. For many sequences of non-random operations, splay trees perform better than other search trees, even
+performing better than O(log n) for sufficiently non-random patterns, all without requiring advance knowledge of the pattern.
+The splay tree was invented by Daniel Sleator and Robert Tarjan in 1985.[1]
+
+All normal operations on a binary search tree are combined with one basic operation, called splaying. Splaying the tree for a 
+certain element rearranges the tree so that the element is placed at the root of the tree. One way to do this with the basic search
+operation is to first perform a standard binary tree search for the element in question, and then use tree rotations in a specific
+fashion to bring the element to the top. Alternatively, a top-down algorithm can combine the search and the tree reorganization into
+a single phase. 
+
+(Excerpt from taken from wikipedia, https://en.wikipedia.org/wiki/Splay_tree)
+*/
+
+
 class Node {
     constructor(data) {
         this.data = data;
