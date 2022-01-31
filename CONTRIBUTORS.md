@@ -2366,7 +2366,7 @@
 
 - [@khushsan121](https://github.com/khushsan121)
 
-- [@Raphdoo] (https://github.com/raphdoo/)
+- [@Raphdoo](https://github.com/raphdoo/)
 
 - [@ChrisCastle8](https://github.com/ChrisCastle8/)
  
@@ -2383,5 +2383,7 @@
 - [@arnibalt](https://github.com/arnibalt)
 
 - [@MHShayek](https://github.com/MHShayek)
+
 - [@Diegoes7](https://github.com/Diegoes7/)
+
 - [@Amirmansour97](https://github.com/Amirmansour97/)
