@@ -2381,5 +2381,7 @@
 - [@lalhming-muana](https://github.com/lalhming-muana)
 
 - [@arnibalt](https://github.com/arnibalt)
-- 
-- [@erischon](https://github.com/erischon)
+
+
+- [@MHShayek](https://github.com/MHShayek)
+- [@Diegoes7](https://github.com/Diegoes7/)
