@@ -6,6 +6,8 @@
 
 - [@b-blazej](https://github.com/b-blazej)
 
+- [@sananm](https://github.com/sananm)
+
 - [@Manish Bajagai](https://github.com/manishbajagai2)
 
 - [@JeelanisharifS](https://github.com/JeelanisharifS)
