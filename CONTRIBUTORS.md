@@ -188,6 +188,8 @@
 
 - [@Gaurang20](https://github.com/Gaurang2-0/)
 
+- [@Gautam-Hegde](https://github.com/Gautam-Hegde)
+
 - [@GhostOrder28](https://github.com/GhostOrder28)
 
 - [@gipsi](https://github.com/gipsi)
