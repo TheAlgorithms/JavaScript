@@ -384,6 +384,8 @@
 
 - [@RishiKoul](https://github.com/rishi-koul)
 
+- [@rkrupnick](https://github.com/rkrupnick)
+
 - [@Roadtomillion04](https://github.com/Roadtomillion04)
 
 - [@Rohanvolety](https://github.com/RohanVolety)
