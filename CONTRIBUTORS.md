@@ -2473,3 +2473,5 @@
 - [@parthdhawale](https://github.com/parthdhawale)
 
 - [@Ekoorits](https://github.com/Ekoorits)
+
+- [@kajarosz](https://github.com/kajarosz)
