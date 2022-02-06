@@ -2483,3 +2483,5 @@
 - [@al-jacks](https://github.com/al-jacks)
 
 - [@c-vefra](https://github.com/c-vefra)
+
+- [@minkos](https://github.com/minkos)
