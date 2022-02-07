@@ -178,6 +178,8 @@
 
 - [@Ernestocanada](https://github.com/Ernestocanada)
 
+- [@Edilson](https://github.com/edilsonmatola)
+
 - [@Ezeh20](https://github.com/Ezeh20)
 
 - [@FayasNoushad](https://github.com/FayasNoushad)
@@ -2510,5 +2512,3 @@
 - [@mrsakib94](https://github.com/mrsakib94)
 
 - [@JoaquinB2000](https://github.com/Joaquinb2000)
-
-- [@Edilson](https://github.com/edilsonmatola)
