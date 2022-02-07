@@ -69,7 +69,7 @@ We don't care if you break things. This is a playground and we encourage failing
 9. Push your changes _to your repository_:
 
     ```bash
-    git push origin master
+    git push origin <branch-name> 
     ```
 
 10. Go to the GitHub page of _your fork_, and make a pull request:
