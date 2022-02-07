@@ -2501,9 +2501,13 @@
 
 - [@Vilma](https://github.com/codevivi/)
 
+- [@Arijit10x](https://github.com/Arijit10x/)
+
 - [@tousifahmedah](https://github.com/tousifahmedah/)
 
 - [@armelk0](https://github.com/armelk0)
+
+- [@labakg](https://github.com/labakg)
 
 - [@ajaybasra](https://github.com/ajaybasra)
 
@@ -2518,7 +2522,7 @@
 - [@rahbar11](https://github.com/rahbar11)
 
 - [@han044](https://github.com/han044)
--
+
 - [@shakerdl](https://github.com/shakerdl)
 
 - [@nvsco-10](https://github.com/nvsco-10)
