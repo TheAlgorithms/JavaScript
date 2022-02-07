@@ -2501,6 +2501,8 @@
 
 - [@Vilma](https://github.com/codevivi/)
 
+- [@Arijit10x](https://github.com/Arijit10x/)
+
 - [@tousifahmedah](https://github.com/tousifahmedah/)
 
 - [@armelk0](https://github.com/armelk0)
