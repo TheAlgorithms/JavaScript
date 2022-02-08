@@ -2544,4 +2544,4 @@
 
 - [@human2l] (https://github.com/human2l)
 
-- [@Angad-Godara] (https://github.com/Angad-Godara)
+- [@Angad-Godara](https://github.com/Angad-Godara)
