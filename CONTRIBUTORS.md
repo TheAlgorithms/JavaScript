@@ -2575,7 +2575,7 @@
 - [@superkoteman](https://github.com/superkoteman)
 
 - [@foopizza](https://github.com/foopizza)
-  
+
 - [@MukendiMputu](https://github.com/MukendiMputu)
 
 - [@KonstantynRomanowski](https://github.com/KonstantynRomanowski)
@@ -2590,3 +2590,5 @@
 
 - [@SreemaanKCKS](https://github.com/SreemaanKCKS)
 - [@Anosh21](https://github.com/Anosh21)
+
+-[@Artantat](https://github.com/Artantat)
