@@ -2582,11 +2582,14 @@
 
 - [@msrana25](https://github.com/msrana25)
 
--[@jonfaldmo](https://github.com/jonfaldmo)
+- [@jonfaldmo](https://github.com/jonfaldmo)
 
 - [@EsmailAlemad](https://github.com/EsmailAlemad)
 
 - [@kien123456k](https://github.com/kien123456k)
 
 - [@SreemaanKCKS](https://github.com/SreemaanKCKS)
+
 - [@Anosh21](https://github.com/Anosh21)
+
+- [@stefrotaru](https://github.com/stefrotaru)
