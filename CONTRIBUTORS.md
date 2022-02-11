@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@chiayenho](https://github.com/chiayenho)
+
 - [@DavidAlejandro18](https://github.com/DavidAlejandro18)
 
 - [@pcamelofreitas](https://github.com/pcamelofreitas)
