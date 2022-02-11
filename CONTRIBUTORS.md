@@ -1400,7 +1400,7 @@
 
 - [@keanojorda](https://github.com/keanojorda)
 
-- [@lizabethA01](https://github.com/ElizabethA01))
+- [@lizabethA01](https://github.com/ElizabethA01)
 
 - [@cmleo](https://github.com/cmleo/)
 
@@ -1420,7 +1420,7 @@
 
 - [@JoshuaEmor](https://github.com/JoshuaEmor)
 
-- [@chin24](https://github.com/chin24))
+- [@chin24](https://github.com/chin24)
 
 - [@Lejla1502](https://github.com/Lejla1502)
 
@@ -2542,9 +2542,9 @@
 
 - [@ACRUNO](https://github.com/ACRUNO)
 
-- [@huynhkthai] (https://github.com/huynhkthai)
+- [@huynhkthai](https://github.com/huynhkthai)
 
-- [@human2l] (https://github.com/human2l)
+- [@human2l](https://github.com/human2l)
 
 - [@Angad-Godara](https://github.com/Angad-Godara)
 
@@ -2584,7 +2584,7 @@
 
 - [@msrana25](https://github.com/msrana25)
 
--[@jonfaldmo](https://github.com/jonfaldmo)
+- [@jonfaldmo](https://github.com/jonfaldmo)
 
 - [@EsmailAlemad](https://github.com/EsmailAlemad)
 
@@ -2593,16 +2593,16 @@
 - [@SreemaanKCKS](https://github.com/SreemaanKCKS)
 - [@Anosh21](https://github.com/Anosh21)
 
--[@Artantat](https://github.com/Artantat)
+- [@Artantat](https://github.com/Artantat)
 
 - [@quantranwot](https://github.com/quantranwot)
 
 - [@Abhishekbhalekar](https://github.com/Abhishekbhalekar)
 
--[@SamLasky](https://github.com/SamLasky)
+- [@SamLasky](https://github.com/SamLasky)
 
--[@khaivern](https://github.com/khaivern)
+- [@khaivern](https://github.com/khaivern)
 
--[@Farhadhpr](https://github.com/Farhadhpr)
+- [@Farhadhpr](https://github.com/Farhadhpr)
 
 - [@kyleines](https://github.com/kyleines)
