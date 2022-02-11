@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+-[@Hegeman-Thomas001](https://github.com/Hegeman-Thomas001)
+
 - [@chiayenho](https://github.com/chiayenho)
 
 - [@DavidAlejandro18](https://github.com/DavidAlejandro18)
