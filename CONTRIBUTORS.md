@@ -2254,6 +2254,8 @@
 
 - [@ansi13c](https://github.com/ansi13c)
 
+- [@Flo-git](https://github.com/Flo-git)
+
 - [@Premkrishna2442](https://github.com/Premkrishna2442)
 
 - [@datdevdez](https://github.com/datdevdez)
@@ -2285,8 +2287,6 @@
 - [@Sycendin](https://github.com/Sycendin)
 
 - [@zekpause](https://github.com/zekpause)
-
-- [@Flo-git](https://github.com/Flo-git)
 
 - [@kunehenry](https://github.com/kunehenry)
 
@@ -2544,9 +2544,9 @@
 
 - [@ACRUNO](https://github.com/ACRUNO)
 
-- [@huynhkthai] (https://github.com/huynhkthai)
+- [@huynhkthai](https://github.com/huynhkthai)
 
-- [@human2l] (https://github.com/human2l)
+- [@human2l](https://github.com/human2l)
 
 - [@Angad-Godara](https://github.com/Angad-Godara)
 
@@ -2564,7 +2564,7 @@
 
 - [@RjHuffaker](https://github.com/RjHuffaker)
 
-- [@pbmanapat](https://github.com/pbmanapat)
+- [@dannylc24](https://github.com/dannylc24)
 
 - [@KRollins25](https://github.com/KRollins26)
 
@@ -2577,6 +2577,8 @@
 - [@gmunro](https://github.com/gmunro90)
 
 - [@superkoteman](https://github.com/superkoteman)
+
+- [@egeyil](https://github.com/egeyil)
 
 - [@foopizza](https://github.com/foopizza)
 
@@ -2592,10 +2594,15 @@
 
 - [@kien123456k](https://github.com/kien123456k)
 
+- [@AlibiMelis](https://github.com/AlibiMelis)
+
 - [@SreemaanKCKS](https://github.com/SreemaanKCKS)
+
 - [@Anosh21](https://github.com/Anosh21)
 
 - [@Artantat](https://github.com/Artantat)
+
+- [@stefrotaru](https://github.com/stefrotaru)
 
 - [@quantranwot](https://github.com/quantranwot)
 
@@ -2620,3 +2627,5 @@
 - [@Tarunvegi-dev](https://github.com/Tarunvegi-dev)
 
 - [@Mkr1984](https://github.com/Mkr1984)
+
+- [@Moso2006-gh](https://github.com/Moso2006-gh)
