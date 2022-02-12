@@ -1,6 +1,6 @@
 # CONTRIBUTORS
 
--[@Hegeman-Thomas001](https://github.com/Hegeman-Thomas001)
+- [@Hegeman-Thomas001](https://github.com/Hegeman-Thomas001)
 
 - [@chiayenho](https://github.com/chiayenho)
 
@@ -2252,11 +2252,9 @@
 
 - [@iambolu](https://github.com/iambolu)
 
--[@ansi13c](https://github.com/ansi13c)
-
--[@Flo-git](https://github.com/Flo-git)
-
 - [@ansi13c](https://github.com/ansi13c)
+
+- [@Flo-git](https://github.com/Flo-git)
 
 - [@Premkrishna2442](https://github.com/Premkrishna2442)
 
@@ -2289,8 +2287,6 @@
 - [@Sycendin](https://github.com/Sycendin)
 
 - [@zekpause](https://github.com/zekpause)
-
-- [@Flo-git](https://github.com/Flo-git)
 
 - [@kunehenry](https://github.com/kunehenry)
 
@@ -2568,11 +2564,7 @@
 
 - [@RjHuffaker](https://github.com/RjHuffaker)
 
-- [@pbmanapat](https://github.com/pbmanapat)
-
-- [@dannylc24] (https://github.com/dannylc24)
-
-- [@pbmanapat](https://github.com/pbmanapat)
+- [@dannylc24](https://github.com/dannylc24)
 
 - [@KRollins25](https://github.com/KRollins26)
 
@@ -2590,8 +2582,6 @@
 
 - [@foopizza](https://github.com/foopizza)
 
-- [@foopizza](https://github.com/foopizza)
-
 - [@MukendiMputu](https://github.com/MukendiMputu)
 
 - [@KonstantynRomanowski](https://github.com/KonstantynRomanowski)
@@ -2606,14 +2596,9 @@
 
 - [@AlibiMelis](https://github.com/AlibiMelis)
 
-- [@EsmailAlemad](https://github.com/EsmailAlemad)
-
-- [@kien123456k](https://github.com/kien123456k)
-
 - [@SreemaanKCKS](https://github.com/SreemaanKCKS)
 
 - [@Anosh21](https://github.com/Anosh21)
-
 
 - [@stefrotaru](https://github.com/stefrotaru)
 
@@ -2631,20 +2616,18 @@
 
 - [@kyleines](https://github.com/kyleines)
 
--[@Farhadhpr](https://github.com/Farhadhpr)
+- [@kushal1922](https://github.com/kushal1922)
 
--[@kushal1922](https://github.com/kushal1922)
+- [@itsvvill](https://github.com/itsvvill)
 
--[@itsvvill](https://github.com/itsvvill)
-
--[@gcastrocastro](https://github.com/gcastrocastro)
+- [@gcastrocastro](https://github.com/gcastrocastro)
 
 - [@dev-sampsonorson](https://github.com/dev-sampsonorson)
 
--[@robertwby87](https://github.com/robertwby87)
+- [@robertwby87](https://github.com/robertwby87)
 
--[@Tarunvegi-dev](https://github.com/Tarunvegi-dev)
+- [@Tarunvegi-dev](https://github.com/Tarunvegi-dev)
 
--[@Mkr1984](https://github.com/Mkr1984)
+- [@Mkr1984](https://github.com/Mkr1984)
 
--[@Moso2006-gh](https://github.com/Moso2006-gh)
+- [@Moso2006-gh](https://github.com/Moso2006-gh)
