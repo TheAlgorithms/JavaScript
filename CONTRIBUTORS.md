@@ -2566,6 +2566,10 @@
 
 - [@pbmanapat](https://github.com/pbmanapat)
 
+- [@dannylc24] (https://github.com/dannylc24)
+
+- [@pbmanapat](https://github.com/pbmanapat)
+
 - [@KRollins25](https://github.com/KRollins26)
 
 - [@huzaifaghazali](https://github.com/huzaifaghazali)
@@ -2586,7 +2590,10 @@
 
 - [@msrana25](https://github.com/msrana25)
 
--[@jonfaldmo](https://github.com/jonfaldmo)
+- [@jonfaldmo](https://github.com/jonfaldmo)
+
+- [@EsmailAlemad](https://github.com/EsmailAlemad)
+
 
 - [@EsmailAlemad](https://github.com/EsmailAlemad)
 
@@ -2595,7 +2602,7 @@
 - [@SreemaanKCKS](https://github.com/SreemaanKCKS)
 - [@Anosh21](https://github.com/Anosh21)
 
--[@Artantat](https://github.com/Artantat)
+- [@Artantat](https://github.com/Artantat)
 
 - [@quantranwot](https://github.com/quantranwot)
 
