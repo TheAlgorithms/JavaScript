@@ -2582,6 +2582,10 @@
 
 - [@superkoteman](https://github.com/superkoteman)
 
+- [@egeyil](https://github.com/egeyil)
+
+- [@foopizza](https://github.com/foopizza)
+
 - [@foopizza](https://github.com/foopizza)
 
 - [@MukendiMputu](https://github.com/MukendiMputu)
