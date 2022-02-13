@@ -1,6 +1,6 @@
-import { LinkedList } from '../SinglyLinkList'
+import { LinkedList } from '../SinglyLinkedList'
 
-describe('SinglyLinkList', () => {
+describe('SinglyLinkedList', () => {
   it('Check addLast', () => {
     const list = new LinkedList()
     expect(list.get()).toEqual([])
