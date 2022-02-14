@@ -40,6 +40,8 @@
 
 - [@swapnil7711](https://github.com/Swapnil7711)
 
+- [@vishalvishalgupta](https://github.com/vishalvishalgupta)
+
 - [@12otherWays](https://github.com/12otherWays)
 
 - [@ducanh4531](https://github.com/ducanh4531)
