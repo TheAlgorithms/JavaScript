@@ -10,7 +10,7 @@
  * @see [BinarySearch](https://en.wikipedia.org/wiki/Binary_search_algorithm)
  */
 
-const binarySearch = (arr, low = 0, high = arr.length - 1, searchValue) => {
+const binarySearch = (arr, searchValue, low = 0, high = arr.length - 1) => {
   if (high >= low) {
     const mid = low + Math.floor((high - low) / 2)
 
@@ -22,11 +22,11 @@ const binarySearch = (arr, low = 0, high = arr.length - 1, searchValue) => {
     // If element is smaller than mid, then
     // it can only be present in left subarray
     if (arr[mid] > searchValue) {
-      return binarySearch(arr, low, mid - 1, searchValue)
+      return binarySearch(arr, searchValue, low, mid - 1)
     }
 
     // Else the element can only be present in right subarray
-    return binarySearch(arr, mid + 1, high, searchValue)
+    return binarySearch(arr, searchValue, mid + 1, high)
   }
 
   // We reach here when element is not present in array

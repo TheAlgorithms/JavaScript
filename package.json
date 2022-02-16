@@ -6,6 +6,7 @@
   "main": "",
   "scripts": {
     "test": "jest --no-cache",
+    "binarySearch": "jest ./Recursive/test/BinarySearch.test.js",
     "style": "standard"
   },
   "author": "TheAlgorithms",
