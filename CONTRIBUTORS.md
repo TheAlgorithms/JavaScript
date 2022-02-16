@@ -2683,3 +2683,5 @@
 - [@CamilleLopez](https://github.com/CamilleLopez)
 
 - [@MKA](https://github.com/mufratkarim)
+
+- [@kristiingco](https://github.com/kristiingco)
