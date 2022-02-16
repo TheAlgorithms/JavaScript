@@ -255,6 +255,7 @@
   * [UnionFind](https://github.com/TheAlgorithms/Javascript/blob/master/Search/UnionFind.js)
 
 ## Sorts
+  * [AlphaNumericalSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/AlphaNumericalSort.js)
   * [BeadSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/BeadSort.js)
   * [BogoSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/BogoSort.js)
   * [BubbleSort](https://github.com/TheAlgorithms/Javascript/blob/master/Sorts/BubbleSort.js)
