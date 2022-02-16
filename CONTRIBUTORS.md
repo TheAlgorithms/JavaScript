@@ -2678,7 +2678,6 @@
 
 - [@joerazor626](https://github.com/joerazor626)
 
+- [@ZosoV](https://github.com/ZosoV)
+
 - [@CamilleLopez](https://github.com/CamilleLopez)
-
-
-
