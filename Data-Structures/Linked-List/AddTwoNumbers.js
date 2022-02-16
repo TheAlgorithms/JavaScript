@@ -35,8 +35,8 @@ class AddTwoNumbers {
       if (firstRunner) {
         firstRunner = firstRunner.next
       }
-      if (secondNumber) {
-        secondNumber = secondNumber.next
+      if (secondRunner) {
+        secondRunner = secondRunner.next
       }
     }
     if (carry > 0) {
