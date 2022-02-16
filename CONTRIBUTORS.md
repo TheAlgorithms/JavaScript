@@ -2695,3 +2695,5 @@
 - [@joeTHAgoat](https://github.com/joeTHAgoat)
 
 - [@GabrielAvramescu](https://github.com/GabrielAvramescu)
+
+- [@halimi](https://github.com/halimi)
