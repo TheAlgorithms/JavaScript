@@ -12,8 +12,8 @@
 
 const binarySearch = (arr, searchValue, low = 0, high = arr.length - 1) => {
   // base case
-  if (high < low || arr.length == 0) return -1;
-  
+  if (high < low || arr.length === 0) return -1
+
   const mid = low + Math.floor((high - low) / 2)
 
   // If the element is present at the middle
@@ -29,7 +29,6 @@ const binarySearch = (arr, searchValue, low = 0, high = arr.length - 1) => {
 
   // Else the element can only be present in right subarray
   return binarySearch(arr, searchValue, mid + 1, high)
-
 }
 
 export { binarySearch }
