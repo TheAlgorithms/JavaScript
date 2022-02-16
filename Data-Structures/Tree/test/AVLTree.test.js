@@ -2,16 +2,15 @@ import { AVLTree } from '../AVLTree'
 
 describe('AVLTree Implementation: ', () => {
     const avlTree = new AVLTree();
-    const size = Math.floor(Math.random() * 10);
     const dataList = [];
+    const demoData = [1,4,6,22,7,99,4,66,77,98];
 
     beforeAll(() => {
-        for (let i = 0; i < size; i++) {
-            const insertedData = Math.floor(Math.random() * Number.MAX_VALUE)
-            if (avlTree.add(insertedData)) {
-                dataList.push(insertedData);
+        demoData.forEach(item => {
+            if (avlTree.add(item)) {
+                dataList.push(item);
             }
-        }
+        })
     })
 
     it('checks if element is inserted properly', () => {
@@ -19,13 +18,13 @@ describe('AVLTree Implementation: ', () => {
     })
 
     it('search if inserted element is present', () => {
-        dataList.forEach(data => {
+        demoData.forEach(data => {
             expect(avlTree.find(data)).toBeTruthy();
         })
     })
 
     it('deletes the inserted element', () => {
-        const deleteElement = dataList[Math.floor(Math.random() * size)];
+        const deleteElement = dataList[3];
         expect(avlTree.remove(deleteElement)).toBeTruthy();
     })
 })
