@@ -14,7 +14,21 @@ function SearchArray (searchNum, ar, output = v => console.log(v)) {
 }
 
 // Search “theArray” for the specified “key” value
-//Linear search
+function Search (theArray, key) {
+  for (let n = 0; n < theArray.length; n++) {
+    if (theArray[n] === key) { return n }
+  }
+  return -1
+}
+
+export { SearchArray, Search }
+
+// const ar = [1, 2, 3, 4, 5, 6, 7, 8, 9]
+// SearchArray(3, ar)
+// SearchArray(4, ar)
+// SearchArray(11, ar)
+
+//Linear search Another example of a linear search 
 const linearSearch = (arr, val) => {
   for (let i = 0; i < arr.length; i++) {
     if (arr[i] === val) {
@@ -25,11 +39,4 @@ const linearSearch = (arr, val) => {
   return notFound;
 };
 const result = linearSearch([1, 2, 3, 4, 5], 10);
-console.log(result);
-
-// const ar = [1, 2, 3, 4, 5, 6, 7, 8, 9]
-// SearchArray(3, ar)
-// SearchArray(4, ar)
-// SearchArray(11, ar)
-
-
+// console.log(result);
