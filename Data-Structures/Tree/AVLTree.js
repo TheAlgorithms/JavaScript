@@ -15,7 +15,7 @@
  */
 let utils;
 (function (_utils) {
-  function comparator() {
+  function comparator () {
     return function (v1, v2) {
       if (v1 < v2) return -1
       if (v2 < v1) return 1
@@ -32,7 +32,7 @@ let utils;
  * If no argument is sent it uses utils.comparator
  */
 const AVLTree = (function () {
-  function _avl(comp) {
+  function _avl (comp) {
     /** @public comparator function */
     this._comp = undefined
     this._comp = comp !== undefined ? comp : utils.comparator()
