@@ -1,8 +1,8 @@
 /**
  * @function lower
  * @description Will convert the entire string to lowercase letters.
- * @param {String} str - The input string
- * @returns {String} Lowercase string
+ * @param {String} url - The input URL string
+ * @return {String} Lowercase string
  * @example lower("HELLO") => hello
  * @example lower("He_llo") => he_llo
  */
@@ -12,13 +12,17 @@ const lower = (str) => {
     throw new TypeError('Invalid Input Type')
   }
 
-  const lowerString = str.replace(/[A-Z]/g, (_, indexOfUpperChar) => {
-    const asciiCode = str.charCodeAt(indexOfUpperChar);
+  let lowerString = ''
 
-    return String.fromCharCode(asciiCode + 32);
-  })
+  for (const char of str) {
+    let asciiCode = char.charCodeAt(0)
+    if (asciiCode >= 65 && asciiCode <= 90) {
+      asciiCode += 32
+    }
+    lowerString += String.fromCharCode(asciiCode)
+  }
 
-  return lowerString;
+  return lowerString
 }
 
 export { lower }
