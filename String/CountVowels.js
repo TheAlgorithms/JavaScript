@@ -12,10 +12,10 @@ const countVowels = (str) => {
     throw new TypeError('Input should be a string')
   }
 
-  const vowelRegex = /[aeiou]/gi;
-  const vowelsArray = str.match(vowelRegex) || [];
+  const vowelRegex = /[aeiou]/gi
+  const vowelsArray = str.match(vowelRegex) || []
 
-  return vowelsArray.length;
+  return vowelsArray.length
 }
 
 export { countVowels }
