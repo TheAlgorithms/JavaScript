@@ -12,6 +12,8 @@
 
 - [@Ahmed-Elhamy-Allam](https://github.com/Ahmed-Elhamy-Allam)
 
+- [@klacsamana15](https://github.com/klacsamana15)
+
 - [@b-blazej](https://github.com/b-blazej)
 
 - [@sananm](https://github.com/sananm)
