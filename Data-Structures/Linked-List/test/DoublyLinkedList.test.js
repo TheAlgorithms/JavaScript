@@ -5,7 +5,6 @@ describe('DoubleLinkedList', () => {
     const list = new DoubleLinkedList()
 
     list.append(1)
-    console.log(list.getHead())
     expect(list.getHead().element).toEqual(1)
 
     list.append(2)
@@ -28,7 +27,7 @@ describe('DoubleLinkedList', () => {
     list.insert(0, 10)
     list.insert(1, 40)
     list.insert(2, 30)
-    
+
     list.removeAt(0)
     expect(list.getHead().element).toEqual(40)
 
