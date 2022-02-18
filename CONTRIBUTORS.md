@@ -2068,8 +2068,7 @@
 
 - [@rdcrth](https://github.com/rdcrth)
 
-- [@sahilpatel09](https://github.com/sahilpatel09)
--[@Quingsley](https://github.com/Quingsley/)
+- [@sahilpatel09](https://github.com/sahilpatel09) -[@Quingsley](https://github.com/Quingsley/)
 - [@Sheng-wei-Tsai](https://github.com/Sheng-wei-Tsai)
 
 - [@l-ram](https://github.com/l-ram)
@@ -2722,3 +2721,5 @@
 - [rzhvn1](https://github.com/rzhvn1)
 
 -[@Edwin254-byte](https://github.com/Edwin254-byte)
+
+-[@kendzisah](https://github.com/kendzisah)
