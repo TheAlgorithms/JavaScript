@@ -211,6 +211,25 @@ class LinkedList {
 
     return list
   }
+
+  // Method to iterate over the LinkedList
+  iterator () {
+    let currentNode = this.headNode
+    if (currentNode === null) return -1
+
+    const iterate = function * () {
+      while (currentNode) {
+        yield currentNode.data
+        currentNode = currentNode.next
+      }
+    }
+    return iterate()
+  }
+
+  // Method to log the LinkedList
+  log () {
+    console.log(JSON.stringify(this.headNode, null, 2))
+  }
 }
 
 export { Node, LinkedList }

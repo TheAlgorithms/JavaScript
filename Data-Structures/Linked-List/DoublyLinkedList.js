@@ -194,6 +194,30 @@ function DoubleLinkedList () {
   this.getTail = function () {
     return tail
   }
+
+  // Method to iterate over the LinkedList
+  this.iterator = function () {
+    let currentNode = this.getHead()
+    if (currentNode === null) return -1
+
+    const iterate = function * () {
+      while (currentNode) {
+        yield currentNode.element
+        currentNode = currentNode.next
+      }
+    }
+    return iterate()
+  }
+
+  // Method to log the LinkedList, for debugging
+  // it' a circular structure, so can't use stringify to debug the whole structure
+  this.log = function () {
+    let currentNode = this.getHead()
+    while (currentNode) {
+      console.log(currentNode.element)
+      currentNode = currentNode.next
+    }
+  }
 }
 
 // Example
@@ -202,5 +226,9 @@ function DoubleLinkedList () {
 // newDoubleLinkedList.append(1)
 // newDoubleLinkedList.append(2)
 // newDoubleLinkedList.size() // returns 2
+// const iterate = newDoubleLinkedList.iterator()
+// console.log(iterate.next().value) // 1
+// console.log(iterate.next().value) // 2
+// console.log(newDoubleLinkedList.log())
 
 export { DoubleLinkedList }
