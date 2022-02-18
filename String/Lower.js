@@ -1,8 +1,8 @@
 /**
  * @function lower
  * @description Will convert the entire string to lowercase letters.
- * @param {String} url - The input URL string
- * @return {String} Lowercase string
+ * @param {String} str - The input string
+ * @returns {String} Lowercase string
  * @example lower("HELLO") => hello
  * @example lower("He_llo") => he_llo
  */
