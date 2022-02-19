@@ -6,6 +6,10 @@
  * @see [Fibonacci_Numbers](https://en.wikipedia.org/wiki/Fibonacci_number)
  */
 const fibonacci = (N) => {
+  if (!Number.isInteger(N)) {
+    throw new TypeError('Input should be integer')
+  }
+  
   // creating array to store values
   const memo = new Array(N + 1)
   memo[0] = 0
