@@ -236,6 +236,8 @@
 
 - [@Insidiae](https://github.com/Insidiae)
 
+- [@eliasroodrigues](https://github.com/eliasroodrigues)
+
 - [@JIMMYOOOPS](https://github.com/JIMMYOOOPS/)
 
 - [@JacobHasan](https://github.com/Jacob-Hasan)
