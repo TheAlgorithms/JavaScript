@@ -12,6 +12,8 @@
 
 - [@Ahmed-Elhamy-Allam](https://github.com/Ahmed-Elhamy-Allam)
 
+- [@klacsamana15](https://github.com/klacsamana15)
+
 - [@b-blazej](https://github.com/b-blazej)
 
 - [@sananm](https://github.com/sananm)
@@ -2068,7 +2070,8 @@
 
 - [@rdcrth](https://github.com/rdcrth)
 
-- [@sahilpatel09](https://github.com/sahilpatel09) -[@Quingsley](https://github.com/Quingsley/)
+- [@sahilpatel09](https://github.com/sahilpatel09) - [@Quingsley](https://github.com/Quingsley/)
+
 - [@Sheng-wei-Tsai](https://github.com/Sheng-wei-Tsai)
 
 - [@l-ram](https://github.com/l-ram)
@@ -2671,7 +2674,7 @@
 
 - [@rahbararman](https://github.com/rahbararman)
 
--[@sadiqkhan2022](https://github.com/sadiqkhan2022)
+- [@sadiqkhan2022](https://github.com/sadiqkhan2022)
 
 - [@RBoghian](https://github.com/RBoghian)
 
@@ -2691,8 +2694,6 @@
 
 - [@Wookash90](https://github.com/Wookash90)
 
-- [@joeTHAgoat](https://github.com/joeTHAgoat)
-
 - [@GabrielAvramescu](https://github.com/GabrielAvramescu)
 
 - [@halimi](https://github.com/halimi)
@@ -2702,24 +2703,31 @@
 - [@aasertruusa](https://github.com/AaserTruusa)
 
 - [@Slye-Man](https://github.com/Slye-Man)
+
 - [@Agulachin](https://github.com/Agulachin)
 
 - [@Akshay9705](https://github.com/Akshay9705)
 
 - [@CodingGaming](https://github.com/Coding-Gaming)
 
--[@KidFlash2099] (https://github.com/KidFlash2099)
+- [@KidFlash2099](https://github.com/KidFlash2099)
 
--[@TomerBaranes](https://github.com/TomerBaranes)
+- [@TomerBaranes](https://github.com/TomerBaranes)
 
--[@thasup](https://github.com/thasup)
+- [@thasup](https://github.com/thasup)
 
--[@wonhee3472](https://github.com/wonhee3472)
+- [@wonhee3472](https://github.com/wonhee3472)
 
 - [@Dolph9](https://github.com/Dolph9)
 
-- [rzhvn1](https://github.com/rzhvn1)
+- [@zhvn1](https://github.com/rzhvn1)
 
--[@Edwin254-byte](https://github.com/Edwin254-byte)
+- [@Edwin254-byte](https://github.com/Edwin254-byte)
 
--[@kendzisah](https://github.com/kendzisah)
+- [@kendzisah](https://github.com/kendzisah)
+
+- [@lefson](https://github.com/olefson)
+
+- [@fortunekenny](https://github.com/fortunekenny/)
+
+- [@firdousnath](https://github.com/firdousnath)
