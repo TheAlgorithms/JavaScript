@@ -1,5 +1,5 @@
 /**
- * @function Fibonacci
+ * @function fibonacci
  * @description Fibonacci is the sum of previous two fibonacci numbers.
  * @param {Integer} N - The input integer
  * @return {Integer} fibonacci of N.
