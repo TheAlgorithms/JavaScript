@@ -12,14 +12,12 @@ const lower = (str) => {
     throw new TypeError('Invalid Input Type')
   }
 
-  const lowerString = str
+  return str
     .replace(/[A-Z]/g, (_, indexOfUpperChar) => {
       const asciiCode = str.charCodeAt(indexOfUpperChar)
 
       return String.fromCharCode(asciiCode + 32)
     })
-
-  return lowerString
 }
 
 export { lower }
