@@ -178,8 +178,6 @@
 
 - [@CarlosA88](https://github.com/CarlosA88/)
 
-- [@carlosferrerdev](https://github.com/carlosferrerdev/)
-
 - [@Chaitanya1512](https://github.com/Chaitanya1512)
 
 - [@Chayan11](https://github.com/Chayan-11)
@@ -1341,6 +1339,8 @@
 - [@candebarcelo](https://github.com/candebarcelo)
 
 - [@carlcidromero](https://github.com/carlcidromero)
+
+- [@carlosferrerdev](https://github.com/carlosferrerdev/)
 
 - [@catalinalexandru](https://github.com/catalin-alexandru)
 
