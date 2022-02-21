@@ -1,7 +1,5 @@
 # CONTRIBUTORS
 
-- [@Haroonabdulrazaq](https://github.com/Haroonabdulrazaq/)
-
 - [@1181092](https://github.com/1181092/)
 
 - [@12otherWays](https://github.com/12otherWays)
@@ -365,6 +363,8 @@
 - [@Hansh1484519](https://github.com/Hansh-1484519/)
 
 - [@HarleyMarshall](https://github.com/Harley-marshall)
+
+- [@Haroonabdulrazaq](https://github.com/Haroonabdulrazaq/)
 
 - [@Hassan28](https://github.com/Hassan-28)
 
