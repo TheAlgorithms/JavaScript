@@ -1786,6 +1786,8 @@
 
 - [@ioghistudio](https://github.com/IoghiStudio)
 
+- [@iovayurt](https://github.com/iovayurt)
+
 - [@irene3177](https://github.com/irene3177/)
 
 - [@ishevchyk](https://github.com/ishevchyk/)
@@ -2768,4 +2770,3 @@
 
 - [@zita07](https://github.com/zita07)
 
-- [@iovayurt](https://github.com/iovayurt)
