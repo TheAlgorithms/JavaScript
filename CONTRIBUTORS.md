@@ -1890,6 +1890,8 @@
 
 - [@jtalway](https://github.com/jtalway)
 
+- [@jucron](https://https://github.com/jucron)
+
 - [@juli3erickson](https://github.com/juli3erickson)
 
 - [@junojunho](https://github.com/juno-junho)
@@ -2761,6 +2763,4 @@
 - [@zhvn1](https://github.com/rzhvn1)
 
 - [@zita07](https://github.com/zita07)
-
-- [@jucron](https://https://github.com/jucron)
 
