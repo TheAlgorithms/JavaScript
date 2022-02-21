@@ -2624,6 +2624,8 @@
 
 - [@tregalloway](https://github.com/TreGalloway)
 
+- [@tridenda](https://github.com/tridenda)
+
 - [@troypouliot](https://github.com/troypouliot)
 
 - [@trsohankumar](https://github.com/trsohankumar)
@@ -2758,4 +2760,3 @@
 
 - [@zita07](https://github.com/zita07)
 
-- [@tridenda](https://github.com/tridenda)
