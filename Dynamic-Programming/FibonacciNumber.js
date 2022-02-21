@@ -9,15 +9,19 @@ const fibonacci = (N) => {
   if (!Number.isInteger(N)) {
     throw new TypeError('Input should be integer')
   }
-  
-  // creating array to store values
-  const memo = new Array(N + 1)
-  memo[0] = 0
-  memo[1] = 1
-  for (let i = 2; i <= N; i++) {
-    memo[i] = memo[i - 1] + memo[i - 2]
+
+  // memoize the last two numbers
+  let firstNumber = 0
+  let secondNumber = 1
+
+  for (let i = 1; i < N; i++) {
+    const sumOfNumbers = firstNumber + secondNumber
+    // update last two numbers
+    firstNumber = secondNumber
+    secondNumber = sumOfNumbers
   }
-  return memo[N]
+
+  return N ? secondNumber : firstNumber
 }
 
 export { fibonacci }
