@@ -2162,6 +2162,8 @@
 
 - [@mojok1444]()
 
+- [@moorerw](https://github.com/moorerw)
+
 - [@mosabami](https://github.com/mosabami)
 
 - [@movicat](https://github.com/movicat)
@@ -2778,4 +2780,3 @@
 
 - [@zita07](https://github.com/zita07)
 
--[@moorerw](https://github.com/moorerw)
