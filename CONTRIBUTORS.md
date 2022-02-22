@@ -12,6 +12,8 @@
 
 - [@45jerryjoseph](https://github.com/45jerryjoseph)
 
+- [@94toman](https://github.com/94toman/)
+
 - [@9sebastian2](https://github.com/9sebastian2/)
 
 - [@AADHISM](https://github.com/AADHISM)
@@ -2772,4 +2774,3 @@
 
 - [@zita07](https://github.com/zita07)
 
-- [@94toman](https://github.com/94toman/)
