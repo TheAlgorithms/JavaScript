@@ -1360,6 +1360,8 @@
 
 - [@cebenermaake](https://github.com/cebener-maake)
 
+- [@cedricahenkorah](https://github.com/cedricahenkorah/)
+
 - [@ceelogre](https://github.com/ceelogre)
 
 - [@cemilcrypto](https://github.com/cemil-crypto/)
@@ -2774,4 +2776,3 @@
 
 - [@zita07](https://github.com/zita07)
 
--[@cedricahenkorah](https://github.com/cedricahenkorah/)
