@@ -1,6 +1,12 @@
 import { fibonacci } from '../FibonacciNumber'
 
-describe('FibonacciNumber', () => {
+describe('Testing FibonacciNumber', () => {
+  it('Testing for invalid type', () => {
+    expect(() => fibonacci('0')).toThrowError()
+    expect(() => fibonacci('12')).toThrowError()
+    expect(() => fibonacci(true)).toThrowError()
+  })
+
   it('fibonacci of 0', () => {
     expect(fibonacci(0)).toBe(0)
   })
