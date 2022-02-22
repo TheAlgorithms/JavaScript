@@ -308,6 +308,8 @@
 
 - [@Faisalov](https://github.com/Faisalov)
 
+- [@Faopaw](https://github.com/Faopaw)
+
 - [@Farhadhpr](https://github.com/Farhadhpr)
 
 - [@FarhanHSN](https://github.com/FarhanHSN)
@@ -2770,4 +2772,3 @@
 
 - [@zita07](https://github.com/zita07)
 
-- [@Faopaw](https://github.com/Faopaw)
