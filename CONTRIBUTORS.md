@@ -34,6 +34,8 @@
 
 - [@AbdiBedaso](https://github.com/abdibedaso)
 
+- [@Abdullah_Wawi](https://github.com/AboodW)
+
 - [@Abhishekbhalekar](https://github.com/Abhishekbhalekar)
 
 - [@Abucur980](https://github.com/Abucur980)
@@ -2780,4 +2782,3 @@
 
 - [@zita07](https://github.com/zita07)
 
--[@Abdullah_Wawi](https://github.com/AboodW)
