@@ -1662,6 +1662,8 @@
 
 - [@gkaframanis](https://github.com/gkaframanis/)
 
+- [@gmedakeys](https://github.com/gmedakeys)
+
 - [@gmunro](https://github.com/gmunro90)
 
 - [@gn01792218](https://github.com/gn01792218)
@@ -2776,4 +2778,3 @@
 
 - [@zita07](https://github.com/zita07)
 
-- [@gmedakeys](https://github.com/gmedakeys)
