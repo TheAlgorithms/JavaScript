@@ -1866,6 +1866,8 @@
 
 - [@jgonz19](https://github.com/jgonz19/)
 
+- [@jhar](https://github.com/jharStadistics)
+
 - [@jideabdqudus](https://github.com/jideabdqudus)
 
 - [@jithendragunuru](https://github.com/jithendra-gunuru)
@@ -2798,4 +2800,3 @@
 
 - [@zita07](https://github.com/zita07)
 
-- [@jhar](https://github.com/jharStadistics)
