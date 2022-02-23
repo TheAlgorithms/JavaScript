@@ -2364,6 +2364,8 @@
 
 - [@redskowa](https://github.com/redskowa/)
 
+- [@rehanqasimk](https://github.com/rehanqasimk)
+
 - [@relieyanhilman](https://github.com/relieyanhilman)
 
 - [@renatopetean](https://github.com/renatopetean)
@@ -2787,6 +2789,4 @@
 - [@zhvn1](https://github.com/rzhvn1)
 
 - [@zita07](https://github.com/zita07)
-
-- [@rehanqasimk](https://github.com/rehanqasimk)
 
