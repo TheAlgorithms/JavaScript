@@ -2722,6 +2722,8 @@
 
 - [@whosedreamisthis](https://github.com/whosedreamisthis)
 
+- [@wilfex81](https://github.com/wilfex81)
+
 - [@willsbit](https://github.com/willsbit)
 
 - [@willyarrows](https://github.com/willyarrows)
@@ -2792,4 +2794,3 @@
 
 - [@zita07](https://github.com/zita07)
 
-- [@wilfex81](https://github.com/wilfex81)
