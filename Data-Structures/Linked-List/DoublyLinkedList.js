@@ -1,54 +1,57 @@
-// Hamza chabchoub contribution for a university project
-function DoubleLinkedList () {
-  const Node = function (element) {
+class Node {
+  constructor (element) {
     this.element = element
     this.next = null
     this.prev = null
   }
+}
 
-  let length = 0
-  let head = null
-  let tail = null
+class DoubleLinkedList {
+  constructor () {
+    this.length = 0
+    this.head = null
+    this.tail = null
+  }
 
   // Add new element
-  this.append = function (element) {
+  append (element) {
     const node = new Node(element)
 
-    if (!head) {
-      head = node
-      tail = node
+    if (!this.head) {
+      this.head = node
+      this.tail = node
     } else {
-      node.prev = tail
-      tail.next = node
-      tail = node
+      node.prev = this.tail
+      this.tail.next = node
+      this.tail = node
     }
 
-    length++
+    this.length++
   }
 
   // Add element
-  this.insert = function (position, element) {
+  insert (position, element) {
     // Check of out-of-bound values
-    if (position >= 0 && position <= length) {
+    if (position >= 0 && position <= this.length) {
       const node = new Node(element)
-      let current = head
+      let current = this.head
       let previous = 0
       let index = 0
 
       if (position === 0) {
-        if (!head) {
-          head = node
-          tail = node
+        if (!this.head) {
+          this.head = node
+          this.tail = node
         } else {
           node.next = current
           current.prev = node
-          head = node
+          this.head = node
         }
-      } else if (position === length) {
-        current = tail
+      } else if (position === this.length) {
+        current = this.tail
         current.next = node
         node.prev = current
-        tail = node
+        this.tail = node
       } else {
         while (index++ < position) {
           previous = current
@@ -63,7 +66,7 @@ function DoubleLinkedList () {
         node.prev = previous
       }
 
-      length++
+      this.length++
       return true
     } else {
       return false
@@ -71,27 +74,27 @@ function DoubleLinkedList () {
   }
 
   // Remove element at any position
-  this.removeAt = function (position) {
+  removeAt (position) {
     // look for out-of-bounds value
-    if (position > -1 && position < length) {
-      let current = head
+    if (position > -1 && position < this.length) {
+      let current = this.head
       let previous = 0
       let index = 0
 
       // Removing first item
       if (position === 0) {
-        head = current.next
+        this.head = current.next
 
-        // if there is only one item, update tail //NEW
-        if (length === 1) {
-          tail = null
+        // if there is only one item, update this.tail //NEW
+        if (this.length === 1) {
+          this.tail = null
         } else {
-          head.prev = null
+          this.head.prev = null
         }
-      } else if (position === length - 1) {
-        current = tail
-        tail = current.prev
-        tail.next = null
+      } else if (position === this.length - 1) {
+        current = this.tail
+        this.tail = current.prev
+        this.tail.next = null
       } else {
         while (index++ < position) {
           previous = current
@@ -103,7 +106,7 @@ function DoubleLinkedList () {
         current.next.prev = previous
       }
 
-      length--
+      this.length--
       return current.element
     } else {
       return null
@@ -111,8 +114,8 @@ function DoubleLinkedList () {
   }
 
   // Get the indexOf item
-  this.indexOf = function (elm) {
-    let current = head
+  indexOf (elm) {
+    let current = this.head
     let index = -1
 
     // If element found then return its position
@@ -130,28 +133,28 @@ function DoubleLinkedList () {
   }
 
   // Find the item in the list
-  this.isPresent = (elm) => {
+  isPresent (elm) {
     return this.indexOf(elm) !== -1
   }
 
   // Delete an item from the list
-  this.delete = (elm) => {
+  delete (elm) {
     return this.removeAt(this.indexOf(elm))
   }
 
   // Delete first item from the list
-  this.deleteHead = function () {
+  deleteHead () {
     this.removeAt(0)
   }
 
   // Delete last item from the list
-  this.deleteTail = function () {
-    this.removeAt(length - 1)
+  deleteTail () {
+    this.removeAt(this.length - 1)
   }
 
   // Print item of the string
-  this.toString = function () {
-    let current = head
+  toString () {
+    let current = this.head
     let string = ''
 
     while (current) {
@@ -163,9 +166,9 @@ function DoubleLinkedList () {
   }
 
   // Convert list to array
-  this.toArray = function () {
+  toArray () {
     const arr = []
-    let current = head
+    let current = this.head
 
     while (current) {
       arr.push(current.element)
@@ -176,27 +179,27 @@ function DoubleLinkedList () {
   }
 
   // Check if list is empty
-  this.isEmpty = function () {
-    return length === 0
+  isEmpty () {
+    return this.length === 0
   }
 
   // Get the size of the list
-  this.size = function () {
-    return length
+  size () {
+    return this.length
   }
 
-  // Get the head
-  this.getHead = function () {
-    return head
+  // Get the this.head
+  getHead () {
+    return this.head
   }
 
-  // Get the tail
-  this.getTail = function () {
-    return tail
+  // Get the this.tail
+  getTail () {
+    return this.tail
   }
 
   // Method to iterate over the LinkedList
-  this.iterator = function () {
+  iterator () {
     let currentNode = this.getHead()
     if (currentNode === null) return -1
 
@@ -211,7 +214,7 @@ function DoubleLinkedList () {
 
   // Method to log the LinkedList, for debugging
   // it' a circular structure, so can't use stringify to debug the whole structure
-  this.log = function () {
+  log () {
     let currentNode = this.getHead()
     while (currentNode) {
       console.log(currentNode.element)
