@@ -4,7 +4,7 @@
 const checkAnagram = (str1, str2) => {
   // check that inputs are strings.
   if (typeof str1 !== 'string' || typeof str2 !== 'string') {
-    return 'Not string(s)'
+    throw new TypeError('Arguments should be string both')
   }
 
   // If both strings have not same lengths then they can not be anagram.
