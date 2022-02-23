@@ -2088,6 +2088,8 @@
 
 - [@mahiworld](https://github.com/mahiworld)
 
+- [@mahsidak](https://github.com/Mahsidak)
+
 - [@maijasb](https://github.com/maijasb)
 
 - [@mailtoboo](https://github.com/mailtoboo)
@@ -2784,4 +2786,3 @@
 
 - [@zita07](https://github.com/zita07)
 
-- [@mahsidak](https://github.com/Mahsidak)
