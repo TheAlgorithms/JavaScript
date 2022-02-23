@@ -7,14 +7,14 @@
  * @see [AGM](https://en.wikipedia.org/wiki/Arithmetic%E2%80%93geometric_mean)
  */
 
- export const agm = (a, g) => {
-  if (a === Infinity && g === 0) return NaN;
-  if (Object.is(a, -0) && !Object.is(g, -0)) return 0;
-  if (a === g) return a; //avoid rounding errors, and increase efficiency
-  let x; //temp var
+export const agm = (a, g) => {
+  if (a === Infinity && g === 0) return NaN
+  if (Object.is(a, -0) && !Object.is(g, -0)) return 0
+  if (a === g) return a // avoid rounding errors, and increase efficiency
+  let x // temp var
   do {
     [a, g, x] = [(a + g) / 2, Math.sqrt(a * g), a]
-  } while (a !== x && !isNaN(a));
+  } while (a !== x && !isNaN(a))
   /*
   `x !== a` ensures the return value has full precision,
   and prevents infinite loops caused by rounding differences between `div` and `sqrt` (no need for "epsilon").
@@ -24,5 +24,5 @@
   This function isn't always 100% accurate (round-errors), but at least is more than 95% accurate.
   `!isNaN(x)` prevents infinite loops caused by invalid inputs like: negatives, NaNs and Infinities.
   */
-  return a;
+  return a
 }
