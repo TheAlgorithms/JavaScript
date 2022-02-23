@@ -2,8 +2,6 @@
 
 - [@1181092](https://github.com/1181092/)
 
-- [@JamesBissick](https://github.com/JamesBissick)
-
 - [@12otherWays](https://github.com/12otherWays)
 
 - [@32simas](https://github.com/32simas)
@@ -439,6 +437,8 @@
 - [@JaizWaheed](https://github.com/JaizWaheed)
 
 - [@JakeWLang](https://github.com/jakewlang)
+
+- [@JamesBissick](https://github.com/JamesBissick)
 
 - [@Janithabhayarathna](https://github.com/Janithabhayarathna)
 
