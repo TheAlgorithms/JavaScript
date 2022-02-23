@@ -9,7 +9,7 @@ describe('Tests for AGM', () => {
     expect(agm.length).toEqual(2)
   })
 
-  const m = 0x100 //scale for rand
+  const m = 0x100 // scale for rand
 
   it('should return NaN if any or all params has a negative argument', () => {
     // I multiplied by minus one, because the sign inversion is more clearly visible
