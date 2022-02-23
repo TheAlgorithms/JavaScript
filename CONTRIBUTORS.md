@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@alindaByamukama](https://github.com/alindaByamukama)
+
 - [@1181092](https://github.com/1181092/)
 
 - [@12otherWays](https://github.com/12otherWays)
