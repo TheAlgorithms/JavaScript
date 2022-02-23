@@ -2742,6 +2742,8 @@
 
 - [@xdiegors](https://github.com/xdiegors)
 
+- [@xpertsbala](https://github.com/xpertsbala)
+
 - [@xts7](https://github.com/xts7/)
 
 - [@y0nutz2015123](https://github.com/y0nutz2015123)
@@ -2790,4 +2792,3 @@
 
 - [@zita07](https://github.com/zita07)
 
-- [@xpertsbala](https://github.com/xpertsbala)
