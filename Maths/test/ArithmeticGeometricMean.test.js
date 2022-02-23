@@ -9,10 +9,10 @@ describe('Tests for AGM', () => {
     expect(agm.length).toEqual(2)
   })
 
-  const m = 0x100; //scale for rand
+  const m = 0x100 //scale for rand
 
   it('should return NaN if any or all params has a negative argument', () => {
-    //I multiplied by minus one, because the sign inversion is more clearly visible
+    // I multiplied by minus one, because the sign inversion is more clearly visible
     expect(agm(-1 * Math.random() * m, Math.random() * m)).toBe(NaN)
     expect(agm(Math.random() * m, -1 * Math.random() * m)).toBe(NaN)
     expect(agm(-1 * Math.random() * m, -1 * Math.random() * m)).toBe(NaN)
@@ -46,11 +46,11 @@ describe('Tests for AGM', () => {
   })
 
   it('should return an accurate approximation of the AGM between 2 valid input args', () => {
-    //all the constants are provided by WolframAlpha (and truncated)
-    expect(agm(1, 2)).toBeCloseTo(1.45679103104690686918643238326508197497386394)
-    expect(agm(2, 256)).toBeCloseTo(64.45940719438666959866654349832508984802270)
-    expect(agm(55555, 34)).toBeCloseTo(9933.404723955199530518734848979633709254)
-    //test "unsafe" numbers
+    // all the constants are provided by WolframAlpha
+    expect(agm(1, 2)).toBeCloseTo(1.4567910310469068)
+    expect(agm(2, 256)).toBeCloseTo(64.45940719438667)
+    expect(agm(55555, 34)).toBeCloseTo(9933.4047239552)
+    // test "unsafe" numbers
     expect(agm(2 ** 48, 3 ** 27)).toBeCloseTo(88506556379265.7)
   })
 })
