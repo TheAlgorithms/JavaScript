@@ -9,16 +9,18 @@
 
  export const agm = (a, g) => {
   if (a === g) return a; //avoid rounding errors, and increase efficiency
-  let x; //temp var, for detecting rounding differences between `sqrt` and division
+  let x; //temp var
   do {
     [a, g, x] = [(a + g) / 2, Math.sqrt(a * g), a]
   } while (a !== x && !isNaN(a));
   /*
   `x !== a` ensures the return value has full precision,
-  and prevents infinite loops caused by rounding errors (no need for "epsilon").
+  and prevents infinite loops caused by rounding differences between `div` and `sqrt` (no need for "epsilon").
+  If we were to compare `a` with `g`, some input combinations (not all) can cause an infinite loop,
+  because the rounding mode never changes at runtime.
   Precision is not the same as accuracy, but they're related.
   This function isn't always 100% accurate (round-errors), but at least is more than 95% accurate.
-  `!isNaN(x)` prevents infinite loops caused by invalid inputs like: negatives, NaNs and both Infinities.
+  `!isNaN(x)` prevents infinite loops caused by invalid inputs like: negatives, NaNs and Infinities.
   */
-	return a
+  return a;
 }
