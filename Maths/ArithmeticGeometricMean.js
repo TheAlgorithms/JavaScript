@@ -8,9 +8,9 @@
  */
 
  export const agm = (a, g) => {
-  if (a === g) return a; //avoid rounding errors, and increase efficiency
   if (a === Infinity && g === 0) return NaN;
   if (Object.is(a, -0) && !Object.is(g, -0)) return 0;
+  if (a === g) return a; //avoid rounding errors, and increase efficiency
   let x; //temp var
   do {
     [a, g, x] = [(a + g) / 2, Math.sqrt(a * g), a]
