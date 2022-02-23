@@ -30,8 +30,10 @@ describe('Tests for AGM', () => {
   })
 
   it('should return +0 if any or all args are +0 or -0, and return -0 if all are -0', () => {
-    expect(agm(Math.random() * m, -0)).toBe(0)
+    expect(agm(Math.random() * m, 0)).toBe(0)
     expect(agm(0, Math.random() * m)).toBe(0)
+    expect(agm(Math.random() * m, -0)).toBe(0)
+    expect(agm(-0, Math.random() * m)).toBe(0)
     expect(agm(0, -0)).toBe(0)
     expect(agm(-0, 0)).toBe(0)
     expect(agm(-0, -0)).toBe(-0)
@@ -44,11 +46,11 @@ describe('Tests for AGM', () => {
   })
 
   it('should return an accurate approximation of the AGM between 2 valid input args', () => {
-    //all the constants are provided by WolframAlpha
-    expect(agm(1, 2)).toBeCloseTo(1.4567910310469068691864323832650819749738639432213055907941723832)
-    expect(agm(2, 256)).toBeCloseTo(64.4594071943866695986665434983250898480227029006463800294306182)
-    expect(agm(55555, 34)).toBeCloseTo(9933.40472395519953051873484897963370925448369441581220656590)
+    //all the constants are provided by WolframAlpha (and truncated)
+    expect(agm(1, 2)).toBeCloseTo(1.45679103104690686918643238326508197497386394)
+    expect(agm(2, 256)).toBeCloseTo(64.45940719438666959866654349832508984802270)
+    expect(agm(55555, 34)).toBeCloseTo(9933.404723955199530518734848979633709254)
     //test "unsafe" numbers
-    expect(agm(2 ** 48, 3 ** 27)).toBeCloseTo(88506556379265.712723873253375677194780)
+    expect(agm(2 ** 48, 3 ** 27)).toBeCloseTo(88506556379265.7)
   })
 })
