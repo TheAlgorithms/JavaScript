@@ -42,6 +42,8 @@
 
 - [@AdamMzkr](https://github.com/AdamMzkr)
 
+- [@AdityaManoj](https://github.com/Aditya-Manoj)
+
 - [@Adityajl](https://github.com/Adityajl)
 
 - [@Agulachin](https://github.com/Agulachin)
@@ -2806,4 +2808,3 @@
 
 - [@zita07](https://github.com/zita07)
 
-- [@Aditya-Manoj](https://github.com/Aditya-Manoj)
