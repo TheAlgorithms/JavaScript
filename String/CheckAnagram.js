@@ -18,8 +18,9 @@ const checkAnagram = (str1, str2) => {
     return false
   }
 
+  // str1 converted to array and traverse the each letter of str1 by reduce method
   return ![...str1].reduce(
-    (str2Acc, cur) => str2Acc.replace(cur, ''), // remove the similar letter from str2Acc
+    (str2Acc, cur) => str2Acc.replace(new RegExp(cur, 'i'), ''), // remove the similar letter from str2Acc in case-insensitive
     str2
   )
 }
