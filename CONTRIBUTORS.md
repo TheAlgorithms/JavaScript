@@ -6,6 +6,8 @@
 
 - [@12otherWays](https://github.com/12otherWays)
 
+- [@29aNKUR](https://github.com/29aNKUR)
+
 - [@32simas](https://github.com/32simas)
 
 - [@33kumarram](https://github.com/kumarram)
@@ -2814,4 +2816,3 @@
 
 - [@zita07](https://github.com/zita07)
 
-- [@29aNKUR](https://github.com/29aNKUR)
