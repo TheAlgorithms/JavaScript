@@ -1140,6 +1140,8 @@
 
 - [@aiyetoro4](https://github.com/aiyetoro4)
 
+- [@ajay0212](https://github.com/ajay0212)
+
 - [@ajaybasra](https://github.com/ajaybasra)
 
 - [@ajaybor0](https://github.com/ajaybor0)
@@ -2818,4 +2820,3 @@
 
 - [@zita07](https://github.com/zita07)
 
-- [@ajay0212](https://github.com/ajay0212)
