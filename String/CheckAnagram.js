@@ -1,6 +1,12 @@
-// An [Anagram](https://en.wikipedia.org/wiki/Anagram) is a string that is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once.
-// Anagram check is case sensitive; i.e. Aba and aba is not a anagram.
-// inputs are strings i.e. str1 and str2
+/**
+ * @function checkAnagram
+ * @param {string} str1 
+ * @param {string} str2 
+ * @returns {boolean}
+ * @description An [Anagram](https://en.wikipedia.org/wiki/Anagram) is a string that is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once. Anagram check is case sensitive;
+ * @example - checkAnagram('node', 'deno') => true
+ * @example - checkAnagram('Eleven plus two', 'Twelve plus one') => true
+ */
 const checkAnagram = (str1, str2) => {
   // check that inputs are strings.
   if (typeof str1 !== 'string' || typeof str2 !== 'string') {
