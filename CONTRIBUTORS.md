@@ -2588,6 +2588,8 @@
 
 - [@sumitvadhera01](https://github.com/sumitvadhera01)
 
+- [@sunthecrow](https://github.com/sunthecrow)
+
 - [@superkoteman](https://github.com/superkoteman)
 
 - [@suredanish](https://github.com/suredanish)
@@ -2816,4 +2818,3 @@
 
 - [@zita07](https://github.com/zita07)
 
-- [@sunthecrow](https://github.com/sunthecrow)
