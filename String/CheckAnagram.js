@@ -6,11 +6,15 @@ const checkAnagram = (str1, str2) => {
   if (typeof str1 !== 'string' || typeof str2 !== 'string') {
     return 'Not string(s)'
   }
-
-  // If both strings have not same lengths then they can not be anagram.
+  
   if (str1.length !== str2.length) {
     return false
   }
+  
+  // If both strings have not same lengths then they can not be anagrams
+  
+  str1 = str1.toUpperCase();
+  str2 = str2.toUpperCase();
 
   // Use hashmap to keep count of characters in str1
 
@@ -34,8 +38,6 @@ const checkAnagram = (str1, str2) => {
     previousCount = str1CharCount.get(str2[i])
     str1CharCount.set(str2[i], previousCount - 1)
   }
-
-  // Now check if all entries in hashmap has zeros.
 
   for (const key in str1CharCount) {
     if (str1CharCount[key] !== 0) return false
