@@ -2206,6 +2206,8 @@
 
 - [@muhammadasif2017](https://github.com/muhammadasif2017)
 
+- [@muisoft](https://github.com/muisoft)
+
 - [@nadjastojanovic](https://github.com/nadjastojanovic)
 
 - [@nahrinoda](https://github.com/nahrinoda)
@@ -2812,4 +2814,3 @@
 
 - [@zita07](https://github.com/zita07)
 
-- [@muisoft](https://github.com/muisoft)
