@@ -60,11 +60,13 @@ describe('checkAnagram', () => {
     expect(SUT2).toBe(false)
   })
 
-  it('expects to return false if the arguments contain the same letters but have unequal case', () => {
+  it('expects to return true if the arguments contain the same letters but have unequal case', () => {
     const SUT = checkAnagram('ABDCE', 'abcde')
-    expect(SUT).toBe(false)
+    expect(SUT).toBe(true)
     const SUT2 = checkAnagram('AbCdE', 'aBCdE')
-    expect(SUT2).toBe(false)
+    expect(SUT2).toBe(true)
+    const SUT3 = checkAnagram('Eleven plus two', 'Twelve plus one')
+    expect(SUT3).toBe(true)
   })
 
   it('expects to return true if the arguments are anagrams and contain number characters', () => {
