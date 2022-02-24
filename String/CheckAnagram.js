@@ -1,14 +1,14 @@
 // An [Anagram](https://en.wikipedia.org/wiki/Anagram) is a string that is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once. Anagram check is not case-sensitive;
 /**
- * @function checkAnagramViaRegex
+ * @function checkAnagramRegex
  * @param {string} str1
  * @param {string} str2
  * @returns {boolean}
  * @description - check anagram with the help of Regex
- * @example - checkAnagramViaRegex('node', 'deno') => true
- * @example - checkAnagramViaRegex('Eleven plus two', 'Twelve plus one') => true
+ * @example - checkAnagramRegex('node', 'deno') => true
+ * @example - checkAnagramRegex('Eleven plus two', 'Twelve plus one') => true
  */
-const checkAnagramViaRegex = (str1, str2) => {
+const checkAnagramRegex = (str1, str2) => {
   // check that inputs are strings.
   if (typeof str1 !== 'string' || typeof str2 !== 'string') {
     throw new TypeError('Arguments should be string both')
@@ -31,15 +31,15 @@ const checkAnagramViaRegex = (str1, str2) => {
 }
 
 /**
- * @function checkAnagramViaMap
+ * @function checkAnagramMap
  * @description - check anagram via using HashMap
  * @param {string} str1
  * @param {string} str2
  * @returns {boolean}
-* @example - checkAnagramViaMap('node', 'deno') => true
- * @example - checkAnagramViaMap('Eleven plus two', 'Twelve plus one') => true
+* @example - checkAnagramMap('node', 'deno') => true
+ * @example - checkAnagramMap('Eleven plus two', 'Twelve plus one') => true
  */
-const checkAnagramViaMap = (str1, str2) => {
+const checkAnagramMap = (str1, str2) => {
   // check that inputs are strings.
   if (typeof str1 !== 'string' || typeof str2 !== 'string') {
     throw new TypeError('Arguments should be string both')
@@ -73,4 +73,4 @@ const checkAnagramViaMap = (str1, str2) => {
   return true
 }
 
-export { checkAnagramViaRegex, checkAnagramViaMap }
+export { checkAnagramRegex, checkAnagramMap }
