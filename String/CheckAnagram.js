@@ -3,7 +3,7 @@
  * @param {string} str1
  * @param {string} str2
  * @returns {boolean}
- * @description An [Anagram](https://en.wikipedia.org/wiki/Anagram) is a string that is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once. Anagram check is case sensitive;
+ * @description An [Anagram](https://en.wikipedia.org/wiki/Anagram) is a string that is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once. Anagram check is not case-sensitive;
  * @example - checkAnagram('node', 'deno') => true
  * @example - checkAnagram('Eleven plus two', 'Twelve plus one') => true
  */
