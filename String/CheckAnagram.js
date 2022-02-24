@@ -36,7 +36,7 @@ const checkAnagramRegex = (str1, str2) => {
  * @param {string} str1
  * @param {string} str2
  * @returns {boolean}
-* @example - checkAnagramMap('node', 'deno') => true
+ * @example - checkAnagramMap('node', 'deno') => true
  * @example - checkAnagramMap('Eleven plus two', 'Twelve plus one') => true
  */
 const checkAnagramMap = (str1, str2) => {
