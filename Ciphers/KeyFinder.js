@@ -139,7 +139,7 @@ function caesarCipherEncodeAndDecodeEngine (inStr, numShifted) {
   return outStr
 }
 
-export { keyFinder }
+export { caesarCipherEncodeAndDecodeEngine, keyFinder }
 
 // > keyFinder('test')
 // 0
