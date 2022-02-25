@@ -628,6 +628,8 @@
 
 - [@Matousik](https://github.com/Matousik)
 
+- [@MattRuetz](https://github.com/MattRuetz)
+
 - [@Maxxx2000](https://github.com/Maxxx2000)
 
 - [@MaxyG43](https://github.com/MaxyG43)
@@ -2830,4 +2832,3 @@
 
 - [@zita07](https://github.com/zita07)
 
-- [@MattRuetz](https://github.com/MattRuetz)
