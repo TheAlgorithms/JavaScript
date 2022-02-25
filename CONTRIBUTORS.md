@@ -2208,6 +2208,8 @@
 
 - [@msrana25](https://github.com/msrana25)
 
+- [@mtsthor](https://github.com/mthors)
+
 - [@muhammadasif2017](https://github.com/muhammadasif2017)
 
 - [@muisoft](https://github.com/muisoft)
@@ -2820,4 +2822,3 @@
 
 - [@zita07](https://github.com/zita07)
 
-- [@mtsthor](https://github.com/mthors)
