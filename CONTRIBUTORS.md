@@ -2728,6 +2728,8 @@
 
 - [@vigneshshettyin](https://github.com/vigneshshettyin)
 
+- [@vijayan108](https://github.com/vijayan108/)
+
 - [@vikgk](https://github.com/vik-gk)
 
 - [@viktorlinus](https://github.com/viktorlinus)
@@ -2824,4 +2826,3 @@
 
 - [@zita07](https://github.com/zita07)
 
-- [@vijayan108](https://github.com/vijayan108/)
