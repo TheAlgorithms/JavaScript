@@ -328,6 +328,8 @@
 
 - [@FayasNoushad](https://github.com/FayasNoushad)
 
+- [@FkayRepo](https://github.com/FkayRepo)
+
 - [@Flogit](https://github.com/Flo-git)
 
 - [@Fuckplastic](https://github.com/Fuckplastic)
@@ -2828,4 +2830,3 @@
 
 - [@zita07](https://github.com/zita07)
 
-- [@FkayRepo](https://github.com/FkayRepo)
