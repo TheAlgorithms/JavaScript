@@ -11,7 +11,7 @@
 const checkAnagramRegex = (str1, str2) => {
   // check that inputs are strings.
   if (typeof str1 !== 'string' || typeof str2 !== 'string') {
-    throw new TypeError('Arguments should be string both')
+    throw new TypeError('Both arguments should be strings.')
   }
 
   // If both strings have not same lengths then they can not be anagram.
@@ -42,7 +42,7 @@ const checkAnagramRegex = (str1, str2) => {
 const checkAnagramMap = (str1, str2) => {
   // check that inputs are strings.
   if (typeof str1 !== 'string' || typeof str2 !== 'string') {
-    throw new TypeError('Arguments should be string both')
+    throw new TypeError('Both arguments should be strings.')
   }
 
   // If both strings have not same lengths then they can not be anagram.
