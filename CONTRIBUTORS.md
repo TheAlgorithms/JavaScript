@@ -578,6 +578,8 @@
 
 - [@Lakshya3119](https://github.com/Lakshya3119)
 
+- [@LaurelineP](https://github.com/LaurelineP)
+
 - [@Lejla1502](https://github.com/Lejla1502)
 
 - [@Lilyilinet](https://github.com/Lilyilinet)
@@ -2037,8 +2039,6 @@
 - [@labakg](https://github.com/labakg)
 
 - [@lalhmingmuana](https://github.com/lalhming-muana)
-
-- [@LaurelineP](https://github.com/LaurelineP)
 
 - [@laygofiona](https://github.com/laygofiona)
 
