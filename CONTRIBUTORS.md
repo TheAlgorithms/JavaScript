@@ -2368,6 +2368,8 @@
 
 - [@rajulkoshta](https://github.com/rajulkoshta)
 
+- [@randyrizo7](https://github.com/randyrizo7)
+
 - [@ranggaradiitya](https://github.com/ranggaradiitya/)
 
 - [@ranjang09](https://github.com/ranjang09)
@@ -2826,4 +2828,3 @@
 
 - [@zita07](https://github.com/zita07)
 
-- [@randyrizo7](https://github.com/randyrizo7)
