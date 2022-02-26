@@ -1640,6 +1640,8 @@
 
 - [@febieclinton](https://github.com/febieclinton)
 
+- [@femiscript](https://github.com/femiscript)
+
 - [@fidicin](https://github.com/fidicin)
 
 - [@filipussamuel](https://github.com/filipus-samuel/)
@@ -2838,4 +2840,3 @@
 
 - [@zita07](https://github.com/zita07)
 
--[@femiscript](https://github.com/femiscript)
