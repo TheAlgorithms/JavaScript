@@ -1878,6 +1878,8 @@
 
 - [@jegansriragavan](https://github.com/jegansriragavan)
 
+- [@jessequartey](https://github.com/jessequartey)
+
 - [@jesusgz11](https://github.com/jesusgz11)
 
 - [@jgeiger2](https://github.com/jgeiger2)
@@ -2834,4 +2836,3 @@
 
 - [@zita07](https://github.com/zita07)
 
-- [@jessequartey](https://github.com/jessequartey)
