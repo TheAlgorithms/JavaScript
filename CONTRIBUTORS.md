@@ -2496,6 +2496,8 @@
 
 - [@sebastianunrau](https://github.com/sebastianunrau)
 
+- [@sebescian](https://github.com/sebescian)
+
 - [@sebgeomag](https://github.com/sebgeomag)
 
 - [@securedmallo](https://github.com/SecuredMallo)
@@ -2840,4 +2842,3 @@
 
 - [@zita07](https://github.com/zita07)
 
-- [@sebescian](https://github.com/sebescian)
