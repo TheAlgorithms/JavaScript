@@ -1264,6 +1264,8 @@
 
 - [@arishwin](https://github.com/arishwin)
 
+- [@aritra1804](https://github.com/aritra1804)
+
 - [@armanabkar](https://github.com/armanabkar)
 
 - [@armelk0](https://github.com/armelk0)
@@ -2836,4 +2838,3 @@
 
 - [@zita07](https://github.com/zita07)
 
-- [@aritra1804](https://github.com/aritra1804)
