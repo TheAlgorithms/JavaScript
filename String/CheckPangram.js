@@ -1,6 +1,6 @@
 /**
  * What is Pangram?
- * Ans: Pangram is a sentence that contains all the letters in the alphabet https://en.wikipedia.org/wiki/Pangram
+ * Pangram is a sentence that contains all the letters in the alphabet https://en.wikipedia.org/wiki/Pangram
  */
 
 /**
