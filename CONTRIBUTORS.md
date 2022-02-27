@@ -2580,6 +2580,8 @@
 
 - [@snigdhodutta](https://github.com/Snigdho64)
 
+- [@sohrabyazdan](https://github.com/sohrabyazdan)
+
 - [@solron](https://github.com/solron)
 
 - [@souldrop](https://github.com/souldrop)
@@ -2850,4 +2852,3 @@
 
 - [@zita07](https://github.com/zita07)
 
-- [@sohrabyazdan](https://github.com/sohrabyazdan)
