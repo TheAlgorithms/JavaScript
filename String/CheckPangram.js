@@ -3,6 +3,8 @@
  * @description - Pangram is a sentence that contains all the letters in the alphabet https://en.wikipedia.org/wiki/Pangram
  * @param {string} string
  * @returns {boolean}
+ * @example - checkPangram("'The quick brown fox jumps over the lazy dog' is a pangram") => true
+ * @example - checkPangram('"Waltz, bad nymph, for quick jigs vex." is a pangram') => true
  */
 const checkPangram = (string) => {
   if (typeof string !== 'string') {
