@@ -1,4 +1,9 @@
 /**
+ * What is Pangram? 
+ * Ans: Pangram is a sentence that contains all the letters in the alphabet https://en.wikipedia.org/wiki/Pangram
+ */
+
+/**
  * @function checkPangramRegex
  * @description - This function check pangram with the help of regex pattern
  * @param {string} string
