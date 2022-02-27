@@ -1,12 +1,12 @@
 /**
- * @function checkPangram
- * @description - Pangram is a sentence that contains all the letters in the alphabet https://en.wikipedia.org/wiki/Pangram
+ * @function checkPangramRegex
+ * @description - This function check pangram with the help of regex pattern
  * @param {string} string
  * @returns {boolean}
- * @example - checkPangram("'The quick brown fox jumps over the lazy dog' is a pangram") => true
- * @example - checkPangram('"Waltz, bad nymph, for quick jigs vex." is a pangram') => true
+ * @example - checkPangramRegex("'The quick brown fox jumps over the lazy dog' is a pangram") => true
+ * @example - checkPangramRegex('"Waltz, bad nymph, for quick jigs vex." is a pangram') => true
  */
-const checkPangram = (string) => {
+const checkPangramRegex = (string) => {
   if (typeof string !== 'string') {
     throw new TypeError('The given value is not a string')
   }
@@ -23,4 +23,28 @@ const checkPangram = (string) => {
   return string.match(/([a-z])(?!.*\1)/gi).length === 26
 }
 
-export { checkPangram }
+
+/**
+ * @function checkPangramSet
+ * @description - This function detect the pangram sentence by HashSet
+ * @param {string} string 
+ * @returns {boolean}
+ */
+const checkPangramSet = (string) => {
+  if (typeof string !== 'string') {
+    throw new TypeError('The given value is not a string')
+  }
+
+  const lettersSet = new Set()
+
+  for (const letter of string.toUpperCase()) {
+    if (/[A-Z]/.test(letter)) {
+      // if the letter is a valid uppercase alphabet then the add method insert the letter to the HashSet
+      lettersSet.add(letter)
+    }
+  }
+
+  return lettersSet.size === 26
+}
+
+export { checkPangramRegex, checkPangramSet}
