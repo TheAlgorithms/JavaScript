@@ -1000,6 +1000,8 @@
 
 - [@TeodoraMM](https://github.com/TeodoraMM)
 
+- [@TerenceChew](https://github.com/TerenceChew)
+
 - [@Terminex19](https://github.com/Terminex19)
 
 - [@TerriLowe07](https://github.com/TerriLowe07)
@@ -2845,6 +2847,4 @@
 - [@zhvn1](https://github.com/rzhvn1)
 
 - [@zita07](https://github.com/zita07)
-
-- [@TerenceChew](https://github.com/TerenceChew)
 
