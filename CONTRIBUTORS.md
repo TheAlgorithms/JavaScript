@@ -596,6 +596,8 @@
 
 - [@LuisPinho](https://github.com/Luis-Pinho)
 
+- [@LukeAndrewColeman](https://github.com/LukeAndrewColeman)
+
 - [@MHShayek](https://github.com/MHShayek)
 
 - [@MKA](https://github.com/mufratkarim)
@@ -2848,4 +2850,3 @@
 
 - [@zita07](https://github.com/zita07)
 
--[@LukeAndrewColeman](https://github.com/LukeAndrewColeman)
