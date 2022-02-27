@@ -1,7 +1,7 @@
 /**
  * @function checkPangram
  * @description - Pangram is a sentence that contains all the letters in the alphabet https://en.wikipedia.org/wiki/Pangram
- * @param {string} string 
+ * @param {string} string
  * @returns {boolean}
  */
 const checkPangram = (string) => {
@@ -10,7 +10,7 @@ const checkPangram = (string) => {
   }
 
   /**
-   * match all 26 alphabets using regex, with the help of: 
+   * match all 26 alphabets using regex, with the help of:
    * Capturing Group
    * Character set
    * Negative lookahead
