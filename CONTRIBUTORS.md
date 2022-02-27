@@ -2164,6 +2164,8 @@
 
 - [@mb16biswas](https://github.com/mb16biswas)
 
+- [@meigie](https://github.com/meigie)
+
 - [@menash6](https://github.com/menash6/)
 
 - [@mengo6988](https://github.com/mengo6988)
@@ -2842,4 +2844,3 @@
 
 - [@zita07](https://github.com/zita07)
 
-- [@meigie](https://github.com/meigie)
