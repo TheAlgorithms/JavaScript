@@ -2450,6 +2450,8 @@
 
 - [@s0sharma](https://github.com/s0sharma)
 
+- [@saaluga](https://github.com/saaluga)
+
 - [@sadiqkhan2022](https://github.com/sadiqkhan2022)
 
 - [@sagarparker](https://github.com/sagarparker)
@@ -2843,6 +2845,4 @@
 - [@zhvn1](https://github.com/rzhvn1)
 
 - [@zita07](https://github.com/zita07)
-
-- [@saaluga](https://github.com/saaluga)
 
