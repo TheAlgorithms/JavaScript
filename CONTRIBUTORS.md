@@ -1590,6 +1590,8 @@
 
 - [@earlyverdy](https://github.com/earlyverdy)
 
+- [@economicist](https://github.com/economicist)
+
 - [@edu14ca](https://github.com/edu14ca)
 
 - [@edu2andrade](https://github.com/edu2andrade)
@@ -2854,4 +2856,3 @@
 
 - [@zita07](https://github.com/zita07)
 
-- [@economicist](https://github.com/economicist)
