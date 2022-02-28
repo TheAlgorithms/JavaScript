@@ -1578,6 +1578,8 @@
 
 - [@drewcdev](https://github.com/drewcdev)
 
+- [@drewjd27](https://github.com/drewjd27)
+
 - [@drmarcell](https://github.com/drmarcell)
 
 - [@dsnoeijer](https://github.com/dsnoeijer)
@@ -2860,4 +2862,3 @@
 
 - [@zita07](https://github.com/zita07)
 
-- [@drewjd27](https://github.com/drewjd27)
