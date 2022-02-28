@@ -1658,6 +1658,8 @@
 
 - [@fidicin](https://github.com/fidicin)
 
+- [@filiplunda](https://github.com/filiplunda)
+
 - [@filipussamuel](https://github.com/filipus-samuel/)
 
 - [@firdousnath](https://github.com/firdousnath)
@@ -2866,4 +2868,3 @@
 
 - [@zita07](https://github.com/zita07)
 
-- [@filiplunda](https://github.com/filiplunda)
