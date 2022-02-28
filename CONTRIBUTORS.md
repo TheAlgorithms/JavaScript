@@ -1116,6 +1116,8 @@
 
 - [@aambayec](https://github.com/aambayec)
 
+- [@aamer](https://github.com/aamersohailgit)
+
 - [@aamirbhat1](https://github.com/aamirbhat1/)
 
 - [@aasertruusa](https://github.com/AaserTruusa)
@@ -2872,4 +2874,3 @@
 
 - [@zita07](https://github.com/zita07)
 
-- [@aamer](https://github.com/aamersohailgit)
