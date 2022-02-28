@@ -490,6 +490,8 @@
 
 - [@JosephAoga](https://github.com/Joseph-Aoga/)
 
+- [@JosefKohoutek](https://github.com/kohojo)
+
 - [@JoshuaEmor](https://github.com/JoshuaEmor)
 
 - [@JoshuaM13](https://github.com/JoshuaM13)
