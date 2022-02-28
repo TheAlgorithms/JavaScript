@@ -488,9 +488,9 @@
 
 - [@Jordanclarkkk](https://github.com/JordanClarkkk)
 
-- [@JosephAoga](https://github.com/Joseph-Aoga/)
-
 - [@JosefKohoutek](https://github.com/kohojo)
+
+- [@JosephAoga](https://github.com/Joseph-Aoga/)
 
 - [@JoshuaEmor](https://github.com/JoshuaEmor)
 
