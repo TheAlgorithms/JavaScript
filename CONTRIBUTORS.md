@@ -1338,6 +1338,8 @@
 
 - [@balloonpin](https://github.com/balloon-pin)
 
+- [@banerjeesoumya15](https://github.com/banerjeesoumya15)
+
 - [@bantu1410](https://github.com/bantu1410)
 
 - [@bblazej](https://github.com/b-blazej)
@@ -2868,4 +2870,3 @@
 
 - [@zita07](https://github.com/zita07)
 
-- [@banerjeesoumya15](https://github.com/banerjeesoumya15)
