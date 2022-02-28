@@ -2482,6 +2482,8 @@
 
 - [@samimalki023](https://github.com/samimalki-023/)
 
+- [@samyakmohelay](https://github.com/samyakmohelay)
+
 - [@sanabadaha](https://github.com/sanabadaha)
 
 - [@sananm](https://github.com/sananm)
@@ -2863,6 +2865,4 @@
 - [@zhvn1](https://github.com/rzhvn1)
 
 - [@zita07](https://github.com/zita07)
-
-- [@samyakmohelay](https://github.com/samyakmohelay)
 
