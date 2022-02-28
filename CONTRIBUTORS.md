@@ -1436,6 +1436,8 @@
 
 - [@christopherjason](https://github.com/christopherjason)
 
+- [@christophfroehlich99](https://github.com/christophfroehlich99)
+
 - [@cjmugs](https://github.com/cjmugs/)
 
 - [@ckosa](https://github.com/ckosa)
@@ -2862,4 +2864,3 @@
 
 - [@zita07](https://github.com/zita07)
 
-- [@christophfroehlich99](https://github.com/christophfroehlich99)
