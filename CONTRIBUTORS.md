@@ -1494,6 +1494,8 @@
 
 - [@danielginting](https://github.com/daniel-ginting)
 
+- [@danimashasha](https://github.com/dani-mashasha)
+
 - [@dannylc24](https://github.com/dannylc24)
 
 - [@dansftdev](https://github.com/dan-sftdev)
@@ -2856,4 +2858,3 @@
 
 - [@zita07](https://github.com/zita07)
 
-- [@dani-mashasha](https://github.com/dani-mashasha)
