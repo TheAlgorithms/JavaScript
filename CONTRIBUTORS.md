@@ -2186,6 +2186,8 @@
 
 - [@matthapps](https://github.com/matthapps)
 
+- [@matthewmcampbell](https://github.com/matthewmcampbell)
+
 - [@mattlayton1986](https://github.com/mattlayton1986)
 
 - [@mauriziodm91](https://github.com/mauriziodm91)
@@ -2879,6 +2881,4 @@
 - [@zhvn1](https://github.com/rzhvn1)
 
 - [@zita07](https://github.com/zita07)
-
-- [@matthewmcampbell](https://github.com/matthewmcampbell)
 
