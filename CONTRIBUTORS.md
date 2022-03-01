@@ -1830,6 +1830,8 @@
 
 - [@iambolu](https://github.com/iambolu)
 
+- [@iamemmanueljoshua](https://github.com/iamemmanueljoshua)
+
 - [@iammanojrathod](https://github.com/iammanojrathod)
 
 - [@iammursal](https://github.com/iammursal)
@@ -2876,4 +2878,3 @@
 
 - [@zita07](https://github.com/zita07)
 
-- [@iamemmanueljoshua](https://github.com/iamemmanueljoshua)
