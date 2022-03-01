@@ -24,7 +24,15 @@ describe('Testing CheckExceeding function', () => {
     expect(checkExceeding('Hello')).toBe(false)
     expect(checkExceeding('world')).toBe(false)
     expect(checkExceeding('update')).toBe(false)
-    expect(checkExceeding('upgrade')).toBe(false)
+    expect(checkExceeding('university')).toBe(false)
+    expect(checkExceeding('dog')).toBe(false)
+    expect(checkExceeding('exceeding')).toBe(false)
+    expect(checkExceeding('resolved')).toBe(false)
+    expect(checkExceeding('future')).toBe(false)
+    expect(checkExceeding('fixed')).toBe(false)
+    expect(checkExceeding('codes')).toBe(false)
+    expect(checkExceeding('facebook')).toBe(false)
+    expect(checkExceeding('vscode')).toBe(false)
   })
 
   it('Testing exceeding words', () => {
