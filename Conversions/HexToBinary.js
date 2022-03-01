@@ -18,6 +18,10 @@ const binLookup = (key) => ({
 }[key.toLowerCase()])
 
 const hexToBinary = (hexString) => {
+  if (typeof hexString !== 'string') {
+    throw new TypeError('Argument is not a string type')
+  }
+  
   if (/[^\da-f]/gi.test(hexString)) {
     throw new Error('Argument not a valid Hex code!')
   }
