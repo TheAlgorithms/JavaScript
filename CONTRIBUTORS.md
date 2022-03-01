@@ -2554,6 +2554,8 @@
 
 - [@seinnlee](https:github.com/seinnlee)
 
+- [@sergiodsanchez](https://github.com/sergiodsanchez)
+
 - [@sfkaayan](https://github.com/sfk-aayan)
 
 - [@shaileshkr7](https://github.com/shaileshkr7/)
@@ -2890,4 +2892,3 @@
 
 - [@zita07](https://github.com/zita07)
 
-- [@sergiodsanchez](https://github.com/sergiodsanchez)
