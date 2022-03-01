@@ -2288,6 +2288,8 @@
 
 - [@nino812](https://github.com/nino812/)
 
+- [@niquue](https://github.com/niquue)
+
 - [@nishantminerva](https://github.com/nishantminerva)
 
 - [@niveshbirangal](https://github.com/niveshbirangal)
@@ -2888,4 +2890,3 @@
 
 - [@zita07](https://github.com/zita07)
 
-- [@niquue](https://github.com/niquue)
