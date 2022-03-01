@@ -1,6 +1,12 @@
 import hexToBinary from '../HexToBinary'
 
-describe('hexToBinary', () => {
+describe('Testing hexToBinary', () => {
+  it('expects throw error in invalid hex', () => {
+    expect(() => hexToBinary('Hello i am not a valid Hex')).toThrowError()
+    expect(() => hexToBinary('Gf46f')).toThrowError()
+    expect(() => hexToBinary('M')).toThrowError()
+  })
+
   it('expects to return correct hexadecimal value', () => {
     expect(hexToBinary('8')).toBe('1000')
   })

@@ -18,6 +18,9 @@ const binLookup = (key) => ({
 }[key.toLowerCase()])
 
 const hexToBinary = (hexString) => {
+  if (/[^\da-f]/gi.test(hexString)) {
+    throw new Error('Argument not a valid Hex code!')
+  }
   /*
     Function for converting Hex to Binary
 
