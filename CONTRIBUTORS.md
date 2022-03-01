@@ -2,8 +2,6 @@
 
 - [@]()
 
-- [@Burny](https://github.com/mirulnorazmi)
-
 - [@1181092](https://github.com/1181092/)
 
 - [@12otherWays](https://github.com/12otherWays)
@@ -181,6 +179,8 @@
 - [@Bulardi](https://github.com/Bulardi/)
 
 - [@Bunnyhops888](https://github.com/Bunnyhops888)
+
+- [@Burny](https://github.com/mirulnorazmi)
 
 - [@Byenna](https://github.com/Byenna)
 
