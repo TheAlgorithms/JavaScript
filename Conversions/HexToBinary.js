@@ -23,10 +23,12 @@ const hexToBinary = (hexString) => {
 
     1. We convert every hexadecimal bit to 4 binary bits
     2. Conversion goes by searching in the lookup table
-
-    */
-  const hexLexemes = hexString.split('')
-  return hexLexemes.map(lexeme => binLookup(lexeme)).join('')
+  */
+  
+  return hexString.replace(
+    /[0-9a-f]/gi,
+    lexeme => binLookup(lexeme)
+  )
 }
 
 export default hexToBinary
