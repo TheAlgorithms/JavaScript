@@ -2668,6 +2668,8 @@
 
 - [@swaydevstan](https://github.com/swaydevstan/)
 
+- [@sylvahh](https://github.com/sylvahh)
+
 - [@talhaansari4761](https://github.com/talhaansari4761/)
 
 - [@talhaarshad7](https://github.com/talhaarshad7)
@@ -2886,4 +2888,3 @@
 
 - [@zita07](https://github.com/zita07)
 
-- [@sylvahh](https://github.com/sylvahh) 
