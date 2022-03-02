@@ -20,15 +20,14 @@ const multipleFactorials = (arr) => arr.map(factorial)
 
 /**
  * @title implementation of union function
- * @param {Set} sets 
+ * @param {Set} sets
  * @return {new Set}
  */
-function union(...sets) {
+function union (...sets) {
   return new Set(
     sets.reduce((flatArray, set) => [...flatArray, ...set], [])
   )
 }
-
 
 describe('Testing Memoize', () => {
   it('expects the fibonacci function to use the cache on the second call', () => {
@@ -52,7 +51,7 @@ describe('Testing Memoize', () => {
   it('expects the multipleFactorials function to use the cache on the second call', () => {
     const memoMultipleFactorials = memoize(multipleFactorials)
     const input = [2, 3, 4, 5]
-    
+
     expect(memoMultipleFactorials(input)).toEqual([2, 6, 24, 120])
     expect(memoMultipleFactorials(input)).toEqual(multipleFactorials(input))
   })
