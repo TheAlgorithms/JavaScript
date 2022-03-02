@@ -46,6 +46,8 @@
 
 - [@AdamMzkr](https://github.com/AdamMzkr)
 
+- [@Adileng](https://github.com/Adil-eng)
+
 - [@AdityaManoj](https://github.com/Aditya-Manoj)
 
 - [@Adityajl](https://github.com/Adityajl)
@@ -2891,6 +2893,4 @@
 - [@zhvn1](https://github.com/rzhvn1)
 
 - [@zita07](https://github.com/zita07)
-
-- [@Adil-eng](https://github.com/Adil-eng)
 
