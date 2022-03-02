@@ -160,6 +160,8 @@
 
 - [@Bidyutmaji](https://github.com/Bidyutmaji/)
 
+- [@BigPabby](https://github.com/Big-Pabby)
+
 - [@Bilaliq95](https://github.com/Bilaliq95)
 
 - [@Binbaker](https://github.com/Binbaker/)
@@ -2894,4 +2896,3 @@
 
 - [@zita07](https://github.com/zita07)
 
-- [@Big-Pabby](https://github.com/Big-Pabby)
