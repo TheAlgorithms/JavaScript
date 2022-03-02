@@ -1156,6 +1156,8 @@
 
 - [@abulyousuf](https://github.com/abulyousuf)
 
+- [@adarraji](https://github.com/adarraji)
+
 - [@adhuraTayade](https://github.com/MadhuraSubhashTayade)
 
 - [@adrian007i](https://github.com/adrian007i)
@@ -2904,4 +2906,3 @@
 
 - [@zita07](https://github.com/zita07)
 
-- [@adarraji](https://github.com/adarraji)
