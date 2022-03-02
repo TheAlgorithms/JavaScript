@@ -2848,6 +2848,8 @@
 
 - [@xAJesus](https://github.com/xAJesus)
 
+- [@xAJesus](https://github.com/xAJesus)
+
 - [@xark10](https://github.com/xark-10)
 
 - [@xdiegors](https://github.com/xdiegors)
@@ -2902,4 +2904,3 @@
 
 - [@zita07](https://github.com/zita07)
 
-- [@xAJesus](https://github.com/xAJesus)
