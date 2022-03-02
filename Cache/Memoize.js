@@ -1,16 +1,14 @@
 /**
- * Memoize
- *
+ * @function memoize
+ * @description ->
  * From [Wikipedia](https://en.wikipedia.org/wiki/Memoization),
  * memoization is an optimization technique
  * used primarily to speed up computer programs,
  * by storing the results of expensive function calls
  * and returning the cached result when the same inputs occur again
- *
  * This function is a first class objects,
  * which lets us use it as [Higher-Order Function](https://eloquentjavascript.net/05_higher_order.html)
  * and return another function
- *
  * @param {Function} func Original function
  * @returns {Function} Memoized function
  */
