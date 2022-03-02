@@ -702,6 +702,8 @@
 
 - [@Mojit33](https://github.com/Mojit33/)
 
+- [@MolinaDaniel](https://github.com/Molina-Daniel)
+
 - [@MooglyOogly](https://github.com/MooglyOogly)
 
 - [@MorganJay](https://github.com/MorganJay/)
@@ -2897,6 +2899,4 @@
 - [@zhvn1](https://github.com/rzhvn1)
 
 - [@zita07](https://github.com/zita07)
-
-- [@Molina-Daniel](https://github.com/Molina-Daniel)
 
