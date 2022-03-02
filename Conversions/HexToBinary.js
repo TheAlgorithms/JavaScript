@@ -15,7 +15,7 @@ const binLookup = (key) => ({
   d: '1101',
   e: '1110',
   f: '1111'
-}[key.toLowerCase()])
+}[key.toLowerCase()]) // select the binary number by valid hex key with the help javascript object
 
 const hexToBinary = (hexString) => {
   if (typeof hexString !== 'string') {
