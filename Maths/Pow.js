@@ -24,7 +24,7 @@ const powLinear = (base, exponent) => {
 
 /**
  * @function powFaster
- * @description - The powFaster function is a power function with Linear O(n) complexity
+ * @description - The powFaster function is a power function with O(logN) complexity
  * @param {number} base 
  * @param {number} exponent 
  * @returns {number}
