@@ -1,11 +1,16 @@
-// Returns the value of x to the power of y
-
-const pow = (x, y) => {
-  let result = 1
-  for (let i = 1; i <= y; i++) {
-    result *= x
+const powOn = (base, power) => {
+  if (power < 0) {
+    base = 1 / base
+    power = -power
   }
+  
+  let result = 1
+
+  while (power--) { // Break the execution while the power will 0 
+    result *= base
+  }
+
   return result
 }
 
-export { pow }
+export { powOn }
