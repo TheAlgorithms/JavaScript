@@ -1,8 +1,8 @@
 /**
  * @function powLinear
  * @description - The powLinear function is a power function with Linear O(n) complexity
- * @param {number} base 
- * @param {number} exponent 
+ * @param {number} base
+ * @param {number} exponent
  * @returns {number}
  * @example - powLinear(2, 2) => 4 --> 2 * 2
  * @example - powLinear(3, 3) => 27 --> 3 * 3
@@ -12,10 +12,10 @@ const powLinear = (base, exponent) => {
     base = 1 / base
     exponent = -exponent
   }
-  
+
   let result = 1
 
-  while (exponent--) { // Break the execution while the exponent will 0 
+  while (exponent--) { // Break the execution while the exponent will 0
     result *= base
   }
 
@@ -25,8 +25,8 @@ const powLinear = (base, exponent) => {
 /**
  * @function powFaster
  * @description - The powFaster function is a power function with O(logN) complexity
- * @param {number} base 
- * @param {number} exponent 
+ * @param {number} base
+ * @param {number} exponent
  * @returns {number}
  * @example - powFaster(2, 2) => 4 --> 2 * 2
  * @example - powFaster(3, 3) => 27 --> 3 * 3
