@@ -1,20 +1,6 @@
 import { memoize } from '../Memoize'
-
-const fibonacci = (n) => {
-  if (n < 2) {
-    return n
-  }
-
-  return fibonacci(n - 2) + fibonacci(n - 1)
-}
-
-const factorial = (n) => {
-  if (n === 0) {
-    return 1
-  }
-
-  return n * factorial(n - 1)
-}
+import { fibonacci } from '../../Dynamic-Programming/FibonacciNumber'
+import { factorial } from '../../Recursive/Factorial'
 
 const multipleFactorials = (arr) => arr.map(factorial)
 
