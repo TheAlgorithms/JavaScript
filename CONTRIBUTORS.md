@@ -1202,6 +1202,8 @@
 
 - [@alexyin0978](https://github.com/alexyin0978)
 
+- [@alezzzanders](https://github.com/alezzzanders)
+
 - [@alifta](https://github.com/alifta)
 
 - [@alijbuchan](https://github.com/alijbuchan)
@@ -2906,4 +2908,3 @@
 
 - [@zita07](https://github.com/zita07)
 
-- [@alezzzanders](https://github.com/alezzzanders)
