@@ -2106,6 +2106,8 @@
 
 - [@lgolin](https://github.com/lgolin/)
 
+- [@liantus5](https://github.com/liantus5)
+
 - [@limatfc](https://github.com/limatfc)
 
 - [@lintong2006](https://github.com/lintong2006)
@@ -2908,4 +2910,3 @@
 
 - [@zita07](https://github.com/zita07)
 
-- [@liantus5](https://github.com/liantus5)
