@@ -1,21 +1,25 @@
 import { isOdd, isOddBitwise } from '../IsOdd'
 
-test('should return if the number is even or not', () => {
-  const isEvenNumber = isOdd(4)
-  expect(isEvenNumber).toBe(false)
+describe('Testing the isOdd function', () => {
+  it('should return true, if the number is odd or not', () => {
+    const isOddNumber = isOdd(4)
+    expect(isOddNumber).toBe(false)
+  })
+
+  it('should return true, if the number is odd or not', () => {
+    const isOddNumber = isOdd(7)
+    expect(isOddNumber).toBe(true)
+  })
 })
 
-test('should return if the number is even or not', () => {
-  const isEvenNumber = isOdd(7)
-  expect(isEvenNumber).toBe(true)
-})
+describe('Testing the isOddBitwise function', () => {
+  it('should return true, if the number is odd or not', () => {
+    const isOddNumber = isOddBitwise(6)
+    expect(isOddNumber).toBe(false)
+  })
 
-test('should return if the number is even or not', () => {
-  const isEvenNumber = isOddBitwise(6)
-  expect(isEvenNumber).toBe(false)
-})
-
-test('should return if the number is even or not', () => {
-  const isEvenNumber = isOddBitwise(3)
-  expect(isEvenNumber).toBe(true)
+  it('should return true, if the number is odd or not', () => {
+    const isOddNumber = isOddBitwise(3)
+    expect(isOddNumber).toBe(true)
+  })
 })
