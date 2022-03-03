@@ -116,7 +116,7 @@
 
 - [@Arijit10x](https://github.com/Arijit10x/)
 
-- [@Arisxh] [https://github.com/arisxh/]
+- [@Arisxh]()
 
 - [@Armand0alexis](https://github.com/Armand0alexis)
 
