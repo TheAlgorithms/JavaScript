@@ -116,6 +116,8 @@
 
 - [@Arijit10x](https://github.com/Arijit10x/)
 
+- [@Arisxh] [https://github.com/arisxh/]
+
 - [@Armand0alexis](https://github.com/Armand0alexis)
 
 - [@Arpigouswami](https://github.com/Arpigouswami)
