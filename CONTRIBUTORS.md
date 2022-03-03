@@ -2720,6 +2720,8 @@
 
 - [@theilluminatus](https://github.com/the-illuminatus/)
 
+- [@theredcosmos](https://github.com/theredcosmos)
+
 - [@thinh19981998](https://github.com/thinh19981998)
 
 - [@thisissaim](https://github.com/thisissaim)
@@ -2909,4 +2911,4 @@
 - [@zhvn1](https://github.com/rzhvn1)
 
 - [@zita07](https://github.com/zita07)
-- [@theredcosmos](https://github.com/theredcosmos)
+
