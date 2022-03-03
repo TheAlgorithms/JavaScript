@@ -1048,6 +1048,8 @@
 
 - [@Trickster36](https://github.com/Trickster36)
 
+- [@Trivedhkumar](https://github.com/Trivedhkumar)
+
 - [@TuhinBanerjee31](https://github.com/TuhinBanerjee31)
 
 - [@UTKARSH5038](https://github.com/UTKARSH5038)
@@ -2916,4 +2918,3 @@
 
 - [@zita07](https://github.com/zita07)
 
--[@Trivedhkumar](https://github.com/Trivedhkumar)
