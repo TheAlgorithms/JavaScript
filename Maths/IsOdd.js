@@ -5,5 +5,5 @@
  */
 
 export const isOdd = (value) => {
-  return !!((value & 1))
+  return Boolean(value & 1) // 1 -> true, 0 -> false
 }
