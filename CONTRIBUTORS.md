@@ -1598,6 +1598,8 @@
 
 - [@dnjoe96](https://github.com/dnjoe96/)
 
+- [@docum5](https://github.com/docum5)
+
 - [@don1525](https://github.com/don1525)
 
 - [@doniwirawan](https://github.com/doniwirawan)
@@ -2920,4 +2922,3 @@
 
 - [@zita07](https://github.com/zita07)
 
-- [@docum5](https://github.com/docum5)
