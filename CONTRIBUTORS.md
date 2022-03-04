@@ -1078,6 +1078,8 @@
 
 - [@Viniel](https://github.com/Viniel)
 
+- [@Viole01](https://github.com/Viole01)
+
 - [@Vishalsarkar](https://github.com/Vishal-sarkar/)
 
 - [@Vishaluxspec](https://github.com/Vishal-ux-spec)
@@ -2918,4 +2920,3 @@
 
 - [@zita07](https://github.com/zita07)
 
-- [@Viole01](https://github.com/Viole01)
