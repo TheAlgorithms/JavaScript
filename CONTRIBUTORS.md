@@ -2300,6 +2300,8 @@
 
 - [@niemha3](https://github.com/niemha3)
 
+- [@nightboard](https://github.com/nightboard)
+
 - [@nigkhar23](https://github.com/nigkhar23)
 
 - [@nikitabhanderi93](https://github.com/nikitabhanderi93)
@@ -2922,4 +2924,3 @@
 
 - [@zita07](https://github.com/zita07)
 
-- [@nightboard](https://github.com/nightboard)
