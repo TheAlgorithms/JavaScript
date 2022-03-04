@@ -1942,6 +1942,8 @@
 
 - [@jhar](https://github.com/jharStadistics)
 
+- [@jibisk](https://github.com/jibisk)
+
 - [@jideabdqudus](https://github.com/jideabdqudus)
 
 - [@jithendragunuru](https://github.com/jithendra-gunuru)
@@ -2924,4 +2926,3 @@
 
 - [@zita07](https://github.com/zita07)
 
-- [@jibisk](https://github.com/jibisk)
