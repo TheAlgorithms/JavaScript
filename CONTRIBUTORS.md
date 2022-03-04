@@ -208,6 +208,8 @@
 
 - [@ChristopherForce](https://github.com/Christopher-Force)
 
+- [@CindyHuang888](https://github.com/CindyHuang888)
+
 - [@Clannis](https://github.com/Clannis)
 
 - [@ClarkCooper](https://github.com/ClarkCooper)
@@ -2927,6 +2929,4 @@
 - [@zhvn1](https://github.com/rzhvn1)
 
 - [@zita07](https://github.com/zita07)
-
-- [@CindyHuang888](https://github.com/CindyHuang888)
 
