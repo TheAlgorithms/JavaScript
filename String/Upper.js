@@ -13,7 +13,11 @@ const upper = (str) => {
 
   return str.replace(
     /[a-z]/g,
-    (lowerLetter) => lowerLetter.toUpperCase()
+    (_, indexOfLowerChar) => {
+      const asciiCode = str.charCodeAt(indexOfLowerChar)
+
+      return String.fromCharCode(asciiCode - 32)
+    }
   )
 }
 
