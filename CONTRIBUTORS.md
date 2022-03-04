@@ -2806,6 +2806,8 @@
 
 - [@ultimatelokal](https://github.com/ultimatelokal)
 
+- [@ultros](https://github.com/ultros)
+
 - [@umar052001](https://github.com/umar052001)
 
 - [@utpalsinghjadon](https://github.com/utpalsinghjadon)
@@ -2930,4 +2932,3 @@
 
 - [@zita07](https://github.com/zita07)
 
-- [@ultros](https://github.com/ultros)
