@@ -2646,6 +2646,8 @@
 
 - [@solron](https://github.com/solron)
 
+- [@soukainabachikh1](https://github.com/soukainabachikh1)
+
 - [@souldrop](https://github.com/souldrop)
 
 - [@souravmishra](https://github.com/sourav-mishra)
@@ -2926,4 +2928,3 @@
 
 - [@zita07](https://github.com/zita07)
 
--[@soukainabachikh1](https://github.com/soukainabachikh1)
