@@ -1722,6 +1722,8 @@
 
 - [@gabriellend](https://github.com/gabriellend)
 
+- [@garrettf24](https://github.com/GarrettF24)
+
 - [@gasemjabbari](https://github.com/gasemjabbari)
 
 - [@gastighost](https://github.com/gastighost)
@@ -2938,4 +2940,3 @@
 
 - [@zita07](https://github.com/zita07)
 
-- [@garrettf24](https://github.com/GarrettF24)
