@@ -1,7 +1,5 @@
 # CONTRIBUTORS
 
-- [@DrGunnarMallon](https://github.com/DrGunnarMallon)
-
 - [@1181092](https://github.com/1181092/)
 
 - [@12otherWays](https://github.com/12otherWays)
@@ -291,6 +289,8 @@
 - [@DoragonArashi](https://github.com/DoragonArashi/)
 
 - [@DoubleT1](https://github.com/Double-T1)
+
+- [@DrGunnarMallon](https://github.com/DrGunnarMallon)
 
 - [@Durotimicodes](https://github.com/@Durotimicodes/)
 
@@ -2935,3 +2935,4 @@
 - [@zhvn1](https://github.com/rzhvn1)
 
 - [@zita07](https://github.com/zita07)
+
