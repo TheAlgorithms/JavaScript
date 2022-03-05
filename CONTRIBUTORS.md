@@ -2352,6 +2352,8 @@
 
 - [@ozanuslan](https://github.com/ozanuslan)
 
+- [@pac0fung](https://github.com/pac0fung)
+
 - [@pangambu](https://github.com/pangambu)
 
 - [@parthdhawale](https://github.com/parthdhawale)
@@ -2932,4 +2934,3 @@
 
 - [@zita07](https://github.com/zita07)
 
-- [@pac0fung](https://github.com/pac0fung)
