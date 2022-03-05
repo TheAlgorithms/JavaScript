@@ -2220,6 +2220,8 @@
 
 - [@mauriziodm91](https://github.com/mauriziodm91)
 
+- [@maxdatascience](https://github.com/maxdatascience)
+
 - [@mb16biswas](https://github.com/mb16biswas)
 
 - [@meigie](https://github.com/meigie)
@@ -2934,4 +2936,3 @@
 
 - [@zita07](https://github.com/zita07)
 
-- [@maxdatascience](https://github.com/maxdatascience)
