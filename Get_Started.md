@@ -33,8 +33,8 @@ In order to ensure that students hard work and time are not exploited, there are
 - The project must use the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)
 - The project must contain and adhere to the `code of conduct` guide found [here](https://github.com/zero-to-mastery/CodeofConduct)
 
-## Current Projects
-You can view all current projects [here](https://github.com/zero-to-mastery) or you can view the specific #current-projects channel in our Discord Community that gives you a little more detail on each project.
+## Projects
+You can view all projects [here](https://github.com/zero-to-mastery).
 
 ## What is open source?
 
