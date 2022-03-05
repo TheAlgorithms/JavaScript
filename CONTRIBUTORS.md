@@ -1,6 +1,6 @@
 # CONTRIBUTORS
 
-- [@]()
+- [@DrGunnarMallon](https://github.com/DrGunnarMallon)
 
 - [@1181092](https://github.com/1181092/)
 
@@ -2935,4 +2935,3 @@
 - [@zhvn1](https://github.com/rzhvn1)
 
 - [@zita07](https://github.com/zita07)
-
