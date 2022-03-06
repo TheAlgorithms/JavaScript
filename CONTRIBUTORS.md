@@ -1876,6 +1876,8 @@
 
 - [@imlakshay08](https://github.com/imlakshay08)
 
+- [@inazrabuu](https://github.com/inazrabuu)
+
 - [@incanlove](https://github.com/incanlove)
 
 - [@inesreis](https://github.com/inesreis)
@@ -2944,4 +2946,3 @@
 
 - [@zita07](https://github.com/zita07)
 
-- [@inazrabuu](https://github.com/inazrabuu)
