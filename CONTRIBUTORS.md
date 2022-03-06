@@ -902,6 +902,8 @@
 
 - [@SPYARHAM](https://github.com/SPYARHAM)
 
+- [@SQZ0111](https://github.com/sqz0111)
+
 - [@SRazaN](https://github.com/S-Raza-N)
 
 - [@SSidharthan](https://github.com/S-Sidharthan)
@@ -2948,4 +2950,3 @@
 
 - [@zita07](https://github.com/zita07)
 
-- [@SQZ0111](https://github.com/sqz0111)
