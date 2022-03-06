@@ -792,6 +792,8 @@
 
 - [@Oreva33](https://github.com/Oreva33)
 
+- [@OstrongDev](https://github.com/OstrongDev)
+
 - [@Paddi1893](https://github.com/Paddi1893)
 
 - [@Padletut](https://github.com/Padletut)
@@ -2945,6 +2947,4 @@
 - [@zhvn1](https://github.com/rzhvn1)
 
 - [@zita07](https://github.com/zita07)
-
-- [@OstrongDev](https://github.com/OstrongDev)
 
