@@ -2596,6 +2596,8 @@
 
 - [@sfkaayan](https://github.com/sfk-aayan)
 
+- [@shagunchaurasia](https://github.com/shagunchaurasia)
+
 - [@shaileshkr7](https://github.com/shaileshkr7/)
 
 - [@shakerdl](https://github.com/shakerdl)
@@ -2942,4 +2944,3 @@
 
 - [@zita07](https://github.com/zita07)
 
-- [@shagunchaurasia] (https://github.com/shagunchaurasia)
