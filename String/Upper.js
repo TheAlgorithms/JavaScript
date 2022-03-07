@@ -1,28 +1,24 @@
 /**
  * @function upper
  * @description Will convert the entire string to uppercase letters.
- * @param {String} url - The input URL string
+ * @param {String} str - The input string
  * @return {String} Uppercase string
  * @example upper("hello") => HELLO
  * @example upper("He_llo") => HE_LLO
  */
-
 const upper = (str) => {
   if (typeof str !== 'string') {
-    throw new TypeError('Invalid Input Type')
+    throw new TypeError('Argument should be string')
   }
 
-  let upperString = ''
+  return str.replace(
+    /[a-z]/g,
+    (_, indexOfLowerChar) => {
+      const asciiCode = str.charCodeAt(indexOfLowerChar)
 
-  for (const char of str) {
-    let asciiCode = char.charCodeAt(0)
-    if (asciiCode >= 97 && asciiCode <= 122) {
-      asciiCode -= 32
+      return String.fromCharCode(asciiCode - 32)
     }
-    upperString += String.fromCharCode(asciiCode)
-  }
-
-  return upperString
+  )
 }
 
 export { upper }
