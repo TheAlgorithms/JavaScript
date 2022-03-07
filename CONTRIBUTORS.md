@@ -2578,6 +2578,8 @@
 
 - [@schospel](https://github.com/schospel/)
 
+- [@scroller73](https://github.com/scroller73)
+
 - [@sdangoy](https://github.com/sdangoy)
 
 - [@sebastianunrau](https://github.com/sebastianunrau)
@@ -2950,4 +2952,3 @@
 
 - [@zita07](https://github.com/zita07)
 
--[scroller73](https://github.com/scroller73)
