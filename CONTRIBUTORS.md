@@ -2540,6 +2540,8 @@
 
 - [@saimark123](https://github.com/saimark123)
 
+- [@sajalnayansingh](https://github.com/sajalnayansingh/)
+
 - [@sakamer71](https://github.com/sakamer71)
 
 - [@salmanprottoy](https://github.com/salmanprottoy)
@@ -2952,4 +2954,3 @@
 
 - [@zita07](https://github.com/zita07)
 
-- [@sajalnayansingh](https://github.com/sajalnayansingh/)
