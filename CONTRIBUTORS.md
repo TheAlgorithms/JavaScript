@@ -726,6 +726,8 @@
 
 - [@MrdjaS](https://github.com/MrdjaS)
 
+- [@Mrschabs](https://github.com/Mrschabs)
+
 - [@MuhammadYasser1](https://github.com/Muhammad-Yasser1)
 
 - [@Mujtaba18624](https://github.com/Mujtaba18624)
@@ -2960,4 +2962,3 @@
 
 - [@zita07](https://github.com/zita07)
 
-- [@Mrschabs](https://github.com/Mrschabs)
