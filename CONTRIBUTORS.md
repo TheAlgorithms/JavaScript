@@ -630,6 +630,8 @@
 
 - [@MalandaCS](https://github.com/MalandaCS)
 
+- [@ManasNikte](https://github.com/ManasNikte)
+
 - [@Manideep07](https://github.com/Manideep07)
 
 - [@ManishBajagai](https://github.com/manishbajagai2)
@@ -2962,4 +2964,3 @@
 
 - [@zita07](https://github.com/zita07)
 
-- [@ManasNikte](https://github.com/ManasNikte)
