@@ -266,6 +266,8 @@
 
 - [@DeepWander](https://github.com/DeepWander)
 
+- [@Deepanshupanwar](https://github.com/Deepanshupanwar)
+
 - [@DevTechJr](https://github.com/DevTechJr)
 
 - [@DhruvMahajan1](https://github.com/Dhruv-Mahajan1)
@@ -2970,4 +2972,3 @@
 
 - [@zita07](https://github.com/zita07)
 
-- [@Deepanshupanwar](https://github.com/Deepanshupanwar)
