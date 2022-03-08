@@ -1664,6 +1664,8 @@
 
 - [@eliasroodrigues](https://github.com/eliasroodrigues)
 
+- [@elioriver](https://github.com/elioriver)
+
 - [@empressarts](https://github.com/empressarts)
 
 - [@emrizki](https://github.com/emrizki)
@@ -2965,6 +2967,4 @@
 - [@zhvn1](https://github.com/rzhvn1)
 
 - [@zita07](https://github.com/zita07)
-
-- [@elioriver](https://github.com/elioriver)
 
