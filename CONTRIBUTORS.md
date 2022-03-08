@@ -326,6 +326,8 @@
 
 - [@Etim](https://github.com/E-tim)
 
+- [@EzeaniChucks](https://github.com/EzeaniChucks)
+
 - [@Ezeh20](https://github.com/Ezeh20)
 
 - [@F3ll0w](https://github.com/f3ll0w)
@@ -2968,4 +2970,3 @@
 
 - [@zita07](https://github.com/zita07)
 
-- [@EzeaniChucks](https://github.com/EzeaniChucks)
