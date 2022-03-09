@@ -2802,6 +2802,8 @@
 
 - [@tirtharajsinha](https://github.com/tirtharajsinha)
 
+- [@tizspagno](https://github.com/tizspagno)
+
 - [@tkaul](https://github.com/mtkaul)
 
 - [@tnehd1998](https://github.com/tnehd1998)
@@ -2975,6 +2977,4 @@
 - [@zhvn1](https://github.com/rzhvn1)
 
 - [@zita07](https://github.com/zita07)
-
-- [@tizspagno] (https://github.com/tizspagno)
 
