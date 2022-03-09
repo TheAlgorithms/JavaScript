@@ -2550,6 +2550,8 @@
 
 - [@sagarparker](https://github.com/sagarparker)
 
+- [@sagnickkundu](https://github.com/sagnickkundu)
+
 - [@sahilpatel09](https://github.com/sahilpatel09)
 
 - [@saikotcse](https://github.com/saikot-cse)
@@ -2971,6 +2973,4 @@
 - [@zhvn1](https://github.com/rzhvn1)
 
 - [@zita07](https://github.com/zita07)
-
-- [@sagnickkundu](https://github.com/sagnickkundu)
 
