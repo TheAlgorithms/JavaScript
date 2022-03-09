@@ -2718,6 +2718,8 @@
 
 - [@subverzon](https://github.com/Subverzon)
 
+- [@sudarshanAw](https://github.com/sudarshanAw)
+
 - [@sudwiptokm](https://github.com/sudwiptokm)
 
 - [@sukanta1991](https://github.com/sukanta1991)
@@ -2973,8 +2975,4 @@
 - [@zhvn1](https://github.com/rzhvn1)
 
 - [@zita07](https://github.com/zita07)
-
-- [@sudarshanAw](https://github.com/sudarshanAw)
-
-
 
