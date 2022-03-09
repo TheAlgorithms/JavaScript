@@ -2982,3 +2982,4 @@
 
 - [@zita07](https://github.com/zita07)
 
+- [@shared-techs](https://github.com/shared-techs)
