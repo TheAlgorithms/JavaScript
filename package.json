@@ -6,7 +6,8 @@
   "main": "",
   "scripts": {
     "test": "jest --no-cache",
-    "style": "standard"
+    "style": "standard",
+    "prepare": "husky install"
   },
   "author": "TheAlgorithms",
   "license": "GPL-3.0",
@@ -27,6 +28,7 @@
   "devDependencies": {
     "babel-jest": "^26.3.0",
     "globby": "^12.0.2",
+    "husky": "^7.0.4",
     "jest": "^26.4.2",
     "standard": "^16.0.4"
   }
