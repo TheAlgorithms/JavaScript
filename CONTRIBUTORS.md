@@ -2642,6 +2642,8 @@
 
 - [@shaponpal6](https://github.com/shaponpal6)
 
+- [@sharedtechs](https://github.com/shared-techs)
+
 - [@shekharmouryaa](https://github.com/shekharmouryaa)
 
 - [@shelupets89](https://github.com/shelupets89)
@@ -2982,4 +2984,3 @@
 
 - [@zita07](https://github.com/zita07)
 
-- [@shared-techs](https://github.com/shared-techs)
