@@ -816,6 +816,8 @@
 
 - [@Padletut](https://github.com/Padletut)
 
+- [@PatSam23](https://github.com/PatSam23)
+
 - [@PavsterUK](https://github.com/PavsterUK)
 
 - [@Pawnesh03](https://github.com/Pawnesh03)
@@ -2990,4 +2992,3 @@
 
 - [@zita07](https://github.com/zita07)
 
-- [@PatSam23](https://github.com/PatSam23)
