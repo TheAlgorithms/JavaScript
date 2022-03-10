@@ -62,6 +62,8 @@
 
 - [@Akshay9705](https://github.com/Akshay9705)
 
+- [@Alccro](https://github.com/alccro)
+
 - [@AlekseyVoko](https://github.com/Aleksey-Voko)
 
 - [@AliSoftwareD](https://github.com/AliSoftware-D)
@@ -2987,6 +2989,4 @@
 - [@zhvn1](https://github.com/rzhvn1)
 
 - [@zita07](https://github.com/zita07)
-
-- [@Alccro](https://github.com/alccro)
 
