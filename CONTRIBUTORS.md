@@ -986,6 +986,8 @@
 
 - [@Sofbog](https://github.com/sofbog)
 
+- [@Solace4415](https://github.com/Solace4415/)
+
 - [@SoloLevelUp](https://github.com/SoloLevelUp)
 
 - [@Soukainatichirra](https://github.com/Soukainatichirra)
@@ -2986,4 +2988,3 @@
 
 - [@zita07](https://github.com/zita07)
 
-- [@Solace4415](https://github.com/Solace4415/)
