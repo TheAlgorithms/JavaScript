@@ -5,7 +5,7 @@
  * @param {number} exponent
  * @returns {number}
  * @example - powLinear(2, 2) => 4 --> 2 * 2
- * @example - powLinear(3, 3) => 27 --> 3 * 3
+ * @example - powLinear(3, 3) => 27 --> 3 * 3 * 3
  */
 const powLinear = (base, exponent) => {
   if (exponent < 0) {
@@ -29,7 +29,7 @@ const powLinear = (base, exponent) => {
  * @param {number} exponent
  * @returns {number}
  * @example - powFaster(2, 2) => 4 --> 2 * 2
- * @example - powFaster(3, 3) => 27 --> 3 * 3
+ * @example - powFaster(3, 3) => 27 --> 3 * 3 * 3
  */
 const powFaster = (base, exponent) => {
   if (exponent < 2) { // explanation below - 1
