@@ -2896,6 +2896,8 @@
 
 - [@vilay1702](https://github.com/vilay1702)
 
+- [@vintergal](https://github.com/vintergal)
+
 - [@vishalvishalgupta](https://github.com/vishalvishalgupta)
 
 - [@vivkap](https://github.com/vivkap)
@@ -2991,6 +2993,4 @@
 - [@zhvn1](https://github.com/rzhvn1)
 
 - [@zita07](https://github.com/zita07)
-
-- [@vintergal](https://github.com/vintergal)
 
