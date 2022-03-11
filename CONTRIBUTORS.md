@@ -234,6 +234,8 @@
 
 - [@ColonelBucket8](https://github.com/ColonelBucket8)
 
+- [@CozmaCoz](https://github.com/CozmaCoz)
+
 - [@CristianRP](https://github.com/CristianRP)
 
 - [@CydaCode](https://github.com/CydaCode)
@@ -3001,6 +3003,4 @@
 - [@zhvn1](https://github.com/rzhvn1)
 
 - [@zita07](https://github.com/zita07)
-
--[@CozmaCoz](https://github.com/CozmaCoz)
 
