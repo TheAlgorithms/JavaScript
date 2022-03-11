@@ -356,6 +356,8 @@
 
 - [@Flogit](https://github.com/Flo-git)
 
+- [@FrankFromTheSea](https://github.com/FrankFromTheSea)
+
 - [@Fuckplastic](https://github.com/Fuckplastic)
 
 - [@GAlexandruD](https://github.com/GAlexandruD)
@@ -3000,4 +3002,3 @@
 
 - [@zita07](https://github.com/zita07)
 
-- [@FrankFromTheSea](https://github.com/FrankFromTheSea)
