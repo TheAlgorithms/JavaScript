@@ -4,8 +4,6 @@
 
 - [@12otherWays](https://github.com/12otherWays)
 
-- [@Byte-bit-Byte](https://github.com/Byte-bit-Byte)
-
 - [@14oualid](https://github.com/14-oualid)
 
 - [@29aNKUR](https://github.com/29aNKUR)
@@ -195,6 +193,8 @@
 - [@Burny](https://github.com/mirulnorazmi)
 
 - [@Byenna](https://github.com/Byenna)
+
+- [@BytebitByte](https://github.com/Byte-bit-Byte)
 
 - [@CHMALU](https://github.com/CHMALU)
 
