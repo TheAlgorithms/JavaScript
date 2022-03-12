@@ -2118,6 +2118,8 @@
 
 - [@kneo002](https://github.com/kneo002)
 
+- [@knstntnts](https://github.com/knstntn-ts)
+
 - [@krauluk1](https://github.com/krauluk1/)
 
 - [@krazeelazy](https://github.com/krazeelazy)
@@ -3014,4 +3016,3 @@
 
 - [@zita07](https://github.com/zita07)
 
-- [@knstntn-ts](https://github.com/knstntn-ts)
