@@ -1112,6 +1112,8 @@
 
 - [@VictorFajardo](https://github.com/VictorFajardo)
 
+- [@VictorTung](https://github.com/VictorTung)
+
 - [@Vijay2249](https://github.com/vijay2249)
 
 - [@Vikas](https://github.com/vikaspandey18)
@@ -3012,4 +3014,3 @@
 
 - [@zita07](https://github.com/zita07)
 
-- [@VictorTung](https://github.com/VictorTung)
