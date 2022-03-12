@@ -994,6 +994,8 @@
 
 - [@SilahicAmil](https://github.com/SilahicAmil)
 
+- [@Silvarian](https://github.com/Silvarian)
+
 - [@SimonCherno](https://github.com/SimonCherno/)
 
 - [@SimonJankowski](https://github.com/SimonJankowski)
@@ -3010,4 +3012,3 @@
 
 - [@zita07](https://github.com/zita07)
 
-- [@Silvarian](https://github.com/Silvarian)
