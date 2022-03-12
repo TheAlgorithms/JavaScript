@@ -1428,6 +1428,8 @@
 
 - [@bergstenarn](https://github.com/bergstenarn)
 
+- [@betiniakarandut](https://github.com/betiniakarandut)
+
 - [@betulince](https://github.com/betulince)
 
 - [@bguz](https://github.com/bguz/)
@@ -3020,4 +3022,3 @@
 
 - [@zita07](https://github.com/zita07)
 
-- [betiniakarandut](https://github.com/betiniakarandut)
