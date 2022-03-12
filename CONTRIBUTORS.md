@@ -876,6 +876,8 @@
 
 - [@Psalmseen](https://github.com/Psalmseen/)
 
+- [@QCHR1581](https://github.com/QCHR1581)
+
 - [@RAHULSHAH07](https://github.com/RAHULSHAH07)
 
 - [@RBoghian](https://github.com/RBoghian)
@@ -3018,4 +3020,3 @@
 
 - [@zita07](https://github.com/zita07)
 
-- [@QCHR1581](https://github.com/QCHR1581)
