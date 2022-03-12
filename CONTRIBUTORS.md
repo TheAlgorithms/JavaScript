@@ -2354,6 +2354,8 @@
 
 - [@muisoft](https://github.com/muisoft)
 
+- [@muridiawes](https://github.com/muridiawesome/)
+
 - [@nadjastojanovic](https://github.com/nadjastojanovic)
 
 - [@nahrinoda](https://github.com/nahrinoda)
@@ -3024,4 +3026,3 @@
 
 - [@zita07](https://github.com/zita07)
 
-- [@muridiawes](https://github.com/muridiawesome/)
