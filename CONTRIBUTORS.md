@@ -810,8 +810,6 @@
 
 - [@OluJoseph](https://github.com/OluJoseph)
 
-- [@Oraweechan](https://github.com/Oraweechan)
-
 - [@OmarGit99](https://github.com/OmarGit99/)
 
 - [@Omkar110401](https://github.com/Omkar110401)
@@ -819,6 +817,8 @@
 - [@Omkar110401](https://github.com/Omkar110401)
 
 - [@OnZi12](https://github.com/Onzi12)
+
+- [@Oraweechan](https://github.com/Oraweechan)
 
 - [@Oreva33](https://github.com/Oreva33)
 
