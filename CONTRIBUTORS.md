@@ -964,9 +964,9 @@
 
 - [@Sapphireyed](https://github.com/Sapphireyed)
 
-- [@Sarthakischauhan](https://github.com/Sarthakischauhan)
-
 - [@SarthakSKumar](https://github.com/SarthakSKumar)
+
+- [@Sarthakischauhan](https://github.com/Sarthakischauhan)
 
 - [@SayamJain1](https://github.com/SayamJain1)
 
