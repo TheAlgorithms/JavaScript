@@ -2570,7 +2570,7 @@
 
 - [@rohansaini886](https://github.com/rohansaini886)
 
-- [@roopesh-nivedit](https://github.com/roopesh-nivedit)
+- [@roopeshnivedit](https://github.com/roopesh-nivedit)
 
 - [@rosajen27](https://github.com/rosajen27)
 
