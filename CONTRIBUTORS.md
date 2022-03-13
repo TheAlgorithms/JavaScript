@@ -966,6 +966,8 @@
 
 - [@Sarthakischauhan](https://github.com/Sarthakischauhan)
 
+- [@SarthakSKumar](https://github.com/SarthakSKumar)
+
 - [@SayamJain1](https://github.com/SayamJain1)
 
 - [@SayedHusain](https://github.com/Sayed-Husain)
