@@ -858,6 +858,8 @@
 
 - [@PranavBhalerao10](https://github.com/PranavBhalerao-10/)
 
+- [@PranjaliBora](https://github.com/Pranjali-Bora)
+
 - [@Pratapkute](https://github.com/Pratap-kute)
 
 - [@PrathamChoreria](https://github.com/PrathamChoreria)
@@ -2481,8 +2483,6 @@
 - [@prajwalj27](https://github.com/prajwalj27)
 
 - [@pranav1597](https://github.com/pranav1597)
-
-- [@Pranjali-Bora](https://github.com/Pranjali-Bora)
 
 - [@pranitrathod](https://github.com/pranitrathod)
 
