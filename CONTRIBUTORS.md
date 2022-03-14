@@ -876,6 +876,8 @@
 
 - [@Psalmseen](https://github.com/Psalmseen/)
 
+- [@PubuduDarshana](https://github.com/PubuduDarshana)
+
 - [@QCHR1581](https://github.com/QCHR1581)
 
 - [@RAHULSHAH07](https://github.com/RAHULSHAH07)
@@ -3038,4 +3040,3 @@
 
 - [@zita07](https://github.com/zita07)
 
-- [@PubuduDarshana] (https://github.com/PubuduDarshana)
