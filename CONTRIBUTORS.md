@@ -2482,6 +2482,8 @@
 
 - [@pranav1597](https://github.com/pranav1597)
 
+- [@Pranjali-Bora](https://github.com/Pranjali-Bora)
+
 - [@pranitrathod](https://github.com/pranitrathod)
 
 - [@praveenah](https://github.com/praveen-ah)
