@@ -1160,6 +1160,8 @@
 
 - [@Xuan19](https://github.com/Xuan19)
 
+- [@YakubEgamnazarov](https://github.com/Yakub-Egamnazarov)
+
 - [@YashKK](https://github.com/Yash-KK)
 
 - [@YashKhatri](https://github.com/Yash-Khatri-31)
@@ -3036,4 +3038,3 @@
 
 - [@zita07](https://github.com/zita07)
 
-- [@Yakub-Egamnazarov](https://github.com/Yakub-Egamnazarov)
