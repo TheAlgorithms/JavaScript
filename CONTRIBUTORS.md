@@ -2702,6 +2702,8 @@
 
 - [@sharedtechs](https://github.com/shared-techs)
 
+- [@shashwatpal1021](https://github.com/shashwatpal1021)
+
 - [@shekharmouryaa](https://github.com/shekharmouryaa)
 
 - [@shelupets89](https://github.com/shelupets89)
@@ -3044,4 +3046,3 @@
 
 - [@zita07](https://github.com/zita07)
 
-- [@shashwatpal1021](https://github.com/shashwatpal1021)
