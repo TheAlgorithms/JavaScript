@@ -2274,6 +2274,8 @@
 
 - [@marianasegbravo](https://github.com/marianasegbravo)
 
+- [@marianochaar](https://github.com/marianochaar)
+
 - [@maringrgatovic](https://github.com/maringrgatovic/)
 
 - [@mark123jesper](https://github.com/mark123jesper)
@@ -3046,4 +3048,3 @@
 
 - [@zita07](https://github.com/zita07)
 
--[@marianochaar](https://github.com/marianochaar)
