@@ -530,6 +530,8 @@
 
 - [@JosephAoga](https://github.com/Joseph-Aoga/)
 
+- [@Josh742](https://github.com/Josh742)
+
 - [@JoshuaEmor](https://github.com/JoshuaEmor)
 
 - [@JoshuaM13](https://github.com/JoshuaM13)
@@ -3050,4 +3052,3 @@
 
 - [@zita07](https://github.com/zita07)
 
--[@Josh742](https://github.com/Josh742)
