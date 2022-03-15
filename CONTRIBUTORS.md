@@ -934,6 +934,8 @@
 
 - [@Rosiaz](https://github.com/Rosiaz)
 
+- [@RoyalMelon](https://github.com/RoyalMelon)
+
 - [@RuanEsterhuyse](https://github.com/RuanEsterhuyse)
 
 - [@RubyZhuang](https://github.com/Ruby-Zhuang)
@@ -3054,4 +3056,3 @@
 
 - [@zita07](https://github.com/zita07)
 
-- [@RoyalMelon](https://github.com/RoyalMelon)
