@@ -3,7 +3,7 @@
  * @description This script will find the absolute value of a number.
  * @param {number} num - The input integer
  * @return {number} - Absolute number of num.
- * @see [Absolute_value](https://en.wikipedia.org/wiki/Absolute_value)
+ * @see https://en.wikipedia.org/wiki/Absolute_value
  * @example abs(-10) = 10
  * @example abs(50) = 50
  * @example abs(0) = 0
