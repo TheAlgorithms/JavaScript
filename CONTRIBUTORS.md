@@ -924,6 +924,8 @@
 
 - [@Roadtomillion04](https://github.com/Roadtomillion04)
 
+- [@RodrigoPalma](https://github.com/Rodrigo-Palma)
+
 - [@RoeiL](https://github.com/Roei-L)
 
 - [@Rohanvolety](https://github.com/RohanVolety)
@@ -3062,4 +3064,3 @@
 
 - [@zita07](https://github.com/zita07)
 
-- [@Rodrigo-Palma](https://github.com/Rodrigo-Palma)
