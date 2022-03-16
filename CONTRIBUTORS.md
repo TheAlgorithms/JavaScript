@@ -1462,6 +1462,8 @@
 
 - [@bossman602](https://github.com/bossman602/)
 
+- [@boyter8](https://github.com/boyter8)
+
 - [@bpyj](https://github.com/bpyj)
 
 - [@brainwash2](https://github.com/brainwash2)
@@ -3056,4 +3058,3 @@
 
 - [@zita07](https://github.com/zita07)
 
-- [@boyter8](https://github.com/boyter8)
