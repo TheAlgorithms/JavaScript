@@ -1612,6 +1612,8 @@
 
 - [@darylnauman](https://github.com/darylnauman)
 
+- [@darylsan](https://github.com/daryl-san)
+
 - [@datdevdez](https://github.com/datdevdez)
 
 - [@davdwoo](https://github.com/davdwoo/)
@@ -3060,4 +3062,3 @@
 
 - [@zita07](https://github.com/zita07)
 
-- [@daryl-san](https://github.com/daryl-san)
