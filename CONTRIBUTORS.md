@@ -2210,6 +2210,8 @@
 
 - [@lintong2006](https://github.com/lintong2006)
 
+- [@lixf2](https://github.com/lixf2)
+
 - [@lizabethA01](https://github.com/ElizabethA01)
 
 - [@lkdgr8](https://github.com/lkdgr8/)
@@ -3058,4 +3060,3 @@
 
 - [@zita07](https://github.com/zita07)
 
-- [lixf2](https://github.com/lixf2)
