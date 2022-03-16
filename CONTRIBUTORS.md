@@ -1230,6 +1230,8 @@
 
 - [@adarraji](https://github.com/adarraji)
 
+- [@adeelbarki](https://github.com/adeelbarki)
+
 - [@adhuraTayade](https://github.com/MadhuraSubhashTayade)
 
 - [@adrian007i](https://github.com/adrian007i)
@@ -3063,6 +3065,4 @@
 - [@zhvn1](https://github.com/rzhvn1)
 
 - [@zita07](https://github.com/zita07)
-
-- [@adeelbarki](https://github.com/adeelbarki)
 
