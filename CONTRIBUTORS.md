@@ -3067,3 +3067,5 @@
 - [@zita07](https://github.com/zita07)
 
 - [@KrisCrossMagick](https://github.com/KrisCrossMagick)
+
+- [@benedictj](https://github.com/benedictj)
