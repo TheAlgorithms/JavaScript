@@ -23,9 +23,11 @@
   "standard": {
     "env": [
       "jest"
-    ]
+    ],
+    "parser": "@babel/eslint-parser"
   },
   "devDependencies": {
+    "@babel/eslint-parser": "^7.17.0",
     "babel-jest": "^26.3.0",
     "globby": "^12.0.2",
     "husky": "^7.0.4",
