@@ -3103,4 +3103,7 @@
 -[@Ruslan-SWE-ML](https://github.com/ruslan-shulhan)
 
 -[@catehardy](https://github.com/catehardy)
+
 -[@ny20](https://github.com/ny20)
+
+-[@MichaelClautice](https://github.com/MichaelClautice)
