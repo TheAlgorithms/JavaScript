@@ -24,6 +24,8 @@
 
 - [@AADHISM](https://github.com/AADHISM)
 
+- [@DarrickFauvel](https://github.com/DarrickFauvel/)
+
 - [@ACRUNO](https://github.com/ACRUNO)
 
 - [@AKH177](https://github.com/AKH177)
