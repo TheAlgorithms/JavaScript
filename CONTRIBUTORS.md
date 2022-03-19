@@ -3098,4 +3098,4 @@
 
 -[@Infinity-Mineeva](https://github.com/Infinity-Mineeva)
 
--[@Ruslan-SWE-ML](https://github.com/Infinity-Mineeva)
+-[@Ruslan-SWE-ML](https://github.com/ruslan-shulhan)
