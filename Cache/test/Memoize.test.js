@@ -1,5 +1,5 @@
 import { memoize } from '../Memoize'
-import { union } from './TesterFunction'
+import { union } from './cacheTest'
 import { fibonacci } from '../../Dynamic-Programming/FibonacciNumber'
 import { factorial } from '../../Recursive/Factorial'
 

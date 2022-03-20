@@ -1,5 +1,5 @@
 import { LFUCache } from '../LFUCache'
-import { fibonacciCache } from './TesterFunction'
+import { fibonacciCache } from './cacheTest'
 
 describe('LFUCache', () => {
   it('Example 1 (Small Cache, size=2)', () => {

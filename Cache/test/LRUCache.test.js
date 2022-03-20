@@ -1,5 +1,5 @@
 import { LRUCache } from '../LRUCache'
-import { fibonacciCache } from './TesterFunction'
+import { fibonacciCache } from './cacheTest'
 
 describe('LRUCache', () => {
   it('Example 1 (Small Cache, size=2)', () => {
