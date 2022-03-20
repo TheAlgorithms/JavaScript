@@ -1,4 +1,5 @@
 import { LFUCache } from '../LFUCache'
+import { fibonacciCache } from './cacheTest'
 
 describe('LFUCache', () => {
   it('Example 1 (Small Cache, size=2)', () => {
@@ -28,27 +29,11 @@ describe('LFUCache', () => {
 
   it('Example 2 (Computing Fibonacci Series, size=100)', () => {
     const cache = new LFUCache(100)
+
     for (let i = 1; i <= 100; i++) {
-      fib(i, cache)
+      fibonacciCache(i, cache)
     }
+
     expect(cache.cacheInfo()).toBe('CacheInfo(hits=193, misses=103, capacity=100, current size=98)')
   })
 })
-
-// Helper for building and caching Fibonacci series
-function fib (num, cache = null) {
-  if (cache) {
-    const value = cache.get(num)
-    if (value) {
-      return value
-    }
-  }
-  if (num === 1 || num === 2) {
-    return 1
-  }
-  const result = fib(num - 1, cache) + fib(num - 2, cache)
-  if (cache) {
-    cache.set(num, result)
-  }
-  return result
-}

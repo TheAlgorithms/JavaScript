@@ -1,19 +1,9 @@
 import { memoize } from '../Memoize'
+import { union } from './cacheTest'
 import { fibonacci } from '../../Dynamic-Programming/FibonacciNumber'
 import { factorial } from '../../Recursive/Factorial'
 
 const multipleFactorials = (arr) => arr.map(factorial)
-
-/**
- * @title implementation of union function
- * @param {Set} sets
- * @return {new Set}
- */
-function union (...sets) {
-  return new Set(
-    sets.reduce((flatArray, set) => [...flatArray, ...set], [])
-  )
-}
 
 describe('Testing Memoize', () => {
   it('expects the fibonacci function to use the cache on the second call', () => {
