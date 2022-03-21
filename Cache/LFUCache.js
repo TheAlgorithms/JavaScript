@@ -8,7 +8,7 @@ class CacheNode {
   }
 }
 
-// This frequency map class will act like javascript Map DS with more two custom method refresh & refresh
+// This frequency map class will act like javascript Map DS with more two custom method refresh & insert
 class FrequencyMap extends Map {
   static get [Symbol.species] () { return Map } // for using Symbol.species we can access Map constructor  @see -> https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map/@@species
   get [Symbol.toStringTag] () { return '' }
@@ -62,14 +62,25 @@ class LFUCache {
       return Object.seal(this)
     }
 
+    /**
+   * Get the capacity of the LFUCache
+   * @returns {number}
+   */
     get capacity () {
       return this.#capacity
     }
 
+    /**
+   * Get the current size of LFUCache
+   * @returns {number}
+   */
     get size () {
       return this.cache.size
     }
 
+    /**
+     * Set the capacity of the LFUCache if you decrease the capacity its removed CacheNodes following the LFU - least frequency used
+     */
     set capacity (newCapacity) {
       if (this.#capacity > newCapacity) {
         let diff = this.#capacity - newCapacity // get the decrement number of capacity
@@ -115,6 +126,11 @@ class LFUCache {
       this.cache.delete(LFUNode.key)
     }
 
+    /**
+   * if key exist then return true otherwise false
+   * @param {any} key
+   * @returns {boolean}
+   */
     has (key) {
       key = String(key) // converted to string
 
@@ -182,7 +198,7 @@ class LFUCache {
 
     /**
      * @method parse
-     * @description - This method receive a valid LFUCache JSON & run JSON.prase() method and marge with existing LFUCache
+     * @description - This method receive a valid LFUCache JSON & run JSON.prase() method and merge with existing LFUCache
      * @param {JSON} json
      * @returns {LFUCache} - merged
      */

@@ -3,7 +3,9 @@ import { fibonacciCache } from './cacheTest'
 
 describe('Testing LFUCache class', () => {
   it('Example 1 (Small Cache, size = 2)', () => {
-    const cache = new LFUCache(2)
+    const cache = new LFUCache(1) // initially capacity 1
+
+    cache.capacity = 2 // increase the capacity
 
     expect(cache.capacity).toBe(2)
 
@@ -41,12 +43,14 @@ describe('Testing LFUCache class', () => {
 
     expect(cacheInstance).toBe(cache) // return the same cache
 
+    cache.capacity = 1 // decrease the capacity
+
     expect(cache.info).toEqual({ // after merging the info
       misses: 6,
       hits: 12,
-      capacity: 2,
-      currentSize: 2,
-      leastFrequency: 3
+      capacity: 1,
+      currentSize: 1,
+      leastFrequency: 5
     })
 
     const clearedCache = cache.clear() // clear the cache
