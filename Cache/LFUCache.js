@@ -1,106 +1,254 @@
-class DoubleLinkedListNode {
-  // Double Linked List Node built specifically for LFU Cache
-  constructor (key, val) {
+class CacheNode {
+  constructor (key, value, frequency) {
     this.key = key
-    this.val = val
-    this.freq = 0
-    this.next = null
-    this.prev = null
+    this.value = value
+    this.frequency = frequency
+
+    return Object.seal(this)
   }
 }
 
-class DoubleLinkedList {
-  // Double Linked List built specifically for LFU Cache
-  constructor () {
-    this.head = new DoubleLinkedListNode(null, null)
-    this.rear = new DoubleLinkedListNode(null, null)
-    this.head.next = this.rear
-    this.rear.prev = this.head
+// This frequency map class will act like javascript Map DS with more two custom method refresh & insert
+class FrequencyMap extends Map {
+  static get [Symbol.species] () { return Map } // for using Symbol.species we can access Map constructor  @see -> https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map/@@species
+  get [Symbol.toStringTag] () { return '' }
+
+  /**
+  * @method refresh
+  * @description - It's revive a CacheNode, increment of this nodes frequency and refresh the frequencyMap via new incremented nodes frequency
+  * @param {CacheNode} node
+  */
+  refresh (node) {
+    const { frequency } = node
+    const freqSet = this.get(frequency)
+    freqSet.delete(node)
+
+    node.frequency++
+
+    this.insert(node)
   }
 
-  _positionNode (node) {
-    // Helper function to position a node based on the frequency of the key
-    while (node.prev.key && node.prev.freq > node.freq) {
-      const node1 = node
-      const node2 = node.prev
-      node1.prev = node2.prev
-      node2.next = node1.prev
-      node1.next = node2
-      node2.prev = node1
+  /**
+   * @method insert
+   * @description - Add new CacheNode into HashSet by the frequency
+   * @param {CacheNode} node
+   */
+  insert (node) {
+    const { frequency } = node
+
+    if (!this.has(frequency)) {
+      this.set(frequency, new Set())
     }
-  }
 
-  add (node) {
-    // Adds the given node to the end of the list (before rear) and positions it based on frequency
-    const temp = this.rear.prev
-    temp.next = node
-    node.prev = temp
-    this.rear.prev = node
-    node.next = this.rear
-    this._positionNode(node)
-  }
-
-  remove (node) {
-    // Removes and returns the given node from the list
-    const tempLast = node.prev
-    const tempNext = node.next
-    node.prev = null
-    node.next = null
-    tempLast.next = tempNext
-    tempNext.prev = tempLast
-
-    return node
+    this.get(frequency).add(node)
   }
 }
 
 class LFUCache {
-  // LFU Cache to store a given capacity of data
-  // The Double Linked List is used to store the order of deletion from the cache
-  // The rear.prev holds the most frequently used key and the head.next holds the least used key
-  // When the number of elements reaches the capacity, the least frequently used item is removed before adding the next key
-  constructor (capacity) {
-    this.list = new DoubleLinkedList()
-    this.capacity = capacity
-    this.numKeys = 0
-    this.hits = 0
-    this.miss = 0
-    this.cache = {}
-  }
+    #capacity
+    #frequencyMap
 
-  cacheInfo () {
-    // Return the details for the cache instance [hits, misses, capacity, current_size]
-    return `CacheInfo(hits=${this.hits}, misses=${this.miss}, capacity=${this.capacity}, current size=${this.numKeys})`
-  }
+    /**
+     * @param {number} capacity - The range of LFUCache
+     * @returns {LFUCache} - sealed
+     */
+    constructor (capacity) {
+      this.#capacity = capacity
+      this.#frequencyMap = new FrequencyMap()
+      this.misses = 0
+      this.hits = 0
+      this.cache = new Map()
 
-  set (key, value) {
-    // Sets the value for the input key and updates the Double Linked List
-    if (!(key in this.cache)) {
-      if (this.numKeys >= this.capacity) {
-        const keyToDelete = this.list.head.next.key
-        this.list.remove(this.cache[keyToDelete])
-        delete this.cache[keyToDelete]
-        this.numKeys -= 1
+      return Object.seal(this)
+    }
+
+    /**
+   * Get the capacity of the LFUCache
+   * @returns {number}
+   */
+    get capacity () {
+      return this.#capacity
+    }
+
+    /**
+   * Get the current size of LFUCache
+   * @returns {number}
+   */
+    get size () {
+      return this.cache.size
+    }
+
+    /**
+     * Set the capacity of the LFUCache if you decrease the capacity its removed CacheNodes following the LFU - least frequency used
+     */
+    set capacity (newCapacity) {
+      if (this.#capacity > newCapacity) {
+        let diff = this.#capacity - newCapacity // get the decrement number of capacity
+
+        while (diff--) {
+          this.#removeCacheNode()
+        }
+
+        this.cache.size === 0 && this.#frequencyMap.clear()
       }
-      this.cache[key] = new DoubleLinkedListNode(key, value)
-      this.list.add(this.cache[key])
-      this.numKeys += 1
-    } else {
-      const node = this.list.remove(this.cache[key])
-      node.val = value
-      this.list.add(node)
-    }
-  }
 
-  get (key) {
-    // Returns the value for the input key and updates the Double Linked List. Returns null if key is not present in cache
-    if (key in this.cache) {
-      this.hits += 1
-      this.list.add(this.list.remove(this.cache[key]))
-      return this.cache[key].val
+      this.#capacity = newCapacity
     }
-    this.miss += 1
-    return null
-  }
+
+    get info () {
+      return Object.freeze({
+        misses: this.misses,
+        hits: this.hits,
+        capacity: this.capacity,
+        currentSize: this.size,
+        leastFrequency: this.leastFrequency
+      })
+    }
+
+    get leastFrequency () {
+      const freqCacheIterator = this.#frequencyMap.keys()
+      let leastFrequency = freqCacheIterator.next().value || null
+
+      // select the non-empty frequency Set
+      while (this.#frequencyMap.get(leastFrequency)?.size === 0) {
+        leastFrequency = freqCacheIterator.next().value
+      }
+
+      return leastFrequency
+    }
+
+    #removeCacheNode () {
+      const leastFreqSet = this.#frequencyMap.get(this.leastFrequency)
+      // Select the least recently used node from the least Frequency set
+      const LFUNode = leastFreqSet.values().next().value
+
+      leastFreqSet.delete(LFUNode)
+      this.cache.delete(LFUNode.key)
+    }
+
+    /**
+   * if key exist then return true otherwise false
+   * @param {any} key
+   * @returns {boolean}
+   */
+    has (key) {
+      key = String(key) // converted to string
+
+      return this.cache.has(key)
+    }
+
+    /**
+     * @method get
+     * @description - This method return the value of key & refresh the frequencyMap by the oldNode
+     * @param {string} key
+     * @returns {any}
+     */
+    get (key) {
+      key = String(key) // converted to string
+
+      if (this.cache.has(key)) {
+        const oldNode = this.cache.get(key)
+        this.#frequencyMap.refresh(oldNode)
+
+        this.hits++
+
+        return oldNode.value
+      }
+
+      this.misses++
+      return null
+    }
+
+    /**
+     * @method set
+     * @description - This method stored the value by key & add frequency if it doesn't exist
+     * @param {string} key
+     * @param {any} value
+     * @param {number} frequency
+     * @returns {LFUCache}
+     */
+    set (key, value, frequency = 1) {
+      key = String(key) // converted to string
+
+      if (this.#capacity === 0) {
+        throw new RangeError('LFUCache ERROR: The Capacity is 0')
+      }
+
+      if (this.cache.has(key)) {
+        const node = this.cache.get(key)
+        node.value = value
+
+        this.#frequencyMap.refresh(node)
+
+        return this
+      }
+
+      // if the cache size is full, then it's delete the Least Frequency Used node
+      if (this.#capacity === this.cache.size) {
+        this.#removeCacheNode()
+      }
+
+      const newNode = new CacheNode(key, value, frequency)
+
+      this.cache.set(key, newNode)
+      this.#frequencyMap.insert(newNode)
+
+      return this
+    }
+
+    /**
+     * @method parse
+     * @description - This method receive a valid LFUCache JSON & run JSON.prase() method and merge with existing LFUCache
+     * @param {JSON} json
+     * @returns {LFUCache} - merged
+     */
+    parse (json) {
+      const { misses, hits, cache } = JSON.parse(json)
+
+      this.misses += misses ?? 0
+      this.hits += hits ?? 0
+
+      for (const key in cache) {
+        const { value, frequency } = cache[key]
+        this.set(key, value, frequency)
+      }
+
+      return this
+    }
+
+    /**
+     * @method clear
+     * @description - This method cleared the whole LFUCache
+     * @returns {LFUCache}
+     */
+    clear () {
+      this.cache.clear()
+      this.#frequencyMap.clear()
+
+      return this
+    }
+
+    /**
+     * @method toString
+     * @description - This method generate a JSON format of LFUCache & return it.
+     * @param {number} indent
+     * @returns {string} - JSON
+     */
+    toString (indent) {
+      const replacer = (_, value) => {
+        if (value instanceof Set) {
+          return [...value]
+        }
+
+        if (value instanceof Map) {
+          return Object.fromEntries(value)
+        }
+
+        return value
+      }
+
+      return JSON.stringify(this, replacer, indent)
+    }
 }
 
-export { LFUCache }
+export default LFUCache
