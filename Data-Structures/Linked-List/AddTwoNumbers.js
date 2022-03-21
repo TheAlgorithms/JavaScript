@@ -23,13 +23,20 @@ class AddTwoNumbers {
     let secondRunner = secondList
     let tail = this.dummyNode
     let carry = 0
+    //Initializing variables
+
     while (firstRunner != null || secondRunner != null) {
       const firstNumber = firstRunner ? firstRunner.data : 0
       const secondNumber = secondRunner ? secondRunner.data : 0
+      /*Storing values of firstRunner and secondRunner if they exist, 
+      else storing 0, allowing us to take the sum in the next line*/
+
       const sum = carry + firstNumber + secondNumber
       carry = parseInt(sum / 10)
       tail.next = new Node(sum % 10)
       tail = tail.next
+
+      /*Storing the carry and creating the node for the next digit*/
       if (firstRunner) {
         firstRunner = firstRunner.next
       }
@@ -39,6 +46,7 @@ class AddTwoNumbers {
     }
     if (carry > 0) {
       tail.next = new Node(carry % 10)
+      /*Creating the node for the last carry after adding all digits */
     }
 
     return this.dummyNode.next
