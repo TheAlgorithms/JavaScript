@@ -1,13 +1,13 @@
 class Graph {
-  constructor() {
+  constructor () {
     this.adjacencyObject = {}
   }
 
-  addVertex(vertex) {
+  addVertex (vertex) {
     if (!this.adjacencyObject[vertex]) this.adjacencyObject[vertex] = []
   }
 
-  addEdge(vertex1, vertex2) {
+  addEdge (vertex1, vertex2) {
     if (this.adjacencyObject[vertex1] && this.adjacencyObject[vertex2]) {
       this.adjacencyObject[vertex1].push(vertex2)
       this.adjacencyObject[vertex2].push(vertex1)
@@ -16,7 +16,7 @@ class Graph {
     }
   }
 
-  removeEdge(vertex1, vertex2) {
+  removeEdge (vertex1, vertex2) {
     if (this.adjacencyObject[vertex1] && this.adjacencyObject[vertex2]) {
       this.adjacencyObject[vertex1] = this.adjacencyObject[vertex1].filter(
         (v) => v !== vertex2
@@ -29,7 +29,7 @@ class Graph {
     }
   }
 
-  removeVertex(vertex) {
+  removeVertex (vertex) {
     if (this.adjacencyObject[vertex]) {
       while (this.adjacencyObject[vertex].length) {
         const adjacentVertex = this.adjacencyObject[vertex].pop()
@@ -41,14 +41,16 @@ class Graph {
   }
 
   /**
-   * Return DFS(Depth First Search) List Using Recursive Method
+   * Return DFS (Depth First Search) List Using Recursive Method
    */
-  DFS(start) {
+  DFS (start) {
+    if (!start) return null
+
     const result = []
     const visited = {}
     const adjacencyObject = this.adjacencyObject
 
-    function dfs(vertex) {
+    function dfs (vertex) {
       if (!vertex) return null
       visited[vertex] = true
       result.push(vertex)
@@ -66,7 +68,9 @@ class Graph {
   /**
    * Return DFS(Depth First Search) List Using Iteration
    */
-  DFS_iterative(start) {
+  DFSIterative (start) {
+    if (!start) return null
+
     const stack = [start]
     const visited = {}
     visited[start] = true
@@ -88,7 +92,9 @@ class Graph {
     return result
   }
 
-  BFS(start) {
+  BFS (start) {
+    if (!start) return null
+
     const queue = [start]
     const visited = {}
     visited[start] = true
@@ -110,26 +116,5 @@ class Graph {
     return result
   }
 }
-
-// example
-// const g = new Graph()
-// g.addVertex('A')
-// g.addVertex('B')
-// g.addVertex('C')
-// g.addVertex('D')
-// g.addVertex('E')
-// g.addVertex('F')
-
-// g.addEdge('A', 'B')
-// g.addEdge('A', 'C')
-// g.addEdge('B', 'D')
-// g.addEdge('C', 'E')
-// g.addEdge('D', 'E')
-// g.addEdge('D', 'F')
-// g.addEdge('E', 'F')
-
-// g.removeVertex('B')
-
-// console.log(g.BFS('A'))
 
 export { Graph }
