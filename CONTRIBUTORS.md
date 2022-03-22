@@ -3123,4 +3123,8 @@
 
 -[@simonyank](https://github.com/simonyank/)
 
+<<<<<<< HEAD
 -[@natankin](https://github.com/natankin/)
+=======
+-[@finnsbones](https://github.com/finnsbones/)
+>>>>>>> 3f57cde1111a4200d61dcb9dad675dc169d4bed8
