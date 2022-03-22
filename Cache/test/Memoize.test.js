@@ -2,6 +2,7 @@ import { memoize } from '../Memoize'
 import { union } from './cacheTest'
 import { fibonacci } from '../../Dynamic-Programming/FibonacciNumber'
 import { factorial } from '../../Recursive/Factorial'
+import LFUCache from '../LFUCache'
 
 const multipleFactorials = (arr) => arr.map(factorial)
 
@@ -50,5 +51,18 @@ describe('Testing Memoize', () => {
 
     expect(memoUnion(...inputs)).toEqual(new Set([1, 2, 3, 4, 5, 6]))
     expect(memoUnion(...inputs)).toEqual(union(...inputs))
+  })
+
+  it('Testing with explicit cache -> LFUCache', () => {
+    const LFU = new LFUCache(2)
+
+    const memoizeFibonacci = memoize(fibonacci, LFU) // added LFU cache explicitly
+    const fibOfFiveHundred = memoizeFibonacci(500)
+    const fibOfOneHundred = memoizeFibonacci(100)
+
+    expect(memoizeFibonacci(500)).toBe(fibOfFiveHundred)
+    expect(memoizeFibonacci(100)).toBe(fibOfOneHundred)
+
+    expect(LFU.leastFrequency).toBe(2)
   })
 })
