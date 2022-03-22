@@ -10,12 +10,10 @@
  * which lets us use it as [Higher-Order Function](https://eloquentjavascript.net/05_higher_order.html)
  * and return another function
  * @param {Function} func Original function
+ * @param {Map} cache - it's receive any cache DS which have get, set & has method
  * @returns {Function} Memoized function
  */
-const memoize = (func) => {
-  // Initialization of a slot to store the function result by arguments as a key in Hash Map
-  const cache = new Map()
-
+const memoize = (func, cache = new Map()) => {
   const jsonReplacer = (_, value) => {
     if (value instanceof Set) { // if the value is Set it's converted to Array cause JSON.stringify can't convert Set
       return [...value]
