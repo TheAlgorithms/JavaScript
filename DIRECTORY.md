@@ -18,6 +18,8 @@
   * [LFUCache](https://github.com/TheAlgorithms/Javascript/blob/master/Cache/LFUCache.js)
   * [LRUCache](https://github.com/TheAlgorithms/Javascript/blob/master/Cache/LRUCache.js)
   * [Memoize](https://github.com/TheAlgorithms/Javascript/blob/master/Cache/Memoize.js)
+  * test
+    * [cacheTest](https://github.com/TheAlgorithms/Javascript/blob/master/Cache/test/cacheTest.js)
 
 ## Cellular-Automata
   * [ConwaysGameOfLife](https://github.com/TheAlgorithms/Javascript/blob/master/Cellular-Automata/ConwaysGameOfLife.js)
@@ -70,6 +72,7 @@
     * [MinHeap](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Heap/MinHeap.js)
     * [MinPriorityQueue](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Heap/MinPriorityQueue.js)
   * Linked-List
+    * [AddTwoNumbers](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Linked-List/AddTwoNumbers.js)
     * [CycleDetection](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Linked-List/CycleDetection.js)
     * [DoublyLinkedList](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Linked-List/DoublyLinkedList.js)
     * [RotateListRight](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Linked-List/RotateListRight.js)
@@ -143,6 +146,7 @@
   * [Abs](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/Abs.js)
   * [AliquotSum](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/AliquotSum.js)
   * [Area](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/Area.js)
+  * [ArithmeticGeometricMean](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/ArithmeticGeometricMean.js)
   * [ArmstrongNumber](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/ArmstrongNumber.js)
   * [AverageMean](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/AverageMean.js)
   * [AverageMedian](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/AverageMedian.js)
@@ -168,6 +172,7 @@
   * [FindHcf](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/FindHcf.js)
   * [FindLcm](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/FindLcm.js)
   * [FindMin](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/FindMin.js)
+  * [FindMinIterator](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/FindMinIterator.js)
   * [GetEuclidGCD](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/GetEuclidGCD.js)
   * [GridGet](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/GridGet.js)
   * [IsDivisible](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/IsDivisible.js)
@@ -290,6 +295,7 @@
   * [AlternativeStringArrange](https://github.com/TheAlgorithms/Javascript/blob/master/String/AlternativeStringArrange.js)
   * [CheckAnagram](https://github.com/TheAlgorithms/Javascript/blob/master/String/CheckAnagram.js)
   * [CheckCamelCase](https://github.com/TheAlgorithms/Javascript/blob/master/String/CheckCamelCase.js)
+  * [CheckExceeding](https://github.com/TheAlgorithms/Javascript/blob/master/String/CheckExceeding.js)
   * [CheckFlatCase](https://github.com/TheAlgorithms/Javascript/blob/master/String/CheckFlatCase.js)
   * [CheckKebabCase](https://github.com/TheAlgorithms/Javascript/blob/master/String/CheckKebabCase.js)
   * [CheckPalindrome](https://github.com/TheAlgorithms/Javascript/blob/master/String/CheckPalindrome.js)
