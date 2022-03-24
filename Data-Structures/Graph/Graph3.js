@@ -8,35 +8,23 @@ class Graph {
   }
 
   addEdge (vertex1, vertex2) {
-    if (this.adjacencyObject[vertex1] && this.adjacencyObject[vertex2]) {
-      this.adjacencyObject[vertex1].push(vertex2)
-      this.adjacencyObject[vertex2].push(vertex1)
-    } else {
-      return undefined
-    }
+    this.adjacencyObject[vertex1].push(vertex2)
+    this.adjacencyObject[vertex2].push(vertex1)
   }
 
   removeEdge (vertex1, vertex2) {
-    if (this.adjacencyObject[vertex1] && this.adjacencyObject[vertex2]) {
-      this.adjacencyObject[vertex1] = this.adjacencyObject[vertex1].filter(
-        (v) => v !== vertex2
-      )
-      this.adjacencyObject[vertex2] = this.adjacencyObject[vertex2].filter(
-        (v) => v !== vertex1
-      )
-    } else {
-      return undefined
-    }
+    this.adjacencyObject[vertex1] = this.adjacencyObject[vertex1].filter(
+      (v) => v !== vertex2
+    )
+    this.adjacencyObject[vertex2] = this.adjacencyObject[vertex2].filter(
+      (v) => v !== vertex1
+    )
   }
 
   removeVertex (vertex) {
-    if (this.adjacencyObject[vertex]) {
-      while (this.adjacencyObject[vertex].length) {
-        const adjacentVertex = this.adjacencyObject[vertex].pop()
-        this.removeEdge(vertex, adjacentVertex)
-      }
-    } else {
-      return undefined
+    while (this.adjacencyObject[vertex].length) {
+      const adjacentVertex = this.adjacencyObject[vertex].pop()
+      this.removeEdge(vertex, adjacentVertex)
     }
   }
 
