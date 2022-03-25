@@ -3086,6 +3086,8 @@
 
 - [@aditya8Raj](https://github.com/aditya8Raj)
 
+- [@francomoraes](https://github.com/francomoraes)
+
 - [@christounetcom](https://github.com/christounetcom)
 
 -[@DoubleD82](https://github.com/DoubleD82)
