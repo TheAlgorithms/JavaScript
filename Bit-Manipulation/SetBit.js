@@ -7,7 +7,7 @@
  * bit binary representations of the number and
  * returns a number after comparing each bit.
  *
- * 0 | 0 -> 0
+ * 0 | 0 -> 0 
  * 0 | 1 -> 1
  * 1 | 0 -> 1
  * 1 | 1 -> 1
@@ -20,7 +20,7 @@
  * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Bitwise_OR
  */
 
-/**
+/*
  * @param {number} number
  * @param {number} bitPosition - zero based.
  * @return {number}
