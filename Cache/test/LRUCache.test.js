@@ -2,7 +2,7 @@ import { LRUCache } from '../LRUCache'
 import { fibonacciCache } from './cacheTest'
 
 describe('Testing LRUCache', () => {
-  it("Testing with invalid capacity", () => {
+  it('Testing with invalid capacity', () => {
     expect(() => new LRUCache()).toThrow()
     expect(() => new LRUCache('Invalid')).toThrow()
     expect(() => new LRUCache(-1)).toThrow()
@@ -10,7 +10,7 @@ describe('Testing LRUCache', () => {
   })
 
   it('Example 1 (Small Cache, size = 2)', () => {
-    const cache = new LRUCache(1) // initially capacity 
+    const cache = new LRUCache(1) // initially capacity
 
     cache.capacity++ // now the capacity is increasing by one
 
@@ -57,7 +57,7 @@ describe('Testing LRUCache', () => {
     for (let i = 1; i <= 100; i++) {
       fibonacciCache(i, cache)
     }
-    
+
     expect(cache.info).toEqual({
       misses: 103,
       hits: 193,

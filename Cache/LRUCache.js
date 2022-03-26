@@ -2,7 +2,7 @@ class LRUCache {
   // LRU Cache to store a given capacity of data
   #capacity
 
-  constructor(capacity) {
+  constructor (capacity) {
     if (!Number.isInteger(capacity) || capacity < 0) {
       throw new TypeError('Invalid capacity')
     }
@@ -13,7 +13,7 @@ class LRUCache {
     this.cache = new Map()
   }
 
-  get info() {
+  get info () {
     return Object.freeze({
       misses: this.misses,
       hits: this.hits,
@@ -22,22 +22,22 @@ class LRUCache {
     })
   }
 
-  get size() {
+  get size () {
     return this.cache.size
   }
 
-  get capacity() {
+  get capacity () {
     return this.#capacity
   }
 
   /**
    * delete oldest key existing in map by the help of iterator
    */
-  #removeLeastRecentlyUsed() {
+  #removeLeastRecentlyUsed () {
     this.cache.delete(this.cache.keys().next().value)
   }
 
-  set capacity(newCapacity) {
+  set capacity (newCapacity) {
     if (newCapacity < 0) {
       throw new RangeError('Capacity should be greater than 0')
     }
@@ -53,13 +53,13 @@ class LRUCache {
     this.#capacity = newCapacity
   }
 
-  has(key) {
+  has (key) {
     key = String(key)
 
     return this.cache.has(key)
   }
 
-  set(key, value) {
+  set (key, value) {
     key = String(key)
     // Sets the value for the input key and if the key exists it updates the existing key
     if (this.size === this.capacity) {
@@ -69,7 +69,7 @@ class LRUCache {
     this.cache.set(key, value)
   }
 
-  get(key) {
+  get (key) {
     key = String(key)
     // Returns the value for the input key. Returns null if key is not present in cache
     if (this.cache.has(key)) {
@@ -87,7 +87,7 @@ class LRUCache {
     return null
   }
 
-  toString(indent) {
+  toString (indent) {
     const replacer = (_, value) => {
       if (value instanceof Set) {
         return [...value]
