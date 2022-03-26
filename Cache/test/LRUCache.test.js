@@ -41,11 +41,17 @@ describe('Testing LRUCache', () => {
       size: 2
     })
 
+    const json = '{"misses":3,"hits":6,"cache":{"3":3,"4":4}}'
+    expect(cache.toString()).toBe(json)
+
+    // merge with json
+    cache.parse(json)
+
     cache.capacity-- // now the capacity decreasing by one
 
     expect(cache.info).toEqual({
-      misses: 3,
-      hits: 6,
+      misses: 6,
+      hits: 12,
       capacity: 1,
       size: 1
     })

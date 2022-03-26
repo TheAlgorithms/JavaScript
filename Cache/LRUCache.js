@@ -87,6 +87,19 @@ class LRUCache {
     return null
   }
 
+  parse (json) {
+    const { misses, hits, cache } = JSON.parse(json)
+
+    this.misses += misses ?? 0
+    this.hits += hits ?? 0
+
+    for (const key in cache) {
+      this.set(key, cache[key])
+    }
+
+    return this
+  }
+
   toString (indent) {
     const replacer = (_, value) => {
       if (value instanceof Set) {
