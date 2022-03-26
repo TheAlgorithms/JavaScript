@@ -3188,3 +3188,5 @@
 
 - [@lshan8](https://github.com/lshan8)
 - [@Maralhmh](https://github.com/Maralhmh)
+
+- [@rproulx5](https://github.com/rproulx5)
