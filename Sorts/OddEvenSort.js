@@ -30,4 +30,5 @@ export function oddEvenSort (arr) {
       }
     }
   }
+  return arr
 }
