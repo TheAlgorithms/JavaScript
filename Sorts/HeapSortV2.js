@@ -38,4 +38,5 @@ export function heapSort (input) {
 
     heapRoot(input, 0)
   }
+  return input
 }
