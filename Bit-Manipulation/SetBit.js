@@ -7,7 +7,7 @@
  * bit binary representations of the number and
  * returns a number after comparing each bit.
  *
- * 0 | 0 -> 0 
+ * 0 | 0 -> 0
  * 0 | 1 -> 1
  * 1 | 0 -> 1
  * 1 | 1 -> 1

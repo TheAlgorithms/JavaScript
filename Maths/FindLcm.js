@@ -31,7 +31,11 @@ const findLcm = (num1, num2) => {
 
   while (true) {
     if (lcm % num1 === 0 && lcm % num2 === 0) break
-    lcm += maxNum
+    if (num1 > num2) {
+      maxNum = num1
+    } else {
+      maxNum = num2
+    }
   }
   return lcm
 }
