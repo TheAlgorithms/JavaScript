@@ -26,16 +26,16 @@ const findLcm = (num1, num2) => {
   let maxNum
   let lcm
   // Check to see whether num1 or num2 is larger.
-  maxNum = Math.max(num1, num2)
+  if (num1 > num2) {
+    maxNum = num1
+  } else {
+    maxNum = num2
+  }
   lcm = maxNum
 
   while (true) {
     if (lcm % num1 === 0 && lcm % num2 === 0) break
-    if (num1 > num2) {
-      maxNum = num1
-    } else {
-      maxNum = num2
-    }
+    lcm += maxNum
   }
   return lcm
 }
