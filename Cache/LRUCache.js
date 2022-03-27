@@ -143,4 +143,4 @@ class LRUCache {
   }
 }
 
-export { LRUCache }
+export default LRUCache

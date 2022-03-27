@@ -1,4 +1,4 @@
-import { LRUCache } from '../LRUCache'
+import LRUCache from '../LRUCache'
 import { fibonacciCache } from './cacheTest'
 
 describe('Testing LRUCache', () => {
