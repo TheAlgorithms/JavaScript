@@ -20,7 +20,7 @@
  * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Bitwise_OR
  */
 
-/*
+/**
  * @param {number} number
  * @param {number} bitPosition - zero based.
  * @return {number}
