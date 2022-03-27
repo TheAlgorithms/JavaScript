@@ -2,6 +2,10 @@ class LRUCache {
   // LRU Cache to store a given capacity of data
   #capacity
 
+  /**
+   * @param {number} capacity - the capacity of LRUCache
+   * @returns {LRUCache} - sealed
+   */
   constructor (capacity) {
     if (!Number.isInteger(capacity) || capacity < 0) {
       throw new TypeError('Invalid capacity')
@@ -11,6 +15,8 @@ class LRUCache {
     this.misses = 0
     this.hits = 0
     this.cache = new Map()
+
+    return Object.seal(this)
   }
 
   get info () {
@@ -30,13 +36,6 @@ class LRUCache {
     return this.#capacity
   }
 
-  /**
-   * delete oldest key existing in map by the help of iterator
-   */
-  #removeLeastRecentlyUsed () {
-    this.cache.delete(this.cache.keys().next().value)
-  }
-
   set capacity (newCapacity) {
     if (newCapacity < 0) {
       throw new RangeError('Capacity should be greater than 0')
@@ -53,12 +52,27 @@ class LRUCache {
     this.#capacity = newCapacity
   }
 
+  /**
+ * delete oldest key existing in map by the help of iterator
+ */
+  #removeLeastRecentlyUsed () {
+    this.cache.delete(this.cache.keys().next().value)
+  }
+
+  /**
+   * @param {string} key
+   * @returns {*}
+   */
   has (key) {
     key = String(key)
 
     return this.cache.has(key)
   }
 
+  /**
+   * @param {string} key
+   * @param {*} value
+   */
   set (key, value) {
     key = String(key)
     // Sets the value for the input key and if the key exists it updates the existing key
@@ -69,6 +83,10 @@ class LRUCache {
     this.cache.set(key, value)
   }
 
+  /**
+   * @param {string} key
+   * @returns {*}
+   */
   get (key) {
     key = String(key)
     // Returns the value for the input key. Returns null if key is not present in cache
@@ -87,6 +105,10 @@ class LRUCache {
     return null
   }
 
+  /**
+   * @param {JSON} json
+   * @returns {LRUCache}
+   */
   parse (json) {
     const { misses, hits, cache } = JSON.parse(json)
 
@@ -100,6 +122,10 @@ class LRUCache {
     return this
   }
 
+  /**
+   * @param {number} indent
+   * @returns {JSON} - string
+   */
   toString (indent) {
     const replacer = (_, value) => {
       if (value instanceof Set) {
