@@ -12,13 +12,8 @@ const upper = (str) => {
   }
 
   return str.replace(
-    /[a-z]/g,
-    (_, indexOfLowerChar) => {
-      const asciiCode = str.charCodeAt(indexOfLowerChar)
-
-      return String.fromCharCode(asciiCode - 32)
-    }
+    /[a-z]/g, (char) => String.fromCharCode(char.charCodeAt() - 32)
   )
 }
 
-export { upper }
+export default upper
