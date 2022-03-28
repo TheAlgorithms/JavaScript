@@ -1,4 +1,4 @@
-import { lower } from '../Lower'
+import lower from '../Lower'
 
 describe('Testing the Lower function', () => {
   it('Test 1: Check by invalid type', () => {
