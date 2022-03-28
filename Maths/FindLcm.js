@@ -24,7 +24,7 @@ const findLcm = (num1, num2) => {
   }
     
   // Check to see whether num1 or num2 is larger.
-  let maxNum = Math.max(num1, num2)
+  const maxNum = Math.max(num1, num2)
   let lcm = maxNum
 
   while (true) {
