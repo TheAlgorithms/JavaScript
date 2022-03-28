@@ -3221,4 +3221,4 @@
 
 - [@chrisyang-git](https://github.com/chrisyang-git/)
 
-- [@aloanscripting](https://github.com/aloanscripting/)
+- [@aloanscripting](https://github.com/aloanscripting)
