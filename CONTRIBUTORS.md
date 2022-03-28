@@ -3223,4 +3223,4 @@
 
 - [@aloanscripting](https://github.com/aloanscripting)
 
-- [@MaximilianoMB] (https://github.com/MaximilianoMB)
+- [@MaximilianoMB](https://github.com/MaximilianoMB)
