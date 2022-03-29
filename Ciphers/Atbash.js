@@ -11,13 +11,11 @@ const Atbash = (str) => {
   }
 
   return str.replace(/[a-z]/gi, (char) => {
-    const charCode = char.charCodeAt()
-
     if (/[A-Z]/.test(char)) {
-      return String.fromCharCode(90 + 65 - charCode)
+      return String.fromCharCode(90 + 65 - char.charCodeAt())
     }
 
-    return String.fromCharCode(122 + 97 - charCode)
+    return String.fromCharCode(122 + 97 - char.charCodeAt())
   })
 }
 
