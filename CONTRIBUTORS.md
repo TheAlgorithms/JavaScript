@@ -2522,6 +2522,8 @@
 
 - [@pyxmaster](https://github.com/pyxmaster)
 
+- [@qiqt](https://github.com/qiqt)
+
 - [@qmkDuran](https://github.com/qmkDuran/)
 
 - [@qrault](https://github.com/q-rault/)
