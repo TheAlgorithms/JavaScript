@@ -3056,6 +3056,9 @@
 
 - [@zita07](https://github.com/zita07)
 
+<<<<<<< HEAD
+- [@zenoper](https://github.com/zenoper)
+=======
 - [@KrisCrossMagick](https://github.com/KrisCrossMagick)
 
 - [@benedictj](https://github.com/benedictj)
@@ -3235,25 +3238,26 @@
 
 - [@jnscott](https://github.com/jnscott)
 
--[@GLFV](https://github.com/GLFV)
+- [@GLFV](https://github.com/GLFV)
 
--[@kaal-coder](https://github.com/kaal-coder)
+- [@kaal-coder](https://github.com/kaal-coder)
 
--[@suleymanmyradov](https://github.com/suleymanmyradov)
+- [@suleymanmyradov](https://github.com/suleymanmyradov)
 
--[@Tnjonny](https://github.com/Tnjonny)
+- [@Tnjonny](https://github.com/Tnjonny)
 
--[@Posark](https://github.com/Posark/)
+- [@Posark](https://github.com/Posark/)
 
--[@Gaurav09072001](https://github.com/Gaurav09072001)
+- [@Gaurav09072001](https://github.com/Gaurav09072001)
 
--[@abhishek6969](https://github.com/abhishek6969)
+- [@abhishek6969](https://github.com/abhishek6969)
 
--[@silverzaju](https://github.com/silverzaju)
--[@ActiveStacks](https://github.com/ActiveStacks )
+- [@silverzaju](https://github.com/silverzaju)
 
--[@bogda995](https://github.com/bogda995/)
+- [@ActiveStacks](https://github.com/ActiveStacks )
 
--[@ElijahBecerra-Chen](https://github.com/ElijahBecerra-Chen/)
+- [@bogda995](https://github.com/bogda995/)
 
--[@AlexCraciun](https://github.com/alxcraciun/)
+- [@ElijahBecerra-Chen](https://github.com/ElijahBecerra-Chen/)
+
+- [@AlexCraciun](https://github.com/alxcraciun/)
