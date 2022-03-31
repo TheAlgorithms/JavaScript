@@ -3056,9 +3056,10 @@
 
 - [@zita07](https://github.com/zita07)
 
-<<<<<<< HEAD
+- [@assimataya](https://github.com/assimataya)
+
 - [@zenoper](https://github.com/zenoper)
-=======
+
 - [@KrisCrossMagick](https://github.com/KrisCrossMagick)
 
 - [@benedictj](https://github.com/benedictj)
@@ -3184,6 +3185,7 @@
 - [@Bananenschreck](https://github.com/Bananenschreck)
 
 - [@lshan8](https://github.com/lshan8)
+
 - [@Maralhmh](https://github.com/Maralhmh)
 
 - [@rproulx5](https://github.com/rproulx5)
