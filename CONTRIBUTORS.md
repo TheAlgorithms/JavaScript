@@ -3100,17 +3100,9 @@
 
 - [@MichaelClautice](https://github.com/MichaelClautice)
 
-<<<<<<< HEAD
-
 - [@Ayn-Tanvir](https://github.com/Ayn-Tanvir)
 
-||||||| 365002abf
-
-=======
-
 - [@zhangliluoyang](https://github.com/zhangliluoyang)
-
-> > > > > > > 3aab808f12091c7aed644643547833942bebf71c
 
 - [@gmihaic](https://github.com/gmihaic)
 
@@ -3195,9 +3187,9 @@
 
 - [@pranotobudi](https://github.com/pranotobudi)
 
--[@websachin991](https://github.com/websachin991)
+- [@websachin991](https://github.com/websachin991)
 
--[@minhtran241](https://github.com/minhtran241)
+- [@minhtran241](https://github.com/minhtran241)
 
 - [@quirkeey](https://github.com/quirkeey)
 
@@ -3235,11 +3227,11 @@
 
 - [@adryana24](https://github.com/adryana24/)
 
- [@alpacino767](https://github.com/alpacino767/)
+- [@alpacino767](https://github.com/alpacino767/)
 
- -[@jsueiro](https://github.com/jsueiro)
+- [@jsueiro](https://github.com/jsueiro)
 
- - [@commanderdestro](https://github.com/commanderdestro/)
+- [@commanderdestro](https://github.com/commanderdestro/)
 
 - [@jnscott](https://github.com/jnscott)
 
