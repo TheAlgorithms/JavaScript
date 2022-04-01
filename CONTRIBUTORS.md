@@ -3260,8 +3260,13 @@
 
 - [@AlexCraciun](https://github.com/alxcraciun/)
 
+- [@jnscott](https://github.com/jnscott)
+
+- [@Raykao731](https://github.com/Raykao731)
+
 - [@Tnjonny](https://github.com/Tnjonny)
 
 - [@timbabs1](https://github.com/timbabs1)
 
 - [@alanhcrdz](https://github.com/alanhcrdz/)
+
