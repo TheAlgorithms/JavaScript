@@ -3286,9 +3286,6 @@
 
 - [@Kuazk](https://github.com/Kuazk/)
 
-<<<<<<< HEAD
-- [@tofonjvd](https://github.com/tofonjvd)
-
-=======
 - [@abhisek47](https://github.com/abhisek47)
->>>>>>> upstream/master
+
+- [@tofonjvd](https://github.com/tofonjvd)
