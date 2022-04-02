@@ -1,24 +1,22 @@
-/*
-    author: PatOnTheBack
-    license: GPL-3.0 or later
+/**
+ * @function abs
+ * @description This script will find the absolute value of a number.
+ * @param {number} num - The input integer
+ * @return {number} - Absolute number of num.
+ * @see https://en.wikipedia.org/wiki/Absolute_value
+ * @example abs(-10) = 10
+ * @example abs(50) = 50
+ * @example abs(0) = 0
+ */
 
-    Modified from:
-        https://github.com/TheAlgorithms/Python/blob/master/maths/abs.py
+const abs = (num) => {
+  const validNumber = +num // converted to number, also can use - Number(num)
 
-    This script will find the absolute value of a number.
-
-    More about absolute values:
-        https://en.wikipedia.org/wiki/Absolute_value
-*/
-
-const absVal = (num) => {
-  // Find absolute value of `num`.
-  'use strict'
-  if (num < 0) {
-    return -num
+  if (Number.isNaN(validNumber)) {
+    throw new TypeError('Argument is NaN - Not a Number')
   }
-  // Executes if condition is not met.
-  return num
+
+  return validNumber < 0 ? -validNumber : validNumber // if number is less then zero mean negative then it converted to positive. i.e -> n = -2 = -(-2) = 2
 }
 
-export { absVal }
+export { abs }

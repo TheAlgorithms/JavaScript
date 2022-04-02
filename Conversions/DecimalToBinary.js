@@ -4,9 +4,16 @@ function decimalToBinary (num) {
     bin.unshift(num % 2)
     num >>= 1 // basically /= 2 without remainder if any
   }
-  console.log('The decimal in binary is ' + bin.join(''))
+  return bin.join('')
 }
 
-decimalToBinary(2)
-decimalToBinary(7)
-decimalToBinary(35)
+export { decimalToBinary }
+
+// > decimalToBinary(2)
+// '10'
+
+// > decimalToBinary(7)
+// '111'
+
+// > decimalToBinary(35)
+// '100011'

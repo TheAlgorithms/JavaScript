@@ -2,7 +2,7 @@
   Problem: Given two numbers, n and k, make all unique combinations of k numbers from 1 to n and in sorted order
 
   What is combinations?
-  - Combinations is selecting items froms a collections without considering order of selection
+  - Combinations is selecting items from a collections without considering order of selection
 
   Example:
   - We have an apple, a banana, and a jackfruit
@@ -25,19 +25,21 @@ class Combinations {
   constructor (n, k) {
     this.n = n
     this.k = k
-    this.combinationArray = [] // will be used for storing current combination
+    this.current = [] // will be used for storing current combination
+    this.combinations = []
   }
 
   findCombinations (high = this.n, total = this.k, low = 1) {
     if (total === 0) {
-      console.log(this.combinationArray)
-      return
+      this.combinations.push([...this.current])
+      return this.combinations
     }
     for (let i = low; i <= high; i++) {
-      this.combinationArray.push(i)
+      this.current.push(i)
       this.findCombinations(high, total - 1, i + 1)
-      this.combinationArray.pop()
+      this.current.pop()
     }
+    return this.combinations
   }
 }
 

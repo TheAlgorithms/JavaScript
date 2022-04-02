@@ -53,17 +53,26 @@ class MinPriorityQueue {
   }
 
   // prints the heap
-  print () {
-    console.log(this.heap.slice(1))
+  print (output = value => console.log(value)) {
+    output(this.heap.slice(1))
   }
 
-  // heap sorting can be done by performing
-  // delete function to the number of times of the size of the heap
-  // it returns reverse sort because it is a min priority queue
-  heapSort () {
-    for (let i = 1; i < this.capacity; i++) {
-      this.delete()
+  // heap reverse can be done by performing swapping the first
+  // element with the last, removing the last element to
+  // new array and calling sink function.
+  heapReverse () {
+    const heapSort = []
+    while (this.size > 0) {
+      // swap first element with last element
+      [this.heap[1], this.heap[this.size]] = [this.heap[this.size], this.heap[1]]
+      heapSort.push(this.heap.pop())
+      this.size--
+      this.sink()
     }
+    // first value from heap it's empty to respect
+    // structure with 1 as index of the first element
+    this.heap = [undefined, ...heapSort.reverse()]
+    this.size = heapSort.length
   }
 
   // this function reorders the heap after every delete function
@@ -98,28 +107,21 @@ class MinPriorityQueue {
     }
   }
 
-  // deletes the highest priority value from the heap
+  // deletes the highest priority value from the heap. The last
+  // element goes to ahead to first position and reorder heap
   delete () {
+    // checks empty and one element array conditions
+    if (this.isEmpty()) return
+    if (this.size === 1) {
+      this.size--
+      return this.heap.pop()
+    }
     const min = this.heap[1]
-    this.heap[1] = this.heap[this.size]
-    this.heap[this.size] = min
+    this.heap[1] = this.heap.pop()
     this.size--
     this.sink()
     return min
   }
 }
 
-// testing
-const q = new MinPriorityQueue(8)
-
-q.insert(5)
-q.insert(2)
-q.insert(4)
-q.insert(1)
-q.insert(7)
-q.insert(6)
-q.insert(3)
-q.insert(8)
-q.print() // [ 1, 2, 3, 5, 7, 6, 4, 8 ]
-q.heapSort()
-q.print() // [ 8, 7, 6, 5, 4, 3, 2, 1 ]
+export { MinPriorityQueue }

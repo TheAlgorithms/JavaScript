@@ -25,7 +25,7 @@ function swap (input, indexA, indexB) {
   [input[indexA], input[indexB]] = [input[indexB], input[indexA]]
 }
 
-function heapSort (input) {
+export function heapSort (input) {
   arrayLength = input.length
 
   for (let i = Math.floor(arrayLength / 2); i >= 0; i -= 1) {
@@ -38,8 +38,5 @@ function heapSort (input) {
 
     heapRoot(input, 0)
   }
+  return input
 }
-
-const arr = [3, 0, 2, 5, -1, 4, 1]
-heapSort(arr)
-console.log(arr)

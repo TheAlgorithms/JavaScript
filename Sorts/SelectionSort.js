@@ -8,7 +8,7 @@
  *from the unsorted subarray is picked and moved to the sorted subarray.
  */
 
-const selectionSort = (list) => {
+export const selectionSort = (list) => {
   if (!Array.isArray(list)) {
     throw new TypeError('Given input is not an array')
   }
@@ -33,18 +33,3 @@ const selectionSort = (list) => {
   }
   return items
 }
-
-/* Implementation of Selection Sort
-
-(() => {
-  let array = [5, 6, 7, 8, 1, 2, 12, 14]
-  // Array before Sort
-  console.log(array)
-  array = selectionSort(array)
-  // Array after sort
-  console.log(array)
-})()
-
-*/
-
-export { selectionSort }

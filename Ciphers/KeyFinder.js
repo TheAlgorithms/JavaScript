@@ -44,15 +44,11 @@ function keyFinder (str) { // str is used to get the input of encrypted string
         for (let w = 0; w < wordBank[i].length; w++) {
           outStrElement += outStr[s + w]
         }
-
-        // console.log( k + outStrElement + wordBank[i] );//debug
-
         // this part need to be optimize with the calculation of the number of occurrence of word's probabilities
         // linked list will be used in the next stage of development to calculate the number of occurrence of the key
         if (wordBank[i] === outStrElement) {
           return k // return the key number if founded
         }
-
         outStrElement = '' // reset the temp word
       } // end for ( let i=0; i < wordBank.length; i++)
     }
@@ -145,4 +141,7 @@ function caesarCipherEncodeAndDecodeEngine (inStr, numShifted) {
   return outStr
 }
 
-console.log('Testing: ' + keyFinder('test')) // returns 0
+export { keyFinder }
+
+// > keyFinder('test')
+// 0

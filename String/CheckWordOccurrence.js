@@ -1,25 +1,30 @@
 /**
-  * Check and count occurrence of each word in a string
-  * Inputs a String eg. Madonna and Boolean
-  **/
-
+ * @function checkWordOccurrence
+ * @description - this function count all the words in a sentence and return an word occurrence object
+ * @param {string} str
+ * @param {boolean} isCaseSensitive
+ * @returns {Object}
+ */
 const checkWordOccurrence = (str, isCaseSensitive = false) => {
   if (typeof str !== 'string') {
     throw new TypeError('The first param should be a string')
   }
+
   if (typeof isCaseSensitive !== 'boolean') {
     throw new TypeError('The second param should be a boolean')
   }
 
-  const result = {}
-  if (str.length > 0) {
-    for (let i = 0; i < str.length; i++) {
-      const word = isCaseSensitive ? str[i] : str[i].toUpperCase()
-      if (/\s/.test(word)) continue
-      result[word] = (!result[word]) ? 1 : result[word] + 1
-    }
-  }
+  const modifiedStr = isCaseSensitive ? str.toLowerCase() : str
 
-  return result
+  return modifiedStr
+    .split(/\s+/) // remove all spaces and distribute all word in List
+    .reduce(
+      (occurrence, word) => {
+        occurrence[word] = occurrence[word] + 1 || 1
+        return occurrence
+      },
+      {}
+    )
 }
+
 export { checkWordOccurrence }

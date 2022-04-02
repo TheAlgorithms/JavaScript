@@ -1,0 +1,13 @@
+name: codespell
+on: [push, pull_request]
+jobs:
+  codespell:
+    name: Check for spelling errors
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: codespell-project/actions-codespell@master
+        with:
+          # file types to ignore
+          skip: "*.json,*.yml,DIRECTORY.md"
+          ignore_words_list: "ba,esy,yse"

@@ -6,7 +6,7 @@ describe('diceCoefficient', () => {
     expect(diceCoefficient('abc', 'abc')).toBe(1)
     expect(diceCoefficient('', '')).toBe(1)
 
-    // string length needs to be atleast 2 (unless equal)
+    // string length needs to be at least 2 (unless equal)
     expect(diceCoefficient('a', '')).toBe(0)
     expect(diceCoefficient('', 'a')).toBe(0)
 

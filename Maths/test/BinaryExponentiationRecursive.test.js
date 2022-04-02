@@ -1,4 +1,4 @@
-const { binaryExponentiation } = require('../BinaryExponentiationRecursive')
+import { binaryExponentiation } from '../BinaryExponentiationRecursive'
 
 describe('BinaryExponentiationRecursive', () => {
   it('should calculate 2 to the power of 10 correctly', () => {

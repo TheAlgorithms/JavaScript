@@ -1,126 +1,146 @@
-class DoubleLinkedListNode {
-  // Double Linked List Node built specifically for LRU Cache
-  constructor (key, val) {
-    this.key = key
-    this.val = val
-    this.next = null
-    this.prev = null
-  }
-}
-
-class DoubleLinkedList {
-  // Double Linked List built specifically for LRU Cache
-  constructor () {
-    this.head = new DoubleLinkedListNode(null, null)
-    this.rear = new DoubleLinkedListNode(null, null)
-    this.head.next = this.rear
-    this.rear.prev = this.head
-  }
-
-  add (node) {
-    // Adds the given node to the end of the list (before rear)
-    const temp = this.rear.prev
-    temp.next = node
-    node.prev = temp
-    this.rear.prev = node
-    node.next = this.rear
-  }
-
-  remove (node) {
-    // Removes and returns the given node from the list
-    const tempLast = node.prev
-    const tempNext = node.next
-    node.prev = null
-    node.next = null
-    tempLast.next = tempNext
-    tempNext.prev = tempLast
-
-    return node
-  }
-}
-
 class LRUCache {
   // LRU Cache to store a given capacity of data
+  #capacity
+
+  /**
+   * @param {number} capacity - the capacity of LRUCache
+   * @returns {LRUCache} - sealed
+   */
   constructor (capacity) {
-    this.list = new DoubleLinkedList()
-    this.capacity = capacity
-    this.numKeys = 0
+    if (!Number.isInteger(capacity) || capacity < 0) {
+      throw new TypeError('Invalid capacity')
+    }
+
+    this.#capacity = ~~capacity
+    this.misses = 0
     this.hits = 0
-    this.miss = 0
-    this.cache = {}
+    this.cache = new Map()
+
+    return Object.seal(this)
   }
 
-  cacheInfo () {
-    // Return the details for the cache instance [hits, misses, capacity, current_size]
-    return `CacheInfo(hits=${this.hits}, misses=${this.miss}, capacity=${this.capacity}, current size=${this.numKeys})`
+  get info () {
+    return Object.freeze({
+      misses: this.misses,
+      hits: this.hits,
+      capacity: this.capacity,
+      size: this.size
+    })
   }
 
-  set (key, value) {
-    // Sets the value for the input key and updates the Double Linked List
-    if (!(key in this.cache)) {
-      if (this.numKeys >= this.capacity) {
-        const keyToDelete = this.list.head.next.key
-        this.list.remove(this.cache[keyToDelete])
-        delete this.cache[keyToDelete]
-        this.numKeys -= 1
+  get size () {
+    return this.cache.size
+  }
+
+  get capacity () {
+    return this.#capacity
+  }
+
+  set capacity (newCapacity) {
+    if (newCapacity < 0) {
+      throw new RangeError('Capacity should be greater than 0')
+    }
+
+    if (newCapacity < this.capacity) {
+      let diff = this.capacity - newCapacity
+
+      while (diff--) {
+        this.#removeLeastRecentlyUsed()
       }
-      this.cache[key] = new DoubleLinkedListNode(key, value)
-      this.list.add(this.cache[key])
-      this.numKeys += 1
-    } else {
-      const node = this.list.remove(this.cache[key])
-      node.val = value
-      this.list.add(node)
     }
+
+    this.#capacity = newCapacity
   }
 
-  get (key) {
-    // Returns the value for the input key and updates the Double Linked List. Returns null if key is not present in cache
-    if (key in this.cache) {
-      this.hits += 1
-      this.list.add(this.list.remove(this.cache[key]))
-      return this.cache[key].val
+  /**
+ * delete oldest key existing in map by the help of iterator
+ */
+  #removeLeastRecentlyUsed () {
+    this.cache.delete(this.cache.keys().next().value)
+  }
+
+  /**
+   * @param {string} key
+   * @returns {*}
+   */
+  has (key) {
+    key = String(key)
+
+    return this.cache.has(key)
+  }
+
+  /**
+   * @param {string} key
+   * @param {*} value
+   */
+  set (key, value) {
+    key = String(key)
+    // Sets the value for the input key and if the key exists it updates the existing key
+    if (this.size === this.capacity) {
+      this.#removeLeastRecentlyUsed()
     }
-    this.miss += 1
+
+    this.cache.set(key, value)
+  }
+
+  /**
+   * @param {string} key
+   * @returns {*}
+   */
+  get (key) {
+    key = String(key)
+    // Returns the value for the input key. Returns null if key is not present in cache
+    if (this.cache.has(key)) {
+      const value = this.cache.get(key)
+
+      // refresh the cache to update the order of key
+      this.cache.delete(key)
+      this.cache.set(key, value)
+
+      this.hits++
+      return value
+    }
+
+    this.misses++
     return null
   }
-}
 
-function main () {
-  // Example 1 (Small Cache)
-  const cache = new LRUCache(2)
-  cache.set(1, 1)
-  cache.set(2, 2)
+  /**
+   * @param {JSON} json
+   * @returns {LRUCache}
+   */
+  parse (json) {
+    const { misses, hits, cache } = JSON.parse(json)
 
-  console.log(cache.get(1))
+    this.misses += misses ?? 0
+    this.hits += hits ?? 0
 
-  cache.set(3, 3)
-
-  console.log(cache.get(2)) // cache miss
-
-  cache.set(4, 4)
-
-  console.log(cache.get(1)) // cache miss
-  console.log(cache.get(3))
-  console.log(cache.get(4))
-
-  console.log('Example Cache: ', cache.cacheInfo(), '\n')
-
-  // Example 2 (Computing Fibonacci Series - 100 terms)
-  function fib (num, cache = null) {
-    if (cache) {
-      const value = cache.get(num)
-      if (value) { return value }
+    for (const key in cache) {
+      this.set(key, cache[key])
     }
-    if (num === 1 || num === 2) { return 1 }
-    const result = fib(num - 1, cache) + fib(num - 2, cache)
-    if (cache) { cache.set(num, result) }
-    return result
+
+    return this
   }
 
-  const fibCache = new LRUCache(100)
-  for (let i = 1; i <= 100; i++) { fib(i, fibCache) }
-  console.log('Fibonacci Series Cache: ', fibCache.cacheInfo(), '\n')
+  /**
+   * @param {number} indent
+   * @returns {JSON} - string
+   */
+  toString (indent) {
+    const replacer = (_, value) => {
+      if (value instanceof Set) {
+        return [...value]
+      }
+
+      if (value instanceof Map) {
+        return Object.fromEntries(value)
+      }
+
+      return value
+    }
+
+    return JSON.stringify(this, replacer, indent)
+  }
 }
 
-main()
+export default LRUCache

@@ -17,4 +17,4 @@ const CheckPascalCase = (VarName) => {
   return pat.test(VarName)
 }
 
-module.exports = CheckPascalCase
+export { CheckPascalCase }

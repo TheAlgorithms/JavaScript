@@ -45,7 +45,7 @@ function pad (str, bits) {
  * @return {array} - array of original string split into chunks
  *
  * @example
- *      chunkify("this is a test", 2); // ["th", "is", " i", "s ", "a ", "te", "st"]
+ *      chunkify("this is a test", 2)
  */
 function chunkify (str, size) {
   const chunks = []
@@ -76,7 +76,7 @@ function rotateRight (bits, turns) {
  * @return {string} - processed message
  */
 function preProcess (message) {
-  // covert message to binary representation padded to
+  // convert message to binary representation padded to
   // 8 bits, and add 1
   let m = message.split('')
     .map(e => e.charCodeAt(0))
@@ -185,4 +185,4 @@ function SHA256 (message) {
 }
 
 // export SHA256 function
-module.exports = SHA256
+export { SHA256 }

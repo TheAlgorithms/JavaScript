@@ -1,9 +1,11 @@
 /**
-* Quick sort is a comparison sorting algorithm that uses a divide and conquer strategy.
-*
-* For more information see here: https://en.wikipedia.org/wiki/Quicksort
-*/
-export function quickSort (items) {
+ * @function QuickSort
+ * @description Quick sort is a comparison sorting algorithm that uses a divide and conquer strategy.
+ * @param {Integer[]} items - Array of integers
+ * @return {Integer[]} - Sorted array.
+ * @see [QuickSort](https://en.wikipedia.org/wiki/Quicksort)
+ */
+function quickSort (items) {
   const length = items.length
 
   if (length <= 1) {
@@ -21,9 +23,8 @@ export function quickSort (items) {
     }
   }
 
-  let sorted = quickSort(LESSER)
-  sorted.push(PIVOT)
-  sorted = sorted.concat(quickSort(GREATER))
-
+  const sorted = [...quickSort(LESSER), PIVOT, ...quickSort(GREATER)]
   return sorted
 }
+
+export { quickSort }

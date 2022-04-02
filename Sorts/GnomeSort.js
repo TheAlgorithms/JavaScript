@@ -3,7 +3,7 @@
  * more information: https://en.wikipedia.org/wiki/Gnome_sort
  *
  */
-function gnomeSort (items) {
+export function gnomeSort (items) {
   if (items.length <= 1) {
     return
   }
@@ -19,13 +19,10 @@ function gnomeSort (items) {
       i = Math.max(1, i - 1)
     }
   }
+  return items
 }
 
 // Implementation of gnomeSort
 
-const ar = [5, 6, 7, 8, 1, 2, 12, 14]
-// Array before Sort
-console.log(ar)
-gnomeSort(ar)
-// Array after sort
-console.log(ar)
+// const ar = [5, 6, 7, 8, 1, 2, 12, 14]
+// gnomeSort(ar)

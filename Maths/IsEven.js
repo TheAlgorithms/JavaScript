@@ -7,27 +7,22 @@
  */
 
 /**
- * @param {number} number
- * @return {boolean}
- */
-
-/*
- * Checking if number is even using divisibility by 2
+ * @function isEven
+ * @description - Checking if number is even using divisibility by 2
  *
  * If number is divisible by 2 i.e remainder = 0, then it is even
  * therefore, the function will return true
  *
  * If number is not divisible by 2 i.e remainder != 0, then it is not even i.e odd
  * therefore, the function will return false
+ * @param {number} number
+ * @return {boolean}
  */
+export const isEven = (number) => number % 2 === 0
 
-export const isEven = (number) => {
-  return number % 2 === 0
-}
-
-/*
- * Checking if number is even using bitwise operator
- *
+/**
+ * @function isEvenBitwise
+ * @description - Checking if number is even using bitwise operator
  * Bitwise AND (&) compares the bits of the 32
  * bit binary representations of the number and
  * returns a number after comparing each bit:
@@ -46,11 +41,8 @@ export const isEven = (number) => {
  * last bit will be 0 for even numbers and 1 for
  * odd numbers, which is checked with the use
  * of the equality operator.
- *
- * References:
- * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Bitwise_AND
+ * @param {number} number
+ * @returns {boolean}
+ * @see https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Bitwise_AND
  */
-
-export const isEvenBitwise = (number) => {
-  return (number & 1) === 0
-}
+export const isEvenBitwise = (number) => (number & 1) === 0

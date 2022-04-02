@@ -73,25 +73,16 @@ class SinglyCircularLinkedList {
     this.size--
   }
 
-  printData () {
+  printData (output = value => console.log(value)) {
     let count = 0
     let current = this.head
 
-    while (current !== null && count !== this.size) {
-      console.log(current.data + '\n')
+    while (current !== null && count < this.size) {
+      output(current.data)
       current = current.next
       count++
     }
   }
 }
 
-const ll = new SinglyCircularLinkedList()
-
-ll.insert(10)
-ll.insert(20)
-ll.insert(30)
-ll.insert(40)
-ll.insert(50)
-ll.insertAt(5, 60)
-ll.remove(5)
-ll.printData()
+export { SinglyCircularLinkedList }

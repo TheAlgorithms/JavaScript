@@ -45,12 +45,12 @@ class GraphUnweightedUndirectedAdjacencyList {
   }
 }
 
-function main () {
-  const graph = new GraphUnweightedUndirectedAdjacencyList()
-  graph.addEdge(1, 2) // Component 1
-  graph.addEdge(3, 4) // Component 2
-  graph.addEdge(3, 5) // Component 2
-  console.log(graph.connectedComponents())
-}
+export { GraphUnweightedUndirectedAdjacencyList }
 
-main()
+// Example
+
+// const graph = new GraphUnweightedUndirectedAdjacencyList()
+// graph.addEdge(1, 2) // Component 1
+// graph.addEdge(3, 4) // Component 2
+// graph.addEdge(3, 5) // Component 2
+// const components = graph.connectedComponents()

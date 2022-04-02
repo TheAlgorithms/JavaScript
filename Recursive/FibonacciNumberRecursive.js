@@ -1,13 +1,17 @@
-//  https://en.wikipedia.org/wiki/Fibonacci_number
 
-const fibonacci = (N) => {
-  if (N === 0 || N === 1) return N
+/**
+ * @function Fibonacci
+ * @description Function to return the N-th Fibonacci number.
+ * @param {Integer} n - The input integer
+ * @return {Integer} - Return the N-th Fibonacci number
+ * @see [Fibonacci](https://en.wikipedia.org/wiki/Fibonacci_number)
+ */
 
-  return fibonacci(N - 2) + fibonacci(N - 1)
+const fibonacci = (n) => {
+  if (n < 2) {
+    return n
+  }
+  return fibonacci(n - 2) + fibonacci(n - 1)
 }
 
-// testing
-(() => {
-  const number = 5
-  console.log(number + 'th Fibonacci number is ' + fibonacci(number))
-})()
+export { fibonacci }
