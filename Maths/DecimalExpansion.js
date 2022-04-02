@@ -1,6 +1,5 @@
 /**
  * @author Eric Lavault <https://github.com/lvlte>
- * @license MIT
  *
  * Represents the decimal (or binary, octal, any base from 2 to 10) expansion
  * of a/b using euclidean division.
