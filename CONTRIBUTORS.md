@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@poirei](https://github.com/poirei)
+
 - [@sheenagonzalez](https://github.com/sheenagonzalez)
 
 - [@DevTomilola](https://github.com/DevTomilola)
