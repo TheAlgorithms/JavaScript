@@ -3304,4 +3304,4 @@
 
 - [@P1TR13](https://github.com/P1TR13)
 
-- [@emrahbeydilli] (https://github.com/emrahbeydilli)
+- [@emrahbeydilli](https://github.com/emrahbeydilli)
