@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@poirei](https://github.com/poirei)
+
 - [@sheenagonzalez](https://github.com/sheenagonzalez)
 
 - [@DevTomilola](https://github.com/DevTomilola)
@@ -3299,3 +3301,10 @@
 -[@Anuragcr](https://github.com/anuragcr)
 
 -[@ershawarma](https://github.com/ershawarma/)
+
+- [@dashorus](https://github.com/dashorus)
+
+- [@P1TR13](https://github.com/P1TR13)
+
+- [@emrahbeydilli](https://github.com/emrahbeydilli)
+
