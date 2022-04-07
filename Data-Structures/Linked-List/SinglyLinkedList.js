@@ -54,7 +54,7 @@ class LinkedList {
     }
 
     const node = new Node(element)
-    // Adding node at the end of the list and increase the legnth
+    // Adding node at the end of the list and increase the length
     currentNode.next = node
     this.length++
     return this.size()
