@@ -1,33 +1,65 @@
-import { checkPangram } from '../CheckPangram'
+import { checkPangramRegex, checkPangramSet } from '../CheckPangram'
 
-describe('checkPangram', () => {
+describe('Testing checkPangramRegex function', () => {
   it('"The quick brown fox jumps over the lazy dog" is a pangram', () => {
     expect(
-      checkPangram('The quick brown fox jumps over the lazy dog')
-    ).toBeTruthy()
+      checkPangramRegex('The quick brown fox jumps over the lazy dog')
+    ).toBe(true)
   })
 
   it('"Waltz, bad nymph, for quick jigs vex." is a pangram', () => {
-    expect(checkPangram('Waltz, bad nymph, for quick jigs vex.')).toBeTruthy()
+    expect(checkPangramRegex('Waltz, bad nymph, for quick jigs vex.')).toBe(true)
   })
 
   it('"Jived fox nymph grabs quick waltz." is a pangram', () => {
-    expect(checkPangram('Jived fox nymph grabs quick waltz.')).toBeTruthy()
+    expect(checkPangramRegex('Jived fox nymph grabs quick waltz.')).toBe(true)
   })
 
   it('"My name is Unknown" is NOT a pangram', () => {
-    expect(checkPangram('My name is Unknown')).toBeFalsy()
+    expect(checkPangramRegex('My name is Unknown')).toBe(false)
   })
 
   it('"The quick brown fox jumps over the la_y dog" is NOT a pangram', () => {
     expect(
-      checkPangram('The quick brown fox jumps over the la_y dog')
-    ).toBeFalsy()
+      checkPangramRegex('The quick brown fox jumps over the la_y dog')
+    ).toBe(false)
   })
 
   it('Throws an error if given param is not a string', () => {
     expect(() => {
-      checkPangram(undefined)
+      checkPangramRegex(undefined)
+    }).toThrow('The given value is not a string')
+  })
+})
+
+describe('Testing checkPangramSet function', () => {
+  it('"The quick brown fox jumps over the lazy dog" is a pangram', () => {
+    expect(
+      checkPangramSet('The quick brown fox jumps over the lazy dog')
+    ).toBe(true)
+  })
+
+  it('"Waltz, bad nymph, for quick jigs vex." is a pangram', () => {
+    expect(checkPangramSet('Waltz, bad nymph, for quick jigs vex.')).toBe(true)
+  })
+
+  it('"Jived fox nymph grabs quick waltz." is a pangram', () => {
+    expect(checkPangramSet('Jived fox nymph grabs quick waltz.')).toBe(true)
+  })
+
+  it('"My name is Unknown" is NOT a pangram', () => {
+    expect(checkPangramSet('My name is Unknown')).toBe(false)
+  })
+
+  it('"The quick brown fox jumps over the la_y dog" is NOT a pangram', () => {
+    expect(
+      checkPangramSet('The quick brown fox jumps over the la_y dog')
+    ).toBe(false)
+  })
+
+  it('Throws an error if given param is not a string', () => {
+    expect(() => {
+      checkPangramSet(undefined)
     }).toThrow('The given value is not a string')
   })
 })

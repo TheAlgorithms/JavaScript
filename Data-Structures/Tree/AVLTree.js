@@ -17,13 +17,9 @@ let utils;
 (function (_utils) {
   function comparator () {
     return function (v1, v2) {
-      if (v1 < v2) {
-        return -1
-      } else if (v2 < v1) {
-        return 1
-      } else {
-        return 0
-      }
+      if (v1 < v2) return -1
+      if (v2 < v1) return 1
+      return 0
     }
   }
   _utils.comparator = comparator
@@ -39,16 +35,14 @@ const AVLTree = (function () {
   function _avl (comp) {
     /** @public comparator function */
     this._comp = undefined
-    if (comp !== undefined) {
-      this._comp = comp
-    } else {
-      this._comp = utils.comparator()
-    }
+    this._comp = comp !== undefined ? comp : utils.comparator()
+
     /** @public root of the AVL Tree */
     this.root = null
     /** @public number of elements in AVL Tree */
     this.size = 0
   }
+
   // creates new Node Object
   const Node = function (val) {
     this._val = val
@@ -56,95 +50,103 @@ const AVLTree = (function () {
     this._right = null
     this._height = 1
   }
+
   // get height of a node
-  const getH = function (node) {
+  const getHeight = function (node) {
     if (node == null) { return 0 }
     return node._height
   }
+
   // height difference or balance factor of a node
-  const getHDiff = function (node) {
-    if (node == null) { return 0 } else { return getH(node._left) - getH(node._right) }
+  const getHeightDifference = function (node) {
+    return node == null ? 0 : getHeight(node._left) - getHeight(node._right)
   }
+
   // update height of a node based on children's heights
-  const updateH = function (node) {
-    if (node == null) {
-      return
-    }
-    node._height = Math.max(getH(node._left), getH(node._right)) + 1
+  const updateHeight = function (node) {
+    if (node == null) { return }
+    node._height = Math.max(getHeight(node._left), getHeight(node._right)) + 1
   }
+
+  // Helper: To check if the balanceFactor is valid
+  const isValidBalanceFactor = (balanceFactor) => [0, 1, -1].includes(balanceFactor)
+
   // rotations of AVL Tree
   const leftRotate = function (node) {
     const temp = node._right
     node._right = temp._left
     temp._left = node
-    updateH(node)
-    updateH(temp)
+    updateHeight(node)
+    updateHeight(temp)
     return temp
   }
   const rightRotate = function (node) {
     const temp = node._left
     node._left = temp._right
     temp._right = node
-    updateH(node)
-    updateH(temp)
+    updateHeight(node)
+    updateHeight(temp)
     return temp
   }
+
   // check if tree is balanced else balance it for insertion
   const insertBalance = function (node, _val, balanceFactor) {
     if (balanceFactor > 1 && _val < node._left._val) {
       return rightRotate(node) // Left Left Case
-    } else if (balanceFactor < 1 && _val > node._right._val) {
+    }
+    if (balanceFactor < 1 && _val > node._right._val) {
       return leftRotate(node) // Right Right Case
-    } else if (balanceFactor > 1 && _val > node._left._val) {
+    }
+    if (balanceFactor > 1 && _val > node._left._val) {
       node._left = leftRotate(node._left) // Left Right Case
       return rightRotate(node)
     }
     node._right = rightRotate(node._right)
     return leftRotate(node)
   }
+
   // check if tree is balanced after deletion
   const delBalance = function (node) {
-    const balanceFactor1 = getHDiff(node)
-    if (balanceFactor1 === 0 || balanceFactor1 === 1 || balanceFactor1 === -1) {
+    const balanceFactor1 = getHeightDifference(node)
+    if (isValidBalanceFactor(balanceFactor1)) {
       return node
     }
     if (balanceFactor1 > 1) {
-      if (getHDiff(node._left) >= 0) {
+      if (getHeightDifference(node._left) >= 0) {
         return rightRotate(node) // Left Left
       }
       node._left = leftRotate(node._left)
       return rightRotate(node) // Left Right
     }
-    if (getHDiff(node._right) > 0) {
+    if (getHeightDifference(node._right) > 0) {
       node._right = rightRotate(node._right)
       return leftRotate(node) // Right Left
     }
     return leftRotate(node) // Right Right
   }
+
   // implement avl tree insertion
   const insert = function (root, val, tree) {
     if (root == null) {
       tree.size++
       return new Node(val)
-    } else if (tree._comp(root._val, val) < 0) {
+    }
+    if (tree._comp(root._val, val) < 0) {
       root._right = insert(root._right, val, tree)
     } else if (tree._comp(root._val, val) > 0) {
       root._left = insert(root._left, val, tree)
     } else {
       return root
     }
-    updateH(root)
-    const balanceFactor = getHDiff(root)
-    if (balanceFactor === 0 || balanceFactor === 1 || balanceFactor === -1) {
-      return root
-    }
-    return insertBalance(root, val, balanceFactor)
+    updateHeight(root)
+    const balanceFactor = getHeightDifference(root)
+    return isValidBalanceFactor(balanceFactor) ? root : insertBalance(root, val, balanceFactor)
   }
-  // delete a element
-  const del = function (root, _val, tree) {
-    if (root == null) {
-      return root
-    } else if (tree._comp(root._val, _val) === 0) { // key found case
+
+  // delete am element
+  const deleteElement = function (root, _val, tree) {
+    if (root == null) { return root }
+    if (tree._comp(root._val, _val) === 0) { // key found case
       if (root._left === null && root._right === null) {
         root = null
         tree.size--
@@ -160,29 +162,29 @@ const AVLTree = (function () {
           temp = temp._left
         }
         root._val = temp._val
-        root._right = del(root._right, temp._val, tree)
+        root._right = deleteElement(root._right, temp._val, tree)
       }
     } else {
       if (tree._comp(root._val, _val) < 0) {
-        root._right = del(root._right, _val, tree)
+        root._right = deleteElement(root._right, _val, tree)
       } else {
-        root._left = del(root._left, _val, tree)
+        root._left = deleteElement(root._left, _val, tree)
       }
     }
-    updateH(root)
+    updateHeight(root)
     root = delBalance(root)
     return root
   }
   // search tree for a element
-  const search = function (root, val, tree) {
-    if (root == null) {
-      return null
-    } else if (tree._comp(root._val, val) === 0) {
+  const searchAVLTree = function (root, val, tree) {
+    if (root == null) { return null }
+    if (tree._comp(root._val, val) === 0) {
       return root
-    } else if (tree._comp(root._val, val) < 0) {
-      return search(root._right, val, tree)
     }
-    return search(root._left, val, tree)
+    if (tree._comp(root._val, val) < 0) {
+      return searchAVLTree(root._right, val, tree)
+    }
+    return searchAVLTree(root._left, val, tree)
   }
 
   /* Public Functions */
@@ -196,10 +198,7 @@ const AVLTree = (function () {
   _avl.prototype.add = function (_val) {
     const prevSize = this.size
     this.root = insert(this.root, _val, this)
-    if (this.size === prevSize) {
-      return false
-    }
-    return true
+    return this.size !== prevSize
   }
   /**
    * TO check is a particular element exists or not
@@ -207,11 +206,8 @@ const AVLTree = (function () {
    * @returns {Boolean} exists or not
    */
   _avl.prototype.find = function (_val) {
-    const temp = search(this.root, _val, this)
-    if (temp != null) {
-      return true
-    }
-    return false
+    const temp = searchAVLTree(this.root, _val, this)
+    return temp != null
   }
   /**
    *
@@ -222,11 +218,8 @@ const AVLTree = (function () {
    */
   _avl.prototype.remove = function (_val) {
     const prevSize = this.size
-    this.root = del(this.root, _val, this)
-    if (prevSize === this.size) {
-      return false
-    }
-    return true
+    this.root = deleteElement(this.root, _val, this)
+    return prevSize !== this.size
   }
   return _avl
 }())

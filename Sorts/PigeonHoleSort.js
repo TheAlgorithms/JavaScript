@@ -29,4 +29,5 @@ export function pigeonHoleSort (arr) {
       arr[index++] = j + min
     }
   }
+  return arr
 }

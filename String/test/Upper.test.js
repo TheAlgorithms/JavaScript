@@ -1,6 +1,6 @@
-import { upper } from '../Upper'
+import upper from '../Upper'
 
-describe('Upper', () => {
+describe('Testing the Upper function', () => {
   it('return uppercase strings', () => {
     expect(upper('hello')).toBe('HELLO')
     expect(upper('WORLD')).toBe('WORLD')
