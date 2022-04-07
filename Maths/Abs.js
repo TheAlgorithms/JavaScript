@@ -1,22 +1,22 @@
 /**
- * @function absVal
+ * @function abs
  * @description This script will find the absolute value of a number.
- * @param {Integer} num - The input integer
- * @return {Integer} - Absolute number of num.
- * @see [Absolute_value](https://en.wikipedia.org/wiki/Absolute_value)
- * @example absVal(-10) = 10
- * @example absVal(50) = 50
- * @example absVal(0) = 0
+ * @param {number} num - The input integer
+ * @return {number} - Absolute number of num.
+ * @see https://en.wikipedia.org/wiki/Absolute_value
+ * @example abs(-10) = 10
+ * @example abs(50) = 50
+ * @example abs(0) = 0
  */
 
-const absVal = (num) => {
-  // Find absolute value of `num`.
-  'use strict'
-  if (num < 0) {
-    return -num
+const abs = (num) => {
+  const validNumber = +num // converted to number, also can use - Number(num)
+
+  if (Number.isNaN(validNumber)) {
+    throw new TypeError('Argument is NaN - Not a Number')
   }
-  // Executes if condition is not met.
-  return num
+
+  return validNumber < 0 ? -validNumber : validNumber // if number is less then zero mean negative then it converted to positive. i.e -> n = -2 = -(-2) = 2
 }
 
-export { absVal }
+export { abs }

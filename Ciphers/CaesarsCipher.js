@@ -1,35 +1,32 @@
 /**
- * Caesar's Cipher - also known as the ROT13 Cipher is when
- * a letter is replaced by the one that is 13 spaces away
- * from it in the alphabet. If the letter is in the first half
- * of the alphabet we add 13, if it's in the latter half we
- * subtract 13 from the character code value.
+ * @function caesarsCipher
+ * @description - In cryptography, a Caesar cipher, also known as Caesar's cipher, the shift cipher, Caesar's code or Caesar shift, is one of the simplest and most widely known encryption techniques. It is a type of substitution cipher in which each letter in the plaintext is replaced by a letter some fixed number of positions down the alphabet. For example, with a left shift of 3, D would be replaced by A, E would become B, and so on. The method is named after Julius Caesar, who used it in his private correspondence.
+ * @see - [wiki](https://en.wikipedia.org/wiki/Caesar_cipher)
+ * @param  {string} str - string to be encrypted
+ * @param {number} rotation - the number of rotation, expect real number ( > 0)
+ * @return {string} - decrypted string
  */
-
-/**
- * Decrypt a ROT13 cipher
- * @param {String} str - string to be decrypted
- * @return {String} decrypted string
- */
-function rot13 (str) {
-  const response = []
-  const strLength = str.length
-
-  for (let i = 0; i < strLength; i++) {
-    const char = str.charCodeAt(i)
-
-    if (char < 65 || (char > 90 && char < 97) || char > 122) {
-      response.push(str.charAt(i))
-    } else if ((char > 77 && char <= 90) || (char > 109 && char <= 122)) {
-      response.push(String.fromCharCode(str.charCodeAt(i) - 13))
-    } else {
-      response.push(String.fromCharCode(str.charCodeAt(i) + 13))
-    }
+const caesarsCipher = (str, rotation) => {
+  if (typeof str !== 'string' || !Number.isInteger(rotation) || rotation < 0) {
+    throw new TypeError('Arguments are invalid')
   }
-  return response.join('')
+
+  const alphabets = new Array(26)
+    .fill()
+    .map((_, index) => String.fromCharCode(97 + index)) // generate all lower alphabets array a-z
+
+  const cipherMap = alphabets.reduce(
+    (map, char, index) => map.set(char, alphabets[(rotation + index) % 26]),
+    new Map()
+  )
+
+  return str.replace(/[a-z]/gi, (char) => {
+    if (/[A-Z]/.test(char)) {
+      return cipherMap.get(char.toLowerCase()).toUpperCase()
+    }
+
+    return cipherMap.get(char)
+  })
 }
 
-export { rot13 }
-
-// > rot13('Uryyb Jbeyq')
-// 'Hello World'
+export default caesarsCipher

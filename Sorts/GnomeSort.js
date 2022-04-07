@@ -19,6 +19,7 @@ export function gnomeSort (items) {
       i = Math.max(1, i - 1)
     }
   }
+  return items
 }
 
 // Implementation of gnomeSort

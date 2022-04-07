@@ -7,7 +7,7 @@
  * The logic behind the leap year is-
  * 1. If the year is divisible by 400 then it is a leap year.
  * 2. If it is not divisible by 400 but divisible by 100 then it is not a leap year.
- * 3. If the year is not divisible by 400 but not divisible by 100 and divisible by 4 then a leap year.
+ * 3. If the year is not divisible by both 400 and 100 but divisible by 4 then a leap year.
  * 4. Other cases except the describing ones are not a leap year.
  *
  * @param {number} year
