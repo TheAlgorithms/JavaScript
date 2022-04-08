@@ -1074,6 +1074,8 @@
 
 - [@Takewkat](https://github.com/Takewkat)
 
+- [@TalhaAWOL](https://github.com/TalhaAWOL)
+
 - [@TarunKamboj](https://github.com/Tarun-Kamboj)
 
 - [@Tarunvegidev](https://github.com/Tarunvegi-dev)
@@ -3355,4 +3357,6 @@
 
 -[@joshuayannix] (https://github.com/joshuayannix)
 
--[@eshaan5] (https://github.com/eshaan5)
+-[@Ibonom](https://github.com/Ibonom)
+
+-[@eshaan5](https://github.com/eshaan5)
