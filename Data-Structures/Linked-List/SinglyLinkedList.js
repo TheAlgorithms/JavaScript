@@ -21,7 +21,8 @@ class LinkedList {
     this.length = 0
   }
 
-  initiateNodeandIndex () {
+  // initiates the currentNode and currentIndex and return as an object
+  initiateNodeAndIndex () {
     return { currentNode: this.headNode, currentIndex: 0 }
   }
 
@@ -46,7 +47,7 @@ class LinkedList {
     if (this.headNode === null) {
       return this.addFirst(element)
     }
-    let { currentNode } = this.initiateNodeandIndex()
+    let { currentNode } = this.initiateNodeAndIndex()
 
     // Loop till there is a node present in the list
     while (currentNode.next) {
@@ -86,7 +87,7 @@ class LinkedList {
     if (this.length === 1) {
       return this.removeFirst()
     }
-    let { currentIndex, currentNode } = this.initiateNodeandIndex()
+    let { currentIndex, currentNode } = this.initiateNodeAndIndex()
     while (currentIndex !== this.length - 2) {
       currentIndex++
       currentNode = currentNode.next
@@ -100,7 +101,7 @@ class LinkedList {
   // Removes the node with the value as param
   remove (element) {
     if (this.isEmpty()) return null
-    let { currentNode } = this.initiateNodeandIndex()
+    let { currentNode } = this.initiateNodeAndIndex()
     let removedNode = null
     // Check if the head node is the element to remove
     if (currentNode.data === element) {
@@ -121,7 +122,7 @@ class LinkedList {
 
   // Returns the index of the element passed as param otherwise -1
   indexOf (element) {
-    let { currentIndex, currentNode } = this.initiateNodeandIndex()
+    let { currentIndex, currentNode } = this.initiateNodeAndIndex()
 
     while (currentNode) {
       // Checking if the node is the element we are searching for
@@ -139,7 +140,7 @@ class LinkedList {
     if (index >= this.length || index < 0) {
       throw new RangeError('Out of Range index')
     }
-    let { currentIndex, currentNode } = this.initiateNodeandIndex()
+    let { currentIndex, currentNode } = this.initiateNodeAndIndex()
     while (currentIndex < index) {
       currentIndex++
       currentNode = currentNode.next
@@ -155,7 +156,7 @@ class LinkedList {
     }
     if (index === 0) return this.addFirst(element)
     if (index === this.length) return this.addLast(element)
-    let { currentIndex, currentNode } = this.initiateNodeandIndex()
+    let { currentIndex, currentNode } = this.initiateNodeAndIndex()
     const node = new Node(element)
 
     while (currentIndex !== index - 1) {
@@ -181,7 +182,7 @@ class LinkedList {
     if (index === 0) return this.removeFirst()
     if (index === this.length) return this.removeLast()
 
-    let { currentIndex, currentNode } = this.initiateNodeandIndex()
+    let { currentIndex, currentNode } = this.initiateNodeAndIndex()
     while (currentIndex !== index - 1) {
       currentIndex++
       currentNode = currentNode.next
@@ -202,7 +203,7 @@ class LinkedList {
   // Method to get the LinkedList
   get () {
     const list = []
-    let { currentNode } = this.initiateNodeandIndex()
+    let { currentNode } = this.initiateNodeAndIndex()
     while (currentNode) {
       list.push(currentNode.data)
       currentNode = currentNode.next
@@ -213,7 +214,7 @@ class LinkedList {
 
   // Method to iterate over the LinkedList
   iterator () {
-    let currentNode = this.headNode
+    let { currentNode } = this.initiateNodeAndIndex()
     if (currentNode === null) return -1
 
     const iterate = function * () {
