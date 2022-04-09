@@ -1,4 +1,4 @@
-// Methods - size, head, isEmpty, isAvailable, getElementAt, addAtFirst, add, clean, insertAt, remove, removeData, printData, get
+// Methods - size, head, isEmpty, isAvailable, getElementAt, addAtFirst, add, clean, insertAt, remove, removeData, printData, get, clear
 import { Node } from './SinglyLinkedList.js'
 
 class SinglyCircularLinkedList {
