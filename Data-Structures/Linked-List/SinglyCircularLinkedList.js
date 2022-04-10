@@ -1,5 +1,5 @@
 // Methods - size, head, isEmpty, getElementAt, addAtFirst, add, clean, insertAt, remove, removeData, printData, get, clear
-import { Node } from './SinglyLinkedList.js'
+import { SinglyLinkedListNode as Node } from '../Linked-List/LinkedListNodes'
 
 class SinglyCircularLinkedList {
   constructor () {

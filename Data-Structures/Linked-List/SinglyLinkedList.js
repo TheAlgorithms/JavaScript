@@ -8,13 +8,7 @@
 
 // Methods - size, head, addLast, addFirst, addAt, removeFirst, removeLast, remove, removeAt, indexOf, isEmpty,  elementAt, get, clean
 
-class Node {
-  constructor (data) {
-    this.data = data
-    this.next = null
-  }
-}
-
+import { SinglyLinkedListNode as Node } from '../Linked-List/LinkedListNodes'
 class LinkedList {
   constructor () {
     this.headNode = null
@@ -77,7 +71,6 @@ class LinkedList {
       this.headNode = this.headNode.next
       this.length--
     }
-    console.log(removedNode.data)
     return removedNode?.data
   }
 

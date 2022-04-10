@@ -2,7 +2,7 @@
  * A LinkedList based solution for Add Two Numbers
  *
  */
-import { Node } from './SinglyLinkedList.js'
+import { SinglyLinkedListNode as Node } from '../Linked-List/LinkedListNodes'
 
 /*
 Problem Statement:
