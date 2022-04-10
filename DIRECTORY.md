@@ -77,7 +77,7 @@
     * [CycleDetection](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Linked-List/CycleDetection.js)
     * [DoublyLinkedList](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Linked-List/DoublyLinkedList.js)
     * [RotateListRight](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Linked-List/RotateListRight.js)
-    * [SingleCircularLinkedList](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Linked-List/SingleCircularLinkedList.js.js)
+    * [SinglyCircularLinkedList](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Linked-List/SinglyCircularLinkedList.js)
     * [SinglyLinkedList](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Linked-List/SinglyLinkedList.js)
   * Queue
     * [CircularQueue](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Queue/CircularQueue.js)
