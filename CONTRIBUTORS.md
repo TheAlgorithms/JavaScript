@@ -3377,4 +3377,4 @@
 
 - [@dnkoziatek](https://github.com/dnkoziatek)
 
-- [@espedrozo] (https://github.com/espedrozo)
+- [@espedrozo](https://github.com/espedrozo)
