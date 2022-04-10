@@ -1,4 +1,4 @@
-// Methods - size, head, isEmpty, isAvailable, getElementAt, addAtFirst, add, clean, insertAt, remove, removeData, printData, get, clear
+// Methods - size, head, isEmpty, getElementAt, addAtFirst, add, clean, insertAt, remove, removeData, printData, get, clear
 import { Node } from './SinglyLinkedList.js'
 
 class SinglyCircularLinkedList {
@@ -13,8 +13,6 @@ class SinglyCircularLinkedList {
   head = () => this.headNode?.data || null
   // Check if the linkedList is empty
   isEmpty = () => this.length === 0
-  // Check if the data is available or not
-  isAvailable = (data) => this.indexOf(data) !== -1
 
   // initiate the node and index
   initiateNodeAndIndex () {
