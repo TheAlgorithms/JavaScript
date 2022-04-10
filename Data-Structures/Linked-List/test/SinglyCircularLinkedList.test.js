@@ -41,17 +41,6 @@ describe('SinglyCircularLinkedList', () => {
     expect(list.isEmpty()).toEqual(false)
   })
 
-  it('Check isAvailable', () => {
-    expect(list.isAvailable(200)).toBeFalsy()
-    list.add(1)
-    list.add(5)
-    list.add(7)
-    list.add(9)
-    list.add(0)
-    expect(list.isAvailable(5)).toBeTruthy()
-    expect(list.isAvailable(90)).toBeFalsy()
-  })
-
   it('Check getElementAt', () => {
     list.add(100)
     list.add(200)
