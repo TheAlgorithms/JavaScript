@@ -788,6 +788,8 @@
 
 - [@NguyenJohnnyT](https://github.com/NguyenJohnnyT)
 
+- [@IAMNITESHPANDIT](https://github.com/IAMNITESHPANDIT)
+
 - [@Nicolas2111](https://github.com/Nicolas2111)
 
 - [@Nierusan](https://github.com/nierusan)
