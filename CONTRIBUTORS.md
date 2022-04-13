@@ -3410,3 +3410,5 @@
 - [@gifariramadhan](https://github.com/gifariramadhan/)
 
 - [@PatrikMT](https://github.com/PatrikMT)
+
+- [@paulo-sarmento](https://github.com/paulo-sarmento)
