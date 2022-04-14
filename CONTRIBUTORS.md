@@ -634,6 +634,8 @@
 
 - [@Lejla1502](https://github.com/Lejla1502)
 
+- [@ldelgarias](https://github.com/ldelgarias/) 
+
 - [@Lilyilinet](https://github.com/Lilyilinet)
 
 - [@LinTsaiI](https://github.com/LinTsaiI)
