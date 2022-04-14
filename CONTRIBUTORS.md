@@ -3426,3 +3426,5 @@
 - [@AL-ABYADH](https://github.com/AL-ABYADH)
 
 - [@seemanshaikh](https://github.com/seemanshaikh)
+
+- [@Danteie](https://github.com/Danteie)
