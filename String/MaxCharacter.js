@@ -1,29 +1,33 @@
-/*
-  Given a string of characters, return the character that appears the most often.
-  Example: input = "Hello World!" return "l"
-*/
-const maxCharacter = (value) => {
-  if (typeof value !== 'string') {
-    throw new TypeError('The param should be a string')
-  } else if (!value) {
-    throw new Error('The param should be a valid string')
+/**
+ * @function maxCharacter
+ * @example - Given a string of characters, return the character that appears the most often. Example: input = "Hello World!" return "l"
+ * @param {string} str
+ * @returns {string} - char
+ */
+const maxCharacter = (str, filterPattern = /[^a-z]/gi) => { // initially it's count only alphabets
+  if (typeof str !== 'string') {
+    throw new TypeError('Argument should be a string')
   }
 
-  const occurrences = {}
-  for (let i = 0; i < value.length; i++) {
-    const char = value[i]
-    if (/\s/.test(char)) continue
-    occurrences[char] = occurrences[char] + 1 || 1
+  const filteredStr = filterPattern ? str.replace(filterPattern, '') : str
+
+  const occurrenceMap = new Map()
+
+  // store all char in occurrence map
+  for (const char of filteredStr) {
+    occurrenceMap.set(char, occurrenceMap.get(char) + 1 || 1)
   }
-  let maxCharacter = null
-  let maxCount = 0
-  Object.keys(occurrences).forEach(char => {
-    if (occurrences[char] > maxCount) {
-      maxCount = occurrences[char]
-      maxCharacter = char
+
+  let max = { char: '', occur: -Infinity }
+
+  // find the max char from the occurrence map
+  for (const [char, occur] of occurrenceMap) { // map is iterable so we can fire the for of loop
+    if (occur > max.occur) {
+      max = { char, occur } // re-initialize the new max object
     }
-  })
-  return maxCharacter
+  }
+
+  return max.char
 }
 
-export { maxCharacter }
+export default maxCharacter
