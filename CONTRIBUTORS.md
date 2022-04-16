@@ -1,6 +1,8 @@
 # CONTRIBUTORS
 - [@jrleijnse](https://github.com/jrleijnse)
 
+- [@Milan Sachani](https://github.com/milan-960)
+
 - [@angelo-james](https://github.com/angelo-james)
 
 - [@poirei](https://github.com/poirei)
