@@ -1,4 +1,5 @@
 # CONTRIBUTORS
+- [@jrleijnse](https://github.com/jrleijnse)
 
 - [@angelo-james](https://github.com/angelo-james)
 
