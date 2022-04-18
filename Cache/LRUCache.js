@@ -84,8 +84,8 @@ class LRUCache {
   }
 
   clear () {
-      this.cache.clear()
-      return this
+    this.cache.clear()
+    return this
     }
 
   /**
