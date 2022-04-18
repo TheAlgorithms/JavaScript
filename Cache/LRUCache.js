@@ -83,6 +83,11 @@ class LRUCache {
     this.cache.set(key, value)
   }
 
+  clear () {
+      this.cache.clear()
+      return this
+    }
+
   /**
    * @param {string} key
    * @returns {*}
