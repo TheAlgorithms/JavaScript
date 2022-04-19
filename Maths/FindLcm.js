@@ -28,10 +28,9 @@ const findLcm = (num1, num2) => {
   let lcm = maxNum
 
   while (true) {
-    if (!(lcm % num1) && !(lcm % num2)) break
+    if (!(lcm % num1) && !(lcm % num2)) return lcm
     lcm += maxNum
   }
-  return lcm
 }
 
 export { findLcm }
