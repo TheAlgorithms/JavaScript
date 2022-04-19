@@ -49,7 +49,23 @@ function binarySearchIterative (arr, x, low = 0, high = arr.length - 1) {
   return -1
 }
 
-export { binarySearchIterative, binarySearchRecursive }
+function binarySearchIterativeAlternative(arr, x) {
+  let low = -1,
+    high = arr.length
+  while (low < high - 1) {
+    const half = Math.floor((low + high) / 2)
+    // arr[half] === x => low = half else high = half
+    arr[half] < x ? (low = half) : (high = half)
+  }
+  // if arr[high] === x => return high else return -1
+  return arr[high] === x ? dir : -1
+}
+
+export {
+  binarySearchIterative,
+  binarySearchIterativeAlternative,
+  binarySearchRecursive
+}
 
 /* ---------------------------------- Test ---------------------------------- */
 
@@ -89,3 +105,10 @@ export { binarySearchIterative, binarySearchRecursive }
 // binarySearchIterative(stringArr, 'Charlie')
 // binarySearchRecursive(stringArr, 'Zulu')
 // binarySearchIterative(stringArr, 'Sierra')
+// console.log("------------------------------------------")
+// console.log(binarySearchIterativeAlternative(arr, 3))
+// console.log(binarySearchIterativeAlternative(arr, 7))
+// console.log(binarySearchIterativeAlternative(arr, 13))
+// console.log(binarySearchIterative(stringArr, 'Charlie'))
+// console.log(binarySearchRecursive(stringArr, 'Zulu'))
+// console.log(binarySearchIterative(stringArr, 'Sierra'))
