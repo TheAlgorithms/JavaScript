@@ -48,10 +48,9 @@ function binarySearchIterative (arr, x, low = 0, high = arr.length - 1) {
   // if low > high => we have searched the whole array without finding the item
   return -1
 }
-
-function binarySearchIterativeAlternative(arr, x) {
-  let low = -1,
-    high = arr.length
+function binarySearchIterativeAlternative (arr, x) {
+  let low = -1
+  let high = arr.length
   while (low < high - 1) {
     const half = Math.floor((low + high) / 2)
     // arr[half] === x => low = half else high = half
