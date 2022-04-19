@@ -20,4 +20,5 @@ const exponent = (x, n) => {
   }
   return answer
 }
+
 export { exponent }
