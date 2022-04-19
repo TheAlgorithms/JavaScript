@@ -58,7 +58,7 @@ function binarySearchIterativeAlternative(arr, x) {
     arr[half] < x ? (low = half) : (high = half)
   }
   // if arr[high] === x => return high else return -1
-  return arr[high] === x ? dir : -1
+  return arr[high] === x ? high : -1
 }
 
 export {
