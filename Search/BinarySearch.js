@@ -49,7 +49,4 @@ function binarySearchIterative (arr, x, low = 0, high = arr.length - 1) {
   return -1
 }
 
-export {
-  binarySearchIterative,
-  binarySearchRecursive
-}
+export { binarySearchIterative, binarySearchRecursive }
