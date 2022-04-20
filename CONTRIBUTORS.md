@@ -3335,6 +3335,7 @@
 - [@EmeraldColour](https://github.com/EmeraldColour)
 
 - [@YamunaPerumalsamy](https://github.com/Yamuna-Perumalsamy)
+
 - [@searchs](https://github.com/searchs)
 
 - [@kaifmkhan](https://github.com/kaifmkhan)
@@ -3349,23 +3350,23 @@
 
 - [@TimSorrow](https://github.com/TimSorrow)
 
-- [@frustrabe] (https://github.com/frustrabe)
+- [@frustrabe](https://github.com/frustrabe)
 
 - [@letz0703](https://github.com/letz0703)
 
-- [@ChadEvenrud] (https://github.com/ChadEvenrud)
+- [@ChadEvenrud](https://github.com/ChadEvenrud)
 
 - [@callMeSam808](https://github.com/callMeSam808)
 
 - [@vuquangpham](https://github.com/vuquangpham)
 
-- [@devngnx] (https://github.com/devngnx)
+- [@devngnx](https://github.com/devngnx)
 
-- [@Delanox] (https://github.com/Delanox)
+- [@Delanox](https://github.com/Delanox)
 
-- [@deepakb] (https://github.com/deepakb)
+- [@deepakb](https://github.com/deepakb)
 
-- [@joshuayannix] (https://github.com/joshuayannix)
+- [@joshuayannix](https://github.com/joshuayannix)
 
 - [@Ibonom](https://github.com/Ibonom)
 
@@ -3383,7 +3384,7 @@
 
 - [@jenstheuns](https://github.com/jenstheuns)
 
-- [@jasonpn] (https://github.com/jasonpn)
+- [@jasonpn](https://github.com/jasonpn)
 
 - [@dnkoziatek](https://github.com/dnkoziatek)
 
@@ -3462,6 +3463,7 @@
 - [@brandon850213](https://github.com/brandon850213)
 
 - [@mresch03](https://github.com/mresch03)
+
 - [denislomos27](https://github.com/denislomos27)
 
 - [Iftee97](https://github.com/Iftee97)
@@ -3497,6 +3499,7 @@
 - [@lam-brian](https://github.com/lam-brian/)
 
 - [@robsondev](https://github.com/robsondev/)
+
 - [@nazimulhossain](https://github.com/nazimulhossain/)
 
 - [@adakeita](https://github.com/adakeita/)
