@@ -23,21 +23,14 @@ const findLcm = (num1, num2) => {
     return 'Please enter whole numbers.'
   }
 
-  let maxNum
-  let lcm
-  // Check to see whether num1 or num2 is larger.
-  if (num1 > num2) {
-    maxNum = num1
-  } else {
-    maxNum = num2
-  }
-  lcm = maxNum
+  // Get the larger number between the two
+  const maxNum = Math.max(num1, num2)
+  let lcm = maxNum
 
   while (true) {
-    if (lcm % num1 === 0 && lcm % num2 === 0) break
+    if (lcm % num1 === 0 && lcm % num2 === 0) return lcm
     lcm += maxNum
   }
-  return lcm
 }
 
 export { findLcm }
