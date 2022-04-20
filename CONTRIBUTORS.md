@@ -3506,3 +3506,5 @@
 -[@denis11m](https://github.com/denis11m/)
 
 -[@KevinMaida](https://github.com/KevinMaida/)
+
+-[@tedzregor](https://github.com/tedzregor/)
