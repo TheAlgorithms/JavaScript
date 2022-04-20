@@ -48,67 +48,8 @@ function binarySearchIterative (arr, x, low = 0, high = arr.length - 1) {
   // if low > high => we have searched the whole array without finding the item
   return -1
 }
-function binarySearchIterativeAlternative (arr, x) {
-  let low = -1
-  let high = arr.length
-  while (low < high - 1) {
-    const mid = Math.floor((low + high) / 2)
-    if (arr[mid] < x) {
-      low = mid
-    } else {
-      high = mid
-    }
-  }
-  return arr[high] === x ? high : -1
-}
 
 export {
   binarySearchIterative,
-  binarySearchIterativeAlternative,
   binarySearchRecursive
 }
-
-/* ---------------------------------- Test ---------------------------------- */
-
-// const arr = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-// const stringArr = [
-//   'Alpha',
-//   'Bravo',
-//   'Charlie',
-//   'Delta',
-//   'Echo',
-//   'Foxtrot',
-//   'Golf',
-//   'Hotel',
-//   'India',
-//   'Juliet',
-//   'Kilo',
-//   'Lima',
-//   'Mike',
-//   'November',
-//   'Oscar',
-//   'Papa',
-//   'Quebec',
-//   'Romeo',
-//   'Sierra',
-//   'Tango',
-//   'Uniform',
-//   'Victor',
-//   'Whiskey',
-//   'X-Ray',
-//   'Yankee',
-//   'Zulu'
-// ]
-
-// binarySearchRecursive(arr, 3)
-// binarySearchIterative(arr, 7)
-// binarySearchRecursive(arr, 13)
-// binarySearchIterative(stringArr, 'Charlie')
-// binarySearchRecursive(stringArr, 'Zulu')
-// binarySearchIterative(stringArr, 'Sierra')
-// binarySearchIterativeAlternative(arr, 3)
-// binarySearchIterativeAlternative(arr, 7)
-// binarySearchIterativeAlternative(arr, 13)
-// binarySearchIterativeAlternative(stringArr, 'Charlie')
-// binarySearchIterativeAlternative(stringArr, 'Zulu')
-// binarySearchIterativeAlternative(stringArr, 'Sierra')
