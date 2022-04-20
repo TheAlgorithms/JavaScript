@@ -52,11 +52,13 @@ function binarySearchIterativeAlternative (arr, x) {
   let low = -1
   let high = arr.length
   while (low < high - 1) {
-    const half = Math.floor((low + high) / 2)
-    // arr[half] === x => low = half else high = half
-    arr[half] < x ? (low = half) : (high = half)
+    const mid = Math.floor((low + high) / 2)
+    if (arr[mid] < x) {
+      low = mid
+    } else {
+      high = mid
+    }
   }
-  // if arr[high] === x => return high else return -1
   return arr[high] === x ? high : -1
 }
 
