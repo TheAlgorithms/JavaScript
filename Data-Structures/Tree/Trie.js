@@ -18,7 +18,7 @@ function Trie () {
 Trie.findAllWords = function (root, word, output) {
   if (root === null) return
   if (root.count > 0) {
-    if (typeof output === 'object') { output.push({ word: word, count: root.count }) }
+    if (typeof output === 'object') { output.push({ word, count: root.count }) }
   }
   let key
   for (key in root.children) {

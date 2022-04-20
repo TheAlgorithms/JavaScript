@@ -18,7 +18,7 @@ function plotLine (label, points, width, height) {
     type: 'scatter',
     data: {
       datasets: [{
-        label: label,
+        label,
         data: points,
         showLine: true,
         fill: false,
