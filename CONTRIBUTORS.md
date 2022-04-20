@@ -3510,3 +3510,8 @@
 -[@tedzregor](https://github.com/tedzregor/)
 
 -[@Triple-V8](https://github.com/Triple-V8/)
+
+-[@Simeonov11](https://github.com/Simeonov11/)
+
+-[@vshal39](https://github.com/vshal39/)
+
