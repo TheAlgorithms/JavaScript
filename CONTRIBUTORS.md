@@ -3455,7 +3455,7 @@
 
 - [@mrCreese](https://github.com/mrCreese/)
 
-- [@SenjuSama2012] (https://github.com/SenjuSama2012)
+- [@SenjuSama2012](https://github.com/SenjuSama2012)
 
 - [@YuvanDeb0](https://github.com/YuvanDeb0)
 
@@ -3476,9 +3476,9 @@
 
 - [CyberBoyAyush](https://github.com/cyberboyayush)
 
-- [kabirbapson] (https://github.com/kabirbapson)
+- [kabirbapson](https://github.com/kabirbapson)
 
-- [@shivesh-ranjan] (https://github.com/shivesh-ranjan)
+- [@shivesh-ranjan](https://github.com/shivesh-ranjan)
 
 - [@SunilKumarYadav1991](https://github.com/SunilKumarYadav1991)
 
@@ -3499,18 +3499,18 @@
 - [@robsondev](https://github.com/robsondev/)
 - [@nazimulhossain](https://github.com/nazimulhossain/)
 
--[@adakeita](https://github.com/adakeita/)
+- [@adakeita](https://github.com/adakeita/)
 
--[@yasht-twri2k1](https://github.com/yasht-twri2k1/)
+- [@yasht-twri2k1](https://github.com/yasht-twri2k1/)
 
--[@denis11m](https://github.com/denis11m/)
+- [@denis11m](https://github.com/denis11m/)
 
--[@KevinMaida](https://github.com/KevinMaida/)
+- [@KevinMaida](https://github.com/KevinMaida/)
 
--[@tedzregor](https://github.com/tedzregor/)
+- [@tedzregor](https://github.com/tedzregor/)
 
--[@Simeonov11](https://github.com/Simeonov11/)
+- [@Simeonov11](https://github.com/Simeonov11/)
 
--[@vshal39](https://github.com/vshal39/)
+- [@vshal39](https://github.com/vshal39/)
 
--[@raymondkneipp](https://github.com/raymondkneipp/)
+- [@raymondkneipp](https://github.com/raymondkneipp/)
