@@ -67,6 +67,7 @@
   * Graph
     * [Graph](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Graph/Graph.js)
     * [Graph2](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Graph/Graph2.js)
+    * [Graph3](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Graph/Graph3.js)
   * Heap
     * [MaxHeap](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Heap/MaxHeap.js)
     * [MinHeap](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Heap/MinHeap.js)
@@ -157,6 +158,7 @@
   * [CheckKishnamurthyNumber](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/CheckKishnamurthyNumber.js)
   * [Coordinate](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/Coordinate.js)
   * [CoPrimeCheck](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/CoPrimeCheck.js)
+  * [DecimalExpansion](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/DecimalExpansion.js)
   * [DecimalIsolate](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/DecimalIsolate.js)
   * [DegreeToRadian](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/DegreeToRadian.js)
   * [EulerMethod](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/EulerMethod.js)
