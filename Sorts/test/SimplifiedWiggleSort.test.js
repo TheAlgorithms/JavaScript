@@ -1,7 +1,7 @@
 import { simplifiedWiggleSort } from '../SimplifiedWiggleSort.js'
 
 describe('simplified wiggle sort', () => {
-  test('given array of symbols [\'b\', \'a\', \'c\'] return wiggle sorted array [\'a\', \'c\', \'b\']', () => {
+  test('simplified wiggle sort for chars', () => {
     const src = ['a', 'b', 'c']
     expect(simplifiedWiggleSort(src)).toEqual(['a', 'c', 'b'])
   })
@@ -16,13 +16,8 @@ describe('simplified wiggle sort', () => {
     expect(simplifiedWiggleSort(src)).toEqual([1, 4, 1, 2, 1])
   })
 
-  test('simplified wiggle sort for [3, 5, 6, 1]', () => {
-    const src = [3, 5, 6, 1]
-    expect(simplifiedWiggleSort(src)).toEqual([3, 6, 1, 5])
-  })
-
-  test('simplified wiggle sort for [3, 3, 5, 1] (equal values next to ' +
-    'each other can not be avoided in simplified version)', () => {
+  test('simplified wiggle sort wich leads to equal values next to ' +
+    'each other', () => {
     const src = [3, 3, 5, 1]
     expect(simplifiedWiggleSort(src)).toEqual([1, 5, 3, 3])
   })
