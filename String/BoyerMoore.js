@@ -26,11 +26,10 @@ const boyerMoore = (str, pattern) => {
   const badMatchTable = buildBadMatchTable(pattern)
   let offset = 0
   const patternLastIndex = pattern.length - 1
-  let scanIndex = patternLastIndex
   const maxOffset = str.length - pattern.length
   // if the offset is bigger than maxOffset, cannot be found
   while (offset <= maxOffset) {
-    scanIndex = 0
+    let scanIndex = 0
     while (pattern[scanIndex] === str[scanIndex + offset]) {
       if (scanIndex === patternLastIndex) {
         // found at this index
