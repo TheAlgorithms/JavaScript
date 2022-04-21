@@ -1,17 +1,12 @@
 import { factorialize } from '../WhileLoopFactorial'
 
-test('Testing on 3!', () => {
-  expect(factorialize(3)).toBe(6)
-})
+function testFactorial(n, expected) {
+  test('Testing on ' + n + '!', () => {
+    expect(factorialize(n)).toBe(expected)
+  })
+}
 
-test('Testing on 7!', () => {
-  expect(factorialize(7)).toBe(5040)
-})
-
-test('Testing on 0!', () => {
-  expect(factorialize(0)).toBe(1)
-})
-
-test('Testing on 12!', () => {
-  expect(factorialize(12)).toBe(479001600)
-})
+testFactorial(3, 6)
+testFactorial(7, 5040)
+testFactorial(0, 1)
+testFactorial(12, 479001600)
