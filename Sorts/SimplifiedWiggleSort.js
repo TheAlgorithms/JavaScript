@@ -7,7 +7,7 @@
  */
 import { quickSelectSearch } from '../Search/QuickSelectSearch.js'
 
-export const wiggleSort = function (arr) {
+export const simplifiedWiggleSort = function (arr) {
   // find Median using QuickSelect
   let median = quickSelectSearch(arr, Math.floor(arr.length / 2.0))
   median = median[Math.floor(arr.length / 2.0)]
@@ -39,13 +39,13 @@ export const wiggleSort = function (arr) {
 
 // Implementation of wiggle sort
 
-// console.log(wiggleSort([3, 5, 2, 1, 6, 4]))
+// console.log(simplifiedWiggleSort([3, 5, 2, 1, 6, 4]))
 // [ 3, 5, 2, 6, 1, 4 ]
-// console.log(wiggleSort([3, 5, 2, 2, 0, 2]))
+// console.log(simplifiedWiggleSort([3, 5, 2, 2, 0, 2]))
 //  [ 0, 5, 2, 3, 2, 2 ]
-// console.log(wiggleSort([1, 1, 1, 2, 2]))
+// console.log(simplifiedWiggleSort([1, 1, 1, 2, 2]))
 // [ 1, 2, 1, 2, 1 ]
-// console.log(wiggleSort([1, 1, 2, 2, 2]))
+// console.log(simplifiedWiggleSort([1, 1, 2, 2, 2]))
 // [ 1, 2, 1, 2, 2 ]
-// console.log(wiggleSort([3, 5, 6, 1]))
+// console.log(simplifiedWiggleSort([3, 5, 6, 1]))
 // [ 3, 6, 1, 5 ]
