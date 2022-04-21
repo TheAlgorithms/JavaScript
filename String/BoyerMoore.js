@@ -36,7 +36,7 @@ const boyerMoore = (str, pattern) => {
         // found at this index
         return offset
       }
-    scanIndex++
+      scanIndex++
     }
     const badMatchString = str[offset + patternLastIndex]
     if (badMatchTable[badMatchString]) {
