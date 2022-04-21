@@ -6,7 +6,7 @@ export const factorialize = (num) => {
   let result = 1
   // Step 2. WHILE loop
   while (num > 1) {
-    result = result * num // or result = result * num;
+    result *= num // or result = result * num;
     num-- // decrement 1 at each iteration
   }
   // Step 3. Return the factorial
