@@ -1,4 +1,4 @@
- /*
+/*
  *
  *
  *Implementation of the Boyer-Moore String Search Algo.
@@ -11,24 +11,24 @@
  *
  **/
 const buildBadMatchTable = (str) => {
-  let tableObj = {};
-  let strLength = str.length;
-  for (var i = 0; i < strLength - 1; i++) {
-      tableObj[str[i]] = strLength - 1 - i;
+  const tableObj = {};
+  const strLength = str.length;
+  for (let i = 0; i < strLength - 1; i++) {
+    tableObj[str[i]] = strLength - 1 - i;
   }
-  if (tableObj[str[strLength-1]] == undefined) {
-      tableObj[str[strLength-1]] = strLength;
+  if (tableObj[str[strLength - 1]] === undefined) {
+    tableObj[str[strLength - 1]] = strLength;
   }
   return tableObj;
 }
 
 
-let boyerMoore = (str, pattern)=> {
-  var badMatchTable = buildBadMatchTable(pattern),
-  offset = 0,
-  patternLastIndex = pattern.length - 1,
-  scanIndex = patternLastIndex,
-  maxOffset = str.length - pattern.length;
+const boyerMoore = (str, pattern) => {
+  let badMatchTable = buildBadMatchTable(pattern);
+  let offset = 0;
+  let patternLastIndex = pattern.length - 1;
+  let scanIndex = patternLastIndex;
+  let maxOffset = str.length - pattern.length;
   // if the offset is bigger than maxOffset, cannot be found
   while (offset <= maxOffset) {
   scanIndex = 0;
@@ -39,7 +39,7 @@ let boyerMoore = (str, pattern)=> {
   }
   scanIndex++;
   }
-  var badMatchString = str[offset + patternLastIndex];
+  const badMatchString = str[offset + patternLastIndex];
   if (badMatchTable[badMatchString]) {
   // increase the offset if it exists
     offset += badMatchTable[badMatchString]
@@ -49,10 +49,4 @@ let boyerMoore = (str, pattern)=> {
   }
   return -1;
 }
-export {boyerMoore}
-
-
-
-
-
-
+export { boyerMoore }
