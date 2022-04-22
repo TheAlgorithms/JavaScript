@@ -1,10 +1,9 @@
 /*
  *
  *
- *Implementation of the Boyer-Moore String Search Algo.
+ *Implementation of the Boyer-Moore String Search Algorithm.
  *The Boyer–Moore string search algorithm allows linear time in
- *      search by skipping
- *      indices when searching inside a string for a pattern.
+ *search by skipping indices when searching inside a string for a pattern.
  *
  *
  *
@@ -39,10 +38,10 @@ const boyerMoore = (str, pattern) => {
     }
     const badMatchString = str[offset + patternLastIndex]
     if (badMatchTable[badMatchString]) {
-    // increase the offset if it exists
+      // increase the offset if it exists
       offset += badMatchTable[badMatchString]
     } else {
-      offset += 1
+      offset ++
     }
   }
   return -1
