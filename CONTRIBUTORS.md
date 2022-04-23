@@ -3464,15 +3464,7 @@
 
 - [@mresch03](https://github.com/mresch03)
 
-<<<<<<< HEAD
-
 - [denislomos27](https://github.com/denislomos27)
-
-||||||| 2193b14f7
-
-=======
-
->>>>>>> bcf8ac30a4993e206a45012dbbdb7818703c208a
 
 - [@enislomos27](https://github.com/denislomos27)
 
@@ -3557,5 +3549,9 @@
 - [@junichi-source](https://github.com/junichi-source/)
 
 - [@chetan2332](https://github.com/chetan2332/)
+
+- [@junichi-source](https://github.com/junichi-source/)
+
+- [@ppattamasaevi](https://github.com/ppattamasaevi/)
 
 - [@calderonvasquez](<https://github.com/calderonvasquez/>)
