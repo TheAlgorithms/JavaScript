@@ -3474,6 +3474,10 @@
 
 - [@evanomaly](https://github.com/devanomaly)
 
+- [@britolliver](https://github.com/britolliver)
+
+- [Cerebrovinny](https://github.com/Cerebrovinny)
+
 - [@louderthanthunderx1](https://github.com/louderthanthunderx1)
 
 - [@yberBoyAyush](https://github.com/cyberboyayush)
