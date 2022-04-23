@@ -41,7 +41,7 @@ const boyerMoore = (str, pattern) => {
       // increase the offset if it exists
       offset += badMatchTable[badMatchString]
     } else {
-      offset ++
+      offset++
     }
   }
   return -1
