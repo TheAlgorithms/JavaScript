@@ -3544,6 +3544,8 @@
 
 - [@freshqt](https://github.com/freshqt/)
 
+- [@bcolovas](https://github.com/bcolovas)
+
 - [@jinalgoyani](https://github.com/jinalgoyani/)
 
 - [@junichi-source](https://github.com/junichi-source/)
