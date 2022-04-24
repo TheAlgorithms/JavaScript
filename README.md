@@ -51,7 +51,7 @@ We don't care if you break things. This is a playground and we encourage failing
     
     ```bash
     git branch <branch-name>
-    git checkout <branch-name>
+    git switch <branch-name>
     ```
 
 
