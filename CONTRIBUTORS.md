@@ -3424,6 +3424,8 @@
 
 - [@erickbey](https://github.com/erickbey)
 
+- [@Kephass](https://github.com/Kephass)
+
 - [@Prishasureja](https://github.com/Prishasureja)
 
 - [@superNovaScript](https://github.com/superNovaScript)
@@ -3569,5 +3571,9 @@
 - [@vinodkotagiri](<https://github.com/vinodkotagiri/>)
 
 - [@toni123321] (https://github.com/toni123321)
+
+- [@Mejia-Luke] (https://github.com/Mejia-Luke)
+
+-[@dflo55](https://github.com/dflo55/)
 
 -[@vivian-sam] (https://github.com/vivian-sam)
