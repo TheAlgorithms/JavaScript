@@ -16,7 +16,7 @@ describe('simplified wiggle sort', () => {
     expect(simplifiedWiggleSort(src)).toEqual([1, 4, 1, 2, 1])
   })
 
-  test('simplified wiggle sort wich leads to equal values next to ' +
+  test('simplified wiggle sort which leads to equal values next to ' +
     'each other', () => {
     const src = [3, 3, 5, 1]
     expect(simplifiedWiggleSort(src)).toEqual([1, 5, 3, 3])
