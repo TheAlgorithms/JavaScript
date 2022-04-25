@@ -6,7 +6,11 @@ function testZeller (day, month, year, expected) {
   })
 }
 
-expect(zellersCongruenceAlgorithm('this', 'should', 'error').toThrowError(new TypeError('Arguments are not all numbers.')))
+test('Testing on this/should/throw', () => {
+  expect(() => {
+    zellersCongruenceAlgorithm('this', 'should', 'error')
+  }).toThrow(new TypeError('Arguments are not all numbers.'))
+})
 testZeller(25, 1, 2013, 'Friday')
 testZeller(26, 1, 2013, 'Saturday')
 testZeller(16, 4, 2022, 'Saturday')
