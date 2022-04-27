@@ -1,6 +1,6 @@
 /*
  * Stooge Sort sorts an array based on divide and conquer principle
- * more information: https://en.wikipedia.org/wiki/Shellsort
+ * more information: https://en.wikipedia.org/wiki/Stooge_sort
  *
  */
 export function stoogeSort (items, leftEnd, rightEnd) {
