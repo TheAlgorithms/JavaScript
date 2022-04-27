@@ -42,7 +42,7 @@ export function TopologicalSorter () {
     }
 
     finishingTimeList.push({
-      node: node,
+      node,
       finishTime: ++finishTimeCount
     })
   }

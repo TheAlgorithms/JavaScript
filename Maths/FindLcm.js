@@ -22,15 +22,15 @@ const findLcm = (num1, num2) => {
   if (num1 !== Math.round(num1) || num2 !== Math.round(num2)) {
     return 'Please enter whole numbers.'
   }
-  // Check to see whether num1 or num2 is larger.
+
+  // Get the larger number between the two
   const maxNum = Math.max(num1, num2)
   let lcm = maxNum
 
   while (true) {
-    if (lcm % num1 === 0 && lcm % num2 === 0) break
+    if (lcm % num1 === 0 && lcm % num2 === 0) return lcm
     lcm += maxNum
   }
-  return lcm
 }
 
 export { findLcm }
