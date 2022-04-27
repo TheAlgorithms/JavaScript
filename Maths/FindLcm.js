@@ -22,7 +22,6 @@ const findLcm = (num1, num2) => {
   if (num1 !== Math.round(num1) || num2 !== Math.round(num2)) {
     return 'Please enter whole numbers.'
   }
-    
   // Check to see whether num1 or num2 is larger.
   const maxNum = Math.max(num1, num2)
   let lcm = maxNum
