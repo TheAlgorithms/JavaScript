@@ -1,5 +1,6 @@
 /*
  * Stooge Sort sorts an array based on divide and conquer principle
+ * note the exceptionally bad time complexity
  * more information: https://en.wikipedia.org/wiki/Stooge_sort
  *
  */
@@ -16,6 +17,5 @@ export function stoogeSort (items, leftEnd, rightEnd) {
     stoogeSort(items, leftEnd + third, rightEnd)
     stoogeSort(items, leftEnd, rightEnd - third)
   }
-  console.log(items)
   return items
 }
