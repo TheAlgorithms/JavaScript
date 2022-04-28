@@ -2,8 +2,6 @@ import path from 'path'
 import fs from 'fs'
 import { globby } from 'globby'
 
-const URL_BASE = 'https://github.com/TheAlgorithms/Javascript/blob/master'
-
 function pathPrefix (i) {
   const res = '  '.repeat(i)
   return res + '*'
@@ -12,6 +10,7 @@ function pathPrefix (i) {
 function printPath (oldPath, newPath, output) {
   const oldParts = oldPath.split(path.sep)
   const newParts = newPath.split(path.sep)
+
   for (let i = 0; i < newParts.length; ++i) {
     const newPart = newParts[i]
     if (i + 1 > oldParts.length || oldParts[i] !== newPart) {
@@ -20,6 +19,7 @@ function printPath (oldPath, newPath, output) {
       }
     }
   }
+
   return newPath
 }
 
@@ -32,38 +32,23 @@ function pathsToMarkdown (filePaths) {
     if (a.toLowerCase() > b.toLowerCase()) return 1
     return 0
   })
+
   for (let filepath of filePaths) {
-    const file = filepath.split(path.sep)
-    let filename = ''
-    if (file.length === 1) {
-      filepath = ''
-      filename = file[0]
-    } else {
-      const total = file.length
-      filename = file[total - 1]
-      filepath = file.splice(0, total - 1).join(path.sep)
-    }
+    let filename = path.basename(filepath)
+    filepath = path.dirname(path.sep)
+
     if (filepath !== oldPath) {
       oldPath = printPath(oldPath, filepath, output)
     }
-    let indent = 0
-    for (let i = 0; i < filepath.length; ++i) {
-      if (filepath[i] === path.sep) {
-        ++indent
-      }
-    }
-    if (filepath) {
-      ++indent
-    }
+
+    let indent = filepath.replace(new RegExp(`/[^${path.sep}]/`)).length + 1
 
     // prepare the markdown-esque prefix to the file's line
     const prefix = pathPrefix(indent)
 
     // remove extension from filename
-    const name = filename.split('.')[0]
-
-    // create URL to the actual file on github
-    const url = encodeURI([URL_BASE, filepath, filename].join('/'))
+    const name = path.basename(filename, ".js")
+    const url = path.join(filepath, filename)
 
     output.push(`${prefix} [${name}](${url})`)
   }
