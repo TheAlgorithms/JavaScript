@@ -79,6 +79,7 @@ function pathsToMarkdown (filePaths) {
 globby([
   '**/*.js',
   '!(node_modules|.github)/**/*',
+  "!**/test/**/*",
   '!**/*.test.js',
   '!**/*.manual-test.js',
   '!babel.config.js'
