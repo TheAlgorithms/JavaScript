@@ -5,12 +5,8 @@ import { globby } from 'globby'
 const URL_BASE = 'https://github.com/TheAlgorithms/Javascript/blob/master'
 
 function pathPrefix (i) {
-  if (i) {
-    const res = '  '.repeat(i)
-    return res + '*'
-  } else {
-    return '\n##'
-  }
+  const res = '  '.repeat(i)
+  return res + '*'
 }
 
 function printPath (oldPath, newPath, output) {
