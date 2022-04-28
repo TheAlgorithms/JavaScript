@@ -41,7 +41,7 @@ function pathsToMarkdown (filePaths) {
       oldPath = printPath(oldPath, filepath, output)
     }
 
-    let indent = filepath.replace(new RegExp(`/[^${path.sep}]/`)).length + 1
+    let indent = filepath.split(path.sep).length - 1
 
     // prepare the markdown-esque prefix to the file's line
     const prefix = pathPrefix(indent)
