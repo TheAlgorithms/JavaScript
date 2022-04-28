@@ -3,8 +3,8 @@ name: Update Directory
 
 on:
   push:
-    branches:
-      - master
+    branches-ignore:
+      "master"
 
 jobs:
   updateDirectory:
@@ -22,9 +22,16 @@ jobs:
       - name: 🗄️ Create Directory from JS files
         run: node .github/workflows/UpdateDirectory.mjs
 
-      - name: 🤓 Commit & push new Directory (if needed)
+      - name: Configure Github Action
         run: |
           git config --global user.name github-actions
           git config --global user.email '${GITHUB_ACTOR}@users.noreply.github.com'
-          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/$GITHUB_REPOSITORY
-          .github/workflows/CommitAndPushDirectory.sh
+
+      - name: 🤓 Commit & push new Directory (if needed)
+        run: |
+          if [[ `git status --porcelain` ]]; then
+            git commit -am "Updated Documentation in README.md"
+            git push
+          else
+            echo "NO CHANGES DETECTED"
+          fi

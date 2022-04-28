@@ -35,7 +35,7 @@ function pathsToMarkdown (filePaths) {
 
   for (let filepath of filePaths) {
     let filename = path.basename(filepath)
-    filepath = path.dirname(path.sep)
+    filepath = path.dirname(filepath)
 
     if (filepath !== oldPath) {
       oldPath = printPath(oldPath, filepath, output)
