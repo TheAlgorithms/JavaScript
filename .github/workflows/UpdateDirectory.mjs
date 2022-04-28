@@ -15,7 +15,7 @@ function printPath (oldPath, newPath, output) {
     const newPart = newParts[i]
     if (i + 1 > oldParts.length || oldParts[i] !== newPart) {
       if (newPart) {
-        output.push(`${pathPrefix(i)} ${newPart.replace('_', ' ')}`)
+        output.push(`${pathPrefix(i)} **${newPart.replace('_', ' ')}**`)
       }
     }
   }
