@@ -1,7 +1,10 @@
 # This GitHub Action updates the DIRECTORY.md file (if needed) when doing a git push
 name: Update Directory
 
-on: [ push, pull_request ]
+on:
+  push:
+    branches-ignore:
+      "master"
 
 jobs:
   updateDirectory:
