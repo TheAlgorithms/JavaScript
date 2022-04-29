@@ -3605,6 +3605,8 @@
 
 -[@jaymichalek](https://github.com/jaymichalek)
 
+-[@Bradley-Edwin](https://github.com/Bradley-Edwin)
+
 -[@oohlearn](https://github.com/oohlear)
 
 -[@ashuspy](https://github.com/ashuspy)
@@ -3632,3 +3634,15 @@
 -[@DipeshBartaula](https://github.com/DipeshBartaula)
 
 -[@perez11abel](https://github.com/perez11abel/)
+
+-[@isub897](https://github.com/isub897)
+
+-[@TannerBenson-Six](https://github.com/TannerBenson-Six)
+
+-[@999Marv](https://github.com/999Marv)
+
+-[@GrandfatherPurple](https://github.com/GrandfatherPurple)
+
+-[@Okazakee](https://github.com/Okazakee)
+
+- [@kevsely](https://github.com/kevsely/)
