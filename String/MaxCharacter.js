@@ -9,31 +9,28 @@ const maxCharacter = (str, ignorePattern) => { // initially it's count only alph
   if (typeof str !== 'string') {
     throw new TypeError('Argument should be a string')
   } else if (!str) {
-    throw new Error('The param should be a valid string')
+    throw new Error('The param should be a nonempty string')
   }
 
   // store all char in occurrence map
-  const occurrenceMap = [...str].reduce(
-    (map, char) => (
-      !ignorePattern?.test(char)
-        ? map.set(char, map.get(char) + 1 || 1)
-        : map
-    ),
-    new Map()
-  )
+  const occurrenceMap = new Map()
+
+  for (const char of str) {
+    if (!ignorePattern?.test(char)) {
+      occurrenceMap.set(char, occurrenceMap.get(char) + 1 || 1)
+    }
+  }
 
   // find the max char from the occurrence map
-  return [...occurrenceMap.entries()].reduce(
-    (acc, [char, occur]) => {
-      if (occur > acc.occur) {
-        return { char, occur }
-      }
+  let max = { char: '', occur: -Infinity }
 
-      return acc
-    },
-    { char: '', occur: -Infinity }
-  )
-    .char // return the maximum char
+  for (const [char, occur] of occurrenceMap) {
+    if (occur > max.occur) {
+      max = { char, occur }
+    }
+  }
+
+  return max.char
 }
 
 export default maxCharacter
