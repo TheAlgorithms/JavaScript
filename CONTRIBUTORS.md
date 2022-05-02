@@ -3678,3 +3678,5 @@
 
 -[@mattespoz] (https://github.com/MattEspoz/)
 - [@rubiin](https://github.com/rubiin)
+
+- [@therealsylaucoin](https://github.com/therealsylaucoin)
