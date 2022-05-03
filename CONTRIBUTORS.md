@@ -3680,3 +3680,5 @@
 - [@rubiin](https://github.com/rubiin)
 
 - [@therealsylaucoin](https://github.com/therealsylaucoin)
+
+- [@BrandonGriffith](https://github.com/BrandonGriffith)
