@@ -1,5 +1,3 @@
-# Welcome to the JavaScript community
-
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/from-referrer/)&nbsp;[know more](https://www.gitpod.io/docs/pull-requests/)
 
 ### Describe your change:
