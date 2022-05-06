@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@ibtehaz](https://github.com/ibtehaz)
+
 - [@jrleijnse](https://github.com/jrleijnse)
 
 - [@Milan Sachani](https://github.com/milan-960)
@@ -3693,8 +3695,34 @@
 
 - [@happi89](https://github.com/happi89)
 
-
-- [@GregWebDev(https://github.com/GregWebDev)
+- [@GregWebDev](https://github.com/GregWebDev)
 
 - [@evropa](https://github.com/evropa)
 
+- [@GilbertDaniel](https://github.com/GilbertDaniel)
+
+- [@HaileyByun](https://github.com/HaileyByun)
+
+- [@PrinceNwaonicha](https://github.com/PrinceNwaonicha)
+
+- [@Mikandex](https://github.com/Mikandex)
+
+- [@Raman0925](https://github.com/Raman0925)
+
+- [@RiteshBisht12](https://github.com/RiteshBisht12)
+
+- [@daxen98](https://github.com/daxen98)
+
+- [@unpoint](https://github.com/unpoint)
+
+- [@alaa-sabil-it](https://github.com/alaa-sabil-it)
+
+- [@averde1973](https://github.com/averde1973)
+
+- [@jleemccaslin](https://github.com/jleemccaslin)
+
+- [@kos3126](https://github.com/kos3126)
+
+- [Linnypoah](https://github.com/Linnypoah)
+
+- [@Andy-lifan](https://github.com/Andy-lifan)
