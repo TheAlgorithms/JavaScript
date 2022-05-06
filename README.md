@@ -18,21 +18,25 @@ JavaScript Repository of TheAlgorithms, which implements various algorithms and 
 
 ---
 
+<!-- Disclaimer -->
+
+<h4 align="center">
+  These implementations are for demonstrative purposes only. Dedicated implementations of these algorithms and data
+  structures are much better for performance and security reasons. We also do not provide any api stability guarantee.
+</h4>
+
+---
+
 <!-- Body -->
 
-**These are for demonstration purposes only. There are many implementations of sorts in the JavaScript standard library
-that are much better for performance and security reasons. We also do not provide any api stability guarantee.**
-
 Before contributing to this repository, make sure to read our [Contribution Guidelines](CONTRIBUTING.md). You can look
-at other [TheAlgorithms Repositories][repositories] or the [issues with a
-`help wanted` label][help-wanted] for inspiration regarding what to implement. Our maintainers will guide you through
-how to make your contribution properly.
+at other [TheAlgorithms Repositories][repositories] or the [issues with a "help wanted" label][help-wanted] for
+inspiration regarding what to implement. Our maintainers will guide you through how to make your contribution properly
+if you make any mistakes. The names of the maintainers of this repository is listed in the [CODEOWNERS](.github/CODEOWNERS)
+file.
 
-The names of the maintainers of this repository is listed in the [CODEOWNERS](.github/CODEOWNERS) file.
-
-You can find a list of the algorithms currently in the repository in the [directory](DIRECTORY.md).
-
-Explanations of many of the algorithms can be found in out [wiki][explanation].
+You can find a list of the algorithms currently in the repository in the [directory](DIRECTORY.md). Explanations of
+many of the algorithms can be found in the [wiki][explanation].
 
 ---
 
