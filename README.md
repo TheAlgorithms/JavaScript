@@ -5,7 +5,7 @@ JavaScript Repository of TheAlgorithms, which implements various algorithms and 
 
 <div align="center">
 
-  [![JavasScript Banner][banner]](DIRECTORY.md)
+  [![JavaScript Banner][banner]](DIRECTORY.md)
 
   [![Language grade: JavaScript][grade]][lgtm]
   [![Checks][checks]][actions]
