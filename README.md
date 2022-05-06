@@ -2,14 +2,14 @@
 
 JavaScript Repository of TheAlgorithms, which implements various algorithms and data structures in JavaScript.
 
-![JavasScript Banner](https://user-images.githubusercontent.com/68542775/167072911-dc31eac8-6885-4a05-9c25-279ecce22a79.png)
+![JavasScript Banner][banner]
 
-[![Contributions Welcome](https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3&style=flat-square)](CONTRIBUTING.md)
-[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/TheAlgorithms/Javascript.svg?logo=lgtm&logoWidth=18&style=flat-square)](lgtm)
-![Node CI](https://github.com/TheAlgorithms/Javascript/workflows/Node%20CI/badge.svg)
-[![Discord chat](https://img.shields.io/discord/808045925556682782.svg?logo=discord&colorB=7289DA&style=flat-square)](discord-server)
-![Repository Size](https://img.shields.io/github/repo-size/TheAlgorithms/Javascript.svg?label=Repo%20size&style=flat-square)
-[![standard.js](https://img.shields.io/badge/code%20style-standardjs-%23f3df49)](standard-js)
+[![Contributions Welcome][welcome]](CONTRIBUTING.md)
+[![Language grade: JavaScript][grade]][lgtm]
+![Node CI][node-ci]
+[![Discord chat][chat]][discord-server]
+![Repository Size][repo-size]
+[![standard.js][standard-logo]][standard-js]
 
 <hr>
 
@@ -17,20 +17,28 @@ JavaScript Repository of TheAlgorithms, which implements various algorithms and 
 that are much better for performance and security reasons. We also do not provide any api stability guarantee.**
 
 Before contributing to this repository, make sure to read our [Contribution Guidelines](CONTRIBUTING.md). You can look
-at other [TheAlgorithms Repositories](repositories) or the [issues with a
-`help wanted` label](help-wanted) for inspiration regarding what to implement. Our maintainers will guide you through
+at other [TheAlgorithms Repositories][repositories] or the [issues with a
+`help wanted` label][help-wanted] for inspiration regarding what to implement. Our maintainers will guide you through
 how to make your contribution properly.
 
 The names of the maintainers of this repository is listed in the [CODEOWNERS](.github/CODEOWNERS) file.
 
 You can find a list of the algorithms currently in the repository in the [directory](DIRECTORY.md).
 
-Explanations of many of the algorithms can be found in out [wiki](explanation).
+Explanations of many of the algorithms can be found in out [wiki][explanation].
 
 <hr>
 
+[banner]: https://user-images.githubusercontent.com/68542775/167072911-dc31eac8-6885-4a05-9c25-279ecce22a79.png
+
+[welcome]: https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3&style=flat-square
+[grade]: https://img.shields.io/lgtm/grade/javascript/g/TheAlgorithms/Javascript.svg?logo=lgtm&logoWidth=18&style=flat-square
 [lgtm]: https://lgtm.com/projects/g/TheAlgorithms/Javascript/context:javascript
+[node-ci]: https://github.com/TheAlgorithms/Javascript/workflows/Node%20CI/badge.svg
+[chat]: https://img.shields.io/discord/808045925556682782.svg?logo=discord&colorB=7289DA&style=flat-square
 [discord-server]: https://discord.gg/c7MnfGFGa6
+[repo-size]: https://img.shields.io/github/repo-size/TheAlgorithms/Javascript.svg?label=Repo%20size&style=flat-square
+[standard-logo]: https://img.shields.io/badge/code%20style-standardjs-%23f3df49
 [standard-js]: https://standardjs.com/
 
 [repositories]: https://github.com/orgs/TheAlgorithms/repositories
