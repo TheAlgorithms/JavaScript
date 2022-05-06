@@ -2,7 +2,7 @@
 * A Queue is a data structure that allows you to add an element to the end of
 * a list and remove the item at the front. A queue follows a FIFO (First In First Out)
 * system, where the first item to enter the queue is the first to be removed,
-* all these operations complexity are O(1).
+* All these operation complexities are O(1).
 * This implementation following the linked list structure.
 */
 
