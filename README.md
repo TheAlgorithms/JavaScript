@@ -2,6 +2,8 @@
 
 JavaScript Repository of TheAlgorithms, which implements various algorithms and data structures in JavaScript.
 
+<div align="center">
+
 ![JavasScript Banner][banner]
 
 [![Contributions Welcome][welcome]](CONTRIBUTING.md)
@@ -10,6 +12,8 @@ JavaScript Repository of TheAlgorithms, which implements various algorithms and 
 [![Discord chat][chat]][discord-server]
 ![Repository Size][repo-size]
 [![standard.js][standard-logo]][standard-js]
+  
+</div>
 
 ---
 
