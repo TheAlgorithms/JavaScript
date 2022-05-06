@@ -11,7 +11,7 @@ JavaScript Repository of TheAlgorithms, which implements various algorithms and 
 ![Repository Size][repo-size]
 [![standard.js][standard-logo]][standard-js]
 
-<hr>
+---
 
 **These are for demonstration purposes only. There are many implementations of sorts in the JavaScript standard library
 that are much better for performance and security reasons. We also do not provide any api stability guarantee.**
@@ -27,7 +27,7 @@ You can find a list of the algorithms currently in the repository in the [direct
 
 Explanations of many of the algorithms can be found in out [wiki][explanation].
 
-<hr>
+---
 
 [banner]: https://user-images.githubusercontent.com/68542775/167072911-dc31eac8-6885-4a05-9c25-279ecce22a79.png
 
