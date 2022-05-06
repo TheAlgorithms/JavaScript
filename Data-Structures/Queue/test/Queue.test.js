@@ -10,7 +10,7 @@ describe('Testing the Queue DS', () => {
     expect(queue.enqueue(9)).toBe(4)
   })
 
-  it('Testing length method', () => {
+  it('Testing length after enqueue', () => {
     expect(queue.length).toBe(4)
   })
 
@@ -26,6 +26,10 @@ describe('Testing the Queue DS', () => {
   it('Testing dequeue method', () => {
     expect(queue.dequeue()).toBe(1)
     expect(queue.dequeue()).toBe(2)
+  })
+
+  it('Testing length after dequeue', () => {
+    expect(queue.length).toBe(2)
   })
 
   it('Testing isEmpty method', () => {

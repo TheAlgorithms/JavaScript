@@ -57,6 +57,8 @@ class Queue {
       this.tail = null
     }
 
+    this.#size--
+
     return firstData
   }
 
