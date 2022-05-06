@@ -8,7 +8,7 @@ JavaScript Repository of TheAlgorithms, which implements various algorithms and 
 
 [![Contributions Welcome][welcome]](CONTRIBUTING.md)
 [![Language grade: JavaScript][grade]][lgtm]
-![Node CI][node-ci]
+![Checks][checks]
 [![Discord chat][chat]][discord-server]
 ![Repository Size][repo-size]
 [![standard.js][standard-logo]][standard-js]
@@ -38,7 +38,7 @@ Explanations of many of the algorithms can be found in out [wiki][explanation].
 [welcome]: https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3&style=flat
 [grade]: https://img.shields.io/lgtm/grade/javascript/g/TheAlgorithms/Javascript.svg?logo=lgtm&logoWidth=18&style=flat
 [lgtm]: https://lgtm.com/projects/g/TheAlgorithms/Javascript/context:javascript
-[node-ci]: https://github.com/TheAlgorithms/Javascript/workflows/Node%20CI/badge.svg
+[checks]: https://img.shields.io/github/workflow/status/TheAlgorithms/JavaScript/Node%20CI?label=checks
 [chat]: https://img.shields.io/discord/808045925556682782.svg?logo=discord&colorB=7289DA&style=flat
 [discord-server]: https://discord.gg/c7MnfGFGa6
 [repo-size]: https://img.shields.io/github/repo-size/TheAlgorithms/Javascript.svg?label=Repo%20size&style=flat
