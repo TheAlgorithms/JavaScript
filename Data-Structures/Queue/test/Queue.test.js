@@ -1,60 +1,35 @@
 import Queue from '../Queue'
 
 describe('Testing the Queue DS', () => {
-  it('Check Capacity', () => {
-    const queue = new Queue(3)
-    queue.enqueue(1)
-    queue.enqueue(2)
-    queue.enqueue(8)
+  const queue = new Queue()
 
-    expect(() => queue.enqueue(9)).toThrow()
+  it('Testing enqueue method', () => {
+    expect(queue.enqueue(1)).toBe(1)
+    expect(queue.enqueue(2)).toBe(2)
+    expect(queue.enqueue(8)).toBe(3)
+    expect(queue.enqueue(9)).toBe(4)
   })
 
-  it('Check enqueue/dequeue', () => {
-    const queue = new Queue(10)
-    queue.enqueue(1)
-    queue.enqueue(2)
-    queue.enqueue(8)
-    queue.enqueue(9)
-
-    expect(queue.dequeue()).toBe(1)
-    expect(queue.dequeue()).toBe(2)
+  it('Testing length method', () => {
+    expect(queue.length).toBe(4)
   })
 
-  it('Check length', () => {
-    const queue = new Queue(5)
-
-    queue.enqueue(1)
-    queue.enqueue(2)
-    queue.enqueue(8)
-    queue.enqueue(9)
-
-    expect(queue.toArray()).toEqual([1, 2, 8, 9])
-  })
-
-  it('Check peekFirst & peekLast', () => {
-    const queue = new Queue(4)
-
-    queue.enqueue(1)
-    queue.enqueue(2)
-    queue.enqueue(8)
-    queue.enqueue(9)
-
+  it('Testing peekFirst & peekLast methods', () => {
     expect(queue.peekFirst()).toBe(1)
     expect(queue.peekLast()).toBe(9)
   })
 
-  it('Check toArray', () => {
-    const queue = new Queue()
-
-    queue.enqueue(1)
-    queue.enqueue(2)
-    queue.enqueue(8)
-    queue.enqueue(9)
+  it('Testing toArray method', () => {
+    expect(queue.toArray()).toEqual([1, 2, 8, 9])
   })
 
-  it('Check empty', () => {
-    const queue = new Queue(5)
+  it('Testing dequeue method', () => {
+    expect(queue.dequeue()).toBe(1)
+    expect(queue.dequeue()).toBe(2)
+  })
+
+  it('Testing isEmpty method', () => {
+    const queue = new Queue()
     expect(queue.isEmpty()).toBeTruthy()
 
     queue.enqueue(1)

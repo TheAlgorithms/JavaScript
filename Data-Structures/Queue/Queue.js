@@ -9,14 +9,9 @@
 class Queue {
   #size
 
-  constructor (capacity) {
-    if (capacity < 1) {
-      throw new Error('Capacity is not valid')
-    }
-
+  constructor () {
     this.head = null
     this.tail = null
-    this.capacity = capacity
     this.#size = 0
 
     return Object.seal(this)
@@ -32,10 +27,6 @@ class Queue {
    * @returns {number} - The current size of queue
    */
   enqueue (data) {
-    if (this.capacity === this.#size) {
-      throw new RangeError('Queue is full')
-    }
-
     const node = { data, next: null }
 
     if (!this.head && !this.tail) {
