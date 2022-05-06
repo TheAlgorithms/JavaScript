@@ -35,13 +35,13 @@ Explanations of many of the algorithms can be found in out [wiki][explanation].
 
 [banner]: https://user-images.githubusercontent.com/68542775/167072911-dc31eac8-6885-4a05-9c25-279ecce22a79.png
 
-[welcome]: https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3&style=flat-square
-[grade]: https://img.shields.io/lgtm/grade/javascript/g/TheAlgorithms/Javascript.svg?logo=lgtm&logoWidth=18&style=flat-square
+[welcome]: https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3&style=flat
+[grade]: https://img.shields.io/lgtm/grade/javascript/g/TheAlgorithms/Javascript.svg?logo=lgtm&logoWidth=18&style=flat
 [lgtm]: https://lgtm.com/projects/g/TheAlgorithms/Javascript/context:javascript
 [node-ci]: https://github.com/TheAlgorithms/Javascript/workflows/Node%20CI/badge.svg
-[chat]: https://img.shields.io/discord/808045925556682782.svg?logo=discord&colorB=7289DA&style=flat-square
+[chat]: https://img.shields.io/discord/808045925556682782.svg?logo=discord&colorB=7289DA&style=flat
 [discord-server]: https://discord.gg/c7MnfGFGa6
-[repo-size]: https://img.shields.io/github/repo-size/TheAlgorithms/Javascript.svg?label=Repo%20size&style=flat-square
+[repo-size]: https://img.shields.io/github/repo-size/TheAlgorithms/Javascript.svg?label=Repo%20size&style=flat
 [standard-logo]: https://img.shields.io/badge/code%20style-standardjs-%23f3df49
 [standard-js]: https://standardjs.com/
 
