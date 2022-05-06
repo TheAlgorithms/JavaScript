@@ -33,7 +33,7 @@ Explanations of many of the algorithms can be found in out [wiki](explanation).
 [discord-server]: https://discord.gg/c7MnfGFGa6
 [standard-js]: https://standardjs.com/
 
-[repositories]: https://github.com/TheAlgorithms
+[repositories]: https://github.com/orgs/TheAlgorithms/repositories
 [help-wanted]: https://github.com/TheAlgorithms/JavaScript/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22
 [explanation]: https://github.com/TheAlgorithms/JavaScript/wiki
 
