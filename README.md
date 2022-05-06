@@ -5,10 +5,10 @@ JavaScript Repository of TheAlgorithms, which implements various algorithms and 
 
 <div align="center">
 
-  ![JavasScript Banner][banner]
+  [![JavasScript Banner][banner]](DIRECTORY.md)
 
   [![Language grade: JavaScript][grade]][lgtm]
-  ![Checks][checks]
+  [![Checks][checks]][actions]
   [![Contributions Welcome][welcome]](CONTRIBUTING.md)
   [![standard.js][standard-logo]][standard-js]
   [![Discord chat][chat]][discord-server]
@@ -32,8 +32,8 @@ JavaScript Repository of TheAlgorithms, which implements various algorithms and 
 Before contributing to this repository, make sure to read our [Contribution Guidelines](CONTRIBUTING.md). You can look
 at other [TheAlgorithms Repositories][repositories] or the [issues with a "help wanted" label][help-wanted] for
 inspiration regarding what to implement. Our maintainers will guide you through how to make your contribution properly
-if you make any mistakes. The names of the maintainers of this repository is listed in the [CODEOWNERS](.github/CODEOWNERS)
-file.
+if you make any mistakes. The names of the maintainers of this repository is listed in the
+[CODEOWNERS file](.github/CODEOWNERS).
 
 You can find a list of the algorithms currently in the repository in the [directory](DIRECTORY.md). Explanations of
 many of the algorithms can be found in the [wiki][explanation].
@@ -53,6 +53,7 @@ many of the algorithms can be found in the [wiki][explanation].
 <!-- External Links -->
 [standard-js]: https://standardjs.com/
 [discord-server]: https://discord.gg/c7MnfGFGa6
+[actions]: https://github.com/TheAlgorithms/JavaScript/actions
 [explanation]: https://github.com/TheAlgorithms/JavaScript/wiki
 [repositories]: https://github.com/orgs/TheAlgorithms/repositories
 [lgtm]: https://lgtm.com/projects/g/TheAlgorithms/Javascript/context:javascript
