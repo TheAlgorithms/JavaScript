@@ -17,7 +17,7 @@
     "@babel/preset-env": "^7.11.5",
     "atob": "2.1.2",
     "jsdom": "^16.3.0",
-    "node": "^14.13.1",
+    "node": "^16.13.2",
     "node-fetch": "3.1.1"
   },
   "standard": {
@@ -34,5 +34,8 @@
     "husky": "^7.0.4",
     "jest": "^26.4.2",
     "standard": "^16.0.4"
+  },
+  "engines": {
+    "node": ">=16.6.0"
   }
 }

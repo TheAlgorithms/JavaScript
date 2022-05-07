@@ -1,21 +1,21 @@
-import { alphaNumericPlaindrome } from '../AlphaNumericPalindrome'
+import alphaNumericPalindrome from '../AlphaNumericPalindrome'
 
-test('should return true if the given string has alphanumeric characters that are palindrom irrespective of case and symbols', () => {
-  expect(alphaNumericPlaindrome('eye')).toBe(true)
-})
+describe('Testing the alpha numeric palindrome', () => {
+  // should return true if the given string has alphanumeric characters that are palindrome irrespective of case and symbols
+  it('Testing with valid alphabetic palindrome', () => {
+    expect(alphaNumericPalindrome('eye')).toBe(true)
+    expect(alphaNumericPalindrome('Madam')).toBe(true)
+    expect(alphaNumericPalindrome('race CAR')).toBe(true)
+    expect(alphaNumericPalindrome('A man, a plan, a canal. Panama')).toBe(true)
+  })
 
-test('should return true if the given string has alphanumeric characters that are palindrom irrespective of case and symbols', () => {
-  expect(alphaNumericPlaindrome('0_0 (: /-:) 0-0')).toBe(true)
-})
+  it('Testing with number and symbol', () => {
+    expect(alphaNumericPalindrome('0_0 (: /-:) 0-0')).toBe(true)
+    expect(alphaNumericPalindrome('03_|53411435|_30')).toBe(true)
+  })
 
-test('should return true if the given string has alphanumeric characters that are palindrom irrespective of case and symbols', () => {
-  expect(alphaNumericPlaindrome('five|_/|four')).toBe(false)
-})
-
-test('should return true if the given string has alphanumeric characters that are palindrom irrespective of case and symbols', () => {
-  expect(alphaNumericPlaindrome('A man, a plan, a canal. Panama')).toBe(true)
-})
-
-test('should return true if the given string has alphanumeric characters that are palindrom irrespective of case and symbols', () => {
-  expect(alphaNumericPlaindrome('1 eye for of 1 eye.')).toBe(false)
+  it('Testing with alphabets and symbols', () => {
+    expect(alphaNumericPalindrome('five|_/|evif')).toBe(true)
+    expect(alphaNumericPalindrome('five|_/|four')).toBe(false)
+  })
 })
