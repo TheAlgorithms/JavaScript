@@ -21,10 +21,10 @@ const alphaNumericPalindrome = (str) => {
 
   // removing all the special characters and turning everything to lowercase
   const newStr = str.replace(/[^a-z0-9]+/ig, '').toLowerCase()
-  let fromMidIndex = newStr.length >> 1
+  const midIndex = newStr.length >> 1
 
-  while (fromMidIndex--) {
-    if (newStr.at(fromMidIndex) !== newStr.at(~fromMidIndex)) { // ~n = -(n + 1)
+  for (let i = 0; i < midIndex; i++) {
+    if (newStr.at(i) !== newStr.at(~i)) { // ~n = -(n + 1)
       return false
     }
   }
