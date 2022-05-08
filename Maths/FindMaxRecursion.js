@@ -17,18 +17,22 @@
 function findMaxRecursion (arr, left, right) {
   const len = arr.length
 
-  if (len === 0 || !arr) return undefined
+  if (len === 0 || !arr) {
+    return undefined
+  }
 
   if (left >= len || left < -len || right >= len || right < -len) {
     throw new Error('Index out of range')
   }
 
-  if (left === right) return arr[left]
+  if (left === right) {
+    return arr[left]
+  }
 
   // x >> y == floor(x / pow(2, y))
   const mid = (left + right) >> 1
 
-  // Find the maximum of left and right
+  // n >> m is equivalent to floor(n / pow(2, m)), floor(n / 2) in this case
   const leftMax = findMaxRecursion(arr, left, mid)
   const rightMax = findMaxRecursion(arr, mid + 1, right)
 
