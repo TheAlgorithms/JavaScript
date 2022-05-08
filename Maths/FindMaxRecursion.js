@@ -14,17 +14,18 @@
  * @example findMaxRecursion([10, 40, 100, 20]) = 100
  * @example findMaxRecursion([-1, -2, -4, -5]) = -1
  */
-function findMaxRecursion(arr, left, right) {
+function findMaxRecursion (arr, left, right) {
   const len = arr.length
 
   if (len === 0 || !arr) return undefined
 
-  if (left >= len || left < -len || right >= len || right < -len)
+  if (left >= len || left < -len || right >= len || right < -len) {
     throw new Error('Index out of range')
+  }
 
   if (left === right) return arr[left]
 
-  // left + right shifted is the middle index
+  // x >> y == floor(x / pow(2, y))
   const mid = (left + right) >> 1
 
   // Find the maximum of left and right
