@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@jykim11](https://github.com/jykim11)
+
 - [@ibtehaz](https://github.com/ibtehaz)
 
 - [@jrleijnse](https://github.com/jrleijnse)
