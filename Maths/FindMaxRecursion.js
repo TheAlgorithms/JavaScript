@@ -29,10 +29,9 @@ function findMaxRecursion (arr, left, right) {
     return arr[left]
   }
 
-  // x >> y == floor(x / pow(2, y))
+  // n >> m is equivalent to floor(n / pow(2, m)), floor(n / 2) in this case, which is the mid index
   const mid = (left + right) >> 1
-
-  // n >> m is equivalent to floor(n / pow(2, m)), floor(n / 2) in this case
+  
   const leftMax = findMaxRecursion(arr, left, mid)
   const rightMax = findMaxRecursion(arr, mid + 1, right)
 
