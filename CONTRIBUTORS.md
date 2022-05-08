@@ -12,6 +12,8 @@
 
 - [@poirei](https://github.com/poirei)
 
+- [@rawatdev](https://github.com/rawatdev)
+
 - [@sheenagonzalez](https://github.com/sheenagonzalez)
 
 - [@DevTomilola](https://github.com/DevTomilola)
