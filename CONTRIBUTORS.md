@@ -3781,3 +3781,5 @@
 - [@alexlionnel](https://github.com/alexlionnel)
 
 - [@Jamasio](https://github.com/Jamasio)
+
+- [@candicefdev](https://github.com/candicefdev)
