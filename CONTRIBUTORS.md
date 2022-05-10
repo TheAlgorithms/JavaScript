@@ -3765,3 +3765,5 @@
 - [@sergioraya] (https://github.com/sergioraya)
 
 - [@AndreiChetan](https://github.com/AndreiChetan)
+
+- [@Haigos](https://github.com/Haigos)
