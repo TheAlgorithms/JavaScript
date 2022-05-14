@@ -3713,7 +3713,7 @@
 - [@HaileyByun](https://github.com/HaileyByun)
 
 - [@MedusaVM](https://github.com/MedusaVM)
-- 
+-
 - [@PrinceNwaonicha](https://github.com/PrinceNwaonicha)
 
 - [@Mikandex](https://github.com/Mikandex)
@@ -3794,6 +3794,8 @@
 -[@Rhynr](https://github.com/Rhynr)
 
 -[@ammarSweid](https://github.com/ammarSwied)
+
+-[@kpatel1010](https://github.com/kpatel1010)
 
 -[@omerK908](https://github.com/omerK908)
 
