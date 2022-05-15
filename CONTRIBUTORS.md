@@ -3713,7 +3713,7 @@
 - [@HaileyByun](https://github.com/HaileyByun)
 
 - [@MedusaVM](https://github.com/MedusaVM)
-- 
+-
 - [@PrinceNwaonicha](https://github.com/PrinceNwaonicha)
 
 - [@Mikandex](https://github.com/Mikandex)
@@ -3784,6 +3784,27 @@
 
 - [@candicefdev](https://github.com/candicefdev)
 - [@thisisdamilola] (https://github.com/thisisdamilola)
-- [@thisisdamilola] (https://github.com/thisisdamilola)
 - [@raaghavbhyana] (https://github.com/raaghavbhyana)
+- [@jasminetam](https://github.com/jasminetam/)
 
+-[@bryanrillstone](https://github.com/bryanrillstone)
+
+-[@hubert123490](https://github.com/hubert123490)
+
+-[@Rhynr](https://github.com/Rhynr)
+
+-[@ammarSweid](https://github.com/ammarSwied)
+
+-[@kpatel1010](https://github.com/kpatel1010)
+
+-[@omerK908](https://github.com/omerK908)
+
+-[@idrisaleo](https://github.com/idrisaleo)
+
+-[@Flint1101](https://github.com/Flint1101)
+
+-[@Purusharth92](https://github.com/Purusharth92)
+
+-[@J-Exodus](https://github.com/J-Exodus)
+
+-[@ashmuradyann](https://github.com/ashmuradyann)
