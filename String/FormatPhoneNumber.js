@@ -1,7 +1,7 @@
 /**
  * @description - function that takes 10 digits and returns a string of the formatted phone number e.g.: 1234567890 -> (123) 456-7890
  * @param {string} phoneNumber
- * @returns {string} - Formate to (XXX) XXX-XXXX pattern
+ * @returns {string} - Format to -> (XXX) XXX-XXXX pattern
  */
 const formatPhoneNumber = (phoneNumber) => {
   if ((phoneNumber.length !== 10) || isNaN(phoneNumber)) {
