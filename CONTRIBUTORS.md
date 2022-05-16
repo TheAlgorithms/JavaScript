@@ -1,6 +1,6 @@
 # CONTRIBUTORS
 
--[@diegobenitez1204](https://github.com/diegobenitez1204)
+- [@diegobenitez1204](https://github.com/diegobenitez1204)
 
 - [@jykim11](https://github.com/jykim11)
 
@@ -3811,4 +3811,4 @@
 
 -[whit321000](https://github.com/whit3210000)
 
--[ampozzi](https://github.com/ampozzi)
+- [ampozzi](https://github.com/ampozzi)
