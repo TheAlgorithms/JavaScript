@@ -1,4 +1,5 @@
 # CONTRIBUTORS
+-[@kogbuokiri02](https://github.com/kogbuokiri02)
 
 -[@DominicMxrtinez](https://github.com/dominicmxrtinez)
 
