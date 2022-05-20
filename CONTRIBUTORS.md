@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+-[@DominicMxrtinez](https://github.com/dominicmxrtinez)
+
 -[@selvendranks](https://github.com/selvendranks)
 
 -[@diegobenitez1204](https://github.com/diegobenitez1204)
@@ -3841,3 +3843,18 @@
 -[@darkresq14](https://github.com/darkresq14)
 
 -[@Simone-Carriero](https://github.com/Simone-Carriero)
+
+-[@Amber-Robeck](https://github.com/Amber-Robeck)
+
+-[@tolufbg](https://github.com/tolufbg)
+
+-[@FulcrumTunji](https://github.com/FulcrumTunji)
+
+-[@clemcy9](https://github.com/clemcy9)
+
+-[@EddyBautista-93](https://github.com/EddyBautista-93)
+
+-[@yarravalley](https://github.com/yarravalley)
+
+-[@KrsPatrick](https://github.com/KrsPatrick)
+
