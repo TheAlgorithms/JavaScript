@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+-[@DominicMxrtinez](https://github.com/dominicmxrtinez)
+
 -[@selvendranks](https://github.com/selvendranks)
 
 -[@diegobenitez1204](https://github.com/diegobenitez1204)
