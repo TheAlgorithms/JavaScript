@@ -3848,9 +3848,6 @@
 
 -[@FulcrumTunji](https://github.com/FulcrumTunji)
 
-<<<<<<< HEAD
 -[@Mili-Patel](https://github.com/Mili-Patel)
 
-=======
 -[@clemcy9](https://github.com/clemcy9)
->>>>>>> 2a566697cab803200f0f60f4c031b951faefc402
