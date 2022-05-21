@@ -3823,8 +3823,7 @@
 
 -[@diipanshuu](https://github.com/diipanshuu/)
 
--[@MarkHonz](https://github.com/MarkHonz/)
--[@D-Ram1](https://github.com/D-Ram1/)
+-[@MarkHonz](https://github.com/MarkHonz/) -[@D-Ram1](https://github.com/D-Ram1/)
 
 -[@Dimariah](https://github.com/Dimariah/)
 
@@ -3847,3 +3846,5 @@
 -[@tolufbg](https://github.com/tolufbg)
 
 -[@FulcrumTunji](https://github.com/FulcrumTunji)
+
+-[@alistoicakovacs](https://github.com/alistoicakovacs)
