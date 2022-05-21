@@ -3781,7 +3781,7 @@
 
 - [@Thainge](https://github.com/thainge)
 
--[@helloSanmi](https://github.com/helloSanmi)
+- [@helloSanmi](https://github.com/helloSanmi)
 
 - [@alexlionnel](https://github.com/alexlionnel)
 
@@ -3792,13 +3792,13 @@
 - [@raaghavbhyana] (https://github.com/raaghavbhyana)
 - [@jasminetam](https://github.com/jasminetam/)
 
--[@bryanrillstone](https://github.com/bryanrillstone)
+- [@bryanrillstone](https://github.com/bryanrillstone)
 
--[@hubert123490](https://github.com/hubert123490)
+- [@hubert123490](https://github.com/hubert123490)
 
--[@Rhynr](https://github.com/Rhynr)
+- [@Rhynr](https://github.com/Rhynr)
 
--[@ammarSweid](https://github.com/ammarSwied)
+- [@ammarSweid](https://github.com/ammarSwied)
 
 -[@kpatel1010](https://github.com/kpatel1010)
 
@@ -3827,6 +3827,9 @@
 -[@diipanshuu](https://github.com/diipanshuu/)
 
 -[@MarkHonz](https://github.com/MarkHonz/)
+
+-[@rakalantari](https://github.com/rakalantari)
+ 
 -[@D-Ram1](https://github.com/D-Ram1/)
 
 -[@Dimariah](https://github.com/Dimariah/)
