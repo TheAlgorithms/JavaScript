@@ -1,4 +1,7 @@
 # CONTRIBUTORS
+-[@kogbuokiri02](https://github.com/kogbuokiri02)
+
+-[@DominicMxrtinez](https://github.com/dominicmxrtinez)
 
 -[@selvendranks](https://github.com/selvendranks)
 
@@ -3849,3 +3852,23 @@
 -[@FulcrumTunji](https://github.com/FulcrumTunji)
 
 -[@clemcy9](https://github.com/clemcy9)
+
+-[@EddyBautista-93](https://github.com/EddyBautista-93)
+
+-[@yarravalley](https://github.com/yarravalley)
+
+-[@KrsPatrick](https://github.com/KrsPatrick)
+
+-[@AshiqurRah](https://github.com/AshiqurRah)
+
+-[@LordA2117](https://github.com/LordA2117)
+
+-[@bhatdeepika](https://github.com/bhatdeepika)
+
+-[@renandi](https://github.com/renandi)
+
+-[@DavidPolos](https://github.com/DavidPolos)
+
+-[@Hectorlima92](https://github.com/Hectorlima92)
+
+-[@modupeadeonojobi](https://github.com/modupeadeonojobi)
