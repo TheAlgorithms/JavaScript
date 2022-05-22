@@ -1,11 +1,13 @@
 # CONTRIBUTORS
--[@kogbuokiri02](https://github.com/kogbuokiri02)
+- [@dagartga](https://github.com/dagartga)
 
--[@DominicMxrtinez](https://github.com/dominicmxrtinez)
+- [@kogbuokiri02](https://github.com/kogbuokiri02)
 
--[@selvendranks](https://github.com/selvendranks)
+- [@DominicMxrtinez](https://github.com/dominicmxrtinez)
 
--[@diegobenitez1204](https://github.com/diegobenitez1204)
+- [@selvendranks](https://github.com/selvendranks)
+
+- [@diegobenitez1204](https://github.com/diegobenitez1204)
 
 - [@jykim11](https://github.com/jykim11)
 
@@ -3831,7 +3833,7 @@
 -[@theLimaceGuy](https://github.com/theLimaceGuy/)
 
 -[@rakalantari](https://github.com/rakalantari)
- 
+
 -[@D-Ram1](https://github.com/D-Ram1/)
 
 -[@Dimariah](https://github.com/Dimariah/)
