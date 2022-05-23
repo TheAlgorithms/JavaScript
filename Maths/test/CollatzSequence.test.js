@@ -1,4 +1,4 @@
-import { collatz } from '../CollatzConjecture'
+import { collatz } from '../CollatzSequence'
 
 describe('The Collatz Conjecture', () => {
   it('Should be 1', () => {
