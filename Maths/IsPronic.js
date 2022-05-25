@@ -19,7 +19,7 @@
  */
 
 export const isPronic = (number) => {
-  if (number === 0){
+  if (number === 0) {
     return true
   }
   const sqrt = Math.sqrt(number)
