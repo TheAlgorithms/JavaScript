@@ -19,11 +19,13 @@
  */
 
 function isPronic (number) {
+  const sqrt = Math.sqrt(number)
+
   if (number % 2 === 1) {
     return false
   }
 
-  for (let i = 0; i <= Math.sqrt(number); i++) {
+  for (let i = 0; i <= sqrt; i++) {
   // Checking Pronic Number
   // by multiplying consecutive
   // numbers
