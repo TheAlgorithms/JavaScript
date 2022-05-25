@@ -18,12 +18,4 @@
  * @returns {boolean}
  */
 
-function isPronic (number) {
-  if (number % 2 === 1) {
-    return false
-  }
-
-  return Math.ceil(2 * Math.sqrt(number + 1)) - 1 === 1 + Math.floor(2 * Math.sqrt(number))
-}
-
-export { isPronic }
+export const isPronic = (number) => Math.round(Math.sqrt(number + 1)) - Math.round(Math.sqrt(number)) === 1
