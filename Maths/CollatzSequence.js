@@ -1,10 +1,10 @@
 /**
  * @function collatz
- * @description Applies the Collatz Conjecture on a specified number.
- * The Collatz Conjecture states that every natural number will always fall in a 1, 2, 4 loop when iterated under the following function:
+ * @description Applies the Collatz Sequence on a specified number.
+ * The Collatz Sequence states that every natural number will always fall in a 1, 2, 4 loop when iterated under the following function:
  * If the number is even, divide by 2, and if its odd, multiply it by 3 and add 1.
  *
- * @parama {Integer} n The number to apply the Collatz Conjecture to.
+ * @parama {Integer} n The number to apply the Collatz Sequence to.
  *
  * @return An array of steps and the final result..
  *
