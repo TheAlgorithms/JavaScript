@@ -10,7 +10,7 @@ describe('Testing isPronic function', () => {
     const isPronicNumber = isPronic(4)
     expect(isPronicNumber).toBe(false)
   })
-  
+
   it('should return false for odd number', () => {
     const isPronicNumber = isPronic(7)
     expect(isPronicNumber).toBe(false)

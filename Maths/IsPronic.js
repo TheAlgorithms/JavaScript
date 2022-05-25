@@ -19,15 +19,15 @@
  */
 
 function isPronic (number) {
-  if ( number % 2 === 1 ){
+  if (number % 2 === 1) {
     return false
   }
 
-  for (let i = 0; i <= Math.sqrt(number); i++){	
+  for (let i = 0; i <= Math.sqrt(number); i++) {
   // Checking Pronic Number
   // by multiplying consecutive
   // numbers
-    if (number === i * (i + 1)){
+    if (number === i * (i + 1)) {
       return true
     }
   }
