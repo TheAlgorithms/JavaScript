@@ -23,7 +23,7 @@ function isPronic (number) {
     return false
   }
 
-  return Math.ceil(2 * Math.sqrt(number+1)) - 1 === 1 + Math.floor(2 * Math.sqrt(number))
+  return Math.ceil(2 * Math.sqrt(number + 1)) - 1 === 1 + Math.floor(2 * Math.sqrt(number))
 }
 
 export { isPronic }
