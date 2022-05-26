@@ -494,6 +494,8 @@
 
 - [@ImDevFps](https://github.com/ImDevFps)
 
+- [@IndigoW0lf](https://github.com/IndigoW0lf)
+
 - [@Inferneo](https://github.com/Inferneo)
 
 - [@Insidiae](https://github.com/Insidiae)
@@ -2001,6 +2003,8 @@
 - [@inazrabuu](https://github.com/inazrabuu)
 
 - [@incanlove](https://github.com/incanlove)
+
+-[@incanlove](https://github.com/incanlove)
 
 - [@inesreis](https://github.com/inesreis)
 
