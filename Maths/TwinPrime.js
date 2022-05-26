@@ -15,7 +15,7 @@ function isPrime (n) {
 
 function twinPrime (n) {
   const result = []
-  const prime = prime(n)
+  const prime = isPrime(n)
 
   if (!prime) {
     return []
