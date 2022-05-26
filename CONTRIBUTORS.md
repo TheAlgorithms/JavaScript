@@ -3933,3 +3933,5 @@
 -[@jangoscript](https://github.com/jangoscript)
 
 - [@Kaors](https://github.com/Kaors)
+
+- [@magdalenastachova](https://github.com/magdalenastachova)
