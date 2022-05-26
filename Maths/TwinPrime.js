@@ -13,6 +13,14 @@ function isPrime (n) {
   return !prime
 }
 
+/**
+ * @function twinPrime
+ * Gets the 'twin prime' of a prime number.
+ * @returns {Array} Either an array with the original [0], and the twin [1], or an empty array if one of the numbers are not prime.
+ * @see https://en.wikipedia.org/wiki/Twin_prime
+ * @example twinPrime(5) = [5, 7]
+ * @example twinPrime(4) = []
+*/
 function twinPrime (n) {
   const result = []
   const prime = isPrime(n)
