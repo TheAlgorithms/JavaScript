@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@michymichelle](https://github.com/michymichelle)
+
 - [@Amaan262](https://github.com/Amaan262)
 
 - [@byungmin-choi](https://github.com/PhilosopherProgrammer)
