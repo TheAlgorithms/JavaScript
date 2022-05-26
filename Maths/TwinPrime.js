@@ -20,14 +20,16 @@ function twinPrime (n) {
   if (!prime) {
     return []
   }
-  
+
   result.push(n)
-  
+
   if (!isPrime(n + 2)) {
     return []
   }
-  
+
   result.push(n + 2)
-  
+
   return result
 }
+
+export { isPrime, twinPrime }
