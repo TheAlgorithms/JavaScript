@@ -13,13 +13,13 @@ import { PrimeCheck } from './PrimeCheck'
  * @example twinPrime(4) = -1
 */
 function twinPrime (n) {
-  const prime = isPrime(n)
+  const prime = PrimeCheck(n)
 
   if (!prime) {
     return -1
   }
 
-  if (!isPrime(n + 2)) {
+  if (!PrimeCheck(n + 2)) {
     return -1
   }
 
