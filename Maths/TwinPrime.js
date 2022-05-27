@@ -1,43 +1,29 @@
-function isPrime (n) {
-  let prime = false
-
-  if (n > 1) {
-    for (let i = 2; i < n; i++) {
-      if (n % i === 0) {
-        prime = true
-        break
-      }
-    }
-  }
-
-  return !prime
-}
+import { PrimeCheck } from './PrimeCheck'
 
 /**
  * @function twinPrime
  * Gets the 'twin prime' of a prime number.
- * @returns {Array} Either an array with the original [0], and the twin [1], or an empty array if one of the numbers are not prime.
+ * 
+ * @param {Integer} n The number to find the twin prime of.
+ * @returns {Integer} Either the twin, or -1 if n or n + 2 is not prime.
+ *
  * @see https://en.wikipedia.org/wiki/Twin_prime
- * @example twinPrime(5) = [5, 7]
- * @example twinPrime(4) = []
+ *
+ * @example twinPrime(5) = 7
+ * @example twinPrime(4) = -1
 */
 function twinPrime (n) {
-  const result = []
   const prime = isPrime(n)
 
   if (!prime) {
-    return []
+    return -1
   }
-
-  result.push(n)
 
   if (!isPrime(n + 2)) {
-    return []
+    return -1
   }
 
-  result.push(n + 2)
-
-  return result
+  return n + 2
 }
 
-export { isPrime, twinPrime }
+export { twinPrime }
