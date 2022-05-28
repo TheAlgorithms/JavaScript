@@ -2004,8 +2004,6 @@
 
 - [@incanlove](https://github.com/incanlove)
 
--[@incanlove](https://github.com/incanlove)
-
 - [@inesreis](https://github.com/inesreis)
 
 - [@ioghistudio](https://github.com/IoghiStudio)
