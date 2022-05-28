@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@erikbarnes1](https://github.com/erikbarnes1)
+
 - [@michymichelle](https://github.com/michymichelle)
 
 - [@Amaan262](https://github.com/Amaan262)
