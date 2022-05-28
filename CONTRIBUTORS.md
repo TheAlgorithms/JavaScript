@@ -3959,6 +3959,18 @@
 
 - [@Reaper922](https://github.com/Reaper922)
 
+- [@davidagbaeze](https://github.com/davidagbaeze)
+
+- [@avinashraj-151](https://github.com/avinashraj-151)
+
+- [@Aquila-byte](https://github.com/Aquila-byte)
+
+- [@jangoscript](https://github.com/jangoscript)
+
+- [@Kaors](https://github.com/Kaors)
+
+- [@davisnyabwari1](https://github.com/davisnyabwari1)
+
 - [@kippulainen04](https://github.com/kippulainen04)
 
 - [@dishitahz](https://github.com/dishitahz)
