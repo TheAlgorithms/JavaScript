@@ -1964,7 +1964,7 @@
 
 - [@hrushikute](https://github.com/hrushikute)
 
-- [@hsh988](https//github.com/hsh988)
+- [@hsh988](https://github.com/hsh988)
 
 - [@hswootan](https://github.com/hswootan/)
 
@@ -2734,7 +2734,7 @@
 
 - [@seif57](https://github.com/seif57)
 
-- [@seinnlee](https:github.com/seinnlee)
+- [@seinnlee](https://github.com/seinnlee)
 
 - [@sergiodsanchez](https://github.com/sergiodsanchez)
 
@@ -3621,6 +3621,7 @@
 - [@saiteja13427](https://github.com/saiteja13427)
 
 - [@ant4x](https://github.com/ant4x)
+
 - [@Odion-Sonny](https://github.com/Odion-Sonny)
 
 - [@nnam-droid12](https://github.com/nnam-droid12)
@@ -3670,6 +3671,7 @@
 - [@kevsely](https://github.com/kevsely/)
 
 - [@billie-anderson](https://github.com/billie-anderson)
+  
 - [@onionSequences](https://github.com/onionSequences)
 
 - [@St-shaddai](https://github.com/St-shaddai)
@@ -3725,7 +3727,7 @@
 - [@HaileyByun](https://github.com/HaileyByun)
 
 - [@MedusaVM](https://github.com/MedusaVM)
--
+
 - [@PrinceNwaonicha](https://github.com/PrinceNwaonicha)
 
 - [@Mikandex](https://github.com/Mikandex)
@@ -3795,8 +3797,11 @@
 - [@Jamasio](https://github.com/Jamasio)
 
 - [@candicefdev](https://github.com/candicefdev)
+  
 - [@thisisdamilola](https://github.com/thisisdamilola)
+  
 - [@raaghavbhyana](https://github.com/raaghavbhyana)
+  
 - [@jasminetam](https://github.com/jasminetam/)
 
 - [@bryanrillstone](https://github.com/bryanrillstone)
@@ -3962,6 +3967,10 @@
 - [@47evan07](https://github.com/47evan07)
 
 - [@Reaper922](https://github.com/Reaper922)
+  
+- [@kippulainen04](https://github.com/kippulainen04)
+
+- [@stanhenriquez](https://github.com/stanhenriquez)
 
 - [@davidagbaeze](https://github.com/davidagbaeze)
 
