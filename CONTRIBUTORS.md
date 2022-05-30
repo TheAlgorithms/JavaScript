@@ -98,6 +98,8 @@
 
 - [@AjinkyaBhagat](https://github.com/AjinkyaBhagat)
 
+- [@FilipKoci](https://github.com/sos321)
+
 - [@Aksachlisimo](https://github.com/Aksachlisimo/)
 
 - [@Akshay9705](https://github.com/Akshay9705)
