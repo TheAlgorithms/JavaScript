@@ -4004,9 +4004,9 @@
 
 - [@I-AmFED](https://github.com/I-AmFED)
 
--[@xed43](https://github.com/xed43/)
+- [@xed43](https://github.com/xed43/)
 
--[@arnavm7](https://github.com/arnavm7/)
+- [@arnavm7](https://github.com/arnavm7/)
 
 - [@EB-Joel](https://github.com/EB-Joel)
 
@@ -4022,9 +4022,9 @@
 
 - [@leonardotarpani](https://github.com/leonardotrapani)
 
--[@nicolaGenovese](https://github.com/nicolaGenovese)
+- [@nicolaGenovese](https://github.com/nicolaGenovese)
 
--[@kisaga](https://github.com/kisaga)
+- [@kisaga](https://github.com/kisaga)
 
 - [@cricri777](https://github.com/cricri777)
 
