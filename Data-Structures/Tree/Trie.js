@@ -20,8 +20,7 @@ Trie.findAllWords = function (root, word, output) {
   if (root.count > 0) {
     if (typeof output === 'object') { output.push({ word, count: root.count }) }
   }
-  let key
-  for (key in root.children) {
+  for (let key in root.children) {
     word += key
     this.findAllWords(root.children[key], word, output)
     word = word.slice(0, -1)
@@ -36,8 +35,7 @@ Trie.prototype.insert = function (word) {
   }
   let node = this.root
   const len = word.length
-  let i
-  for (i = 0; i < len; i++) {
+  for (let i = 0; i < len; i++) {
     if (node.children[word.charAt(i)] === undefined) { node.children[word.charAt(i)] = new TrieNode(word.charAt(i), node) }
     node = node.children[word.charAt(i)]
   }
@@ -48,9 +46,8 @@ Trie.prototype.findPrefix = function (word) {
   if (typeof word !== 'string') return null
   let node = this.root
   const len = word.length
-  let i
   // After end of this loop node will be at desired prefix
-  for (i = 0; i < len; i++) {
+  for (let i = 0; i < len; i++) {
     if (node.children[word.charAt(i)] === undefined) return null // No such prefix exists
     node = node.children[word.charAt(i)]
   }
