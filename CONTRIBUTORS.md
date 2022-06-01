@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@RajputUsman](https://github.com/rajputusman)
+
 - [@erikbarnes1](https://github.com/erikbarnes1)
 
 - [@michymichelle](https://github.com/michymichelle)
@@ -4040,4 +4042,22 @@
 
 - [@mosesocheje](https://github.com/mosesocheje)
 
+
 - [@sheenilim08(https://github.com/sheenilim08)]
+
+- [@Rowine](https://github.com/Rowine)
+
+- [@Mayuresh](https://github.com/mayureshzende)
+
+- [@Anderson-Justin-Powa](https://github.com/Anderson-Justin-Powa)
+
+- [@IoanaPopovici](https://github.com/IoanaPopovici)
+
+- [@AltF4irl] (https://github.com/AltF4irl)
+
+- [@Tellula](https://github.com/Tellula)
+
+- [@danyventura](https://github.com/danyventura)
+
+-[@SunilBista2001](https://github.com/SunilBista2001)
+
