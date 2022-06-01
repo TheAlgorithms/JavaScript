@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@RajputUsman](https://github.com/rajputusman)
+
 - [@erikbarnes1](https://github.com/erikbarnes1)
 
 - [@michymichelle](https://github.com/michymichelle)
