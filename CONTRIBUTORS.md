@@ -18,6 +18,8 @@
 
 - [@selvendranks](https://github.com/selvendranks)
 
+- [@rchandra20](https://github.com/rchandra20)
+
 - [@YoussefWilliam](https://github.com/YoussefWilliam)
 
 - [@diegobenitez1204](https://github.com/diegobenitez1204)
@@ -4101,4 +4103,10 @@
 
 - [@ShueiYang](https://github.com/ShueiYang)
 
--[@IonutCristian95](https://github.com/IonutCristian95)
+- [@AlbanMuza](https://github.com/AlbanMuza)
+
+- [@Esinnation](https://github.com/Esinnation)
+
+- [@sysdab](https://github.com/sysdab)
+
+- [@gabriyong](https://github.com/gabriyong)
