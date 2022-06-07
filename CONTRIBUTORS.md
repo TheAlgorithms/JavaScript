@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@RickWillcox](https://github.com/RickWillcox)
+
 - [@Abhinav Kashyap](https://github.com/abhinavkashyap061)
 
 - [@RajputUsman](https://github.com/rajputusman)
