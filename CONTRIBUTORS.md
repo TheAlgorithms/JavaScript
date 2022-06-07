@@ -1,5 +1,9 @@
 # CONTRIBUTORS
 
+- [@RickWillcox](https://github.com/RickWillcox)
+
+- [@rahulkarda](https://github.com/rahulkarda)
+
 - [@Abhinav Kashyap](https://github.com/abhinavkashyap061)
 
 - [@RajputUsman](https://github.com/rajputusman)
@@ -3118,6 +3122,8 @@
 
 - [@benedictj](https://github.com/benedictj)
 
+- [theoptimalape](https://github.com/theoptimalape)
+
 - [@vlhsmylv](https://github.com/vlhsmylv)
 
 - [@safar27](https://github.com/safar27)
@@ -4116,5 +4122,13 @@
 -[@ivylive](https://github.com/ivylive)
 
 -**[@wmk5055](https://github.com/wmk5055)**
+
+-[@JatinNarendra](https://github.com/JatinNarendra)
+
+-[@FadiMaher](https://github.com/FadiMaher)
+
+-[@MuhannadBaraghith](https://github.com/MuhannadBaraghith)
+
+-[@Enthr](https://github.com/enthr)
 
 -[@mariodalvarez](https://github.com/MarioDAlvarez)
