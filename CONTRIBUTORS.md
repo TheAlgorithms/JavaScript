@@ -2,6 +2,8 @@
 
 - [@RickWillcox](https://github.com/RickWillcox)
 
+- [@rahulkarda](https://github.com/rahulkarda)
+
 - [@Abhinav Kashyap](https://github.com/abhinavkashyap061)
 
 - [@RajputUsman](https://github.com/rajputusman)
