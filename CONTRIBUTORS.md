@@ -12,6 +12,8 @@
 
 - [@michymichelle](https://github.com/michymichelle)
 
+- [@pelumiolawole](https://github.com/pelumiolawole)
+
 - [@Amaan262](https://github.com/Amaan262)
 
 - [@byungmin-choi](https://github.com/PhilosopherProgrammer)
