@@ -96,6 +96,8 @@
 
 - [@Abhishekbhalekar](https://github.com/Abhishekbhalekar)
 
+- [@Rianto-RNT](https://github.com/Rianto-RNT)
+
 - [@Abucur980](https://github.com/Abucur980)
 
 - [@AdamMzkr](https://github.com/AdamMzkr)
@@ -4154,5 +4156,3 @@
 -[@FantomDX316](https://github.com/FantomDX316)
 
 -[@prumiz](https://github.com/prumiz/)
-
--[@andrealmeida-24](https://github.com/andrealmeida-24)
