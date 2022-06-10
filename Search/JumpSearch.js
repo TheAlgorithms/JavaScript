@@ -31,8 +31,3 @@ const jumpSearch = (arr, value) => {
 }
 
 export { jumpSearch }
-
-// const arr = [0, 0, 4, 7, 10, 23, 34, 40, 55, 68, 77, 90]
-// jumpSearch(arr, 4)
-// jumpSearch(arr, 34)
-// jumpSearch(arr, 77)
