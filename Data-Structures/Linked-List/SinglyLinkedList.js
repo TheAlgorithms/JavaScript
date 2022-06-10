@@ -77,7 +77,6 @@ class LinkedList {
       this.headNode = this.headNode.next
       this.length--
     }
-    console.log(removedNode.data)
     return removedNode?.data
   }
 
