@@ -12,8 +12,6 @@
 
 - [@michymichelle](https://github.com/michymichelle)
 
-- [@pelumiolawole](https://github.com/pelumiolawole)
-
 - [@Amaan262](https://github.com/Amaan262)
 
 - [@byungmin-choi](https://github.com/PhilosopherProgrammer)
@@ -4146,6 +4144,4 @@
 
 -[@IdrissiHamza](https://github.com/idrissi-hamza)
 
--[@GunasekarJabbala](https://github.com/jabbala)
-
--[@thedragonsonmars419](https://github.com/thedragonsonmars419)
+-[@cirstea97](https://github.com/cirstea97)
