@@ -1,5 +1,9 @@
 # CONTRIBUTORS
 
+- [@RickWillcox](https://github.com/RickWillcox)
+
+- [@rahulkarda](https://github.com/rahulkarda)
+
 - [@Abhinav Kashyap](https://github.com/abhinavkashyap061)
 
 - [@RajputUsman](https://github.com/rajputusman)
@@ -7,6 +11,8 @@
 - [@erikbarnes1](https://github.com/erikbarnes1)
 
 - [@michymichelle](https://github.com/michymichelle)
+
+- [@pelumiolawole](https://github.com/pelumiolawole)
 
 - [@Amaan262](https://github.com/Amaan262)
 
@@ -3118,6 +3124,8 @@
 
 - [@benedictj](https://github.com/benedictj)
 
+- [theoptimalape](https://github.com/theoptimalape)
+
 - [@vlhsmylv](https://github.com/vlhsmylv)
 
 - [@safar27](https://github.com/safar27)
@@ -4106,3 +4114,64 @@
 - [@AlbanMuza](https://github.com/AlbanMuza)
 
 - [@skywalkerSam](https://github.com/skywalkerSam)
+
+- [@Esinnation](https://github.com/Esinnation)
+
+- [@sysdab](https://github.com/sysdab)
+
+- [@gabriyong](https://github.com/gabriyong)
+
+-[@IonutCristian95](https://github.com/IonutCristian95)
+
+-[@ivylive](https://github.com/ivylive)
+
+-[@wmk5055](https://github.com/wmk5055)
+
+-[@JatinNarendra](https://github.com/JatinNarendra)
+
+-[@FadiMaher](https://github.com/FadiMaher)
+
+-[@MuhannadBaraghith](https://github.com/MuhannadBaraghith)
+
+-[@Enthr](https://github.com/enthr)
+
+-[@mariodalvarez](https://github.com/MarioDAlvarez)
+
+-[@mauriciomatos96](https://github.com/mauriciomatos96)
+
+-[@Rahul-A-Verma](https://github.com/Rahul-A-Verma)
+
+-[@josemlf](https://github.com/josemlf)
+
+-[@AndrewsHUB](https://github.com/AndrewsHUB)
+-[@TamilRajun](https://github.com/TamilRajun)
+
+-[@IdrissiHamza](https://github.com/idrissi-hamza)
+
+-[@GunasekarJabbala](https://github.com/jabbala)
+
+-[@thedragonsonmars419](https://github.com/thedragonsonmars419)
+
+-[@bhav1k](https://github.com/bhav1k)
+-[@FantomDX316](https://github.com/FantomDX316)
+
+-[@prumiz](https://github.com/prumiz/)
+
+-[@andrealmeida-24](https://github.com/andrealmeida-24)
+
+-[@arwin-dev](https://github.com/arwin-dev)
+
+-[@qassu02](https://github.com/qassu02)
+
+-[@jefersonxavierbf](https://github.com/jefersonxavierbf)
+
+-[@trinib](https://github.com/trinib)
+-[@vineethkumar12](https://github.com/vineethkumar12)
+
+-[@jetsetnofuture](https://github.com/jetsetnofuture)
+
+-[@pritpal20](https://github.com/pritpal20)
+
+- [@RaheemAmer](https://github.com/RaheemAmer)
+- [@gabrielone](https://github.com/gabrielone)
+
