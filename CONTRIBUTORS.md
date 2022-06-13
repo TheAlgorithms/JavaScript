@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@vermilion4](https://github.com/vermilion4)
+
 - [@RickWillcox](https://github.com/RickWillcox)
 
 - [@rahulkarda](https://github.com/rahulkarda)
