@@ -4092,7 +4092,9 @@
 
 -[@savday](https://github.com/savday)
 
--[@Andy2398](https://github.com/Andy2398) -[@mridriss](https://github.com/mridriss)
+-[@Andy2398](https://github.com/Andy2398)
+
+-[@mridriss](https://github.com/mridriss)
 
 -[@premahhh](https://github.com/premahhh)
 
@@ -4211,4 +4213,21 @@
 
 -[@markost96](https://github.com/markost96/)
 
+-[@Deedee1970](https://github.com/Deedee1970/)
+
+-[@ab1608](https://github.com/ab1608)
+
+-[@salmaradni](https://github.com/samialmaradni97)
+
+-[@joeamerson](https://github.com/joeamerson)
+
+-[@mikelammy](https://github.com/mikelammy)
+
+-[@maiagabrielc](https://github.com/maiagabrielc/)
+
+-[@lalysi](https://github.com/lalysi)
+
+-[@RyanAshbaugh](https://github.com/RyanAshbaugh/)
+
 -[@Tk-brainCodes](https://github.com/Tk-brainCodes)
+
