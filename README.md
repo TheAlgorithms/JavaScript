@@ -12,7 +12,7 @@ We don't care if you break things. This is a playground and we encourage failing
 
 2. On the [GitHub page for this repository](https://github.com/zero-to-mastery/start-here-guidelines), click on the Button "Fork".
 
-   ![fork image](https://help.github.com/assets/images/help/repository/fork_button.jpg)
+   ![fork image](https://docs.github.com/assets/cb-28613/images/help/repository/fork_button.png)
 
 3. Clone _your forked repository_ to your computer:
 
