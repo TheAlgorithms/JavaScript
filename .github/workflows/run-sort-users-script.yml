@@ -16,7 +16,7 @@ jobs:
     - name: Sort users
       run: python sort-users.py
     - name: Commit changes
-      run:
+      run: |
         git config --global user.name github-actions
         git config --global user.email github-actions@github.com
         git commit -a -m "(CI) format code"
