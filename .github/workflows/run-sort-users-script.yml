@@ -15,7 +15,11 @@ jobs:
         python-version: 3.9
     - name: Sort users
       run: python sort-users.py
+    - name: Check for changes
+      uses: tj-actions/verify-changed-files@v5.5
+      id: changed_files
     - name: Commit changes
+      if: steps.changed_files.outputs.files_changed == 'true'
       run: |
         git config --global user.name github-actions
         git config --global user.email github-actions@github.com
