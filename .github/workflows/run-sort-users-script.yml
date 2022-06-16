@@ -5,20 +5,16 @@ jobs:
     name: Run sort-users.py
     runs-on: ubuntu-latest
     steps:
-    - name: Pull Repo
-      uses: actions/checkout@v3
-      with:
-        ref: ${{ github.event.pull_request.head.sha }}
     - name: Install Python 3
       uses: actions/setup-python@v2
       with:
         python-version: 3.9
-    - name: Run script
-      run: python sort-users.py
-    - name: Push Back Formatted Code
+    - name: Sort Users
+      uses: actions/checkout@v3
       run: |
+        python sort-users.py
         # configure git
-        git config --global user.name "Zero to Mastery"
-        git config --global user.email "zero-to-mastery@users.noreply.github.com"
+        git config --global user.name github-actions
+        git config --global user.email github-actions@github.com
         git commit -a -m "(CI) format code"
         git push
