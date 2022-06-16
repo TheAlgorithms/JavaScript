@@ -5,15 +5,18 @@ jobs:
     name: Run sort-users.py
     runs-on: ubuntu-latest
     steps:
+    - name: Checkout PR
+      uses: actions/checkout@v3
+      with:
+        fetch-depth: 0
     - name: Install Python 3
       uses: actions/setup-python@v2
       with:
         python-version: 3.9
-    - name: Sort Users
-      uses: actions/checkout@v3
-      run: |
-        python sort-users.py
-        # configure git
+    - name: Sort users
+      run: python sort-users.py
+    - name: Commit changes
+      run:
         git config --global user.name github-actions
         git config --global user.email github-actions@github.com
         git commit -a -m "(CI) format code"
