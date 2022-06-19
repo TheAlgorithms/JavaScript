@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+-[@KaranChandekar](https://github.com/KaranChandekar)
+
 -[@kogbuokiri02](https://github.com/kogbuokiri02)
 
 - [@1181092](https://github.com/1181092/)
