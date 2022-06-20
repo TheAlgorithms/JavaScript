@@ -5,21 +5,24 @@ jobs:
     name: Run sort-users.py
     runs-on: ubuntu-latest
     steps:
-    - name: Pull Repo
+    - name: Checkout PR
       uses: actions/checkout@v2
       with:
-        fetch-depth: 0
         ref: ${{ github.event.pull_request.head.ref }}
+        fetch-depth: 0
     - name: Install Python 3
       uses: actions/setup-python@v2
       with:
         python-version: 3.9
-    - name: Run script
+    - name: Sort users
       run: python sort-users.py
-    - name: Push Back Formatted Code
+    - name: Check for changes
+      uses: tj-actions/verify-changed-files@v5.5
+      id: changed_files
+    - name: Commit changes
+      if: steps.changed_files.outputs.files_changed == 'true'
       run: |
-        # configure git
-        git config --global user.name "Zero to Mastery"
-        git config --global user.email "zero-to-mastery@users.noreply.github.com"
+        git config --global user.name github-actions
+        git config --global user.email github-actions@github.com
         git commit -a -m "(CI) format code"
         git push
