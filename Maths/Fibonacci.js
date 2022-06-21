@@ -9,17 +9,16 @@ const FibonacciIterative = (nth) => {
 
   for (let i = 2; i < nth; i++) {
     sequence.push(
-      sign ?
-      sequence[i - 1] - sequence[i]
-      :
-      sequence[i] + sequence[i - 1]
+      sign
+      ? sequence[i - 1] - sequence[i]
+      : sequence[i] + sequence[i - 1]
     )
   }
 
   return sequence
 }
 
-const FibonacciGenerator = function* (negative) {
+const FibonacciGenerator = function * (negative) {
   let a = 0
   let b = 1
   yield a
@@ -86,10 +85,9 @@ const FibonacciDpWithoutRecursion = (number) => {
   table.push(sgn ? -1 : 1)
   for (let i = 2; i < number; ++i) {
     table.push(
-      sgn ?
-      table[i - 1] - table[i]
-      :
-      table[i] + table[i - 1]
+      sgn
+      ? table[i - 1] - table[i]
+      : table[i] + table[i - 1]
     )
   }
   return table
