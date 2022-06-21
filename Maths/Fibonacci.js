@@ -57,8 +57,8 @@ const FibonacciRecursiveDP = (stairs) => {
   if (dict.has(stairs)) return dict.get(stairs)
 
   const res = sgn
-    ? FibonacciRecursiveDP(stairs - 2) - FibonacciRecursiveDP(stairs - 1)
-    : FibonacciRecursiveDP(stairs - 1) + FibonacciRecursiveDP(stairs - 2)
+    ? FibonacciRecursiveDP(stairs - 1) - FibonacciRecursiveDP(stairs)
+    : FibonacciRecursiveDP(stairs) + FibonacciRecursiveDP(stairs - 1)
 
   dict.set(stairs, res)
 
