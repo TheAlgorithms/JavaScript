@@ -1,4 +1,3 @@
-const list = []
 // https://en.wikipedia.org/wiki/Generalizations_of_Fibonacci_numbers#Extension_to_negative_integers
 const FibonacciIterative = (nth) => {
   const sign = nth < 0
@@ -20,7 +19,20 @@ const FibonacciIterative = (nth) => {
   return sequence
 }
 
+const FibonacciGenerator = function* (sign) {
+  let a = 0
+  let b = 1
+  yield a
+  while (true) {
+    yield b
+    [a, b] = sign ? [b, a - b] : [b, a + b]
+  }
+}
+
+const list = []
 const FibonacciRecursive = (number) => {
+  const sgn = number < 0
+  if (sgn) number *= -1
   return (() => {
     switch (list.length) {
       case 0:
@@ -32,7 +44,6 @@ const FibonacciRecursive = (number) => {
       case number + 1:
         return list
       default:
-        const sgn = number < 0
         list.push(
           sgn ?
           list.at(-2) - list.at(-1)
@@ -45,7 +56,6 @@ const FibonacciRecursive = (number) => {
 }
 
 const dict = new Map()
-
 const FibonacciRecursiveDP = (stairs) => {
   const sgn = stairs < 0
   if (sgn) stairs *= -1
@@ -193,6 +203,7 @@ const FibonacciMatrixExpo = (n) => {
 
 export { FibonacciDpWithoutRecursion }
 export { FibonacciIterative }
+export { FibonacciGenerator }
 export { FibonacciRecursive }
 export { FibonacciRecursiveDP }
 export { FibonacciMatrixExpo }
