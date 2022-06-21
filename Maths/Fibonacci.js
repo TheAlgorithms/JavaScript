@@ -1,7 +1,7 @@
 // https://en.wikipedia.org/wiki/Generalizations_of_Fibonacci_numbers#Extension_to_negative_integers
 const FibonacciIterative = (nth) => {
   const sign = nth < 0
-  if (sign) n = -n
+  if (sign) nth = -nth
   const sequence = [0]
 
   if (nth >= 1) sequence.push(1)
@@ -24,7 +24,7 @@ const FibonacciGenerator = function* (negative) {
   let b = 1
   yield a
   while (true) {
-    yield b
+    yield b;
     [a, b] = negative ? [b, a - b] : [b, a + b]
   }
 }
