@@ -44,15 +44,10 @@ const FibonacciRecursive = (number) => {
       case number + 1:
         return list
       default:
-        list.push(
-          sgn ?
-          list.at(-2) - list.at(-1)
-          :
-          list.at(-1) + list.at(-2)
-        )
+        list.push(list.at(-1) + list.at(-2))
         return FibonacciRecursive(number)
     }
-  })()
+  })().map((fib, i) => fib * (sgn ? (-1) ** (i + 1) : 1))
 }
 
 const dict = new Map()
