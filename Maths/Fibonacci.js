@@ -92,7 +92,7 @@ const Identity = (size, bigint) => {
 const matrixMultiply = (A, B) => {
   A = copyMatrix(A)
   B = copyMatrix(B)
-  const isBigInt = typeof A[0][0] === "bigint"
+  const isBigInt = typeof A[0][0] === 'bigint'
   const l = A.length
   const m = B.length
   const n = B[0].length // Assuming non-empty matrices
@@ -116,7 +116,7 @@ const matrixMultiply = (A, B) => {
 // A is a square matrix
 const matrixExpo = (A, n) => {
   A = copyMatrix(A)
-  const isBigInt = typeof n === "bigint"
+  const isBigInt = typeof n === 'bigint'
   const ZERO = isBigInt ? 0n : 0
   const TWO = isBigInt ? 2n : 2
 
@@ -146,10 +146,10 @@ const FibonacciMatrixExpo = (n) => {
 
   if (n === 0 || n === 0n) return n
 
-  let sign = n < 0
+  const sign = n < 0
   if (sign) n = -n
 
-  const isBigInt = typeof n === "bigint"
+  const isBigInt = typeof n === 'bigint'
   const ZERO = isBigInt ? 0n : 0
   const ONE = isBigInt ? 1n : 1
 
@@ -165,7 +165,7 @@ const FibonacciMatrixExpo = (n) => {
   ]
   F = matrixMultiply(poweredA, F)
   // https://en.wikipedia.org/wiki/Generalizations_of_Fibonacci_numbers#Extension_to_negative_integers
-  return F[0][0] * (sign ? (-ONE)**(n + ONE) : ONE)
+  return F[0][0] * (sign ? (-ONE) ** (n + ONE) : ONE)
 }
 
 export { FibonacciDpWithoutRecursion }
