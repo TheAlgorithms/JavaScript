@@ -6,6 +6,8 @@
 
 - [@1181092](https://github.com/1181092/)
 
+- [Dark-Knight-Rises](https://github.com/Dark-Knight-Rises)
+
 - [@12otherWays](https://github.com/12otherWays)
 
 - [@14oualid](https://github.com/14-oualid)
@@ -5876,8 +5878,16 @@
 
 -[@vig-tirakapadi18](https://github.com/vig-tirakapadi18)
 
-
 _[@lajan2012]( https://github.com/lajan2012) 
 
 -[@mbizo1](https://github.com/mbizo1)
 
+-[@vega-jg](https://github.com/vega-jg)
+
+-[@isibra](https://github.com/isIbra)
+
+-[@AnthonyAkiniz](https://github.com/AnthonyAkiniz)
+
+-[@kenzo92](https://github.com/kenzo92/)
+
+-[sds-smith](https://github.com/sds-smith)
