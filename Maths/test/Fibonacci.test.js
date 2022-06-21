@@ -2,6 +2,7 @@ import {
   FibonacciDpWithoutRecursion,
   FibonacciRecursiveDP,
   FibonacciIterative,
+  FibonacciGenerator,
   FibonacciRecursive,
   FibonacciMatrixExpo
 } from '../Fibonacci'
@@ -14,6 +15,26 @@ describe('Fibonacci', () => {
     expect(FibonacciIterative(-6)).toEqual(
       expect.arrayContaining([0, 1, -1, 2, -3, 5, -8])
     )
+  })
+
+  it('should return number for FibonacciGenerator', () => {
+    const positive = FibonacciGenerator()
+    expect(positive.next().value).toBe(0)
+    expect(positive.next().value).toBe(1)
+    expect(positive.next().value).toBe(1)
+    expect(positive.next().value).toBe(2)
+    expect(positive.next().value).toBe(3)
+    expect(positive.next().value).toBe(5)
+    expect(positive.next().value).toBe(8)
+    
+    const negative = FibonacciGenerator(true)
+    expect(negative.next().value).toBe(0)
+    expect(negative.next().value).toBe(1)
+    expect(negative.next().value).toBe(-1)
+    expect(negative.next().value).toBe(2)
+    expect(negative.next().value).toBe(-3)
+    expect(negative.next().value).toBe(5)
+    expect(negative.next().value).toBe(-8)
   })
 
   it('should return an array of numbers for FibonacciRecursive', () => {
