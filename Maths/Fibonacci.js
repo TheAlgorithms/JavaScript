@@ -32,9 +32,9 @@ const FibonacciRecursive = (number) => {
       case number:
         return list
       default:
-        const sign = number < 0
+        const sgn = number < 0
         list.push(
-          sign ?
+          sgn ?
           list.at(-2) - list.at(-1)
           :
           list.at(-1) + list.at(-2)
@@ -47,8 +47,8 @@ const FibonacciRecursive = (number) => {
 const dict = new Map()
 
 const FibonacciRecursiveDP = (stairs) => {
-  const sign = stairs < 0
-  if (sign) stairs *= -1
+  const sgn = stairs < 0
+  if (sgn) stairs *= -1
 
   if (stairs === 0) return 0
   if (stairs === 1) return 1
@@ -56,7 +56,7 @@ const FibonacciRecursiveDP = (stairs) => {
   // Memoize stair count
   if (dict.has(stairs)) return dict.get(stairs)
 
-  const res = sign
+  const res = sgn
     ? FibonacciRecursiveDP(stairs - 2) - FibonacciRecursiveDP(stairs - 1)
     : FibonacciRecursiveDP(stairs - 1) + FibonacciRecursiveDP(stairs - 2)
 
@@ -171,8 +171,8 @@ const FibonacciMatrixExpo = (n) => {
 
   if (n === 0 || n === 0n) return n
 
-  const sign = n < 0
-  if (sign) n = -n
+  const sgn = n < 0
+  if (sgn) n = -n
 
   const isBigInt = typeof n === 'bigint'
   const ZERO = isBigInt ? 0n : 0
@@ -189,7 +189,7 @@ const FibonacciMatrixExpo = (n) => {
     [ZERO]
   ]
   F = matrixMultiply(poweredA, F)
-  return F[0][0] * (sign ? (-ONE) ** (n + ONE) : ONE)
+  return F[0][0] * (sgn ? (-ONE) ** (n + ONE) : ONE)
 }
 
 export { FibonacciDpWithoutRecursion }
