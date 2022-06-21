@@ -47,7 +47,7 @@ describe('Fibonacci', () => {
   })
 
   it('should return number for FibonacciRecursiveDP', () => {
-    expect(FibonacciRecursiveDP(5)).toBe(5)
+    expect(FibonacciRecursiveDP(6)).toBe(8)
     expect(FibonacciRecursiveDP(-6)).toBe(-8)
   })
 
