@@ -75,25 +75,31 @@ const copyMatrix = (A) => {
   return A.map(row => row.map(cell => cell))
 }
 
-const Identity = (size) => {
+// the 2nd param is to generate a "BigInt-safe" matrix
+const Identity = (size, bigint) => {
+  const ZERO = bigint ? 0n : 0
+  const ONE = bigint ? 1n : 1
   const I = Array(size).fill(null).map(() => Array(size).fill())
   return I.map((row, rowIdx) => row.map((_col, colIdx) => {
-    return rowIdx === colIdx ? 1 : 0
+    return rowIdx === colIdx ? ONE : ZERO
   }))
 }
 
 // A of size (l x m) and B of size (m x n)
-// product C will be of size (l x n)
+// product C will be of size (l x n).
+// both matrices must have same-type numeric values
+// either both BigInt or both Number
 const matrixMultiply = (A, B) => {
   A = copyMatrix(A)
   B = copyMatrix(B)
+  const isBigInt = typeof A[0][0] === "bigint"
   const l = A.length
   const m = B.length
   const n = B[0].length // Assuming non-empty matrices
   const C = Array(l).fill(null).map(() => Array(n).fill())
   for (let i = 0; i < l; i++) {
     for (let j = 0; j < n; j++) {
-      C[i][j] = 0
+      C[i][j] = isBigInt ? 0n : 0
       for (let k = 0; k < m; k++) {
         C[i][j] += A[i][k] * B[k][j]
       }
@@ -110,13 +116,17 @@ const matrixMultiply = (A, B) => {
 // A is a square matrix
 const matrixExpo = (A, n) => {
   A = copyMatrix(A)
+  const isBigInt = typeof n === "bigint"
+  const ZERO = isBigInt ? 0n : 0
+  const TWO = isBigInt ? 2n : 2
 
   // Just like Binary exponentiation mentioned in ./BinaryExponentiationIterative.js
   let result = Identity(A.length) // Identity matrix
-  while (n > 0) {
-    if (n % 2 !== 0) result = matrixMultiply(result, A)
-    n = Math.floor(n / 2)
-    if (n > 0) A = matrixMultiply(A, A)
+  while (n > ZERO) {
+    if (n % TWO !== ZERO) result = matrixMultiply(result, A)
+    n /= TWO
+    if (!isBigInt) n = Math.floor(n)
+    if (n > ZERO) A = matrixMultiply(A, A)
   }
   return result
 }
@@ -134,19 +144,28 @@ const FibonacciMatrixExpo = (n) => {
   // or                  F(n, n-1) = A * A * F(n-2, n-3)
   // or                  F(n, n-1) = pow(A, n-1) * F(1, 0)
 
-  if (n === 0) return 0
+  if (n === 0 || n === 0n) return n
+
+  let sign = n < 0
+  if (sign) n = -n
+
+  const isBigInt = typeof n === "bigint"
+  const ZERO = isBigInt ? 0n : 0
+  const ONE = isBigInt ? 1n : 1
 
   const A = [
-    [1, 1],
-    [1, 0]
+    [ONE, ONE],
+    [ONE, ZERO]
   ]
-  const poweredA = matrixExpo(A, n - 1) // A raised to the power n-1
+
+  const poweredA = matrixExpo(A, n - ONE) // A raised to the power n-1
   let F = [
-    [1],
-    [0]
+    [ONE],
+    [ZERO]
   ]
   F = matrixMultiply(poweredA, F)
-  return F[0][0]
+  // https://en.wikipedia.org/wiki/Generalizations_of_Fibonacci_numbers#Extension_to_negative_integers
+  return F[0][0] * (sign ? (-ONE)**(n + ONE) : ONE)
 }
 
 export { FibonacciDpWithoutRecursion }
