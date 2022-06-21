@@ -85,9 +85,9 @@ const FibonacciDpWithoutRecursion = (number) => {
   for (let i = 2; i < number; ++i) {
     table.push(
       sgn ?
-      table[i - 2] - table[i - 1]
+      table[i - 1] - table[i]
       :
-      table[i - 1] + table[i - 2]
+      table[i] + table[i - 1]
     )
   }
   return table
