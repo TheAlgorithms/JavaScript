@@ -42,7 +42,7 @@ describe('Fibonacci', () => {
       expect.arrayContaining([0, 1, 1, 2, 3, 5, 8])
     )
     expect(FibonacciRecursive(-6)).toEqual(
-      expect.arrayContaining([0, 1, -1, 2, -3, 5, -8])
+      expect.arrayContaining([-0, 1, -1, 2, -3, 5, -8])
     )
   })
 
