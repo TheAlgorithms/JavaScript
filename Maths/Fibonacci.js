@@ -146,7 +146,7 @@ const matrixExpo = (A, n) => {
   const TWO = isBigInt ? 2n : 2
 
   // Just like Binary exponentiation mentioned in ./BinaryExponentiationIterative.js
-  let result = Identity(A.length) // Identity matrix
+  let result = Identity((isBigInt ? BigInt : Number)(A.length)) // Identity matrix
   while (n > ZERO) {
     if (n % TWO !== ZERO) result = matrixMultiply(result, A)
     n /= TWO
