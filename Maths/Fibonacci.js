@@ -1,13 +1,20 @@
 const list = []
-
+// https://en.wikipedia.org/wiki/Generalizations_of_Fibonacci_numbers#Extension_to_negative_integers
 const FibonacciIterative = (nth) => {
-  const sequence = []
+  const sign = nth < 0
+  if (sign) n = -n
+  const sequence = [0]
 
   if (nth >= 1) sequence.push(1)
-  if (nth >= 2) sequence.push(1)
+  if (nth >= 2) sequence.push(sign ? -1 : 1)
 
   for (let i = 2; i < nth; i++) {
-    sequence.push(sequence[i - 1] + sequence[i - 2])
+    sequence.push(
+      sign ?
+      sequence[i - 2] - sequence[i - 1]
+      :
+      sequence[i - 1] + sequence[i - 2]
+    )
   }
 
   return sequence
@@ -17,7 +24,7 @@ const FibonacciRecursive = (number) => {
   return (() => {
     switch (list.length) {
       case 0:
-        list.push(1)
+        list.push(0)
         return FibonacciRecursive(number)
       case 1:
         list.push(1)
@@ -25,7 +32,13 @@ const FibonacciRecursive = (number) => {
       case number:
         return list
       default:
-        list.push(list[list.length - 1] + list[list.length - 2])
+        const sign = number < 0
+        list.push(
+          sign ?
+          list.at(-2) - list.at(-1)
+          :
+          list.at(-1) + list.at(-2)
+        )
         return FibonacciRecursive(number)
     }
   })()
@@ -34,14 +47,18 @@ const FibonacciRecursive = (number) => {
 const dict = new Map()
 
 const FibonacciRecursiveDP = (stairs) => {
-  if (stairs <= 0) return 0
+  const sign = stairs < 0
+  if (sign) stairs *= -1
+
+  if (stairs === 0) return 0
   if (stairs === 1) return 1
 
   // Memoize stair count
   if (dict.has(stairs)) return dict.get(stairs)
 
-  const res =
-    FibonacciRecursiveDP(stairs - 1) + FibonacciRecursiveDP(stairs - 2)
+  const res = sign
+    ? FibonacciRecursiveDP(stairs - 2) - FibonacciRecursiveDP(stairs - 1)
+    : FibonacciRecursiveDP(stairs - 1) + FibonacciRecursiveDP(stairs - 2)
 
   dict.set(stairs, res)
 
@@ -60,11 +77,18 @@ const FibonacciRecursiveDP = (stairs) => {
 // @Satzyakiz
 
 const FibonacciDpWithoutRecursion = (number) => {
-  const table = []
+  const sgn = number < 0
+  if (sgn) number *= -1
+  const table = [0]
   table.push(1)
-  table.push(1)
+  table.push(sgn ? -1 : 1)
   for (let i = 2; i < number; ++i) {
-    table.push(table[i - 1] + table[i - 2])
+    table.push(
+      sgn ?
+      table[i - 2] - table[i - 1]
+      :
+      table[i - 1] + table[i - 2]
+    )
   }
   return table
 }
@@ -75,10 +99,11 @@ const copyMatrix = (A) => {
   return A.map(row => row.map(cell => cell))
 }
 
-// the 2nd param is to generate a "BigInt-safe" matrix
-const Identity = (size, bigint) => {
-  const ZERO = bigint ? 0n : 0
-  const ONE = bigint ? 1n : 1
+const Identity = (size) => {
+  const isBigInt = typeof size === 'bigint'
+  const ZERO = isBigInt ? 0n : 0
+  const ONE = isBigInt ? 1n : 1
+  size = Number(size)
   const I = Array(size).fill(null).map(() => Array(size).fill())
   return I.map((row, rowIdx) => row.map((_col, colIdx) => {
     return rowIdx === colIdx ? ONE : ZERO
@@ -164,7 +189,6 @@ const FibonacciMatrixExpo = (n) => {
     [ZERO]
   ]
   F = matrixMultiply(poweredA, F)
-  // https://en.wikipedia.org/wiki/Generalizations_of_Fibonacci_numbers#Extension_to_negative_integers
   return F[0][0] * (sign ? (-ONE) ** (n + ONE) : ONE)
 }
 
