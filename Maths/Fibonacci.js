@@ -11,9 +11,9 @@ const FibonacciIterative = (nth) => {
   for (let i = 2; i < nth; i++) {
     sequence.push(
       sign ?
-      sequence[i - 2] - sequence[i - 1]
+      sequence[i - 1] - sequence[i]
       :
-      sequence[i - 1] + sequence[i - 2]
+      sequence[i] + sequence[i - 1]
     )
   }
 
