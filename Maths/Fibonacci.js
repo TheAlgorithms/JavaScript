@@ -19,13 +19,13 @@ const FibonacciIterative = (nth) => {
   return sequence
 }
 
-const FibonacciGenerator = function* (sign) {
+const FibonacciGenerator = function* (negative) {
   let a = 0
   let b = 1
   yield a
   while (true) {
     yield b
-    [a, b] = sign ? [b, a - b] : [b, a + b]
+    [a, b] = negative ? [b, a - b] : [b, a + b]
   }
 }
 
@@ -63,15 +63,13 @@ const FibonacciRecursiveDP = (stairs) => {
   if (stairs <= 1) return stairs
 
   // Memoize stair count
-  if (dict.has(stairs)) return dict.get(stairs)
+  if (dict.has(stairs)) return (sgn ? (-1) ** (stairs + 1) : 1) * dict.get(stairs)
 
-  const res = sgn
-    ? FibonacciRecursiveDP(stairs - 2) - FibonacciRecursiveDP(stairs - 1)
-    : FibonacciRecursiveDP(stairs - 1) + FibonacciRecursiveDP(stairs - 2)
+  const res = FibonacciRecursiveDP(stairs - 1) + FibonacciRecursiveDP(stairs - 2)
 
   dict.set(stairs, res)
 
-  return res
+  return (sgn ? (-1) ** (stairs + 1) : 1) * res
 }
 
 // Algorithms
