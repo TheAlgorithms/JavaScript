@@ -29,7 +29,7 @@ const FibonacciRecursive = (number) => {
       case 1:
         list.push(1)
         return FibonacciRecursive(number)
-      case number:
+      case number + 1:
         return list
       default:
         const sgn = number < 0
