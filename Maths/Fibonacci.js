@@ -50,15 +50,14 @@ const FibonacciRecursiveDP = (stairs) => {
   const sgn = stairs < 0
   if (sgn) stairs *= -1
 
-  if (stairs === 0) return 0
-  if (stairs === 1) return 1
+  if (stairs <= 1) return stairs
 
   // Memoize stair count
   if (dict.has(stairs)) return dict.get(stairs)
 
   const res = sgn
-    ? FibonacciRecursiveDP(stairs - 1) - FibonacciRecursiveDP(stairs)
-    : FibonacciRecursiveDP(stairs) + FibonacciRecursiveDP(stairs - 1)
+    ? FibonacciRecursiveDP(stairs - 2) - FibonacciRecursiveDP(stairs - 1)
+    : FibonacciRecursiveDP(stairs - 1) + FibonacciRecursiveDP(stairs - 2)
 
   dict.set(stairs, res)
 
