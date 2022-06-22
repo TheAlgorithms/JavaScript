@@ -26,7 +26,7 @@ describe('Fibonacci', () => {
     expect(positive.next().value).toBe(3)
     expect(positive.next().value).toBe(5)
     expect(positive.next().value).toBe(8)
-    
+
     const negative = FibonacciGenerator(true)
     expect(negative.next().value).toBe(0)
     expect(negative.next().value).toBe(1)
@@ -77,7 +77,7 @@ describe('Fibonacci', () => {
     expect(FibonacciMatrixExpo(-5)).toBe(5)
     expect(FibonacciMatrixExpo(-6)).toBe(-8)
   })
-  
+
   it('should return bigint for FibonacciMatrixExpo', () => {
     expect(FibonacciMatrixExpo(0n)).toBe(0n)
     expect(FibonacciMatrixExpo(1n)).toBe(1n)
