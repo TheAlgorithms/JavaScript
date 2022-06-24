@@ -2740,6 +2740,8 @@
 
 - [@edu2andrade](https://github.com/edu2andrade)
 
+- [@eduardobattisti](https://github.com/eduardobattisti)
+
 - [@edwardshanahan7](https://github.com/edwardshanahan7)
 
 - [@edwinmbugua](https://github.com/edwinmbugua)
