@@ -5949,3 +5949,5 @@ _[@lajan2012]( https://github.com/lajan2012)
 -[@AyoToluSam](https://github.com/AyoToluSam)
 
 -[@ObaPythonaire](https://github.com/ObaPythonaire)
+
+-[@m-a-n-o-s](https://github.com/m-a-n-o-s)
