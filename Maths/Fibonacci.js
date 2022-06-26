@@ -28,8 +28,8 @@ const FibonacciGenerator = function * (neg) {
 
 const list = []
 const FibonacciRecursive = (num) => {
-  const sgn = num < 0
-  if (sgn) num *= -1
+  const isNeg = num < 0
+  if (isNeg) num *= -1
   return (() => {
     switch (list.length) {
       case 0:
@@ -44,24 +44,24 @@ const FibonacciRecursive = (num) => {
         list.push(list.at(-1) + list.at(-2))
         return FibonacciRecursive(num)
     }
-  })().map((fib, i) => fib * (sgn ? (-1) ** (i + 1) : 1))
+  })().map((fib, i) => fib * (isNeg ? (-1) ** (i + 1) : 1))
 }
 
 const dict = new Map()
 const FibonacciRecursiveDP = (stairs) => {
-  const sgn = stairs < 0
-  if (sgn) stairs *= -1
+  const isNeg = stairs < 0
+  if (isNeg) stairs *= -1
 
   if (stairs <= 1) return stairs
 
   // Memoize stair count
-  if (dict.has(stairs)) return (sgn ? (-1) ** (stairs + 1) : 1) * dict.get(stairs)
+  if (dict.has(stairs)) return (isNeg ? (-1) ** (stairs + 1) : 1) * dict.get(stairs)
 
   const res = FibonacciRecursiveDP(stairs - 1) + FibonacciRecursiveDP(stairs - 2)
 
   dict.set(stairs, res)
 
-  return (sgn ? (-1) ** (stairs + 1) : 1) * res
+  return (isNeg ? (-1) ** (stairs + 1) : 1) * res
 }
 
 // Algorithms
@@ -76,14 +76,14 @@ const FibonacciRecursiveDP = (stairs) => {
 // @Satzyakiz
 
 const FibonacciDpWithoutRecursion = (num) => {
-  const sgn = num < 0
-  if (sgn) num *= -1
+  const isNeg = num < 0
+  if (isNeg) num *= -1
   const table = [0]
   table.push(1)
-  table.push(sgn ? -1 : 1)
+  table.push(isNeg ? -1 : 1)
   for (let i = 2; i < num; ++i) {
     table.push(
-      sgn ? table[i - 1] - table[i] : table[i] + table[i - 1]
+      isNeg ? table[i - 1] - table[i] : table[i] + table[i - 1]
     )
   }
   return table
@@ -170,8 +170,8 @@ const FibonacciMatrixExpo = (num) => {
 
   if (num === ZERO) return num
 
-  const sgn = num < 0
-  if (sgn) num *= -ONE
+  const isNeg = num < 0
+  if (isNeg) num *= -ONE
 
   const A = [
     [ONE, ONE],
@@ -184,7 +184,7 @@ const FibonacciMatrixExpo = (num) => {
     [ZERO]
   ]
   F = matrixMultiply(poweredA, F)
-  return F[0][0] * (sgn ? (-ONE) ** (num + ONE) : ONE)
+  return F[0][0] * (isNeg ? (-ONE) ** (num + ONE) : ONE)
 }
 
 export { FibonacciDpWithoutRecursion }
