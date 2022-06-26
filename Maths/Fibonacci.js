@@ -1,48 +1,48 @@
 // https://en.wikipedia.org/wiki/Generalizations_of_Fibonacci_numbers#Extension_to_negative_integers
-const FibonacciIterative = (nth) => {
-  const sign = nth < 0
-  if (sign) nth = -nth
+const FibonacciIterative = (num) => {
+  const isNeg = num < 0
+  if (isNeg) num *= -1
   const sequence = [0]
 
-  if (nth >= 1) sequence.push(1)
-  if (nth >= 2) sequence.push(sign ? -1 : 1)
+  if (num >= 1) sequence.push(1)
+  if (num >= 2) sequence.push(isNeg ? -1 : 1)
 
-  for (let i = 2; i < nth; i++) {
+  for (let i = 2; i < num; i++) {
     sequence.push(
-      sign ? sequence[i - 1] - sequence[i] : sequence[i] + sequence[i - 1]
+      isNeg ? sequence[i - 1] - sequence[i] : sequence[i] + sequence[i - 1]
     )
   }
 
   return sequence
 }
 
-const FibonacciGenerator = function * (negative) {
+const FibonacciGenerator = function * (neg) {
   let a = 0
   let b = 1
   yield a
   while (true) {
     yield b;
-    [a, b] = negative ? [b, a - b] : [b, a + b]
+    [a, b] = neg ? [b, a - b] : [b, a + b]
   }
 }
 
 const list = []
-const FibonacciRecursive = (number) => {
-  const sgn = number < 0
-  if (sgn) number *= -1
+const FibonacciRecursive = (num) => {
+  const sgn = num < 0
+  if (sgn) num *= -1
   return (() => {
     switch (list.length) {
       case 0:
         list.push(0)
-        return FibonacciRecursive(number)
+        return FibonacciRecursive(num)
       case 1:
         list.push(1)
-        return FibonacciRecursive(number)
-      case number + 1:
+        return FibonacciRecursive(num)
+      case num + 1:
         return list
       default:
         list.push(list.at(-1) + list.at(-2))
-        return FibonacciRecursive(number)
+        return FibonacciRecursive(num)
     }
   })().map((fib, i) => fib * (sgn ? (-1) ** (i + 1) : 1))
 }
@@ -75,13 +75,13 @@ const FibonacciRecursiveDP = (stairs) => {
 // a function of the number of input bits
 // @Satzyakiz
 
-const FibonacciDpWithoutRecursion = (number) => {
-  const sgn = number < 0
-  if (sgn) number *= -1
+const FibonacciDpWithoutRecursion = (num) => {
+  const sgn = num < 0
+  if (sgn) num *= -1
   const table = [0]
   table.push(1)
   table.push(sgn ? -1 : 1)
-  for (let i = 2; i < number; ++i) {
+  for (let i = 2; i < num; ++i) {
     table.push(
       sgn ? table[i - 1] - table[i] : table[i] + table[i - 1]
     )
@@ -152,7 +152,10 @@ const matrixExpo = (A, n) => {
   return result
 }
 
-const FibonacciMatrixExpo = (n) => {
+const FibonacciMatrixExpo = (num) => {
+  const isBigInt = typeof num === 'bigint'
+  const ZERO = isBigInt ? 0n : 0
+  const ONE = isBigInt ? 1n : 1
   // F(0) = 0, F(1) = 1
   // F(n) = F(n-1) + F(n-2)
   // Consider below matrix multiplication:
@@ -165,27 +168,23 @@ const FibonacciMatrixExpo = (n) => {
   // or                  F(n, n-1) = A * A * F(n-2, n-3)
   // or                  F(n, n-1) = pow(A, n-1) * F(1, 0)
 
-  if (n === 0 || n === 0n) return n
+  if (num === ZERO) return num
 
-  const sgn = n < 0
-  if (sgn) n = -n
-
-  const isBigInt = typeof n === 'bigint'
-  const ZERO = isBigInt ? 0n : 0
-  const ONE = isBigInt ? 1n : 1
+  const sgn = num < 0
+  if (sgn) num *= -ONE
 
   const A = [
     [ONE, ONE],
     [ONE, ZERO]
   ]
 
-  const poweredA = matrixExpo(A, n - ONE) // A raised to the power n-1
+  const poweredA = matrixExpo(A, num - ONE) // A raised to the power n-1
   let F = [
     [ONE],
     [ZERO]
   ]
   F = matrixMultiply(poweredA, F)
-  return F[0][0] * (sgn ? (-ONE) ** (n + ONE) : ONE)
+  return F[0][0] * (sgn ? (-ONE) ** (num + ONE) : ONE)
 }
 
 export { FibonacciDpWithoutRecursion }
