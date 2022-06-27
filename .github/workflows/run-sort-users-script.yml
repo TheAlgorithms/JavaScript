@@ -24,7 +24,7 @@ jobs:
       id: changed_files
         with: 
           files: |
-            CONTRIBUTORS.md
+             CONTRIBUTORS.md
     - name: Display changes to CONTRIBUTORS file
       if: steps.changed_files.outputs.files_changed == 'true'
         run: |
