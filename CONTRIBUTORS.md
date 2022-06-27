@@ -4377,6 +4377,8 @@
 
 - [@Alpha-Delfa](https://github.com/Alpha-Delfa/)
 
+- [@AndreiRutty](https://github.com/AndreiRutty)
+
 - [@Carlos-Mantovani](https://github.com/Carlos-Mantovani)
 
 - [@Asvorz](https://github.com/asvorz)
@@ -4385,3 +4387,4 @@
 
 - [@Haroon-jay](https://github.com/Haroon-jay)
 
+- [@dwthefirst](https://github.com/dwthefirst)
