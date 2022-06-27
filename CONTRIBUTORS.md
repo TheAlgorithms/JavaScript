@@ -4374,4 +4374,9 @@
 
 - [@Alpha-Delfa](https://github.com/Alpha-Delfa/)
 
-- [@AndreiRutty](https://github.com/AndreiRutty)
+-[@Carlos-Mantovani](https://github.com/Carlos-Mantovani)
+
+-[@Asvorz](https://github.com/asvorz)
+
+-[@AndreiRutty](https://github.com/AndreiRutty)
+
