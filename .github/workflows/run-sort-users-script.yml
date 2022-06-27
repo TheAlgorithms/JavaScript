@@ -22,9 +22,9 @@ jobs:
     - name: Check for changes
       uses: tj-actions/verify-changed-files@v5.5
       id: changed_files
-        with: 
-          files: |
-             CONTRIBUTORS.md
+      with: 
+        files: |
+           CONTRIBUTORS.md
     - name: Display changes to CONTRIBUTORS file
       if: steps.changed_files.outputs.files_changed == 'true'
         run: |
