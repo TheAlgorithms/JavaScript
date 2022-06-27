@@ -27,8 +27,8 @@ jobs:
            CONTRIBUTORS.md
     - name: Display changes to CONTRIBUTORS file
       if: steps.changed_files.outputs.files_changed == 'true'
-        run: |
-          echo "Changed files: ${{ steps.changed_files.outputs.changed_files }}"
+      run: |
+        echo "Changed files: ${{ steps.changed_files.outputs.changed_files }}"
     - name: Commit changes
       if: steps.changed_files.outputs.files_changed == 'true'
       run: |
