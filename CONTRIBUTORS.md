@@ -4372,6 +4372,6 @@
 
 - [@mecskyverse](https://github.com/mecskyverse)
 
--[@Alpha-Delfa](https://github.com/Alpha-Delfa/)
+- [@Alpha-Delfa](https://github.com/Alpha-Delfa/)
 
 - [@AndreiRutty](https://github.com/AndreiRutty)
