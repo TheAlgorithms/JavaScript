@@ -98,6 +98,8 @@ Tony Idehen
 
 - [@Abishekjoshua](https://github.com/abishek-joshua)
 
+- [@Rianto-RNT](https://github.com/Rianto-RNT)
+
 - [@Abucur980](https://github.com/Abucur980)
 
 - [@Abulyousuf](https://github.com/abulyousuf)
@@ -4455,6 +4457,7 @@ Tony Idehen
 
 -[@kem247](https://github.com/kem247)
 
+-[@prumiz](https://github.com/prumiz/)
 -[@cirstea97](https://github.com/cirstea97)
 - [@TenmaChinen](https://github.com/TenmaChinen/)
 
