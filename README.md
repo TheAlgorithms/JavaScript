@@ -12,7 +12,7 @@ We don't care if you break things. This is a playground and we encourage failing
 
 2. On the [GitHub page for this repository](https://github.com/zero-to-mastery/start-here-guidelines), click on the Button "Fork".
 
-   ![fork image](https://help.github.com/assets/images/help/repository/fork_button.jpg)
+   ![fork image](https://docs.github.com/assets/cb-28613/images/help/repository/fork_button.png)
 
 3. Clone _your forked repository_ to your computer:
 
@@ -80,9 +80,9 @@ We don't care if you break things. This is a playground and we encourage failing
 
 11. Wait until Zerobot or one of the maintainers merges your pull request. If there are any conflicts, you will get a notification.
 
-12. Go join a project and start contributing or create your own group apps. Don't be shy and enjoy creating things together (We have over 20 projects for all level of programmers)! [Check out this guide](https://github.com/zero-to-mastery/start-here-guidelines/blob/master/Get_Started.md) for more information on selecting a project.
+12. Go join a project and start contributing or create your own group apps. Don't be shy and enjoy creating things together (We have over 20 projects for all levels of programmers)! [Check out this guide](https://github.com/zero-to-mastery/start-here-guidelines/blob/master/Get_Started.md) for more information on selecting a project.
 
-13. To see the Zero to Mastery Icon in your GitHub profile, [follow these steps](https://help.github.com/articles/publicizing-or-hiding-organization-membership/) (you must complete step 1 and 2 for this to work).
+13. To see the Zero to Mastery Icon in your GitHub profile, [follow these steps](https://help.github.com/articles/publicizing-or-hiding-organization-membership/) (you must complete steps 1 and 2 for this to work).
 
 ## Anatomy of an open source project:
 
@@ -114,7 +114,7 @@ A project also has documentation. These files are usually listed in the top leve
 
 **CONTRIBUTING**: Whereas READMEs help people use the project, contributing docs help people contribute to the project. It explains what types of contributions are needed and how the process works. While not every project has a CONTRIBUTING file, its presence signals that this is a welcoming project to contribute to.
 
-**CODE_OF_CONDUCT**: The code of conduct sets ground rules for participants’ behavior associated and helps to facilitate a friendly, welcoming environment. While not every project has a CODE_OF_CONDUCT file, its presence signals that this is a welcoming project to contribute to.
+**CODE_OF_CONDUCT**: The code of conduct sets ground rules for participants’ behavior and helps to facilitate a friendly, welcoming environment. While not every project has a CODE_OF_CONDUCT file, its presence signals that this is a welcoming project to contribute to.
 
 **Other documentation**: There might be additional documentation, such as tutorials, walkthroughs, or governance policies, especially on bigger projects.
 
