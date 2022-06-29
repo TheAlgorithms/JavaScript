@@ -12,6 +12,8 @@ Tony Idehen
 
 - [@32Simas](https://github.com/32simas)
 
+- [@Amaan262](https://github.com/Amaan262)
+
 - [@33Kumarram](https://github.com/kumarram)
 
 - [@3Braheem](https://github.com/3braheem)
@@ -4453,5 +4455,6 @@ Tony Idehen
 
 -[@kem247](https://github.com/kem247)
 
+-[@cirstea97](https://github.com/cirstea97)
 - [@TenmaChinen](https://github.com/TenmaChinen/)
 
