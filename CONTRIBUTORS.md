@@ -4411,12 +4411,18 @@ Tony Idehen
 
 - [@gpinto8](https://github.com/gpinto8)
 
--[@kenmirwell](https://github.com/kenmirwell)
+- [@kenmirwell](https://github.com/kenmirwell)
 
--[@dmwspace](https://github.com/dmwspace)
+- [@dmwspace](https://github.com/dmwspace)
 
--[@sikumiku](https://github.com/sikumiku)
+- [@sikumiku](https://github.com/sikumiku)
 
--[@BenjaminWByrd](https://github.com/BenjaminWByrd/)
+- [@BenjaminWByrd](https://github.com/BenjaminWByrd/)
+
+- [@celestinocaterino](https://github.com/celestinocaterino)
+
+- [@HXiangChang](https://github.com/HXiangChang)
+
+- [@Mayuri-Sharma](https://github.com/Mayuri-Sharma)
 
 - [@TenmaChinen](https://github.com/TenmaChinen/)
