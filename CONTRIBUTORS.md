@@ -4393,6 +4393,13 @@
 
 -[@otisdev95](https://github.com/otisdev95)
 
+
+-[@savday](https://github.com/savday)
+
+-[@Andy2398](https://github.com/Andy2398)
+
+-[@mridriss](https://github.com/mridriss)
+
 -[@otisdev95](https://github.com/otisdev95)
 
 -[@savday](https://github.com/savday)
@@ -4440,7 +4447,11 @@
 
 - [@ConnorWuProjects](https://github.com/ConnorWuProjects)
 
+
+-[@AndrewsHUB](https://github.com/AndrewsHUB) -[@TamilRajun](https://github.com/TamilRajun)
+
 - [@steveanil](https://github.com/steveanil)
+
 
 -[@AndrewsHUB](https://github.com/AndrewsHUB) -[@TamilRajun](https://github.com/TamilRajun)
 - [@KiranSatyaRaj](https://github.com/KiranSatyaRaj)
@@ -4452,6 +4463,7 @@
 
 - [@gpinto8](https://github.com/gpinto8)
 
+-[@bhav1k](https://github.com/bhav1k) -[@FantomDX316](https://github.com/FantomDX316)
 - [@kenmirwell](https://github.com/kenmirwell)
 
 -[@bhav1k](https://github.com/bhav1k) -[@FantomDX316](https://github.com/FantomDX316)
@@ -4466,6 +4478,7 @@
 
 - [@celestinocaterino](https://github.com/celestinocaterino)
 
+-[@trinib](https://github.com/trinib) -[@vineethkumar12](https://github.com/vineethkumar12)
 - [@HXiangChang](https://github.com/HXiangChang)
 
 -[@bhav1k](https://github.com/bhav1k) -[@FantomDX316](https://github.com/FantomDX316)
@@ -4535,4 +4548,9 @@
 -[@samuelymh](https://github.com/samuelymh/)
 
 -[@VijayChamantha](https://github.com/VijayChamantha/)
+
+-[@RyanAshbaugh](https://github.com/RyanAshbaugh/)
+
+-[@Tk-brainCodes](https://github.com/Tk-brainCodes)
+
 
