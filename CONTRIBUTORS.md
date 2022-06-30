@@ -4396,7 +4396,11 @@
 
 -[@otisdev95](https://github.com/otisdev95)
 
+-[@otisdev95](https://github.com/otisdev95)
+
 -[@savday](https://github.com/savday)
+
+
 
 -[@Andy2398](https://github.com/Andy2398) -[@mridriss](https://github.com/mridriss)
 
@@ -4453,6 +4457,7 @@
 -[@bhav1k](https://github.com/bhav1k) -[@FantomDX316](https://github.com/FantomDX316)
 - [@dmwspace](https://github.com/dmwspace)
 
+-[@AndrewsHUB](https://github.com/AndrewsHUB) -[@TamilRajun](https://github.com/TamilRajun)
 - [@sikumiku](https://github.com/sikumiku)
 
 - [@BenjaminWByrd](https://github.com/BenjaminWByrd/)
@@ -4461,6 +4466,7 @@
 
 - [@HXiangChang](https://github.com/HXiangChang)
 
+-[@bhav1k](https://github.com/bhav1k) -[@FantomDX316](https://github.com/FantomDX316)
 -[@AndrewsHUB](https://github.com/AndrewsHUB) -[@TamilRajun](https://github.com/TamilRajun)
 
 -[@trinib](https://github.com/trinib) -[@vineethkumar12](https://github.com/vineethkumar12)
@@ -4474,6 +4480,7 @@
 
 -[@Semeton](https://github.com/Semeton)
 
+-[@trinib](https://github.com/trinib) -[@vineethkumar12](https://github.com/vineethkumar12)
 -[@thedragonsonmars419](https://github.com/thedragonsonmars419)
 
 -[@kem247](https://github.com/kem247)
@@ -4513,5 +4520,8 @@
 
 -[@pavani-priyanka-velisetty](https://github.com/pavani-priyanka-velisetty)
 
+-[@SunShadowhood](https://github.com/SunShadowhood)
+
+-[@Richie1136](https://github.com/Richie1136)
 -[@itzbrassy](https://github.com/iTzBrassy)
 -[@Stefan-migo](https://github.com/Stefan-migo)
