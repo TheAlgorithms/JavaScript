@@ -1,9 +1,10 @@
 # CONTRIBUTORS
+- [@Kirastel](https://github.com/Kirastel/)
 
 - [@1181092](https://github.com/1181092/)
 
 - [@12Otherways](https://github.com/12otherWays)
-Tony Idehen
+
 - [@14Oualid](https://github.com/14-oualid)
 
 - [@1C0Theking](https://github.com/1c0TheKing)
@@ -2996,6 +2997,8 @@ Tony Idehen
 
 - [@Paulranjan694](https://github.com/paulranjan694)
 
+- [@PaulTitto](https://github.com/PaulTitto/)
+
 - [@Pavanipriyankavelisetty](https://github.com/pavani-priyanka-velisetty)
 
 - [@Paventis](https://github.com/paventis)
@@ -4393,7 +4396,11 @@ Tony Idehen
 
 -[@otisdev95](https://github.com/otisdev95)
 
+-[@otisdev95](https://github.com/otisdev95)
+
 -[@savday](https://github.com/savday)
+
+
 
 -[@Andy2398](https://github.com/Andy2398) -[@mridriss](https://github.com/mridriss)
 
@@ -4450,6 +4457,7 @@ Tony Idehen
 -[@bhav1k](https://github.com/bhav1k) -[@FantomDX316](https://github.com/FantomDX316)
 - [@dmwspace](https://github.com/dmwspace)
 
+-[@AndrewsHUB](https://github.com/AndrewsHUB) -[@TamilRajun](https://github.com/TamilRajun)
 - [@sikumiku](https://github.com/sikumiku)
 
 - [@BenjaminWByrd](https://github.com/BenjaminWByrd/)
@@ -4458,6 +4466,7 @@ Tony Idehen
 
 - [@HXiangChang](https://github.com/HXiangChang)
 
+-[@bhav1k](https://github.com/bhav1k) -[@FantomDX316](https://github.com/FantomDX316)
 -[@AndrewsHUB](https://github.com/AndrewsHUB) -[@TamilRajun](https://github.com/TamilRajun)
 
 -[@trinib](https://github.com/trinib) -[@vineethkumar12](https://github.com/vineethkumar12)
@@ -4471,6 +4480,7 @@ Tony Idehen
 
 -[@Semeton](https://github.com/Semeton)
 
+-[@trinib](https://github.com/trinib) -[@vineethkumar12](https://github.com/vineethkumar12)
 -[@thedragonsonmars419](https://github.com/thedragonsonmars419)
 
 -[@kem247](https://github.com/kem247)
@@ -4501,3 +4511,21 @@ Tony Idehen
 -[@fdjuliza85] (https://github.com/fdjuliza85)
 
 -[@GraceOby](https://github.com/GraceOby)
+
+-[@fdjuliza85](https://github.com/fdjuliza85)
+
+-[@mhqa-138171](https://github.com/mhqa-138171)
+
+-[@andiz2](https://github.com/andiz2)
+
+-[@advanced-bencoding](https://github.com/advanced-bencoding)
+
+-[@serenuy](https://github.com/serenuy)
+
+-[@pavani-priyanka-velisetty](https://github.com/pavani-priyanka-velisetty)
+
+-[@SunShadowhood](https://github.com/SunShadowhood)
+
+-[@Richie1136](https://github.com/Richie1136)
+-[@itzbrassy](https://github.com/iTzBrassy)
+-[@Stefan-migo](https://github.com/Stefan-migo)
