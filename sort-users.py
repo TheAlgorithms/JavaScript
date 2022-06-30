@@ -53,19 +53,24 @@ def create_user_dict(user_list, url_list):
         user_info[user_list[i]] = url_list[i]
     return user_info
 
-
-def alphabetize_contrib(user_list, user_dict):
-    user_list.sort()
+def sort_users(user_dict):
     with open(PATH, 'w') as f:
         f.write('# CONTRIBUTORS\n\n')
-        for user in user_list:
-            user_entry = f'- [@{user}]({user_dict[user]})\n\n'
-            f.write(user_entry)
+        for user in sorted(user_dict.keys()):
+            entry = f'- [@{user}]({user_dict[user]})\n\n'
+            f.write(entry)
 
+def remove_dupes(user_dict):
+    user_list_set = list(user_dict.items()) # Convert dictionary to Set to remove duplicates
+    updated_user_dict = {}
+    for user in user_list_set: # Convert Set back to dictionary
+        updated_user_dict[user[0].title()] = user[1] # Use .title() to ensure proper sorting
+    return updated_user_dict
 
 contents = get_contents(PATH)
 contrib_lines = get_contributor_lines(contents)
 user_list = get_user_list(contrib_lines)
 url_list = get_url_list(contrib_lines)
 user_dict = create_user_dict(user_list, url_list)
-alphabetize_contrib(user_list, user_dict)
+user_dict_filtered = remove_dupes(user_dict)
+sort_users(user_dict_filtered)
