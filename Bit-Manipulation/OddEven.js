@@ -2,7 +2,7 @@
 
 
 /*
-    author: vivek9patel
+    author: IndianBlitz
    
 
     This script will find number is Odd or even 
@@ -19,4 +19,4 @@ function checkEvenOdd(num){
         return 0;
 }
 
-export {CheckEvenOdd}
+export {checkEvenOdd}
