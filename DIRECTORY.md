@@ -299,6 +299,7 @@
   * [FormatPhoneNumber](String/FormatPhoneNumber.js)
   * [GenerateGUID](String/GenerateGUID.js)
   * [HammingDistance](String/HammingDistance.js)
+  * [IsPalindrome](String/IsPalindrome.js)
   * [KMPPatternSearching](String/KMPPatternSearching.js)
   * [LevenshteinDistance](String/LevenshteinDistance.js)
   * [Lower](String/Lower.js)
