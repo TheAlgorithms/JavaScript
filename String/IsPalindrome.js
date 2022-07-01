@@ -10,7 +10,8 @@
   * Big-O Analysis
       * Time Complexity
         - O(N) on average and worst case scenario as input is traversed in linear fashion
-        - O(N) on best case scenario, even when input has length of 1, because toString() method takes O(N)
+        - O(1) on best case scenario if the input already is a string (otherwise toString() method takes O(N))
+               and the first & last characters don't match, triggering an early return
       * Space Complexity
         - O(1)
 */
