@@ -37,5 +37,4 @@ function checkLapindrome (str) {
     }
     return 'YES'
   }
-  export { checkLapindrome }
-  
+export { checkLapindrome }
