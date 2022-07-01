@@ -2,7 +2,7 @@
   author:IndianBlitz
     This script will check Lapindrome
 */
-// Check for checkLapindrome
+// Check for checkLapindrom
 function checkLapindrome(str) {
   const mid = Math.floor(str.length / 2);
   let i = 0;
