@@ -1,4 +1,6 @@
 # CONTRIBUTORS
+- [@arpitmalik832](https://github.com/arpitmalik832/)
+
 - [@Kirastel](https://github.com/Kirastel/)
 
 - [@1181092](https://github.com/1181092/)
