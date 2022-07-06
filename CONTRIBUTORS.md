@@ -1,4 +1,6 @@
 # CONTRIBUTORS
+-[@gi-corp](https://github.com/GI-Corp)
+
 - [@arpitmalik832](https://github.com/arpitmalik832/)
 
 - [@Kirastel](https://github.com/Kirastel/)
