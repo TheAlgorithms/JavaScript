@@ -1,4 +1,5 @@
 # CONTRIBUTORS
+-[@gi-corp](https://github.com/GI-Corp)
 
 - [@arpitmalik832](https://github.com/arpitmalik832/)
 
@@ -4614,4 +4615,18 @@
 
 -[@frobertbs](https://github.com/frobertbs)
 
-- [@PaulaBarszcz](https://github.com/PaulaBarszcz/)
+-[@cdamyx](https://github.com/cdamyx)
+
+-[@yronge](https://github.com/yronge)
+
+-[@CLim129](https://github.com/CLim129)
+
+-[@nabil-github0](https://github.com/nabil-github0)
+
+-[@danish-ans](https://github.com/danish-ans)
+
+-[@avin045](https://github.com/avin045)
+
+-[@YazminMelgoza](https://github.com/YazminMelgoza)
+
+-[@PaulaBarszcz](https://github.com/PaulaBarszcz/)
