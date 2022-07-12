@@ -1,4 +1,5 @@
 # CONTRIBUTORS
+- [@stuartmuyambi](https://github.com/stuartmuyambi/)
 -[@gi-corp](https://github.com/GI-Corp)
 
 - [@TheCypher](https://github.com/Vishal-Padia)
