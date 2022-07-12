@@ -1,6 +1,8 @@
 # CONTRIBUTORS
 -[@gi-corp](https://github.com/GI-Corp)
 
+- [@TheCypher](https://github.com/Vishal-Padia)
+
 - [@aatharvauti](https://github.com/aatharvauti)
 
 - [@arpitmalik832](https://github.com/arpitmalik832/)
