@@ -2,6 +2,8 @@
 - [@stuartmuyambi](https://github.com/stuartmuyambi/)
 -[@gi-corp](https://github.com/GI-Corp)
 
+- [@kavyachigurupati](https://github.com/kavyachigurupati)
+
 - [@TheCypher](https://github.com/Vishal-Padia)
 
 - [@aatharvauti](https://github.com/aatharvauti)
