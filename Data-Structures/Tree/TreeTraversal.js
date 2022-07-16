@@ -1,4 +1,3 @@
-
 // O(n) Time and O(n) Space Complexity
 
 function inOrderTraverse (tree, array) {
@@ -9,6 +8,7 @@ function inOrderTraverse (tree, array) {
   }
   return array
 }
+
 function preOrderTraverse (tree, array) {
   if (tree !== null) {
     array.push(tree.value)
