@@ -1,4 +1,4 @@
-/* eslint no-use-before-define: 0 */ // --> OFF
+
 // O(n) Time and O(n) Space Complexity
 
 function inOrderTraverse (tree, array) {
