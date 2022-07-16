@@ -1,7 +1,7 @@
 /* eslint no-use-before-define: 0 */ // --> OFF
 // O(n) Time and O(n) Space Complexity
 
-function inOrderTraverse (tree, array) {
+inOrderTraverse=function (tree, array) {
   if (tree !== null) {
     inOrderTraverse(tree.left, array)
     array.push(tree.value)
@@ -9,7 +9,7 @@ function inOrderTraverse (tree, array) {
   }
   return array
 }
-function preOrderTraverse (tree, array) {
+preOrderTraverse =function (tree, array) {
   if (tree !== null) {
     array.push(tree.value)
     preOrderTraverse(tree.left, array)
@@ -17,7 +17,7 @@ function preOrderTraverse (tree, array) {
   }
 }
 
-function postOrderTraverse (tree, array) {
+postOrderTraverse =function(tree, array) {
   if (tree !== null) {
     postOrderTraverse(tree.left, array)
     postOrderTraverse(tree.right, array)
@@ -25,6 +25,7 @@ function postOrderTraverse (tree, array) {
   }
 }
 
-exports.inOrderTraverse = inOrderTraverse
-exports.preOrderTraverse = preOrderTraverse
-exports.postOrderTraverse = postOrderTraverse
+export {preOrderTraverse};
+export{inOrderTraverse};
+export{postOrderTraverse}
+
