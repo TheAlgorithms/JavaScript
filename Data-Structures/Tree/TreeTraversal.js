@@ -15,6 +15,7 @@ function preOrderTraverse (tree, array) {
     preOrderTraverse(tree.left, array)
     preOrderTraverse(tree.right, array)
   }
+  return array
 }
 
 function postOrderTraverse (tree, array) {
@@ -23,8 +24,7 @@ function postOrderTraverse (tree, array) {
     postOrderTraverse(tree.right, array)
     array.push(tree.value)
   }
+  return array
 }
 
-export { preOrderTraverse }
-export { inOrderTraverse }
-export { postOrderTraverse }
+export { inOrderTraverse, preOrderTraverse, postOrderTraverse }
