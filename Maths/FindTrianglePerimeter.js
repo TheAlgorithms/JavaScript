@@ -3,11 +3,7 @@
 * The total length of a triangle's sides makes up the perimeter.
 * Algorithm to find the perimeter of a triangle
 */
-
-function findTrianglePerimeter(x, y, z) {   
-  
-    return (x + y + z);
-
-  }
-
+function findTrianglePerimeter (x, y, z) {
+  return x + y + z
+}
 export { findTrianglePerimeter }
