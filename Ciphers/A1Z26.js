@@ -1,5 +1,5 @@
 /**
- * @description - A simple encrytion tenichque by replace each letter with its position in the alphabet (A = 1, B = 2, … Z = 26)
+ * @description - A simple encryption tenichque by replace each letter with its position in the alphabet (A = 1, B = 2, … Z = 26)
  * @see - (https://www.dcode.fr/letter-number-cipher)
  */
 
@@ -42,7 +42,7 @@ function decrypt (str) {
   if (isString(str)) {
     str = str.split(' ')
     for (let x = 0; x < str.length; x++) {
-      if (str[x] === 0) result += ' '
+      if (str[x] === '0') result += ' '
       else result += key[str[x] - 1]
     }
   }
