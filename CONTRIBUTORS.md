@@ -1148,7 +1148,7 @@
 
 - [@Dolph9](https://github.com/Dolph9)
 
-- [@Dominicmxrtinez](https://github.com/dominicmxrtinez)
+- [@DominicMxrtinez](https://github.com/DominicMxrtinez)
 
 - [@Don1525](https://github.com/don1525)
 
