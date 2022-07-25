@@ -2,24 +2,25 @@
  * calculate the maximum contiguous subarray sum for a given array.
  * Below is the implementation of kadanes's algorithm along with
  * some sample test cases.
- * There might be a special case in this problem if al the elements
- * of the given array are negative. In such a case, the maximum negative
- * value present in the array is the answer.
- *
- * Reference article :- https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/
+ * In case of All negative number's it return's maximum of negative number.
  */
 
 export function kadaneAlgo (array) {
-  let cummulativeSum = 0
-  let maxSum = Number.NEGATIVE_INFINITY // maxSum has the least possible value
-  for (let i = 0; i < array.length; i++) {
-    cummulativeSum = cummulativeSum + array[i]
-    if (maxSum < cummulativeSum) {
-      maxSum = cummulativeSum
-    } else if (cummulativeSum < 0) {
-      cummulativeSum = 0
+    if(array.length==0) // if array is empty then maximum subarray sum will be 0
+        return 0;
+    // cumulative sum holds the prefix sum of array
+    let minimum=array[0],size=array.length;
+    // Maximum cumulative sum is subtracted from minimum cumulative sum to find the maximum  subarray sum.
+    let cumulativeSum=array[0],maxSubArraySum=array[0];
+    for(i=1;i<size;i++){
+     cumulativeSum+=array[i];
+     if(cumulativeSum>maxSubArraySum)
+         maxSubArraySum=cumulativeSum;
+     if(cumulativeSum-minimum> maxSubArraySum)
+         maxSubArraySum=cumulativeSum-minimum;
+     if(cumulativeSum<minimum)
+         minimum=cumulativeSum;
     }
-  }
-  return maxSum
-  // This function returns largest sum contiguous sum in a array
+    return maxSubArraySum;
+  // This function returns largest subarray sum of an array.
 }
