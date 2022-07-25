@@ -12,7 +12,7 @@ export function kadaneAlgo (array) {
     let minimum=array[0],size=array.length;
     // Maximum cumulative sum is subtracted from minimum cumulative sum to find the maximum  subarray sum.
     let cumulativeSum=array[0],maxSubArraySum=array[0];
-    for(i=1;i<size;i++){
+    for(let i=1;i<size;i++){
      cumulativeSum+=array[i];
      if(cumulativeSum>maxSubArraySum)
          maxSubArraySum=cumulativeSum;
