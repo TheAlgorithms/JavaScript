@@ -26,5 +26,5 @@ export function collatz (n) {
     steps.push(n)
   }
 
-  return { result: n, steps: steps}
+  return { result: n, steps: steps }
 }
