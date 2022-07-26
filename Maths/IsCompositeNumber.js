@@ -13,7 +13,7 @@
  */
 
 function isCompositeNumber (number) {
-  // Conditions that can immediate skip:
+  // Conditions that can immediate gain result:
   // Corner cases
   if (number <= 1) return false
   if (number <= 3) return false
