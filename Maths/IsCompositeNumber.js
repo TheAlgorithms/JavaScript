@@ -9,22 +9,22 @@
  * First few composite numbers are 4, 6, 8, 9, 10, 12, 14, 15, 16, 18, 20, ………
  * Every integer greater than one is either a prime number or a composite number.
  * The number one is a unit – it is neither prime nor composite.
+ * Reference: https://www.geeksforgeeks.org/composite-number/
  */
 
 function isCompositeNumber (number) {
-  let i = 1
-  let count = 0
-  while (number >= i) {
-    if (number % i === 0) {
-      count++
-    }
-    i++
+  // Condition that can immediate skip:
+  // Corner cases
+  if (number <= 1) return false
+  if (number <= 3) return false
+  // middle five numbers in below loop
+  if (number % 2 === 0 || number % 3 === 0) return true
+
+  for (let i = 5; i * i <= number; i = i + 6) {
+    if (number % i === 0 || number % (i + 2) === 0) { return true }
   }
-  if (count > 2) {
-    return true
-  } else {
-    return false
-  }
+
+  return false
 }
 
 export { isCompositeNumber }
