@@ -13,11 +13,11 @@
  */
 
 function isCompositeNumber (number) {
-  // Condition that can immediate skip:
+  // Conditions that can immediate skip:
   // Corner cases
   if (number <= 1) return false
   if (number <= 3) return false
-  // middle five numbers in below loop
+  // Middle five numbers in below loop
   if (number % 2 === 0 || number % 3 === 0) return true
 
   for (let i = 5; i * i <= number; i = i + 6) {
