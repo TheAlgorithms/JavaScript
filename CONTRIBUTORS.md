@@ -1148,7 +1148,7 @@
 
 - [@Dolph9](https://github.com/Dolph9)
 
-- [@Dominicmxrtinez](https://github.com/dominicmxrtinez)
+- [@DominicMxrtinez](https://github.com/DominicMxrtinez)
 
 - [@Don1525](https://github.com/don1525)
 
@@ -1701,6 +1701,8 @@
 - [@Hxiangchang](https://github.com/HXiangChang)
 
 - [@Hychanbn1009](https://github.com/hychanbn1009/)
+
+- [@Hyelnatzz](https://github.com/hyelnatzz)
 
 - [@I1Hpi](https://github.com/I1hpI)
 
@@ -4887,5 +4889,23 @@
 -[@alexchiu00](https://github.com/alexchiu00)
 
 -[@vukpavlovic007](https://github.com/vukpavlovic007)
+
+-[@vhickk](https://github.com/vhickk)
+
+-[@MatheusTKoch](https://github.com/MatheusTKoch)
+
+-[@tofe54](https://github.com/tofe54)
+
+-[@ks817](https://github.com/ks817)
+-[@Genie-world]()https://github.com/Genie-world
+
+-[@butterfly1of4](https://github.com/butterfly1of4)
+-[@igbenjoe](https://github.com/igbenjoe)
+
+[lammydummy](https://github.com/lammydummy)
+
+-[@valadot](https://github.com/Valadot)
+
+-[@sennenhyorou](https://github.com/SennenHyorou)
 
 -[@nandhinipv](https://github.com/nandhinipv)
