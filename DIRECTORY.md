@@ -18,6 +18,7 @@
 * **Cellular-Automata**
   * [ConwaysGameOfLife](Cellular-Automata/ConwaysGameOfLife.js)
 * **Ciphers**
+  * [AffineCipher](Ciphers/AffineCipher.js)
   * [Atbash](Ciphers/Atbash.js)
   * [CaesarsCipher](Ciphers/CaesarsCipher.js)
   * [KeyFinder](Ciphers/KeyFinder.js)
