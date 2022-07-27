@@ -9,7 +9,7 @@ export function GetEuclidGCD(a, b) {
     throw new TypeError('Arguments must be numbers')
   }
   a, b = Math.abs(a), Math.abs(b)
-  if (a == 0 && b == 0) return undefined // infinitely many numbers divide 0
+  if (a === 0 && b === 0) return undefined // infinitely many numbers divide 0
   if (a < 0) a = -a
   if (b < 0) b = -b
   while (b !== 0) {
