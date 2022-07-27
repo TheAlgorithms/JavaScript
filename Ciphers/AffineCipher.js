@@ -50,7 +50,7 @@ function isCorrectFormat (str, a, b) {
 /**
  * Find character index based on ASCII order
  * @param {String} char - Character index to be found
- * @return {Boolean} Chracter index
+ * @return {Boolean} Character index
  */
 function findCharIndex (char) {
   return char.toUpperCase().charCodeAt(0) - ('A').charCodeAt(0)
