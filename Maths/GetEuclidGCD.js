@@ -18,5 +18,5 @@ export function GetEuclidGCD (a, b) {
     a = b
     b = rem
   }
-  return b
+  return a
 }
