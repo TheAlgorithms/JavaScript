@@ -195,6 +195,7 @@
   * [RadianToDegree](Maths/RadianToDegree.js)
   * [ReverseNumber](Maths/ReverseNumber.js)
   * [ReversePolishNotation](Maths/ReversePolishNotation.js)
+  * [ShorsAlgorithm](Maths/ShorsAlgorithm.js)
   * [SieveOfEratosthenes](Maths/SieveOfEratosthenes.js)
   * [SimpsonIntegration](Maths/SimpsonIntegration.js)
   * [Softmax](Maths/Softmax.js)
