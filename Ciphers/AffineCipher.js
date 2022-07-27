@@ -47,6 +47,14 @@ function isCorrectFormat (str, a, b) {
 
   return true
 }
+/**
+ * Find character index based on ASCII order
+ * @param {String} char - Character index to be found
+ * @return {Boolean} Chracter index
+ */
+function findCharIndex (char) {
+  return char.toUpperCase().charCodeAt(0) - ('A').charCodeAt(0)
+}
 
 /**
  * Encrypt a Affine Cipher
@@ -59,13 +67,13 @@ function encrypt (str, a, b) {
   let result = ''
   if (isCorrectFormat(str, a, b)) {
     for (let x = 0; x < str.length; x++) {
-      if (key.indexOf(str[x].toUpperCase()) === -1) result += '-1' + ' '
-      else result += mod(a * key.indexOf(str[x].toUpperCase()) + b, 26) + ' '
+      const charIndex = findCharIndex(str[x])
+      if (charIndex < 0) result += '-1' + ' '
+      else result += mod(a * charIndex + b, 26) + ' '
     }
   }
   return result.trim()
 }
-
 /**
  * Decrypt a Affine Cipher
  * @param {String} str - String to be decrypted
