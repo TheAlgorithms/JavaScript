@@ -18,7 +18,7 @@
  * guess by using the fact that for two coprimes A and B, A^p = mB + 1.
  * For our purposes, this means that g^p = mN + 1. This mathematical
  * identity can be rearranged into (g^(p/2) + 1)(g^(p/2) - 1) = mN.
- * Provided that p/2 is an integer, and nither g^(p/2) + 1 nor g^(p/2) - 1
+ * Provided that p/2 is an integer, and neither g^(p/2) + 1 nor g^(p/2) - 1
  * are a multiple of N, either g^(p/2) + 1 or g^(p/2) - 1 must share a
  * factor with N, which can then be found using Euclid's GCD algorithm.
  */
@@ -73,7 +73,7 @@ function findP (A, B) {
  * @param {BigInt} A
  * @param {BigInt} B
  * @param {BigInt} p
- * @returns Wether A, B, and p fulfill A^p = mB + 1.
+ * @returns Whether A, B, and p fulfill A^p = mB + 1.
  */
 function isValidP (A, B, p) {
   // A^p = mB + 1 => A^p - 1 = 0 (mod B)
