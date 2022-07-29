@@ -1,4 +1,5 @@
 # CONTRIBUTORS
+- [@mig-uel](https://github.com/mig-uel)
 - [@Jenniferwonder](https://github.com/Jenniferwonder)
 - [@stuartmuyambi](https://github.com/stuartmuyambi/)
 -[@gi-corp](https://github.com/GI-Corp)
