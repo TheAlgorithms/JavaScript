@@ -4,6 +4,8 @@
 - [@stuartmuyambi](https://github.com/stuartmuyambi/)
 -[@gi-corp](https://github.com/GI-Corp)
 
+-[@adhirajkar3103](https://github.com/adhirajkar3103)
+
 - [@kavyachigurupati](https://github.com/kavyachigurupati)
 
 - [@TheCypher](https://github.com/Vishal-Padia)
