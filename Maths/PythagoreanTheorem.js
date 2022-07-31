@@ -24,8 +24,8 @@ const calcOtherSides = (hypothenuse, side1) => {
   if (side1 >= hypothenuse) {
     return 'Length of side1 must be smaller than hypothenuse'
   }
-    const side2 = Math.sqrt((hypothenuse ** 2) - (side1 ** 2))
-    return side2
+  const side2 = Math.sqrt((hypothenuse ** 2) - (side1 ** 2))
+  return side2
 }
 
 export {
