@@ -1,34 +1,31 @@
 import { islands } from '../NumberOfIslands'
 
 describe('Number of Islands', () => {
-  test('Test Case 1', () => {
+  test('Graph with three islands', () => {
     const graph = [
       ['1', '1', '0', '0', '0'],
       ['1', '1', '0', '0', '0'],
       ['0', '0', '1', '0', '0'],
       ['0', '0', '0', '1', '1']
     ]
-    const result = islands(graph)
-    expect(result).toBe(3)
+    expect(islands(graph)).toBe(3)
   })
 
-  test('Test Case 2', () => {
+  test('Graph with only one island', () => {
     const graph = [
       ['1', '1'],
       ['1', '1'],
       ['0', '0'],
       ['0', '0']
     ]
-    const result = islands(graph)
-    expect(result).toBe(1)
+    expect(islands(graph)).toBe(1)
   })
 
-  test('Test Case 3', () => {
+  test('No islands', () => {
     const graph = [
       ['0', '0'],
       ['0', '0']
     ]
-    const result = islands(graph)
-    expect(result).toBe(0)
+    expect(islands(graph)).toBe(0)
   })
 })
