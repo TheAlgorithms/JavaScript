@@ -3,6 +3,7 @@
  * @see - [wiki](https://en.wikipedia.org/wiki/Affine_cipher)
  */
 
+import { CoPrimeCheck } from '../Maths/CoPrimeCheck'
 // Default key for Affine Cipher
 const key = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
 
@@ -29,27 +30,6 @@ function inverseMod (a, m) {
 }
 
 /**
- * GetEuclidGCD Euclidean algorithm to determine the GCD of two numbers
- * @param {Number} a integer (may be negative)
- * @param {Number} b integer (may be negative)
- * @returns {Number} Greatest Common Divisor gcd(a, b)
- */
-function GetEuclidGCD (a, b) {
-  if (typeof a !== 'number' || typeof b !== 'number') {
-    throw new TypeError('Arguments must be numbers')
-  }
-  if (a === 0 && b === 0) return undefined // infinitely many numbers divide 0
-  a = Math.abs(a)
-  b = Math.abs(b)
-  while (b !== 0) {
-    const rem = a % b
-    a = b
-    b = rem
-  }
-  return a
-}
-
-/**
  * Argument validation
  * @param {String} str - String to be checked
  * @param {Number} a - A coefficient to be checked
@@ -65,7 +45,7 @@ function isCorrectFormat (str, a, b) {
     throw new TypeError('Argument str should be String')
   }
 
-  if (!(GetEuclidGCD(a, 26) === 1)) {
+  if (!CoPrimeCheck(a, 26)) {
     throw new Error(a + ' is not coprime of 26 !!!')
   }
 
