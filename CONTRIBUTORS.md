@@ -2118,6 +2118,8 @@
 
 - [@Kareem42](https://github.com/Kareem42)
 
+- [@KarenDouglas](https://github.com/KarenDouglas)
+
 - [@Karolpauldesign](https://github.com/karolpaul-design)
 
 - [@Karthiknatarajan27558](https://github.com/karthiknatarajan-27558)
