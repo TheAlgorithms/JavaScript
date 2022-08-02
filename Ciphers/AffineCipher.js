@@ -29,6 +29,27 @@ function inverseMod (a, m) {
 }
 
 /**
+ * GetEuclidGCD Euclidean algorithm to determine the GCD of two numbers
+ * @param {Number} a integer (may be negative)
+ * @param {Number} b integer (may be negative)
+ * @returns {Number} Greatest Common Divisor gcd(a, b)
+ */
+function GetEuclidGCD (a, b) {
+  if (typeof a !== 'number' || typeof b !== 'number') {
+    throw new TypeError('Arguments must be numbers')
+  }
+  if (a === 0 && b === 0) return undefined // infinitely many numbers divide 0
+  a = Math.abs(a)
+  b = Math.abs(b)
+  while (b !== 0) {
+    const rem = a % b
+    a = b
+    b = rem
+  }
+  return a
+}
+
+/**
  * Argument validation
  * @param {String} str - String to be checked
  * @param {Number} a - A coefficient to be checked
@@ -44,8 +65,13 @@ function isCorrectFormat (str, a, b) {
     throw new TypeError('Argument str should be String')
   }
 
+  if (!(GetEuclidGCD(a, 26) === 1)) {
+    throw new Error(a + ' is not coprime of 26 !!!')
+  }
+
   return true
 }
+
 /**
  * Find character index based on ASCII order
  * @param {String} char - Character index to be found
@@ -62,17 +88,19 @@ function findCharIndex (char) {
  * @param {Number} b - B coefficient
  * @return {String} result - Encrypted string
  */
+
 function encrypt (str, a, b) {
   let result = ''
   if (isCorrectFormat(str, a, b)) {
     for (let x = 0; x < str.length; x++) {
       const charIndex = findCharIndex(str[x])
       if (charIndex < 0) result += '-1' + ' '
-      else result += mod(a * charIndex + b, 26) + ' '
+      else result += key.charAt(mod(a * charIndex + b, 26)) + ' '
     }
   }
   return result.trim()
 }
+
 /**
  * Decrypt a Affine Cipher
  * @param {String} str - String to be decrypted
@@ -86,10 +114,12 @@ function decrypt (str, a, b) {
     str = str.split(' ')
     for (let x = 0; x < str.length; x++) {
       if (str[x] === '-1') result += ' '
-      else result += key[mod(inverseMod(a, 26) * (parseInt(str[x]) - b), 26)]
+      else {
+        const charIndex = findCharIndex(str[x])
+        result += key[mod(inverseMod(a, 26) * (charIndex - b), 26)]
+      }
     }
+    return result
   }
-  return result
 }
-
 export { encrypt, decrypt }
