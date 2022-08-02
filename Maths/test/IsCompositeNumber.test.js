@@ -1,4 +1,4 @@
-import { isCompositeNumber } from '../IsCompositeNumber'
+import { isCompositeNumber } from '../IsKrishnamurthyNumber'
 
 describe('Testing isCompositeNumber function', () => {
   it('should return true if the number is composite number', () => {
