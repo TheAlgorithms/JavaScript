@@ -1,8 +1,9 @@
 /**
- * @description - The affine cipher is a type of monoalphabetic substitution cipher, where each letter in an alphabet is mapped to    its numeric equivalent, encrypted using a simple mathematical function, and converted back to a letter
+ * @description - The affine cipher is a type of monoalphabetic substitution cipher, where each letter in an alphabet is mapped to its numeric equivalent, encrypted using a simple mathematical function, and converted back to a letter
  * @see - [wiki](https://en.wikipedia.org/wiki/Affine_cipher)
  */
 
+import { CoPrimeCheck } from '../Maths/CoPrimeCheck'
 // Default key for Affine Cipher
 const key = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
 
@@ -44,8 +45,13 @@ function isCorrectFormat (str, a, b) {
     throw new TypeError('Argument str should be String')
   }
 
+  if (!CoPrimeCheck(a, 26)) {
+    throw new Error(a + ' is not coprime of 26')
+  }
+
   return true
 }
+
 /**
  * Find character index based on ASCII order
  * @param {String} char - Character index to be found
@@ -62,17 +68,19 @@ function findCharIndex (char) {
  * @param {Number} b - B coefficient
  * @return {String} result - Encrypted string
  */
+
 function encrypt (str, a, b) {
   let result = ''
   if (isCorrectFormat(str, a, b)) {
     for (let x = 0; x < str.length; x++) {
       const charIndex = findCharIndex(str[x])
       if (charIndex < 0) result += '-1' + ' '
-      else result += mod(a * charIndex + b, 26) + ' '
+      else result += key.charAt(mod(a * charIndex + b, 26)) + ' '
     }
   }
   return result.trim()
 }
+
 /**
  * Decrypt a Affine Cipher
  * @param {String} str - String to be decrypted
@@ -86,10 +94,12 @@ function decrypt (str, a, b) {
     str = str.split(' ')
     for (let x = 0; x < str.length; x++) {
       if (str[x] === '-1') result += ' '
-      else result += key[mod(inverseMod(a, 26) * (parseInt(str[x]) - b), 26)]
+      else {
+        const charIndex = findCharIndex(str[x])
+        result += key[mod(inverseMod(a, 26) * (charIndex - b), 26)]
+      }
     }
+    return result
   }
-  return result
 }
-
 export { encrypt, decrypt }
