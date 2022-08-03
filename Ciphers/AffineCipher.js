@@ -1,5 +1,5 @@
 /**
- * @description - The affine cipher is a type of monoalphabetic substitution cipher, where each letter in an alphabet is mapped to    its numeric equivalent, encrypted using a simple mathematical function, and converted back to a letter
+ * @description - The affine cipher is a type of monoalphabetic substitution cipher, where each letter in an alphabet is mapped to its numeric equivalent, encrypted using a simple mathematical function, and converted back to a letter
  * @see - [wiki](https://en.wikipedia.org/wiki/Affine_cipher)
  */
 
@@ -46,7 +46,7 @@ function isCorrectFormat (str, a, b) {
   }
 
   if (!CoPrimeCheck(a, 26)) {
-    throw new Error(a + ' is not coprime of 26 !!!')
+    throw new Error(a + ' is not coprime of 26')
   }
 
   return true
