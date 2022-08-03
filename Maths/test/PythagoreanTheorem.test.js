@@ -6,12 +6,12 @@ test('Testing on hypothenuse calculation', () => {
 })
 
 test('Testing on other sides calculation', () => {
-  const side = pytheorem.calcAdjacent(4.0, 3.0)
+  const side = pytheorem.calcOtherSide(4.0, 3.0)
   expect(side).toBe(2.0)
 })
 
 test('Testing on other sides calculation', () => {
-  const side = pytheorem.calcAdjacent(2.0, 4.0)
+  const side = pytheorem.calcOtherSide(2.0, 4.0)
   expect(side).toBe('Length of side1 must be smaller than hypothenuse')
 })
 
