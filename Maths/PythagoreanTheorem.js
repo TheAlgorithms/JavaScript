@@ -20,7 +20,7 @@ const calcHypothenuse = (side1, side2) => {
  * @see [calcOtherSides](https://en.wikipedia.org/wiki/Pythagorean_theorem)
  * @example calcOtherSides(4, 3) = 2
  */
-const calcOtherSides = (hypothenuse, side1) => {
+const calcOtherSide = (hypothenuse, side1) => {
   if (side1 >= hypothenuse) {
     return 'Length of side1 must be smaller than hypothenuse'
   }
