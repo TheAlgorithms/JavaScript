@@ -12,13 +12,13 @@ const calcHypothenuse = (side1, side2) => {
   return hypothenuse
 }
 /**
- * @function calcOtherSides
+ * @function calcOtherSide
  * @description Calculate the length of other sides of triangle
  * @param {Integer} hypothenuse - Integer
  * @param {Integer} side1 - Integer
  * @return {Integer} - side2
- * @see [calcOtherSides](https://en.wikipedia.org/wiki/Pythagorean_theorem)
- * @example calcOtherSides(4, 3) = 2
+ * @see [calcOtherSide](https://en.wikipedia.org/wiki/Pythagorean_theorem)
+ * @example calcOtherSide(4, 3) = 2
  */
 const calcOtherSide = (hypothenuse, side1) => {
   if (side1 >= hypothenuse) {
@@ -30,5 +30,5 @@ const calcOtherSide = (hypothenuse, side1) => {
 
 export {
   calcHypothenuse,
-  calcOtherSides,
+  calcOtherSide,
 }
