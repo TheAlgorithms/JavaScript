@@ -5024,3 +5024,5 @@
 -[@anthoniat](https://github.com/anthoniat)
 
 -[@BurritoQuemado](https://github.com/BurritoQuemado)
+
+-[@sean-tait](https://github.com/sean-tait)
