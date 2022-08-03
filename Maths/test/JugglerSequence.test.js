@@ -1,6 +1,6 @@
 import { jugglerSequence } from '../JugglerSequence'
 
-describe('Testing isCompositeNumber function', () => {
+describe('Testing jugglerSequence function', () => {
   it('should return [3, 5, 11, 36, 6, 2, 1 ] if the number is 3', () => {
     expect(jugglerSequence(3)).toEqual(
       expect.arrayContaining([3, 5, 11, 36, 6, 2, 1])
