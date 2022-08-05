@@ -8,7 +8,7 @@
  * @example calcHypothenuse(2, 3) = 4
  */
 const calcHypothenuse = (side1, side2) => {
-  const hypothenuse = Math.sqrt((adjacent ** 2) + (base ** 2))
+  const hypothenuse = Math.sqrt((side1 ** 2) + (side2 ** 2))
   return hypothenuse
 }
 /**
