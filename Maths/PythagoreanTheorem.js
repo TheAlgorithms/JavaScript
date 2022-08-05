@@ -30,5 +30,5 @@ const calcOtherSide = (hypothenuse, side1) => {
 
 export {
   calcHypothenuse,
-  calcOtherSide,
+  calcOtherSide
 }
