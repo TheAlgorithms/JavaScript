@@ -3,6 +3,7 @@
  * @description Traverses/Unrolls array of arrays recursively until nothing is left.
  * @param {Array} matrix - The input array of arrays
  * @return {void}.
+ * @see https://chortle.ccsu.edu/vectorlessons/vmch13/vmch13_2.html
  */
 
 const UnrollMatrix = (matrix) => {
