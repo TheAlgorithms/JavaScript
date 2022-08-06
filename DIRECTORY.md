@@ -170,6 +170,7 @@
   * [IsEven](Maths/IsEven.js)
   * [IsOdd](Maths/IsOdd.js)
   * [IsPronic](Maths/IsPronic.js)
+  * [JugglerSequence](Maths/JugglerSequence.js)
   * [LeapYear](Maths/LeapYear.js)
   * [LinearSieve](Maths/LinearSieve.js)
   * [LucasSeries](Maths/LucasSeries.js)
@@ -236,6 +237,7 @@
   * [Palindrome](Recursive/Palindrome.js)
   * [SubsequenceRecursive](Recursive/SubsequenceRecursive.js)
   * [TowerOfHanoi](Recursive/TowerOfHanoi.js)
+  * [UnrollMatrix](Recursive/UnrollMatrix.js)
 * **Search**
   * [BinarySearch](Search/BinarySearch.js)
   * [ExponentialSearch](Search/ExponentialSearch.js)
