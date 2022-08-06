@@ -9,13 +9,24 @@ const UnrollMatrix = (matrix) => {
   if (matrix.length === 0) return matrix
 
   // sweep top to right
-  matrix.length > 0 ? console.log(...matrix.shift()) : null;
+  if (matrix.length > 0) {
+    console.log(...matrix.shift())
+  }
+
   // sweet top-right to bottom
-  matrix.length > 0 ? console.log(...matrix.map((arr) => arr.pop())) : null;
+  if (matrix.length > 0) {
+    console.log(...matrix.map((arr) => arr.pop()))
+  }
+
   // sweep bottom in reverse
-  matrix.length > 0 ? console.log(...matrix.reverse().pop()) : null;
+  if (matrix.length > 0) {
+    console.log(...matrix.reverse().pop())
+  }
+
   // sweep bottom-left to top
-  matrix.length > 0 ? console.log(...matrix.map((arr) => arr.reverse().shift())) : null;
+  if (matrix.length > 0) {
+    console.log(...matrix.map((arr) => arr.reverse().shift()))
+  }
 
   return UnrollMatrix(matrix)
 }
