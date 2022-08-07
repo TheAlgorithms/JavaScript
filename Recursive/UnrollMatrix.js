@@ -2,7 +2,7 @@
  * @function UnrollMatrix
  * @description Traverses/Unrolls array of arrays recursively until nothing is left.
  * @param {Array} matrix - The input array of arrays
- * @return {void}.
+ * @return {Array} matrix - The empty output array => [].
  * @see https://chortle.ccsu.edu/vectorlessons/vmch13/vmch13_2.html
  */
 
