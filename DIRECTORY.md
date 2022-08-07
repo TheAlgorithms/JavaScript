@@ -198,7 +198,7 @@
   * [ShorsAlgorithm](Maths/ShorsAlgorithm.js)
   * [SieveOfEratosthenes](Maths/SieveOfEratosthenes.js)
   * [SimpsonIntegration](Maths/SimpsonIntegration.js)
-  * [SimpleIntrest](Maths/SimpleIntrest.js)
+  * [SimpleInterest](Maths/SimpleIntrest.js)
   * [Softmax](Maths/Softmax.js)
   * [SquareRoot](Maths/SquareRoot.js)
   * [SumOfDigits](Maths/SumOfDigits.js)
