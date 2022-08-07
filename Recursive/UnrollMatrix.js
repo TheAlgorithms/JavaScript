@@ -1,5 +1,5 @@
 /**
- * @function Matrix
+ * @function UnrollMatrix
  * @description Traverses/Unrolls array of arrays recursively until nothing is left.
  * @param {Array} matrix - The input array of arrays
  * @return {void}.
