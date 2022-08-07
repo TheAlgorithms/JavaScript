@@ -1,4 +1,4 @@
-import { SimpleInterest } from '../SimpleIntrest'
+import { SimpleInterest } from '../SimpleInterest'
 
 describe('Testing Simple Interest Rate calculate function', () => {
   it('should 750 for principal = 5000, rate = 5%, time = 3 yrs', () => {
