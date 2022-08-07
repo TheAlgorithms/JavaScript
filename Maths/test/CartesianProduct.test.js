@@ -1,4 +1,4 @@
-import {cartesianProduct} from '../cartesianProduct';
+import {cartesianProduct} from '../CartesianProduct';
 
 describe('cartesianProduct', () => {
   it('should return null if not enough info for calculation', () => {
