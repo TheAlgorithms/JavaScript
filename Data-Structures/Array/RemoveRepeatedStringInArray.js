@@ -7,9 +7,9 @@
  * @example removeRepeatedStringFromArray('apple', 'banana', 'apple', 'orange', 'coconut', 'coconut') => [ 'apple', 'banana', 'orange', 'coconut' ]
  */
 
- const removeRepeatedStringFromArray = (...arrays) => {
-    let uniqueStr = [...new Set(arrays)]
-    return uniqueStr
+const removeRepeatedStringFromArray = (...arrays) => {
+	let uniqueStr = [...new Set(arrays)]
+	return uniqueStr
 }
 
-export {removeRepeatedStringFromArray}
+export { removeRepeatedStringFromArray }
