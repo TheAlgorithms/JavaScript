@@ -17,7 +17,8 @@
  * number and result of left shift performed just before.
  *
  * References:
- * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Bitwise_OR
+ * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Bitwise_OR (|)
+ * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Left_shift (<<)
  */
 
 /**
