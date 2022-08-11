@@ -46,6 +46,8 @@
 
 - [@999Marv](https://github.com/999Marv)
 
+- [@tamerlantian](https://github.com/tamerlantian)
+
 - [@9Sebastian2](https://github.com/9sebastian2/)
 
 - [@A7Coder](https://github.com/a7coder)
