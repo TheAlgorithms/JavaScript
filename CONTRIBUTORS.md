@@ -32,6 +32,8 @@
 
 - [@Amaan262](https://github.com/Amaan262)
 
+- [@sam2810](https://github.com/sam2810)
+
 - [@33Kumarram](https://github.com/kumarram)
 
 - [@3Braheem](https://github.com/3braheem)
