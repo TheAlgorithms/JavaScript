@@ -470,6 +470,8 @@
 
 - [@Arnibalt](https://github.com/arnibalt)
 
+- [@arnuld-acog](https://github.com/arnuld-acog)
+
 - [@Aronjts](https://github.com/aronjts)
 
 - [@Aroramrinaal](https://github.com/aroramrinaal)
