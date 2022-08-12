@@ -3992,6 +3992,8 @@
 
 - [@Therockonvhs](https://github.com/TheRockonVHS)
 
+- [@ThierryRakotomanana](https://github.com/ThierryRakotomanana)
+
 - [@Thinh19981998](https://github.com/thinh19981998)
 
 - [@Thisisaryan](https://github.com/ThisIsAryan)
