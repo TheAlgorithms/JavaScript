@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@FabricioCC](https://github.com/FabricioCC)
+
 - [@Thrishank](https://github.com/thrishank)
 
 - [@gateniomer](https://github.com/gateniomer)
