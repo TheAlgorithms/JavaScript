@@ -1,4 +1,7 @@
 # CONTRIBUTORS
+- [@Thrishank](https://github.com/thrishank)
+
+
 -[@gateniomer](https://github.com/gateniomer)
 
 - [@mig-uel](https://github.com/mig-uel)
@@ -4631,7 +4634,7 @@
 -[@ssood12](https://github.com/ssood12)
 
 -[@KirillGos](https://github.com/KirillGos)
-=======
+
 -[@Jatin-7](https://github.com/Jatin-7)
 
 - [@cardonaw](https://github.com/cardonaw)
