@@ -2,15 +2,20 @@
 
 - [@Thrishank](https://github.com/thrishank)
 
-
 -[@gateniomer](https://github.com/gateniomer)
 
 
 - [@mig-uel](https://github.com/mig-uel)
+
 - [@Jenniferwonder](https://github.com/Jenniferwonder)
+
 - [@stuartmuyambi](https://github.com/stuartmuyambi/) -[@gi-corp](https://github.com/GI-Corp)
 
--[@adhirajkar3103](https://github.com/adhirajkar3103)
+- [@gi-corp](https://github.com/GI-Corp)
+
+- [@sahilpingale](https://github.com/sahilpingale)
+
+- [@adhirajkar3103](https://github.com/adhirajkar3103)
 
 - [@kavyachigurupati](https://github.com/kavyachigurupati)
 
@@ -4627,7 +4632,7 @@
 
 -[@ssood12](https://github.com/ssood12)
 
- -[@KirillGos](https://github.com/KirillGos)
+-[@KirillGos](https://github.com/KirillGos)
 
 
 -[@Jatin-7](https://github.com/Jatin-7)
@@ -5015,12 +5020,16 @@
 
 -[@rovinChauhan](https://github.com/rovinChauhan)
 
--[@iamshivex](https://github.com/iamshivex/)
+- [@iamshivex](https://github.com/iamshivex/)
 
 -[@retro-canvas](https://github.com/retro-canvas/)
+
 -[@zarkhanam](https://github.com/zarkhanam/)
+
 -[@SirDegraf](https://github.com/SirDegraf)
+
 -[@Harishtr1](https://github.com/Harishtr1)
+
 -[@tunchi_stuntin](https://github.com/tunchi_stuntin)
 
 -[@giabach99](https://github.com/giabach99)
