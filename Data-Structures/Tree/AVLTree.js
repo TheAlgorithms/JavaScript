@@ -90,14 +90,14 @@ const AVLTree = (function () {
   }
 
   // check if tree is balanced else balance it for insertion
-  const insertBalance = function (node, _val, balanceFactor) {
-    if (balanceFactor > 1 && _val < node._left._val) {
+  const insertBalance = function (node, _val, balanceFactor, tree) {
+    if (balanceFactor > 1 && tree._comp(_val, node._left._val) < 0) {
       return rightRotate(node) // Left Left Case
     }
-    if (balanceFactor < 1 && _val > node._right._val) {
+    if (balanceFactor < 1 && tree._comp(_val, node._right._val) > 0) {
       return leftRotate(node) // Right Right Case
     }
-    if (balanceFactor > 1 && _val > node._left._val) {
+    if (balanceFactor > 1 && tree._comp(_val, node._left._val) > 0) {
       node._left = leftRotate(node._left) // Left Right Case
       return rightRotate(node)
     }
@@ -140,7 +140,7 @@ const AVLTree = (function () {
     }
     updateHeight(root)
     const balanceFactor = getHeightDifference(root)
-    return isValidBalanceFactor(balanceFactor) ? root : insertBalance(root, val, balanceFactor)
+    return isValidBalanceFactor(balanceFactor) ? root : insertBalance(root, val, balanceFactor, tree)
   }
 
   // delete am element
