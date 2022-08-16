@@ -38,6 +38,8 @@
 
 - [@29Ankur](https://github.com/29aNKUR)
 
+- [@sajid19](https://github.com/sajid19)
+
 - [@32Simas](https://github.com/32simas)
 
 - [@Amaan262](https://github.com/Amaan262)
@@ -5150,7 +5152,7 @@
 
 - [@shigenogoro](https://github.com/shigenogoro)
 
-- [@HarrisBK96](https://github.com/HarrisBK96) 
+- [@HarrisBK96](https://github.com/HarrisBK96)
 
 - [@mzjoan](https://github.com/mzjoan)
 
@@ -5160,12 +5162,44 @@
 
 - [@jiunjiun69](https://github.com/jiunjiun69)
 
--[@Gokul867](https://github.com/Gokul867)
+- [@Gokul867](https://github.com/Gokul867)
 
--[@Madi9003](https://github.com/Madi9003)
+- [@Madi9003](https://github.com/Madi9003)
 
--[@NDom23](https://github.com/NDom23)
+- [@NDom23](https://github.com/NDom23)
 
--[@kvcli](https://github.com/kvcli)
+- [@kvcli](https://github.com/kvcli)
 
--[@LuisMarin-dev](https://github.com/LuisMarin-dev)
+- [@pree251](https://github.com/pree251)
+
+- [@harshad-kathiriya](https://github.com/harshad-kathiriya)
+
+- [@cctina](https://github.com/cctina)
+
+- [@ManojGayakwad](https://github.com/ManojGayakwad/)
+
+- [@HallaBjork](https://github.com/HallaBjork)
+
+- [@Tatakoms](https://github.com/Tatakoms)
+
+- [@crsecu](https://github.com/crsecu)
+
+- [@mandeepharsh](https://github.com/mandeepharsh)
+
+- [@mcooper7649](https://github.com/mcooper7649)
+
+- [@wfmonster](https://github.com/wfmonster)
+
+- [@erikaaquino](https://github.com/erikaaquino)
+
+- [@dan-chibuogwu17](https://github.com/dan-chibuogwu17)
+
+- [@siddhant-afk](https://github.com/siddhant-afk)
+
+- [@Voyar1](https://github.com/Voyar1)
+
+- [@maxelbo](https://github.com/maxelbo)
+
+- [@clogan149](https://github.com/clogan149)
+
+- [@LuisMarin-dev](https://github.com/LuisMarin-dev)
