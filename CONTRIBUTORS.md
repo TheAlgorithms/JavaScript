@@ -38,6 +38,8 @@
 
 - [@29Ankur](https://github.com/29aNKUR)
 
+- [@sajid19](https://github.com/sajid19)
+
 - [@32Simas](https://github.com/32simas)
 
 - [@Amaan262](https://github.com/Amaan262)
