@@ -5190,6 +5190,6 @@
 
 - [@wfmonster](https://github.com/wfmonster)
 
--[@erikaaquino](https://github.com/erikaaquino)
+- [@erikaaquino](https://github.com/erikaaquino)
 
 - [@dan-chibuogwu17](https://github.com/dan-chibuogwu17)
