@@ -5190,10 +5190,12 @@
 
 - [@wfmonster](https://github.com/wfmonster)
 
--[@erikaaquino](https://github.com/erikaaquino)
+- [@erikaaquino](https://github.com/erikaaquino)
 
 - [@dan-chibuogwu17](https://github.com/dan-chibuogwu17)
 
 - [@siddhant-afk](https://github.com/siddhant-afk)
 
 - [@Voyar1](https://github.com/Voyar1)
+
+- [@maxelbo](https://github.com/maxelbo)
