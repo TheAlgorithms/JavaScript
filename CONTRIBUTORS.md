@@ -740,6 +740,8 @@
 
 - [@Bytebitbyte](https://github.com/Byte-bit-Byte)
 
+-[@nitinmewar](http://github.com/nitinmewar)
+
 - [@Byungminchoi](https://github.com/PhilosopherProgrammer)
 
 - [@Caesarb34](https://github.com/caesarb-34)
