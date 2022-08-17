@@ -5193,3 +5193,15 @@
 - [@erikaaquino](https://github.com/erikaaquino)
 
 - [@dan-chibuogwu17](https://github.com/dan-chibuogwu17)
+
+- [@siddhant-afk](https://github.com/siddhant-afk)
+
+- [@Voyar1](https://github.com/Voyar1)
+
+- [@maxelbo](https://github.com/maxelbo)
+
+- [@clogan149](https://github.com/clogan149)
+
+- [@LuisMarin-dev](https://github.com/LuisMarin-dev)
+
+- [@nick1092387456](https://github.com/nick1092387456/)
