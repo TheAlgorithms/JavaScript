@@ -5235,3 +5235,5 @@
 -[@skinet](https://github.com/skinet-web/)
 
 -[@KatyH820](https://github.com/KatyH820)
+
+-[@egorKry1ov](https://github.com/egorKry1ov)
