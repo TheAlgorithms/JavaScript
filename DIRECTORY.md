@@ -280,7 +280,6 @@
   * [TimSort](Sorts/TimSort.js)
   * [TopologicalSort](Sorts/TopologicalSort.js)
 * **String**
-  * [AlphaNumericPalindrome](String/AlphaNumericPalindrome.js)
   * [AlternativeStringArrange](String/AlternativeStringArrange.js)
   * [BoyerMoore](String/BoyerMoore.js)
   * [CheckCamelCase](String/CheckCamelCase.js)
