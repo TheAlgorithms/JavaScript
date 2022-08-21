@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [Amelia Dutta](https://github.com/amelia2802)
+
 -[@GyanRatan](https://github.com/GyanRatan)
 
 - [@FabricioCC](https://github.com/FabricioCC)
