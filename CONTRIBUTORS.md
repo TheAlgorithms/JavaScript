@@ -46,6 +46,8 @@
 
 - [@32Simas](https://github.com/32simas)
 
+- [@rufilboy](https://github.com/rufilboy)
+
 - [@Amaan262](https://github.com/Amaan262)
 
 - [@sam2810](https://github.com/sam2810)
