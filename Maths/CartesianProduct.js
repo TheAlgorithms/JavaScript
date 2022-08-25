@@ -8,13 +8,13 @@
 const cartesianProduct = (setA, setB) => {
   // Check if input sets are not empty.
   if (!setA || !setB || !setA.length || !setB.length) {
-    return null
+    return {}
   }
   const product = []
-
-  for (let indexA = 0; indexA < setA.length; indexA += 1) {
-    for (let indexB = 0; indexB < setB.length; indexB += 1) {
-      product.push([setA[indexA], setB[indexB]])
+ 
+  for(let elementA of setA){
+    for(let elementB of setB){
+      product.push([ elementA, elementB])
     }
   }
 
