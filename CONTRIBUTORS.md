@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [An Nguyen Phuoc](https://github.com/phuocantd)
+
 - [Amelia Dutta](https://github.com/amelia2802)
 
 -[@GyanRatan](https://github.com/GyanRatan)
@@ -45,6 +47,8 @@
 - [@sajid19](https://github.com/sajid19)
 
 - [@32Simas](https://github.com/32simas)
+
+- [@rufilboy](https://github.com/rufilboy)
 
 - [@Amaan262](https://github.com/Amaan262)
 
@@ -5288,8 +5292,58 @@
 
 -[@Sourav279](https://github.com/Sourav279/)
 
+-[@MHAD-MHAX](https://github.com/MHAD-MHAX/)
+
 - [@david-001](https://github.com/david-001/)
 
 - [@dorianarri](https://github.com/dorianarri)
 
-- [@dheepak4580](https://github.com/dheepak4580)
+-[ypiat](https://github.com/ypiat/)
+
+-[@awmorrell](https://github.com/awmorrell)
+
+-[@ys4510](https://github.com/ys4510)
+
+-[@fasty13](https://github.com/fasty13)
+
+-[@manasi-20](https://github.com/manasi-20)
+
+-[@AnujDhingra](https://github.com/Anuj0103) //adding name
+
+-[@RocketCraze](https://github.com/RocketCraze)
+
+-[@Markus-Sm](https://github.com/Markus-Sm)
+
+-[@Yarince90](https://github.com/Yarince90)
+
+-[@MiUlon](https://github.com/MiUlon)
+
+-[@Thabet-Chaaouri](https://github.com/Thabet-Chaaouri)
+
+-[@divyapaiv](https://github.com/divyapaiv)
+
+-[@rchin8877](https://github.com/rchin8877)
+
+-[@teenspirit97] (https://github.com/teenspirit97)
+
+-[@RyadC] (https://github.com/RyadC)
+
+-[@K-Wiczling] (https://github.com/K-Wiczling)
+
+-[@fpedrazav02](https://github.com/fpedrazav02/)
+
+- [@Norbert1012](https://github.com/Norbert1012)
+
+- [@talhaozgn](https://github.com/talhaozgn)
+
+-[@VagnerAndrei26](https://github.com/VagnerAndrei26)
+
+-[@kevinxmyr](https://github.com/kevinxmyr)
+
+-[@utkokt](https://github.com/utkokt)
+
+-[@HeWhoShallNotBeMentioned](https://github.com/HeWhoShallNotBeMentioned)
+
+-[@srasmussen3](https://github.com/srasmussen3)
+
+-[@dheepak4580](https://github.com/dheepak4580)
