@@ -5355,3 +5355,5 @@
 - [@DanieleTursi] (https://github.com/DanieleTursi)
 
 -[@nelsonalgarve] (https://github.com/nelsonalgarve)
+
+-[@LaurenceColeman](https://github.com/LaurenceColeman)
