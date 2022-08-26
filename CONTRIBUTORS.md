@@ -2,6 +2,8 @@
 
 - [An Nguyen Phuoc](https://github.com/phuocantd)
 
+- [Hemant](https://github.com/hemantwasthere)
+
 - [Amelia Dutta](https://github.com/amelia2802)
 
 -[@GyanRatan](https://github.com/GyanRatan)
@@ -5349,5 +5351,11 @@
 -[@dheepak4580](https://github.com/dheepak4580)
 
 -[@midocoder87](https://github.com/midocoder87/)
+
+- [@DanieleTursi] (https://github.com/DanieleTursi)
+
+-[@nelsonalgarve] (https://github.com/nelsonalgarve)
+
+-[@LaurenceColeman](https://github.com/LaurenceColeman)
 
 -[@kshreepadk](https://github.com/kshreepadk/)
