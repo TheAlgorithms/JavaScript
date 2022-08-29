@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [Walid Elbir](https://github.com/walidelbiir)
+
 - [An Nguyen Phuoc](https://github.com/phuocantd)
 
 - [Hemant](https://github.com/hemantwasthere)
