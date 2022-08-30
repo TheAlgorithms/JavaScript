@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@himashuBisht](https://github.com/himashuBisht)
+
 - [Walid Elbir](https://github.com/walidelbiir)
 
 - [An Nguyen Phuoc](https://github.com/phuocantd)
@@ -5408,8 +5410,7 @@
 
 -[@Silviu1995]([https://github.com/Silviu1995])
 
--[@bobbysilva11]([https://github.com/bobbysilva11])
--[@exxonose]([https://github.com/exxonose])
+-[@bobbysilva11]([https://github.com/bobbysilva11]) -[@exxonose]([https://github.com/exxonose])
 
 -[@cjgonzalezh](https://github.com/cjgonzalezh)
 
