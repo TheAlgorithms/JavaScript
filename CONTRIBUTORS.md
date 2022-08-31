@@ -20,6 +20,8 @@
 
 - [@Jenniferwonder](https://github.com/Jenniferwonder)
 
+- [@hoyeen01](https://github.com/hoyeen01)
+
 - [@stuartmuyambi](https://github.com/stuartmuyambi/)
 
 - [@gi-corp](https://github.com/GI-Corp)
