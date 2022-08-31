@@ -5441,4 +5441,6 @@
 
 -[@NLeflohic](https://github.com/NLeflohic)
 
--[@SEN-RAD] (https://github.com/SEN-RAD)
+-[@SEN-RAD](https://github.com/SEN-RAD)
+
+-[@VerDanT](https://github.com/NVergil)
