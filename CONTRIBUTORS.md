@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@himashuBisht](https://github.com/himashuBisht)
+
 - [Walid Elbir](https://github.com/walidelbiir)
 
 - [An Nguyen Phuoc](https://github.com/phuocantd)
@@ -5471,3 +5473,4 @@
 - [@rzilla92](https://github.com/rzilla92)
 
 - [@veronisab](https://github.com/veronisab)
+
