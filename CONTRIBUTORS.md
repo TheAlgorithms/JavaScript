@@ -5493,3 +5493,5 @@
 - [@adimrs](https://github.com/adimrs/)
 
 - [@Blackbullet99](https://github.com/Blackbullet99)
+
+- [@rubberduck-offline](https://github.com/rubberduck-offline)
