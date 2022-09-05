@@ -5495,8 +5495,6 @@
 
 - [@rubberduck-offline](https://github.com/rubberduck-offline)
 
-<<<<<<< HEAD
-=======
 - [@pawulon2](https://github.com/pawulon2)
 
 - [@udit2022](https://github.com/udit2022/)
@@ -5509,10 +5507,6 @@
 
 - [@UsmResees](https://github.com/UsmResees)
 
-<<<<<<< HEAD
->>>>>>> master
-- [@MrHawker](https://github.com/MrHawker)
-=======
 - [@mrgiles1](https://github.com/mrgiles1)
 
 - [@usama1095854](https://github.com/usama1095854)
@@ -5522,4 +5516,6 @@
 - [@saud06](https://github.com/saud06)
 
 - [@cpk3](https://github.com/cpk3)
->>>>>>> e4cdbb10b565e7733914347cfe58891f435c8ac7
+
+- [@MrHawker](https://github.com/MrHawker)
+
