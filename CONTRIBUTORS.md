@@ -5481,7 +5481,6 @@
 - [@evcareeria](https://github.com/EVCareeria/)
 
 - [@Valentinws](https://github.com/Valentinws)
-  
 - [@fawazadeniji123](https://github.com/fawazadeniji123)
 
 - [@mayanknasa](https://github.com/mayanknasa)
@@ -5510,5 +5509,17 @@
 
 - [@UsmResees](https://github.com/UsmResees)
 
+<<<<<<< HEAD
 >>>>>>> master
 - [@MrHawker](https://github.com/MrHawker)
+=======
+- [@mrgiles1](https://github.com/mrgiles1)
+
+- [@usama1095854](https://github.com/usama1095854)
+
+- [@dengkaiDK](https://github.com/dengkaiDK)
+
+- [@saud06](https://github.com/saud06)
+
+- [@cpk3](https://github.com/cpk3)
+>>>>>>> e4cdbb10b565e7733914347cfe58891f435c8ac7
