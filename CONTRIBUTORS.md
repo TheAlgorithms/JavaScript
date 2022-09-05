@@ -5484,4 +5484,28 @@
   
 - [@fawazadeniji123](https://github.com/fawazadeniji123)
 
--[@mrgiles1](https://github.com/mrgiles1)
+- [@mayanknasa](https://github.com/mayanknasa)
+
+- [@amannegi](https://github.com/amannegi)
+
+-[@cristimanea26](https://github.com/cristimanea26)
+
+- [@adimrs](https://github.com/adimrs/)
+
+- [@Blackbullet99](https://github.com/Blackbullet99)
+
+- [@rubberduck-offline](https://github.com/rubberduck-offline)
+
+- [@pawulon2](https://github.com/pawulon2)
+
+- [@udit2022](https://github.com/udit2022/)
+
+- [@devTaehong](https://github.com/devTaehong/)
+
+- [@gentcod](https://github.com/gentcod)
+
+- [@awerner5413](https://github.com/awerner5413)
+
+- [@UsmResees](https://github.com/UsmResees)
+
+- [@mrgiles1](https://github.com/mrgiles1)
