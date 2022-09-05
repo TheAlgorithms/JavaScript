@@ -5496,4 +5496,19 @@
 
 - [@rubberduck-offline](https://github.com/rubberduck-offline)
 
+<<<<<<< HEAD
+=======
+- [@pawulon2](https://github.com/pawulon2)
+
+- [@udit2022](https://github.com/udit2022/)
+
+- [@devTaehong](https://github.com/devTaehong/)
+
+- [@gentcod](https://github.com/gentcod)
+
+- [@awerner5413](https://github.com/awerner5413)
+
+- [@UsmResees](https://github.com/UsmResees)
+
+>>>>>>> master
 - [@MrHawker](https://github.com/MrHawker)
