@@ -10,10 +10,10 @@ describe('Testing mobius function', () => {
   }
 
   it('should throw error when supplied negative numbers', () => {
-    expect(() => {mobiusFunction(-1)}).toThrow(Error)
+    expect(() => { mobiusFunction(-1) }).toThrow(Error)
   })
 
   it('should throw error when supplied zero', () => {
-    expect(() => {mobiusFunction(0)}).toThrow(Error)
+    expect(() => { mobiusFunction(0) }).toThrow(Error)
   })
 })
