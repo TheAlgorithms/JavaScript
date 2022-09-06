@@ -21,5 +21,9 @@
 
 import { PrimeFactors } from './PrimeFactors.js'
 export const mobiusFunction = (number) => {
-  return number <= 0 ? 'Number must be greater than zero.' : PrimeFactors(number).length !== new Set(PrimeFactors(number)).size ? 0 : PrimeFactors(number).length % 2 === 0 ? 1 : -1
+  const primeFactorsArray = PrimeFactors(number)
+  if (number <= 0) {
+    throw new Error('Number must be greater than zero.')
+  }
+  return primeFactorsArray.length !== new Set(primeFactorsArray).size ? 0 : primeFactorsArray.length % 2 === 0 ? 1 : -1
 }
