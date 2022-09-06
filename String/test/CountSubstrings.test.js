@@ -42,4 +42,11 @@ describe('CountSubstrings', () => {
     const count = countSubstrings(str, substring)
     expect(count).toBe(6)
   })
+
+  it('should return correct result when input is overlapping substring', () => {
+    const str = 'aaa'
+    const substring = 'aa'
+    const count = countSubstrings(str, substring)
+    expect(count).toBe(2)
+  })
 })
