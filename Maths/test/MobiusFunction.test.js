@@ -9,13 +9,11 @@ describe('Testing mobius function', () => {
     })
   }
 
-  it('should not support negative numbers', () => {
-    const actualMessage = mobiusFunction(-1)
-    expect(actualMessage).toBe('Number must be greater than zero.')
+  it('should throw error when supplied negative numbers', () => {
+    expect(() => {mobiusFunction(-1)}).toThrow(Error)
   })
 
-  it('should not support zero', () => {
-    const actualMessage = mobiusFunction(0)
-    expect(actualMessage).toBe('Number must be greater than zero.')
+  it('should throw error when supplied zero', () => {
+    expect(() => {mobiusFunction(0)}).toThrow(Error)
   })
 })
