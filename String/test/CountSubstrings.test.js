@@ -1,4 +1,4 @@
-import { countSubstrings } from '../countSubstrings'
+import { countSubstrings } from '../CountSubstrings'
 
 describe('CountSubstrings', () => {
   it('count multiple occurrences of substring in a string', () => {
