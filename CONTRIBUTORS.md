@@ -2,6 +2,8 @@
 
 - [@yogamandayu](https://github.com/yogamandayu)
 
+- [Asma](https://github.com/asma-mughal)
+
 - [@himashuBisht](https://github.com/himashuBisht)
 
 - [Walid Elbir](https://github.com/walidelbiir)
