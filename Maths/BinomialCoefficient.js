@@ -16,7 +16,7 @@
 
 import { calcFactorial } from './Factorial'
 
-export const findBinomialCoefficient = (n,k) => {
+export const findBinomialCoefficient = (n, k) => {
   if ((typeof n !== 'number') || (typeof k !== 'number')) {
     throw Error('Type of arguments must be number.')
   }
