@@ -2,30 +2,20 @@ import { calcFactorial } from '../Factorial'
 
 describe('calcFactorial', () => {
   it('should return a statement for value "0"', () => {
-    expect(calcFactorial(0)).toBe('The factorial of 0 is 1.')
+    expect(calcFactorial(0)).toBe(1)
   })
 
-  it('should return a statement for "null" and "undefined"', () => {
-    const nullFactorial = calcFactorial(null)
-    const undefinedFactorial = calcFactorial(undefined)
-
-    expect(nullFactorial).toBe(
-      'Sorry, factorial does not exist for null or undefined numbers.'
-    )
-    expect(undefinedFactorial).toBe(
-      'Sorry, factorial does not exist for null or undefined numbers.'
-    )
+  it('should throw error for "null" and "undefined"', () => {
+    expect(() => { calcFactorial(null) }).toThrow(Error)
+    expect(() => { calcFactorial(undefined) }).toThrow(Error)
   })
 
-  it('should not support negative numbers', () => {
-    const negativeFactorial = calcFactorial(-5)
-    expect(negativeFactorial).toBe(
-      'Sorry, factorial does not exist for negative numbers.'
-    )
+  it('should throw error for negative numbers', () => {
+    expect(() => { calcFactorial(-1) }).toThrow(Error)
   })
 
   it('should return the factorial of a positive number', () => {
     const positiveFactorial = calcFactorial(3)
-    expect(positiveFactorial).toBe('The factorial of 3 is 6')
+    expect(positiveFactorial).toBe(6)
   })
 })
