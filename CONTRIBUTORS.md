@@ -1,4 +1,5 @@
 # CONTRIBUTORS
+- [@Lucyloop](https://github.com/Lucyloop)
 
 - [@yogamandayu](https://github.com/yogamandayu)
 
