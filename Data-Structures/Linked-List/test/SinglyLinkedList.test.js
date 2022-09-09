@@ -168,9 +168,8 @@ describe('SinglyLinkedList', () => {
     const list = new LinkedList()
     list.addFirst(1)
 
-    let MiddleNodeOfLinkedList = list.MiddleOfLL(list.headNode)
     // Middle node for list having single node
-    expect(MiddleNodeOfLinkedList.data).toEqual(1)
+    expect(list.findMiddle().data).toEqual(1)
 
     list.addLast(2)
     list.addLast(3)
@@ -179,15 +178,13 @@ describe('SinglyLinkedList', () => {
     list.addLast(6)
     list.addLast(7)
 
-    MiddleNodeOfLinkedList = list.MiddleOfLL(list.headNode)
     // Middle node for list having odd number of nodes
-    expect(MiddleNodeOfLinkedList.data).toEqual(4)
+    expect(list.findMiddle().data).toEqual(4)
 
     list.addLast(10)
 
-    MiddleNodeOfLinkedList = list.MiddleOfLL(list.headNode)
     // Middle node for list having even number of nodes
-    expect(MiddleNodeOfLinkedList.data).toEqual(5)
+    expect(list.findMiddle().data).toEqual(5)
   })
 
   it('Check Iterator', () => {

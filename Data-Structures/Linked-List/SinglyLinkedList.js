@@ -6,7 +6,7 @@
 * a singly linked list.
 */
 
-// Methods - size, head, addLast, addFirst, addAt, removeFirst, removeLast, remove, removeAt, indexOf, isEmpty,  elementAt, get, clean
+// Methods - size, head, addLast, addFirst, addAt, removeFirst, removeLast, remove, removeAt, indexOf, isEmpty,  elementAt, findMiddle, get, clean
 
 class Node {
   constructor (data) {
@@ -194,7 +194,7 @@ class LinkedList {
   }
 
   // Returns a reference to middle node of linked list
-  MiddleOfLL () {
+  findMiddle () {
     // If there are two middle nodes, return the second middle node.
     let fast = this.headNode
     let slow = this.headNode
