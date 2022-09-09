@@ -199,7 +199,7 @@ class LinkedList {
     let fast = this.headNode
     let slow = this.headNode
 
-    while (fast != null && fast.next != null) {
+    while (fast !== null && fast.next !== null) {
       fast = fast.next.next
       slow = slow.next
     }
