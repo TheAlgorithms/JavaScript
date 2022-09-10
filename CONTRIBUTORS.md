@@ -5611,3 +5611,5 @@
 - [@amarchiori](https://github.com/amarchiori)
 
 - [@bundithir](https://github.com/bundithir)
+
+- [@barrynalex](https://github.com/barrynalex)
