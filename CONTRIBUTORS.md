@@ -5513,6 +5513,9 @@
 
 - [@rubberduck-offline](https://github.com/rubberduck-offline)
 
+
+- [@iamanuragdhiman](https://github.com/iamanuragdhiman)
+
 - [@pawulon2](https://github.com/pawulon2)
 
 - [@udit2022](https://github.com/udit2022/)
@@ -5539,7 +5542,7 @@
 
 - [@Triijay](https://github.com/Triijay)
 
--[@AnuradhaSha](https://github.com/AnuradhaSha)
+- [@AnuradhaSha](https://github.com/AnuradhaSha)
 
 - [@MalloPython](https://github.com/MalloPython)
 
@@ -5607,3 +5610,4 @@
 - [@amarchiori](https://github.com/amarchiori)
 
 - [@bundithir](https://github.com/bundithir)
+
