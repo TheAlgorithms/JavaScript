@@ -11,6 +11,8 @@
 - [@Walid Elbir](https://github.com/walidelbiir)
 
 - [@An Nguyen Phuoc](https://github.com/phuocantd)
+  
+- [@haris18896](https://github.com/haris18896)
 
 - [@Hemant](https://github.com/hemantwasthere)
 
