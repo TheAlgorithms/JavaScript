@@ -5615,3 +5615,5 @@
 - [@barrynalex](https://github.com/barrynalex)
 
 - [@majinblue](https://github.com/majinblue)
+
+- [@hazimaiman](https://github.com/hazimaiman)
