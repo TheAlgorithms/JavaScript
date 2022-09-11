@@ -5494,6 +5494,8 @@
 
 - [@fawazadeniji123](https://github.com/fawazadeniji123)
 
+- [@fawazadeniji123](https://github.com/fawazadeniji123)
+
 - [@amannegi](https://github.com/amannegi)
 
 - [@SuveerGoyal](https://github.com/SuveerGoyal)
@@ -5582,7 +5584,11 @@
 
 - [@Kakomis](https://github.com/Kakomis)
 
+- [@captain-Akshay](https://github.com/captain-Akshay)
+
 - [@OlavoMartsinkevich](https://github.com/OlavoMartsinkevich)
+
+- [@oliviaqm](https://github.com/oliviaqm)
 
 - [@oliviaqm](https://github.com/oliviaqm)
 
