@@ -2,7 +2,7 @@
 
 - [@Lucyloop](https://github.com/Lucyloop)
 
-- [@Miguel Zamora](https://github.com/MiguelZamora-Dev)
+- [@MiguelZamora-Dev](https://github.com/MiguelZamora-Dev)
 
 - [@yogamandayu](https://github.com/yogamandayu)
 
