@@ -2,6 +2,8 @@
 
 - [@Lucyloop](https://github.com/Lucyloop)
 
+- [@Miguel Zamora](https://github.com/MiguelZamora-Dev)
+
 - [@yogamandayu](https://github.com/yogamandayu)
 
 - [@Asma](https://github.com/asma-mughal)
