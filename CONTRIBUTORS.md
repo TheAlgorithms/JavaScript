@@ -916,6 +916,8 @@
 
 - [@Codinggaming](https://github.com/Coding-Gaming)
 
+- [@Coding-Hashira](https://github.com/Coding-Hashira)
+
 - [@Codingwithkinny](https://github.com/codingwithkinny)
 
 - [@Cody2022](https://github.com/Cody2022/)
