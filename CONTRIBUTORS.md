@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@Shraddha-V22](https://github.com/Shraddha-V22)
+
 - [@Lucyloop](https://github.com/Lucyloop)
 
 - [@MiguelZamora-Dev](https://github.com/MiguelZamora-Dev)
