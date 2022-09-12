@@ -22,7 +22,6 @@ const checkAnagramRegex = (str1, str2) => {
   /**
    * str1 converted to an array and traverse each letter of str1 by reduce method
    * reduce method return string which is empty or not.
-   * if it returns empty string '' -> falsy, with Logical !(NOT) Operator, it's will be converted to boolean and return true else false
    */
   return ![...str1].reduce(
     (str2Acc, cur) => str2Acc.replace(new RegExp(cur, 'i'), ''), // remove the similar letter from str2Acc in case-insensitive

@@ -170,6 +170,7 @@
   * [IsEven](Maths/IsEven.js)
   * [IsOdd](Maths/IsOdd.js)
   * [IsPronic](Maths/IsPronic.js)
+  * [JugglerSequence](Maths/JugglerSequence.js)
   * [LeapYear](Maths/LeapYear.js)
   * [LinearSieve](Maths/LinearSieve.js)
   * [LucasSeries](Maths/LucasSeries.js)

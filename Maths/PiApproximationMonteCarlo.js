@@ -13,7 +13,7 @@ const piEstimation = (iterations = 100000) => {
     if (radius < 1) circleCounter += 1
   }
 
-  // fomula for pi = (ratio of number inside circle and total iteration) x 4
+  // formula for pi = (ratio of number inside circle and total iteration) x 4
   const pi = (circleCounter / iterations) * 4
   return pi
 }
