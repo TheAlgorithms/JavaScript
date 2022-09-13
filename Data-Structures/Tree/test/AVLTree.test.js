@@ -68,5 +68,4 @@ describe('AVLTree Implementation: ', () => {
   it('delete element forcing single L-rotation and R-rotation', () => {
     expect(avlTree.remove(66)).toBeTruthy()
   })
-
 })
