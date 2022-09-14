@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@Ayobami6](https://github.com/Ayobami6)
+
 - [@youcefsax](https://github.com/youcefsax)
 
 - [@Shraddha-V22](https://github.com/Shraddha-V22)
