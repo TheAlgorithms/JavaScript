@@ -5686,4 +5686,9 @@
 
 - [@gedieasy](https://github.com/gedieasy/)
 
+- [@Arthur-001](https://github.com/Arthur-001)
+
+- [@HowieWork](https://github.com/HowieWork)
+
 - [@VoDuyThienVinh](https://github.com/VoDuyThienVinh)
+
