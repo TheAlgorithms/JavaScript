@@ -1,6 +1,6 @@
 # CONTRIBUTORS
 
-- [@Md-Aquib] (https://github.com/Md-Aquib)
+- @Md-Aquib https://github.com/Md-Aquib
 
 - [@Ayobami6](https://github.com/Ayobami6)
 
