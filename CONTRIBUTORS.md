@@ -5709,3 +5709,5 @@
 - [@dicucristiann](https://github.com/dicucristiann)
 
 - [@MichaelZaslavsky](https://github.com/MichaelZaslavsky/)
+
+- [@DiogoLeiteF](https://github.com/DiogoLeiteF/)
