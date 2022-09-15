@@ -5711,3 +5711,5 @@
 - [@MichaelZaslavsky](https://github.com/MichaelZaslavsky/)
 
 - [@DiogoLeiteF](https://github.com/DiogoLeiteF/)
+
+- [@Nguyen](https://github.com/BabyfaceDeveloper)
