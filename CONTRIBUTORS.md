@@ -5712,6 +5712,8 @@
 
 - [@MichaelZaslavsky](https://github.com/MichaelZaslavsky/)
 
+- [@angv2852](https://github.com/angv2852/)
+
 - [@DiogoLeiteF](https://github.com/DiogoLeiteF/)
 
 - [@Nguyen](https://github.com/BabyfaceDeveloper)
@@ -5732,7 +5734,8 @@
 
 - [@alpha-uzair](https://github.com/alpha-uzair)
 
--[@wkaiser21](https://github.com/wkaiser21)
+- [@wkaiser21](https://github.com/wkaiser21)
+
 - [@BCIs-maniac81](https://github.com/BCIs-maniac81/)
 
 - [@ZeroTwo5166](https://github.com/ZeroTwo5166)
