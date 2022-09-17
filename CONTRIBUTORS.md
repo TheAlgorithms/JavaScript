@@ -2,6 +2,8 @@
 
 - [@Md-Aquib](https://github.com/Md-Aquib)
 
+- [@eduparlema](https://github.com/eduparlema)
+
 - [@Ayobami6](https://github.com/Ayobami6)
 
 - [@youcefsax](https://github.com/youcefsax)
