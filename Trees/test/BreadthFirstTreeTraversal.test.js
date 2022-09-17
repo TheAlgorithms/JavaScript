@@ -19,9 +19,14 @@ describe('Breadth First Tree Traversal', () => {
   //         / \   \
   //        3   6   9
 
-  it('Binary tree - Level order traversal', () => {
+  it('Binary tree - Level order recursive traversal', () => {
     expect(binaryTree.traversal).toStrictEqual([])
-    const traversal = binaryTree.breadthFirst()
+    const traversal = binaryTree.breadthFirstRecursive()
+    expect(traversal).toStrictEqual([7, 5, 8, 3, 6, 9])
+  })
+
+  it('Binary tree - Level order iterative traversal', () => {
+    const traversal = binaryTree.breadthFirstIterative()
     expect(traversal).toStrictEqual([7, 5, 8, 3, 6, 9])
   })
 })

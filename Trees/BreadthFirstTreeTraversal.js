@@ -17,7 +17,27 @@ class BinaryTree {
     this.traversal = []
   }
 
-  breadthFirst () {
+  breadthFirstIterative () {
+    this.traversal = []
+    if (this.root) {
+      this.traversal.push(this.root)
+    }
+    let currentSize = this.traversal.length
+    for (let i = 0; i < currentSize; i++) {
+      if (this.traversal[i].left) {
+        this.traversal.push(this.traversal[i].left)
+      }
+      if (this.traversal[i].right) {
+        this.traversal.push(this.traversal[i].right)
+      }
+      this.traversal[i] = this.traversal[i].data
+      currentSize = this.traversal.length
+    }
+    return this.traversal
+  }
+
+  breadthFirstRecursive () {
+    this.traversal = []
     const h = this.getHeight(this.root)
     for (let i = 0; i !== h; i++) {
       this.traverseLevel(this.root, i)
