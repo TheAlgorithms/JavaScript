@@ -5772,3 +5772,5 @@
 - [@Aakarshan-369](https://github.com/Aakarshan-369)
 
 - [@ibnumanmr](https://github.com/ibnumanmr/)
+
+- [Eazy-H](https://github.com/EazyH)
