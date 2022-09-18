@@ -22,16 +22,15 @@ class BinaryTree {
     if (this.root) {
       this.traversal.push(this.root)
     }
-    let currentSize = this.traversal.length
-    for (let i = 0; i < currentSize; i++) {
-      if (this.traversal[i].left) {
-        this.traversal.push(this.traversal[i].left)
+    for (let i = 0; i < this.traversal.length; i++) {
+      const currentNode = this.traversal[i]
+      if (currentNode.left) {
+        this.traversal.push(currentNode.left)
       }
-      if (this.traversal[i].right) {
-        this.traversal.push(this.traversal[i].right)
+      if (currentNode.right) {
+        this.traversal.push(currentNode.right)
       }
-      this.traversal[i] = this.traversal[i].data
-      currentSize = this.traversal.length
+      this.traversal[i] = currentNode.data
     }
     return this.traversal
   }
