@@ -5774,3 +5774,5 @@
 - [@ibnumanmr](https://github.com/ibnumanmr/)
 
 - [@Eazy-H](https://github.com/EazyH)
+
+- [@KQuiggins](https://github.com/KQuiggins)
