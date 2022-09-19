@@ -4,7 +4,7 @@
  * @param {String} str - The input string
  * @return {Number} - The index of first unique character.
  * @example firstUniqChar("javascript") => 0
- * @example firstUniqChar(""sesquipedalian"") => 3
+ * @example firstUniqChar("sesquipedalian") => 3
  * @example firstUniqChar("aabb") => -1
  */
 
