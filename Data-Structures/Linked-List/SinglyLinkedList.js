@@ -21,8 +21,8 @@ class LinkedList {
     this.length = 0
 
     if (listOfValues instanceof Array) {
-      for (let i = 0; i < listOfValues.length; i++) {
-        this.addLast(listOfValues[i])
+      for (const value of listOfValues) {
+        this.addLast(value)
       }
     }
   }
