@@ -1,6 +1,6 @@
 /**
  * @function firstUniqChar
- * @description Given a string s, find the first non-repeating character in it and return its index. If it does not exist, return -1.
+ * @description Given a string str, find the first non-repeating character in it and return its index. If it does not exist, return -1.
  * @param {String} str - The input string
  * @return {Number} - The index of first unique character.
  * @example firstUniqChar("javascript") => 0
@@ -12,8 +12,12 @@ const firstUniqChar = (str) => {
   if (typeof str !== 'string') {
     throw new TypeError('Argument should be string')
   }
-  for (let i = 0; i < str.length; ++i) {
-    if (str.indexOf(str[i]) === str.lastIndexOf(str[i])) return i
+  const count = new Map()
+  for (const char of str) {
+    count[char] ? count[char]++ : count[char] = 1
+  }
+  for (let i = 0; i < str.length; i++) {
+    if (count[str[i]] === 1) return i
   }
   return -1
 }
