@@ -13,8 +13,13 @@ const firstUniqChar = (str) => {
     throw new TypeError('Argument should be string')
   }
   const count = new Map()
+
   for (const char of str) {
-    count[char] ? count[char]++ : count[char] = 1
+    if (!count[char]) {
+      count[char] = 1
+    } else {
+      count[char]++
+    }
   }
   for (let i = 0; i < str.length; i++) {
     if (count[str[i]] === 1) return i
