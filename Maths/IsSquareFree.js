@@ -24,5 +24,5 @@ export const isSquareFree = (number) => {
   if (number <= 0) {
     throw new Error('Number must be greater than zero.')
   }
-  return primeFactorsArray.length === new Set(primeFactorsArray).size 
+  return primeFactorsArray.length === new Set(primeFactorsArray).size
 }
