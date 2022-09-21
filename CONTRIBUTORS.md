@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@pranay202](https://github.com/pranay202)
+
 - [@Md-Aquib](https://github.com/Md-Aquib)
 
 - [@eduparlema](https://github.com/eduparlema)
