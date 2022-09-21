@@ -9,13 +9,8 @@
 /**
  * @function isSquareFree
  * @description -> Checking if number is square free using prime factorization
- * If list of prime factors of the number contains repeated prime factors, then the number is not square free
- * therefore, the function will return false
- *
- * If list of prime factors of the number contains unique prime factors, then the number is square free
- * therefore, the function will return true
  * @param {number} number
- * @returns {boolean}
+ * @returns {boolean} true if the number has unique prime factors, otherwise false
  */
 
 import { PrimeFactors } from './PrimeFactors.js'
