@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@omgaydhane](https://github.com/omgaydhane)
+
 - [@sangeethkc](https://github.com/sangeethkc)
 
 - [@pranay202](https://github.com/pranay202)
