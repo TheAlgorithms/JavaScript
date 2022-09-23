@@ -1896,7 +1896,7 @@
 
 - [@IsmanDaiyrov](https://github.com/IsmanDaiyrov)
 
-- [@edu2andrade](https://github.com/edu2andrade)
+- [@edu2andrade] (https://github.com/edu2andrade)
 
 -[@pranitrathod](https://github.com/pranitrathod)
 
@@ -1975,3 +1975,5 @@
 -[@tiln7] (https://github.com/tiln7)
 
 -[@spielmeisterG] (https://github.com/spielmeisterG)
+
+[@aorazaq] (https://github.com/aorazaq)
