@@ -3502,6 +3502,8 @@
 
 - [@Ryanashbaugh](https://github.com/RyanAshbaugh/)
 
+- [@ryanberger2](https://github.com/ryanberger2/)
+
 - [@Ryankjoseph](https://github.com/ryankjoseph)
 
 - [@Ryanscarbrough](https://github.com/RyanScarbrough)
