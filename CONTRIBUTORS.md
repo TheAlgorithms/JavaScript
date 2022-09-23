@@ -5840,7 +5840,7 @@
 
 - [@tavettehepburn] (https://github.com/TavetteHepburn)
 
-- [@dhruvit07](https://github.com/Dhruvit07) 
+- [@dhruvit07](https://github.com/Dhruvit07)
 
 - [@Abhishek02121](https://github.com/Abhishek02121/)
 
@@ -5859,6 +5859,8 @@
 - [@akshith99](https://github.com/akshith99)
 
 - [@qasimmughalz](https://github.com/qasimmughalz)
+
+- [@Jerricke](https://github.com/Jerricke)
 
 - [@willamgdev](https://github.com/willamgdev)
 
