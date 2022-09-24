@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@devsclem](https://github.com/DevsClem)
+
 - [@omgaydhane](https://github.com/omgaydhane)
 
 - [@sangeethkc](https://github.com/sangeethkc)
