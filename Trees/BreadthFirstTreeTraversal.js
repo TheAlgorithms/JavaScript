@@ -14,34 +14,33 @@ class Node {
 class BinaryTree {
   constructor () {
     this.root = null
-    this.traversal = []
   }
 
   breadthFirstIterative () {
-    this.traversal = []
+    const traversal = []
     if (this.root) {
-      this.traversal.push(this.root)
+      traversal.push(this.root)
     }
-    for (let i = 0; i < this.traversal.length; i++) {
-      const currentNode = this.traversal[i]
+    for (let i = 0; i < traversal.length; i++) {
+      const currentNode = traversal[i]
       if (currentNode.left) {
-        this.traversal.push(currentNode.left)
+        traversal.push(currentNode.left)
       }
       if (currentNode.right) {
-        this.traversal.push(currentNode.right)
+        traversal.push(currentNode.right)
       }
-      this.traversal[i] = currentNode.data
+      traversal[i] = currentNode.data
     }
-    return this.traversal
+    return traversal
   }
 
   breadthFirstRecursive () {
-    this.traversal = []
+    const traversal = []
     const h = this.getHeight(this.root)
     for (let i = 0; i !== h; i++) {
-      this.traverseLevel(this.root, i)
+      this.traverseLevel(this.root, i, traversal)
     }
-    return this.traversal
+    return traversal
   }
 
   // Computing the height of the tree
@@ -54,15 +53,15 @@ class BinaryTree {
     return lheight > rheight ? lheight + 1 : rheight + 1
   }
 
-  traverseLevel (node, levelRemaining) {
+  traverseLevel (node, levelRemaining, traversal) {
     if (node === null) {
       return
     }
     if (levelRemaining === 0) {
-      this.traversal.push(node.data)
+      traversal.push(node.data)
     } else {
-      this.traverseLevel(node.left, levelRemaining - 1)
-      this.traverseLevel(node.right, levelRemaining - 1)
+      this.traverseLevel(node.left, levelRemaining - 1, traversal)
+      this.traverseLevel(node.right, levelRemaining - 1, traversal)
     }
   }
 }
