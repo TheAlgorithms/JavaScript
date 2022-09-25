@@ -5866,17 +5866,19 @@
 
 - [@willamgdev](https://github.com/willamgdev)
 
-- [@taingmenghai](https://github.com/taingmenghai)
+- [@spielmeisterG](https://github.com/spielmeisterG)
 
--[@spielmeisterG] (https://github.com/spielmeisterG)
+- [@aorazaq](https://github.com/aorazaq)
 
-[@aorazaq] (https://github.com/aorazaq)
+- [@michal-ostrodicky](https://github.com/michal-ostrodicky)
 
-[@kevinokonofua1] (https://github.com/kevinokonofua1)
+- [@aorazaq] (https://github.com/aorazaq)
 
-[@maan-eth] (https://github.com/maan-eth)
+- [@kevinokonofua1] (https://github.com/kevinokonofua1)
 
-[@Shivangi-Sharma-CS] (https://github.com/Shivangi-Sharma-CS/)
+- [@maan-eth] (https://github.com/maan-eth)
+
+- [@Shivangi-Sharma-CS] (https://github.com/Shivangi-Sharma-CS/)
 
 - [@NJBLAGA](https://github.com/NJBLAGA)
 
@@ -5884,14 +5886,14 @@
 
 - [@ShahzaibNaeem](https://github.com/ShahzaibNaeem)
 
-[@vishalpatil20] (https://github.com/vishalpatil20)
+- [@vishalpatil20] (https://github.com/vishalpatil20)
 
--[@lech1n](https://github.com/lech1n)
+- [@lech1n](https://github.com/lech1n)
 
 - [@Ad019El](https://github.com/Ad019El)
 
 - [@aameshie](https://github.com/aameshie)
 
--[@hyonbokan](https://github.com/hyonbokan)
+- [@hyonbokan](https://github.com/hyonbokan)
 
--[@okutewonah](https://github.com/okutewonah)
+- [@okutewonah](https://github.com/okutewonah)
