@@ -6,7 +6,7 @@
 * a singly linked list.
 */
 
-// Methods - size, head, addLast, addFirst, addAt, removeFirst, removeLast, remove, removeAt, indexOf, isEmpty,  elementAt, findMiddle, get, clean
+// Methods - size, head, addLast, addFirst, addAt, removeFirst, removeLast, remove, removeAt, indexOf, isEmpty,  elementAt, findMiddle, get, clean, rotateListRight
 
 class Node {
   constructor (data) {
@@ -16,9 +16,15 @@ class Node {
 }
 
 class LinkedList {
-  constructor () {
+  constructor (listOfValues) {
     this.headNode = null
     this.length = 0
+
+    if (listOfValues instanceof Array) {
+      for (const value of listOfValues) {
+        this.addLast(value)
+      }
+    }
   }
 
   // initiates the currentNode and currentIndex and return as an object
@@ -222,6 +228,32 @@ class LinkedList {
     }
 
     return list
+  }
+
+  // Method for Rotating a List to the right by k places
+  rotateListRight (k) {
+    let i = 0
+    let current = this.headNode
+    while (current) {
+      i++
+      current = current.next
+    }
+    k %= i
+    current = this.headNode
+    let prev = null
+    while (k--) {
+      if (!current || !current.next) {
+        return current
+      } else {
+        while (current.next) {
+          prev = current
+          current = current.next
+        }
+        prev.next = current.next
+        current.next = this.headNode
+        this.headNode = current
+      }
+    }
   }
 
   // Method to iterate over the LinkedList

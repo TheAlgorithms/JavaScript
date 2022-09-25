@@ -299,6 +299,7 @@
   * [CountVowels](String/CountVowels.js)
   * [CreatePermutations](String/CreatePermutations.js)
   * [DiceCoefficient](String/DiceCoefficient.js)
+  * [FirstUniqueCharacter](String/FirstUniqueCharacter.js)
   * [FormatPhoneNumber](String/FormatPhoneNumber.js)
   * [GenerateGUID](String/GenerateGUID.js)
   * [HammingDistance](String/HammingDistance.js)

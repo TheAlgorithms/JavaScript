@@ -222,4 +222,29 @@ describe('SinglyLinkedList', () => {
     list.clean()
     expect(list.isEmpty()).toBe(true)
   })
+
+  it('should shift every node by k steps towards right, shifts tail nodes towards the start and change head of the list', () => {
+    // Case 0: When head of list is null
+    const tempNode = new LinkedList()
+    expect(tempNode.get()).toEqual([])
+
+    // Creating list
+    const headNode = new LinkedList([10, 20, 30, 40, 50])
+
+    // Case 1: when k = 0 => List should be unaffected
+    headNode.rotateListRight(0)
+    expect(headNode.get()).toEqual([10, 20, 30, 40, 50])
+
+    // Case 2: Rotate right by 2 steps
+    headNode.rotateListRight(2)
+    expect(headNode.get()).toEqual([40, 50, 10, 20, 30])
+
+    // Case 3: Rotate right by 12 steps
+    headNode.rotateListRight(12)
+    expect(headNode.get()).toEqual([20, 30, 40, 50, 10])
+
+    // Case 4: when k = length of the list = 5 => List should be unaffected
+    headNode.rotateListRight(5)
+    expect(headNode.get()).toEqual([20, 30, 40, 50, 10])
+  })
 })
