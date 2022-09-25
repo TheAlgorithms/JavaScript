@@ -8,7 +8,7 @@ describe('Breadth First Tree Traversal', () => {
   root.right = new Node(8)
   root.left.left = new Node(3)
   root.left.right = new Node(6)
-  root.right.right = new Node(9)
+  root.left.right.right = new Node(9)
   binaryTree.root = root
 
   // Visualization :
@@ -16,11 +16,17 @@ describe('Breadth First Tree Traversal', () => {
   //            7
   //           / \
   //          5   8
-  //         / \   \
-  //        3   6   9
+  //         / \
+  //        3   6
+  //             \
+  //              9
+
+  it('Binary tree - Empty case', () => {
+    const emptyTree = new BinaryTree()
+    expect(emptyTree.breadthFirstIterative()).toStrictEqual([])
+  })
 
   it('Binary tree - Level order recursive traversal', () => {
-    expect(binaryTree.traversal).toStrictEqual([])
     const traversal = binaryTree.breadthFirstRecursive()
     expect(traversal).toStrictEqual([7, 5, 8, 3, 6, 9])
   })
