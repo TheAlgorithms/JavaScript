@@ -5868,6 +5868,14 @@
 
 - [@spielmeisterG](https://github.com/spielmeisterG)
 
+- [@spielmeisterG] (https://github.com/spielmeisterG)
+
+- [@aorazaq] (https://github.com/aorazaq)
+
+- [@kevinokonofua1] (https://github.com/kevinokonofua1)
+
+- [@maan-eth] (https://github.com/maan-eth)
+
 - [@aorazaq](https://github.com/aorazaq)
 
 - [@michal-ostrodicky](https://github.com/michal-ostrodicky)
