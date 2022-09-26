@@ -2,7 +2,7 @@ import { CountSetBits } from '../CountSetBits'
 
 test('CountSetBits', () => {
   const tests = {
-    // binary representation: set bits
+    // decimal representation: set bits
     25: 3,
     36: 2,
     16: 1,
