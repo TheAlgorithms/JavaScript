@@ -5842,7 +5842,7 @@
 
 - [@dhruvit07](https://github.com/Dhruvit07)
 
-- [@tavettehepburn] (https://github.com/TavetteHepburn)
+- [@tavettehepburn](https://github.com/TavetteHepburn)
 
 - [@dhruvit07](https://github.com/Dhruvit07)
 
@@ -5869,6 +5869,14 @@
 - [@willamgdev](https://github.com/willamgdev)
 
 - [@spielmeisterG](https://github.com/spielmeisterG)
+
+- [@aorazaq](https://github.com/aorazaq)
+
+- [@kevinokonofua1](https://github.com/kevinokonofua1)
+
+- [@maan-eth](https://github.com/maan-eth)
+
+- [@Shivangi-Sharma-CS](https://github.com/Shivangi-Sharma-CS/)
 
 - [@spielmeisterG] (https://github.com/spielmeisterG)
 
