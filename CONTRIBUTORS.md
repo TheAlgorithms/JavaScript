@@ -5946,3 +5946,4 @@
 
 - [@SantoshSingh](https://github.com/superssingh)
 
+- [@Bryce](https://github.com/brycedipalo)
