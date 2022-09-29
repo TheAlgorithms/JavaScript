@@ -5975,6 +5975,9 @@
 - [@SL972](https://github.com/SL972)
 
 - [@blesiandc](https://github.com/blesiandc)
--[@nsikakdavid](https://github.com/nsikakdavid)
+
+- [@nsikakdavid](https://github.com/nsikakdavid)
 
 - [@jeslyw](https://github.com/jeslyw)
+
+- [@samarjeetpatankar](https://github.com/samarjeetpatankar)
