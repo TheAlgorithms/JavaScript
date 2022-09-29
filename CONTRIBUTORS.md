@@ -1,7 +1,5 @@
 # CONTRIBUTORS
 
-- @codechelsea (https://github.com/codechelsea)
-
 - [@MR-Abbasnejad](https://github.com/MR-Abbasnejad)
 
 - [@devsclem](https://github.com/DevsClem)
