@@ -3506,6 +3506,8 @@
 
 - [@Ryanashbaugh](https://github.com/RyanAshbaugh/)
 
+- [@ryanberger2](https://github.com/ryanberger2/)
+
 - [@Ryankjoseph](https://github.com/ryankjoseph)
 
 - [@Ryanscarbrough](https://github.com/RyanScarbrough)
@@ -5986,3 +5988,10 @@
 - [@abhimom03](https://github.com/abhimom03)
 
 - [@AnthonyEmede](https://github.com/AnthonyEmede)
+
+- [@tajunta](https://github.com/tajunta)
+
+- [@Yefe71] (https://github.com/Yefe71)
+
+- [@hrishikesh-g](https://github.com/hrishikesh-g)
+- [@bawanegi](https://github.com/bawanegi)
