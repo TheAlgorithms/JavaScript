@@ -5893,7 +5893,7 @@
 
 - [@okutewonah](https://github.com/okutewonah)
 
-- [raman2482](https://github.com/raman2482)
+- [@raman2482](https://github.com/raman2482)
 
 - [@bilalkhan360](https://github.com/bilalkhan360)
 
@@ -5927,7 +5927,7 @@
 
 - [@PinkDwarf](https://github.com/PinkDwarf)
 
-- [manyara001](https://github.com/manyara001)
+- [@manyara001](https://github.com/manyara001)
 
 - [@opquail](https://github.com/opquail)
 
