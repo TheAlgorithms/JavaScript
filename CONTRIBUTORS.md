@@ -1,4 +1,5 @@
 # CONTRIBUTORS
+- [@siddharthsinghvats](https://github.com/siddharthsinghvats)
 
 - [@MR-Abbasnejad](https://github.com/MR-Abbasnejad)
 
@@ -6017,4 +6018,7 @@
 -[@alimertcakar](https://github.com/alimertcakar)
 
 -[@cs2sandeep](https://github.com/cs2sandeep)
- master
+
+-[@nathi464](https://github.com/nathi464/)
+
+- [@prashantkumarkaushik](https://github.com/prashantkumarkaushik) 
