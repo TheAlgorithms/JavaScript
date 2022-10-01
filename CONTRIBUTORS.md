@@ -1,4 +1,5 @@
 # CONTRIBUTORS
+- [@siddharthsinghvats](https://github.com/siddharthsinghvats)
 
 - [@MR-Abbasnejad](https://github.com/MR-Abbasnejad)
 
