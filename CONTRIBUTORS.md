@@ -6041,3 +6041,5 @@
 - [@KwassiSenam](https://github.com/KwassiSenam)
 
 - [@avatar-10000](https://github.com/avatar-10000)
+
+- [@loganbecket](https://github.com/loganbecket)
