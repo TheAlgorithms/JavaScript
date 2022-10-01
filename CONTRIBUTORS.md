@@ -3335,8 +3335,6 @@
 
 - [@Rakalantari](https://github.com/rakalantari)
 
--
-
 - [@Raki-12](https://github.com/Raki-12)
 
 - [@Rakshitmakadia](https://github.com/rakshitmakadia)
@@ -5985,7 +5983,8 @@
 - [@KatandRaf](https://github.com/KatandRaf)
 
 - [@blesiandc](https://github.com/blesiandc)
--[@nsikakdavid](https://github.com/nsikakdavid)
+
+- [@nsikakdavid](https://github.com/nsikakdavid)
 
 - [@jeslyw](https://github.com/jeslyw)
 
@@ -6005,6 +6004,7 @@
 
 - [@bawanegi](https://github.com/bawanegi)
 
+- [@grimmyxiii](https://github.com/grimmyxiii)
 - [@cklf537](https://github.com/cklf537/)
 - [@bawanegi](https://github.com/bawanegi)
 - [Maneesha-Maduranga](https://github.com/Maneesha-Maduranga)
