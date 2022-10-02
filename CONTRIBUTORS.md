@@ -5661,6 +5661,8 @@
 
 - [@majinblue](https://github.com/majinblue)
 
+- [@eliteCipher] (https://github.com/eliteCipher)
+
 - [@hazimaiman](https://github.com/hazimaiman)
 
 - [@mvnitish](https://github.com/mvnitish)
