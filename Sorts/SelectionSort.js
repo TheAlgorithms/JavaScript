@@ -20,16 +20,38 @@ export const selectionSort = (list) => {
     }
     // Number of passes
     let min = i // min holds the current minimum number position for each pass; i holds the Initial min number
-    for (let j = i + 1; j < length; j++) { // Note that j = i + 1 as we only need to go through unsorted array
-      if (items[j] < items[min]) { // Compare the numbers
+    for (let j = i + 1; j < length; j++) {
+      // Note that j = i + 1 as we only need to go through unsorted array
+      if (items[j] < items[min]) {
+        // Compare the numbers
         min = j // Change the current min number position if a smaller num is found
       }
     }
     if (min !== i) {
       // After each pass, if the current min num != initial min num, exchange the position.
       // Swap the numbers
-      [items[i], items[min]] = [items[min], items[i]]
+      ;[items[i], items[min]] = [items[min], items[i]]
     }
   }
   return items
+}
+
+export function selectionSortAlternativeImplementation(arr) {
+  if (arr.length < 2) return arr
+
+  for (let i = 0; i < arr.length; i++) {
+    // Number of passes
+    let min = i // min holds the current minimum number position for each pass; i holds the Initial min number
+    for (let j = i + 1; j < arr.length; j++) {
+      if (arr[j] < arr[min]) min = j // Compare the numbers and change the value of min if a num is found
+    }
+    if (i !== min) {
+      // if the current min num != initial min num, exchange the position.
+      const temp = arr[i] // Alternative swapping swapping method
+      arr[i] = arr[min]
+      arr[min] = temp
+    }
+  }
+
+  return arr
 }
