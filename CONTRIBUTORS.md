@@ -6073,4 +6073,8 @@
 
 - [@karan919](https://github.com/karan919)
 
+- [@nelsonalgarve] (https://github.com/nelsonalgarve)
+
+- [@HassanNewDev] (https://github.com/HassanNewDev)
+
 - [@abdurahim-us](https://github.com/abdurahim-us)
