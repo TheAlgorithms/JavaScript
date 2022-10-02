@@ -5620,6 +5620,9 @@
 
 - [@timDeHof](https://github.com/timDeHof)
 
+ Nazmul
+- [@Nazmul6180](https://github.com/Nazmul6180)
+
 - [@Kakomis](https://github.com/Kakomis)
 
 - [@captain-Akshay](https://github.com/captain-Akshay)
@@ -5782,7 +5785,11 @@
 
 - [@KOLEAJEOLAYINKA](https://github.com/KOLEAJEOLAYINKA)
 
+- [@Nazmul6180](https://github.com/Nazmul6180)
+
 - [@arslonga83](https://github.com/arslonga83)
+
+- [@anipetrosyan7717](https://github.com/anipetrosyan7717)
 
 - [@yes-im-harsh](https://github.com/yes-im-harsh)
 
