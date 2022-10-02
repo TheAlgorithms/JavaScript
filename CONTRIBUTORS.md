@@ -5981,7 +5981,7 @@
 
 - [@papichuloooo99](https://github.com/papichuloooo99)
 
-- [@Aryan_8615_](https://github.com/bankank)
+- [@Aryan*8615*](https://github.com/bankank)
 
 - [@tbot1738](https://github.com/tbot1738)
 
@@ -6001,7 +6001,7 @@
 
 - [@blesiandc](https://github.com/blesiandc)
 
- - [@nsikakdavid](https://github.com/nsikakdavid)
+- [@nsikakdavid](https://github.com/nsikakdavid)
 
 - [@05Maelket](https://github.com/05Maelket)
 
@@ -6063,6 +6063,8 @@
 
 - [@avatar-10000](https://github.com/avatar-10000)
 
+- [@billlunger](https://github.com/billlunger)
+
 - [@loganbecket](https://github.com/loganbecket)
 
 - [@dantesadeghi](https://github.com/dantesadeghi)
@@ -6082,6 +6084,9 @@
 - [@HassanNewDev] (https://github.com/HassanNewDev)
 
 - [@abdurahim-us](https://github.com/abdurahim-us)
+
 - [@ShubhamJ2004](https://github.com/ShubhamJ2004)
+
 - [@conor-v](https://github.com/conor-v)
+
 - [@sammkodes96](https://github.com/sammkodes96)
