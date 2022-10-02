@@ -36,7 +36,7 @@ export const selectionSort = (list) => {
   return items
 }
 
-export function selectionSortAlternativeImplementation(arr) {
+export function selectionSortAlternativeImplementation (arr) {
   if (arr.length < 2) return arr
 
   for (let i = 0; i < arr.length; i++) {
