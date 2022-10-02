@@ -1,16 +1,15 @@
 import {
-  selectionSort,
-  selectionSortAlternativeImplementation
+  selectionSort
 } from '../SelectionSort'
 
 describe('selectionSortAlternativeImplementation', () => {
   it('expects to work with empty array', () => {
-    expect(selectionSortAlternativeImplementation([])).toEqual([])
+    expect(selectionSort([])).toEqual([])
   })
 
   it('expects to return input array when array.length is less than 2', () => {
     const input = [3]
-    expect(selectionSortAlternativeImplementation(input)).toEqual(input)
+    expect(selectionSort(input)).toEqual(input)
   })
 })
 
@@ -20,7 +19,7 @@ describe('selectionSort', () => {
     const expected = [1, 2, 5, 6, 7, 8, 12, 14]
 
     expect(selectionSort(toSort)).toEqual(expected)
-    expect(selectionSortAlternativeImplementation(toSort)).toEqual(expected)
+    expect(selectionSort(toSort)).toEqual(expected)
   })
 
   it('expects to throw if it is not a valid array', () => {

@@ -12,6 +12,7 @@ export const selectionSort = (list) => {
   if (!Array.isArray(list)) {
     throw new TypeError('Given input is not an array')
   }
+  if (list.length < 2) return list
   const items = [...list] // We don't want to modify the original array
   const length = items.length
   for (let i = 0; i < length - 1; i++) {
@@ -30,28 +31,10 @@ export const selectionSort = (list) => {
     if (min !== i) {
       // After each pass, if the current min num != initial min num, exchange the position.
       // Swap the numbers
-      ;[items[i], items[min]] = [items[min], items[i]]
+      const temp = items[i] // Better performance for naive js engines
+      items[i] = items[min]
+      items[min] = temp
     }
   }
   return items
-}
-
-export function selectionSortAlternativeImplementation (arr) {
-  if (arr.length < 2) return arr
-
-  for (let i = 0; i < arr.length; i++) {
-    // Number of passes
-    let min = i // min holds the current minimum number position for each pass; i holds the Initial min number
-    for (let j = i + 1; j < arr.length; j++) {
-      if (arr[j] < arr[min]) min = j // Compare the numbers and change the value of min if a num is found
-    }
-    if (i !== min) {
-      // if the current min num != initial min num, exchange the position.
-      const temp = arr[i] // Alternative swapping swapping method
-      arr[i] = arr[min]
-      arr[min] = temp
-    }
-  }
-
-  return arr
 }
