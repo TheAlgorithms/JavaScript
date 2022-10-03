@@ -6112,6 +6112,12 @@ Nazmul
 
 - [@alau87](https://github.com/alau87)
 
+- [@PredragUrban](https://github.com/PredragUrban)
+
+- [@manyara001](https://github.com/manyara001)
+
 - [@Sayan-Roy-729](https://github.com/Sayan-Roy-729)
+
+- [@megan-hardy](https://github.com/megan-hardy)
 
 - [@AmanJemal](https://github.com/AmanJemal)
