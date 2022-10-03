@@ -1,19 +1,15 @@
 import { uniquePaths } from '../UniquePaths'
 
-test('Test case with rows=3 and cols=7', () => {
-  const rows = 3
-  const cols = 7
-  expect(uniquePaths(rows, cols)).toBe(28)
-})
+describe('UniquePaths', () => {
+  it('uniquePaths for rows=3 and cols=7', () => {
+    expect(uniquePaths(3, 7)).toBe(28)
+  })
 
-test('Test case with rows=3 and cols=2', () => {
-  const rows = 3
-  const cols = 2
-  expect(uniquePaths(rows, cols)).toBe(3)
-})
+  it('uniquePaths for rows=3 and cols=2', () => {
+    expect(climbStairs(3, 2)).toBe(3)
+  })
 
-test('Test case with rows=8 and cols=14', () => {
-  const rows = 8
-  const cols = 14
-  expect(uniquePaths(rows, cols)).toBe(77520)
+  it('uniquePaths for rows=8 and cols=14', () => {
+    expect(climbStairs(8, 14)).toBe(77520)
+  })
 })
