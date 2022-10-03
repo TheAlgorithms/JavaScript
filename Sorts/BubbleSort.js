@@ -63,6 +63,7 @@ export function alternativeBubbleSort (arr) {
 /* bubble sort using two for loops and no boolean terms
  */
 // Creating the bblSort function
+
  function bblSort(arr){
     
  for(var i = 0; i < arr.length; i++){
@@ -81,3 +82,6 @@ export function alternativeBubbleSort (arr) {
      }
    }
  }
+ // Print the sorted array
+ console.log(arr);
+}
