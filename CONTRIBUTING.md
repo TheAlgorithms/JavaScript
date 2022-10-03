@@ -83,6 +83,11 @@ and inspect the outcome. Example: [RatInAMaze.test.js](Backtracking/tests/RatInA
 Please refrain from using `console` in your implementation AND test code.
 
 You can (and should!) run all tests locally before committing your changes:
+You may also want to install jest from npm before running your test:
+
+```shell
+npm i jest
+```
 
 ```shell
 npm test
