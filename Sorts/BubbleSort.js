@@ -9,6 +9,7 @@
 *  inner loop iteration, we check each number if the number proceeding
 *  it is greater than itself, if so we swap them.
 *
+*  documented: https://www.geeksforgeeks.org/bubble-sort-algorithms-by-using-javascript/
 *  Wikipedia: https://en.wikipedia.org/wiki/Bubble_sort
 *  Animated Visual: https://www.toptal.com/developers/sorting-algorithms/bubble-sort
 */
@@ -58,3 +59,25 @@ export function alternativeBubbleSort (arr) {
 
   return arr
 }
+
+/* bubble sort using two for loops and no boolean terms
+ */
+// Creating the bblSort function
+ function bblSort(arr){
+    
+ for(var i = 0; i < arr.length; i++){
+    
+   // Last i elements are already in place 
+   for(var j = 0; j < ( arr.length - i -1 ); j++){
+      
+     // Checking if the item at present iteration
+     // is greater than the next iteration
+     if(arr[j] > arr[j+1]){
+        
+       // If the condition is true then swap them
+       var temp = arr[j]
+       arr[j] = arr[j + 1]
+       arr[j+1] = temp
+     }
+   }
+ }
