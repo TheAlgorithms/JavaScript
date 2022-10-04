@@ -10,6 +10,8 @@
 
 - [@omgaydhane](https://github.com/omgaydhane)
 
+- [@DiyaGoayl](https://github.com/diyagoyal98)
+
 - [@sangeethkc](https://github.com/sangeethkc)
 
 - [@pranay202](https://github.com/pranay202)
