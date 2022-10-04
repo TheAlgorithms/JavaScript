@@ -3712,6 +3712,8 @@
 
 - [@Sharedtechs](https://github.com/shared-techs)
 
+- [@sharankarthikyan](https://github.com/sharankarthikyan)
+
 - [@Shashankcoc](https://github.com/shashankcoc)
 
 - [@Shashwatpal1021](https://github.com/shashwatpal1021)
