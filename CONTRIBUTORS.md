@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [Ashutosh Kumar](https://github.com/incognion)
+
 - [@siddharthsinghvats](https://github.com/siddharthsinghvats)
 
 - [@MR-Abbasnejad](https://github.com/MR-Abbasnejad)
