@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [Ashutosh Kumar](https://github.com/incognion)
+
 - [@siddharthsinghvats](https://github.com/siddharthsinghvats)
 
 - [@MR-Abbasnejad](https://github.com/MR-Abbasnejad)
@@ -3712,6 +3714,8 @@
 
 - [@Sharedtechs](https://github.com/shared-techs)
 
+- [@sharankarthikyan](https://github.com/sharankarthikyan)
+
 - [@Shashankcoc](https://github.com/shashankcoc)
 
 - [@Shashwatpal1021](https://github.com/shashwatpal1021)
@@ -6124,4 +6128,17 @@ Nazmul
 
 - [@moonergeek](https://github.com/moonergeek)
 
-- [@avinnitesh](https://github.com/avinnitesh)
+- [@maciej88](https://github.com/maciej88)
+
+- [Jro-mattus23] (https://github.com/Jro-mattus23)
+
+- [Dhei-vid](https://github.com/Dhei-vid)
+
+- [DexterDiepholz](https://github.com/DexterDiepholz)
+
+- [@Ruby8613](https://github.com/Ruby8613)
+
+- [@angelania2020](https://github.com/angelania2020)
+
+- [@Gengsu07](https://github.com/Gengsu07)
+
