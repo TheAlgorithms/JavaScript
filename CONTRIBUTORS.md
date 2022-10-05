@@ -96,6 +96,8 @@
 
 - [@32Simas](https://github.com/32simas)
 
+- [@will-chow](https://github.com/will-chow)
+
 - [@rufilboy](https://github.com/rufilboy)
 
 - [@Amaan262](https://github.com/Amaan262)
