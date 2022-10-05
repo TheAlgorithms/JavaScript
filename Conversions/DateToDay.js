@@ -10,7 +10,7 @@ const DateToDay = (date) => {
   }
   return dayOfTheWeekJS(day, month - 1, year)
 }
-function dayOfTheWeekJS(day, month, year) {
+function dayOfTheWeekJS (day, month, year) {
   const DAYS = [
     'Sunday',
     'Monday',
@@ -32,30 +32,27 @@ function dayOfTheWeekJS(day, month, year) {
   }
   return DAYS[(days + DAY_1970_01_01) % DAYS.length]
 }
-function daysInMonthJS(month, year) {
+function daysInMonthJS (month, year) {
   const days = [
-    31, // January
+    31,
     28 + (isLeapYear(year) ? 1 : 0), // Feb,
-    31, // March
-    30, // April
-    31, // May
-    30, // June
-    31, // July
-    31, // August
-    30, // September
-    31, // October
-    30, // November
-    31 // December
+    31,
+    30,
+    31,
+    30,
+    31,
+    31,
+    30,
+    31,
+    30,
+    31
   ]
   return days[month]
 }
-function daysInYear(year) {
+function daysInYear (year) {
   return 365 + (isLeapYear(year) ? 1 : 0)
 }
-function isLeapYear(year) {
+function isLeapYear (year) {
   return (year % 4 === 0 && year % 100 !== 0) || year % 400 === 0
 }
-//console.log(DateToDay('18/12/2020'))
-// Example : DateToDay("18/12/2020") => Friday
-
 export { DateToDay }
