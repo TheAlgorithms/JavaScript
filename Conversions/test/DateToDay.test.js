@@ -18,3 +18,8 @@ test('The date 01/01/2001 is Friday', () => {
   const res = DateToDay('01/01/2001')
   expect(res).toBe('Monday')
 })
+
+test('The date 1/1/2020 is Wednesday', () => {
+  const res = DateToDay('1/1/2020')
+  expect(res).toBe('Wednesday')
+})
