@@ -1,12 +1,12 @@
-/* Ternary search is similar to binary search but it divide the sorted array
- * into three parts and determine which part the key lies in. The array will
+/* Ternary search is similar to binary search but it divides the sorted array
+ * into three parts and determines which part the key lies in. The array will
  * be divided into three intervals by using two middle points, mid1 and mid2.
- * The value of the key will first compared with the two mid points, the value
+ * The value of the key will first be compared with the two mid points, the value
  * will be returned if there is a match. Then, if the value of the key is less
  * than mid1, narrow the interval to the first part. Else, if the value of the
  * key is greater than mid2, narrow the interval to the third part. Otherwise,
  * narrow the interval to the middle part. Repeat the steps until the value is
- * found or the interval is empty(value not found after checking all elements).
+ * found or the interval is empty (value not found after checking all elements).
  *
  * Reference: https://www.geeksforgeeks.org/ternary-search/
  */
