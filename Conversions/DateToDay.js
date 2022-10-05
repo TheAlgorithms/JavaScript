@@ -3,14 +3,11 @@ const DateToDay = (date) => {
   if (typeof date !== 'string') {
     return new TypeError('Argument is not a string.')
   }
-  // extract the date
   const [day, month, year] = date.split('/').map((x) => Number(x))
   // check the data are valid or not.
   if (day < 0 || day > 31 || month > 12 || month < 0) {
     return new TypeError('Date is not valid.')
   }
-
-  // JS months start at 0
   return dayOfTheWeekJS(day, month - 1, year)
 }
 function dayOfTheWeekJS(day, month, year) {
