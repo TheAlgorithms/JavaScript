@@ -58,8 +58,7 @@ function daysInYear(year) {
 function isLeapYear(year) {
   return (year % 4 === 0 && year % 100 !== 0) || year % 400 === 0
 }
-console.log(DateToDay('19/9/1993'))
-
+//console.log(DateToDay('18/12/2020'))
 // Example : DateToDay("18/12/2020") => Friday
 
 export { DateToDay }
