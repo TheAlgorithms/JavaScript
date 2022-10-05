@@ -12,22 +12,6 @@
     Algorithm & Explanation : https://cs.uwaterloo.ca/~alopez-o/math-faq/node73.html
 */
 
-// March is taken as the first month of the year.
-const calcMonthList = {
-  1: 11,
-  2: 12,
-  3: 1,
-  4: 2,
-  5: 3,
-  6: 4,
-  7: 5,
-  8: 6,
-  9: 7,
-  10: 8,
-  11: 9,
-  12: 10
-}
-
 // show the week day in a number : Sunday - Saturday => 0 - 6
 const daysNameList = { // weeks-day
   0: 'Sunday',
@@ -50,15 +34,11 @@ const DateToDay = (date) => {
   if (day < 0 || day > 31 || month > 12 || month < 0) {
     return new TypeError('Date is not valid.')
   }
-  // divide year to century and yearDigit value.
-  const yearDigit = (year % 100)
-  const century = Math.floor(year / 100)
-  // Apply the algorithm shown above
-  const weekDay = Math.abs((day + Math.floor((2.6 * calcMonthList[month]) - 0.2) - (2 * century) + yearDigit + Math.floor(yearDigit / 4) + Math.floor(century / 4)) % 7)
-  // return the weekDay name.
-  return daysNameList[weekDay]
+
+  const myDate = new Date(`${month}/${day}/${year}`)
+
+  return daysNameList[myDate.getDay()]
 }
 
 // Example : DateToDay("18/12/2020") => Friday
-
 export { DateToDay }
