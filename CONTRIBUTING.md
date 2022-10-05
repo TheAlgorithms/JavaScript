@@ -91,7 +91,7 @@ npm test
 If you want save some time and just run a specific test:
 
 ```shell
-# this will run any test file where the filename matches "koch"
+# This will run any test file where the filename contains "koch" (no need to specify folder path)
 npm test -- koch
 ```
 
