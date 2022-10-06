@@ -82,7 +82,7 @@ and inspect the outcome. Example: [RatInAMaze.test.js](Backtracking/tests/RatInA
 
 Please refrain from using `console` in your implementation AND test code.
 
-First it is recommended of you to install all dependencies using:
+First you should install all dependencies using:
 
 ```shell
 npm install
