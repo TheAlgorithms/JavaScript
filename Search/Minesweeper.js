@@ -21,34 +21,13 @@ export const minesweeper = (matrix) => {
     const arrLine = []
     for (let y = 0; y < matrix[x].length; y++) {
       let minesInCell = 0
-      if (matrix[x] !== undefined) {
-        if (matrix[x][y + 1] === true) {
-          minesInCell++
-        }
-        if (matrix[x][y - 1] === true) {
-          minesInCell++
-        }
-      }
-      if (matrix[x - 1] !== undefined) {
-        if (matrix[x - 1][y] === true) {
-          minesInCell++
-        }
-        if (matrix[x - 1][y + 1] === true) {
-          minesInCell++
-        }
-        if (matrix[x - 1][y - 1] === true) {
-          minesInCell++
-        }
-      }
-      if (matrix[x + 1] !== undefined) {
-        if (matrix[x + 1][y] === true) {
-          minesInCell++
-        }
-        if (matrix[x + 1][y + 1] === true) {
-          minesInCell++
-        }
-        if (matrix[x + 1][y - 1] === true) {
-          minesInCell++
+      for (let xi = x - 1; xi <= x + 1; xi++) {
+        if (matrix[xi] !== undefined) {
+          for (let yi = y - 1; yi <= y + 1; yi++) {
+            if ((xi !== x || yi !== y) && matrix[xi][yi] === true) {
+              minesInCell++
+            }
+          }
         }
       }
       arrLine.push(minesInCell)
