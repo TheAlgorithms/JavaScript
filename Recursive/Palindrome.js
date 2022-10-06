@@ -6,20 +6,31 @@
  * @see [Palindrome](https://en.wikipedia.org/wiki/Palindrome)
  */
 
-const palindrome = (str) => {
-  if (typeof str !== 'string') {
-    throw new TypeError('Invalid Input')
+const isPalindrome = (() => {
+  return function isPalindrome (str) {
+    str = str.replace(/[^a-z0-9]/i, '').toLowerCase();
+    // wrap the recursive _isPalindrome function with _trampoline()
+    return (str.length > 0) && _trampoline(_isPalindrome)(str);
+  };
+
+  // trampoline() — higher-order function
+  function _trampoline (fn) {
+    return function _trampolined (...args) {
+      let result = fn(...args);
+      while (typeof result === 'function') {
+        result = result();
+      }
+      return result;
+    }
   }
 
-  if (str.length <= 1) {
-    return true
-  }
+  function _isPalindrome (str) {
+    const len = str.length;
 
-  if (str[0] !== str[str.length - 1]) {
-    return false
-  } else {
-    return palindrome(str.slice(1, str.length - 1))
-  }
-}
+    if (len <= 1) return true;
+    if (str[0] !== str[len - 1]) return false;
 
-export { palindrome }
+    // return a function that calls the recursive function
+    return () => _isPalindrome(str.slice(1, -1));
+  }
+})();
