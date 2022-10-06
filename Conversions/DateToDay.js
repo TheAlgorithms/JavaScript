@@ -20,7 +20,7 @@ const daysNameList = { // weeks-day
   6: 'Saturday'
 }
 const DateToDay = (date) => {
- // firstly, check that input is a string or not.    
+  // firstly, check that input is a string or not.
   if (typeof date !== 'string') {
     return new TypeError('Argument is not a string.')
   }
@@ -31,11 +31,11 @@ const DateToDay = (date) => {
     return new TypeError('Date is not valid.')
   }
   // date is resolved based on Zeller's congruence.
-  if (month < 3) { --year; month += 12; }
-  const century = Math.floor(year / 100);
-  year %= 100;
-  const weekDay = (year + Math.floor(year / 4) + Math.floor(century / 4) - 2 * century + Math.floor((26 * (month + 1)) / 10) + day - 1) % 7;
-  return daysNameList[(weekDay + 7) % 7];
+  if (month < 3) { --year; month += 12 }
+  const century = Math.floor(year / 100)
+  year %= 100
+  const weekDay = (year + Math.floor(year / 4) + Math.floor(century / 4) - 2 * century + Math.floor((26 * (month + 1)) / 10) + day - 1) % 7
+  return daysNameList[(weekDay + 7) % 7]
 }
 
 // Example : DateToDay("18/12/2020") => Friday
