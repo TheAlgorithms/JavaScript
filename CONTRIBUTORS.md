@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [Luan](https://github.com/lsandrade)
+
 - [Juan Robledo](https://github.com/juan-nqn)
 
 - [Ashutosh Kumar](https://github.com/incognion)
