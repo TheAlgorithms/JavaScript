@@ -39,22 +39,30 @@ const daysNameList = { // weeks-day
   6: 'Saturday'
 }
 
+// javascript n % m is the remainder operator which is different than modulus operator
+// https://stackoverflow.com/questions/4467539/javascript-modulo-gives-a-negative-result-for-negative-numbers
+const mod = (n, m) => {
+  return ((n % m) + m) % m
+}
+
 const DateToDay = (date) => {
   // firstly, check that input is a string or not.
   if (typeof date !== 'string') {
     return new TypeError('Argument is not a string.')
   }
   // extract the date
-  const [day, month, year] = date.split('/').map((x) => Number(x))
+  let [day, month, year] = date.split('/').map((x) => Number(x))
   // check the data are valid or not.
   if (day < 0 || day > 31 || month > 12 || month < 0) {
     return new TypeError('Date is not valid.')
   }
+  // adjust year since Jan & Feb are considered from previous year
+  if (month < 3) year--
   // divide year to century and yearDigit value.
-  const yearDigit = (year % 100)
   const century = Math.floor(year / 100)
+  const yearDigit = (year - century * 100)
   // Apply the algorithm shown above
-  const weekDay = Math.abs((day + Math.floor((2.6 * calcMonthList[month]) - 0.2) - (2 * century) + yearDigit + Math.floor(yearDigit / 4) + Math.floor(century / 4)) % 7)
+  const weekDay = mod(day + Math.floor((2.6 * calcMonthList[month]) - 0.2) - (2 * century) + yearDigit + Math.floor(yearDigit / 4) + Math.floor(century / 4), 7)
   // return the weekDay name.
   return daysNameList[weekDay]
 }
