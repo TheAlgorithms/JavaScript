@@ -5,6 +5,7 @@
     Auxiliary Space required for Swap Sort Algorithm is O(n).
  * @param {Integer[]} items - Array of integers
  * @return {Integer} - Number of swaps required to sort the array.
+ * @see [SwapSort](https://www.geeksforgeeks.org/minimum-number-swaps-required-sort-array/)
  */
 
 export function swapSort (items) {
