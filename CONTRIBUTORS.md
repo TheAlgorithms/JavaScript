@@ -1,5 +1,4 @@
 # CONTRIBUTORS
-- [@sahbaz13](https://github.com/sahbaz13)
 
 - [Ashutosh Kumar](https://github.com/incognion)
 
@@ -46,6 +45,8 @@
 - [@haris18896](https://github.com/haris18896)
 
 - [@Hemant](https://github.com/hemantwasthere)
+
+- [@sahbaz13](https://github.com/sahbaz13)
 
 - [@Amelia Dutta](https://github.com/amelia2802)
 
