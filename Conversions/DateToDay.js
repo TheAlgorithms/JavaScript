@@ -52,7 +52,7 @@ function daysInMonthJS (month, year) {
   ]
   return days[month]
 }
-// custom funtions.
+// custom functions.
 function daysInYear (year) {
   return 365 + (isLeapYear(year) ? 1 : 0)
 }
