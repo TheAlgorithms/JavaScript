@@ -1,6 +1,10 @@
 /**
- * A Dynamic Programming based solution for calculation of the Levenshtein Distance
- * https://en.wikipedia.org/wiki/Levenshtein_distance
+ * @function calculateLevenshteinDp
+ * @description A Dynamic Programming based solution for calculation of the Levenshtein Distance.
+ * @param {String} x - Word to be converted.
+ * @param {String} y - Desired result after operations.
+ * @return {Integer} The Levenshtein distance between x and y.
+ * @see [Levenshtein_distance](https://en.wikipedia.org/wiki/Levenshtein_distance)
  */
 
 function minimum (a, b, c) {
@@ -18,7 +22,7 @@ function costOfSubstitution (x, y) {
 }
 
 // Levenshtein distance between x and y
-function calculate (x, y) {
+function calculateLevenshteinDp (x, y) {
   const dp = new Array(x.length + 1)
   for (let i = 0; i < x.length + 1; i++) {
     dp[i] = new Array(y.length + 1)
@@ -39,4 +43,4 @@ function calculate (x, y) {
   return dp[x.length][y.length]
 }
 
-export { calculate }
+export { calculateLevenshteinDp }
