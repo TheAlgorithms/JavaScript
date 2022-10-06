@@ -24,7 +24,7 @@ function Candidate (array) {
   return array[indexMajority]
 }
 
-//  verifies if candidate occures more than two times in an array
+//  verifies if candidate occurs more than two times in an array
 function isMajority (array, candidate) {
   let count = 0
   const size = array.length
@@ -42,7 +42,7 @@ function isMajority (array, candidate) {
 function Majority (array) {
   //    finds the candidate for majority
   const cand = Candidate(array)
-  //    checks if its is the majority element
+  //    checks if it is the majority element
   if (isMajority(array, cand)) {
     return cand
   } else return -1
