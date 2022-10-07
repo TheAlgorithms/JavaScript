@@ -10,7 +10,7 @@
 */
 
 // days in a week : Sunday - Saturday => 0 - 6
-const daysNameList = [ 
+const daysNameList = [
   'Sunday',
   'Monday',
   'Tuesday',
