@@ -1,2 +1,2 @@
-const PeyxwDB = require("./src/index")
+const PeyxwDB = require("/src/index")
 module.exports = PeyxwDB;
