@@ -18,7 +18,7 @@ function cbrt (num) {
     if(error<=precision)
     return mid;
 
-    else if((mid*mid*mid)>n)
+    else if((mid*mid*mid)>num)
     high=mid;
 
     else
