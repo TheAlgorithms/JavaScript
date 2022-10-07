@@ -1,4 +1,4 @@
-import { degreeToRadian } from "./DegreeToRadian.js"
+import { degreeToRadian } from './DegreeToRadian.js'
 
 /**
    * @function circularArcLength
