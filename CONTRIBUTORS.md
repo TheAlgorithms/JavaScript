@@ -1234,6 +1234,8 @@
 
 - [@Dknsapatin](https://github.com/dknsapatin)
 
+- [@d-mcneil](https://github.com/d-mcneil/)
+
 - [@Dnjoe96](https://github.com/dnjoe96/)
 
 - [@Dnkoziatek](https://github.com/dnkoziatek)
