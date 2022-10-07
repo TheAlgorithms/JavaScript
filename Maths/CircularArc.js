@@ -1,14 +1,4 @@
-/**
- * @function degreesToRadians
- * @description convert from degrees to radians
- * @param {Integer} angle in degrees
- * @return {Integer} degrees * pi / 180
- * @see https://en.wikipedia.org/wiki/Degree_(angle)
- * @example degreesToRadians(45) = 0.7853981633974483
- */
-function degreesToRadians (degrees) {
-  return degrees * Math.PI / 180
-}
+import { degreeToRadian } from "./DegreeToRadian.js"
 
 /**
    * @function circularArcLength
@@ -20,7 +10,7 @@ function degreesToRadians (degrees) {
    * @example circularArcLength(3, 45) = 2.356194490192345
    */
 function circularArcLength (radius, degrees) {
-  return radius * degreesToRadians(degrees)
+  return radius * degreeToRadian(degrees)
 }
 /**
    * @function circularArcArea
@@ -32,7 +22,7 @@ function circularArcLength (radius, degrees) {
    * @example circularArcArea(3,45) = 3.5342917352885173
    */
 function circularArcArea (radius, degrees) {
-  return Math.pow(radius, 2) * degreesToRadians(degrees) / 2
+  return Math.pow(radius, 2) * degreeToRadian(degrees) / 2
 }
 
 export {
