@@ -24,3 +24,9 @@ test('check BinaryCountSetBits of 0 is 0', () => {
   const res = BinaryCountSetBits(0)
   expect(res).toBe(0)
 })
+test('check BinaryCountSetBits of 21.1 throws error', () => {
+  expect(() => BinaryCountSetBits(21.1)).toThrow()
+})
+test('check BinaryCountSetBits of {} throws error', () => {
+  expect(() => BinaryCountSetBits({})).toThrow()
+})
