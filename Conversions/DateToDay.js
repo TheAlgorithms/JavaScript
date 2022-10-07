@@ -12,32 +12,8 @@
     Algorithm & Explanation : https://en.wikipedia.org/wiki/Zeller%27s_congruence
 */
 
-// March is taken as the first month of the year.
-const calcMonthList = {
-  1: 13,
-  2: 14,
-  3: 3,
-  4: 4,
-  5: 5,
-  6: 6,
-  7: 7,
-  8: 8,
-  9: 9,
-  10: 10,
-  11: 11,
-  12: 12
-}
-
-// show the week day in a number : Sunday - Saturday => 0 - 6
-const daysNameList = { // weeks-day
-  1: 'Sunday',
-  2: 'Monday',
-  3: 'Tuesday',
-  4: 'Wednesday',
-  5: 'Thursday',
-  6: 'Friday',
-  0: 'Saturday'
-}
+// Array holding name of the day: Saturday - Sunday - Friday => 0 - 1 - 6
+const daysNameArr = ['Saturday', 'Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday']
 
 const DateToDay = (date) => {
   // firstly, check that input is a string or not.
@@ -51,19 +27,25 @@ const DateToDay = (date) => {
     return new TypeError('Date is not valid.')
   }
 
-  // In case of Jan and Feb, we consider it as previous year
+  // In case of Jan and Feb:
+  // Year: we consider it as previous year
   // e.g., 1/1/1987 here year is 1986 (-1)
+  // Month: we consider value as 13 & 14 respectively
   if (month < 3) {
-    year -= 1
+    year--
+    month += 12
   }
 
   // divide year to century and yearDigit value.
   const yearDigit = (year % 100)
   const century = Math.floor(year / 100)
+
   // Apply the algorithm shown above
-  const weekDay = Math.abs((day + Math.floor((calcMonthList[month] + 1) * 2.6) + yearDigit + (yearDigit / 4) + (century / 4) - (2 * century)) % 7)
+  const weekDay = Math.abs((day + Math.floor((month + 1) * 2.6) + yearDigit + (yearDigit / 4) + (century / 4) - (2 * century)) % 7)
+
+  // There is possibility that weekDay is in decimal, so Math.floor() needed
   // return the weekDay name.
-  return daysNameList[Math.floor(weekDay)]
+  return daysNameArr[Math.floor(weekDay)]
 }
 
 // Example : DateToDay("18/12/2020") => Friday
