@@ -5,4 +5,12 @@ describe('Majority element cases', () => {
     const Array = [1, 2, 3, 4, 5]
     expect(FindMajority(Array)).toEqual(-1)
   })
+  it('test1 with majority', () => {
+    const Array = [3, 3, 4, 2, 4, 4, 2, 4, 4]
+    expect(FindMajority(Array)).toEqual(4)
+  })
+  it('test2 with majority', () => {
+    const Array = [3, 4, 2, 2, 2, 2, 2, 4]
+    expect(FindMajority(Array)).toEqual(2)
+  })
 })

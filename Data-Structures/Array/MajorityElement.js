@@ -5,16 +5,15 @@
  * @flow
  */
 
-// To find the candidate for majority element
-function Candidate (array) {
+function findCandidate (array) {
   let indexMajority = 0
   let count = 1
   const size = array.length
   for (let i = 1; i < size; i++) {
     if (array[indexMajority] === array[i]) {
-      count += 1
+      count++
     } else {
-      count -= 1
+      count--
       if (count === 0) {
         indexMajority = i
         count = 1
@@ -24,26 +23,26 @@ function Candidate (array) {
   return array[indexMajority]
 }
 
-//  verifies if candidate occurs more than two times in an array
-function isMajority (array, candidate) {
+//  verifies if candidate occurs more than size/2 times in an array
+function isMajorityElement (array, candidate) {
   let count = 0
   const size = array.length
   for (let i = 0; i < size; i++) {
     if (array[i] === candidate) {
-      count += 1
-    }
-    if (count > size / 2) {
-      return 1
+      count++
+      if (++count > size / 2) {
+        return true
+      }
     }
   }
-  return 0
+  return false
 }
 
 function Majority (array) {
   //    finds the candidate for majority
-  const cand = Candidate(array)
+  const cand = findCandidate(array)
   //    checks if it is the majority element
-  if (isMajority(array, cand)) {
+  if (isMajorityElement(array, cand)) {
     return cand
   } else return -1
 }
