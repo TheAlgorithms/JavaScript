@@ -9,16 +9,16 @@
     Algorithm & Explanation : https://www.geeksforgeeks.org/zellers-congruence-find-day-date/
 */
 
-// show the week day in a number : Sunday - Saturday => 0 - 6
-const daysNameDict = { // weeks-day
-  0: 'Sunday',
-  1: 'Monday',
-  2: 'Tuesday',
-  3: 'Wednesday',
-  4: 'Thursday',
-  5: 'Friday',
-  6: 'Saturday'
-}
+// days in a week : Sunday - Saturday => 0 - 6
+const daysNameList = [ 
+  'Sunday',
+  'Monday',
+  'Tuesday',
+  'Wednesday',
+  'Thursday',
+  'Friday',
+  'Saturday'
+]
 const DateToDay = (date) => {
   // firstly, check that input is a string or not.
   if (typeof date !== 'string') {
@@ -35,7 +35,7 @@ const DateToDay = (date) => {
   const century = Math.floor(year / 100)
   year %= 100
   const weekDay = (year + Math.floor(year / 4) + Math.floor(century / 4) - 2 * century + Math.floor((26 * (month + 1)) / 10) + day - 1) % 7
-  return daysNameDict[(weekDay + 7) % 7]
+  return daysNameList[(weekDay + 7) % 7]
 }
 
 // Example : DateToDay("18/12/2020") => Friday
