@@ -2,6 +2,8 @@
 
 - [Luan](https://github.com/lsandrade)
 
+- [Sadichchha Naik](https://github.com/sadichchhaa)
+
 - [Juan Robledo](https://github.com/juan-nqn)
 
 - [Ashutosh Kumar](https://github.com/incognion)
