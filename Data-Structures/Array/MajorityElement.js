@@ -38,16 +38,11 @@ function isMajorityElement (array, candidate) {
   return false
 }
 
-function Majority (array) {
+function findMajority (array) {
   //    finds the candidate for majority
   const cand = findCandidate(array)
   //    checks if it is the majority element
-  if (isMajorityElement(array, cand)) {
-    return cand
-  } else return -1
+  return isMajorityElement(array, cand) ? cand : -1
 }
 
-const FindMajority = (array) => {
-  return Majority(array)
-}
-export { FindMajority }
+export { findMajority }
