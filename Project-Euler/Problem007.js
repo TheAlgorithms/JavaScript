@@ -12,16 +12,16 @@ import { PrimeCheck } from '../Maths/PrimeCheck.js'
  */
 export const nthPrime = (n) => {
   if (n < 1) {
-    return 'Invalid Input'
+    throw new Error('Invalid Input')
   }
 
   let count = 0
-  let inc = 2
+  let candidateValue = 2
   while (count < n) {
-    if (PrimeCheck(inc)) {
+    if (PrimeCheck(candidateValue)) {
       count++
     }
-    inc++
+    candidateValue++
   }
-  return inc - 1
+  return candidateValue - 1
 }
