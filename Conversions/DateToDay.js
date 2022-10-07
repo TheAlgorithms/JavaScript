@@ -41,11 +41,11 @@ const DateToDay = (date) => {
   const century = Math.floor(year / 100)
 
   // Apply the algorithm shown above
-  const weekDay = Math.abs((day + Math.floor((month + 1) * 2.6) + yearDigit + (yearDigit / 4) + (century / 4) - (2 * century)) % 7)
+  const weekDay = Math.floor((day + Math.floor((month + 1) * 2.6) + yearDigit + (yearDigit / 4) + (century / 4) - (2 * century)) % 7)
 
   // There is possibility that weekDay is in decimal, so Math.floor() needed
   // return the weekDay name.
-  return daysNameArr[Math.floor(weekDay)]
+  return daysNameArr[weekDay]
 }
 
 // Example : DateToDay("18/12/2020") => Friday
