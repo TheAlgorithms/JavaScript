@@ -16,12 +16,12 @@ export const nthPrime = (n) => {
   }
 
   let count = 0
-  let candidateValue = 2
+  let candidateValue = 1
   while (count < n) {
+    candidateValue++
     if (PrimeCheck(candidateValue)) {
       count++
     }
-    candidateValue++
   }
-  return candidateValue - 1
+  return candidateValue
 }
