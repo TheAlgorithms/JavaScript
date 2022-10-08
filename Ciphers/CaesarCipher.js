@@ -6,7 +6,7 @@
  * @param {number} rotation - the number of rotation, expect real number ( > 0)
  * @return {string} - decrypted string
  */
-const caesarsCipher = (str, rotation) => {
+const caesarCipher = (str, rotation) => {
   if (typeof str !== 'string' || !Number.isInteger(rotation) || rotation < 0) {
     throw new TypeError('Arguments are invalid')
   }
@@ -29,4 +29,4 @@ const caesarsCipher = (str, rotation) => {
   })
 }
 
-export default caesarsCipher
+export default caesarCipher
