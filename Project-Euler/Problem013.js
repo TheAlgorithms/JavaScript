@@ -1,4 +1,3 @@
-
 /**
  * Problem 13 - Large Sum
  *
@@ -14,8 +13,11 @@
  */
 
 export const largeSum = (nums) => {
-	let arr = nums.split('\n'); // convert to array of strings
-	let sum = arr.reduce((acc, item) => acc += parseInt(item), 0); // calculate the sum
-	const result = parseInt(sum.toString().substring(0, 11).replace('.', '')); // convert the sum to a string, get the first 10 digits and remove the decimal
-	return result;
+  const arr = nums.split('\n') // convert to array of strings
+  let sum = 0
+  for (const item in arr) {
+    sum += parseInt(item)
+  } // calculate the sum
+  const res = parseInt(sum.toString().substring(0, 11).replace('.', '')) // convert the sum to a string, get the first 10 digits and remove the decimal
+  return res
 }
