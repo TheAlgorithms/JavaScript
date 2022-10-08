@@ -238,6 +238,7 @@
   * [Palindrome](Recursive/Palindrome.js)
   * [SubsequenceRecursive](Recursive/SubsequenceRecursive.js)
   * [TowerOfHanoi](Recursive/TowerOfHanoi.js)
+  * [UnrollMatrix](Recursive/UnrollMatrix.js)
 * **Search**
   * [BinarySearch](Search/BinarySearch.js)
   * [ExponentialSearch](Search/ExponentialSearch.js)
