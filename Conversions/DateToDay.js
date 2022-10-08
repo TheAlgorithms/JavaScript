@@ -34,7 +34,7 @@ const DateToDay = (date) => {
   if (month < 3) { year--; month += 12 }
   const century = Math.floor(year / 100)
   year %= 100
-  const weekDay = (year + Math.floor(year / 4) + Math.floor(century / 4) - 2 * century + Math.floor((26 * (month + 1)) / 10) + day - 1) % 7
+  const weekDay = (year + Math.floor(year / 4) + Math.floor(century / 4) - 2 * century + Math.floor((26 * (month + 1)) / 10) + day - 1)
   return daysNameList[(weekDay + 7) % 7]
 }
 
