@@ -10,12 +10,12 @@
 /**
  * calculates the sum and returns first 10 digits.
  * @param {String} nums
- * @returns {String}
+ * @returns {Number}
  */
 
 export const largeSum = (nums) => {
 	let arr = nums.split('\n'); // convert to array of strings
 	let sum = arr.reduce((acc, item) => acc += parseInt(item), 0); // calculate the sum
-	const ans = sum.toString().substring(0, 11).replace('.', ''); // convert the sum to a string, get the first 10 digits and remove the decimal
-	return ans;
+	const result = parseInt(sum.toString().substring(0, 11).replace('.', '')); // convert the sum to a string, get the first 10 digits and remove the decimal
+	return result;
 }
