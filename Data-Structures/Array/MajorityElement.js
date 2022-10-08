@@ -41,7 +41,6 @@ function isMajorityElement (array, candidate) {
 function findMajority (array) {
   //    finds the candidate for majority
   const cand = findCandidate(array)
-  //    checks if it is the majority element
   return isMajorityElement(array, cand) ? cand : -1
 }
 
