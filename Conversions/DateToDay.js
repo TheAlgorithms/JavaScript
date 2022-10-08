@@ -41,7 +41,7 @@ const DateToDay = (date) => {
   const century = Math.floor(year / 100)
 
   // Apply the algorithm shown above
-  const weekDay = (day + Math.floor((month + 1) * 2.6) + yearDigit + Math.floor(yearDigit / 4) + Math.floor(century / 4) - (2 * century)) % 7
+  const weekDay = (day + Math.floor((month + 1) * 2.6) + yearDigit + Math.floor(yearDigit / 4) + Math.floor(century / 4) + (5 * century)) % 7
 
   // There is possibility that weekDay is in decimal, so Math.floor() needed
   // return the weekDay name.
