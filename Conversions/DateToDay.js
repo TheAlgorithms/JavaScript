@@ -36,27 +36,25 @@ const DateToDay = (date) => {
     month += 12
   }
 
-  // divide year to century and yearDigit value.
-  const yearDigit = (year % 100)
+  // divide year into century and the last two digits of the century
+  const yearDigits = year % 100
   const century = Math.floor(year / 100)
 
-  /**
-   * Algorithm implementation
-   *
-   * In the mathematics modulo operations, truncated division is used mostly in most of programming languages.
-   * Truncation defines quotient part (integer part) q = trunc(a/n), remainder has same sign as dividend.
-   * -2 mod 7 return result of -2 => console.log(-2 % 7) => -2
-   *
-   * To overcome this problem, to ensure positive numerator, formula is modified by replacing -2J with +5J (J => century)
-   *
-   * Following example shows issue with modulo division
-   * 1. For date 2/3/2014 with old formula - (2 * century) weekDay comes as -6 and wrong day
-   * 2. With computer logic + (5 * century) it gives proper valid day as Sunday
-   */
-  const weekDay = (day + Math.floor((month + 1) * 2.6) + yearDigit + Math.floor(yearDigit / 4) + Math.floor(century / 4) + (5 * century)) % 7
+  /*
+  In mathematics, remainders of divisions are usually defined to always be positive;
+  As an example, -2 mod 7 = 5.
+  Many programming languages including JavaScript implement the remainder of `n % m` as `sign(n) * (abs(n) % m)`.
+  This means the result has the same sign as the numerator. Here, `-2 % 7 = -1 * (2 % 7) = -2`.
 
-  // return the weekDay name.
-  return daysNameArr[weekDay]
+  To ensure a positive numerator, the formula is adapted: `- 2 * century` is replaced with `+ 5 * century`
+  which does not alter the resulting numbers mod 7 since `7 - 2 = 5`
+
+  The following example shows the issue with modulo division:
+  Without the adaption, the formula yields `weekDay = -6` for the date 2/3/2014;
+  With the adaption, it yields the positive result `weekDay = 7 - 6 = 1` (Sunday), which is what we need to index the array
+  */
+  const weekDay = (day + Math.floor((month + 1) * 2.6) + yearDigits + Math.floor(yearDigits / 4) + Math.floor(century / 4) + 5 * century) % 7
+  return daysNameArr[weekDay] // name of the weekday
 }
 
 // Example : DateToDay("18/12/2020") => Friday
