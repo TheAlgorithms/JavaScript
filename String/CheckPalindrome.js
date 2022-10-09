@@ -10,8 +10,7 @@ const checkPalindrome = (str) => {
   }
   // Reverse only works with array, thus convert the string to array, reverse it and convert back to string
   // return as palindrome if the reversed string is equal to the input string
-  const reversed = [...str].reverse().join('')
-  return str === reversed ? 'Palindrome' : 'Not a Palindrome'
+  return str === str.split("").reverse().join("") ? 'Palindrome' : 'Not a Palindrome'
 }
 
 export { checkPalindrome }

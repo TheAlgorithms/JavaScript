@@ -1,6 +1,15 @@
 /**
  * A short example showing how to reverse a string.
  */
+
+function ReversedString(string){
+  if (typeof string !== 'string')
+    throw new TypeError('The given value is not a string');
+
+  return string.split("").reverse().join("");
+}
+
+
 function ReverseStringIterative (string) {
   if (typeof string !== 'string') {
     throw new TypeError('The given value is not a string')
@@ -36,4 +45,4 @@ function ReverseStringIterativeInplace (string) {
   return _string.join('')
 }
 
-export { ReverseStringIterative, ReverseStringIterativeInplace }
+export { ReversedString, ReverseStringIterative, ReverseStringIterativeInplace }
