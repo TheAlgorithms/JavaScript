@@ -40,10 +40,21 @@ const DateToDay = (date) => {
   const yearDigit = (year % 100)
   const century = Math.floor(year / 100)
 
-  // Apply the algorithm shown above
+  /**
+   * Algorithm implementation
+   *
+   * In the mathematics modulo operations, truncated division is used mostly in most of programming languages.
+   * Truncation defines quotient part (integer part) q = trunc(a/n), remainder has same sign as dividend.
+   * -2 mod 7 return result of -2 => console.log(-2 % 7) => -2
+   *
+   * To overcome this problem, to ensure positive numerator, formula is modified by replacing -2J with +5J (J => century)
+   *
+   * Following example shows issue with modulo division
+   * 1. For date 2/3/2014 with old formula - (2 * century) weekDay comes as -6 and wrong day
+   * 2. With computer logic + (5 * century) it gives proper valid day as Sunday
+   */
   const weekDay = (day + Math.floor((month + 1) * 2.6) + yearDigit + Math.floor(yearDigit / 4) + Math.floor(century / 4) + (5 * century)) % 7
 
-  // There is possibility that weekDay is in decimal, so Math.floor() needed
   // return the weekDay name.
   return daysNameArr[weekDay]
 }
