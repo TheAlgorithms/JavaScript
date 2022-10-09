@@ -193,6 +193,7 @@
   * [PowLogarithmic](Maths/PowLogarithmic.js)
   * [PrimeCheck](Maths/PrimeCheck.js)
   * [PrimeFactors](Maths/PrimeFactors.js)
+  * [QuadraticFormula](Maths/QuadraticFormula.js)
   * [RadianToDegree](Maths/RadianToDegree.js)
   * [ReverseNumber](Maths/ReverseNumber.js)
   * [ReversePolishNotation](Maths/ReversePolishNotation.js)
