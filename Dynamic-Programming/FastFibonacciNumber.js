@@ -1,6 +1,6 @@
 /**
  * @function fastFibonacci
- * @description fastFibonacci is same as fibonacci algorithm by calcualting the sum of previous two fibonacci numbers but in O(log(n)).
+ * @description fastFibonacci is same as fibonacci algorithm by calculating the sum of previous two fibonacci numbers but in O(log(n)).
  * @param {Integer} N - The input integer
  * @return {Integer} fibonacci of N.
  * @see [Fast_Fibonacci_Numbers](https://www.geeksforgeeks.org/fast-doubling-method-to-find-the-nth-fibonacci-number/)
