@@ -29,7 +29,6 @@ function isMajorityElement (array, candidate) {
   const size = array.length
   for (let i = 0; i < size; i++) {
     if (array[i] === candidate) {
-      count++
       if (++count > size / 2) {
         return true
       }
@@ -38,11 +37,11 @@ function isMajorityElement (array, candidate) {
   return false
 }
 
-function findMajority (array) {
+function findMajorityElement (array) {
   //    finds the candidate for majority
   const cand = findCandidate(array)
   //    checks if it is the majority element
   return isMajorityElement(array, cand) ? cand : -1
 }
 
-export { findMajority }
+export { findMajorityElement }
