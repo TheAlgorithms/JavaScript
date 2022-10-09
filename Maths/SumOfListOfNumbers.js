@@ -5,12 +5,12 @@
  * @returns  {Integer} sum
  * @example sumUsingLoop([1,4,5,-3]) = 7
  */
-function sumUsingLoop(params) {
-    var sum = 0
-    for(var i =0; i<params.length; i++) {
-        sum += params[i]
-    }
-    return sum
+function sumUsingLoop (params) {
+  let sum = 0
+  for (const element of params) {
+    sum += element
+  }
+  return sum
 }
 /**
  * @function sumUsingReduce
@@ -19,12 +19,11 @@ function sumUsingLoop(params) {
  * @returns  {Integer} sum
  * @example sumUsingReduce([1,4,5,-3]) = 7
  */
-function sumUsingReduce(params) {
-    const sum = params.reduce((partialSum, value) => partialSum + value);
-    return sum
+function sumUsingReduce (params) {
+  return params.reduce((partialSum, value) => partialSum + value)
 }
 
 export {
-    sumUsingLoop,
-    sumUsingReduce
+  sumUsingLoop,
+  sumUsingReduce
 }
