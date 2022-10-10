@@ -18,10 +18,10 @@ referenced and used by learners from around the globe. Being one of our contribu
 - Your work will be distributed under [GNU License](LICENSE) once your pull request is merged.
 - Your submitted work must fulfill our styles and standards.
 
-**New implementation** is welcome! For example, new solutions to a problem, different representations of a graph data
+**New implementation** will be welcomed! For example, new solutions to a problem, different representations of a graph data
 structure or algorithm designs with different complexity.
 
-**Improving comments** and **writing proper tests** are also highly welcome.
+**Improving comments** and **writing proper tests** are also highly encouraged.
 
 ### Contribution
 
@@ -88,13 +88,13 @@ First you should install all dependencies using:
 npm install
 ```
 
-You can (and should!) run all tests locally before committing your changes:
+You can (or rather should!) run all tests locally before committing your changes:
 
 ```shell
 npm test
 ```
 
-If you want save some time and just run a specific test:
+If you want you can save some time and just run a specific test:
 
 ```shell
 # This will run any test file where the filename contains "koch" (no need to specify folder path)
@@ -146,7 +146,7 @@ function sumOfArray(arrayOfNumbers) {
 - Please refrain from using `console.log` or any other console methods.
 - **Absolutely** don't use `alert`.
 - We strongly recommend the use of ECMAScript 6.
-- Avoid importing external libraries for basic algorithms. Only use those libraries for complicated algorithms.
+- Avoid importing external libraries for basic algorithms.Use those libraries only for complicated algorithms.
 - Most importantly:
   - **Be consistent in the use of these guidelines when submitting.**
   - Happy coding!
