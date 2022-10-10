@@ -8,7 +8,7 @@
  * @see [SwapSort](https://www.geeksforgeeks.org/minimum-number-swaps-required-sort-array/)
  */
 
-export function swapSort (items) {
+export function minSwapsToSort (items) {
   const sortedArray = items.slice()
   sortedArray.sort()
   const indexMap = {}
