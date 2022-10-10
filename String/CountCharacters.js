@@ -7,7 +7,7 @@
  */
 
 const countCharacters = (str) => {
-  const specialChars = /[`!@#$%^&*()_+\-=\[\]{};':"\\|,.<>\/?~]/
+  const specialChars = /[`!@#$%^&*()_+\-=[\]{};':"\\|,.<>?~]/
 
   if (typeof str !== 'string') {
     throw new TypeError('Input should be a string')
