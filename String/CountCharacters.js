@@ -21,9 +21,9 @@ const countCharacters = (str) => {
     throw new TypeError('Input must not contain numbers')
   }
 
-  let obj = {}
+  const obj = {}
   for (let i = 0; i < str.toLowerCase().length; i++) {
-    let char = str.toLowerCase().charAt(i)
+    const char = str.toLowerCase().charAt(i)
     if (obj[char]) {
       obj[char]++
     } else {
