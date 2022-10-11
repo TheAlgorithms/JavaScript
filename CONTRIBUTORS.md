@@ -780,6 +780,8 @@
 
 - [@Breyrivera2021](https://github.com/BreyRivera2021)
 
+- [@BrianWhelanDublin](https://github.com/BrianWhelanDublin)
+
 - [@Britolliver](https://github.com/britolliver)
 
 - [@Brunadossantostech](https://github.com/brunadossantos-tech)
@@ -6183,7 +6185,6 @@ Nazmul
 -[@guptaarth87](https://github.com/guptaarth87)
 
 - [@SabbirAhmedChowdhury](https://github.com/SabbirAhmedChowdhury)
-
 
 -[@Puka-Luke](https://github.com/Puka-Luke)
 
