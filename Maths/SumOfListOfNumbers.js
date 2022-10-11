@@ -6,6 +6,9 @@
  * @example sumUsingLoop([1,4,5,-3]) = 7
  */
 function sumUsingLoop (params) {
+  if (!Array.isArray(params)) {
+    throw new TypeError('Invalid Input')
+  }
   let sum = 0
   for (const element of params) {
     sum += element
@@ -20,6 +23,9 @@ function sumUsingLoop (params) {
  * @example sumUsingReduce([1,4,5,-3]) = 7
  */
 function sumUsingReduce (params) {
+  if (!Array.isArray(params)) {
+    throw new TypeError('Invalid Input')
+  }
   return params.reduce((partialSum, value) => partialSum + value)
 }
 
