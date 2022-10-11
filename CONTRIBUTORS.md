@@ -7,7 +7,7 @@
 - [Juan Robledo](https://github.com/juan-nqn)
 
 - [Ashutosh Kumar](https://github.com/incognion)
-[kaycee Nuel](https://github.com/codewithkaycee)
+  [kaycee Nuel](https://github.com/codewithkaycee)
 - [@siddharthsinghvats](https://github.com/siddharthsinghvats)
 
 - [@MR-Abbasnejad](https://github.com/MR-Abbasnejad)
@@ -6184,7 +6184,6 @@ Nazmul
 
 - [@SabbirAhmedChowdhury](https://github.com/SabbirAhmedChowdhury)
 
-
 -[@Puka-Luke](https://github.com/Puka-Luke)
 
 - [@KaraFang](https://github.com/KaraFang)
@@ -6286,3 +6285,5 @@ Nazmul
 -[@eliask-dev](https://github.com/eliask-dev)
 
 -[@Gabeifeoluwa](https://github.com/Gabeifeoluwa)
+
+-[@Devakinola](https://github.com/Devakinola)
