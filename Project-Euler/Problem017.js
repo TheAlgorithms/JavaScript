@@ -30,11 +30,11 @@ const numberToWord = (n) => {
   }
 
   /**
-   * To calculate tens value "n / 10 - 2" is perfomed, which might return decimal value
+   * To calculate tens value "n / 10 - 2" is performed, which might return decimal value
    * to extract proper integer value Math.floor is added
    *
    * To find ones part, unit is identified by n % 10
-   * If > 0 then ones word is apended to tens word otherwise nothing
+   * If > 0 then ones word is appended to tens word otherwise nothing
    * e.g.,
    * 1. 34 -> thirtyfour
    * 2. 30 -> thirty
@@ -95,7 +95,7 @@ const countNumberWordLength = (number) => {
     throw new Error('Please provide number greater that 1')
   }
 
-  // Loop to calulate word length by calling {@link numberToWord}
+  // Loop to calculate word length by calling {@link numberToWord}
   for (let i = 1; i <= number; i++) {
     count += numberToWord(i).length
   }
