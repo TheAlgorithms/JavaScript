@@ -15,7 +15,7 @@ function meanAbsoluteDeviation (data) {
   for (const dataPoint of data) {
     absoluteSum += Math.abs(dataPoint - meanValue)
   }
-  return (absoluteSum / data.length).toFixed(3)
+  return parseFloat((absoluteSum / data.length).toFixed(3))
 }
 
 export {
