@@ -17,3 +17,7 @@ function meanAbsoluteDeviation (data) {
   }
   return (absoluteSum / data.length).toFixed(3)
 }
+
+export {
+  meanAbsoluteDeviation
+}

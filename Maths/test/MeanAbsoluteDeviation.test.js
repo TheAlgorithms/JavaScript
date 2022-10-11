@@ -14,3 +14,5 @@ describe('tests for mean absolute deviation', () => {
     expect(meanAbDev).toBe(10.480)
   })
 })
+
+console.log(typeof meanAbsoluteDeviation)
