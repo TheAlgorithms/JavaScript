@@ -14,9 +14,9 @@
 
 export const largeSum = (nums) => {
   const arr = nums.split('\n') // convert to array of strings
-  let sum = 0
+  let sum = 0n
   for (const item of arr) {
-    sum += parseInt(item)
+    sum += BigInt(item)
   } // calculate the sum
   const res = parseInt(sum.toString().substring(0, 11).replace('.', '')) // convert the sum to a string, get the first 10 digits and remove the decimal
   return res
