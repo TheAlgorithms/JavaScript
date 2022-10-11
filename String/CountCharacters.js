@@ -25,7 +25,7 @@ const countCharacters = (str) => {
   for (let i = 0; i < str.toLowerCase().length; i++) {
     const char = str.toLowerCase().charAt(i)
     if (obj[char]) {
-      obj[char]++
+      obj[char] = (obj[char] || 0) + 1
     } else {
       obj[char] = 1
     }
