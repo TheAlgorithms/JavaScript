@@ -1,4 +1,4 @@
-import {meanAbsoluteDeviation} from '../MeanAbsoluteDeviation.js'
+import { meanAbsoluteDeviation } from '../MeanAbsoluteDeviation.js'
 
 describe('tests for mean absolute deviation', () => {
   it('should be a function', () => {
@@ -10,7 +10,7 @@ describe('tests for mean absolute deviation', () => {
   })
 
   it('should return the mean absolute devition of an array of numbers', () => {
-    const meanAbDev = meanAbsoluteDeviation([2,34,5,0,-2])
+    const meanAbDev = meanAbsoluteDeviation([2, 34, 5, 0, -2])
     expect(meanAbDev).toBe(10.480)
   })
 })

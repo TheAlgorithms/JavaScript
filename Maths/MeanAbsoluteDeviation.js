@@ -1,4 +1,4 @@
-import { mean } from "./AverageMean.js"
+import { mean } from './AverageMean.js'
 /**
  *@function meanAbsoluteDeviation
  *@description Calculates the mean absolute deviation of list of numbers
@@ -11,7 +11,7 @@ function meanAbsoluteDeviation (data) {
     throw new TypeError('Invalid Input')
   }
   let absoluteSum = 0
-  let meanValue = mean(data)
+  const meanValue = mean(data)
   for (const dataPoint of data) {
     absoluteSum += Math.abs(dataPoint - meanValue)
   }
