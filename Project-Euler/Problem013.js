@@ -18,6 +18,5 @@ export const largeSum = (nums) => {
   for (const item of arr) {
     sum += BigInt(item)
   } // calculate the sum
-  const res = parseInt(sum.toString().substring(0, 10)) // convert the sum to a string and get the first 10 digits
-  return res
+  return parseInt(sum.toString().substring(0, 10)) // convert the sum to a string and get the first 10 digits
 }
