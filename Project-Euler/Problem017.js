@@ -17,7 +17,7 @@ const tens = [6, 6, 5, 5, 5, 7, 6, 6]
 
 // Word length for words thousand, hundred, and
 const thousandLength = 8
-const hungredLength = 7
+const hundredLength = 7
 const andLength = 3
 
 /**
@@ -68,7 +68,7 @@ const numberToWordLength = (n) => {
   // Find ones for hundred part number
   // e.g., hundred = 1 => inWord = onehundred
   if (hundred !== 0) {
-    count += ones[hundred] + hungredLength
+    count += ones[hundred] + hundredLength
   }
 
   // Find and part of number
