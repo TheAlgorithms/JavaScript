@@ -24,5 +24,3 @@ function exponentialFunction (power, n) {
 export {
   exponentialFunction
 }
-
-console.log(exponentialFunction(2,20))
