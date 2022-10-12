@@ -15,8 +15,7 @@ function exponentialFunction (power, n) {
   if (n === 0) { return 1 }
   for (let i = 0; i < n; i++) {
     output += (power ** i) / fac
-    fac *= ++i
-    --i
+    fac *= (i + 1)
   }
   return output
 }
