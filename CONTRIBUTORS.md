@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [Ingrid Kelsey](https://github.com/ingridclaire)
+
 - [Luan](https://github.com/lsandrade)
 
 - [Sadichchha Naik](https://github.com/sadichchhaa)
