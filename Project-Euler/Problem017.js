@@ -9,20 +9,24 @@
  * @author Chetan07j
  */
 
+// Array of number word length from 0 -> 19
+const ones = [4, 3, 3, 5, 4, 4, 3, 5, 5, 4, 3, 6, 6, 8, 8, 7, 7, 9, 8, 8]
+
+// Array for tens from 20, 30, 40, 50, 60, 70, 80, 90 in words length
+const tens = [6, 6, 5, 5, 5, 7, 6, 6]
+
+// Word length for words thousand, hundred, and
+const thousandLength = 8
+const hungredLength = 7
+const andLength = 3
+
 /**
  * Function to convert number to word
  *
  * This function is called recursively to handle thousand and its sub part
  */
-const numberToWord = (n) => {
-  let inWord = ''
-
-  // Array of number from 0 -> 19 in words
-  const ones = ['zero', 'one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine', 'ten', 'eleven', 'twelve', 'thirteen',
-    'fourteen', 'fifteen', 'sixteen', 'seventeen', 'eighteen', 'nineteen']
-
-  // Array for tens from 20 -> 90 in words
-  const tens = ['twenty', 'thirty', 'forty', 'fifty', 'sixty', 'seventy', 'eighty', 'ninety']
+const numberToWordLength = (n) => {
+  let count = 0
 
   // If number is < 20 then return its corresponding value from ones
   if (n < 20) {
@@ -36,18 +40,18 @@ const numberToWord = (n) => {
    * To get appropriate value from that for our number it is required
    * e.g.,
    * -> 34 -> 34/10= 3.4 -> Math.floor(3.4) = 3
-   * -> ones[3] = 'fifty' // this is wrong
-   * -> 3 - 2 = 1 -> ones[1] = 'thirty'
+   * -> ones[3] = 5 // this is wrong
+   * -> 3 - 2 = 1 -> ones[1] = 6
    *
    * To find ones part, unit is identified by n % 10
    * If > 0 then ones word is appended to tens word otherwise nothing
    * e.g.,
-   * 1. 34 -> thirtyfour
-   * 2. 30 -> thirty
+   * 1. 34 -> 10
+   * 2. 30 -> 6
    */
   if (n >= 20 && n < 100) {
     const unit = n % 10
-    return tens[Math.floor(n / 10 - 2)] + ((unit !== 0) ? ones[unit] : '')
+    return tens[Math.floor(n / 10 - 2)] + ((unit !== 0) ? ones[unit] : 0)
   }
 
   // Find thousand, hundred and sub part
@@ -58,23 +62,23 @@ const numberToWord = (n) => {
   // Find ones for thousand part number
   // e.g., thousand = 2 => inWord = twothousand
   if (n > 999) {
-    inWord += numberToWord(thousand) + 'thousand'
+    count += numberToWordLength(thousand) + thousandLength
   }
 
   // Find ones for hundred part number
   // e.g., hundred = 1 => inWord = onehundred
   if (hundred !== 0) {
-    inWord += ones[hundred] + 'hundred'
+    count += ones[hundred] + hungredLength
   }
 
   // Find and part of number
   // e.g., 922 => ninehundred"andtwentytwo"
   if (sub !== 0) {
-    inWord += 'and' + numberToWord(sub)
+    count += andLength + numberToWordLength(sub)
   }
 
   // return number in word format
-  return inWord
+  return count
 }
 
 /**
@@ -103,7 +107,7 @@ const countNumberWordLength = (number) => {
 
   // Loop to calculate word length by calling {@link numberToWord}
   for (let i = 1; i <= number; i++) {
-    count += numberToWord(i).length
+    count += numberToWordLength(i)
   }
 
   // return final count for number word length
