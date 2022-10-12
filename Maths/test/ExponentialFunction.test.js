@@ -11,6 +11,6 @@ describe('Tests for exponential function', () => {
 
   it('should return the exponential function of power of 5 and order of 21', () => {
     const ex = exponentialFunction(5, 20)
-    expect(ex).toBe(148.4131470673818)
+    expect(ex).toBe(148.4131078683383)
   })
 })
