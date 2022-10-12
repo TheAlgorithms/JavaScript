@@ -6262,7 +6262,7 @@
 
 - [@Manopandian46](https://github.com/Manopandian46)
 
-- [@abrantesfg](https://github.com/abrantesfg)
+- [@abrantesfg](lhttps://github.com/abrantesfg)
 
 - [@ganeshrevadi](https://github.com/ganeshrevadi)
 
@@ -6282,4 +6282,9 @@
 
 - [@PaulPk005](https://github.com/aulPk005)
 
+
 - [@eliask-dev](https://github.com/eliask-dev)
+
+- [@Gabeifeoluwa](https://github.com/Gabeifeoluwa)
+- [Anthony Barnett](https://github.com/barnettcoding)
+
