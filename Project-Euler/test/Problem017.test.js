@@ -29,10 +29,6 @@ describe('Number letter count', () => {
     }
   ]
 
-  // it('should be invalid input if number is negative', () => {
-  //   expect(() => nthPrime(-3)).toThrowError('Invalid Input')
-  // })
-
   for (const tt of textFixture) {
     test(tt.name, () => {
       if (tt.error) {
