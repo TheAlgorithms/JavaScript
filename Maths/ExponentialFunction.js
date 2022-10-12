@@ -14,7 +14,7 @@ function exponentialFunction (power, n) {
     throw new TypeError('Invalid Input')
   }
   if (n === 0) { return 1 }
-  for(let i = 0; i < n; i++){
+  for (let i = 0; i < n; i++) {
     output += (power ** i) / calcFactorial(i)
   }
   return output
