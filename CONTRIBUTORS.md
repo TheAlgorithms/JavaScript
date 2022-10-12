@@ -1,5 +1,9 @@
 # CONTRIBUTORS
 
+- [Pritesh Kiri](https://github.com/PriteshKiri)
+
+- [Ingrid Kelsey](https://github.com/ingridclaire)
+
 - [Luan](https://github.com/lsandrade)
 
 - [Sadichchha Naik](https://github.com/sadichchhaa)
@@ -6282,17 +6286,12 @@
 
 - [@PaulPk005](https://github.com/aulPk005)
 
-
 - [@eliask-dev](https://github.com/eliask-dev)
 
 - [@Gabeifeoluwa](https://github.com/Gabeifeoluwa)
+
 - [Anthony Barnett](https://github.com/barnettcoding)
-
-
-
-- [@Gabeifeoluwa](https://github.com/Gabeifeoluwa)
 
 - [@JoshuaIsADev](https://github.com/JoshuaIsADev/)
 
-
-
+- [@nwkean](https://github.com/nwkean/)
