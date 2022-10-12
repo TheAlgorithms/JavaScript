@@ -1,5 +1,9 @@
 # CONTRIBUTORS
 
+- [Pritesh Kiri](https://github.com/PriteshKiri)
+
+- [Ingrid Kelsey](https://github.com/ingridclaire)
+
 - [Luan](https://github.com/lsandrade)
 
 - [Sadichchha Naik](https://github.com/sadichchhaa)
@@ -6286,4 +6290,16 @@ Nazmul
 
 -[@Gabeifeoluwa](https://github.com/Gabeifeoluwa)
 
+<<<<<<< HEAD
 -[@Devakinola](https://github.com/Devakinola)
+=======
+-[@JoshuaIsADev](https://github.com/JoshuaIsADev/)
+
+Anthony Barnett(https://github.com/barnettcoding)
+
+-[@nwkean](https://github.com/nwkean/)
+
+-[@mHienp](https://github.com/mHienp/)
+
+-[@EmmyXambeg](https://github.com/EmmyXambeg/)
+>>>>>>> 01606e9d6afc26017f0c5e3be05964d23682565b
