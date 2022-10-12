@@ -6286,4 +6286,7 @@ Nazmul
 -[@eliask-dev](https://github.com/eliask-dev)
 
 -[@Gabeifeoluwa](https://github.com/Gabeifeoluwa)
+
+-[@JoshuaIsADev](https://github.com/JoshuaIsADev/)
+
 Anthony Barnett(https://github.com/barnettcoding)
