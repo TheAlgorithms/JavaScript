@@ -32,6 +32,12 @@ const numberToWord = (n) => {
   /**
    * To calculate tens value "n / 10 - 2" is performed, which might return decimal value
    * to extract proper integer value Math.floor is added
+   * Here  "-2" is performed as our tens array start with index 0
+   * To get appropriate value from that for our number it is required
+   * e.g.,
+   * -> 34 -> 34/10= 3.4 -> Math.floor(3.4) = 3
+   * -> ones[3] = 'fifty' // this is wrong
+   * -> 3 - 2 = 1 -> ones[1] = 'thirty'
    *
    * To find ones part, unit is identified by n % 10
    * If > 0 then ones word is appended to tens word otherwise nothing
