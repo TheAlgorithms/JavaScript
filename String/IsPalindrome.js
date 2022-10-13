@@ -16,7 +16,7 @@
         - O(1)
 */
 
-export function isPalindromeIterative(x) {
+export function isPalindromeIterative (x) {
   if (typeof x !== 'string' && typeof x !== 'number') {
     throw new TypeError('Input must be a string or a number')
   }
