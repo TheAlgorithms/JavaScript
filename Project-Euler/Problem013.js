@@ -3,9 +3,9 @@
 */
 
 export function largeSum (bignum) {
-  let nums = []
+  const nums = []
   for (let i = 50; i <= bignum.length; i += 50) {
-    nums.push(bignum.slice(i-50,i))
+    nums.push(bignum.slice(i - 50, i))
   }
 
   let pos = nums[0].length
