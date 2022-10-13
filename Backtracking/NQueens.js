@@ -1,5 +1,8 @@
-class NQueen {
+class NQueens {
   constructor (size) {
+    if (size < 0) {
+      throw RangeError('Invalid board size')
+    }
     this.board = new Array(size).fill('.').map(() => new Array(size).fill('.'))
     this.size = size
     this.solutionCount = 0
@@ -61,4 +64,4 @@ class NQueen {
   }
 }
 
-export { NQueen }
+export { NQueens }
