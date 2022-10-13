@@ -20,6 +20,8 @@
 
 - [@omgaydhane](https://github.com/omgaydhane)
 
+- [@thisis111](https://github.com/thisIs111)
+
 - [@DiyaGoayl](https://github.com/diyagoyal98)
 
 - [@sangeethkc](https://github.com/sangeethkc)
@@ -6294,8 +6296,16 @@
 
 - [@JoshuaIsADev](https://github.com/JoshuaIsADev/)
 
-
 - [@nwkean](https://github.com/nwkean/)
 
 - [@mHienp](https://github.com/mHienp/)
 
+- [@EmmyXambeg](https://github.com/EmmyXambeg/)
+
+- [@rliu](https://github.com/RunqiLiu00)
+
+- [@viridisDiscipulus](https://github.com/viridisDiscipulus/)
+
+- [@shubhu1026](https://github.com/shubhu1026/)
+
+- [@Pathpat](https://github.com/Pathpat/)
