@@ -5,7 +5,7 @@
  * @return {Boolean}
  */
 const validateURL = (url) => {
-  const URL_PATTERN = /^(https?:\/\/(?:www\.|(?!www))[^\s.]+\.[^\s]{2,}|www\.[^\s]+\.[^\s]{2,})$/gi
+  const URL_PATTERN = /^(http:\/\/www\.|https:\/\/www\.|http:\/\/|https:\/\/)?[a-z0-9]+([-.]{1}[a-z0-9]+)*\.[a-z]{2,5}(:\d{1,5})?(\/.*)?$/gi
 
   return URL_PATTERN.test(url)
 }
