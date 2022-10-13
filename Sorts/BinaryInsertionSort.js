@@ -43,17 +43,17 @@ function binarySearch (array, key, start, end) {
 }
 
 /**
-   * Binary Insertion Sort
-   *
-   * @param {Array} list List to be sorted.
-   * @return {Array} The sorted list.
-   */
+ * Binary Insertion Sort
+ *
+ * @param {Array} list List to be sorted.
+ * @return {Array} The sorted list.
+ */
 export function binaryInsertionSort (array) {
   const totalLength = array.length
-  for (let itr = 1; itr < totalLength; itr += 1) {
-    const key = array[itr]
-    const indexPosition = binarySearch(array, key, 0, itr - 1)
-    array.splice(itr, 1)
+  for (let i = 1; i < totalLength; i += 1) {
+    const key = array[i]
+    const indexPosition = binarySearch(array, key, 0, i - 1)
+    array.splice(i, 1)
     array.splice(indexPosition, 0, key)
   }
   return array
