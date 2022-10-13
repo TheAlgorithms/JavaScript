@@ -4,11 +4,10 @@
 
 export function largeSum (bignum) {
   const nums = []
-  for (let i = 0; i <= bignum.length - 50; i += 50) {
+  for (let i = 0; i < bignum.length; i += 50) {
     nums.push(bignum.slice(i, i + 50))
   }
-
-
+  
   let pos = nums[0].length
   let ret = ''
   let num = 0
