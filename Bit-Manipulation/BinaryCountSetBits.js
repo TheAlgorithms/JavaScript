@@ -4,8 +4,12 @@
 
     This script will find number of 1's
     in binary representation of given number
+    
+    T.C - O(logn)
+    S.C - O(1)
 
 */
+
 
 function BinaryCountSetBits (a) {
   'use strict'
@@ -15,7 +19,13 @@ function BinaryCountSetBits (a) {
   if (!Number.isInteger(a)) throw new TypeError('Argument not an Integer')
 
   // convert number into binary representation and return number of set bits in binary representation
-  return a.toString(2).split('1').length - 1
+  let count = 0
+    while (a > 0)
+    {
+        a &= (a - 1)
+        count++
+    }
+    return count
 }
 
 export { BinaryCountSetBits }
