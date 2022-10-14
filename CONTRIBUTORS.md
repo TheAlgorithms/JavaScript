@@ -6339,3 +6339,5 @@
 - [@jippy89](https://github.com/jippy89)
 
 -[@pysammy](https://github.com/pysammy)
+
+-[@irvrivera](https://github.com/irvrivea)
