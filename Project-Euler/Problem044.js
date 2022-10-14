@@ -11,26 +11,22 @@
  * @author ddaniel27
  */
 
-function problem44 () {
-  let result = 0
-  let searching = true
-  let k = 1
+function problem44 (k) {
+  if( k < 1 ) {
+    throw new Error('Invalid Input')
+  }
 
-  while (searching) {
+  while (true) {
     k++
     const n = k * (3 * k - 1) / 2 // calculate Pk
 
     for (let j = k - 1; j > 0; j--) {
       const m = j * (3 * j - 1) / 2 // calculate all Pj < Pk
       if (isPentagonal(n - m) && isPentagonal(n + m)) { // Check sum and difference
-        result = n - m
-        searching = false
-        break
+	return (n - m) // return D
       }
     }
   }
-
-  return result // Return D
 }
 
 /**
