@@ -788,6 +788,8 @@
 
 - [@Breyrivera2021](https://github.com/BreyRivera2021)
 
+- [@BrianWhelanDublin](https://github.com/BrianWhelanDublin)
+
 - [@Britolliver](https://github.com/britolliver)
 
 - [@Brunadossantostech](https://github.com/brunadossantos-tech)
@@ -6190,6 +6192,8 @@
 
 - [@SabbirAhmedChowdhury](https://github.com/SabbirAhmedChowdhury)
 
+-[@Puka-Luke](https://github.com/Puka-Luke)
+
 - [@Puka-Luke](https://github.com/Puka-Luke)
 
 - [@KaraFang](https://github.com/KaraFang)
@@ -6315,5 +6319,7 @@
 - [@simplyLWE](https://github.com/simplyLWE/)
 
 - [@simplyLWE](https://github.com/simplyLWE/)
+
+- [@PaulPk005](https://github.com/aulPk005)
 
 - [@Calendarspace](https://github.com/Calendarspace)
