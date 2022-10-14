@@ -21,19 +21,6 @@ export function isPalindromeIterative (x) {
     throw new TypeError('Input must be a string or a number')
   }
 
-  if (typeof x === 'number') {
-    let reversed = 0
-    let num = x
-
-    while (num > 0) {
-      const lastDigit = num % 10
-      reversed = reversed * 10 + lastDigit
-      num = Math.floor(num / 10)
-    }
-
-    return x === reversed
-  }
-
   // Convert x to string whether it's number or string
   const string = x.toString()
   const length = string.length
