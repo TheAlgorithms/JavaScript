@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [Ari Jaya](https://github.com/AriJaya07)
+
 - [Pritesh Kiri](https://github.com/PriteshKiri)
 
 - [Ingrid Kelsey](https://github.com/ingridclaire)
@@ -6308,8 +6310,10 @@
 
 - [@shubhu1026](https://github.com/shubhu1026/)
 
-
 - [@Pathpat](https://github.com/Pathpat/)
 
 - [@simplyLWE](https://github.com/simplyLWE/)
 
+- [@simplyLWE](https://github.com/simplyLWE/)
+
+- [@Calendarspace](https://github.com/Calendarspace)
