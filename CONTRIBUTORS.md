@@ -13,7 +13,7 @@
 - [Juan Robledo](https://github.com/juan-nqn)
 
 - [Ashutosh Kumar](https://github.com/incognion)
-[kaycee Nuel](https://github.com/codewithkaycee)
+  [kaycee Nuel](https://github.com/codewithkaycee)
 - [@siddharthsinghvats](https://github.com/siddharthsinghvats)
 
 - [@MR-Abbasnejad](https://github.com/MR-Abbasnejad)
@@ -6314,12 +6314,16 @@
 
 - [@shubhu1026](https://github.com/shubhu1026/)
 
+-[@Devakinola](https://github.com/Devakinola)
+
+-[@JoshuaIsADev](https://github.com/JoshuaIsADev/)
+
 - [@Pathpat](https://github.com/Pathpat/)
 
 - [@simplyLWE](https://github.com/simplyLWE/)
 
-- [@simplyLWE](https://github.com/simplyLWE/)
-
 - [@PaulPk005](https://github.com/aulPk005)
+
+-[@EmmyXambeg](https://github.com/EmmyXambeg/)
 
 - [@Calendarspace](https://github.com/Calendarspace)
