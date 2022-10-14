@@ -23,7 +23,7 @@ function problem44 (k) {
     for (let j = k - 1; j > 0; j--) {
       const m = j * (3 * j - 1) / 2 // calculate all Pj < Pk
       if (isPentagonal(n - m) && isPentagonal(n + m)) { // Check sum and difference
-        return (n - m) // return D
+        return n - m // return D
       }
     }
   }
