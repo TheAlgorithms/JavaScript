@@ -41,7 +41,6 @@ class SegmentTree {
     // tree's root node will contain all leaf node's sum
     for (let i = size - 1; i > 0; --i) {
       // current node's value is the sum of left child, right child
-      // tree[i] = tree[i * 2] + tree[i * 2 + 1]
       tree[i] = tree[i * 2] + tree[i * 2 + 1]
     }
   }
