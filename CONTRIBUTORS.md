@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [Ari Jaya](https://github.com/AriJaya07)
+
 - [Pritesh Kiri](https://github.com/PriteshKiri)
 
 - [Ingrid Kelsey](https://github.com/ingridclaire)
