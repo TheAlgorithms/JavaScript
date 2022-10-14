@@ -15,6 +15,11 @@ describe('isPalindromeIntegerNumber', () => {
     expect(isPalindromeIntegerNumber(189)).toEqual(false)
   })
 
+  it('expects to return false when input is minus', () => {
+    expect(isPalindromeIntegerNumber(-121)).toEqual(false)
+    expect(isPalindromeIntegerNumber(-12321)).toEqual(false)
+  })
+
   it('expects to return false when input is not integer number', () => {
     expect(isPalindromeIntegerNumber(123.456)).toEqual(false)
   })
