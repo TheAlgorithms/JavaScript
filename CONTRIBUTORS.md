@@ -1,5 +1,6 @@
 # CONTRIBUTORS
 
+- [Danijel Adrinek](https://github.com/DanijelAdrinek)
 
 - [@jalalbmnf](https://github.com/jalalbmnf)
 
