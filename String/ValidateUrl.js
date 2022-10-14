@@ -6,7 +6,7 @@
  */
 const validateURL = (url) => {
   /**
-   * Explaination:
+   * Explanation:
    * 1. (http:\/\/www\.|https:\/\/www\.|http:\/\/|https:\/\/)
    *    a. http://
    *    b. https://
