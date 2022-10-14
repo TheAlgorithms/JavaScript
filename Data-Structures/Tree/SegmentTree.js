@@ -1,3 +1,15 @@
+/**
+ * Segment Tree
+ * concept : [Wikipedia](https://en.wikipedia.org/wiki/Segment_tree)
+ * inspired by : https://www.geeksforgeeks.org/segment-tree-efficient-implementation/
+ *
+ * time complexity
+ * - init : O(N)
+ * - update : O(log(N))
+ * - query : O(log(N))
+ *
+ * space complexity : O(N)
+ */
 class SegmentTree {
   size
   tree
