@@ -6,11 +6,11 @@ describe('SegmentTree sum test', () => {
   const segment = new SegmentTree(a)
 
   it('init sum check', () => {
-    expect(segment.query(1, 3)).toBe(6)
+    expect(segment.query(0, 2)).toBe(6)
   })
 
   it('init sum check', () => {
     segment.update(2, 1)
-    expect(segment.query(1, 3)).toBe(4)
+    expect(segment.query(0, 2)).toBe(4)
   })
 })

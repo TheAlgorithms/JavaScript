@@ -34,7 +34,7 @@ class SegmentTree {
   }
 
   query (left, right) {
-    left--
+    right++
     let res = 0
 
     // loop to find the sum in the range
