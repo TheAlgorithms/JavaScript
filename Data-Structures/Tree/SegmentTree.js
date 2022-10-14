@@ -15,52 +15,51 @@ class SegmentTree {
   tree
   constructor (arr) {
     this.size = arr.length
-    this.tree = new Array(2 * this.size)
+    this.tree = new Array(2 * arr.length)
     this.tree.fill(0)
 
     this.build(arr)
   }
 
   build (arr) {
-    const n = this.size
+    const { size, tree } = this
     // insert leaf nodes in tree
-    for (let i = 0; i < n; i++) {
-      this.tree[n + i] = arr[i]
+    for (let i = 0; i < size; i++) {
+      tree[size + i] = arr[i]
     }
 
     // build the tree by calculating parents
-    for (let i = n - 1; i > 0; --i) {
-      this.tree[i] = this.tree[i << 1] + this.tree[(i << 1) | 1]
+    for (let i = size - 1; i > 0; --i) {
+      tree[i] = tree[i << 1] + tree[(i << 1) | 1]
     }
   }
 
   update (p, value) {
+    const { size, tree } = this
+
     // set value at position p
-    this.tree[p + this.size] = value
-    p = p + this.size
+    tree[p + size] = value
+    p += size
 
     // move upward and update parents
     for (let i = p; i > 1; i >>= 1) {
-      this.tree[i >> 1] = this.tree[i] + this.tree[i ^ 1]
+      tree[i >> 1] = tree[i] + tree[i ^ 1]
     }
   }
 
   query (left, right) {
+    const { size, tree } = this
     right++
     let res = 0
 
     // loop to find the sum in the range
-    for (
-      left += this.size, right += this.size;
-      left < right;
-      left >>= 1, right >>= 1
-    ) {
+    for (left += size, right += size; left < right; left >>= 1, right >>= 1) {
       if ((left & 1) > 0) {
-        res += this.tree[left++]
+        res += tree[left++]
       }
 
       if ((right & 1) > 0) {
-        res += this.tree[--right]
+        res += tree[--right]
       }
     }
 
