@@ -67,6 +67,7 @@ function ToPostfix(infix) {
         else if(c == '(')
             opStack.push(c);
         else if(c == ')') {
+            let x = '';
             while((x = opStack.pop()) != '(')
                 postfix += x;
         }
