@@ -6346,6 +6346,4 @@
 -[@senior-web-dev0807](https://github.com/senior-web-dev0807)
 -[@ainerug](https://github.com/ainerug/)
 
--[@Maeziii](https://github.com/Maeziii)
-
 -[@oluchidev](https://github.com/oluchidev)
