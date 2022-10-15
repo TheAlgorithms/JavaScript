@@ -1,3 +1,9 @@
+/*
+ * Author: Harinath-B (https://github.com/Harinath-B)
+ * Infix and POstfix notation explanation can be found in the following links:
+ * Wikipedia: https://en.wikipedia.org/wiki/Infix_notation / https://en.wikipedia.org/wiki/Reverse_Polish_notation
+ */
+
 class Stack {
     constructor () {
       this.stack = []
