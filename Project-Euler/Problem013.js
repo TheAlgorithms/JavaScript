@@ -1,22 +1,27 @@
 /**
- * Problem 13 - Large Sum
- *
- * @see {@link https://projecteuler.net/problem=13}
- *
- * Work out the first ten digits of the sum of the given one-hundred 50-digit numbers.
- */
+ * Work out the first ten digits of the sum of the following one-hundred 50-digit numbers.
+*/
 
-/**
- * calculates the sum and returns first 10 digits.
- * @param {String} nums
- * @returns {Number}
- */
+export function largeSum (bignum) {
+  const nums = []
+  for (let i = 0; i < bignum.length; i += 50) {
+    nums.push(bignum.slice(i, i + 50))
+  }
 
-export const largeSum = (nums) => {
-  const arr = nums.split('\n') // convert to array of strings
-  let sum = 0n
-  for (const item of arr) {
-    sum += BigInt(item)
-  } // calculate the sum
-  return parseInt(sum.toString().substring(0, 10)) // convert the sum to a string and get the first 10 digits
+  let pos = nums[0].length
+  let ret = ''
+  let num = 0
+
+  while (pos--) {
+    for (let i = nums.length; i--;) {
+      num += +nums[i].charAt(pos)
+    }
+    ret = num % 10 + ret
+    num = num / 10 | 0
+  }
+
+  if (num > 0) {
+    ret = num + ret
+  }
+  return ret.slice(0, 10)
 }
