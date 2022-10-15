@@ -92,6 +92,8 @@
 
 - [@adhirajkar3103](https://github.com/adhirajkar3103)
 
+- [@V1ccus](https://github.com/V1ccus)
+
 - [@samikshakute](https://github.com/samikshakute)
 
 - [@kavyachigurupati](https://github.com/kavyachigurupati)
