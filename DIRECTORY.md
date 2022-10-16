@@ -268,6 +268,7 @@
 * **Sorts**
   * [AlphaNumericalSort](Sorts/AlphaNumericalSort.js)
   * [BeadSort](Sorts/BeadSort.js)
+  * [BinaryInsertionSort](Sorts/BinaryInsertionSort.js)
   * [BogoSort](Sorts/BogoSort.js)
   * [BubbleSort](Sorts/BubbleSort.js)
   * [BucketSort](Sorts/BucketSort.js)
