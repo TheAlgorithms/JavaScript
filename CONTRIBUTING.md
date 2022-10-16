@@ -63,7 +63,8 @@ should add unique value.
 
 #### Module System
 
-We use the [ES Module](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/) system, which bring an official, standardized module system to JavaScript.
+We use the [ES Module](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/) system, which bring an
+official, standardized module system to JavaScript.
 
 It roughly means you will need to use `export` and `import` statements instead of `module.exports` and `require()`.
 
@@ -71,7 +72,7 @@ It roughly means you will need to use `export` and `import` statements instead o
 
 Be confident that your code works. When was the last time you committed a code change, your build failed, and half of
 your app stopped working? Mine was last week. Writing tests for our Algorithms will help us ensure the implementations
-are air tight even after multiple fixes and code changes.
+are airtight even after multiple fixes and code changes.
 
 We use [Jest](https://jestjs.io/) to run unit tests on our algorithms. It provides a very readable and expressive way to
 structure your test code.
@@ -105,6 +106,12 @@ You can also start Jest in "watch" mode:
 
 ```shell
 npm test -- --watchAll
+```
+
+We also prepared a helper script that runs tests only for changed files:
+
+```shell
+npm run test-watch
 ```
 
 This will run all tests and watch source and test files for changes. When a change is made, the tests will run again.
