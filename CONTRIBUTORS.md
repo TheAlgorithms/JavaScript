@@ -32,6 +32,8 @@
 
 - [@DiyaGoayl](https://github.com/diyagoyal98)
 
+- [@arthur1aceng](https://github.com/arthur1aceng)
+
 - [@sangeethkc](https://github.com/sangeethkc)
 
 - [@pranay202](https://github.com/pranay202)
