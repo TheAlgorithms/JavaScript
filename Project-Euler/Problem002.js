@@ -5,7 +5,7 @@ const PHI = (1 + SQ5) / 2 // definition of PHI
 // theoretically it should take O(1) constant amount of time as long
 // arithmetic calculations are considered to be in constant amount of time
 export const EvenFibonacci = (limit) => {
-  if (limit < 1) throw new Error('Fibonacci sequence limit can\'t be lesser than 1')
+  if (limit < 1) throw new Error('Fibonacci sequence limit can\'t be less than 1')
 
   const highestIndex = Math.floor(Math.log(limit * SQ5) / Math.log(PHI))
   const n = Math.floor(highestIndex / 3)
