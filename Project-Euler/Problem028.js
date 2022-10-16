@@ -27,6 +27,24 @@ function problem28 (dim) {
 
   let result = 1
   for (let i = 3; i <= dim; i += 2) {
+    /**
+      * Adding more dimensions to the matrix, we will find at the top-right corner the follow sequence:
+      * 01, 09, 25, 49, 81, 121, 169, ...
+      * So this can be expressed as:
+      * i^2, where i is all odd numbers
+      *
+      * Also, we can know which numbers are in each corner dimension
+      * Just develop the sequence counter clockwise from top-right corner like this:
+      * First corner: i^2
+      * Second corner: i^2 - (i - 1) | The "i - 1" is the distance between corners in each dimension
+      * Third corner: i^2 - 2 * (i - 1)
+      * Fourth corner: i^2 - 3 * (i - 1)
+      *
+      * Doing the sum of each corner and simplifing, we found that the result for each dimension is:
+      * sumDim = 4 * i^2 + 6 * (1 - i)
+      *
+      * In this case I skip the 1x1 dim matrix because is trivial, that's why I start in a 3x3 matrix
+      */
     result += (4 * i * i) + 6 * (1 - i) // Calculate sum of each dimension corner
   }
   return result
