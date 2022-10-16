@@ -1,29 +1,23 @@
 import { fastFibonacci } from '../FastFibonacciNumber'
 
 describe('Testing FibonacciNumber', () => {
-  it('Testing for invalid type', () => {
-    expect(() => fastFibonacci('0')).toThrowError()
-    expect(() => fastFibonacci('12')).toThrowError()
-    expect(() => fastFibonacci(true)).toThrowError()
+  const errorCases = ['0', '12', true]
+
+  test.each(errorCases)('throws an error if %p is invalid', (input) => {
+    expect(() => {
+      fastFibonacci(input)
+    }).toThrow()
   })
 
-  it('fast fibonacci of 0', () => {
-    expect(fastFibonacci(0)).toBe(0)
-  })
+  const testCases = [
+    [0, 0],
+    [1, 1],
+    [10, 55],
+    [25, 75025],
+    [40, 102334155]
+  ]
 
-  it('fast fibonacci of 1', () => {
-    expect(fastFibonacci(1)).toBe(1)
-  })
-
-  it('fast fibonacci of 10', () => {
-    expect(fastFibonacci(10)).toBe(55)
-  })
-
-  it('fast fibonacci of 25', () => {
-    expect(fastFibonacci(25)).toBe(75025)
-  })
-
-  it('fast fibonacci of 40', () => {
-    expect(fastFibonacci(40)).toBe(102334155)
+  test.each(testCases)('if input is %i it returns %i', (input, expected) => {
+    expect(fastFibonacci(input)).toBe(expected)
   })
 })
