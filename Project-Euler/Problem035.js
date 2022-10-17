@@ -34,7 +34,7 @@ function getPrimes (max) {
 
 function problem35 (n) {
   if (n < 2) {
-    throw new Error('Invalid input')
+    throw new Error('Invalid Input')
   }
   const list = getPrimes(n)
 
