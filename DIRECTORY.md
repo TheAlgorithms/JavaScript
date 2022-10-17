@@ -89,6 +89,7 @@
   * [ClimbingStairs](Dynamic-Programming/ClimbingStairs.js)
   * [CoinChange](Dynamic-Programming/CoinChange.js)
   * [EditDistance](Dynamic-Programming/EditDistance.js)
+  * [FastFibonacciNumber](Dynamic-Programming/FastFibonacciNumber.js)
   * [FibonacciNumber](Dynamic-Programming/FibonacciNumber.js)
   * [FindMonthCalendar](Dynamic-Programming/FindMonthCalendar.js)
   * [KadaneAlgo](Dynamic-Programming/KadaneAlgo.js)
@@ -240,6 +241,7 @@
   * [Problem020](Project-Euler/Problem020.js)
   * [Problem023](Project-Euler/Problem023.js)
   * [Problem025](Project-Euler/Problem025.js)
+  * [Problem028](Project-Euler/Problem028.js)
   * [Problem044](Project-Euler/Problem044.js)
 * **Recursive**
   * [BinaryEquivalent](Recursive/BinaryEquivalent.js)
