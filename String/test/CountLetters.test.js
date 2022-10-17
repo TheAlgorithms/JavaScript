@@ -13,19 +13,19 @@ describe('CountLetters', () => {
     expect(() => countLetters('hello!')).toThrow()
   })
 
-  it('count the characters in a string. Allows lower case', () => {
+  it('count the letters in a string. Allows lower case', () => {
     const value = 'hello'
     const count = countLetters(value)
     expect(count).toEqual({ h: 1, e: 1, l: 2, o: 1 })
   })
 
-  it('count the characters in a string. Allows upper case', () => {
+  it('count the letters in a string. Allows upper case', () => {
     const value = 'HELLO'
     const count = countLetters(value)
     expect(count).toEqual({ h: 1, e: 1, l: 2, o: 1 })
   })
 
-  it('count the characters in a string. Allows upper and lower case', () => {
+  it('count the letters in a string. Allows upper and lower case', () => {
     const value = 'HelLo'
     const count = countLetters(value)
     expect(count).toEqual({ h: 1, e: 1, l: 2, o: 1 })

@@ -1,9 +1,9 @@
 /**
- * @function countCharacters
- * @description Given a string, count the number of each character.
+ * @function countLetters
+ * @description Given a string, count the number of each letter.
  * @param {String} str - The input string
- * @return {Object} - Object with characters and number of times
- * @example countCharacters("hello") => {h: 1, e: 1, l: 2, o: 1}
+ * @return {Object} - Object with letters and number of times
+ * @example countLetters("hello") => {h: 1, e: 1, l: 2, o: 1}
  */
 
 const countLetters = (str) => {
