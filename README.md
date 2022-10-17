@@ -52,7 +52,7 @@ many of the algorithms can be found in the [wiki][explanation].
 
 <!-- External Links -->
 [standard-js]: https://standardjs.com/
-[discord-server]: https://discord.gg/c7MnfGFGa6
+[discord-server]: https://the-algorithms.com/discord/
 [actions]: https://github.com/TheAlgorithms/JavaScript/actions
 [explanation]: https://github.com/TheAlgorithms/JavaScript/wiki
 [repositories]: https://github.com/orgs/TheAlgorithms/repositories
