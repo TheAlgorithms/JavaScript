@@ -111,7 +111,7 @@ npm test -- --watchAll
 We also prepared a helper script that runs tests only for changed files:
 
 ```shell
-npm run test-watch
+npm run test-changed
 ```
 
 This will run all tests and watch source and test files for changes. When a change is made, the tests will run again.
