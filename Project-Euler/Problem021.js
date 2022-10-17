@@ -13,7 +13,7 @@
  * @param {Number} maxNum
  * @returns {Number} Sum of all amicable numbers under maxNum
  */
-export const sumAmicableNum = (maxNum) => {
+export const sumAmicableNums = (maxNum) => {
   const amicNums = []
 
   for (let i = 1; i < maxNum; i++) {
@@ -23,23 +23,13 @@ export const sumAmicableNum = (maxNum) => {
       amicNums.push(i, left)
     }
   }
-  return amicNums.reduce((a, b) => {
-    a += b
-    return a
-  })
+  return amicNums.reduce((a, b) => a + b, 0)
 }
 
 const d = (num) => {
   const output = []
   for (let i = 1; i < num; i++) {
-    if (!(num % i)) { output.push(i) }
+    if (num % i === 0) { output.push(i) }
   }
-  if (!output.length) {
-    return 0
-  } else {
-    return output.reduce((a, b) => {
-      a += b
-      return a
-    })
-  }
+  return output.reduce((a, b) => a + b, 0)
 }
