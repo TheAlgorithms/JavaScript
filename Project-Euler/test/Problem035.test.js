@@ -2,10 +2,10 @@ import { problem35 } from '../Problem035.js'
 
 describe('checking circular primes', () => {
   it('should be invalid input if number is negative', () => {
-    expect(() => problem35(-3)).toThrowError('Invalid Input')
+    expect(() => problem35(-3)).toThrowError('Invalid input')
   })
   it('should be invalid input if number is 0', () => {
-    expect(() => problem35(0)).toThrowError('Invalid Input')
+    expect(() => problem35(0)).toThrowError('Invalid input')
   })
   // Project Euler Condition Check
   test('if the number is equal to 100 result should be 13', () => {
