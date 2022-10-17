@@ -1414,6 +1414,8 @@
 
 - [@Ershawarma](https://github.com/ershawarma/)
 
+- [@Ertlell] (https://github.com/ertlell)
+
 - [@Eshaan5](https://github.com/eshaan5)
 
 - [@Esinnation](https://github.com/Esinnation)
