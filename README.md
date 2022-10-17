@@ -11,7 +11,7 @@ JavaScript Repository of TheAlgorithms, which implements various algorithms and 
   [![Checks][checks]][actions]
   [![Contributions Welcome][welcome]](CONTRIBUTING.md)
   [![standard.js][standard-logo]][standard-js]
-  [![ chat][chat]][-server]
+  [![Discord chat][chat]][discord-server]
 
   
 </div>
