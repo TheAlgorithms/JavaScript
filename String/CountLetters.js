@@ -6,8 +6,8 @@
  * @example countCharacters("hello") => {h: 1, e: 1, l: 2, o: 1}
  */
 
-const countCharacters = (str) => {
-  const specialChars = /[`!@#$%^&*()_+\-=[\]{};':"\\|,.<>?~]/
+const countLetters = (str) => {
+  const specialChars = /\W/g
 
   if (typeof str !== 'string') {
     throw new TypeError('Input should be a string')
@@ -30,4 +30,4 @@ const countCharacters = (str) => {
   return obj
 }
 
-export { countCharacters }
+export { countLetters }
