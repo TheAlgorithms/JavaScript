@@ -17,12 +17,12 @@
  */
 
 const letterCombinations = (digits) => {
-  let length = digits?.length
-  let result = []
+  const length = digits?.length
+  const result = []
   if (!length) {
     return result
   }
-  let digitMap = {
+  const digitMap = {
     2: 'abc',
     3: 'def',
     4: 'ghi',
@@ -34,14 +34,13 @@ const letterCombinations = (digits) => {
   }
 
   const combinations = (index, combination) => {
-    let digit
     let letter
     let letterIndex
     if (index >= length) {
       result.push(combination)
       return
     }
-    digit = digitMap[digits[index]]
+    const digit = digitMap[digits[index]]
     letterIndex = 0
     while ((letter = digit[letterIndex++])) {
       combinations(index + 1, combination + letter)
