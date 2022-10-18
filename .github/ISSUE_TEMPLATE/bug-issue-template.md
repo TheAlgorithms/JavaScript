@@ -2,7 +2,7 @@
 name: Bug issue template
 about: Bug issue template.
 title: ''
-labels: ''
+labels: 'bug'
 assignees: ''
 ---
 
@@ -10,11 +10,11 @@ Before you open an issue, please verify if a similar one already exists or has b
 
 ## Expected Behavior
 
-Describe what was the expected behavior...
+<!-- Describe what was the expected behavior... -->
 
 ## Actual Behavior
 
-What actually happens...
+<!-- What actually happens... -->
 
 ## Reproduction steps
 
