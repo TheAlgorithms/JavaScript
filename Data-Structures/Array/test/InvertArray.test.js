@@ -1,7 +1,6 @@
 import { Reverse } from '../InvertArray.js'
 import each from 'jest-each'
 
-
 describe('reverse elements in an array', () => {
   each`
   array | expected
