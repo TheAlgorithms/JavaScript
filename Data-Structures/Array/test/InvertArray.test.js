@@ -1,18 +1,24 @@
-import { invertArr } from '../InvertArray'
+import { Reverse } from '../InvertArray.js'
+import each from 'jest-each'
 
-describe('invert Array', () => {
+describe('reverse elements in an array', () => {
+  each`
+  array | expected
+  ${[]} | ${[]}
+  ${[1]} | ${[1]}
+  ${[1, 2, 3, 4]} | ${[4, 3, 2, 1]}
+  `.test('returns $expected when given $array', ({ array, expected }) => {
+      expect(Reverse(array)).toEqual(expected)
+    })
   it(' returns an empty array when array with 0 elements given', () => {
-    const Array = []
-    expect(invertArr(Array)).toEqual([])
+    expect(Reverse([])).toEqual([])
   })
 
   it('returns same array when array given has 1 element', () => {
-    const Array = [1]
-    expect(invertArr(Array)).toEqual([1])
+    expect(Reverse([1])).toEqual([1])
   })
 
   it('returns inverted array when array given has +1 elements', () => {
-    const Array = [1, 2, 3, 4, 5, 6]
-    expect(invertArr(Array)).toEqual([6, 5, 4, 3, 2, 1])
+    expect(Reverse([1, 2, 3, 4, 5, 6])).toEqual([6, 5, 4, 3, 2, 1])
   })
 })
