@@ -1,3 +1,11 @@
+github:
+  prebuilds:
+    addBadge: true
+    addComment: false
+    addCheck: false
+    master: true
+    branches: true
+    pullRequestsFromForks: true
+
 tasks:
   - init: npm install
-  
