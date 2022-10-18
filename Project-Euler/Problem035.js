@@ -9,36 +9,13 @@
  *
  * @author ddaniel27
  */
-
-/**
- * Function to get all prime numbers below a given number
- * This function also discards all numbers that contain an even digit
- * @see {@link https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes}
- */
-function getOddPrimes (max) {
-  const sieve = []
-  const primes = []
-
-  for (let i = 2; i <= max; ++i) {
-    if (!sieve[i]) { // If i has not been marked then it is prime
-      const hasEven = String(i).split('').some((n) => n % 2 === 0) // Check if i contains an even digit
-      if (!hasEven) {
-        primes.push(i)
-      }
-
-      for (let j = i << 1; j <= max; j += i) { // Mark all multiples of i as non-prime
-        sieve[j] = true
-      }
-    }
-  }
-  return primes
-}
+import { sieveOfEratosthenes } from '../Maths/SieveOfEratosthenes'
 
 function problem35 (n) {
   if (n < 2) {
     throw new Error('Invalid input')
   }
-  const list = getOddPrimes(n)
+  const list = sieveOfEratosthenes(n)
 
   const result = list.filter((number, _idx, arr) => {
     const str = String(number)
@@ -51,7 +28,7 @@ function problem35 (n) {
     return true // If all rotations are prime, then the number is circular prime
   })
 
-  return result.length + 1 // Add +1 to the result because 2 is not included in the list
+  return result.length 
 }
 
 export { problem35 }
