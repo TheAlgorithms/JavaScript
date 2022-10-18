@@ -6,7 +6,7 @@ labels: ''
 assignees: ''
 ---
 
-Before you open an issue, please verify if a similar one already exists or has been closed before. More details about the process of contributing can be found in `CONTRIBUTING.md`.
+Before you open an issue, please verify if a similar one already exists or has been closed before. More details about the process of contributing can be found in [CONTRIBUTING.md](https://github.com/TheAlgorithms/JavaScript/blob/master/CONTRIBUTING.md).
 
 ## Expected Behavior
 
