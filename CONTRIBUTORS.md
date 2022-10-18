@@ -6396,3 +6396,5 @@
 -[@Mariano-JR](https://github.com/Mariano-JR)
 
 -[@goodecoder](https://github.com/goodecoder)
+
+-[@mag4no10](https://github.com/mag4no10)
