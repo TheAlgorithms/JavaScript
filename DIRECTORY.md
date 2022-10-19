@@ -2,6 +2,7 @@
   * [AllCombinationsOfSizeK](Backtracking/AllCombinationsOfSizeK.js)
   * [GeneratePermutations](Backtracking/GeneratePermutations.js)
   * [KnightTour](Backtracking/KnightTour.js)
+  * [LetterCombination](Backtracking/LetterCombination.js)
   * [NQueens](Backtracking/NQueens.js)
   * [RatInAMaze](Backtracking/RatInAMaze.js)
   * [Sudoku](Backtracking/Sudoku.js)
