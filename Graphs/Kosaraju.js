@@ -3,6 +3,9 @@
  * Kosaraju's Algorithm implementation in Javascript
  * Kosaraju's Algorithm finds all the connected components in a Directed Acyclic Graph (DAG)
  * It uses Stack data structure to store the Topological Sorted Order of vertices and also Graph data structure
+ *
+ * Wikipedia: https://en.wikipedia.org/wiki/Kosaraju%27s_algorithm
+ *
  */
 
 export class Kosaraju {
