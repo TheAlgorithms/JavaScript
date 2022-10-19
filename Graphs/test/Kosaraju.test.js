@@ -1,4 +1,4 @@
-import { Kosaraju } from '../Kosaraju.js'
+import { kosaraju } from '../Kosaraju.js'
 
 test('Test Case 1', () => {
   const graph = [
@@ -10,7 +10,7 @@ test('Test Case 1', () => {
     [5, 6],
     [6, 4]
   ]
-  const stronglyConnectedComponents = new Kosaraju(graph)
+  const stronglyConnectedComponents = kosaraju(graph)
   expect(stronglyConnectedComponents).toStrictEqual([
     [1, 3, 2],
     [4, 6, 5]
@@ -25,6 +25,6 @@ test('Test Case 2', () => {
     [2, 4],
     [4, 5]
   ]
-  const stronglyConnectedComponents = new Kosaraju(graph)
+  const stronglyConnectedComponents = kosaraju(graph)
   expect(stronglyConnectedComponents).toStrictEqual([[1, 3, 2], [4], [5]])
 })

@@ -8,7 +8,7 @@
  *
  */
 
-export class Kosaraju {
+class Kosaraju {
   constructor (graph) {
     this.connections = {}
     this.reverseConnections = {}
@@ -80,7 +80,14 @@ export class Kosaraju {
   }
 }
 
-// new Kosaraju([
+function kosaraju (graph) {
+  const stronglyConnectedComponents = new Kosaraju(graph)
+  return stronglyConnectedComponents
+}
+
+export { kosaraju }
+
+// kosaraju([
 //   [1, 2],
 //   [2, 3],
 //   [3, 1],
