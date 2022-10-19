@@ -67,7 +67,7 @@ export class Kosaraju {
   }
 
   kosaraju () {
-    // Funtion to perform Kosaraju Algorithm
+    // Function to perform Kosaraju Algorithm
     const visited = new Set()
     while (this.topoSorted.length > 0) {
       const node = this.topoSorted.pop()
