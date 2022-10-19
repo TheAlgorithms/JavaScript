@@ -27,7 +27,7 @@ jobs:
 
       - name: 🧪 Run tests for changed files only
         if: ${{ github.event_name == 'pull_request' }}
-        run: npm run test
+        run: npm run test-changed
 
       - name: 💄 Code style
         run: npm run style
