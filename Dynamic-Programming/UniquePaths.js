@@ -23,19 +23,19 @@ const uniquePaths = (m, n) => {
   // only one way to reach end
   if (m === 1 || n === 1) return 1
 
-  // build a mxn grid
-  const paths = []
-  for (let i = 0; i < n; i++) paths.push([...new Array(m).fill(1)])
-
-  // base case, position 1x1 has only 1 move
-  paths[1][1] = 1
+  // build a linear grid of size m
+  // base case, position 1 has only 1 move
+  const paths = new Array(m).fill(1)
 
   for (let i = 1; i < n; i++) {
     for (let j = 1; j < m; j++) {
-      paths[i][j] = paths[i - 1][j] + paths[i][j - 1]
+      // paths[j] in RHS represents the cell value stored above the current cell
+      // paths[j-1] in RHS represents the cell value stored to the left of the current cell
+      // paths [j] on the LHS represents the number of distinct pathways to the cell (i,j)
+      paths[j] = paths[j - 1] + paths[j]
     }
   }
-  return paths[n - 1][m - 1]
+  return paths[m - 1]
 }
 
 export { uniquePaths }
