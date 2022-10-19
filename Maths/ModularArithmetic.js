@@ -43,10 +43,10 @@ const multiply = (arg1, arg2) => {
  * https://github.com/TheAlgorithms/JavaScript/blob/master/Maths/ExtendedEuclideanGCD.js
  */
 
-const divide = (arg1, b) => {
+const divide = (arg1, arg2) => {
   // 1st Index contains the required result
   // The theorem may have return Negative value, we need to add MOD to make it Positive
-  return (extendedEuclideanGCD(arg1, b)[1] + MOD) % MOD
+  return (extendedEuclideanGCD(arg1, arg2)[1] + MOD) % MOD
 }
 
 export { add, subtract, multiply, divide }
