@@ -49,38 +49,32 @@ const isAlNum = (c) => {
 }
 
 const priority = (op) => {
+  op = String(op)
   if (op === '+' || op === '-') {
-      return 1
-  }
-  else if (op === '*' || op === '/'){
-      return 2
+    return 1
+  } else if (op === '*' || op === '/') {
+    return 2
   }
   return 0
 }
 
-function ToPostfix(infix) {
-
+function ToPostfix (infix) {
   let postfix = ''
-  let opStack = new Stack()
+  const opStack = new Stack()
   for (const c of infix) {
     if (isAlNum(c)) {
       postfix += c
-    }
-    else if (c === '('){
+    } else if (c === '(') {
       opStack.push(c)
-    }
-    else if (c === ')') {
+    } else if (c === ')') {
       let x = ''
-      while ((x = opStack.pop()) != '('){
+      while ((x = opStack.pop()) !== '(') {
         postfix += x
       }
-    }
-    else {
+    } else {
       while (priority(opStack.stack) > priority(c)) {
         postfix += opStack.pop()
-      }
-          
-      opStack.push(c)
+      } opStack.push(c)
     }
   }
   while (opStack.top !== -1) {
