@@ -105,6 +105,7 @@
   * [RodCutting](Dynamic-Programming/RodCutting.js)
   * [Shuf](Dynamic-Programming/Shuf.js)
   * [SieveOfEratosthenes](Dynamic-Programming/SieveOfEratosthenes.js)
+  * [UniquePaths](Dynamic-Programming/UniquePaths.js)
   * **Sliding-Window**
     * [LongestSubstringWithoutRepeatingCharacters](Dynamic-Programming/Sliding-Window/LongestSubstringWithoutRepeatingCharacters.js)
     * [PermutationinString](Dynamic-Programming/Sliding-Window/PermutationinString.js)
