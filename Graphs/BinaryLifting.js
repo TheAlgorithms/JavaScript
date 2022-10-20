@@ -6,6 +6,7 @@
  * The techniqe can answer Q queries about kth ancestor of any node in O(Q log N)
  * It is faster than the naive algorithm that answers Q queries with complexity O(Q K)
  * It can be used to find Lowest Common Ancestor of two nodes in O(log N)
+ * Tutorial on Binary Lifting: https://codeforces.com/blog/entry/100826
  */
 
 class BinaryLifting {
