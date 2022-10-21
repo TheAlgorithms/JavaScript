@@ -252,6 +252,7 @@
   * [FibonacciNumberRecursive](Recursive/FibonacciNumberRecursive.js)
   * [FloodFill](Recursive/FloodFill.js)
   * [KochSnowflake](Recursive/KochSnowflake.js)
+  * [LetterCombination](Recursive/LetterCombination.js)
   * [Palindrome](Recursive/Palindrome.js)
   * [SubsequenceRecursive](Recursive/SubsequenceRecursive.js)
   * [TowerOfHanoi](Recursive/TowerOfHanoi.js)
