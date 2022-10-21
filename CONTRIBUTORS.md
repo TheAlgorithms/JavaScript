@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [Gio Martin](https://github.com/giolmartin)
+
 - [Danijel Adrinek](https://github.com/DanijelAdrinek)
 
 - [@jalalbmnf](https://github.com/jalalbmnf)
