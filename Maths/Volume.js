@@ -10,6 +10,7 @@ Volume for Triangular Prism
 Volume for Pentagonal Prism
 Volume for Sphere
 Volume for Hemisphere
+Volume for Torus
 */
 
 /*
@@ -112,6 +113,20 @@ const volHemisphere = (radius) => {
   return (2.0 * Math.PI * radius ** 3) / 3.0
 }
 
+/*
+  Calculate the volume for a Torus
+  Reference: 
+  return (PI * innerRadius^2) * (2 * PI * outerRadius)
+*/
+const volTorus = (minorRadius, majorRadius) => {
+  isNumber(minorRadius, 'Minor Radius')
+  isNumber(majorRadius, 'Major Radius')
+  if (minorRadius >= majorRadius) {
+    throw new Error('Major Radius must be greater than Minor Radius')
+  }
+  return (Math.PI * minorRadius**2) * (2 * Math.PI * majorRadius)
+}
+
 const isNumber = (number, noName = 'number') => {
   if (typeof number !== 'number') {
     throw new TypeError('The ' + noName + ' should be Number type')
@@ -120,4 +135,4 @@ const isNumber = (number, noName = 'number') => {
   }
 }
 
-export { volCuboid, volCube, volCone, volPyramid, volCylinder, volTriangularPrism, volPentagonalPrism, volSphere, volHemisphere }
+export { volCuboid, volCube, volCone, volPyramid, volCylinder, volTriangularPrism, volPentagonalPrism, volSphere, volHemisphere, volTorus }
