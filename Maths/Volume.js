@@ -124,7 +124,7 @@ const volTorus = (minorRadius, majorRadius) => {
   if (minorRadius >= majorRadius) {
     throw new Error('Major Radius must be greater than Minor Radius')
   }
-  return (Math.PI * minorRadius**2) * (2 * Math.PI * majorRadius)
+  return (Math.PI ** 2 * 2 * majorRadius * minorRadius ** 2)
 }
 
 const isNumber = (number, noName = 'number') => {
