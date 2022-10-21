@@ -4,7 +4,7 @@
  * @function checkHeterogram
  * @param {string} str
  * @returns {boolean}
- * @description - check if a string is a heterogram with the help of Regex
+ * @description - check if a string is a heterogram
  * @example - checkHeterogram('hero') => true
  * @example - checkHeterogram('CoMpUtEr') => true
  * @example - checkHeterogram('Great work!!') => true
@@ -17,8 +17,24 @@ const checkHeterogram = (str) => {
     throw new TypeError('Argument not a string.')
   }
 
-  // finally check that there are no repeated letters (case insensitive) and return the answer.
-  return !str.match(/([a-z]).*\1/i)
+  // initialize a hashmap where the letters of the string will be checked for duplicates
+  const letters = new Map()
+
+  // Check all the characters in the string by looping through it
+  for (let i = 0; i < str.length; i++) {
+    // If the character is a letter check whether it is a duplicate
+    if (str.charAt(i).match(/[a-z]/gi)) {
+      // If the letter exists in the hashmap already return false else store it in the hashmap
+      if (letters.has(str.charAt(i).toLowerCase())) {
+        return false
+      } else {
+        letters.set(str.charAt(i).toLowerCase())
+      }
+    }
+  }
+
+  // Once all characters of the string have been checked return true
+  return true
 }
 
 export { checkHeterogram }
