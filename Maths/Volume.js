@@ -113,18 +113,24 @@ const volHemisphere = (radius) => {
   return (2.0 * Math.PI * radius ** 3) / 3.0
 }
 
-/*
-  Calculate the volume for a Torus
-  Reference: https://en.wikipedia.org/wiki/Torus
-  return (PI * minorRadius^2) * (2 * PI * majorRadius)
-*/
+/**
+ * Calculate the volume for a Torus
+ * Reference: https://en.wikipedia.org/wiki/Torus
+ * 
+ * @param minorRadius - for the radius of torus ring
+ * @param majorRadius - for the distance between torus center and ring center
+ * @return {number} - volume of torus = (PI * minorRadius^2) * (2 * PI * majorRadius)
+ * 
+ * >>> volTorus(2, 3);
+ * 236.8705056261446
+ * */
 const volTorus = (minorRadius, majorRadius) => {
   isNumber(minorRadius, 'Minor Radius')
   isNumber(majorRadius, 'Major Radius')
   if (minorRadius >= majorRadius) {
-    throw new Error('Major Radius must be greater than Minor Radius')
+    throw new Error('Major Radius must be greater than Minor Radius');
   }
-  return (Math.PI ** 2 * 2 * majorRadius * minorRadius ** 2)
+  return (Math.PI ** 2 * 2 * majorRadius * minorRadius ** 2);
 }
 
 const isNumber = (number, noName = 'number') => {
