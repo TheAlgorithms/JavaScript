@@ -38,7 +38,7 @@ class Stack {
   // Returns the last element without removing it
   last () {
     if (this.top !== -1) {
-      return this.stack[this.stack.length]
+      return this.stack[this.length()]
     }
     return null
   }
@@ -49,7 +49,6 @@ const isAlNum = (c) => {
 }
 
 const priority = (op) => {
-  op = String(op)
   if (op === '+' || op === '-') {
     return 1
   } else if (op === '*' || op === '/') {
@@ -72,7 +71,7 @@ function ToPostfix (infix) {
         postfix += x
       }
     } else {
-      while (priority(opStack.stack) > priority(c)) {
+      while (priority(opStack.last()) > priority(c)) {
         postfix += opStack.pop()
       } opStack.push(c)
     }
