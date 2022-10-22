@@ -11,16 +11,18 @@
 
 'use strict'
 
+import { findHCF } from './findHcf'
+
 // Find the LCM of two numbers.
 const findLcm = (num1, num2) => {
   // If the input numbers are less than 1 return an error message.
   if (num1 < 1 || num2 < 1) {
-    return 'Please enter values greater than zero.'
+    throw Error('Numbers must be positive.')
   }
 
   // If the input numbers are not integers return an error message.
   if (num1 !== Math.round(num1) || num2 !== Math.round(num2)) {
-    return 'Please enter whole numbers.'
+    throw Error('Numbers must be whole.')
   }
 
   // Get the larger number between the two
@@ -33,4 +35,19 @@ const findLcm = (num1, num2) => {
   }
 }
 
-export { findLcm }
+// Typically, but not always, more efficient
+const findLcmWithHcf = (num1, num2) => {
+  // If the input numbers are less than 1 return an error message.
+  if (num1 < 1 || num2 < 1) {
+    throw Error('Numbers must be positive.')
+  }
+
+  // If the input numbers are not integers return an error message.
+  if (num1 !== Math.round(num1) || num2 !== Math.round(num2)) {
+    throw Error('Numbers must be whole.')
+  }
+
+  return num1 * num2 / findHCF(num1, num2)
+}
+
+export { findLcm, findLcmWithHcf }
