@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [Gio Martin](https://github.com/giolmartin)
+
 - [Danijel Adrinek](https://github.com/DanijelAdrinek)
 
 - [@jalalbmnf](https://github.com/jalalbmnf)
@@ -6441,3 +6443,28 @@
 - [@phillippchu](https://github.com/phillippchu)
 
 -[@o-tahboub](https://github.com/o-tahboub)
+
+- [@RoxanaAnamariaTurc](https://github.com/RoxanaAnamariaTurc)
+
+-[@muzlightyear](https://github.com/muzlightyear)
+
+-[@harini24](https://github.com/harini24)
+
+-[@AyswaryaSivakumar](https://github.com/AyswaryaSivakumar)
+
+-[@dkolanek](https://github.com/dkolanek)
+
+-[@pmmaria](https://github.com/pmmaria)
+
+-[@txrus](https://github.com/txrus)
+
+-[@hakobya4](https://github.com/hakobya4)
+
+-[@EliSacch](https://github.com/EliSacch)
+
+-[@hugodm31](https://github.com/hugodm31)
+
+-[@Sisyphus6ix](https://github.com/Sisyphus6ix)
+
+-[@alimertinal](https://github.com/alimertinal)
+
