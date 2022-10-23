@@ -15,20 +15,40 @@ How many Sundays fell on the first of the month during the twentieth century (1 
 */
 
 export function countingSundays () {
-  let n = 0
+  let numberOfSundays = 0
   let dow = 2
+
+  // The number od days in each month of the year
   const months = [31, 0, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31]
 
   for (let y = 1901; y <= 2000; y++) {
-    months[1] = 28 + ((y % 4 === 0 && y % 100 !== 0) || y % 400 === 0)
+    // Calculate the number of Days in February this year
+    if (y % 4 === 0) {
+      if (y % 100 === 0) {
+        if (y % 400 === 0) {
+          // Leap Year (29 Days in February)
+          months[1] = 29
+        } else {
+          // Not Leap Year (28 Days in February)
+          months[1] = 28
+        }
+      } else {
+        // Leap Year (29 Days in February)
+        months[1] = 29
+      }
+    } else {
+      // Not Leap Year (28 Days in February)
+      months[1] = 28
+    }
 
     for (const month of months) {
-      dow += month % 7
+      dow = dow + (month % 7)
+
       if (dow % 7 === 0) {
-        n++
+        numberOfSundays += 1
       }
     }
   }
 
-  return n
+  return numberOfSundays
 }
