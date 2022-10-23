@@ -11,7 +11,7 @@
 
 'use strict'
 
-import { findHCF } from './findHcf'
+import { findHCF } from './FindHcf'
 
 // Find the LCM of two numbers.
 const findLcm = (num1, num2) => {
