@@ -4,6 +4,8 @@
 
 - [@Danijel Adrinek](https://github.com/DanijelAdrinek)
 
+- [@spiderxp3](https://github.com/spiderxp3)
+
 - [@jsh0512](https://github.com/jsh0512)
 
 - [@jalalbmnf](https://github.com/jalalbmnf)
