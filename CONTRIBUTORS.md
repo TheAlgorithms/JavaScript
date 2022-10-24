@@ -6486,4 +6486,9 @@
 
 - [@dhiraj1008](https://github.com/dhiraj1008)
 
+- [@ShocK-100](https://github.com/ShocK-100)
+
+- [@salmanseediq](https://github.com/salmanseediq)
+
 - [@kramferolino](https://github.com/kramferolino)
+
