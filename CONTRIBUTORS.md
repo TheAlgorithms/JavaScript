@@ -6261,7 +6261,11 @@
 - [@Moremilktea](https://github.com/Moremilktea)
 
 - [@RobinRuf](https://github.com/RobinRuf)
+
 - [@Wilken311](https://github.com/wilken311)
+
+- [@Wilken311](https://github.com/wilken311)
+
 - [@Alexny1992](https://github.com/Alexny1992)
 
 - [@5p7Ro0t](https://github.com/5p7Ro0t)
@@ -6399,6 +6403,8 @@
 -[@Sneha19-k](https://github.com/Sneha19-k)
 
 -[@Mael953](https://github.com/Mael953)
+
+-[@kuzan-ux](https://github.com/kuzan-ux)
 
 -[@ndimoforaretas](https://github.com/ndimoforaretas)
 
