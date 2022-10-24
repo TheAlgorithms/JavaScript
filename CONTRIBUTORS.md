@@ -6478,4 +6478,8 @@
 
 - [@mag4no10](https://github.com/mag4no10)
 
+- [@cvijandj](https://github.com/cvijandj)
+
+- [@Asespinel](https://github.com/Asespinel)
+
 - [@kramferolino](https://github.com/kramferolino)
