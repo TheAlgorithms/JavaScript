@@ -20,8 +20,8 @@
 
 - [Ashutosh Kumar](https://github.com/incognion)
 
-  [kaycee Nuel](https://github.com/codewithkaycee)
-  
+- [kaycee Nuel](https://github.com/codewithkaycee)
+
 - [@siddharthsinghvats](https://github.com/siddharthsinghvats)
 
 - [@MR-Abbasnejad](https://github.com/MR-Abbasnejad)
@@ -6328,9 +6328,9 @@
 
 - [@shubhu1026](https://github.com/shubhu1026/)
 
--[@Devakinola](https://github.com/Devakinola)
+- [@Devakinola](https://github.com/Devakinola)
 
--[@JoshuaIsADev](https://github.com/JoshuaIsADev/)
+- [@JoshuaIsADev](https://github.com/JoshuaIsADev/)
 
 - [@Pathpat](https://github.com/Pathpat/)
 
@@ -6338,9 +6338,13 @@
 
 - [@PaulPk005](https://github.com/aulPk005)
 
--[@EmmyXambeg](https://github.com/EmmyXambeg/)
+- [@EmmyXambeg](https://github.com/EmmyXambeg/)
 
--[@rliu](https://github.com/RunqiLiu00)
+- [@rliu](https://github.com/RunqiLiu00)
+
+- [@viridisDiscipulus](https://github.com/viridisDiscipulus/)
+
+- [@NoaSalgado](https://github.com/NoaSalgado)
 
 - [@Calendarspace](https://github.com/Calendarspace)
 
