@@ -6482,4 +6482,8 @@
 
 - [@Asespinel](https://github.com/Asespinel)
 
+- [@SelyanaSF](https://github.com/SelyanaSF)
+
+- [@dhiraj1008](https://github.com/dhiraj1008)
+
 - [@kramferolino](https://github.com/kramferolino)
