@@ -29,7 +29,7 @@ export function countingSundays () {
       dow = dow + (month % 7)
 
       if (dow % 7 === 0) {
-        numberOfSundays += 1
+        numberOfSundays++
       }
     }
   }
