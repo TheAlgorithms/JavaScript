@@ -89,6 +89,7 @@
   * [ClimbingStairs](Dynamic-Programming/ClimbingStairs.js)
   * [CoinChange](Dynamic-Programming/CoinChange.js)
   * [EditDistance](Dynamic-Programming/EditDistance.js)
+  * [FastFibonacciNumber](Dynamic-Programming/FastFibonacciNumber.js)
   * [FibonacciNumber](Dynamic-Programming/FibonacciNumber.js)
   * [FindMonthCalendar](Dynamic-Programming/FindMonthCalendar.js)
   * [KadaneAlgo](Dynamic-Programming/KadaneAlgo.js)
@@ -104,6 +105,7 @@
   * [RodCutting](Dynamic-Programming/RodCutting.js)
   * [Shuf](Dynamic-Programming/Shuf.js)
   * [SieveOfEratosthenes](Dynamic-Programming/SieveOfEratosthenes.js)
+  * [UniquePaths](Dynamic-Programming/UniquePaths.js)
   * **Sliding-Window**
     * [LongestSubstringWithoutRepeatingCharacters](Dynamic-Programming/Sliding-Window/LongestSubstringWithoutRepeatingCharacters.js)
     * [PermutationinString](Dynamic-Programming/Sliding-Window/PermutationinString.js)
@@ -240,6 +242,7 @@
   * [Problem020](Project-Euler/Problem020.js)
   * [Problem023](Project-Euler/Problem023.js)
   * [Problem025](Project-Euler/Problem025.js)
+  * [Problem028](Project-Euler/Problem028.js)
   * [Problem044](Project-Euler/Problem044.js)
 * **Recursive**
   * [BinaryEquivalent](Recursive/BinaryEquivalent.js)
@@ -249,6 +252,7 @@
   * [FibonacciNumberRecursive](Recursive/FibonacciNumberRecursive.js)
   * [FloodFill](Recursive/FloodFill.js)
   * [KochSnowflake](Recursive/KochSnowflake.js)
+  * [LetterCombination](Recursive/LetterCombination.js)
   * [Palindrome](Recursive/Palindrome.js)
   * [SubsequenceRecursive](Recursive/SubsequenceRecursive.js)
   * [TowerOfHanoi](Recursive/TowerOfHanoi.js)
