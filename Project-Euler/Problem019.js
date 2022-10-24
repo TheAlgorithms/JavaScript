@@ -23,23 +23,7 @@ export function countingSundays () {
 
   for (let y = 1901; y <= 2000; y++) {
     // Calculate the number of Days in February this year
-    if (y % 4 === 0) {
-      if (y % 100 === 0) {
-        if (y % 400 === 0) {
-          // Leap Year (29 Days in February)
-          months[1] = 29
-        } else {
-          // Not Leap Year (28 Days in February)
-          months[1] = 28
-        }
-      } else {
-        // Leap Year (29 Days in February)
-        months[1] = 29
-      }
-    } else {
-      // Not Leap Year (28 Days in February)
-      months[1] = 28
-    }
+    months[1] = 28 + ((y % 4 == 0 && y % 100 != 0) || y % 400 == 0)
 
     for (const month of months) {
       dow = dow + (month % 7)
