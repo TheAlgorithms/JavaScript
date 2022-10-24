@@ -23,7 +23,7 @@ export function countingSundays () {
 
   for (let y = 1901; y <= 2000; y++) {
     // Calculate the number of Days in February this year
-    months[1] = 28 + ((y % 4 == 0 && y % 100 != 0) || y % 400 == 0)
+    months[1] = 28 + ((y % 4 === 0 && y % 100 !== 0) || y % 400 === 0)
 
     for (const month of months) {
       dow = dow + (month % 7)
