@@ -18,13 +18,14 @@ export function namesScores (namesTxt) {
   namesTxt = namesTxt.replaceAll('"', '')
   const names = namesTxt.split(',')
 
-  names.sort((a, b) => (a > b) - (a < b))
+  // Sort ascending the list of names
+  names.sort((a, b) => (a > b))
 
   let totalSum = 0
   for (let i = 0; i < names.length; i++) {
     let nameSum = 0
     for (let j = names[i].length; j--;) {
-      nameSum += names[i].charCodeAt(j) - 64
+      nameSum += names[i].charCodeAt(j) - ('a'.charCodeAt(0) - 1)
     }
 
     totalSum += nameSum * (i + 1)
