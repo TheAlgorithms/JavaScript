@@ -6264,8 +6264,6 @@
 
 - [@Wilken311](https://github.com/wilken311)
 
-- [@Wilken311](https://github.com/wilken311)
-
 - [@Alexny1992](https://github.com/Alexny1992)
 
 - [@5p7Ro0t](https://github.com/5p7Ro0t)
@@ -6413,6 +6411,8 @@
 -[@Codeblade98](https://github.com/Codeblade98)
 
 -[@cameronhoff](https://github.com/cameronhoff)
+
+-[@joequeries](https://github.com/joequeries)
 
 -[@princehabeeb](https://github.com/princehabeeb)
 
