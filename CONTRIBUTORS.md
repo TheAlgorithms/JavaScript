@@ -6472,4 +6472,10 @@
 
 - [@polo871209](https://github.com/polo871209)
 
+- [@shubhu1026](https://github.com/shubhu1026/)
+
+- [@Eliab11](https://github.com/Eliab11)
+
+- [@mag4no10](https://github.com/mag4no10)
+
 - [@kramferolino](https://github.com/kramferolino)
