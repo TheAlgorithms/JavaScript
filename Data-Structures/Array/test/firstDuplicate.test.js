@@ -13,7 +13,7 @@ describe('firstDuplicate test', function () {
     expect(result).toEqual(3)
   })
 
-  it('Returns "Javacript" when duplicate has minimal index', function () {
+  it('Returns "Javascript" when duplicate has minimal index', function () {
     const array = [
       'Python',
       'Ruby',
