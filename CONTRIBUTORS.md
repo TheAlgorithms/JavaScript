@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@vedantmgoyal2009](https://github.com/vedantmgoyal2009)
+
 - [@Gio Martin](https://github.com/giolmartin)
 
 - [@Danijel Adrinek](https://github.com/DanijelAdrinek)
