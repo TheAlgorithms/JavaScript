@@ -6502,6 +6502,8 @@
 
 -[@Bulseeye](https://github.com/Bulseeye)
 
+-[karanse](https://github.com/karanse)
+
 -[@seunope](https://github.com/seunope)
 
 - [@ShaniServices](https://github.com/ShaniServices)
@@ -6513,3 +6515,4 @@
 -[@mackmcgovern](https://github.com/mackmcgovern)
 
 -[@3GRuby](https://github.com/3GRuby)
+
