@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@WarBoar86](https://github.com/WarBoar86)
+
 - [@vedantmgoyal2009](https://github.com/vedantmgoyal2009)
 
 - [@Gio Martin](https://github.com/giolmartin)
