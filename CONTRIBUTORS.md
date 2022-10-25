@@ -4,6 +4,8 @@
 
 - [@Danijel Adrinek](https://github.com/DanijelAdrinek)
 
+- [@spiderxp3](https://github.com/spiderxp3)
+
 - [@jsh0512](https://github.com/jsh0512)
 
 - [@jalalbmnf](https://github.com/jalalbmnf)
@@ -2941,6 +2943,8 @@
 - [@Nandumoura](https://github.com/nandumoura)
 
 - [@Narayan954](https://github.com/narayan954)
+
+- [@Marcin-podgorski93](https://github.com/Marcin-podgorski93)
 
 - [@Nasarblaze](https://github.com/nasarblaze)
 
@@ -6499,3 +6503,16 @@
 -[@Bulseeye](https://github.com/Bulseeye)
 
 -[karanse](https://github.com/karanse)
+
+-[@seunope](https://github.com/seunope)
+
+- [@ShaniServices](https://github.com/ShaniServices)
+
+-[@Jamrsu](https://github.com/Jamrsu)
+
+-[@MorganEJLA](https://github.com/MorganEJLA/)
+
+-[@mackmcgovern](https://github.com/mackmcgovern)
+
+-[@3GRuby](https://github.com/3GRuby)
+
