@@ -7,7 +7,7 @@ body:
     attributes:
       value: |
         ## This issue template is not for requesting new algorithms. For new algorithms, PRs should be opened directly.
-        ## Make sure your issue isn't a duplicate and you follow our [contributing guidelines](https://github.com/TheAlgorithms/TypeScript/blob/master/CONTRIBUTING.md)
+        ## Make sure your issue isn't a duplicate and you follow our [contributing guidelines](https://github.com/TheAlgorithms/JavaScript/blob/master/CONTRIBUTING.md)
   - type: textarea
     attributes:
       label: Motivation
