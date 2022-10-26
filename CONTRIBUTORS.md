@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@omicreativedev](https://github.com/omicreativedev)
+
 - [@WarBoar86](https://github.com/WarBoar86)
 
 - [@vedantmgoyal2009](https://github.com/vedantmgoyal2009)
@@ -6543,5 +6545,3 @@
 -[@JoshuaLearns2](https://github.com/JoshuaLearns2)
 
 -[@hjamie00](https://github.com/hjamie00)
-
-- [@Ashish-Nagar-027](https://github.com/Ashish-Nagar-027)
