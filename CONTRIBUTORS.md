@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@omicreativedev](https://github.com/omicreativedev)
+
 - [@WarBoar86](https://github.com/WarBoar86)
 
 - [@vedantmgoyal2009](https://github.com/vedantmgoyal2009)
