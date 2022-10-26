@@ -16,7 +16,7 @@ const factorial = (n) => {
   if ((n % 1) !== 0) {
     throw new RangeError('Not a Whole Number')
   }
-  
+
   if (n === 0) {
     return 1
   }
