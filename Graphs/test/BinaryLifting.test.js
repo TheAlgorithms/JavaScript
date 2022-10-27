@@ -1,4 +1,4 @@
-import { binaryLifting } from '../BinaryLifting'
+import binaryLifting from '../BinaryLifting'
 
 // The graph for Test Case 1 looks like this:
 //

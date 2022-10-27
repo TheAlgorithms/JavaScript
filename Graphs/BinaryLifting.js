@@ -11,51 +11,53 @@
 
 class BinaryLifting {
   constructor (root, tree) {
-    this.connections = {}
-    this.up = {} // up[node][i] stores the 2^i-th  parent of node
+    this.root = root
+    this.connections = new Map()
+    this.up = new Map() // up[node][i] stores the 2^i-th  parent of node
     for (const [i, j] of tree) {
       this.addEdge(i, j)
     }
-    // LOG should be such that 2^LOG is greater than total number of nodes in the tree
-    this.LOG = 0
-    while ((1 << this.LOG) <= Object.keys(this.connections).length) {
-      this.LOG++
-    }
+    this.log = Math.ceil(Math.log2(this.connections.size))
     this.dfs(root, root)
   }
 
   addNode (node) {
     // Function to add a node to the tree (connection represented by set)
-    this.connections[node] = new Set()
+    this.connections.set(node, new Set())
   }
 
   addEdge (node1, node2) {
     // Function to add an edge (adds the node too if they are not present in the tree)
-    if (!(node1 in this.connections)) {
+    if (!this.connections.has(node1)) {
       this.addNode(node1)
     }
-    if (!(node2 in this.connections)) {
+    if (!this.connections.has(node2)) {
       this.addNode(node2)
     }
-    this.connections[node1].add(node2)
-    this.connections[node2].add(node1)
+    this.connections.get(node1).add(node2)
+    this.connections.get(node2).add(node1)
   }
 
   dfs (node, parent) {
-    this.up[node] = {}
-    this.up[node][0] = parent
-    for (let i = 1; i < this.LOG; i++) {
-      this.up[node][i] = this.up[this.up[node][i - 1]][i - 1]
+    this.up.set(node, new Map())
+    this.up.get(node).set(0, parent)
+    for (let i = 1; i < this.log; i++) {
+      this.up
+        .get(node)
+        .set(i, this.up.get(this.up.get(node).get(i - 1)).get(i - 1))
     }
-    for (const child of this.connections[node]) {
+    for (const child of this.connections.get(node)) {
       if (child !== parent) this.dfs(child, node)
     }
   }
 
   kthAncestor (node, k) {
-    for (let i = 0; i < this.LOG; i++) {
+    if (k >= this.connections.size) {
+      return this.root
+    }
+    for (let i = 0; i < this.log; i++) {
       if (k & (1 << i)) {
-        node = this.up[node][i]
+        node = this.up.get(node).get(i)
       }
     }
     return node
@@ -72,29 +74,4 @@ function binaryLifting (root, tree, queries) {
   return ancestors
 }
 
-export { binaryLifting }
-
-// binaryLifting(
-//   0,
-//   [
-//     [0, 1],
-//     [0, 3],
-//     [0, 5],
-//     [5, 6],
-//     [1, 2],
-//     [1, 4],
-//     [4, 7],
-//     [7, 11],
-//     [7, 8],
-//     [8, 9],
-//     [9, 10]
-//   ],
-//   [
-//     [10, 4],
-//     [10, 7],
-//     [7, 2],
-//     [11, 3]
-//   ]
-// )
-
-// [4, 0, 1, 1]
+export default binaryLifting
