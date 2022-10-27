@@ -15,4 +15,9 @@ describe('Factorial', () => {
     expect(() => factorial(undefined)).toThrow('Not a Number')
     expect(() => factorial(3.142)).toThrow('Not a Whole Number')
   })
+
+  it('Should return undefined for value less than 0', () => {
+    expect(factorial(-1)).toBe(undefined)
+    expect(factorial(-100)).toBe(undefined)
+  })
 })

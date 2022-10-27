@@ -17,6 +17,10 @@ const factorial = (n) => {
     throw new RangeError('Not a Whole Number')
   }
 
+  if (n < 0) {
+    return undefined
+  }
+
   if (n === 0) {
     return 1
   }
