@@ -57,6 +57,7 @@
     * [LocalMaximomPoint](Data-Structures/Array/LocalMaximomPoint.js)
     * [NumberOfLocalMaximumPoints](Data-Structures/Array/NumberOfLocalMaximumPoints.js)
     * [QuickSelect](Data-Structures/Array/QuickSelect.js)
+    * [TwoSum](Data-Structures/Array/TwoSum.js)
   * **Graph**
     * [Graph](Data-Structures/Graph/Graph.js)
     * [Graph2](Data-Structures/Graph/Graph2.js)
