@@ -10,9 +10,9 @@ describe('Factorial', () => {
   })
 
   it('Throw Error for Invalid Input', () => {
-    expect(() => factorial('-')).toThrow('Not a Number')
-    expect(() => factorial(null)).toThrow('Not a Number')
-    expect(() => factorial(undefined)).toThrow('Not a Number')
+    expect(() => factorial('-')).toThrow('Not a Whole Number')
+    expect(() => factorial(null)).toThrow('Not a Whole Number')
+    expect(() => factorial(undefined)).toThrow('Not a Whole Number')
     expect(() => factorial(3.142)).toThrow('Not a Whole Number')
     expect(() => factorial(-1)).toThrow('Not a Positive Number')
   })

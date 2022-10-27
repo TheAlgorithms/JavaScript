@@ -9,10 +9,6 @@
  */
 
 const factorial = (n) => {
-  if (typeof n !== 'number') {
-    throw new TypeError('Not a Number')
-  }
-
   if (!Number.isInteger(n)) {
     throw new RangeError('Not a Whole Number')
   }
