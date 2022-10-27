@@ -6568,3 +6568,5 @@
 -[@JaakkoHumalajoki](https://github.com/JaakkoHumalajoki)
 
 -[@EyuCoder](https://github.com/eyucoder)
+
+- [@eleazarmercader](https://github.com/eleazarmercader)
