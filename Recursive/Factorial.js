@@ -13,12 +13,12 @@ const factorial = (n) => {
     throw new TypeError('Not a Number')
   }
 
-  if ((n % 1) !== 0) {
+  if (!Number.isInteger(n)) {
     throw new RangeError('Not a Whole Number')
   }
 
   if (n < 0) {
-    return new RangeError('Not a Positive Number')
+    throw new RangeError('Not a Positive Number')
   }
 
   if (n === 0) {
