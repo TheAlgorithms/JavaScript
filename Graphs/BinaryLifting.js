@@ -39,6 +39,8 @@ class BinaryLifting {
   }
 
   dfs (node, parent) {
+    // The dfs function calculates 2^i-th ancestor of all nodes for i ranging from 0 to this.log
+    // We make use of the fact the two consecutive jumps of length 2^(i-1) make the total jump length 2^i
     this.up.set(node, new Map())
     this.up.get(node).set(0, parent)
     for (let i = 1; i < this.log; i++) {
@@ -52,9 +54,12 @@ class BinaryLifting {
   }
 
   kthAncestor (node, k) {
+    // if value of k is more than or equal to the number of total nodes, we return the root of the graph
     if (k >= this.connections.size) {
       return this.root
     }
+    // if i-th bit is set in the binary representation of k, we jump from a node to its 2^i-th ancestor
+    // so after checking all bits of k, we will have made jumps of total length k, in just log k steps
     for (let i = 0; i < this.log; i++) {
       if (k & (1 << i)) {
         node = this.up.get(node).get(i)
