@@ -9,7 +9,7 @@
  */
 
 const factorial = (n) => {
-  if (!(typeof n === 'number')) {
+  if (typeof n !== 'number') {
     throw new TypeError('Not a Number')
   }
 
@@ -18,7 +18,7 @@ const factorial = (n) => {
   }
 
   if (n < 0) {
-    return undefined
+    return new RangeError('Not a Positive Number')
   }
 
   if (n === 0) {
