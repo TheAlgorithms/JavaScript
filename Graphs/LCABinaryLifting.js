@@ -81,7 +81,7 @@ class LCABinaryLifting {
     if (node1 === node2) {
       return node1
     }
-    
+
     for (let i = this.log - 1; i >= 0; i--) {
       if (this.up.get(node1).get(i) !== this.up.get(node2).get(i)) {
         node1 = this.up.get(node1).get(i)
