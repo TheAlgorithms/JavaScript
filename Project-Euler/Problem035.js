@@ -15,7 +15,8 @@ function problem35 (n) {
   if (n < 2) {
     throw new Error('Invalid input')
   }
-  const list = sieveOfEratosthenes(n).filter(prime => !prime.toString().match(/[024568]/)) // Get a list of primes without 0, 2, 4, 5, 6, 8
+  // Get a list of primes without 0, 2, 4, 5, 6, 8; this discards the circular primes 2 & 5
+  const list = sieveOfEratosthenes(n).filter(prime => !prime.toString().match(/[024568]/))
 
   const result = list.filter((number, _idx, arr) => {
     const str = String(number)
@@ -28,7 +29,7 @@ function problem35 (n) {
     return true // If all rotations are prime, then the number is circular prime
   })
 
-  return result.length + 1 // Add 2 to the result because 2 is a circular prime
+  return result.length + 2 // Add 2 to the result because the circular primes 2 & 5 were discarded
 }
 
 export { problem35 }
