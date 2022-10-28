@@ -21,6 +21,8 @@
 
 - [@Pritesh Kiri](https://github.com/PriteshKiri)
 
+- [@Anyi Joy](https://github.com/AnyiJoy)
+
 - [@Ingrid Kelsey](https://github.com/ingridclaire)
 
 - [@Luan](https://github.com/lsandrade)
