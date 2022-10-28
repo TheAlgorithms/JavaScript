@@ -1,4 +1,5 @@
 # CONTRIBUTORS
+
 - [@Bhavna Makode](https://github.com/Bhavna2003)
 
 - [@omicreativedev](https://github.com/omicreativedev)
@@ -6574,3 +6575,5 @@
 -[@eleazarmercader](https://github.com/eleazarmercader)
 
 -[@andarutr](https://github.com/andarutr)
+
+-[@danielpimentel00](https://github.com/danielpimentel00)
