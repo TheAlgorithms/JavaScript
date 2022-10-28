@@ -41,8 +41,8 @@ test('Test case 1', () => {
     [11, 2],
     [11, 10]
   ]
-  const kthAncestors = lcaBinaryLifting(root, graph, queries)
-  expect(kthAncestors).toEqual([0, 5, 0, 7, 8, 1, 7])
+  const lowestCommonAncestors = lcaBinaryLifting(root, graph, queries)
+  expect(lowestCommonAncestors).toEqual([0, 5, 0, 7, 8, 1, 7])
 })
 
 // The graph for Test Case 2 looks like this:
@@ -75,6 +75,6 @@ test('Test case 2', () => {
     [6, 8],
     [7, 8]
   ]
-  const kthAncestors = lcaBinaryLifting(root, graph, queries)
-  expect(kthAncestors).toEqual([0, 1, 0, 0, 0, 5])
+  const lowestCommonAncestors = lcaBinaryLifting(root, graph, queries)
+  expect(lowestCommonAncestors).toEqual([0, 1, 0, 0, 0, 5])
 })

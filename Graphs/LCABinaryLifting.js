@@ -8,23 +8,20 @@
 
 import { BinaryLifting } from './BinaryLifting'
 
-class LCABinaryLifting {
+class LCABinaryLifting extends BinaryLifting {
   constructor (root, tree) {
-    this.binaryLifting = new BinaryLifting(root, tree)
-    this.log = this.binaryLifting.log
-    this.connections = this.binaryLifting.connections
-    this.up = this.binaryLifting.up
-    this.kthAncestor = this.binaryLifting.kthAncestor
+    super(root, tree)
     this.depth = new Map() // depth[node] stores the depth of node from root
     this.depth.set(root, 1)
-    this.dfs(root, root)
+    this.dfsDepth(root, root)
   }
 
-  dfs (node, parent) {
+  dfsDepth (node, parent) {
+    // DFS to find depth of every node in the tree
     for (const child of this.connections.get(node)) {
       if (child !== parent) {
         this.depth.set(child, this.depth.get(node) + 1)
-        this.dfs(child, node)
+        this.dfsDepth(child, node)
       }
     }
   }
