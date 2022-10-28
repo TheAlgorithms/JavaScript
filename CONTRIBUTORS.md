@@ -2875,7 +2875,7 @@
 
 - [@Movicat](https://github.com/movicat)
 
-- [@Moyu597](https:github.com/moyu597)
+- [@Moyu597](https://github.com/moyu597)
 
 - [@Mpbasto](https://github.com/mpbasto)
 
@@ -6572,3 +6572,5 @@
 -[@eleazarmercader](https://github.com/eleazarmercader)
 
 -[@andarutr](https://github.com/andarutr)
+
+-[@augustin-colesnic](https://github.com/augustin-colesnic)
