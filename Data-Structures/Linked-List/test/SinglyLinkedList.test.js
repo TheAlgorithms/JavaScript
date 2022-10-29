@@ -248,9 +248,9 @@ describe('SinglyLinkedList', () => {
     expect(headNode.get()).toEqual([20, 30, 40, 50, 10])
   })
 
-  it('Reverse a number represented as a Linked List where each node has a single integer', () => {
-    const headNode = new LinkedList([4, 3, 1])
-    headNode.reverseList()
-    expect(headNode.get()).toEqual([1, 3, 4])
+  it('Reverse a Linked List', () => {
+    const list = new LinkedList([4, 3, 1])
+    list.reverse()
+    expect(list.get()).toEqual([1, 3, 4])
   })
 })

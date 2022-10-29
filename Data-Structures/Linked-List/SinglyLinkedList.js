@@ -275,8 +275,8 @@ class LinkedList {
     console.log(JSON.stringify(this.headNode, null, 2))
   }
 
-  // Method to reverse the LinkedList where each node contains a single integer value
-  reverseList () {
+  // Method to reverse the LinkedList
+  reverse () {
     let head = this.headNode
     let prev = null
     let next = null
