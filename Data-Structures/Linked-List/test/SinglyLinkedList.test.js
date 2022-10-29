@@ -252,7 +252,5 @@ describe('SinglyLinkedList', () => {
     const headNode = new LinkedList([4, 3, 1])
     headNode.reverseList()
     expect(headNode.get()).toEqual([1, 3, 4])
-    
   })
-
 })
