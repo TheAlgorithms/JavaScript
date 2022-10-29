@@ -1,3 +1,5 @@
+import * as fs from 'fs'
+
 /**
  * Problem 22 - Names scores
  * @see {@link https://projecteuler.net/problem=22}
@@ -12,11 +14,10 @@
  * So, COLIN would obtain a score of 938 × 53 = 49714.
  *
  * What is the total of all the name scores in the file?
- */
+*/
 
-export function namesScores (namesTxt) {
-  namesTxt = namesTxt.replaceAll('"', '')
-  const names = namesTxt.split(',')
+export function namesScores (txtPath) {
+  const names = fs.readFileSync(txtPath, 'utf8').replaceAll('"', '').split(',')
 
   // Sort ascending the list of names
   names.sort((a, b) => (a > b))
