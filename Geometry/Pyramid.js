@@ -16,10 +16,10 @@ export default class Cone {
   }
 
   volume = () => {
-    return this.baseArea() * this.height * 1 / 3
+    return this.baseArea() * this.height / 3
   }
 
   surfaceArea = () => {
-    return this.baseArea() + this.bsl * 4 * 1 / 2 * Math.sqrt(Math.pow(this.bsl / 2, 2) + Math.pow(this.height, 2))
+    return this.baseArea() + this.bsl * 4 / 2 * Math.sqrt(Math.pow(this.bsl / 2, 2) + Math.pow(this.height, 2))
   }
 }
