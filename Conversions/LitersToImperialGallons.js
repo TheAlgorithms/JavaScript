@@ -1,5 +1,5 @@
 /**
- * This function converts liters to US gallons
+ * This function converts liters to imperial gallons
  * @constructor
  * @param {number} liters - Amount of liters to convert to gallons
  * @see https://en.wikipedia.org/wiki/Gallon
