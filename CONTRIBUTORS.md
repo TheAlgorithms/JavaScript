@@ -1,4 +1,6 @@
 # CONTRIBUTORS
+- [@Alex870209](https://github.com/Alex870209)
+
 - [@Bhavna Makode](https://github.com/Bhavna2003)
 
 - [@omicreativedev](https://github.com/omicreativedev)
