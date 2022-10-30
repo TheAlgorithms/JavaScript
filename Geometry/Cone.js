@@ -1,5 +1,5 @@
 /**
- * This class represents a circular cone and can calculate its volume and perimeter
+ * This class represents a circular cone and can calculate its volume and surface area
  * https://en.wikipedia.org/wiki/Cone
  * @constructor
  * @param {number} baseRadius - The radius of the base of the cone.
