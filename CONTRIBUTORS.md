@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@Alex870209](https://github.com/Alex870209)
+
 - [@Bhavna Makode](https://github.com/Bhavna2003)
 
 - [@omicreativedev](https://github.com/omicreativedev)
@@ -2878,7 +2880,7 @@
 
 - [@Movicat](https://github.com/movicat)
 
-- [@Moyu597](https:github.com/moyu597)
+- [@Moyu597](https://github.com/moyu597)
 
 - [@Mpbasto](https://github.com/mpbasto)
 
@@ -6446,6 +6448,8 @@
 
 - [@phillippchu](https://github.com/phillippchu)
 
+- [@o-tahboub](https://github.com/o-tahboub)
+
 - [@RoxanaAnamariaTurc](https://github.com/RoxanaAnamariaTurc)
 
 - [@muzlightyear](https://github.com/muzlightyear)
@@ -6506,11 +6510,19 @@
 
 - [@kramferolino](https://github.com/kramferolino)
 
--[@AsharAA](https://github.com/AsharAA)
+- [@AsharAA](https://github.com/AsharAA)
 
--[@presianrusinov](https://github.com/presianrusinov)
+- [@presianrusinov](https://github.com/presianrusinov)
 
--[@Bulseeye](https://github.com/Bulseeye)
+- [@Bulseeye](https://github.com/Bulseeye)
+
+- [@seunope](https://github.com/seunope)
+
+- [@ShaniServices](https://github.com/ShaniServices)
+
+- [@Jamrsu](https://github.com/Jamrsu)
+
+- [@Feliceforgione](https://github.com/feliceforgione)
 
 -[karanse](https://github.com/karanse)
 
@@ -6525,6 +6537,8 @@
 -[@mackmcgovern](https://github.com/mackmcgovern)
 
 -[@3GRuby](https://github.com/3GRuby)
+
+-[@iadarshmishra](https://github.com/iadarshmishra)
 
 -[@AlyafeiAli](https://github.com/AlyafeiAli)
 
@@ -6549,6 +6563,8 @@
 -[@JoshuaLearns2](https://github.com/JoshuaLearns2)
 
 -[@hjamie00](https://github.com/hjamie00)
+
+- [@Ashish-Nagar-027](https://github.com/Ashish-Nagar-027)
 
 -[@AnandSVD](https://github.com/Anandkp6937)
 
@@ -6578,6 +6594,16 @@
 
 -[@Shebani0](https://github.com/Shebani0)
 
+-[@Vishakhadikara](https://github.com/Vishakhadikara)
+
+-[@danielpimentel00](https://github.com/danielpimentel00)
+
+-[@augustin-colesnic](https://github.com/augustin-colesnic)
+
+-[@keller-johnson](https://github.com/keller-johnson)
+
+-[@Shebani0](https://github.com/Shebani0)
+
 -[@ManavChaudhary999](https://github.com/ManavChaudhary999)
 
 -[@FDMorgan](https://github.com/FDMorgan)
@@ -6589,3 +6615,11 @@
 - [@Saawn](https://github.com/S44WN)
 
 -[@zonj1302](https://github.com/zonj1302)
+
+- [@Biruk-N](https://github.com/Biruk-N)
+
+-[@zonj1302](https://github.com/zonj1302)
+
+-[@zonj1302](https://github.com/zonj1302)
+
+-[@GravityShow](https://github.com/GravityShow)
