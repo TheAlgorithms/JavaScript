@@ -2880,7 +2880,7 @@
 
 - [@Movicat](https://github.com/movicat)
 
-- [@Moyu597](https:github.com/moyu597)
+- [@Moyu597](https://github.com/moyu597)
 
 - [@Mpbasto](https://github.com/mpbasto)
 
@@ -6582,6 +6582,8 @@
 
 -[@andarutr](https://github.com/andarutr)
 
+-[@augustin-colesnic](https://github.com/augustin-colesnic)
+
 -[@keller-johnson](https://github.com/keller-johnson)
 
 -[@Shebani0](https://github.com/Shebani0)
@@ -6595,4 +6597,3 @@
 -[@vanha777](https://github.com/vanha777)
 
 -[@zonj1302](https://github.com/zonj1302)
-
