@@ -1,4 +1,5 @@
 # CONTRIBUTORS
+- [@Bhavna Makode](https://github.com/Bhavna2003)
 
 - [@omicreativedev](https://github.com/omicreativedev)
 
@@ -19,6 +20,8 @@
 - [@Ari Jaya](https://github.com/AriJaya07)
 
 - [@Pritesh Kiri](https://github.com/PriteshKiri)
+
+- [@Anyi Joy](https://github.com/AnyiJoy)
 
 - [@Ingrid Kelsey](https://github.com/ingridclaire)
 
@@ -6442,6 +6445,8 @@
 
 - [@phillippchu](https://github.com/phillippchu)
 
+- [@o-tahboub](https://github.com/o-tahboub)
+
 - [@RoxanaAnamariaTurc](https://github.com/RoxanaAnamariaTurc)
 
 - [@muzlightyear](https://github.com/muzlightyear)
@@ -6547,3 +6552,41 @@
 -[@hjamie00](https://github.com/hjamie00)
 
 - [@Ashish-Nagar-027](https://github.com/Ashish-Nagar-027)
+
+-[@AnandSVD](https://github.com/Anandkp6937)
+
+-[@deucetrk](https://github.com/deucetrk)
+
+-[@adriennfazekas](https://github.com/adriennfazekas)
+
+-[@Sicxx211](https://github.com/Sicxx211)
+
+-[@karat000](https://github.com/karat000)
+
+-[@josealarconchacon](https://github.com/josealarconchacon)
+
+-[@balcsi78](https://github.com/balcsi78)
+
+-[@serengia](https://github.com/serengia)
+
+-[@maurin7](https://github.com/maurin7)
+
+-[@JaakkoHumalajoki](https://github.com/JaakkoHumalajoki)
+
+-[@EyuCoder](https://github.com/eyucoder)
+
+-[@eleazarmercader](https://github.com/eleazarmercader)
+
+-[@andarutr](https://github.com/andarutr)
+
+-[@Shebani0](https://github.com/Shebani0)
+
+-[@ManavChaudhary999](https://github.com/ManavChaudhary999)
+
+-[@FDMorgan](https://github.com/FDMorgan)
+
+-[@imstanley](https://github.com/imstanley)
+
+-[@vanha777](https://github.com/vanha777)
+
+-[@zonj1302](https://github.com/zonj1302)
