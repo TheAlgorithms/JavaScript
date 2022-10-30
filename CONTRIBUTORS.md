@@ -6510,11 +6510,19 @@
 
 - [@kramferolino](https://github.com/kramferolino)
 
--[@AsharAA](https://github.com/AsharAA)
+- [@AsharAA](https://github.com/AsharAA)
 
--[@presianrusinov](https://github.com/presianrusinov)
+- [@presianrusinov](https://github.com/presianrusinov)
 
--[@Bulseeye](https://github.com/Bulseeye)
+- [@Bulseeye](https://github.com/Bulseeye)
+
+- [@seunope](https://github.com/seunope)
+
+- [@ShaniServices](https://github.com/ShaniServices)
+
+- [@Jamrsu](https://github.com/Jamrsu)
+
+- [@Feliceforgione](https://github.com/feliceforgione)
 
 -[karanse](https://github.com/karanse)
 
