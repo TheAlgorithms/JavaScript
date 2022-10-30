@@ -3,7 +3,7 @@
  * Implementation of ZFunction in JavaScript
  * ZFunction at an index i gives the length of the longest substring starting at i, that is also a prefix of the whole string
  * ZFunction for all indices in a string can be calculated in O(N)
- * Explanation: https://cp-algorithms.com/string/z-function.html
+ * @see https://cp-algorithms.com/string/z-function.html
  * @param {String} text The string whose Z Function is to be calculated
  * @return {Array} Returns an array whose i-th index is the value of Z Function for text at index i
  */
