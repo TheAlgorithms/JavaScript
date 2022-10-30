@@ -5,7 +5,7 @@
  * @param {number} bsl - The side length of the base of the pyramid.
  * @param {number} height - The height of the pyramid
  */
-export default class Cone {
+export default class Pyramid {
   constructor (bsl, height) {
     this.bsl = bsl
     this.height = height
