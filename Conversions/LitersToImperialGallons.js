@@ -1,8 +1,8 @@
 /**
  * This function converts liters to US gallons
- * https://en.wikipedia.org/wiki/Gallon
  * @constructor
  * @param {number} liters - Amount of liters to convert to gallons
+ * @see https://en.wikipedia.org/wiki/Gallon
  */
 const litersToImperialGallons = (liters) => {
   return liters / 4.54609
