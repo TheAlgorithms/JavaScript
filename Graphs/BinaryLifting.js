@@ -9,7 +9,7 @@
  * Tutorial on Binary Lifting: https://codeforces.com/blog/entry/100826
  */
 
-class BinaryLifting {
+export class BinaryLifting {
   constructor (root, tree) {
     this.root = root
     this.connections = new Map()
