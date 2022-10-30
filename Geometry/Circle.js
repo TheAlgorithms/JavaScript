@@ -1,5 +1,6 @@
 /**
  * This class represents a circle and can calculate it's perimeter and area
+ * https://en.wikipedia.org/wiki/Circle
  * @constructor
  * @param {number} radius - The radius of the circule.
  */
