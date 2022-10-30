@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@Alex870209](https://github.com/Alex870209)
+
 - [@Bhavna Makode](https://github.com/Bhavna2003)
 
 - [@omicreativedev](https://github.com/omicreativedev)
@@ -2878,7 +2880,7 @@
 
 - [@Movicat](https://github.com/movicat)
 
-- [@Moyu597](https:github.com/moyu597)
+- [@Moyu597](https://github.com/moyu597)
 
 - [@Mpbasto](https://github.com/mpbasto)
 
@@ -6446,6 +6448,8 @@
 
 - [@phillippchu](https://github.com/phillippchu)
 
+- [@o-tahboub](https://github.com/o-tahboub)
+
 - [@RoxanaAnamariaTurc](https://github.com/RoxanaAnamariaTurc)
 
 - [@muzlightyear](https://github.com/muzlightyear)
@@ -6550,6 +6554,8 @@
 
 -[@hjamie00](https://github.com/hjamie00)
 
+- [@Ashish-Nagar-027](https://github.com/Ashish-Nagar-027)
+
 -[@AnandSVD](https://github.com/Anandkp6937)
 
 -[@deucetrk](https://github.com/deucetrk)
@@ -6577,3 +6583,22 @@
 -[@andarutr](https://github.com/andarutr)
 
 -[@danielpimentel00](https://github.com/danielpimentel00)
+
+-[@augustin-colesnic](https://github.com/augustin-colesnic)
+
+-[@keller-johnson](https://github.com/keller-johnson)
+
+-[@Shebani0](https://github.com/Shebani0)
+
+-[@ManavChaudhary999](https://github.com/ManavChaudhary999)
+
+-[@FDMorgan](https://github.com/FDMorgan)
+
+-[@imstanley](https://github.com/imstanley)
+
+-[@vanha777](https://github.com/vanha777)
+
+-[@zonj1302](https://github.com/zonj1302)
+
+-[@GravityShow](https://github.com/GravityShow)
+
