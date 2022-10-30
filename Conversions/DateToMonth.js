@@ -4,6 +4,7 @@ const dateToMonth = (date) => {
   if (typeof date !== 'string') {
     return new TypeError('Argument isnt a string.')
   }
+  //  Inputs a date in format DD/MM/YYYY, extracts MM and gets the month name from months const
   return months[parseInt(date.split('/')[1])]
 }
 
