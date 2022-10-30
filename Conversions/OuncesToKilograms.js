@@ -1,8 +1,11 @@
-/*  https://en.wikipedia.org/wiki/Ounce returns it up to 3 decimal places  */
+/**
+ * This function converts ounces to kilograms
+ * https://en.wikipedia.org/wiki/Ounce
+ * @constructor
+ * @param {number} oz - Amount of ounces to convert to kilograms
+ */
 const ouncesToKilograms = (oz) => {
-  let res = oz * 28.3498 / 1000
-  res = res.toFixed(3)
-  return parseFloat(res)
+  return oz * 28.3498 / 1000
 }
 
 export { ouncesToKilograms }

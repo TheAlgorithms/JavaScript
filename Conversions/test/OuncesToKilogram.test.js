@@ -1,7 +1,5 @@
 import { ouncesToKilograms } from '../OuncesToKilograms'
 
-describe('Testing OuncesToKilogram', () => {
-  it('should return ', () => {
-    expect(ouncesToKilograms(60)).toBe(1.701)
-  })
+test('Convert 60 ounces to kilograms', () => {
+  expect(parseFloat(ouncesToKilograms(60).toFixed(3))).toBe(1.701)
 })
