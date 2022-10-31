@@ -19,7 +19,7 @@ const squareRootLogarithmic = (num) => {
   if (typeof num !== 'number') {
     throw new Error('Input data must be numbers')
   }
-  let ans = 0
+  let answer = 0
   let sqrt = 0
   let e = num
 
@@ -29,13 +29,13 @@ const squareRootLogarithmic = (num) => {
       return mid
     } else if (mid * mid < num) {
       sqrt = mid + 1
-      ans = mid
+      answer = mid
     } else {
       e = mid - 1
     }
   }
 
-  return ans
+  return answer
 }
 
 export { squareRootLogarithmic }
