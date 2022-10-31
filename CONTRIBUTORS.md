@@ -6640,6 +6640,6 @@
 
 - [@Kitkatnik](https://github.com/Kitkatnik)
 
-- [@nathan-bark] (https://github.com/nathan-bark)
+- [@nathan-bark](https://github.com/nathan-bark)
 
-- [@madnotangry] (https://github.com/madnotangry)
+- [@madnotangry](https://github.com/madnotangry)
