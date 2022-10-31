@@ -6645,4 +6645,4 @@
 - [@madnotangry] (https://github.com/madnotangry)
 - [@padrone1225] (https://github.com/padrone1225)
 
-- [@shawnjamil] (https://github.com/shawnjamil)
+- [@shawnjamil](https://github.com/shawnjamil)
