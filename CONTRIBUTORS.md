@@ -6654,3 +6654,5 @@
 - [@matkobaran] (https://github.com/matkobaran)
 
 - [@Dhruv-was-taken](https://github.com/Dhruv-was-taken)
+
+- [@allangabrielrod](https://github.com/allangabrielrod)
