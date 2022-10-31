@@ -21,17 +21,17 @@ const squareRootLogarithmic = (num) => {
   }
   let answer = 0
   let sqrt = 0
-  let e = num
+  let edge = num
 
-  while (sqrt <= e) {
-    const mid = Math.trunc((sqrt + e) / 2)
+  while (sqrt <= edge) {
+    const mid = Math.trunc((sqrt + edge) / 2)
     if (mid * mid === num) {
       return mid
     } else if (mid * mid < num) {
       sqrt = mid + 1
       answer = mid
     } else {
-      e = mid - 1
+      edge = mid - 1
     }
   }
 
