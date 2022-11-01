@@ -6640,10 +6640,11 @@
 
 - [@Kitkatnik](https://github.com/Kitkatnik)
 
-- [@nathan-bark] (https://github.com/nathan-bark)
+- [@nathan-bark](https://github.com/nathan-bark)
 
-- [@madnotangry] (https://github.com/madnotangry)
-- [@padrone1225] (https://github.com/padrone1225)
+- [@madnotangry](https://github.com/madnotangry)
+
+- [@padrone1225](https://github.com/padrone1225)
 
 - [@shawnjamil](https://github.com/shawnjamil)
 
@@ -6658,4 +6659,3 @@
 - [@allangabrielrod](https://github.com/allangabrielrod)
 
 - [@Kate-Way](https://github.com/Kate-Way)
-
