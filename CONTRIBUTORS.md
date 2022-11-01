@@ -17,7 +17,6 @@
 - [@spiderxp3](https://github.com/spiderxp3)
 
 - [@jsh0512](https://github.com/jsh0512)
-
 - [@jalalbmnf](https://github.com/jalalbmnf)
 
 - [@Ari Jaya](https://github.com/AriJaya07)
@@ -6661,3 +6660,5 @@
 - [@allangabrielrod](https://github.com/allangabrielrod)
 
 - [@Kate-Way](https://github.com/Kate-Way)
+
+- [@garysmeade](https://github.com/garysmeade)
