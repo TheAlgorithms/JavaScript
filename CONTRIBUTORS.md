@@ -6661,4 +6661,4 @@
 
 - [@Kate-Way](https://github.com/Kate-Way)
 
-- [@garysmeade](https://github.com/garysmeade)
+- [@garysmeade](https://github.com/gsmeade)
