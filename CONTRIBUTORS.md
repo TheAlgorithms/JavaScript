@@ -6643,3 +6643,19 @@
 - [@nathan-bark](https://github.com/nathan-bark)
 
 - [@madnotangry](https://github.com/madnotangry)
+
+- [@padrone1225](https://github.com/padrone1225)
+
+- [@shawnjamil](https://github.com/shawnjamil)
+
+- [@blu-1337](https://github.com/blu-1337)
+
+- [@tatanoc92] (https://github.com/tatanoc92)
+
+- [@matkobaran] (https://github.com/matkobaran)
+
+- [@Dhruv-was-taken](https://github.com/Dhruv-was-taken)
+
+- [@allangabrielrod](https://github.com/allangabrielrod)
+
+- [@Kate-Way](https://github.com/Kate-Way)
