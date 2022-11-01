@@ -6674,3 +6674,5 @@
 - [@dscheeff](https://github.com/dscheeff)
 
 - [@CarlosMartinez21](https://github.com/CarlosMartinez21)
+
+- [@murilolocatelli](https://github.com/murilolocatelli)
