@@ -6676,3 +6676,5 @@
 - [@CarlosMartinez21](https://github.com/CarlosMartinez21)
 
 - [@murilolocatelli](https://github.com/murilolocatelli)
+
+- [@juliamazzoni](https://github.com/juliamazzoni)
