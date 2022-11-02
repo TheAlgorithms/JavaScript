@@ -1,4 +1,4 @@
-import { intToBase } from '../intToBase'
+import { intToBase } from '../IntToBase'
 
 describe('Int to Base', () => {
   test('Conversion to the binary system', () => {
