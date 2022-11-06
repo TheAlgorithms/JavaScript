@@ -39,14 +39,3 @@ body:
         4.
     validations:
       required: false
-  - type: textarea
-    id: specifications
-    attributes:
-      label: Specifications
-      description: Specify version, platform, and web browser (if applicable).
-      placeholder: |
-        1. Version:
-        2. Platform:
-        3. Browser:
-    validations:
-      required: false
