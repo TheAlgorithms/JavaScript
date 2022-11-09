@@ -882,6 +882,7 @@
 - [@Catehardy](https://github.com/catehardy)
 
 - [@Cavan59](https://github.com/cavan59/)
+- [@CBID2](https://github.com/CBID2)
 
 - [@Ccs211](https://github.com/ccs211/)
 
