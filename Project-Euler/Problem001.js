@@ -5,9 +5,11 @@ Find the sum of all the multiples of 3 or 5 below the provided parameter value n
 */
 
 const multiplesThreeAndFive = (num) => {
+  if (num < 1) throw new Error('No natural numbers exist below 1')
+
   let total = 0
   // total for calculating the sum
-  for (let i = 0; i < num; i++) {
+  for (let i = 1; i < num; i++) {
     if (i % 3 === 0 || i % 5 === 0) {
       total += i
     }

@@ -11,17 +11,23 @@ jobs:
     name: Code style and tests
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-node@v2
+      - uses: actions/checkout@v3
+
+      - uses: actions/setup-node@v3
         with:
-          node-version: "16.x"
+          node-version: 16
           cache: npm
 
       - name: 📦 Install dependencies
         run: npm ci
 
-      - name: 🧪 Run tests
-        run: npm test
+      - name: 🧪 Run all tests
+        if: ${{ github.event_name == 'push' }}
+        run: npm run test
+
+      - name: 🧪 Run tests for changed files only
+        if: ${{ github.event_name == 'pull_request' }}
+        run: npm run test-changed
 
       - name: 💄 Code style
         run: npm run style
@@ -30,7 +36,7 @@ jobs:
     name: Check for spelling errors
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - uses: codespell-project/actions-codespell@master
         with:
           # file types to ignore

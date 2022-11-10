@@ -274,6 +274,20 @@ class LinkedList {
   log () {
     console.log(JSON.stringify(this.headNode, null, 2))
   }
+
+  // Method to reverse the LinkedList
+  reverse () {
+    let head = this.headNode
+    let prev = null
+    let next = null
+    while (head) {
+      next = head.next
+      head.next = prev
+      prev = head
+      head = next
+    }
+    this.headNode = prev
+  };
 }
 
 export { Node, LinkedList }

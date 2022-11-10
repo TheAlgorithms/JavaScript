@@ -9,6 +9,14 @@
  */
 
 const factorial = (n) => {
+  if (!Number.isInteger(n)) {
+    throw new RangeError('Not a Whole Number')
+  }
+
+  if (n < 0) {
+    throw new RangeError('Not a Positive Number')
+  }
+
   if (n === 0) {
     return 1
   }
