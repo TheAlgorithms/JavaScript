@@ -26,7 +26,11 @@ describe('Permutations', () => {
   })
 
   it('Permutation counts across larger input arrays', () => {
-    expect(permutations([1, 2, 3, 4, 5, 6])).toHaveLength(720)
-    expect(permutations([1, 2, 3, 4, 5, 6, 7])).toHaveLength(5040)
+    const factorial = (previousVal, currentVal) => previousVal * currentVal
+    const input8 = [1, 2, 3, 4, 5, 6, 7, 8]
+    const input9 = [1, 2, 3, 4, 5, 6, 7, 8, 9]
+
+    expect(permutations(input8)).toHaveLength(input8.reduce(factorial, 1))
+    expect(permutations(input9)).toHaveLength(input9.reduce(factorial, 1))
   })
 })
