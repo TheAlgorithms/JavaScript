@@ -6797,3 +6797,5 @@
 -[@c0d33ngr](https://github.com/c0d33ngr)
 
 -[@Kneesal](https://github.com/Kneesal)
+
+-[@seangray-dev](https://github.com/seangray-dev)
