@@ -1,14 +1,25 @@
 import { validateURL } from '../ValidateUrl'
 
 describe('ValidateUrl', () => {
-  it('expects to return false', () => {
-    expect(validateURL('google')).toEqual(false)
-    expect(validateURL('link: https://www.google.com')).toEqual(false)
+  test.each([
+    ['http://www.google.com'],
+    ['https://www.google.com'],
+    ['www.google.com'],
+    ['google.com'],
+    ['http://wwwdomain.com']
+
+  ])('Should return validate=true for URL %s', (n) => {
+    expect(validateURL(n)).toBe(true)
   })
 
-  it('expects to return true', () => {
-    expect(validateURL('http://www.google.com')).toEqual(true)
-    expect(validateURL('https://www.google.com')).toEqual(true)
-    expect(validateURL('www.google.com')).toEqual(true)
+  test.each([
+    ['google'],
+    ['link: https://www.google.com'],
+    ['www.foufos'],
+    ['http://foufos'],
+    ['www.mp3#.com'],
+    ['www.-foufos.gr']
+  ])('Should return validate=false for URL %s', (n) => {
+    expect(validateURL(n)).toBe(false)
   })
 })
