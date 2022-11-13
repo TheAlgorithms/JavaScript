@@ -6818,4 +6818,6 @@
 
 - [@tradengr](https://github.com/tradengr)
 
-- [@josewebdev2000] (https://github.com/josewebdev2000)
+- [@josewebdev2000](https://github.com/josewebdev2000)
+
+- [@andriel300](https://github.com/andriel300)
