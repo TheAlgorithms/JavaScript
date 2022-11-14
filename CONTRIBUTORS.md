@@ -6831,3 +6831,5 @@
 - [@MPRCode](https://github.com/MPRCode)
 
 - [@fabienMarchand] (https://github.com/fabienMarchand)
+
+- [@a-majk] (https://github.com/a-majk/)
