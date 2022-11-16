@@ -2,6 +2,8 @@
 
 - [@Jonotassia](https://github.com/jonotassia)
 
+- [@Tariq Khan](https://github.com/Tariq-act)
+
 - [@Alex870209](https://github.com/Alex870209)
 
 - [@Bhavna Makode](https://github.com/Bhavna2003)
