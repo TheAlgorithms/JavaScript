@@ -6,6 +6,8 @@
 
 - [@Alex870209](https://github.com/Alex870209)
 
+- [@Fumbani Banda](https://github.com/deadex-ng)
+
 - [@Bhavna Makode](https://github.com/Bhavna2003)
 
 - [@omicreativedev](https://github.com/omicreativedev)
