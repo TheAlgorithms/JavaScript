@@ -1,10 +1,15 @@
 # CONTRIBUTORS
+-[@Meis01](https://github.com/Meis01)
 
 - [@Jonotassia](https://github.com/jonotassia)
+
+- [@j_muguna](https://github.com/JIMMUGUNA789)
 
 - [@Tariq Khan](https://github.com/Tariq-act)
 
 - [@Alex870209](https://github.com/Alex870209)
+
+- [@Fumbani Banda](https://github.com/deadex-ng)
 
 - [@Bhavna Makode](https://github.com/Bhavna2003)
 
@@ -6871,5 +6876,49 @@
 -[@y0ze](https://github.com/y0ze/)
 
 -[@Groomsi](https://github.com/Groomsi)
+
+-[@jacob-seibert](https://github.com/jacob-seibert)
+
+-[@126jullian](https://github.com/126jullian)
+
+-[@swapnilrajgadkar](https://github.com/swapnilrajgadkar)
+
+-[@AurelianVirgil](https://github.com/AurelianVirgil)
+
+-[@huseyinoztas](https://github.com/huseyinoztas)
+
+-[@MohammedNadeemPasha](https://github.com/MohammedNadeemPasha)
+
+-[@percivaltogara](https://github.com/Percivaltogara)
+
+-[@Snopcare](https://github.com/Snopcare/)
+
+-[@muvonglao](https://github.com/muvonglao/)
+
+-[@natcat38](https://github.com/natcat38)
+
+-[@GKurtanidze1999](https://github.com/GKurtanidze1999)
+
+-[@sofyflorez](https://github.com/sofyflorez)
+
+-[@sanja969](https://github.com/Sanja969)
+
+-[@princewilldev](https://github.com/PrincewillDev)
+
+-[@GHWKrieger](https://github.com/GHWKrieger)
+
+-[@karimsamir](https://github.com/karimsamir)
+
+-[@CodingCase](https://github.com/CodingCase)
+
+-[@alfredthompsonOvie](https://github.com/alfredthompsonOvie)
+
+-[@waldemarhermann](https://github.com/waldemarhermann)
+
+-[philling1](https://github.com/philling1)
+
+-[onlykamaro](https://github.com/onlykamaro)
+
+-[@18jonangelo](https://github.com/18jonangelo)
 
 -[@rhtonmoy1](https://github.com/rhtonmoy1)
