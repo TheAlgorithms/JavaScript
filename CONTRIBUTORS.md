@@ -26,6 +26,9 @@
 - [@spiderxp3](https://github.com/spiderxp3)
 
 - [@jsh0512](https://github.com/jsh0512)
+
+- [@tharrry](https://github.com/tharrry)
+
 - [@jalalbmnf](https://github.com/jalalbmnf)
 
 - [@Ari Jaya](https://github.com/AriJaya07)
