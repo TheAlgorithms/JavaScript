@@ -6,6 +6,8 @@
 
 - [@j_muguna](https://github.com/JIMMUGUNA789)
 
+- [Michael Sasi](https://github.com/MichaelSasi)
+
 - [@Tariq Khan](https://github.com/Tariq-act)
 
 - [@Alex870209](https://github.com/Alex870209)
