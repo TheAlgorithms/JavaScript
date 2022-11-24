@@ -181,7 +181,7 @@ class LinkedList {
   // Removes the node at specified index
   removeAt (index) {
     // Check if index is present in list
-    if (index < 0 || index >= this.length) {
+    if (index < 0 || index > this.length) {
       throw new RangeError('Out of Range index')
     }
     if (index === 0) return this.removeFirst()
