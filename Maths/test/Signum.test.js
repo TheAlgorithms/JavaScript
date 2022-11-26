@@ -6,7 +6,7 @@ describe('The sign of a number', () => {
   })
 
   it('Sign of 0', () => {
-    expect(signum(10)).toBe(0)
+    expect(signum(0)).toBe(0)
   })
 
   it('Sign of -420', () => {
