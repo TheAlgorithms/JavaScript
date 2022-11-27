@@ -11,7 +11,7 @@ export const FriendlyNumbers = (firstNumber, secondNumber) => {
 
   // First, check that the parameters are valid
   if (!Number.isInteger(firstNumber) || !Number.isInteger(secondNumber) || firstNumber === 0 || secondNumber === 0 || firstNumber === secondNumber) {
-    throw new Error('The two parameters must be distrinct, non-null integers')
+    throw new Error('The two parameters must be distinct, non-null integers')
   }
 
   // Calculate the abundancy index of the two number.
