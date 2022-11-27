@@ -14,28 +14,19 @@ export const FriendlyNumbers = (firstNumber, secondNumber) => {
     throw new Error('The two parameters must be distinct, non-null integers')
   }
 
-  // Calculate the abundancy index of the two number.
-  // ... first get the sum of their divisors
-  let sumDivisorsFirstNumber = firstNumber
-  let sumDivisorsSecondNumber = secondNumber
+  return abundancyIndex(firstNumber) === abundancyIndex(secondNumber)
+}
 
-  for (let i = 0; i < firstNumber / 2; i++) {
-    if (Number.isInteger(firstNumber / i)) {
-      sumDivisorsFirstNumber += i
+function abundancyIndex (number) {
+  return sumDivisors(number) / number
+}
+
+function sumDivisors (number) {
+  let runningSumDivisors = number
+  for (let i = 0; i < number / 2; i++) {
+    if (Number.isInteger(number / i)) {
+      runningSumDivisors += i
     }
   }
-  for (let i = 0; i < secondNumber / 2; i++) {
-    if (Number.isInteger(secondNumber / i)) {
-      sumDivisorsSecondNumber += i
-    }
-  }
-  // ... and divide that sum by the number itself
-  const abundancyIndexFirstNumber = sumDivisorsFirstNumber / firstNumber
-  const abundancyIndexSecondNumber = sumDivisorsSecondNumber / secondNumber
-
-  if (abundancyIndexFirstNumber === abundancyIndexSecondNumber) {
-    return true
-  } else {
-    return false
-  }
+  return runningSumDivisors
 }
