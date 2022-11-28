@@ -12,10 +12,11 @@
 
 /**
  * @param {Number} input
- * @returns {-1 | 0 | 1} sign of input
+ * @returns {-1 | 0 | 1 | NaN} sign of input (and NaN if the input is NaN)
  */
 function signum (input) {
-  if (input === 0) return 0
+  if(isNaN(input)) return NaN
+  else if (input === 0) return 0
   else if (input < 0) return -1
   else return 1
 }

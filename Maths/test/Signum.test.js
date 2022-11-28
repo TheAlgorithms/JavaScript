@@ -12,4 +12,8 @@ describe('The sign of a number', () => {
   it('Sign of -420', () => {
     expect(signum(-420)).toBe(-1)
   })
+
+  it('Sign of NaN', () => {
+    expect(signum(NaN)).toBe(NaN)
+  })
 })
