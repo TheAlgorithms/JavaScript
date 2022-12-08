@@ -5714,7 +5714,7 @@
 
 - [@isabellechiu](https://github.com/isabellechiu)
 
-- [@tukang-logika](https://github.com/tukang-logika)
+- [@HeriYantodotDev](https://github.com/HeriYantodotDev)
 
 - [@paije97](https://github.com/paije97)
 
