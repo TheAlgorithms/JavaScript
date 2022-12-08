@@ -1028,6 +1028,8 @@
 
 - [@Commanderdestro](https://github.com/commanderdestro/)
 
+- [@Coolzoa](https://github.com/coolzoa)
+
 - [@Coryjerni](https://github.com/coryjerni)
 
 - [@Cosm0](https://github.com/c-osm0/)
