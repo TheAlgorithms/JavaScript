@@ -5,7 +5,7 @@
 
 - [@mbajinaru](https://github.com/mbajinaru)
 
--[@Meis01](https://github.com/Meis01)
+- [@Meis01](https://github.com/Meis01)
 
 - [@Jonotassia](https://github.com/jonotassia)
 
@@ -2888,7 +2888,7 @@
 
 - [@Moorerw](https://github.com/moorerw)
 
-- [@Morganjay](https://github.com/MorganJay/)
+- [@MorganJay](https://github.com/MorganJay/)
 
 - [@Mosabami](https://github.com/mosabami)
 
