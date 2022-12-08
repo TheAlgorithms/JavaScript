@@ -44,7 +44,7 @@
 
 -[@LIJOMLOYID](https://github.com/LIJOMLOYID)
 
-- [@ClaireKarsenti](https://github.com/ClaireKarsenti)
+-[@ClaireKarsenti](https://github.com/ClaireKarsenti)
 
 -[@abu24talha](https://github.com/abu24talha)
 
@@ -53,3 +53,5 @@
 -[@ritabradley](https://github.com/ritabradley)
 
 -[@jideabdqudus](https://github.com/jideabdqudus)
+
+-[@lcveron](https://github.com/lcveron)
