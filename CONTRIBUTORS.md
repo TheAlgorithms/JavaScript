@@ -61,3 +61,5 @@
 - [@jlachondo](https://github.com/jlachondo)
 
 - [@rccondotta](https://github.com/rccondotta)
+
+- [@afrokayie](https://github.com/afrokayie)
