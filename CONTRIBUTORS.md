@@ -72,3 +72,5 @@
 - [@amrindra](https://github.com/Amrindra)
 
 -[@Arioum](https://github.com/Arioum)
+
+-[@q-rault](https://github.com/q-rault)
