@@ -84,3 +84,5 @@
 - [@enthr](https://github.com/enthr)
 
 - [@mikedadalin](https://github.com/mikedadalin)
+
+- [@beavinco](https://github.com/beavinco)
