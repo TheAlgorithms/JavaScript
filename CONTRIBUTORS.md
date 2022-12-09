@@ -78,3 +78,5 @@
 -[@Radiostranger](https://github.com/Radiostranger)
 
 -[@akifunal](https://github.com/akifunal)
+
+- [@terryllowery](https://github.com/terryllowery)
