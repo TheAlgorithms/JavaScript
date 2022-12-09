@@ -82,3 +82,5 @@
 - [@terryllowery](https://github.com/terryllowery)
 
 - [@enthr](https://github.com/enthr)
+
+- [@mikedadalin](https://github.com/mikedadalin)
