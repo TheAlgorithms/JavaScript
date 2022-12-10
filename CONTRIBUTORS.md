@@ -99,3 +99,5 @@
 -[@K-Wiczling](https://github.com/K-Wiczling/)
 
 -[@dmdbilal](https://github.com/dmdbilal/)
+
+-[@Lazar Stojanović](https://github.com/Coolbylaki)
