@@ -88,3 +88,4 @@
 - [@beavinco](https://github.com/beavinco)
 
 -[@dkembre](https://github.com/dkembre)
+-[@pinatic](https://github.com/Pinatic79)
