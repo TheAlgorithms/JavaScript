@@ -93,3 +93,5 @@
 -[@rzilla92](https://github.com/rzilla92/)
 
 -[@vanessavun](https://github.com/vanessavun/)
+
+-[@K-Wiczling](https://github.com/K-Wiczling/)
