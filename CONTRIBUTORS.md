@@ -103,3 +103,5 @@
 -[@Lazar Stojanović](https://github.com/Coolbylaki)
 
 -[@Pats101](https://github.com/Pats101)
+
+-[@laurabaluchova](https://github.com/laurabaluchova)
