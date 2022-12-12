@@ -128,3 +128,5 @@
 
 -[@hakedo](https://github.com/hakedo)
 -[@anubhav-negi](https://github.com/starlove54)s
+
+-[@Kindevral](https://github.com/Kindevral)
