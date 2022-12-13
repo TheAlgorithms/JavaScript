@@ -136,3 +136,4 @@
 -[@Imadinglefritz](https://github.com/Imadinglefritz)
 
 - [@leeorf](https://github.com/leeorf)
+-[@ushicode](https://github.com/ushicode)
