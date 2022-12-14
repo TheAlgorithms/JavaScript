@@ -159,3 +159,5 @@
 - [@rornek](https://github.com/rornek)
 
 - [@CeladonVert](https://github.com/CeladonVert)
+
+- [@davidadufresne](https://github.com/davidadufresne)
