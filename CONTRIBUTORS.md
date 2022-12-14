@@ -153,3 +153,5 @@
 - [@mohamedvol1](https://github.com/mohamedvol1)
 
 -[@wcares](https://github.com/wcares/)
+
+-[@jeddstudio](https://github.com/jeddstudio)
