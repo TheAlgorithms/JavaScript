@@ -147,3 +147,5 @@
 - [@daniloHung](https://github.com/danilo-hung)
 
 -[@kyanvalipour](https://github.com/kyanvalipour/)
+
+-[@joshperlette](https://github.com/joshperlette)
