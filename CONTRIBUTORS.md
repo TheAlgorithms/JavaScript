@@ -179,7 +179,7 @@
 
 - [@esgrid](https://github.com/esgrid)
 
-- [@michaelzwiener] (https://github.com/michaelzwiener)
+- [@michaelzwiener](https://github.com/michaelzwiener)
 
 - [@SanchRepo](https://github.com/SanchRepo)
 
@@ -202,3 +202,5 @@
 -[@leonardevans](https://github.com/leonardevans)
 
 -[@tulipvale](https://github.com/tulipvale)
+
+- [@beeburrt](https://github.com/beeburrt)
