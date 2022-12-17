@@ -7,7 +7,6 @@ JavaScript Repository of TheAlgorithms, which implements various algorithms and 
 
   [![JavaScript Banner][banner]](DIRECTORY.md)
 
-  [![Language grade: JavaScript][grade]][lgtm]
   [![Checks][checks]][actions]
   [![Contributions Welcome][welcome]](CONTRIBUTING.md)
   [![standard.js][standard-logo]][standard-js]
@@ -47,8 +46,8 @@ many of the algorithms can be found in the [wiki][explanation].
 [standard-logo]: https://img.shields.io/badge/code%20style-standardjs-%23f3df49
 [chat]: https://img.shields.io/discord/808045925556682782.svg?logo=discord&colorB=7289DA
 [welcome]: https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3
-[checks]: https://img.shields.io/github/workflow/status/TheAlgorithms/JavaScript/Node%20CI?label=checks
-[grade]: https://img.shields.io/lgtm/grade/javascript/g/TheAlgorithms/Javascript.svg?logo=lgtm&logoWidth=18
+[checks]: https://img.shields.io/github/actions/workflow/status/TheAlgorithms/JavaScript/Ci.yml?branch=master&label=checks
+[grade]: https://img.shields.io/lgtm/grade/javascript/g/TheAlgorithms/JavaScript.svg?logo=lgtm&logoWidth=18
 
 <!-- External Links -->
 [standard-js]: https://standardjs.com/
@@ -56,6 +55,4 @@ many of the algorithms can be found in the [wiki][explanation].
 [actions]: https://github.com/TheAlgorithms/JavaScript/actions
 [explanation]: https://github.com/TheAlgorithms/JavaScript/wiki
 [repositories]: https://github.com/orgs/TheAlgorithms/repositories
-[lgtm]: https://lgtm.com/projects/g/TheAlgorithms/Javascript/context:javascript
 [help-wanted]: https://github.com/TheAlgorithms/JavaScript/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22
-
