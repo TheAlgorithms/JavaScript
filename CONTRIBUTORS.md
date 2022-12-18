@@ -214,3 +214,5 @@
 -[@hld3](https://github.com/hld3/)
 
 -[@Rmurrietalopez](https://github.com/Rmurrietalopez)
+
+-[@soymilk1006](https://github.com/Soymilk1006/)
