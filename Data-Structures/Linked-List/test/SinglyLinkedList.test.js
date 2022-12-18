@@ -247,4 +247,10 @@ describe('SinglyLinkedList', () => {
     headNode.rotateListRight(5)
     expect(headNode.get()).toEqual([20, 30, 40, 50, 10])
   })
+
+  it('Reverse a Linked List', () => {
+    const list = new LinkedList([4, 3, 1])
+    list.reverse()
+    expect(list.get()).toEqual([1, 3, 4])
+  })
 })

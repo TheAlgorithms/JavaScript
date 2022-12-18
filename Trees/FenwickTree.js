@@ -1,7 +1,7 @@
 /*
  * Author: Mohit Kumar
- * Fedwick Tree Implementation in JavaScript
- * Fedwick Tree Implementation for finding prefix sum.
+ * Fenwick Tree Implementation in JavaScript
+ * Fenwick Tree Implementation for finding prefix sum.
 */
 
 class FenwickTree {

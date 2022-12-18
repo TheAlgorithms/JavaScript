@@ -4,7 +4,8 @@
   "type": "module",
   "description": "A repository for All algorithms implemented in Javascript (for educational purposes only)",
   "scripts": {
-    "test": "jest --no-cache",
+    "test": "jest",
+    "test-changed": "jest --onlyChanged",
     "style": "standard",
     "prepare": "husky install"
   },
