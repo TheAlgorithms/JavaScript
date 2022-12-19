@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@DanielMartinGit](https://github.com/DanielMartinGit)
+
 - [@ProsperousHeart](https://github.com/ProsperousHeart)
 
 - [@AlainDlcTVOP](https://github.com/AlainDlcTVOP)
