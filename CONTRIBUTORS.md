@@ -228,3 +228,5 @@
 -[OfficialKee](https://github.com/OfficialKee)
 
 -[@scottskinn](https://github.com/scottskinn)
+
+-[@seanarch](https://github.com/seanarch)
