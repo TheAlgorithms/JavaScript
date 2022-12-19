@@ -29,3 +29,10 @@ body:
       description: If possible, describes possible workarounds to this feature.
     validations:
       required: false
+  - type: textarea
+    id: extra_information
+    attributes:
+      label: Additional information
+      description: Is there anything else we should know about this feature request?
+    validations:
+      required: false

@@ -39,3 +39,10 @@ body:
         4.
     validations:
       required: false
+  - type: textarea
+    id: extra_information
+    attributes:
+      label: Additional information
+      description: Is there anything else we should know about this bug report?
+    validations:
+      required: false
