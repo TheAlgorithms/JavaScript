@@ -264,3 +264,5 @@
 -[JDevelopss](https://github.com/JDevelopss)
 
 -[@rayfield5000](https://github.com/rayfield5000)
+
+- [artursniegowski](https://github.com/artursniegowski)
