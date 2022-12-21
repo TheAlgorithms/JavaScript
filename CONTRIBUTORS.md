@@ -266,3 +266,5 @@
 -[@rayfield5000](https://github.com/rayfield5000)
 
 - [artursniegowski](https://github.com/artursniegowski)
+
+- [@Strela196](https://github.com/Strela196)
