@@ -2,6 +2,8 @@
 
 - [@DanielMartinGit](https://github.com/DanielMartinGit)
 
+- [@brandonHafley](https://github.com/brandonHafley)
+
 - [@ProsperousHeart](https://github.com/ProsperousHeart)
 
 - [@AlainDlcTVOP](https://github.com/AlainDlcTVOP)
