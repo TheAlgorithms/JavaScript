@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@marustas](https://github.com/marustas)
+
 - [@DanielMartinGit](https://github.com/DanielMartinGit)
 
 - [@brandonHafley](https://github.com/brandonHafley)
