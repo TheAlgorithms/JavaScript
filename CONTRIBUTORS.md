@@ -324,3 +324,7 @@
 - [@dragonstar41](https://github.com/dragonstar41)
 
 - [@Chiranjeev-Kartik](https://github.com/Chiranjeev-Kartik)
+
+-[@@Sayed-Afnan-Khazi](https://github.com/Sayed-Afnan-Khazi)
+
+-[@preathi](https://github.com/preathi)
