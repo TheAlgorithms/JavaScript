@@ -322,3 +322,5 @@
 -[@amodeusr](https://github.com/amodeusr)
 
 - [@dragonstar41](https://github.com/dragonstar41)
+
+-[@@Sayed-Afnan-Khazi](https://github.com/Sayed-Afnan-Khazi)
