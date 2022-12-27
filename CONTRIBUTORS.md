@@ -351,4 +351,4 @@
 
 -[@OnrHng](https://github.com/OnrHng)
 
--[@EdouardVW] (https://github.com/EdouardVW)
+-[@EdouardVW](https://github.com/EdouardVW)
