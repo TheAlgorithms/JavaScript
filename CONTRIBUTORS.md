@@ -354,3 +354,5 @@
 -[@EdouardVW](https://github.com/EdouardVW)
 
 -[@MartinBurton](https://github.com/MartinBurton)
+
+-[@danzalone5](https://github.com/danzalone5)
