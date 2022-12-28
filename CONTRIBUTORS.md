@@ -367,4 +367,10 @@
 
 -[@Jags20](https://github.com/Jags20)
 
+-[@sandeepgaur98223](https://github.com/sandeepgaur98223)
+
+-[@Sameer93A](https://github.com/Sameer93A)
+
+-[@Jamesmaster3](https://github.com/Jamesmaster3)
+
 -[@vijayarun00100](https://github.com/vijayarun00100)
