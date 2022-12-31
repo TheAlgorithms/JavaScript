@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@ekramasif](https://github.com/ekramasif)
+
 - [@marustas](https://github.com/marustas)
 
 - [@DanielMartinGit](https://github.com/DanielMartinGit)
@@ -338,8 +340,75 @@
 -[@andrzejmax1](https://github.com/andrzejmax1)
 
 -[@neerajnishad5](https://github.com/neerajnishad5)
+
 -[@rashidjama](https://github.com/rashidjama)
 
 -[@roberto315](https://github.com/Roberto315/)
 
 -[@amos-pun](https://github.com/amos-pun)
+
+- [@dakshith-u-2013](https://github.com/dakshith-u-2013)
+
+-[@pseidu](https://github.com/pseidu)
+
+-[@Sid-bit28](https://github.com/Sid-bit28)
+
+-[@CodeLeom](https://github.com/CodeLeom)
+
+-[@OnrHng](https://github.com/OnrHng)
+
+-[@EdouardVW](https://github.com/EdouardVW)
+
+-[@MartinBurton](https://github.com/MartinBurton)
+
+-[@danzalone5](https://github.com/danzalone5)
+
+-[@coyo11](https://github.com/coyo11)
+
+-[@bnc1338](https://github.com/bnc1338)
+
+-[@niconomist98](https://github.com/niconomist98)
+
+-[@onurtaskirancom](https://github.com/onurtaskirancom)
+
+-[@Jags20](https://github.com/Jags20)
+
+-[@sandeepgaur98223](https://github.com/sandeepgaur98223)
+
+-[@Sameer93A](https://github.com/Sameer93A)
+
+-[@Jamesmaster3](https://github.com/Jamesmaster3)
+
+-[@vijayarun00100](https://github.com/vijayarun00100)
+
+-[@enzoarguello512](https://github.com/enzoarguello512)
+
+-[@awetjemal](https://github.com/awetjemal)
+
+-[@AlbertaLynnBrubaker](https://github.com/AlbertaLynnBrubaker)
+
+-[@SakibAlEmran](https://github.com/SakibAlEmran)
+
+-[@imran-khan101](https://github.com/imran-khan101)
+
+-[@willianac](https://github.com/willianac)
+
+-[@0xZonaV](https://github.com/0xZonaV)
+
+-[@Abhii-Agarwal09](https://github.com/Abhii-Agarwal09)
+
+-[@kamalustech](https://github.com/kamalustech)
+
+-[@jasonjamesmoore](https://github.com/jasonjamesmoore)
+
+-[@asishbhandari](https://github.com/asishbhandari)
+
+-[@easianyu](https://github.com/easianyu)
+
+-[@Akshay9705](https://github.com/Akshay9705)
+
+-[@Chinyere-nwalie](https://github.com/Chinyere-nwalie)
+
+-[@PeshwariNaan](https://github.com/PeshwariNaan)
+
+-[@djaferimehmed](https://github.com/djaferimehmed)
