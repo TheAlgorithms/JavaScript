@@ -2,7 +2,7 @@
 
 - [@ekramasif](https://github.com/ekramasif)
 
-[@ekramasif](https://github.com/parvej2001)
+-[@ekramasif](https://github.com/parvej2001)
 
 - [@marustas](https://github.com/marustas)
 
