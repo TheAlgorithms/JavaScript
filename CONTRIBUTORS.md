@@ -432,3 +432,5 @@
 -[@chrishenr](https://github.com/chrishenr/)
 
 -[@johnnys7n](https://github.com/johnnys7n)
+
+-[@abarthe](https://github.com/abarthe)
