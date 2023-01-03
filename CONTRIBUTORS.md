@@ -1,6 +1,7 @@
 # CONTRIBUTORS
 
 - [@joancodes] (https://github.com/joancodes)
+- [@fabioauroradev](https://github.com/FabioAurora)
 
 - [@ekramasif](https://github.com/ekramasif)
 
