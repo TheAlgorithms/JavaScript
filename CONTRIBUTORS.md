@@ -483,3 +483,4 @@
 -[@Israq](https://github.com/Israq)
 
 -[@sarthakkimtani](https://github.com/sarthakkimtani)
+-[@Sid-Varangaonkar](https://github.com/Sid-Varangaonkar)
