@@ -477,3 +477,5 @@
 -[@f1v3-dev](https://github.com/f1v3-dev)
 
 -[@nostalgiccat](https://github.com/nostalgiccat)
+
+-[@terrence-gonsalves](https://github.com/terrence-gonsalves)
