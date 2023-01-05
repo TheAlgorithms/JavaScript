@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@belaid-dali] (<https://github.com/belaid-dali>)
+
 - [@joancodes] (https://github.com/joancodes)
 - [@fabioauroradev](https://github.com/FabioAurora)
 
