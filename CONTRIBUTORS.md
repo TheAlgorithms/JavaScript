@@ -1,6 +1,11 @@
 # CONTRIBUTORS
 
+- [@joancodes] (https://github.com/joancodes)
+- [@fabioauroradev](https://github.com/FabioAurora)
+
 - [@ekramasif](https://github.com/ekramasif)
+
+-[@ekramasif](https://github.com/parvej2001)
 
 - [@marustas](https://github.com/marustas)
 
@@ -273,6 +278,8 @@
 
 -[@rgreenfield](https://github.com/rgreenfield)
 
+-[@devKuntal](https://github.com/devKuntal)
+
 -[JDevelopss](https://github.com/JDevelopss)
 
 -[@rayfield5000](https://github.com/rayfield5000)
@@ -412,3 +419,73 @@
 -[@PeshwariNaan](https://github.com/PeshwariNaan)
 
 -[@djaferimehmed](https://github.com/djaferimehmed)
+
+-[@Sudarshan-Parthasarathy](https://github.com/Sudarshan-Parthasarathy)
+
+-[@brudevtek](https://github.com/brudevtek/)
+
+-[@Kennshen](https://github.com/Kennshen)
+
+-[@Nate-0hz](https://github.com/nate-0hz)
+
+-[@Ashiqurrah](https://github.com/AshiqurRah)
+
+-[@MohammadRezaAalaei](https://github.com/MohammadRezaAalaei)
+
+-[@martincorona007](https://github.com/martincorona007)
+
+-[@TingJun311](https://github.com/TingJun311)
+
+-[@ChalresBryan](https://github.com/ChalresBryan)
+
+-[@chrishenr](https://github.com/chrishenr/)
+
+-[@johnnys7n](https://github.com/johnnys7n)
+
+-[@abarthe](https://github.com/abarthe)
+
+-[@JulVil](https://github.com/JulVil)
+
+-[@Sidarth999](https://github.com/Sidarth999)
+
+-[@VeronicaVB](https://github.com/VeronicaVB)
+
+-[@aslamdoctor](https://github.com/aslamdoctor)
+
+-[@neocyber](https://github.com/neocyber)
+
+- [@Wilken311](https://github.com/wilken311)
+
+-[@Nishiramirai](https://github.com/Nishiramirai)
+
+- [@Beerens20](https:////github.com/beerens20)
+
+-[@dbastos1](https://github.com/dbastos1)
+
+-[@EHFuentes](https://github.com/EHFuentes)
+
+-[@Mahir118](https://github.com/mahir118)
+
+-[@ioapap](https://github.com/ioapap)
+
+-[@JJ-practice](https://github.com/JJ-practice)
+
+-[@pranavpathak08](https://github.com/pranavpathak08)
+
+-[@pavanbaloju] (https://github.com/pavanbaloju)
+
+-[@azanonchis](https://github.com/azanonchis)
+
+-[@obadiahdesigns](https://github.com/obadiahdesigns)
+
+-[@f1v3-dev](https://github.com/f1v3-dev)
+
+-[@nostalgiccat](https://github.com/nostalgiccat)
+
+-[@terrence-gonsalves](https://github.com/terrence-gonsalves)
+
+-[@Israq](https://github.com/Israq)
+
+-[@sarthakkimtani](https://github.com/sarthakkimtani)
+
+-[@Sid-Varangaonkar](https://github.com/Sid-Varangaonkar)
