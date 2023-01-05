@@ -472,4 +472,20 @@
 
 -[@azanonchis](https://github.com/azanonchis)
 
+-[@obadiahdesigns](https://github.com/obadiahdesigns)
+
+-[@f1v3-dev](https://github.com/f1v3-dev)
+
+-[@nostalgiccat](https://github.com/nostalgiccat)
+
+-[@terrence-gonsalves](https://github.com/terrence-gonsalves)
+
+-[@Israq](https://github.com/Israq)
+
+-[@sarthakkimtani](https://github.com/sarthakkimtani)
+
+-[@Sid-Varangaonkar](https://github.com/Sid-Varangaonkar)
+
+-[@Pablobarrerae](https://github.com/Pablobarrerae)
+
 - [@THoj13](https://github.com/THoj13)
