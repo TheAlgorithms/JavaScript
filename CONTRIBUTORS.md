@@ -508,4 +508,6 @@
 
 -[@jaydww](https://github.com/jaydww/)
 
+-[@alexfedorov86](https://github.com/alexfedorov86/)
+
 -[@DigitalSpice](https://github.com/DigitalSpice)
