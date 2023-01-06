@@ -496,12 +496,10 @@
 
 - [@SaiAungMinKhant](https://github.com/SaiAungMinKhant)
 
-<<<<<<< HEAD
--[@TimothyTanKW](https://github.com/TimothyTanKW/)
-=======
 - [@iAmSella](https://github.com/iAmSella)
 
 - [@dtietje](https://github.com/dtietje)
 
 - [@mtpeir](https://github.com/mtpeir)
->>>>>>> f8bf1024c3810b21cc34ea16ece63db92da59b33
+
+-[@TimothyTanKW](https://github.com/TimothyTanKW)
