@@ -534,3 +534,5 @@
 -[@lizbethdimonti](https://github.com/lizbethdimonti)
 
 -[@highvibez](https://github.com/highvibez)
+
+-[@FaresLab](https://github.com/Fareslab)
