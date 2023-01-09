@@ -552,3 +552,5 @@
 -[@the-barold](https://github.com/the-barold)
 
 -[@Dromediansk](https://github.com/Dromediansk)
+
+-[@konrad88k](https://github.com/konrad88k)
