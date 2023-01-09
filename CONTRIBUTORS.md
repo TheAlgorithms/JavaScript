@@ -548,3 +548,5 @@
 -[@cs2sandeep](https://github.com/cs2sandeep)
 
 -[@jclem28](https://github.com/jclem28)
+
+-[@the-barold](https://github.com/the-barold)
