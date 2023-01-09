@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@jalonghurst] (https://github.com/jalonghurst)
+
 - [@belaid-dali] (<https://github.com/belaid-dali>)
 
 - [@joancodes] (https://github.com/joancodes)
