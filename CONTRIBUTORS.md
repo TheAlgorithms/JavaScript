@@ -570,4 +570,3 @@
 
 -[@wpellas](https://github.com/wpellas)
 
--[@maornetzeR](https://github.com/maornetzeR/start-here-guidelines.git)
