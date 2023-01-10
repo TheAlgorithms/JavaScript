@@ -568,6 +568,8 @@
 - [@vicperdana](https://github.com/vicperdana)
 - [@SaraLocalGit](https://github.com/SaraLocalGit)
 
+-[@yokego](https://github.com/yokego)
+
 -[@wpellas](https://github.com/wpellas)
 
 -[@maornetzeR](https://github.com/maornetzeR/start-here-guidelines.git)
