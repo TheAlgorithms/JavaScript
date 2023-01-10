@@ -559,7 +559,21 @@
 
 -[@gwilldan](https://github.com/gwilldan)
 
-
 -[@Lailatef](https://github.com/Lailatef)
 
+-[@abdulkhaliq-cyber](https://github.com/abdulkhaliq-cyber/)
+
+-[@dominhiram00](https://github.com/dominhiram00/)
+
+-[@Shubham14-02](https://github.com/Shubham14-02/)
+
+-[@vicperdana](https://github.com/vicperdana)
+
+-[@SaraLocalGit](https://github.com/SaraLocalGit)
+
+-[@yokego](https://github.com/yokego)
+
+-[@wpellas](https://github.com/wpellas)
+
+-[@maornetzeR](https://github.com/maornetzeR/start-here-guidelines.git)
 
