@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@jalonghurst] (https://github.com/jalonghurst)
+
 - [@belaid-dali] (<https://github.com/belaid-dali>)
 
 - [@joancodes] (https://github.com/joancodes)
@@ -482,3 +484,90 @@
 - [@THoj13](https://github.com/THoj13)
 
 - [@korbal](https://github.com/korbal)
+
+- [@roshan798](https://github.com/roshan798)
+
+- [@SaiAungMinKhant](https://github.com/SaiAungMinKhant)
+
+- [@iAmSella](https://github.com/iAmSella)
+
+- [@dtietje](https://github.com/dtietje)
+
+- [@mtpeir](https://github.com/mtpeir)
+
+-[@TimothyTanKW](https://github.com/TimothyTanKW)
+
+-[@jiten1711](https://github.com/jiten1711/)
+
+-[@jaydww](https://github.com/jaydww/)
+
+-[@alexfedorov86](https://github.com/alexfedorov86/)
+
+-[@DigitalSpice](https://github.com/DigitalSpice)
+
+- [@frhel](https://github.com/frhel/)
+
+-[@Emi13ach](https://github.com/Emi13ach/)
+
+-[@Sebadm20](https://github.com/Sebadm20)
+
+-[@aandoney](https://github.com/aandoney)
+
+-[@arpadikuma](https://github.com/arpadikuma)
+
+-[@ThanvirXo](https://github.com/ThanvirXo)
+-[@hemangkrish7](https://github.com/hemangkrish7)
+
+-[@MamounAttaallah](https://github.com/MamounAttaallah)
+
+-[@masonsinner](https://github.com/masonsinner)
+
+-[@papacuerpo](https://github.com/papacuerpo)
+
+-[@lizbethdimonti](https://github.com/lizbethdimonti)
+
+-[@highvibez](https://github.com/highvibez)
+
+-[@FaresLab](https://github.com/Fareslab)
+
+-[@MaierMihai90](https://github.com/MaierMihai90)
+
+-[@ThePiyushAggarwal](https://github.com/ThePiyushAggarwal)
+
+-[@COPY0096](https://github.com/COPY0096)
+
+-[@pchawin40](https://github.com/pchawin40)
+
+-[@cs2sandeep](https://github.com/cs2sandeep)
+
+-[@jclem28](https://github.com/jclem28)
+
+-[@the-barold](https://github.com/the-barold)
+
+-[@Dromediansk](https://github.com/Dromediansk)
+
+-[@konrad88k](https://github.com/konrad88k)
+
+-[@gwilldan](https://github.com/gwilldan)
+
+-[@Lailatef](https://github.com/Lailatef)
+
+-[@abdulkhaliq-cyber](https://github.com/abdulkhaliq-cyber/)
+
+-[@dominhiram00](https://github.com/dominhiram00/)
+
+-[@Shubham14-02](https://github.com/Shubham14-02/)
+
+-[@vicperdana](https://github.com/vicperdana)
+
+-[@SaraLocalGit](https://github.com/SaraLocalGit)
+
+-[@yokego](https://github.com/yokego)
+
+-[@wpellas](https://github.com/wpellas)
+
+-[@maornetzeR](https://github.com/maornetzeR/start-here-guidelines.git)
+
+-[@marcushoang888](https://github.com/marcushoang888)
+
+[@pwnaxe](https://github.com/pwnaxe)
