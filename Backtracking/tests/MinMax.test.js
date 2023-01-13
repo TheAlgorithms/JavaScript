@@ -4,13 +4,13 @@ describe('MinMax', () => {
   it('should return 65 for MinMax([90, 23, 6, 33, 21, 65, 123, 34423],0,0,true)', () => {
     const _newMinMax = new MinMax([90, 23, 6, 33, 21, 65, 123, 34423], 0, 0, true)
     _newMinMax.get_ans()
-    expect(_newMinMax.ans).toEqual(65)
+    expect(_newMinMax.answer).toEqual(65)
   })
 
   it('should return 12 for MinMax([3, 5, 2, 9, 12, 5, 23, 23],0,0,true)', () => {
     const _newMinMax = new MinMax([3, 5, 2, 9, 12, 5, 23, 23], 0, 0, true)
     _newMinMax.get_ans()
-    expect(_newMinMax.ans).toEqual(12)
+    expect(_newMinMax.answer).toEqual(12)
   })
 
   it('should throw RangeError for empty Board', () => {

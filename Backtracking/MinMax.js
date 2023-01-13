@@ -46,7 +46,7 @@ class MinMax {
     this.depth = depth
     this.nodeIndex = nodeIndex
     this.isMax = isMax
-    this.ans = -1
+    this.answer = -1
   }
 
   solve (depth, nodeIndex, isMax, scores, height) {
@@ -68,7 +68,7 @@ class MinMax {
   }
 
   get_ans () {
-    this.ans = this.solve(
+    this.answer = this.solve(
       this.depth,
       this.nodeIndex,
       this.isMax,
