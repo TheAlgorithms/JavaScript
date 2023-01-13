@@ -1,7 +1,7 @@
 /*
  *
  *  Min Max problem
- *
+ *  See https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-1-introduction/
  *  Min Max problem is a problem where we need to find the maximum score of an event by comparing all * *  possible moves in the game
  *
  */
