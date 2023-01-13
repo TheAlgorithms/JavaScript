@@ -24,7 +24,7 @@ const alphaNumericPalindrome = (str) => {
   const midIndex = newStr.length >> 1 // x >> y = floor(x / 2^y)
 
   for (let i = 0; i < midIndex; i++) {
-    if (newStr.at(i) !== newStr.at(~i) { // ~n = -(n + 1)
+    if (newStr.at(i) !== newStr.at(~i)) { // ~n = -(n + 1)
       return false
     }
   }
