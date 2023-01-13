@@ -81,6 +81,6 @@ class MinMax {
 // MinMax(scores, depth, nodeindex, ismax)
 // const _newMinMax = new MinMax([90, 23, 6, 33, 21, 65, 123, 34423],0,0,true)
 // _newMinMax.get_ans()
-// console.log(_newMinMax.ans);
+// console.log(_newMinMax.answer);
 
 export { MinMax }
