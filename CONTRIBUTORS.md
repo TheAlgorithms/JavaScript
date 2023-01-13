@@ -13,6 +13,8 @@
 
 - [@marustas](https://github.com/marustas)
 
+- [@Shreyasuthar](https://github.com/shreyasuthar655)
+
 - [@DanielMartinGit](https://github.com/DanielMartinGit)
 
 - [@brandonHafley](https://github.com/brandonHafley)
