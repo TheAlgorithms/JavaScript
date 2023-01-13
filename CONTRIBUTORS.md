@@ -602,3 +602,5 @@
 -[@mathews123](https://github.com/mathews123)
 
 -[@mukulbamn](https://github.com/mukulbamn)
+
+-[@duzalte0705](https://github.com/duzalte0705devtech)
