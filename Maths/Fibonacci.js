@@ -41,7 +41,7 @@ const FibonacciRecursive = (num) => {
       case num + 1:
         return list
       default:
-        list.push(list.at(-1) + list.at(-2))
+        list.push(list[list.length - 1] + list[list.length - 2])
         return FibonacciRecursive(num)
     }
   })().map((fib, i) => fib * (isNeg ? (-1) ** (i + 1) : 1))
