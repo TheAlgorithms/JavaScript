@@ -74,7 +74,7 @@ We don't care if you break things. This is a playground, and we encourage failin
 
 10. Go to the GitHub page of _your fork_, and make a pull request:
 
-    ![pull request image](https://help.github.com/assets/images/help/pull_requests/choose-base-and-compare-branches.png)
+    ![pull request image]()
 
     Read more about pull requests on the [GitHub help pages](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
