@@ -12,7 +12,7 @@
 //     this.height is maximum this.height of Game tree
 
 //     depth is current depth in game tree.
-//     node_index is index of current node in scores[].
+//     nodeIndex is index of current node in scores[].
 //     scores[] contains the leaves of game tree.
 //     this.height is maximum this.height of game tree.
 
@@ -34,7 +34,7 @@
 //     12
 
 class MinMax {
-  constructor (scores, depth, node_index, is_max) {
+  constructor (scores, depth, nodeIndex, isMax) {
     if (scores.length === 0) {
       throw RangeError('Scores cannot be empty')
     }
@@ -44,34 +44,34 @@ class MinMax {
     this.scores = scores
     this.height = Math.log2(scores.length)
     this.depth = depth
-    this.node_index = node_index
-    this.is_max = is_max
+    this.nodeIndex = nodeIndex
+    this.isMax = isMax
     this.ans = -1
   }
 
-  solve (depth, node_index, is_max, scores, height) {
-    if (depth == height) {
-      return scores[node_index]
+  solve (depth, nodeIndex, isMax, scores, height) {
+    if (depth === height) {
+      return scores[nodeIndex]
     }
 
-    if (is_max) {
+    if (isMax) {
       return Math.max(
-        this.solve(depth + 1, node_index * 2, false, scores, height),
-        this.solve(depth + 1, node_index * 2 + 1, false, scores, height)
+        this.solve(depth + 1, nodeIndex * 2, false, scores, height),
+        this.solve(depth + 1, nodeIndex * 2 + 1, false, scores, height)
       )
     }
 
     return Math.min(
-      this.solve(depth + 1, node_index * 2, true, scores, height),
-      this.solve(depth + 1, node_index * 2 + 1, true, scores, height)
+      this.solve(depth + 1, nodeIndex * 2, true, scores, height),
+      this.solve(depth + 1, nodeIndex * 2 + 1, true, scores, height)
     )
   }
 
   get_ans () {
     this.ans = this.solve(
       this.depth,
-      this.node_index,
-      this.is_max,
+      this.nodeIndex,
+      this.isMax,
       this.scores,
       this.height
     )
