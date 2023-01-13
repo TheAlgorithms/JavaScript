@@ -617,3 +617,6 @@
 
 -[@ultros](https://github.com/ultros)
 
+-[@traveler-pinkie](https://github.com/traveler-pinkie)
+
+-[@thekalpeshchoudhary](https://github.com/thekalpeshchoudhary)
