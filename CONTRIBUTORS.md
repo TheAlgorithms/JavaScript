@@ -368,6 +368,8 @@
 
 -[@EdouardVW](https://github.com/EdouardVW)
 
+-[Vaishnavi Swarnoj](https://github.com/Vaishu03)
+
 -[@MartinBurton](https://github.com/MartinBurton)
 
 -[@danzalone5](https://github.com/danzalone5)
