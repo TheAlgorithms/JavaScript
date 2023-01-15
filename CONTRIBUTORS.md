@@ -657,4 +657,4 @@
 - [@sonukuldeep](https://github.com/sonukuldeep)
 
 - [@JessVimm] (https://github.com/JessVimm)
-- [@krisplusmagger] (https://github.com/krisplusmagger)
+- [@krisplusmagger](https://github.com/krisplusmagger)
