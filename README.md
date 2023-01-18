@@ -41,7 +41,7 @@ We don't care if you break things. This is a playground, and we encourage failin
     git pull upstream master
     ```
 
-    If you run into a **merge conflict**, you have to resolve the conflict. There are a lot of guides online, or you can try this one by [opensource.com](https://opensource.com/article/20/4/git-merge-conflict).
+    If you run into a **merge conflict**, you have to resolve the conflict. There are a lot of guides online, or you can [watch this tutorial](https://www.youtube.com/watch?v=9ZRb01WhuoE&list=PL2HX_yT71umC0SWrtpzaXt0QzwhWyNI4c&index=4).
 
 6. After adding the upstream and checking that all files are up to date, we now will create new branch before editing any files. There are two ways to do so:
 
@@ -55,7 +55,7 @@ We don't care if you break things. This is a playground, and we encourage failin
     ```
 
 
-7. On your computer, open your text editor, and add your name to the `CONTRIBUTORS.md` file.
+7. On your computer, open your text editor, and add your name to the `CONTRIBUTORS.md` file. **IMPORTANT:** add your name somehwere in the middle. Not at the top or bottom in order to avoid the chance of you getting a [merge conflict](https://www.youtube.com/watch?v=9ZRb01WhuoE&list=PL2HX_yT71umC0SWrtpzaXt0QzwhWyNI4c&index=4)!
 
 8. Add the changes with `git add`, `git commit` ([write a good commit message](https://chris.beams.io/posts/git-commit/), if possible):
 
