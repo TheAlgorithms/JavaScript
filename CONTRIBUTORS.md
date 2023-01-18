@@ -6450,6 +6450,7 @@
 
 - [@josewebdev2000](https://github.com/josewebdev2000)
 
+-[@q-rault](https://github.com/q-rault) -[@leul1212] (https://github.com/leul1212) -[@Radiostranger](https://github.com/Radiostranger)
 
 - [@andriel300](https://github.com/andriel300)
 
@@ -6459,6 +6460,8 @@
 - [@MartimMadaleno](https://github.com/MartimMadaleno)
 
 - [@Alena909](https://github.com/Alena909)
+
+-[@dkembre](https://github.com/dkembre) -[@pinatic](https://github.com/Pinatic79)
 
 - [@sadique009](https://github.com/sadique009/)
 
@@ -6483,9 +6486,22 @@
 
 - [prerakpanwar](https://github.com/prerakpanwar)
 
+
+-[@behappyleee](https://github.com/behappyleee) -[@ShubhamSKadam](https://github.com/ShubhamSKadam)
+
 -[@chakib33](https://github.com/chakib33) -[@ihouwat](https://github.com/ihouwat) -[@Karim-Daouas](https://github.com/Karim-Daouas)
 
 -[@Phanix](https://github.com/Phanix) -[@MarcoM0404](https://github.com/MarcoM0404)
+
+-[@chakib33](https://github.com/chakib33) -[@ihouwat](https://github.com/ihouwat) -[@Karim-Daouas](https://github.com/Karim-Daouas)
+
+-[@Phanix](https://github.com/Phanix) -[@MarcoM0404](https://github.com/MarcoM0404)
+
+-[@hakedo](https://github.com/hakedo) -[@anubhav-negi](https://github.com/starlove54)s
+
+-[@Kindevral](https://github.com/Kindevral) -[@RoxanaAnamariaTurc](https://github.com/RoxanaAnamariaTurc)
+
+-[@kylegothman](https://github.com/kylegothman) -[@Imadinglefritz](https://github.com/Imadinglefritz)
 
 -[@hakedo](https://github.com/hakedo) -[@anubhav-negi](https://github.com/starlove54)s
 
@@ -6824,7 +6840,9 @@
 
 -[@andrzejmax1](https://github.com/andrzejmax1)
 
--[@neerajnishad5](https://github.com/neerajnishad5) -[@rashidjama](https://github.com/rashidjama)
+-[@neerajnishad5](https://github.com/neerajnishad5) 
+
+-[@rashidjama](https://github.com/rashidjama)
 
 -[@neerajnishad5](https://github.com/neerajnishad5) 
 
@@ -7012,8 +7030,13 @@
 
 -[@arpadikuma](https://github.com/arpadikuma)
 
+-[@ThanvirXo](https://github.com/ThanvirXo) 
 
--[@ThanvirXo](https://github.com/ThanvirXo) -[@hemangkrish7](https://github.com/hemangkrish7)
+-[@hemangkrish7](https://github.com/hemangkrish7)
+
+-[@ThanvirXo](https://github.com/ThanvirXo) 
+
+-[@hemangkrish7](https://github.com/hemangkrish7)
 
 -[@ThanvirXo](https://github.com/ThanvirXo)
 
@@ -7055,6 +7078,8 @@
 -[@konrad88k](https://github.com/konrad88k)
 
 -[@gwilldan](https://github.com/gwilldan)
+
+-[@PatrykZimnowoda](https://github.com/PatrykZimnowoda)
 
 -[@FLIPPSA](https://github.com/FLIPPSA)
 
