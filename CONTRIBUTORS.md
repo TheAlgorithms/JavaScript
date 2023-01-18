@@ -7150,4 +7150,8 @@
 
 -[@ARSL22](https://github.com/ARSL22)
 
+-[@jaydww](https://github.com/jaydww/)
+
+-[@nsoroush](https://github.com/nsoroush/)
+
 -[@SebDoesCode](https://github.com/SebDoesCode)
