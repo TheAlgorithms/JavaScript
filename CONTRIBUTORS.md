@@ -7101,6 +7101,8 @@
 
 -[@maornetzeR](https://github.com/maornetzeR/start-here-guidelines.git)
 
+-[@Bozpup](https://github.com/Bozpup)
+
 -[@marcushoang888](https://github.com/marcushoang888)
 
 [@pwnaxe](https://github.com/pwnaxe)
