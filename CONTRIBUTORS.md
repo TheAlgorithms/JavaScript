@@ -6549,6 +6549,8 @@
 
 -[@q-rault](https://github.com/q-rault) -[@leul1212] (https://github.com/leul1212) -[@Radiostranger](https://github.com/Radiostranger)
 
+-[@q-rault](https://github.com/q-rault) -[@leul1212] (https://github.com/leul1212) -[@Radiostranger](https://github.com/Radiostranger)
+
 - [@cadumrod](https://github.com/cadumrod)
 
 - [@Matthew-Makepeace](https://github.com/Matthew-Makepeace)
@@ -6584,9 +6586,21 @@
 
 -[@muvonglao](https://github.com/muvonglao/)
 
+-[@behappyleee](https://github.com/behappyleee) -[@ShubhamSKadam](https://github.com/ShubhamSKadam)
+
 -[@natcat38](https://github.com/natcat38)
 
 -[@behappyleee](https://github.com/behappyleee) -[@ShubhamSKadam](https://github.com/ShubhamSKadam)
+
+-[@chakib33](https://github.com/chakib33) -[@ihouwat](https://github.com/ihouwat) -[@Karim-Daouas](https://github.com/Karim-Daouas)
+
+-[@Phanix](https://github.com/Phanix) -[@MarcoM0404](https://github.com/MarcoM0404)
+
+-[@hakedo](https://github.com/hakedo) -[@anubhav-negi](https://github.com/starlove54)s
+
+-[@Kindevral](https://github.com/Kindevral) -[@RoxanaAnamariaTurc](https://github.com/RoxanaAnamariaTurc)
+
+-[@kylegothman](https://github.com/kylegothman) -[@Imadinglefritz](https://github.com/Imadinglefritz)
 
 -[@GKurtanidze1999](https://github.com/GKurtanidze1999)
 
@@ -6872,7 +6886,9 @@
 
 -[@andrzejmax1](https://github.com/andrzejmax1)
 
--[@neerajnishad5](https://github.com/neerajnishad5) -[@rashidjama](https://github.com/rashidjama)
+-[@neerajnishad5](https://github.com/neerajnishad5) 
+
+-[@rashidjama](https://github.com/rashidjama)
 
 -[@neerajnishad5](https://github.com/neerajnishad5) 
 
@@ -7080,6 +7096,10 @@
 
 -[@hemangkrish7](https://github.com/hemangkrish7)
 
+-[@ThanvirXo](https://github.com/ThanvirXo) 
+
+-[@hemangkrish7](https://github.com/hemangkrish7)
+
 -[@ThanvirXo](https://github.com/ThanvirXo)
 
 -[@hemangkrish7](https://github.com/hemangkrish7)
@@ -7107,6 +7127,8 @@
 -[@COPY0096](https://github.com/COPY0096)
 
 -[@pchawin40](https://github.com/pchawin40)
+
+-[@shielddesign](https://github.com/shielddesign)
 
 -[@cs2sandeep](https://github.com/cs2sandeep)
 
