@@ -33,7 +33,8 @@
 
 - [@spiderxp3](https://github.com/spiderxp3)
 
-- [@jsh0512](https://github.com/jsh0512)
+- [@jsh0512](https://github.com/jsh0512)- 
+
 
 - [@tharrry](https://github.com/tharrry)
 
@@ -7115,3 +7116,7 @@
 -[@rizamoyi](https://github.com/rizamoyi)
 
 -[@ghintema](https://github.com/ghintema)
+
+-[@Akshay251](https://github.com/Akshay251)
+
+-[@DevWalidHasan](https://github.com/DevWalidHasan)
