@@ -55,7 +55,13 @@ We don't care if you break things. This is a playground, and we encourage failin
     ```
 
 
-7. On your computer, open your text editor, and add your name to the `CONTRIBUTORS.md` file.
+7. On your computer, open your text editor, and add your name to the [CONTRIBUTORS.md](CONTRIBUTORS.md) file.
+   > **Note:** For tidier and nicer looks, let's follow this syntax to guide you adding your name.
+    > - Add your name in the following format: `- [@<your-github-username>](https://github.com/<your-github-url>)`
+    > - For example: `- [@john-smile](https://github.com/john-smile)`
+    > - Please note that it is important to ***add a space*** between `-` and `[`
+    > and ***no space*** between `]` and `(`
+    > - If you need more guidance on how to write `Markdown`, please [check this out](https://guides.github.com/features/mastering-markdown/)
 
 8. Add the changes with `git add`, `git commit` ([write a good commit message](https://chris.beams.io/posts/git-commit/), if possible):
 
@@ -66,7 +72,7 @@ We don't care if you break things. This is a playground, and we encourage failin
 
     **Replace \<your-github-username\>!**
 
-9. Push your changes _to your repository_:
+9.  Push your changes _to your repository_:
 
     ```bash
     git push origin <branch-name>
