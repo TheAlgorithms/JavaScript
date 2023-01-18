@@ -1,9 +1,5 @@
 # CONTRIBUTORS
 
-- [@jalonghurst] (https://github.com/jalonghurst)
-
-- [@belaid-dali] (<https://github.com/belaid-dali>)
-
 - [@joancodes] (https://github.com/joancodes)
 
 - [@fabioauroradev](https://github.com/FabioAurora)
@@ -6979,6 +6975,8 @@
 -[@Nishiramirai](https://github.com/Nishiramirai)
 
 - [@Beerens20](https:////github.com/beerens20)
+
+- [@Rezz066](https://github.com/Rezz066)
 
 -[@dbastos1](https://github.com/dbastos1)
 
