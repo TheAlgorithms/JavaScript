@@ -54,6 +54,8 @@
 
 -[@awerner5413](https://github.com/awerner5413)
 
+-[@jlarsen0206](https://github.com/jlarsen0206)
+
 -[@mikerobards](https://github.com/mikerobards)
 
 -[@phenoxp](https://github.com/phenoxp)
@@ -7035,4 +7037,35 @@
 
 -[@jhnh198](https://github.com/jhnh198)
 
+
 -[@azammustafa66](https://github.com/azammustafa66/)
+
+-[@azammustafa66](https://github.com/azammustafa66/)
+
+-[@AbdifatahYasin1](https://github.com/AbdifatahYasin1)
+
+-[@AndresOrdonez](https://github.com/AndresOrdonez)
+
+-[@FZZahir] (https://github.com/FZZahir)
+
+-[@SpoonMouse] (https://github.com/SpoonMouse)
+
+-[@Ordoga] (https://github.com/Ordoga)
+
+-[@8130146](https://github.com/8130146/)
+
+-[@orkslayergamedev](https://github.com/orkslayergamedev/)
+
+-[@aramhek](https://github.com/aramhek/)
+
+-[@andreymorogan](https://github.com/andreymorogan)
+
+-[@vguptagit](https://github.com/vguptagit)
+
+-[@rehan1124](https://github.com/rehan1124)
+
+-[@bprzybysz](https://github.com/bprzybysz)
+
+-[@ARSL22](https://github.com/ARSL22)
+
+-[@SebDoesCode](https://github.com/SebDoesCode)
