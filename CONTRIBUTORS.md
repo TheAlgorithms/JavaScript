@@ -6547,6 +6547,8 @@
 - [@Suraj-Patra](https://github.com/Suraj-Patra)
 - [@ramsundar07](https://github.com/ramsundar07/)
 
+-[@q-rault](https://github.com/q-rault) -[@leul1212] (https://github.com/leul1212) -[@Radiostranger](https://github.com/Radiostranger)
+
 - [@cadumrod](https://github.com/cadumrod)
 
 - [@Matthew-Makepeace](https://github.com/Matthew-Makepeace)
@@ -6557,6 +6559,8 @@
 -[@yeabsra-leul](https://github.com/yeabsra-leul/)
 
 -[@0xXerkan](https://github.com/0xXerkan/)
+
+-[@dkembre](https://github.com/dkembre) -[@pinatic](https://github.com/Pinatic79)
 
 -[@y0ze](https://github.com/y0ze/)
 
@@ -6582,9 +6586,27 @@
 
 -[@natcat38](https://github.com/natcat38)
 
+-[@behappyleee](https://github.com/behappyleee) -[@ShubhamSKadam](https://github.com/ShubhamSKadam)
+
 -[@GKurtanidze1999](https://github.com/GKurtanidze1999)
 
 -[@sofyflorez](https://github.com/sofyflorez)
+
+-[@chakib33](https://github.com/chakib33) -[@ihouwat](https://github.com/ihouwat) -[@Karim-Daouas](https://github.com/Karim-Daouas)
+
+-[@Phanix](https://github.com/Phanix) -[@MarcoM0404](https://github.com/MarcoM0404)
+
+-[@hakedo](https://github.com/hakedo) -[@anubhav-negi](https://github.com/starlove54)s
+
+-[@Kindevral](https://github.com/Kindevral) -[@RoxanaAnamariaTurc](https://github.com/RoxanaAnamariaTurc)
+
+-[@kylegothman](https://github.com/kylegothman) -[@Imadinglefritz](https://github.com/Imadinglefritz)
+
+- [@leeorf](https://github.com/leeorf) -[@ushicode](https://github.com/ushicode) -[@Mdirfanul](https://github.com/MdIrfan-ul/)
+
+-[@YuqingWangCG](https://github.com/YuqingWangCG/)
+
+- [@bilalkhan360](https://github.com/bilalkhan360)
 
 -[@sanja969](https://github.com/Sanja969)
 
@@ -7040,11 +7062,15 @@
 
 -[@Sebadm20](https://github.com/Sebadm20)
 
+-[@johngg15](https://github.com/johngg15)
+
 -[@aandoney](https://github.com/aandoney)
 
 -[@arpadikuma](https://github.com/arpadikuma)
 
--[@ThanvirXo](https://github.com/ThanvirXo) -[@hemangkrish7](https://github.com/hemangkrish7)
+-[@ThanvirXo](https://github.com/ThanvirXo) 
+
+-[@hemangkrish7](https://github.com/hemangkrish7)
 
 -[@ThanvirXo](https://github.com/ThanvirXo) 
 
