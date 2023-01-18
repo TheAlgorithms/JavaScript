@@ -6461,6 +6461,12 @@
 
 - [@Alena909](https://github.com/Alena909)
 
+-[@q-rault](https://github.com/q-rault) 
+
+-[@leul1212] (https://github.com/leul1212) 
+
+-[@Radiostranger](https://github.com/Radiostranger)
+
 -[@dkembre](https://github.com/dkembre) -[@pinatic](https://github.com/Pinatic79)
 
 - [@sadique009](https://github.com/sadique009/)
@@ -6472,6 +6478,8 @@
 - [@a-majk] (https://github.com/a-majk/)
 
 - [@abaytek] (https://github.com/abaytek)
+
+-[@dkembre](https://github.com/dkembre) -[@pinatic](https://github.com/Pinatic79)
 
 - [@Issam7Abou] (https://github.com/Issam7Abou)
 
@@ -6495,9 +6503,15 @@
 
 -[@chakib33](https://github.com/chakib33) -[@ihouwat](https://github.com/ihouwat) -[@Karim-Daouas](https://github.com/Karim-Daouas)
 
+-[@behappyleee](https://github.com/behappyleee) -[@ShubhamSKadam](https://github.com/ShubhamSKadam)
+
 -[@Phanix](https://github.com/Phanix) -[@MarcoM0404](https://github.com/MarcoM0404)
 
 -[@hakedo](https://github.com/hakedo) -[@anubhav-negi](https://github.com/starlove54)s
+
+-[@chakib33](https://github.com/chakib33) -[@ihouwat](https://github.com/ihouwat) -[@Karim-Daouas](https://github.com/Karim-Daouas)
+
+-[@Phanix](https://github.com/Phanix) -[@MarcoM0404](https://github.com/MarcoM0404)
 
 -[@Kindevral](https://github.com/Kindevral) -[@RoxanaAnamariaTurc](https://github.com/RoxanaAnamariaTurc)
 
@@ -6840,6 +6854,8 @@
 
 -[@andrzejmax1](https://github.com/andrzejmax1)
 
+-[@neerajnishad5](https://github.com/neerajnishad5) -[@rashidjama](https://github.com/rashidjama)
+
 -[@neerajnishad5](https://github.com/neerajnishad5) 
 
 -[@rashidjama](https://github.com/rashidjama)
@@ -7030,6 +7046,8 @@
 
 -[@arpadikuma](https://github.com/arpadikuma)
 
+-[@ThanvirXo](https://github.com/ThanvirXo) -[@hemangkrish7](https://github.com/hemangkrish7)
+
 -[@ThanvirXo](https://github.com/ThanvirXo) 
 
 -[@hemangkrish7](https://github.com/hemangkrish7)
@@ -7100,6 +7118,8 @@
 -[@wpellas](https://github.com/wpellas)
 
 -[@maornetzeR](https://github.com/maornetzeR/start-here-guidelines.git)
+
+-[@J-Paten](https://github.com/J-Paten)
 
 -[@Bozpup](https://github.com/Bozpup)
 
