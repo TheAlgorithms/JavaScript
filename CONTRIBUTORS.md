@@ -54,6 +54,8 @@
 
 - [@awerner5413](https://github.com/awerner5413)
 
+- [@jlarsen0206](https://github.com/jlarsen0206)
+
 - [@mikerobards](https://github.com/mikerobards)
 
 - [@phenoxp](https://github.com/phenoxp)
@@ -119,6 +121,7 @@
 - [@beavinco](https://github.com/beavinco)
 
 - [@dkembre](https://github.com/dkembre)
+
 - [@pinatic](https://github.com/Pinatic79)
 
 - [@rzilla92](https://github.com/rzilla92/)
@@ -709,5 +712,7 @@
 - [@orkslayergamedev](https://github.com/orkslayergamedev/)
 
 - [@aramhek](https://github.com/aramhek/)
+
+- [@andreymorogan](https://github.com/andreymorogan)
 
 - [@andreymorogan](https://github.com/andreymorogan)
