@@ -7286,6 +7286,8 @@
 
 -[@AnnA-Dmitrienko](https://https://github.com/AnnA-Dmitrienko)
 
+-[@zeljkonogic](https://github.com/zeljkonogic)
+
 -[@pnpspyksw](https://github.com/panupatspyksw)
 
 -[@pcatjee](https://github.com/pcatjee)
@@ -7307,6 +7309,8 @@
 -[@mathews123](https://github.com/mathews123)
 
 -[@mukulbamn](https://github.com/mukulbamn)
+
+-[@duzalte0705](https://github.com/duzalte0705devtech)
 
 -[@Beginner78000](https://github.com/Beginner78000)
 
@@ -7331,6 +7335,7 @@
 - [@veronikabejan](https://github.com/veronikabejan)
 
 - [@pankaj485](https://github.com/pankaj485)
+
 - [@gurupsd05](https://github.com/Guru-Prasad-Rana)
 
 - [@WS-G](https://github.com/WS-G)
