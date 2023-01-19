@@ -1,4 +1,5 @@
 # CONTRIBUTORS
+
 - [@Nazmul6180](https://github.com/Nazmul6180)
 
 - [@p-acs8](https://github.com/p-acs8/)
@@ -33,8 +34,7 @@
 
 - [@spiderxp3](https://github.com/spiderxp3)
 
-- [@jsh0512](https://github.com/jsh0512)- 
-
+- [@jsh0512](https://github.com/jsh0512)-
 
 - [@tharrry](https://github.com/tharrry)
 
@@ -6311,7 +6311,7 @@
 
 - [@Manopandian46](https://github.com/Manopandian46)
 
-- [@abrantesfg](lhttps://github.com/abrantesfg)
+- [@abrantesfg](l<https://github.com/abrantesfg)>
 
 - [@ganeshrevadi](https://github.com/ganeshrevadi)
 
@@ -6677,9 +6677,9 @@
 
 - [@emenius96](https://github.com/emenius96)
 
-- [@tatanoc92] (https://github.com/tatanoc92)
+- [@tatanoc92] (<https://github.com/tatanoc92>)
 
-- [@matkobaran] (https://github.com/matkobaran)
+- [@matkobaran] (<https://github.com/matkobaran>)
 
 - [@Dhruv-was-taken](https://github.com/Dhruv-was-taken)
 
@@ -6853,28 +6853,27 @@
 
 - [@MPRCode](https://github.com/MPRCode)
 
-- [@fabienMarchand] (https://github.com/fabienMarchand)
+- [@fabienMarchand] (<https://github.com/fabienMarchand>)
 
-- [@a-majk] (https://github.com/a-majk/)
+- [@a-majk] (<https://github.com/a-majk/>)
 
-- [@abaytek] (https://github.com/abaytek)
+- [@abaytek] (<https://github.com/abaytek>)
 
-- [@Issam7Abou] (https://github.com/Issam7Abou)
+- [@Issam7Abou] (<https://github.com/Issam7Abou>)
 
-- [@kaiwalya-07] (https://github.com/kaiwalya-07)
+- [@kaiwalya-07] (<https://github.com/kaiwalya-07>)
 
 - [mbah7onez](https://github.com/mbah7onez)
 
 - [prerakpanwar](https://github.com/prerakpanwar)
 
-- [@SpanishMamba] (https://github.com/SpanishMamba)
+- [@SpanishMamba] (<https://github.com/SpanishMamba>)
 
 - [@Apostolos172](https://github.com/Apostolos172/)
 
 - [@FehH13](https://github.com/FehH13)
 
 - [@jhaycee11](https://github.com/jhaycee11)
-
 
 - [@Suraj-Patra](https://github.com/Suraj-Patra)
 - [@ramsundar07](https://github.com/ramsundar07/)
@@ -7018,7 +7017,7 @@
 
 -[@CodyJPerry](https://github.com/CodyJPerry)
 
--[@santoshsaisharan](https://github.com/santoshsaisharan) 
+-[@santoshsaisharan](https://github.com/santoshsaisharan)
 
 -[@Heracles404](https://github.com/Heracles404)
 
@@ -7125,8 +7124,10 @@
 
 -[@Bozpup](https://github.com/Bozpup)
 
--[@abhishekyadavzs] (https://github.com/abhishekyadavzs)
+-[@abhishekyadavzs] (<https://github.com/abhishekyadavzs>)
 
 -[@Akshay251](https://github.com/Akshay251)
 
 -[@DevWalidHasan](https://github.com/DevWalidHasan)
+
+-[@Oluwaseg](https://github.com/Oluwaseg)
