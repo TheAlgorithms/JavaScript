@@ -6630,6 +6630,8 @@
 
 -[@natcat38](https://github.com/natcat38)
 
+-[@q-rault](https://github.com/q-rault) -[@leul1212] (https://github.com/leul1212) -[@Radiostranger](https://github.com/Radiostranger)
+
 -[@behappyleee](https://github.com/behappyleee) -[@ShubhamSKadam](https://github.com/ShubhamSKadam)
 
 -[@chakib33](https://github.com/chakib33) -[@ihouwat](https://github.com/ihouwat) -[@Karim-Daouas](https://github.com/Karim-Daouas)
@@ -6641,6 +6643,8 @@
 -[@dkembre](https://github.com/dkembre) -[@pinatic](https://github.com/Pinatic79)
 
 -[@hakedo](https://github.com/hakedo) -[@anubhav-negi](https://github.com/starlove54)s
+
+-[@dkembre](https://github.com/dkembre) -[@pinatic](https://github.com/Pinatic79)
 
 -[@Kindevral](https://github.com/Kindevral) -[@RoxanaAnamariaTurc](https://github.com/RoxanaAnamariaTurc)
 
@@ -6663,6 +6667,8 @@
 -[@chakib33](https://github.com/chakib33) -[@ihouwat](https://github.com/ihouwat) -[@Karim-Daouas](https://github.com/Karim-Daouas)
 
 -[@Phanix](https://github.com/Phanix) -[@MarcoM0404](https://github.com/MarcoM0404)
+
+-[@behappyleee](https://github.com/behappyleee) -[@ShubhamSKadam](https://github.com/ShubhamSKadam)
 
 -[@behappyleee](https://github.com/behappyleee) -[@ShubhamSKadam](https://github.com/ShubhamSKadam)
 
@@ -7348,9 +7354,16 @@
 
 -[@Jermaine35](https://github.com/jermaine35)
 
-- [@philling1](https://github.com/philling1) 
+- [@philling1](https://github.com/philling1)
 
 - [@swehb](https://github.com/swehb)
+
+- [@MoRaouf](https://github.com/MoRaouf)
+
+- [@Clifftech123](https://github.com/Clifftech123)
+ -[Selva02695](<(https://github.com/Selva02695)>)
+
+- [@JDLaderas](https://github.com/JDLaderas)
 
 - [@michaelaitken](https://github.com/michaelaitken)
 
@@ -7430,3 +7443,4 @@
 [@balcsi78](https://github.com/balcsi78)
 
 - [@SebDoesCode](https://github.com/SebDoesCode)
+
