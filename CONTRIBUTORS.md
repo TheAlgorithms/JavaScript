@@ -6531,6 +6531,8 @@
 
 -[@kylegothman](https://github.com/kylegothman) -[@Imadinglefritz](https://github.com/Imadinglefritz)
 
+-[@q-rault](https://github.com/q-rault) -[@leul1212] (https://github.com/leul1212) -[@Radiostranger](https://github.com/Radiostranger)
+
 - [@leeorf](https://github.com/leeorf) -[@ushicode](https://github.com/ushicode) -[@Mdirfanul](https://github.com/MdIrfan-ul/)
 
 -[@YuqingWangCG](https://github.com/YuqingWangCG/)
@@ -6543,6 +6545,7 @@
 
 - [@jhaycee11](https://github.com/jhaycee11)
 
+-[@dkembre](https://github.com/dkembre) -[@pinatic](https://github.com/Pinatic79)
 
 - [@Suraj-Patra](https://github.com/Suraj-Patra)
 - [@ramsundar07](https://github.com/ramsundar07/)
@@ -6566,9 +6569,21 @@
 
 -[@y0ze](https://github.com/y0ze/)
 
+-[@behappyleee](https://github.com/behappyleee) -[@ShubhamSKadam](https://github.com/ShubhamSKadam)
+
 -[@Groomsi](https://github.com/Groomsi)
 
 -[@jacob-seibert](https://github.com/jacob-seibert)
+
+-[@chakib33](https://github.com/chakib33) -[@ihouwat](https://github.com/ihouwat) -[@Karim-Daouas](https://github.com/Karim-Daouas)
+
+-[@Phanix](https://github.com/Phanix) -[@MarcoM0404](https://github.com/MarcoM0404)
+
+-[@hakedo](https://github.com/hakedo) -[@anubhav-negi](https://github.com/starlove54)s
+
+-[@Kindevral](https://github.com/Kindevral) -[@RoxanaAnamariaTurc](https://github.com/RoxanaAnamariaTurc)
+
+-[@kylegothman](https://github.com/kylegothman) -[@Imadinglefritz](https://github.com/Imadinglefritz)
 
 -[@126jullian](https://github.com/126jullian)
 
@@ -6886,6 +6901,10 @@
 
 -[@andrzejmax1](https://github.com/andrzejmax1)
 
+-[@neerajnishad5](https://github.com/neerajnishad5)
+
+-[@rashidjama](https://github.com/rashidjama)
+
 -[@neerajnishad5](https://github.com/neerajnishad5) 
 
 -[@rashidjama](https://github.com/rashidjama)
@@ -7084,6 +7103,10 @@
 
 -[@arpadikuma](https://github.com/arpadikuma)
 
+-[@ThanvirXo](https://github.com/ThanvirXo)
+
+-[@hemangkrish7](https://github.com/hemangkrish7)
+
 -[@ThanvirXo](https://github.com/ThanvirXo) 
 
 -[@hemangkrish7](https://github.com/hemangkrish7)
@@ -7189,6 +7212,8 @@
 -[@ACoetzee91](https://github.com/ACoetzee1991)
 
 -[@richard2609](https://github.com/richard2609)
+
+-[@dwilson-coder](https://github.com/dwilson-coder)
 
 -[@AnnA-Dmitrienko](https://https://github.com/AnnA-Dmitrienko)
 
