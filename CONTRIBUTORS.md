@@ -6552,13 +6552,21 @@
 
 -[@q-rault](https://github.com/q-rault) -[@leul1212] (https://github.com/leul1212) -[@Radiostranger](https://github.com/Radiostranger)
 
--[@q-rault](https://github.com/q-rault) -[@leul1212] (https://github.com/leul1212) -[@Radiostranger](https://github.com/Radiostranger)
+- [@joancodes] (https://github.com/joancodes)
+
+- [@fabioauroradev](https://github.com/FabioAurora)
+
+-[@q-rault](https://github.com/q-rault) 
+-[@leul1212] (https://github.com/leul1212) 
+-[@Radiostranger](https://github.com/Radiostranger)
+
 
 - [@cadumrod](https://github.com/cadumrod)
 
 - [@Matthew-Makepeace](https://github.com/Matthew-Makepeace)
 
--[@q-rault](https://github.com/q-rault) -[@leul1212] (https://github.com/leul1212) -[@Radiostranger](https://github.com/Radiostranger)
+-[@q-rault](https://github.com/q-rault) 
+-[@leul1212] (https://github.com/leul1212) -[@Radiostranger](https://github.com/Radiostranger)
 
 -[@TianMeh](https://github.com/TianMeh/)
 
@@ -6646,6 +6654,12 @@
 
 -[@q-rault](https://github.com/q-rault) -[@leul1212] (https://github.com/leul1212) -[@Radiostranger](https://github.com/Radiostranger)
 
+-[@q-rault](https://github.com/q-rault)
+
+-[@leul1212] (https://github.com/leul1212)
+
+-[@Radiostranger](https://github.com/Radiostranger)
+
 -[@dkembre](https://github.com/dkembre) -[@pinatic](https://github.com/Pinatic79)
 
 -[@Kindevral](https://github.com/Kindevral) -[@RoxanaAnamariaTurc](https://github.com/RoxanaAnamariaTurc)
@@ -6657,6 +6671,10 @@
 -[@hakedo](https://github.com/hakedo) -[@anubhav-negi](https://github.com/starlove54)s
 
 -[@Kindevral](https://github.com/Kindevral) -[@RoxanaAnamariaTurc](https://github.com/RoxanaAnamariaTurc)
+
+-[@dkembre](https://github.com/dkembre)
+
+-[@pinatic](https://github.com/Pinatic79)
 
 -[@dkembre](https://github.com/dkembre) -[@pinatic](https://github.com/Pinatic79)
 
@@ -6682,9 +6700,41 @@
 
 -[@chakib33](https://github.com/chakib33) -[@ihouwat](https://github.com/ihouwat) -[@Karim-Daouas](https://github.com/Karim-Daouas)
 
+-[@behappyleee](https://github.com/behappyleee)
+
+-[@ShubhamSKadam](https://github.com/ShubhamSKadam)
+
 -[@Phanix](https://github.com/Phanix) -[@MarcoM0404](https://github.com/MarcoM0404)
 
 -[@behappyleee](https://github.com/behappyleee) -[@ShubhamSKadam](https://github.com/ShubhamSKadam)
+
+-[@chakib33](https://github.com/chakib33)
+
+-[@ihouwat](https://github.com/ihouwat)
+
+-[@Karim-Daouas](https://github.com/Karim-Daouas)
+
+-[@Phanix](https://github.com/Phanix)
+
+-[@MarcoM0404](https://github.com/MarcoM0404)
+
+-[@hakedo](https://github.com/hakedo)
+
+-[@anubhav-negi](https://github.com/starlove54)s
+
+-[@Kindevral](https://github.com/Kindevral)
+
+-[@RoxanaAnamariaTurc](https://github.com/RoxanaAnamariaTurc)
+
+-[@kylegothman](https://github.com/kylegothman)
+
+-[@Imadinglefritz](https://github.com/Imadinglefritz)
+
+- [@leeorf](https://github.com/leeorf)
+
+-[@ushicode](https://github.com/ushicode)
+
+-[@Mdirfanul](https://github.com/MdIrfan-ul/)
 
 -[@hakedo](https://github.com/hakedo) -[@anubhav-negi](https://github.com/starlove54)s
 
@@ -7387,6 +7437,7 @@
 
 - [@MoRaouf](https://github.com/MoRaouf)
 
+- [@Clifftech123](https://github.com/Clifftech123)
 
 - [@Clifftech123](https://github.com/Clifftech123)
 
@@ -7411,6 +7462,7 @@
 - [@krisplusmagger](https://github.com/krisplusmagger)
 
 - [fallsr2](https://github.com/fallsr2)
+
 - [greenwaist](https://github.com/greenwaist)
 
 -[ferneediaz](https://github.com/ferneediaz)
@@ -7425,6 +7477,8 @@
 -[@azammustafa66](https://github.com/azammustafa66/)
 
 -[@azammustafa66](https://github.com/azammustafa66/)
+
+- [@Brian-Li96] (https://github.com/Brian-Li96)
 
 -[@AbdifatahYasin1](https://github.com/AbdifatahYasin1)
 
