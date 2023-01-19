@@ -175,6 +175,7 @@
 -[@K-Wiczling](https://github.com/K-Wiczling/)
 
 -[@dmdbilal](https://github.com/dmdbilal/)
+-[@patrycjaslizszpytma](https://github.com/patrycjaslizszpytma)
 
 -[@Lazar Stojanović](https://github.com/Coolbylaki)
 
