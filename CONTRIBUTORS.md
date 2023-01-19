@@ -6558,6 +6558,7 @@
 
 - [@Matthew-Makepeace](https://github.com/Matthew-Makepeace)
 
+-[@q-rault](https://github.com/q-rault) -[@leul1212] (https://github.com/leul1212) -[@Radiostranger](https://github.com/Radiostranger)
 
 -[@TianMeh](https://github.com/TianMeh/)
 
@@ -6570,6 +6571,8 @@
 -[@y0ze](https://github.com/y0ze/)
 
 -[@behappyleee](https://github.com/behappyleee) -[@ShubhamSKadam](https://github.com/ShubhamSKadam)
+
+-[@dkembre](https://github.com/dkembre) -[@pinatic](https://github.com/Pinatic79)
 
 -[@Groomsi](https://github.com/Groomsi)
 
@@ -6595,9 +6598,21 @@
 
 -[@MohammedNadeemPasha](https://github.com/MohammedNadeemPasha)
 
+-[@behappyleee](https://github.com/behappyleee) -[@ShubhamSKadam](https://github.com/ShubhamSKadam)
+
 -[@percivaltogara](https://github.com/Percivaltogara)
 
 -[@Snopcare](https://github.com/Snopcare/)
+
+-[@chakib33](https://github.com/chakib33) -[@ihouwat](https://github.com/ihouwat) -[@Karim-Daouas](https://github.com/Karim-Daouas)
+
+-[@Phanix](https://github.com/Phanix) -[@MarcoM0404](https://github.com/MarcoM0404)
+
+-[@hakedo](https://github.com/hakedo) -[@anubhav-negi](https://github.com/starlove54)s
+
+-[@Kindevral](https://github.com/Kindevral) -[@RoxanaAnamariaTurc](https://github.com/RoxanaAnamariaTurc)
+
+-[@kylegothman](https://github.com/kylegothman) -[@Imadinglefritz](https://github.com/Imadinglefritz)
 
 -[@muvonglao](https://github.com/muvonglao/)
 
@@ -6901,6 +6916,8 @@
 
 -[@andrzejmax1](https://github.com/andrzejmax1)
 
+-[@neerajnishad5](https://github.com/neerajnishad5) -[@rashidjama](https://github.com/rashidjama)
+
 -[@neerajnishad5](https://github.com/neerajnishad5)
 
 -[@rashidjama](https://github.com/rashidjama)
@@ -7107,6 +7124,10 @@
 
 -[@hemangkrish7](https://github.com/hemangkrish7)
 
+-[@ThanvirXo](https://github.com/ThanvirXo)
+
+-[@hemangkrish7](https://github.com/hemangkrish7)
+
 -[@ThanvirXo](https://github.com/ThanvirXo) 
 
 -[@hemangkrish7](https://github.com/hemangkrish7)
@@ -7212,6 +7233,10 @@
 -[@ACoetzee91](https://github.com/ACoetzee1991)
 
 -[@richard2609](https://github.com/richard2609)
+
+-[@AnnA-Dmitrienko](https://https://github.com/AnnA-Dmitrienko)
+
+-[@niksbanna](https://https://github.com/niksbanna)
 
 -[@dwilson-coder](https://github.com/dwilson-coder)
 
@@ -7328,3 +7353,4 @@
 - [@surfingsanta](https://github.com/surfingsanta)
 
 - [@SebDoesCode](https://github.com/SebDoesCode)
+
