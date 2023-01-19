@@ -6541,9 +6541,9 @@
 
 - [@Alena909](https://github.com/Alena909)
 
--[@q-rault](https://github.com/q-rault) 
+-[@q-rault](https://github.com/q-rault)
 
--[@leul1212] (https://github.com/leul1212) 
+-[@leul1212] (https://github.com/leul1212)
 
 -[@Radiostranger](https://github.com/Radiostranger)
 
@@ -6572,7 +6572,6 @@
 -[@behappyleee](https://github.com/behappyleee) -[@ShubhamSKadam](https://github.com/ShubhamSKadam)
 
 - [prerakpanwar](https://github.com/prerakpanwar)
-
 
 -[@behappyleee](https://github.com/behappyleee) -[@ShubhamSKadam](https://github.com/ShubhamSKadam)
 
@@ -6647,7 +6646,6 @@
 - [@cadumrod](https://github.com/cadumrod)
 
 - [@Matthew-Makepeace](https://github.com/Matthew-Makepeace)
-
 
 -[@q-rault](https://github.com/q-rault) 
 -[@leul1212] (https://github.com/leul1212) -[@Radiostranger](https://github.com/Radiostranger)
@@ -6808,6 +6806,11 @@
 
 -[@RoxanaAnamariaTurc](https://github.com/RoxanaAnamariaTurc)
 
+-[@dbring](https://github.com/dbring) -[@navesm](https://github.com/navesm) -[@ymw0331](https://github.com/ymw0331/)
+
+-[@EzClops](https://github.com/EzClops) -[@sowvino](https://github.com/sowvino/)
+
+-[@MisterTabasco](https://github.com/MisterTabasco/) -[@AbebeWolie](https://github.com/AbebeWolie/)
 -[@chakib33](https://github.com/chakib33) 
 
 -[@ihouwat](https://github.com/ihouwat) 
@@ -6821,6 +6824,14 @@
 -[@ShubhamSKadam](https://github.com/ShubhamSKadam)
 
 -[@ekramasif](https://github.com/parvej2001)
+
+- [@ashrafuljoypb](https://github.com/ashrafuljoypb)
+
+  -[@faithpacifica](https://github.com/faithpacifica)
+
+  -[@JakeMoretz](https://github.com/JakeMoretz)
+
+-[@bakasajoshua](https://github.com/bakasajoshua)
 
 -[@behappyleee](https://github.com/behappyleee)
 
@@ -6837,6 +6848,8 @@
 -[@Phanix](https://github.com/Phanix) -[@MarcoM0404](https://github.com/MarcoM0404)
 
 -[@hakedo](https://github.com/hakedo) -[@anubhav-negi](https://github.com/starlove54)s
+
+-[@FadedAditya](https://github.com/FadedAditya/) -[@imanirak](https://github.com/imanirak/) -[@Ankitkumar116](https://github.com/Ankitkumar116) -[@AngelaBowen](https://github.com/AngelaBowen)
 
 - [@paramjeetdhiman](https://github.com/paramjeetdhiman)
 
@@ -6861,6 +6874,8 @@
 - [@SimpleLuke](https://github.com/SimpleLuke)
 
 - [@linyuwei](https://github.com/linyuwei)
+
+-[@santoshsaisharan](https://github.com/santoshsaisharan)
 
 - [@Kingshuk97](https://github.com/Kingshuk97)
 
@@ -7273,8 +7288,7 @@
 
 -[@cherrydub](https://github.com/cherrydub)
 
--[@rhinoxD](https://github.com/rhinoxD)
--[@chyegembaj](https://github.com/chyegembaj)
+-[@rhinoxD](https://github.com/rhinoxD) -[@chyegembaj](https://github.com/chyegembaj)
 
 -[@lupuioana](https://github.com/lupuioana)
 
@@ -7416,15 +7430,15 @@
 
 -[@rashidjama](https://github.com/rashidjama)
 
--[@neerajnishad5](https://github.com/neerajnishad5) 
+-[@neerajnishad5](https://github.com/neerajnishad5)
 
 -[@rashidjama](https://github.com/rashidjama)
 
--[@neerajnishad5](https://github.com/neerajnishad5) 
+-[@neerajnishad5](https://github.com/neerajnishad5)
 
 -[@rashidjama](https://github.com/rashidjama)
 
--[@neerajnishad5](https://github.com/neerajnishad5) 
+-[@neerajnishad5](https://github.com/neerajnishad5)
 
 -[@rashidjama](https://github.com/rashidjama)
 
@@ -7634,19 +7648,19 @@
 
 -[@hemangkrish7](https://github.com/hemangkrish7)
 
--[@ThanvirXo](https://github.com/ThanvirXo) 
+-[@ThanvirXo](https://github.com/ThanvirXo)
 
 -[@hemangkrish7](https://github.com/hemangkrish7)
 
--[@ThanvirXo](https://github.com/ThanvirXo) 
+-[@ThanvirXo](https://github.com/ThanvirXo)
 
 -[@hemangkrish7](https://github.com/hemangkrish7)
 
--[@ThanvirXo](https://github.com/ThanvirXo) 
+-[@ThanvirXo](https://github.com/ThanvirXo)
 
 -[@hemangkrish7](https://github.com/hemangkrish7)
 
--[@ThanvirXo](https://github.com/ThanvirXo) 
+-[@ThanvirXo](https://github.com/ThanvirXo)
 
 -[@hemangkrish7](https://github.com/hemangkrish7)
 
@@ -7957,6 +7971,8 @@
 - [@surfingsanta](https://github.com/surfingsanta)
 
 - [@SebDoesCode](https://github.com/SebDoesCode)
+
+-[@RainDripz] (https://github.com/RainDripz/)
 
 -[@cem-1](https://github.com/cem-1)
 
