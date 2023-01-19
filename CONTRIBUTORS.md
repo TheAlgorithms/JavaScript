@@ -6773,6 +6773,8 @@
 
 -[@kylegothman](https://github.com/kylegothman) -[@Imadinglefritz](https://github.com/Imadinglefritz)
 
+-[@q-rault](https://github.com/q-rault) -[@leul1212] (https://github.com/leul1212) -[@Radiostranger](https://github.com/Radiostranger)
+
 -[@sofyflorez](https://github.com/sofyflorez)
 
 -[@chakib33](https://github.com/chakib33) -[@ihouwat](https://github.com/ihouwat) -[@Karim-Daouas](https://github.com/Karim-Daouas)
@@ -6784,6 +6786,8 @@
 -[@Kindevral](https://github.com/Kindevral) -[@RoxanaAnamariaTurc](https://github.com/RoxanaAnamariaTurc)
 
 -[@kylegothman](https://github.com/kylegothman) -[@Imadinglefritz](https://github.com/Imadinglefritz)
+
+-[@dkembre](https://github.com/dkembre) -[@pinatic](https://github.com/Pinatic79)
 
 - [@leeorf](https://github.com/leeorf) -[@ushicode](https://github.com/ushicode) -[@Mdirfanul](https://github.com/MdIrfan-ul/)
 
@@ -6809,9 +6813,27 @@
 
 -[onlykamaro](https://github.com/onlykamaro)
 
+-[@behappyleee](https://github.com/behappyleee) -[@ShubhamSKadam](https://github.com/ShubhamSKadam)
+
 -[@18jonangelo](https://github.com/18jonangelo)
 
 -[@rhtonmoy1](https://github.com/rhtonmoy1)
+
+-[@chakib33](https://github.com/chakib33) -[@ihouwat](https://github.com/ihouwat) -[@Karim-Daouas](https://github.com/Karim-Daouas)
+
+-[@Phanix](https://github.com/Phanix) -[@MarcoM0404](https://github.com/MarcoM0404)
+
+-[@hakedo](https://github.com/hakedo) -[@anubhav-negi](https://github.com/starlove54)s
+
+-[@Kindevral](https://github.com/Kindevral) -[@RoxanaAnamariaTurc](https://github.com/RoxanaAnamariaTurc)
+
+-[@kylegothman](https://github.com/kylegothman) -[@Imadinglefritz](https://github.com/Imadinglefritz)
+
+- [@leeorf](https://github.com/leeorf) -[@ushicode](https://github.com/ushicode) -[@Mdirfanul](https://github.com/MdIrfan-ul/)
+
+-[@YuqingWangCG](https://github.com/YuqingWangCG/)
+
+- [@bilalkhan360](https://github.com/bilalkhan360)
 
 -[@Hero1230](https://github.com/Hero1230)
 
@@ -7445,6 +7467,8 @@
 
 - [@MoRaouf](https://github.com/MoRaouf)
 
+- [@Clifftech123](https://github.com/Clifftech123) -[Selva02695](<(https://github.com/Selva02695)>)
+
 - [@Clifftech123](https://github.com/Clifftech123) 
 
 -[Selva02695](<(https://github.com/Selva02695)>)
@@ -7514,6 +7538,8 @@
 -[@AndresOrdonez](https://github.com/AndresOrdonez)
 
 -[@FZZahir] (https://github.com/FZZahir)
+
+-[@Mjalt] (https://github.com/Mjalt)
 
 -[@ReeceHsu](https://github.com/ReeceHsu)
 
