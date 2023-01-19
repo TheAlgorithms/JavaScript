@@ -1,5 +1,9 @@
 # CONTRIBUTORS
 
+-[@bustillos83] (https://github.com/bustillos83)
+
+- [@jalonghurst] (https://github.com/jalonghurst)
+
 - [@jalonghurst](https://github.com/jalonghurst)
 
 - [@belaid-dali](https://github.com/belaid-dali)
@@ -128,6 +132,8 @@
 
 -[@q-rault](https://github.com/q-rault) -[@leul1212] (https://github.com/leul1212) -[@Radiostranger](https://github.com/Radiostranger)
 
+-[@q-rault](https://github.com/q-rault) -[@leul1212] (https://github.com/leul1212) -[@Radiostranger](https://github.com/Radiostranger)
+
 -[@q-rault](https://github.com/q-rault)
 
 -[@leul1212] (https://github.com/leul1212)
@@ -151,6 +157,8 @@
 -[@dkembre](https://github.com/dkembre)
 
 -[@pinatic](https://github.com/Pinatic79)
+
+-[@dkembre](https://github.com/dkembre) -[@pinatic](https://github.com/Pinatic79)
 
 -[@dkembre](https://github.com/dkembre) -[@pinatic](https://github.com/Pinatic79)
 
@@ -183,6 +191,20 @@
 -[@Aticca-oss](https://github.com/Attica-oss)
 
 -[@behappyleee](https://github.com/behappyleee) -[@ShubhamSKadam](https://github.com/ShubhamSKadam)
+
+-[@jakobgoransson95](https://github.com/jakobgoransson95)
+
+-[@chakib33](https://github.com/chakib33) -[@ihouwat](https://github.com/ihouwat) -[@Karim-Daouas](https://github.com/Karim-Daouas)
+
+-[@Phanix](https://github.com/Phanix) -[@MarcoM0404](https://github.com/MarcoM0404)
+
+-[@hakedo](https://github.com/hakedo) -[@anubhav-negi](https://github.com/starlove54)s
+
+-[@Kindevral](https://github.com/Kindevral) -[@RoxanaAnamariaTurc](https://github.com/RoxanaAnamariaTurc)
+
+-[@kylegothman](https://github.com/kylegothman) -[@Imadinglefritz](https://github.com/Imadinglefritz)
+
+- [@leeorf](https://github.com/leeorf) -[@ushicode](https://github.com/ushicode) -[@Mdirfanul](https://github.com/MdIrfan-ul/)
 
 -[@jakobgoransson95](https://github.com/jakobgoransson95)
 
@@ -454,7 +476,6 @@
 
 - [@Bossman602](https://github.com/bossman602/)
 
-
 - [@Boyter8](https://github.com/boyter8)
 
 -[@amos-pun](https://github.com/amos-pun)
@@ -631,6 +652,8 @@
 
 - [@Clannis](https://github.com/Clannis)
 - 
+-[@ThanvirXo](https://github.com/ThanvirXo) -[@hemangkrish7](https://github.com/hemangkrish7)
+
 -[@ThanvirXo](https://github.com/ThanvirXo) -[@hemangkrish7](https://github.com/hemangkrish7)
 
 - [@Clarkcooper](https://github.com/ClarkCooper)
