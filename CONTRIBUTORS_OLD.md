@@ -34,8 +34,7 @@
 
 - [@spiderxp3](https://github.com/spiderxp3)
 
-- [@jsh0512](https://github.com/jsh0512)- 
-
+- [@jsh0512](https://github.com/jsh0512)-
 
 - [@tharrry](https://github.com/tharrry)
 
@@ -6312,7 +6311,7 @@
 
 - [@Manopandian46](https://github.com/Manopandian46)
 
-- [@abrantesfg](lhttps://github.com/abrantesfg)
+- [@abrantesfg](l<https://github.com/abrantesfg)>
 
 - [@ganeshrevadi](https://github.com/ganeshrevadi)
 
@@ -6678,9 +6677,9 @@
 
 - [@emenius96](https://github.com/emenius96)
 
-- [@tatanoc92] (https://github.com/tatanoc92)
+- [@tatanoc92] (<https://github.com/tatanoc92>)
 
-- [@matkobaran] (https://github.com/matkobaran)
+- [@matkobaran] (<https://github.com/matkobaran>)
 
 - [@Dhruv-was-taken](https://github.com/Dhruv-was-taken)
 
@@ -6850,21 +6849,21 @@
 
 - [@MPRCode](https://github.com/MPRCode)
 
-- [@fabienMarchand] (https://github.com/fabienMarchand)
+- [@fabienMarchand] (<https://github.com/fabienMarchand>)
 
-- [@a-majk] (https://github.com/a-majk/)
+- [@a-majk] (<https://github.com/a-majk/>)
 
-- [@abaytek] (https://github.com/abaytek)
+- [@abaytek] (<https://github.com/abaytek>)
 
-- [@Issam7Abou] (https://github.com/Issam7Abou)
+- [@Issam7Abou] (<https://github.com/Issam7Abou>)
 
-- [@kaiwalya-07] (https://github.com/kaiwalya-07)
+- [@kaiwalya-07] (<https://github.com/kaiwalya-07>)
 
 - [mbah7onez](https://github.com/mbah7onez)
 
 - [prerakpanwar](https://github.com/prerakpanwar)
 
-- [@SpanishMamba] (https://github.com/SpanishMamba)
+- [@SpanishMamba] (<https://github.com/SpanishMamba>)
 
 - [@Apostolos172](https://github.com/Apostolos172/)
 
@@ -7115,8 +7114,12 @@
 
 -[@Bozpup](https://github.com/Bozpup)
 
+-[@abhishekyadavzs] (<https://github.com/abhishekyadavzs>)
+
 -[@abhishekyadavzs](https://github.com/abhishekyadavzs)
 
 -[@Akshay251](https://github.com/Akshay251)
 
 -[@DevWalidHasan](https://github.com/DevWalidHasan)
+
+-[@Oluwaseg](https://github.com/Oluwaseg)
