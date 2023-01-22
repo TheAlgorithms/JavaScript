@@ -3157,6 +3157,8 @@
 - [@Rciszewski](https://github.com/rciszewski)
 
 - [@Rdcrth](https://github.com/rdcrth)
+-[osu4life75](https://github.com/osu4life75)
+
 
 - [@Reactmallo](https://github.com/reactmallo)
 
@@ -8045,4 +8047,3 @@
 -[Ghulam-Dastgir25](https://github.com/Ghulam-Dastgir25)
 
 -[sambaran-singh](https://github.com/sambaran-singh)
--[osu4life75](https://github.com/osu4life75)
