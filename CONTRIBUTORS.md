@@ -24,6 +24,8 @@
 
 - [@Shreyasuthar](https://github.com/shreyasuthar655)
 
+- [@Vasanth](https://github.com/v-vasanth)
+
 - [@DanielMartinGit](https://github.com/DanielMartinGit)
 
 - [@brandonHafley](https://github.com/brandonHafley)
