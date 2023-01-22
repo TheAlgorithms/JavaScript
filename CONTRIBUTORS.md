@@ -28,6 +28,8 @@
 
 - [@DanielMartinGit](https://github.com/DanielMartinGit)
 
+- [@fabio-teichmann](https://github.com/fabio-teichmann) 
+
 - [@brandonHafley](https://github.com/brandonHafley)
 
 - [@ProsperousHeart](https://github.com/ProsperousHeart)
