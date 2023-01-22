@@ -28,6 +28,8 @@
 
 - [@DanielMartinGit](https://github.com/DanielMartinGit)
 
+- [@fabio-teichmann](https://github.com/fabio-teichmann) 
+
 - [@brandonHafley](https://github.com/brandonHafley)
 
 - [@ProsperousHeart](https://github.com/ProsperousHeart)
@@ -3675,6 +3677,8 @@
 - [@Stanhenriquez](https://github.com/stanhenriquez)
 
 - [@Staromoon](https://github.com/StaroMoon)
+
+- [@markandmueller](https://github.com/markandmueller)
 
 - [@Stavroscaptain](https://github.com/StavrosCaptain)
 
@@ -8047,3 +8051,5 @@
 -[Ghulam-Dastgir25](https://github.com/Ghulam-Dastgir25)
 
 -[sambaran-singh](https://github.com/sambaran-singh)
+
+-[SIDHARTH-BABY](https://github.com/SIDHARTH-BABY)
