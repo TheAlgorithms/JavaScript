@@ -1,4 +1,4 @@
-﻿# CONTRIBUTORS
+# CONTRIBUTORS
 
 -[@bustillos83] (https://github.com/bustillos83)
 
@@ -3701,6 +3701,8 @@
 - [@Subhocodegeek](https://github.com/Subho-codegeek)
 
 - [@Subverzon](https://github.com/Subverzon)
+
+- [@jacobWeeces] (https://github.com/jacobWeeces)
 
 - [@Sudarshanaw](https://github.com/sudarshanAw)
 
