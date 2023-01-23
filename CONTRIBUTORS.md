@@ -7257,6 +7257,8 @@
 
 - [@ItzJammyZz](https://github.com/ItzJammyZz)
 
+- [@Rickyjr60](https://github.com/Rickyjr60)
+
 - [@varshininehru](https://github.com/varshininehru)
 
 - [@W1ldr](https://github.com/W1ldr)
