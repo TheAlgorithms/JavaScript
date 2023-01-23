@@ -2,6 +2,8 @@
 
 -[@bustillos83] (https://github.com/bustillos83)
 
+- [@SHA888](https://github.com/SHA888)
+
 - [@jalonghurst] (https://github.com/jalonghurst)
 
 - [@jalonghurst](https://github.com/jalonghurst)
@@ -24,7 +26,11 @@
 
 - [@Shreyasuthar](https://github.com/shreyasuthar655)
 
+- [@Vasanth](https://github.com/v-vasanth)
+
 - [@DanielMartinGit](https://github.com/DanielMartinGit)
+
+- [@fabio-teichmann](https://github.com/fabio-teichmann) 
 
 - [@brandonHafley](https://github.com/brandonHafley)
 
@@ -3155,6 +3161,8 @@
 - [@Rciszewski](https://github.com/rciszewski)
 
 - [@Rdcrth](https://github.com/rdcrth)
+-[osu4life75](https://github.com/osu4life75)
+
 
 - [@Reactmallo](https://github.com/reactmallo)
 
@@ -3293,6 +3301,8 @@
 - [@Rzmk](https://github.com/rzmk)
 
 - [@S0Sharma](https://github.com/s0sharma)
+
+- [@lvSojen](https://github.com/lvSojen)
 
 - [@Saaluga](https://github.com/saaluga)
 
@@ -3669,6 +3679,8 @@
 - [@Stanhenriquez](https://github.com/stanhenriquez)
 
 - [@Staromoon](https://github.com/StaroMoon)
+
+- [@markandmueller](https://github.com/markandmueller)
 
 - [@Stavroscaptain](https://github.com/StavrosCaptain)
 
@@ -5311,6 +5323,8 @@
 - [@SuveerGoyal](https://github.com/SuveerGoyal)
 
 - [@nitinjaswal](https://github.com/nitinjaswal)
+
+-[@IndrabhushanJ](https://github.com/IndrabhushanJ)
 
 - [@cristimanea26](https://github.com/cristimanea26)
 
@@ -7243,6 +7257,8 @@
 
 - [@ItzJammyZz](https://github.com/ItzJammyZz)
 
+- [@Rickyjr60](https://github.com/Rickyjr60)
+
 - [@varshininehru](https://github.com/varshininehru)
 
 - [@W1ldr](https://github.com/W1ldr)
@@ -7999,9 +8015,13 @@
 
 -[yanathedev](https://github.com/yanathedev)
 
+-[Mister-ked](https://github.com/Mister-ked)
+
 -[sedeba19](https://github.com/sedeba19)
 
 -[@rhenandos](https://github.com/rhenandos/)
+
+-[@henry.codex](https://github.com/henry.codex/)
 
 -[@shkoda21](https://github.com/shkoda21/)
  
@@ -8012,6 +8032,8 @@
 -[@jonesjac20](https://github.com/jonesjac20)
 
 -[@luwam-tesfamariam](https://github.com/LuwamTesfamariam)
+
+-[@princeokoibu](https://github.com/princeokoibu)
 
 -[@ong22280](https://github.com/ong22280)
 
@@ -8037,3 +8059,16 @@
 
 -[@prokys](https://github.com/prokys)
 
+-[@prokys](https://github.com/prokys)
+
+-[RusB25](https://github.com/RusB25)
+
+-[Ghulam-Dastgir25](https://github.com/Ghulam-Dastgir25)
+
+-[sambaran-singh](https://github.com/sambaran-singh)
+
+-[SIDHARTH-BABY](https://github.com/SIDHARTH-BABY)
+
+-[@ryan-k-anderson](https://github.com/ryan-k-anderson)
+
+-[@eshasinghal](https://github.com/eshasinghal)
