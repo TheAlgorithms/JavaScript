@@ -199,8 +199,6 @@
 
 -[@jorlar](https://github.com/jorlar)
 
-[@rod31](https://github.com/rod31)
-
 -[@Aticca-oss](https://github.com/Attica-oss)
 
 -[@behappyleee](https://github.com/behappyleee) -[@ShubhamSKadam](https://github.com/ShubhamSKadam)
@@ -220,6 +218,8 @@
 - [@leeorf](https://github.com/leeorf) -[@ushicode](https://github.com/ushicode) -[@Mdirfanul](https://github.com/MdIrfan-ul/)
 
 -[@jakobgoransson95](https://github.com/jakobgoransson95)
+
+-[@rod31](https://github.com/rod31)
 
 -[@chakib33](https://github.com/chakib33) -[@ihouwat](https://github.com/ihouwat) -[@Karim-Daouas](https://github.com/Karim-Daouas)
 
