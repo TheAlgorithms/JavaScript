@@ -219,6 +219,8 @@
 
 -[@jakobgoransson95](https://github.com/jakobgoransson95)
 
+-[@rod31](https://github.com/rod31)
+
 -[@chakib33](https://github.com/chakib33) -[@ihouwat](https://github.com/ihouwat) -[@Karim-Daouas](https://github.com/Karim-Daouas)
 
 -[@Phanix](https://github.com/Phanix) -[@MarcoM0404](https://github.com/MarcoM0404)
