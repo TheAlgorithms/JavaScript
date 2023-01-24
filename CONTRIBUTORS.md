@@ -12,7 +12,7 @@
 
 - [@joancodes](https://github.com/joancodes)
 
-- [@fabioauroradev](https://github.com/FabioAurora)
+ -[@fabioauroradev](https://github.com/FabioAurora)
 
 - [@joancodes] (https://github.com/joancodes)
 
@@ -39,6 +39,8 @@
 - [@ProsperousHeart](https://github.com/ProsperousHeart)
 
 - [@Abu24Talha](https://github.com/abu24talha)
+
+- [Logasakthi8](https://github.com/Logasakthi8)
 
 - [@Adityapote](https://github.com/AdityaPote)
 
