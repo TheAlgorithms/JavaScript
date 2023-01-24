@@ -3999,7 +3999,7 @@
 
 - [@Uma998](https://github.com/Uma998)
 
-- [@Vertical](https://github.com/VeticaL)
+- [@Vetical](https://github.com/VeticaL)
 
 - [@Umar052001](https://github.com/umar052001)
 
