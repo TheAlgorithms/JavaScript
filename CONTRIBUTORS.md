@@ -11,9 +11,7 @@
 - [@belaid-dali](https://github.com/belaid-dali)
 
 - [@joancodes](https://github.com/joancodes)
-- 
-- [@Logasakthi8](https://github.com/Logasakthi8)
-- 
+
  -[@fabioauroradev](https://github.com/FabioAurora)
 
 - [@joancodes] (https://github.com/joancodes)
@@ -39,6 +37,8 @@
 - [@ProsperousHeart](https://github.com/ProsperousHeart)
 
 - [@Abu24Talha](https://github.com/abu24talha)
+
+- [Logasakthi8](https://github.com/Logasakthi8)
 
 - [@Adityapote](https://github.com/AdityaPote)
 
