@@ -12,7 +12,7 @@
 
 - [@joancodes](https://github.com/joancodes)
 
- -[@fabioauroradev](https://github.com/FabioAurora)
+  -[@fabioauroradev](https://github.com/FabioAurora)
 
 - [@joancodes] (https://github.com/joancodes)
 
@@ -8101,3 +8101,5 @@
 -[@anuryakubu](https://github.com/anuryakubu/)
 
 -[@clarsendartois](https://github.com/clarsendartois/)
+
+-[@kaloyanTry](https://github.com/kaloyanTry/JS-Web-Projects)
