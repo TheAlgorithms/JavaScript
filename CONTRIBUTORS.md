@@ -101,3 +101,5 @@
 - [@clarsendartois](https://github.com/clarsendartois/)
 
 - [@kaloyanTry](https://github.com/kaloyanTry/JS-Web-Projects)
+
+- [@Shipkush](https://github.com/Shipkush)
