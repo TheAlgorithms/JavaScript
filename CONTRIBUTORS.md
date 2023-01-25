@@ -8103,6 +8103,6 @@
 
 -[@anuryakubu](https://github.com/anuryakubu/)
 
--[@clarsendartois](https://github.com/clarsendartois/)
+-[@clarsendartois](https://github.com/clarsendartois/) 
 
-
+-[@kaloyanTry](https://github.com/kaloyanTry/JS-Web-Projects)
