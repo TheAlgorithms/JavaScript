@@ -1,9 +1,7 @@
 # CONTRIBUTORS
 
-<<<<<<< HEAD
 
 - # [@p-acs8](https://github.com/p-acs8/)
-  > > > > > > > 48775cbb222d7928a6cb6d189147a21612c84b82
 
 -[@bustillos83] (https://github.com/bustillos83)
 
@@ -107,6 +105,8 @@
 
 - [@Mikedadalin](https://github.com/mikedadalin)
 
+- [@pjmcdermott92](https://github.com/pjmcdermott92)
+
 - [@Mikerobards](https://github.com/mikerobards)
 
 - [@Mmassoud](https://github.com/M-Massoud)
@@ -182,6 +182,8 @@
 -[@dkembre](https://github.com/dkembre)
 
 -[@pinatic](https://github.com/Pinatic79)
+
+-[@Ruben](https://github.com/Rube01)
 
 -[@rzilla92](https://github.com/rzilla92/)
 
@@ -279,6 +281,8 @@
 
 -[@Phanix](https://github.com/Phanix)
 
+-[@bigeomaha](https://github.com/bigeomaha)
+
 -[@MarcoM0404](https://github.com/MarcoM0404)
 
 -[@hakedo](https://github.com/hakedo)
@@ -349,13 +353,11 @@
 
 - [@Nisan94](https://github.com/Nisan94/)
 
-<<<<<<< HEAD
-
 - [@Ahmedalmawardy](https://github.com/ahmed-almawardy)
-  -manavsuresh.04
-- # [@Ahmedelhamyallam](https://github.com/Ahmed-Elhamy-Allam)
+
+- [@Ahmedelhamyallam](https://github.com/Ahmed-Elhamy-Allam)
+
 - [@dreamdev41](https://github.com/dreamdev41)
-  > > > > > > > 48775cbb222d7928a6cb6d189147a21612c84b82
 
 -[@marshlendel](https://github.com/marshlendel)
 
@@ -5097,6 +5099,8 @@
 
 - [@srdjanmaravic](https://github.com/srdjanmaravic)
 
+- [@chasewri](https://github.com/chasewri)
+
 - [@jehadhl](https://github.com/jehadhl)
 
 - [@richardsdexa](https://github.com/richardsdexa)
@@ -7328,10 +7332,13 @@
 
 -[@cherrydub](https://github.com/cherrydub)
 
--[@rhinoxD](https://github.com/rhinoxD) -[@chyegembaj](https://github.com/chyegembaj)
+-[@rhinoxD](https://github.com/rhinoxD) 
 
-<<<<<<< HEAD -[@VeticaL](https://github.com/VeticaL)
-======= -[@lupuioana](https://github.com/lupuioana)
+-[@chyegembaj](https://github.com/chyegembaj)
+
+-[@VeticaL](https://github.com/VeticaL)
+
+-[@lupuioana](https://github.com/lupuioana)
 
 -[@maryambani](https://github.com/maryambani)
 
@@ -8106,4 +8113,10 @@
 
 -[@slim9th](https://github.com/slim9th/)
 
-> > > > > > > 48775cbb222d7928a6cb6d189147a21612c84b82
+-[@theillo](https://github.com/theillo/)
+
+-[@bbocko](https://github.com/bbocko)
+
+-[@anuryakubu](https://github.com/anuryakubu/)
+
+-[@clarsendartois](https://github.com/clarsendartois/)
