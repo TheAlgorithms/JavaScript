@@ -3603,6 +3603,7 @@
 
 - [@Skywalkersam](https://github.com/skywalkerSam)
 - [@sentinel1909](https://github.com/sentinel1909)
+- [@IsahiahAL](https://github.com/IsahiahAL)
 
 - [@Slyeman](https://github.com/Slye-Man)
 
@@ -8096,10 +8097,12 @@
 
 -[@theillo](https://github.com/theillo/)
 
+-[@LeoD14](https://github.com/LeoD14/)
+
 -[@bbocko](https://github.com/bbocko)
 
 -[@anuryakubu](https://github.com/anuryakubu/)
 
--[@clarsendartois](https://github.com/clarsendartois/)
+-[@clarsendartois](https://github.com/clarsendartois/) 
 
 -[@kaloyanTry](https://github.com/kaloyanTry/JS-Web-Projects)
