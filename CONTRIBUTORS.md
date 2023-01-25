@@ -102,6 +102,8 @@
 
 - [@Mikedadalin](https://github.com/mikedadalin)
 
+- [@pjmcdermott92](https://github.com/pjmcdermott92)
+
 - [@Mikerobards](https://github.com/mikerobards)
 
 - [@Mmassoud](https://github.com/M-Massoud)
@@ -177,6 +179,8 @@
 -[@dkembre](https://github.com/dkembre)
 
 -[@pinatic](https://github.com/Pinatic79)
+
+-[@Ruben](https://github.com/Rube01)
 
 -[@rzilla92](https://github.com/rzilla92/)
 
@@ -273,6 +277,8 @@
 -[@Karim-Daouas](https://github.com/Karim-Daouas)
 
 -[@Phanix](https://github.com/Phanix)
+
+-[@bigeomaha](https://github.com/bigeomaha)
 
 -[@MarcoM0404](https://github.com/MarcoM0404)
 
@@ -5084,6 +5090,8 @@
 
 - [@srdjanmaravic](https://github.com/srdjanmaravic)
 
+- [@chasewri](https://github.com/chasewri)
+
 - [@jehadhl](https://github.com/jehadhl)
 
 - [@richardsdexa](https://github.com/richardsdexa)
@@ -8089,3 +8097,10 @@
 -[@theillo](https://github.com/theillo/)
 
 -[@LeoD14](https://github.com/LeoD14/)
+
+-[@bbocko](https://github.com/bbocko)
+
+-[@anuryakubu](https://github.com/anuryakubu/)
+
+-[@clarsendartois](https://github.com/clarsendartois/)
+
