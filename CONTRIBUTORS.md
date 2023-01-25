@@ -102,6 +102,8 @@
 
 - [@Mikedadalin](https://github.com/mikedadalin)
 
+- [@pjmcdermott92](https://github.com/pjmcdermott92)
+
 - [@Mikerobards](https://github.com/mikerobards)
 
 - [@Mmassoud](https://github.com/M-Massoud)
