@@ -5091,6 +5091,8 @@
 
 - [@srdjanmaravic](https://github.com/srdjanmaravic)
 
+- [@chasewri](https://github.com/chasewri)
+
 - [@jehadhl](https://github.com/jehadhl)
 
 - [@richardsdexa](https://github.com/richardsdexa)
@@ -8095,6 +8097,12 @@
 
 -[@theillo](https://github.com/theillo/)
 
+-[@LeoD14](https://github.com/LeoD14/)
+
 -[@bbocko](https://github.com/bbocko)
 
 -[@anuryakubu](https://github.com/anuryakubu/)
+
+-[@clarsendartois](https://github.com/clarsendartois/)
+
+
