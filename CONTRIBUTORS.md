@@ -44,6 +44,8 @@
 
 - [@andrewsservices](https://github.com/andrewsservices)
 
+- [@ufaruki](https://github.com/ufaruki)
+
 - [@MatG91](https://github.com/MatG91)
 
 - [@SabareesanThirukumaran](https://github.com/SabareesanThirukumaran)
