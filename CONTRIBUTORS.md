@@ -126,10 +126,24 @@
 
 - [@williamhill11](https://github.com/WilliamHill11)
 
+- [@Ahmed-Sohail2000](https://github.com/Ahmed-Sohail2000)
+
 - [@joshuagates](https://github.com/JoshuaGates92)
 
 - [@ramakrishnanshreya](https://github.com/ramakrishnanshreya)
 
 - [@guilhas5](https://guilhas5.github.io/guilhas5/)
 
+<<<<<<< HEAD
 - [@Yasutora23](https://github.com/Yasutora23)
+=======
+- [@ravelandante](https://github.com/ravelandante)
+
+- [@JRFink](https://github.com/JRFink)
+
+- [@iotengtr](https://github.com/iotengtr)
+
+- [@dubymarjtr](https://github.com/dubymarjtr)
+
+- [@emre-ergun](https://github.com/emre-ergun)
+>>>>>>> master
