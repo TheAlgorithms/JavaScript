@@ -14,6 +14,8 @@
 
 - [@Therendy24](https://github.com/Therendy24)
 
+- [@ifeanyiHM](https://github.com/ifeanyiHM)
+
 - [yanathedev](https://github.com/yanathedev)
 
 - [Mister-ked](https://github.com/Mister-ked)
