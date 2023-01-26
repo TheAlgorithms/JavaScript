@@ -124,5 +124,6 @@
 
 - [@williamhill11](https://github.com/WilliamHill11)
 
+- [@joshuagates](https://github.com/JoshuaGates92)
 
 [@ramakrishnanshreya](https://github.com/ramakrishnanshreya)
