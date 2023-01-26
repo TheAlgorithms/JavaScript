@@ -28,6 +28,8 @@
 
 - [@henry.codex](https://github.com/henry.codex/)
 
+- [@michellelanecode](https://github.com/michellelanecode)
+
 - [@shkoda21](https://github.com/shkoda21/)
 
 - [@hireneelpro](https://github.com/hireneelpro)
