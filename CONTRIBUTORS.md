@@ -120,7 +120,7 @@
 
 - [@Shipkush](https://github.com/Shipkush)
 
-- [@Mod-Ramahi](https://github.com/Mod-Ramahi/)
+-[@Mod-Ramahi](https://github.com/Mod-Ramahi/)
 
 - [@adbogan1](https://github.com/adbogan1)
 
@@ -130,13 +130,9 @@
 
 - [@joshuagates](https://github.com/JoshuaGates92)
 
-- [@ramakrishnanshreya](https://github.com/ramakrishnanshreya)
-
+[@ramakrishnanshreya](https://github.com/ramakrishnanshreya)
 - [@guilhas5](https://guilhas5.github.io/guilhas5/)
 
-<<<<<<< HEAD
-- [@Yasutora23](https://github.com/Yasutora23)
-=======
 - [@ravelandante](https://github.com/ravelandante)
 
 - [@JRFink](https://github.com/JRFink)
@@ -146,4 +142,3 @@
 - [@dubymarjtr](https://github.com/dubymarjtr)
 
 - [@emre-ergun](https://github.com/emre-ergun)
->>>>>>> master
