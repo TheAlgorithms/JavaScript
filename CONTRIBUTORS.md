@@ -72,6 +72,8 @@
 
 - [@prokys](https://github.com/prokys)
 
+- [awmorrell](https://github.com/awmorrell)
+
 - [@prokys](https://github.com/prokys)
 
 - [RusB25](https://github.com/RusB25)
