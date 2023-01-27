@@ -66,6 +66,8 @@
 
 - [@TexterD](https://github.com/TexterD/)
 
+- [@AyushAman](https://github.com/aayushaman)
+
 - [@ManideepPaul](https://github.com/ManideepPaul)
 
 - [@Huber00](https://github.com/Huber00)
