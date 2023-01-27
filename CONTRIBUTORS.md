@@ -181,7 +181,6 @@
 - [@SaraMoad](https://github.com/SaraMoad)
 
 - [OrnlyP63](https://github.com/OrnlyP63)
-  
 - [JaacielBriseo](https://github.com/JaacielBriseo)
 
 - [@jeremytboyer](https://github.com/jeremytboyer)
@@ -201,3 +200,5 @@
 -[@izzybolts](https://github.com/aneagoie/)
 
 -[@osilama](https://github.com/osilama)
+
+-[@bendamian](https://github.com/bendamian)
