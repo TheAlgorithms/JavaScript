@@ -1,7 +1,7 @@
 # CONTRIBUTORS
 
 - [@cem-1](https://github.com/cem-1)
-- 
+-
 - [@ubaidh](https://github.com/ubaidh)
 
 - [@owenventer](https://github.com/owenventer)
@@ -143,6 +143,7 @@
 - [@joshuagates](https://github.com/JoshuaGates92)
 
 [@ramakrishnanshreya](https://github.com/ramakrishnanshreya)
+
 - [@guilhas5](https://guilhas5.github.io/guilhas5/)
 
 - [@ravelandante](https://github.com/ravelandante)
@@ -166,3 +167,5 @@
 - [@johnvillez](https://github.com/johnvillez)
 
 -[@SaraMoad](https://github.com/SaraMoad)
+
+-[@jeremytboyer] (https://github.com/jeremytboyer)
