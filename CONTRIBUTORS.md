@@ -1,4 +1,4 @@
-# CONTRIBUTORS
+    # CONTRIBUTORS
 
 - [@cem-1](https://github.com/cem-1)
 -
@@ -15,6 +15,8 @@
 - [@andreymorogan](https://github.com/andreymorogan)
 
 - [@SebDoesCode](https://github.com/SebDoesCode)
+
+- [@nekimuntu](https://github.com/nekimuntu)
 
 - [@Therendy24](https://github.com/Therendy24)
 
@@ -66,6 +68,8 @@
 
 - [@ManideepPaul](https://github.com/ManideepPaul)
 
+- [@Huber00](https://github.com/Huber00)
+
 - [@stpeteriz](https://github.com/stpeteriz)
 
 - [@nursamyrzash](https://github.com/nursamyrzash)
@@ -83,6 +87,8 @@
 - [@Ruben](https://github.com/Rube01)
 
 - [0xSilkweave](https://github.com/0xSilkweave)
+
+- [@georgeyjacob](https://github.com/georgeyjacob)
 
 -[@ayaphillip](https://github.com/ayaphillip)
 
@@ -169,3 +175,10 @@
 -[@SaraMoad](https://github.com/SaraMoad)
 
 - [@jeremytboyer](https://github.com/jeremytboyer)
+
+- [OrnlyP63](https://github.com/OrnlyP63)
+
+- [@Aluisio-Matias](https://github.com/Aluisio-Matias)
+
+-[@sazuke1035](https://github.com/sazuke1035)
+
