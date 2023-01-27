@@ -136,6 +136,8 @@
 
 - [@kaloyanTry](https://github.com/kaloyanTry/JS-Web-Projects)
 
+- [@stefanmanninen](https://github.com/StefanManninen/)
+
 - [@Shipkush](https://github.com/Shipkush)
 
 - [@Mod-Ramahi](https://github.com/Mod-Ramahi/)
@@ -147,6 +149,8 @@
 - [@Ahmed-Sohail2000](https://github.com/Ahmed-Sohail2000)
 
 - [@joshuagates](https://github.com/JoshuaGates92)
+
+- [@ramakrishnanshreya](https://github.com/ramakrishnanshreya)
 
 - [@ramakrishnanshreya](https://github.com/ramakrishnanshreya)
 
@@ -189,4 +193,6 @@
 - [@Aluisio-Matias](https://github.com/Aluisio-Matias)
 
 - [@Ahmed-Abdeldayem](https://github.com/Ahmed-Abdeldayem)
+
+- [@Aluisio-Matias](https://github.com/Aluisio-Matias)
 
