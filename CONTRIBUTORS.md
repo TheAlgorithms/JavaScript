@@ -1,7 +1,7 @@
 # CONTRIBUTORS
 
 - [@cem-1](https://github.com/cem-1)
-- 
+-
 - [@ubaidh](https://github.com/ubaidh)
 
 - [@owenventer](https://github.com/owenventer)
@@ -132,6 +132,8 @@
 
 - [@kaloyanTry](https://github.com/kaloyanTry/JS-Web-Projects)
 
+- [@stefanmanninen](https://github.com/StefanManninen/)
+
 - [@Shipkush](https://github.com/Shipkush)
 
 -[@Mod-Ramahi](https://github.com/Mod-Ramahi/)
@@ -145,6 +147,7 @@
 - [@joshuagates](https://github.com/JoshuaGates92)
 
 [@ramakrishnanshreya](https://github.com/ramakrishnanshreya)
+
 - [@guilhas5](https://guilhas5.github.io/guilhas5/)
 
 - [@ravelandante](https://github.com/ravelandante)
