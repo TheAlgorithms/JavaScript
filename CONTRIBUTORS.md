@@ -168,4 +168,4 @@
 
 -[@SaraMoad](https://github.com/SaraMoad)
 
--[@jeremytboyer] (https://github.com/jeremytboyer)
+- [@jeremytboyer](https://github.com/jeremytboyer)
