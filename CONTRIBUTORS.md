@@ -155,4 +155,6 @@
 
 - [@Yasutora23](https://github.com/Yasutora23)
 
+- [@Jesusmjc](https://github.com/Jesusmjc)
+
 - [@SamstyleGhost](https://github.com/SamstyleGhost)
