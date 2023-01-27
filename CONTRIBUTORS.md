@@ -1,7 +1,7 @@
-# CONTRIBUTORS
+    # CONTRIBUTORS
 
 - [@cem-1](https://github.com/cem-1)
--
+
 - [@ubaidh](https://github.com/ubaidh)
 
 - [@owenventer](https://github.com/owenventer)
@@ -15,6 +15,8 @@
 - [@andreymorogan](https://github.com/andreymorogan)
 
 - [@SebDoesCode](https://github.com/SebDoesCode)
+
+- [@nekimuntu](https://github.com/nekimuntu)
 
 - [@Therendy24](https://github.com/Therendy24)
 
@@ -86,9 +88,11 @@
 
 - [0xSilkweave](https://github.com/0xSilkweave)
 
--[@ayaphillip](https://github.com/ayaphillip)
+- [@georgeyjacob](https://github.com/georgeyjacob)
 
--[@surajpokhriyal9756](https://github.com/surajpokhriyal9756)
+- [@ayaphillip](https://github.com/ayaphillip)
+
+- [@surajpokhriyal9756](https://github.com/surajpokhriyal9756)
 
 - [littlw](https://github.com/littlw)
 
@@ -136,7 +140,7 @@
 
 - [@Shipkush](https://github.com/Shipkush)
 
--[@Mod-Ramahi](https://github.com/Mod-Ramahi/)
+- [@Mod-Ramahi](https://github.com/Mod-Ramahi/)
 
 - [@adbogan1](https://github.com/adbogan1)
 
@@ -146,7 +150,9 @@
 
 - [@joshuagates](https://github.com/JoshuaGates92)
 
-[@ramakrishnanshreya](https://github.com/ramakrishnanshreya)
+- [@ramakrishnanshreya](https://github.com/ramakrishnanshreya)
+
+- [@ramakrishnanshreya](https://github.com/ramakrishnanshreya)
 
 - [@guilhas5](https://guilhas5.github.io/guilhas5/)
 
@@ -170,8 +176,23 @@
 
 - [@johnvillez](https://github.com/johnvillez)
 
--[@SaraMoad](https://github.com/SaraMoad)
+- [@SaraMoad](https://github.com/SaraMoad)
+
+- [OrnlyP63](https://github.com/OrnlyP63)
+  
+- [JaacielBriseo](https://github.com/JaacielBriseo)
+
+- [@jeremytboyer](https://github.com/jeremytboyer)
 
 - [OrnlyP63](https://github.com/OrnlyP63)
 
 - [@Aluisio-Matias](https://github.com/Aluisio-Matias)
+
+- [@sazuke1035](https://github.com/sazuke1035)
+
+- [@Aluisio-Matias](https://github.com/Aluisio-Matias)
+
+- [@Ahmed-Abdeldayem](https://github.com/Ahmed-Abdeldayem)
+
+- [@Aluisio-Matias](https://github.com/Aluisio-Matias)
+
