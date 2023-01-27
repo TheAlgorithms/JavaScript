@@ -86,6 +86,8 @@
 
 - [0xSilkweave](https://github.com/0xSilkweave)
 
+- [@georgeyjacob](https://github.com/georgeyjacob)
+
 -[@ayaphillip](https://github.com/ayaphillip)
 
 -[@surajpokhriyal9756](https://github.com/surajpokhriyal9756)
