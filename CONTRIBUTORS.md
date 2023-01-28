@@ -201,3 +201,5 @@
 -[@izzybolts](https://github.com/aneagoie/)
 
 -[@osilama](https://github.com/osilama)
+
+-[@watanaprasit](https://github.com/watanaprasit)
