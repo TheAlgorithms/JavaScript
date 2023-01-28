@@ -187,10 +187,12 @@
 - [OrnlyP63](https://github.com/OrnlyP63)
 
 - [@TechnicalJonas](https://github.com/TechnicalJonas)
-<<<<<<< HEAD
+  <<<<<<< HEAD
 
 =======
->>>>>>> 5e100c5ed6453d16b5c5101160d512bad7aab38a
+
+> > > > > > > 5e100c5ed6453d16b5c5101160d512bad7aab38a
+
 - [JaacielBriseo](https://github.com/JaacielBriseo)
 
 - [@jeremytboyer](https://github.com/jeremytboyer)
@@ -219,12 +221,10 @@
 
 - [@danazhunussova](https://github.com/danazhunussova/)
 
-<<<<<<< HEAD
--[@Taphadzqa](https://github.com/Taphadzqa)
-=======
+- [@Taphadzqa](https://github.com/Taphadzqa)
+
 - [@Tricky](https://github.com/Trickkyyy/)
 
 - [@danazhunussova](https://github.com/danazhunussova/)
 
 - [@Taphadzqa](https://github.com/Taphadzqa)
->>>>>>> 5e100c5ed6453d16b5c5101160d512bad7aab38a
