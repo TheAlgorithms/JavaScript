@@ -156,3 +156,5 @@
 - [@Yasutora23](https://github.com/Yasutora23)
 
 - [@SamstyleGhost](https://github.com/SamstyleGhost)
+
+- [@TechnicalJonas](https://github.com/TechnicalJonas)
