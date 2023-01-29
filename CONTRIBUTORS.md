@@ -200,4 +200,4 @@
 
 -[@izzybolts](https://github.com/aneagoie/)
 
--[@osilama](https://github.com/osilama)
+-[@osilama-lab](https://github.com/osilama-lab)
