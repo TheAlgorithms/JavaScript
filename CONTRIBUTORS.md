@@ -66,6 +66,8 @@
 
 - [@TexterD](https://github.com/TexterD/)
 
+-[@Vern-code](https://github.com/Vern-code)
+
 - [@AyushAman](https://github.com/aayushaman)
 
 - [@ManideepPaul](https://github.com/ManideepPaul)
@@ -146,6 +148,8 @@
 
 - [@adbogan1](https://github.com/adbogan1)
 
+- [@robinpunn](https://github.com/robinpunn)
+
 - [@williamhill11](https://github.com/WilliamHill11)
 
 - [@Ahmed-Sohail2000](https://github.com/Ahmed-Sohail2000)
@@ -181,6 +185,9 @@
 - [@SaraMoad](https://github.com/SaraMoad)
 
 - [OrnlyP63](https://github.com/OrnlyP63)
+
+- [@TechnicalJonas](https://github.com/TechnicalJonas)
+
 - [JaacielBriseo](https://github.com/JaacielBriseo)
 
 - [@jeremytboyer](https://github.com/jeremytboyer)
@@ -202,3 +209,16 @@
 -[@osilama](https://github.com/osilama)
 
 -[@bendamian](https://github.com/bendamian)
+
+-[@watanaprasit](https://github.com/watanaprasit)
+
+-[@rajeetdel](https://github.com/rajeetdel)
+
+- [@RiyandiDjohari](https://github.com/RiyandiDjohari)
+
+-[@danazhunussova](https://github.com/danazhunussova/)
+
+-[@Taphadzqa](https://github.com/Taphadzqa)
+
+-[@ljhuzii](https://github.com/ljhuzii)
+
