@@ -8046,6 +8046,8 @@
 
 - [@stefanmanninen](https://github.com/StefanManninen/)
 
+- [@collinsmbaka](https://github.com/collinsmbaka/)
+
 - [@Shipkush](https://github.com/Shipkush)
 
 - [@Mod-Ramahi](https://github.com/Mod-Ramahi/)
