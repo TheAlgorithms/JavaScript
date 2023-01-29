@@ -8106,8 +8106,6 @@
 
 -[@izzybolts](https://github.com/aneagoie/)
 
--[@anuryakubu](https://github.com/anuryakubu)
-
 -[@RashadC30](https://github.com/RashadC30)
 
 -[@osilama](https://github.com/osilama)
@@ -8120,9 +8118,11 @@
 
 - [@RiyandiDjohari](https://github.com/RiyandiDjohari)
 
-- [@YuWaiLinn](https://github.com/YuWaiLinn)
-
 -[@danazhunussova](https://github.com/danazhunussova/)
+
+-[@pytholic](https://github.com/pytholic)
+
+- [@YuWaiLinn](https://github.com/YuWaiLinn)
 
 -[@Taphadzqa](https://github.com/Taphadzqa)
 
