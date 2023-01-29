@@ -187,7 +187,6 @@
 - [OrnlyP63](https://github.com/OrnlyP63)
 
 - [@TechnicalJonas](https://github.com/TechnicalJonas)
-  
 
 - [JaacielBriseo](https://github.com/JaacielBriseo)
 
@@ -209,6 +208,8 @@
 
 -[@osilama](https://github.com/osilama)
 
+-[@bendamian](https://github.com/bendamian)
+
 -[@watanaprasit](https://github.com/watanaprasit)
 
 -[@rajeetdel](https://github.com/rajeetdel)
@@ -220,3 +221,4 @@
 -[@Taphadzqa](https://github.com/Taphadzqa)
 
 -[@ljhuzii](https://github.com/ljhuzii)
+
