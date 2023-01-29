@@ -8104,7 +8104,9 @@
 
 - [@Aluisio-Matias](https://github.com/Aluisio-Matias)
 
--[@izzybolts](https://github.com/aneagoie/)
+- [@izzybolts](https://github.com/aneagoie/)
+
+- [@watanaprasit](https://github.com/watanaprasit)
 
 -[@RashadC30](https://github.com/RashadC30)
 
@@ -8114,17 +8116,19 @@
 
 -[@watanaprasit](https://github.com/watanaprasit)
 
--[@rajeetdel](https://github.com/rajeetdel)
+- [@rajeetdel](https://github.com/rajeetdel)
 
 - [@RiyandiDjohari](https://github.com/RiyandiDjohari)
 
--[@danazhunussova](https://github.com/danazhunussova/)
+- [@Taphadzqa](https://github.com/Taphadzqa)
+
+- [@Tricky](https://github.com/Trickkyyy/)
+
+- [@danazhunussova](https://github.com/danazhunussova/)
 
 -[@pytholic](https://github.com/pytholic)
 
 - [@YuWaiLinn](https://github.com/YuWaiLinn)
-
--[@Taphadzqa](https://github.com/Taphadzqa)
 
 -[@ljhuzii](https://github.com/ljhuzii)
 
