@@ -40,6 +40,8 @@
 
 - [@brandonHafley](https://github.com/brandonHafley)
 
+- [@wadeevans](https://github.com/wadeevans)
+
 - [@ProsperousHeart](https://github.com/ProsperousHeart)
 
 - [@Abu24Talha](https://github.com/abu24talha)
