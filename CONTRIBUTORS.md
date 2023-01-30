@@ -42,6 +42,8 @@
 
 - [@wadeevans](https://github.com/wadeevans)
 
+- [@giolmartin](https://github.com/giolmartin)
+
 - [@ProsperousHeart](https://github.com/ProsperousHeart)
 
 - [@Abu24Talha](https://github.com/abu24talha)
