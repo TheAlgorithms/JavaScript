@@ -8173,4 +8173,6 @@
 
 - [@AIisDway](https://github.com/AIisDway)
 
+- [@willdelorm](https://github.com/willdelorm)
+
 - [@j-zylstra](https://github.com/j-zylstra)
