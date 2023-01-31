@@ -8176,5 +8176,8 @@
 - [@AIisDway](https://github.com/AIisDway)
 
 - [@willdelorm](https://github.com/willdelorm)
+-[@Gabeifeoluwa](https://github.com/Gabeifeoluwa)
 
 - [@j-zylstra](https://github.com/j-zylstra)
+
+-[@julioc104](https://github.com/julioc104)
