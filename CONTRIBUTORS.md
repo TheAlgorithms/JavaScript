@@ -1070,6 +1070,8 @@
 
 - [@Dylanb6](https://github.com/dylanb6)
 
+- [@jovannickovic](https://github.com/jovannickovic)
+
 - [@Dzayo](https://github.com/Dzayo)
 
 - [@Dzigio](https://github.com/dzigio)
