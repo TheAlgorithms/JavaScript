@@ -8120,9 +8120,9 @@
 
 -[@osilama](https://github.com/osilama)
 
--[@bendamian](https://github.com/bendamian)
+- [@bendamian](https://github.com/bendamian)
 
--[@watanaprasit](https://github.com/watanaprasit)
+- [@watanaprasit](https://github.com/watanaprasit)
 
 - [@rajeetdel](https://github.com/rajeetdel)
 
