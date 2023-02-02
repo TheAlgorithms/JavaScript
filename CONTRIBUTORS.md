@@ -80,6 +80,8 @@
 
 - [@Chonsawat](https://github.com/chonsawat)
 
+- [@MichaelLuppino](https://github.com/MichaelLuppino)
+
 - [@Clairekarsenti](https://github.com/ClaireKarsenti)
 
 - [@Dkembre](https://github.com/dkembre)
