@@ -8149,5 +8149,3 @@
 - [@SarperMakas](https://github.com/SarperMakas)
 
 - [@sunnySavlot](https://github.com/sunnySavlot)
-
-- [@henryapm](https://github.com/henryapm)
