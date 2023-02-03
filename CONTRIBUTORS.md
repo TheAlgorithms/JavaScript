@@ -183,6 +183,8 @@
 
 -[@dkembre](https://github.com/dkembre)
 
+- [@MichielAdriaansens](https://github.com/MichielAdriaansens)
+
 -[@pinatic](https://github.com/Pinatic79)
 
 -[@dkembre](https://github.com/dkembre) -[@pinatic](https://github.com/Pinatic79)
