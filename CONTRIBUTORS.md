@@ -94,6 +94,8 @@
 
 - [@Ghintema](https://github.com/ghintema)
 
+- [@PriyanshuSinghR](https://github.com/PriyanshuSinghR)
+
 - [@chaossaver103](https://github.com/chaossaver103)
 
 -[@jlarsen0206](https://github.com/jlarsen0206)
