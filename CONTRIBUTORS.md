@@ -1614,6 +1614,8 @@
 
 - [@Iamniteshpandit](https://github.com/IAMNITESHPANDIT)
 
+- [@KaizokuStrawHat](https://github.com/KaizokuStrawHat)
+
 - [@Iamrindersingh](https://github.com/IAmrinderSingh)
 
 - [@Ibnbakare](https://github.com/ibnbakare)
