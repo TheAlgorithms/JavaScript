@@ -219,6 +219,8 @@
 
 -[@laurabaluchova](https://github.com/laurabaluchova)
 
+-[@michalbudzik](https://github.com/michalbudzik)
+
 -[@jerryjohnsoffl](https://github.com/jerryjohnsoffl)
 
 -[@brenovlb](https://github.com/brenovlb)
