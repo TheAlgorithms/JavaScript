@@ -22,8 +22,8 @@ function searchDFS(tree, target) {
     return true;
   }
 
-  for (let i = 0; i < tree.children.length; i++) {
-    if (searchDFS(tree.children[i], target)) {
+  for (const child of tree.children) {
+    if (searchDFS(child, target)) {
       return true;
     }
   }
