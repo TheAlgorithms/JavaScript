@@ -3102,6 +3102,8 @@
 
 - [@Qassu02](https://github.com/qassu02)
 
+- [@leviayelin](http://github.com/leviayelin)
+
 - [@Qchr1581](https://github.com/QCHR1581)
 
 - [@Qiqt](https://github.com/qiqt)
