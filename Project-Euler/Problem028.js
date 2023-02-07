@@ -40,7 +40,7 @@ function problem28 (dim) {
       * Third corner: i^2 - 2 * (i - 1)
       * Fourth corner: i^2 - 3 * (i - 1)
       *
-      * Doing the sum of each corner and simplifing, we found that the result for each dimension is:
+      * Doing the sum of each corner and simplifying, we found that the result for each dimension is:
       * sumDim = 4 * i^2 + 6 * (1 - i)
       *
       * In this case I skip the 1x1 dim matrix because is trivial, that's why I start in a 3x3 matrix

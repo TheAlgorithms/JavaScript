@@ -7,7 +7,7 @@
 
 /**
  * @function findBinomialCoefficient
- * @description -> this function returns bonimial coefficient
+ * @description -> this function returns binomial coefficient
  * of two numbers n & k given by n!/((n-k)!k!)
  * @param {number} n
  * @param {number} k

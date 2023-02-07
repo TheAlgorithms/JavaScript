@@ -63,7 +63,7 @@ const uniquePaths2 = (obstacles) => {
     grid[0][j] = 1
   }
   // Fill the rest of grid by dynamic programming
-  // using following reccurent formula:
+  // using following recurrent formula:
   // K[i][j] = K[i - 1][j] + K[i][j - 1]
   for (let i = 1; i < rows; i++) {
     for (let j = 1; j < columns; j++) {

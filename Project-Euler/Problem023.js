@@ -14,7 +14,7 @@
  */
 
 /**
- * collect the abundant numbers, generate and store their sums with each other, and check for numbers not in the llst of sums, adds them and returns their sum.
+ * collect the abundant numbers, generate and store their sums with each other, and check for numbers not in the list of sums, adds them and returns their sum.
  * @param {number} [n = 28123]
  * @returns {number}
  */

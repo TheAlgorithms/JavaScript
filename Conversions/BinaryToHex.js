@@ -29,7 +29,7 @@ const hexLookup = (bin) => {
 }
 const binaryToHex = (binaryString) => {
   /*
-  Function for convertung Binary to Hex
+  Function for converting Binary to Hex
 
   1. The conversion will start from Least Significant Digit (LSB) to the Most Significant Bit (MSB).
   2. We divide the bits into sections of 4-bits starting from LSB to MSB.

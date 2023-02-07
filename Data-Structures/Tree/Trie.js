@@ -83,8 +83,8 @@ Trie.prototype.remove = function (word, count) {
   if (child.count >= count) child.count -= count
   else child.count = 0
 
-  // If some occurrences are left we dont delete it or else
-  // if the object forms some other objects prefix we dont delete it
+  // If some occurrences are left we don't delete it or else
+  // if the object forms some other objects prefix we don't delete it
   // For checking an empty object
   // https://stackoverflow.com/questions/679915/how-do-i-test-for-an-empty-javascript-object
   if (child.count <= 0 && (Object.keys(child.children).length && child.children.constructor === Object)) {
@@ -110,7 +110,7 @@ Trie.prototype.contains = function (word) {
   return true
 }
 
-Trie.prototype.findOccurences = function (word) {
+Trie.prototype.findOccurrences = function (word) {
   // find the node with given prefix
   const node = this.findPrefix(word)
   // No such word exists

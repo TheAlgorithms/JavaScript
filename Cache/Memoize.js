@@ -30,7 +30,7 @@ const memoize = (func, cache = new Map()) => {
     /**
      * Arguments converted to JSON string for use as a key of Map - it's easy to detect collections like -> Object and Array
      * If the args input is -> [new Set([1, 2, 3, 4]), {name: 'myName', age: 23}]
-     * Then the agrsKey generate to -> '[[1,2,3,4],{"name":"myName","age":23}]' which is JSON mean string
+     * Then the argsKey generate to -> '[[1,2,3,4],{"name":"myName","age":23}]' which is JSON mean string
      * Now it's ready to be a perfect key for Map
      */
     const argsKey = JSON.stringify(args, jsonReplacer)
