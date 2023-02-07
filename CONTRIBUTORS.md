@@ -491,6 +491,8 @@
 
 - [@Bhav1K](https://github.com/bhav1k)
 
+- [@Bhavant](https://github.com/bhavant)
+
 - [@Bidyutmaji](https://github.com/Bidyutmaji/)
 
 - [@Bigpabby](https://github.com/Big-Pabby)
