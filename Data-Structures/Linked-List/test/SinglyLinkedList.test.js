@@ -150,6 +150,20 @@ describe('SinglyLinkedList', () => {
     expect(list.head()).toBe(30)
   })
 
+  it('Check tail', () => {
+    const list = new LinkedList()
+    expect(list.tail()).toBe(null)
+
+    list.addLast(10)
+    expect(list.tail()).toBe(10)
+
+    list.addLast(20)
+    expect(list.tail()).toBe(20)
+
+    list.addFirst(30)
+    expect(list.tail()).toBe(20)
+  })
+
   it('Check size', () => {
     const list = new LinkedList()
     expect(list.size()).toBe(0)
