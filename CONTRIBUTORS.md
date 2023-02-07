@@ -8282,3 +8282,5 @@
 - [@MoncoCarser](https://github.com/MoncoCarser)
 
 - [@shafiqh2](https://github.com/shafiqh2)
+
+- [@Mauricio-Torresl](https://github.com/Mauricio-Torresl/)
