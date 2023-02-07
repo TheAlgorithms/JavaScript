@@ -9,7 +9,7 @@ describe('tests for mean absolute deviation', () => {
     expect(() => meanAbsoluteDeviation('fgh')).toThrow()
   })
 
-  it('should return the mean absolute devition of an array of numbers', () => {
+  it('should return the mean absolute deviation of an array of numbers', () => {
     const meanAbDev = meanAbsoluteDeviation([2, 34, 5, 0, -2])
     expect(meanAbDev).toBe(10.479999999999999)
   })

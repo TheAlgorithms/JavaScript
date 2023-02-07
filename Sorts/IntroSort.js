@@ -1,5 +1,5 @@
 /**
- * @function Intosort (As implemented in STD C++ Lib)
+ * @function Introsort (As implemented in STD C++ Lib)
  * The function performs introsort which is used in
  * C++ Standard LIbrary, the implementation is inspired from]
  * library routine itself.
@@ -88,7 +88,7 @@ function introsort (array, compare) {
     const THRESHOLD = 16
     /**
      * @constant TUNEMAXDEPTH
-     * Constant usec to increase or decrease value
+     * Constant used to increase or decrease value
      * of maxDepth
      */
     const TUNEMAXDEPTH = 1

@@ -1,6 +1,6 @@
 /**
  * Author: Adrito Mukherjee
- * Findind Lowest Common Ancestor By Binary Lifting implementation in JavaScript
+ * Finding Lowest Common Ancestor By Binary Lifting implementation in JavaScript
  * The technique requires preprocessing the tree in O(N log N) using dynamic programming)
  * It can be used to find Lowest Common Ancestor of two nodes in O(log N)
  * Tutorial on Lowest Common Ancestor: https://www.geeksforgeeks.org/lca-in-a-tree-using-binary-lifting-technique

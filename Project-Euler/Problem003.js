@@ -1,18 +1,18 @@
 // https://projecteuler.net/problem=3
 
 export const largestPrime = (num = 600851475143) => {
-  let newnumm = num
+  let newnum = num
   let largestFact = 0
   let counter = 2
-  while (counter * counter <= newnumm) {
-    if (newnumm % counter === 0) {
-      newnumm = newnumm / counter
+  while (counter * counter <= newnum) {
+    if (newnum % counter === 0) {
+      newnum = newnum / counter
     } else {
       counter++
     }
   }
-  if (newnumm > largestFact) {
-    largestFact = newnumm
+  if (newnum > largestFact) {
+    largestFact = newnum
   }
   return largestFact
 }

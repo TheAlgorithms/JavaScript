@@ -19,7 +19,7 @@ describe('Test Affine Cipher', () => {
     expect(() => encrypt('null', 4, 1)).toThrow()
   })
 
-  it('Test - 3 Pass string value to encrypt and ecrypt function', () => {
+  it('Test - 3 Pass string value to encrypt and decrypt function', () => {
     expect(decrypt(encrypt('HELLO WORLD', 5, 8), 5, 8)).toBe('HELLO WORLD')
     expect(decrypt(encrypt('ABC DEF', 3, 5), 3, 5)).toBe('ABC DEF')
     expect(decrypt(encrypt('Brown fox jump over the fence', 7, 3), 7, 3)).toBe(

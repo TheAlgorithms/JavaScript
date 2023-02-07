@@ -1,7 +1,7 @@
 /**
  * Problem statement and explanation: https://en.wikipedia.org/wiki/Extended_Euclidean_algorithm
  *
- * This algorithm plays an important role for modular arithmetic, and by extension for cyptography algorithms
+ * This algorithm plays an important role for modular arithmetic, and by extension for cryptography algorithms
  *
  * Basic explanation:
  * The Extended Euclidean algorithm is a modification of the standard Euclidean GCD algorithm.

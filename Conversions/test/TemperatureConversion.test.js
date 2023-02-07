@@ -80,19 +80,19 @@ describe('Testing Conversion of Rankine to Kelvin', () => {
     expect(test1).toBe(6)
   })
 })
-describe('Testing Conversion of Reamur to Celsius', () => {
-  it('with Reamur value', () => {
+describe('Testing Conversion of Reaumur to Celsius', () => {
+  it('with Reaumur value', () => {
     const test1 = tc.reaumurToCelsius(100)
     expect(test1).toBe(125)
   })
 })
-describe('Testing Conversion of Reamur to Fahrenheit', () => {
-  it('with Reamur value', () => {
+describe('Testing Conversion of Reaumur to Fahrenheit', () => {
+  it('with Reaumur value', () => {
     const test1 = tc.reaumurToFahrenheit(100)
     expect(test1).toBe(257)
   })
 })
-describe('Testing Conversion of Reamur to Kelvin', () => {
+describe('Testing Conversion of Reaumur to Kelvin', () => {
   it('with Reamur value', () => {
     const test1 = tc.reaumurToKelvin(100)
     expect(test1).toBe(398)
