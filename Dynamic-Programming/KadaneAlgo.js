@@ -16,8 +16,8 @@ export function kadaneAlgo (array) {
     cumulativeSum = cumulativeSum + array[i]
     if (maxSum < cumulativeSum) {
       maxSum = cumulativeSum
-    } else if (cummulativeSum < 0) {
-      cummulativeSum = 0
+    } else if (cumulativeSum < 0) {
+      cumulativeSum = 0
     }
   }
   return maxSum
