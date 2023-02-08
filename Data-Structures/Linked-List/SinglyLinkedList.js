@@ -44,7 +44,7 @@ class LinkedList {
   }
 
   // Returns the tail
-  tail() {
+  tail () {
     return this.tailNode?.data || null
   }
 
@@ -68,7 +68,7 @@ class LinkedList {
   }
 
   // add a node at first it to linklist
-  addFirst(element) {
+  addFirst (element) {
     const node = new Node(element)
     // Check if its the first element
     if (this.headNode === null) {
@@ -130,7 +130,7 @@ class LinkedList {
     if (this.tailNode.data === element) {
       return this.removeLast()
     }
-    // Check whch node is the node to remove
+    // Check which node is the node to remove
     while (currentNode.next) {
       if (currentNode.next.data === element) {
         removedNode = currentNode.next
@@ -144,7 +144,7 @@ class LinkedList {
   }
 
   // Returns the index of the element passed as param otherwise -1
-  indexOf(element) {
+  indexOf (element) {
     if (this.isEmpty()) return -1
     let { currentNode, currentIndex } = this.initiateNodeAndIndex()
     while (currentNode) {
@@ -258,7 +258,7 @@ class LinkedList {
     }
     current.next = this.headNode
     tail = current
-    k = k % count
+    k %= count
     while (count - k > 0) {
       tail = tail.next
       count--
