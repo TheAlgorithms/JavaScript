@@ -8301,4 +8301,4 @@
 
 - [@victoriagullotti](https://github.com/victoriagullotti)
 
-- [@linv2198] (https://github.com/linv2198)
+- [@linv2198](https://github.com/linv2198)
