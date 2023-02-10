@@ -145,6 +145,7 @@
 - [@Ritabradley](https://github.com/ritabradley)
 
 - [@Rizamoyi](https://github.com/rizamoyi)
+-[@davidrittscher](https://github.com/DavidRittscher)
 
 - [@Romannet77](https://github.com/Romannet77)
 - [@Muhtoyyib](https://github.com/Muhtoyyib)
