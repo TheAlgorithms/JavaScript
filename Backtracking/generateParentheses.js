@@ -1,26 +1,31 @@
-/*
- * Problem Statement: Given a number n pairs of parenthses, try to Generate all combinations of valid parentheses
+/**
  *
- * link to problem: https://leetcode.com/problems/generate-parentheses/
+ * Problem Statement: Given a number n pairs of parentheses, try to Generate all combinations of valid parentheses;
  *
+ * Link to problem: https://leetcode.com/problems/generate-parentheses/
  */
 
-const generateParentheses = (n, chres, openParenthese, closedParenthese, res) => {
-  if (openParenthese === n && closedParenthese === n) {
-    res.push(chres)
-    return
+const generateParentheses = (n) => {
+  const res = []
+
+  const solve = (n, chres, openParenthese, closedParenthese, res) => {
+    if (openParenthese === n && closedParenthese === n) {
+      res.push(chres)
+      return
+    }
+
+    if (openParenthese <= n) {
+      solve(n, chres + '(', openParenthese + 1, closedParenthese, res)
+    }
+
+    if (closedParenthese < openParenthese) {
+      solve(n, chres + ')', openParenthese, closedParenthese + 1, res)
+    }
   }
 
-  if (openParenthese <= n) {
-    generateParentheses(n, chres + '(', openParenthese + 1, closedParenthese, res)
-  }
+  solve(n, '', 0, 0, res)
 
-  if (closedParenthese < openParenthese) {
-    generateParentheses(n, chres + ')', openParenthese, closedParenthese + 1, res)
-  }
+  return res
 }
-
-const res = []
-generateParentheses(3, [], 0, 0, res)
 
 export { generateParentheses }
