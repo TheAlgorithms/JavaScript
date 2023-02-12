@@ -2,7 +2,7 @@
  * Problem Statement: Given a number n pairs of parentheses, try to Generate all combinations of valid parentheses;
  * @param {number} n - number of given parentheses
  * @return {string[]} res - array that contains all valid parentheses
- * Link to problem: https://leetcode.com/problems/generate-parentheses/
+ * @see https://leetcode.com/problems/generate-parentheses/
  */
 
 const generateParentheses = (n) => {
