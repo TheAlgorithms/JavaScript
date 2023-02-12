@@ -41,6 +41,8 @@
 
 - [@Vasanth](https://github.com/v-vasanth)
 
+- [@ZaidM](https://github.com/zaid-007)
+
 - [@DanielMartinGit](https://github.com/DanielMartinGit)
 
 - [@fabio-teichmann](https://github.com/fabio-teichmann)
