@@ -3248,6 +3248,8 @@
 
 - [@Reactmallo](https://github.com/reactmallo)
 
+- [@SohamRoy](https://github.com/SohamRoy-01)
+
 - [@Realjohnadex](https://github.com/realJohnAdex)
 
 - [@Reaper922](https://github.com/Reaper922)
