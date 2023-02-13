@@ -1062,6 +1062,8 @@
 
 - [@Don1525](https://github.com/don1525)
 
+- [@dan-zayas .](https://github.com/dan-zayas)
+
 - [@Donaldosolano](https://github.com/DonaldoSolano)
 
 - [@criscaldeiraa](https://github.com/criscaldeiraa)
