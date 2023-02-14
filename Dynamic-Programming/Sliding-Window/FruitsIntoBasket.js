@@ -1,6 +1,11 @@
 /**
+ * @function totalFruit
  * @param {number[]} arr
  * @return {number} res
+ * @name sliding-window this technique is used to when you have a subsets/subsequence problem, it's efficient in terms of time complexity,
+ * since it reduces time complexity to O(n).
+ * @see hints for sliding window problems:
+ * when you see keywords like: subarrays, maximum/minimum subarray, longest substring/subsequence, etc
  * @see https://leetcode.com/problems/fruit-into-baskets/
  * @see [sliding-window-technique] (https://www.geeksforgeeks.org/window-sliding-technique/)
  */
