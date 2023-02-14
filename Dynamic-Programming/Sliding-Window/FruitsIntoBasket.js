@@ -2,12 +2,12 @@
  * @param {number[]} arr
  * @return {number} res
  * @see https://leetcode.com/problems/fruit-into-baskets/
- * @see [sliding-window-technique] (https://www.geeksforgeeks.org/window-sliding-technique/) 
+ * @see [sliding-window-technique] (https://www.geeksforgeeks.org/window-sliding-technique/)
  */
 
 export const totalFruit = function (arr) {
   let max = 0
-  let hash = {}
+  const hash = {}
   let j = 0
   let objLength = 0
 
