@@ -8425,4 +8425,6 @@
 -[@AskurTomasson] (https://github.com/AskurTomasson/)
 fe477c7f6162e310f2e603958da3d37cc1fc69ab
 
-[@duncanomondi](https://github.com/duncanomondi/)
+-[@duncanomondi](https://github.com/duncanomondi/)
+
+-[@cristina-trebe](https://github.com/cristina-trebe/)
