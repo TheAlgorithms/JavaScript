@@ -17,7 +17,7 @@ export const totalFruit = function (arr) {
   let objLength = 0
 
   for (let i = 0; i < arr.length; i++) {
-    // A hashmap keeps track of each character and it's occurence
+    // A hashmap keeps track of each character and it's occurrence
     if (!hash[arr[i]]) {
       hash[arr[i]] = 1
       // when we have a new element we increment objLength
@@ -32,7 +32,7 @@ export const totalFruit = function (arr) {
       // once we have more than two distinct elements in our hashmap, we should shrink our window
       while (objLength > 2) {
         hash[arr[j]]--
-        // when the occurence of an element becomes 0 we should delete it from the hashmap
+        // when the occurrence of an element becomes 0 we should delete it from the hashmap
         if (hash[arr[j]] === 0) {
           delete hash[arr[j]]
           objLength--
