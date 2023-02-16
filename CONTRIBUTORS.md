@@ -3264,6 +3264,8 @@
 
 - [@Rehanqasimk](https://github.com/rehanqasimk)
 
+- [@SopheeThomas](https://github.com/SopheeThomas)
+
 - [@Rehant123](https://github.com/rehant123)
 
 - [@Relieyanhilman](https://github.com/relieyanhilman)
