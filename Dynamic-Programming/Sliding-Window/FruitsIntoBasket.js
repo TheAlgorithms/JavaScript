@@ -9,11 +9,11 @@
 export const totalFruit = function (arr) {
   // to maximize number of elements that our basket can have
   let max = 0
-  // keeps track of the occurence of each element
+  // keeps track of the occurrence of each element
   const hash = {}
   // left side of the window
   let j = 0
-  // count number of elements
+  // to count number of elements
   let objLength = 0
 
   for (let i = 0; i < arr.length; i++) {
