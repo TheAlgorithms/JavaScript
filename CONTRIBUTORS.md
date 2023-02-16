@@ -16,6 +16,8 @@
 
 - [@Ngyyen](https://github.com/Ngyyen)
 
+- [@anna-kulyk](https://github.com/anna-kulyk)
+
 - [@Eklemis](https://github.com/eklemis)
 
 - [@jalonghurst](https://github.com/jalonghurst)
