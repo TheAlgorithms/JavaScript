@@ -227,6 +227,8 @@
 
 -[@K-Wiczling](https://github.com/K-Wiczling/)
 
+-[@sanyamvatta](https://github.com/sanyamvatta)
+
 -[@dmdbilal](https://github.com/dmdbilal/) -[@patrycjaslizszpytma](https://github.com/patrycjaslizszpytma)
 
 -[@Lazar Stojanović](https://github.com/Coolbylaki)
