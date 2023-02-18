@@ -5,25 +5,42 @@ const pad = (num, padlen) => {
 
 const hexLookup = (bin) => {
   let binary = bin
+  // 1
   if (binary.length < 4) {
     binary = pad(binary, 4)
   }
   switch (binary) {
+    // 2
     case '0000': return '0'
+    // 3
     case '0001': return '1'
+    // 4
     case '0010': return '2'
+    // 5
     case '0011': return '3'
+    // 6
     case '0100': return '4'
+    // 7
     case '0101': return '5'
+    // 8
     case '0110': return '6'
+    // 9
     case '0111': return '7'
+    // 10
     case '1000': return '8'
+    // 11
     case '1001': return '9'
+    // 12
     case '1010': return 'A'
+    // 13
     case '1011': return 'B'
+    // 14
     case '1100': return 'C'
+    // 15
     case '1101': return 'D'
+    // 16
     case '1110': return 'E'
+    // 17
     case '1111': return 'F'
   }
 }

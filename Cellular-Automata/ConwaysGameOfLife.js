@@ -18,19 +18,29 @@ export function newGeneration (cells) {
     for (let j = 0; j < cells[i].length; j++) {
       // Get the number of living neighbours
       let neighbourCount = 0
+      // 1
       if (i > 0 && j > 0) neighbourCount += cells[i - 1][j - 1]
+      // 2
       if (i > 0) neighbourCount += cells[i - 1][j]
+      // 3
       if (i > 0 && j < cells[i].length - 1) neighbourCount += cells[i - 1][j + 1]
+      // 4
       if (j > 0) neighbourCount += cells[i][j - 1]
+      // 5
       if (j < cells[i].length - 1) neighbourCount += cells[i][j + 1]
+      // 6
       if (i < cells.length - 1 && j > 0) neighbourCount += cells[i + 1][j - 1]
+      // 7
       if (i < cells.length - 1) neighbourCount += cells[i + 1][j]
+      // 8
       if (i < cells.length - 1 && j < cells[i].length - 1) neighbourCount += cells[i + 1][j + 1]
 
       // Decide whether the cell is alive or dead
       const alive = cells[i][j] === 1
+      // 9
       if ((alive && neighbourCount >= 2 && neighbourCount <= 3) || (!alive && neighbourCount === 3)) {
         nextGenerationRow.push(1)
+      // 10
       } else {
         nextGenerationRow.push(0)
       }

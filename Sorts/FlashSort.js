@@ -13,14 +13,17 @@ export function flashSort (arr) {
   const l = new Array(m)
 
   for (let i = 1; i < n; ++i) {
+    // 1
     if (arr[i] < min) {
       min = arr[i]
     }
+    // 2
     if (arr[i] > arr[max]) {
       max = i
     }
   }
 
+  // 3
   if (min === arr[max]) {
     return arr
   }
@@ -54,6 +57,7 @@ export function flashSort (arr) {
       ++j
       k = ~~(c1 * (arr[j] - min))
     }
+    // 4
     if (k < 0) break
     flash = arr[j]
     while (j !== l[k]) {

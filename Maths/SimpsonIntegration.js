@@ -24,14 +24,20 @@
 function integralEvaluation (N, a, b, func) {
   // Check if N is an even integer
   let isNEven = true
+  // 1
   if (N % 2 !== 0) isNEven = false
 
+  // 2
   if (!Number.isInteger(N) || Number.isNaN(a) || Number.isNaN(b)) { throw new TypeError('Expected integer N and finite a, b') }
+  // 3
   if (!isNEven) { throw Error('N is not an even number') }
+  // 4
   if (N <= 0) { throw Error('N has to be >= 2') }
 
   // Check if a < b
+  // 5
   if (a > b) { throw Error('a must be less or equal than b') }
+  // 6
   if (a === b) return 0
 
   // Calculate the step h
@@ -44,7 +50,9 @@ function integralEvaluation (N, a, b, func) {
   // Find the sum {f(x0) + 4*f(x1) + 2*f(x2) + ... + 2*f(xN-2) + 4*f(xN-1) + f(xN)}
   let temp
   for (let i = 0; i < N + 1; i++) {
+    // 7
     if (i === 0 || i === N) temp = func(xi)
+    // 8
     else if (i % 2 === 0) temp = 2 * func(xi)
     else temp = 4 * func(xi)
 
@@ -59,6 +67,7 @@ function integralEvaluation (N, a, b, func) {
 
   result *= temp
 
+  // 9
   if (Number.isNaN(result)) { throw Error("Result is NaN. The input interval doesn't belong to the functions domain") }
 
   return result

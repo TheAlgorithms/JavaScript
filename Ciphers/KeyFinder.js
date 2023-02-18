@@ -69,7 +69,9 @@ function caesarCipherEncodeAndDecodeEngine (inStr, numShifted) {
     shiftedCharCode = charCode + shiftNum
     result = charCode
 
+    // 1
     if ((charCode >= 48 && charCode <= 57)) {
+      // 2
       if (shiftedCharCode < 48) {
         let diff = Math.abs(48 - 1 - shiftedCharCode) % 10
 
@@ -81,8 +83,10 @@ function caesarCipherEncodeAndDecodeEngine (inStr, numShifted) {
         shiftedCharCode = 57 - diff
 
         result = shiftedCharCode
+        // 3
       } else if (shiftedCharCode >= 48 && shiftedCharCode <= 57) {
         result = shiftedCharCode
+        // 4
       } else if (shiftedCharCode > 57) {
         let diff = Math.abs(57 + 1 - shiftedCharCode) % 10
 
@@ -95,7 +99,9 @@ function caesarCipherEncodeAndDecodeEngine (inStr, numShifted) {
 
         result = shiftedCharCode
       }
+      // 5
     } else if ((charCode >= 65 && charCode <= 90)) {
+      // 6
       if (shiftedCharCode <= 64) {
         let diff = Math.abs(65 - 1 - shiftedCharCode) % 26
 
@@ -104,8 +110,10 @@ function caesarCipherEncodeAndDecodeEngine (inStr, numShifted) {
         }
         shiftedCharCode = 90 - diff
         result = shiftedCharCode
+        // 7
       } else if (shiftedCharCode >= 65 && shiftedCharCode <= 90) {
         result = shiftedCharCode
+        // 8
       } else if (shiftedCharCode > 90) {
         let diff = Math.abs(shiftedCharCode - 1 - 90) % 26
 
@@ -115,7 +123,9 @@ function caesarCipherEncodeAndDecodeEngine (inStr, numShifted) {
         shiftedCharCode = 65 + diff
         result = shiftedCharCode
       }
+      // 9
     } else if ((charCode >= 97 && charCode <= 122)) {
+      // 10
       if (shiftedCharCode <= 96) {
         let diff = Math.abs(97 - 1 - shiftedCharCode) % 26
 
@@ -124,8 +134,10 @@ function caesarCipherEncodeAndDecodeEngine (inStr, numShifted) {
         }
         shiftedCharCode = 122 - diff
         result = shiftedCharCode
+        // 11
       } else if (shiftedCharCode >= 97 && shiftedCharCode <= 122) {
         result = shiftedCharCode
+        // 12
       } else if (shiftedCharCode > 122) {
         let diff = Math.abs(shiftedCharCode - 1 - 122) % 26
 
