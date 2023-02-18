@@ -4513,6 +4513,8 @@
 
 - [@SunShadowhood](https://github.com/SunShadowhood)
 
+- [@deverestHood] (https://github.com/deverestHood)
+
 - [@racynibaya](https://github.com/racynibaya)
 
 - [@ic2505](https://github.com/ic2505)
