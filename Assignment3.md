@@ -40,7 +40,7 @@
 |if (i < cells.length - 1 && j > 0)|6|
 |if (i < cells.length - 1)|7|
 |if (i < cells.length - 1 && j < cells[i].length - 1)|8|
-|if ((alive && neighbourCount >= 2 && neighbourCount <= 3) || (!alive && neighbourCount === 3))|9|
+|if ((alive && neighbourCount >= 2 && neighbourCount <= 3) or (!alive && neighbourCount === 3))|9|
 | else default|10|
 
 ## hexLookup
@@ -77,11 +77,11 @@
 |Branch Name| unique number|
 |-----------|--------------|
 |if (N % 2 !== 0)|1|
-|if (!Number.isInteger(N) || Number.isNaN(a) || Number.isNaN(b))|2|
+|if (!Number.isInteger(N) or Number.isNaN(a) or Number.isNaN(b))|2|
 |if (!isNEven)|3|
 |if (N <= 0)|4|
 |if (a > b)|5|
 |if (a === b)|6|
-|if (i === 0 || i === N)|7|
+|if (i === 0 or i === N)|7|
 |if (i % 2 === 0)|8|
 |if (Number.isNaN(result))|9|
