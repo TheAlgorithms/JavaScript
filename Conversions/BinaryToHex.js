@@ -4,44 +4,78 @@ const pad = (num, padlen) => {
 }
 
 const hexLookup = (bin) => {
+  const branchDetection = new Map()
   let binary = bin
   // 1
   if (binary.length < 4) {
+    branchDetection.set('hexLookup-1', true)
     binary = pad(binary, 4)
   }
   switch (binary) {
     // 2
-    case '0000': return '0'
+    case '0000':
+      branchDetection.set('hexLookup-2', true)
+      return '0'
     // 3
-    case '0001': return '1'
+    case '0001':
+      branchDetection.set('hexLookup-3', true)
+      return '1'
     // 4
-    case '0010': return '2'
+    case '0010':
+      branchDetection.set('hexLookup-4', true)
+      return '2'
     // 5
-    case '0011': return '3'
+    case '0011':
+      branchDetection.set('hexLookup-5', true)
+      return '3'
     // 6
-    case '0100': return '4'
+    case '0100':
+      branchDetection.set('hexLookup-6', true)
+      return '4'
     // 7
-    case '0101': return '5'
+    case '0101':
+      branchDetection.set('hexLookup-7', true)
+      return '5'
     // 8
-    case '0110': return '6'
+    case '0110':
+      branchDetection.set('hexLookup-8', true)
+      return '6'
     // 9
-    case '0111': return '7'
+    case '0111':
+      branchDetection.set('hexLookup-9', true)
+      return '7'
     // 10
-    case '1000': return '8'
+    case '1000':
+      branchDetection.set('hexLookup-10', true)
+      return '8'
     // 11
-    case '1001': return '9'
+    case '1001':
+      branchDetection.set('hexLookup-11', true)
+      return '9'
     // 12
-    case '1010': return 'A'
+    case '1010':
+      branchDetection.set('hexLookup-12', true)
+      return 'A'
     // 13
-    case '1011': return 'B'
+    case '1011':
+      branchDetection.set('hexLookup-13', true)
+      return 'B'
     // 14
-    case '1100': return 'C'
+    case '1100':
+      branchDetection.set('hexLookup-14', true)
+      return 'C'
     // 15
-    case '1101': return 'D'
+    case '1101':
+      branchDetection.set('hexLookup-15', true)
+      return 'D'
     // 16
-    case '1110': return 'E'
+    case '1110':
+      branchDetection.set('hexLookup-16', true)
+      return 'E'
     // 17
-    case '1111': return 'F'
+    case '1111':
+      branchDetection.set('hexLookup-17', true)
+      return 'F'
   }
 }
 const binaryToHex = (binaryString) => {

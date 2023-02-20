@@ -12,6 +12,8 @@ The Game of Life is a cellular automaton devised by the British mathematician Jo
  * Generates the next generation for a given state of Conway's Game of Life.
  */
 export function newGeneration (cells) {
+  const branchDetection = new Map()
+
   const nextGeneration = []
   for (let i = 0; i < cells.length; i++) {
     const nextGenerationRow = []
@@ -19,28 +21,52 @@ export function newGeneration (cells) {
       // Get the number of living neighbours
       let neighbourCount = 0
       // 1
-      if (i > 0 && j > 0) neighbourCount += cells[i - 1][j - 1]
+      if (i > 0 && j > 0) {
+        branchDetection.set('newGeneration-1', true)
+        neighbourCount += cells[i - 1][j - 1]
+      }
       // 2
-      if (i > 0) neighbourCount += cells[i - 1][j]
+      if (i > 0) {
+        branchDetection.set('newGeneration-2', true)
+        neighbourCount += cells[i - 1][j]
+      }
       // 3
-      if (i > 0 && j < cells[i].length - 1) neighbourCount += cells[i - 1][j + 1]
+      if (i > 0 && j < cells[i].length - 1) {
+        branchDetection.set('newGeneration-3', true)
+        neighbourCount += cells[i - 1][j + 1]
+      }
       // 4
-      if (j > 0) neighbourCount += cells[i][j - 1]
+      if (j > 0) {
+        branchDetection.set('newGeneration-4', true)
+        neighbourCount += cells[i][j - 1]
+      }
       // 5
-      if (j < cells[i].length - 1) neighbourCount += cells[i][j + 1]
+      if (j < cells[i].length - 1) {
+        branchDetection.set('newGeneration-5', true)
+        neighbourCount += cells[i][j + 1]
+      }
       // 6
-      if (i < cells.length - 1 && j > 0) neighbourCount += cells[i + 1][j - 1]
+      if (i < cells.length - 1 && j > 0) {
+        branchDetection.set('newGeneration-6', true)
+        neighbourCount += cells[i + 1][j - 1]
+      }
       // 7
-      if (i < cells.length - 1) neighbourCount += cells[i + 1][j]
+      if (i < cells.length - 1) {
+        branchDetection.set('newGeneration-7', true)
+        neighbourCount += cells[i + 1][j]
+      }
       // 8
-      if (i < cells.length - 1 && j < cells[i].length - 1) neighbourCount += cells[i + 1][j + 1]
+      if (i < cells.length - 1 && j < cells[i].length - 1) {
+        branchDetection.set('newGeneration-8', true)
+        neighbourCount += cells[i + 1][j + 1]
+      }
 
       // Decide whether the cell is alive or dead
       const alive = cells[i][j] === 1
       // 9
       if ((alive && neighbourCount >= 2 && neighbourCount <= 3) || (!alive && neighbourCount === 3)) {
+        branchDetection.set('newGeneration-9', true)
         nextGenerationRow.push(1)
-      // 10
       } else {
         nextGenerationRow.push(0)
       }

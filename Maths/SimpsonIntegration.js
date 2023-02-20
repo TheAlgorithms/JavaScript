@@ -22,23 +22,42 @@
 */
 
 function integralEvaluation (N, a, b, func) {
+  const branchDetection = new Map()
   // Check if N is an even integer
   let isNEven = true
   // 1
-  if (N % 2 !== 0) isNEven = false
+  if (N % 2 !== 0) {
+    branchDetection.set('integralEvaluation-1', true)
+    isNEven = false
+  }
 
   // 2
-  if (!Number.isInteger(N) || Number.isNaN(a) || Number.isNaN(b)) { throw new TypeError('Expected integer N and finite a, b') }
+  if (!Number.isInteger(N) || Number.isNaN(a) || Number.isNaN(b)) {
+    branchDetection.set('integralEvaluation-2', true)
+    throw new TypeError('Expected integer N and finite a, b')
+  }
   // 3
-  if (!isNEven) { throw Error('N is not an even number') }
+  if (!isNEven) {
+    branchDetection.set('integralEvaluation-3', true)
+    throw Error('N is not an even number')
+  }
   // 4
-  if (N <= 0) { throw Error('N has to be >= 2') }
+  if (N <= 0) {
+    branchDetection.set('integralEvaluation-4', true)
+    throw Error('N has to be >= 2')
+  }
 
   // Check if a < b
   // 5
-  if (a > b) { throw Error('a must be less or equal than b') }
+  if (a > b) {
+    branchDetection.set('integralEvaluation-5', true)
+    throw Error('a must be less or equal than b')
+  }
   // 6
-  if (a === b) return 0
+  if (a === b) {
+    branchDetection.set('integralEvaluation-6', true)
+    return 0
+  }
 
   // Calculate the step h
   const h = (b - a) / N
@@ -68,7 +87,10 @@ function integralEvaluation (N, a, b, func) {
   result *= temp
 
   // 9
-  if (Number.isNaN(result)) { throw Error("Result is NaN. The input interval doesn't belong to the functions domain") }
+  if (Number.isNaN(result)) {
+    branchDetection.set('integralEvaluation-9', true)
+    throw Error("Result is NaN. The input interval doesn't belong to the functions domain")
+  }
 
   return result
 }

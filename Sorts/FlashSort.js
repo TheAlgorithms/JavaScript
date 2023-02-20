@@ -7,6 +7,7 @@
  */
 
 export function flashSort (arr) {
+  const branchDetection = new Map()
   let max = 0; let min = arr[0]
   const n = arr.length
   const m = ~~(0.45 * n)
@@ -15,16 +16,19 @@ export function flashSort (arr) {
   for (let i = 1; i < n; ++i) {
     // 1
     if (arr[i] < min) {
+      branchDetection.set('flashSort-1', true)
       min = arr[i]
     }
     // 2
     if (arr[i] > arr[max]) {
+      branchDetection.set('flashSort-2', true)
       max = i
     }
   }
 
   // 3
   if (min === arr[max]) {
+    branchDetection.set('flashSort-3', true)
     return arr
   }
 
@@ -58,7 +62,10 @@ export function flashSort (arr) {
       k = ~~(c1 * (arr[j] - min))
     }
     // 4
-    if (k < 0) break
+    if (k < 0) {
+      branchDetection.set('flashSort-4', true)
+      break
+    }
     flash = arr[j]
     while (j !== l[k]) {
       k = ~~(c1 * (flash - min))
