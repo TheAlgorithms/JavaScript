@@ -14,19 +14,19 @@ export function flashSort (arr) {
   const l = new Array(m)
 
   for (let i = 1; i < n; ++i) {
-    // 1
+    // 4-1
     if (arr[i] < min) {
       branchDetection.set('flashSort-1', true)
       min = arr[i]
     }
-    // 2
+    // 4-2
     if (arr[i] > arr[max]) {
       branchDetection.set('flashSort-2', true)
       max = i
     }
   }
 
-  // 3
+  // 4-3
   if (min === arr[max]) {
     branchDetection.set('flashSort-3', true)
     return arr
@@ -61,7 +61,7 @@ export function flashSort (arr) {
       ++j
       k = ~~(c1 * (arr[j] - min))
     }
-    // 4
+    // 4-4
     if (k < 0) {
       branchDetection.set('flashSort-4', true)
       break

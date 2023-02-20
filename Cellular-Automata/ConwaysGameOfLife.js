@@ -20,42 +20,42 @@ export function newGeneration (cells) {
     for (let j = 0; j < cells[i].length; j++) {
       // Get the number of living neighbours
       let neighbourCount = 0
-      // 1
+      // 2-1
       if (i > 0 && j > 0) {
         branchDetection.set('newGeneration-1', true)
         neighbourCount += cells[i - 1][j - 1]
       }
-      // 2
+      // 2-2
       if (i > 0) {
         branchDetection.set('newGeneration-2', true)
         neighbourCount += cells[i - 1][j]
       }
-      // 3
+      // 2-3
       if (i > 0 && j < cells[i].length - 1) {
         branchDetection.set('newGeneration-3', true)
         neighbourCount += cells[i - 1][j + 1]
       }
-      // 4
+      // 2-4
       if (j > 0) {
         branchDetection.set('newGeneration-4', true)
         neighbourCount += cells[i][j - 1]
       }
-      // 5
+      // 2-5
       if (j < cells[i].length - 1) {
         branchDetection.set('newGeneration-5', true)
         neighbourCount += cells[i][j + 1]
       }
-      // 6
+      // 2-6
       if (i < cells.length - 1 && j > 0) {
         branchDetection.set('newGeneration-6', true)
         neighbourCount += cells[i + 1][j - 1]
       }
-      // 7
+      // 2-7
       if (i < cells.length - 1) {
         branchDetection.set('newGeneration-7', true)
         neighbourCount += cells[i + 1][j]
       }
-      // 8
+      // 2-8
       if (i < cells.length - 1 && j < cells[i].length - 1) {
         branchDetection.set('newGeneration-8', true)
         neighbourCount += cells[i + 1][j + 1]
@@ -63,10 +63,11 @@ export function newGeneration (cells) {
 
       // Decide whether the cell is alive or dead
       const alive = cells[i][j] === 1
-      // 9
+      // 2-9
       if ((alive && neighbourCount >= 2 && neighbourCount <= 3) || (!alive && neighbourCount === 3)) {
         branchDetection.set('newGeneration-9', true)
         nextGenerationRow.push(1)
+        // 2-10
       } else {
         nextGenerationRow.push(0)
       }

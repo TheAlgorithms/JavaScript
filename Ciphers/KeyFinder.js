@@ -71,10 +71,10 @@ function caesarCipherEncodeAndDecodeEngine (inStr, numShifted) {
     shiftedCharCode = charCode + shiftNum
     result = charCode
 
-    // 1
+    // 1-1
     if ((charCode >= 48 && charCode <= 57)) {
       branchDetection.set('caesarCipherEncodeAndDecodeEngine-1', true)
-      // 2
+      // 1-2
       if (shiftedCharCode < 48) {
         branchDetection.set('caesarCipherEncodeAndDecodeEngine-2', true)
         let diff = Math.abs(48 - 1 - shiftedCharCode) % 10
@@ -87,11 +87,11 @@ function caesarCipherEncodeAndDecodeEngine (inStr, numShifted) {
         shiftedCharCode = 57 - diff
 
         result = shiftedCharCode
-        // 3
+        // 1-3
       } else if (shiftedCharCode >= 48 && shiftedCharCode <= 57) {
         branchDetection.set('caesarCipherEncodeAndDecodeEngine-3', true)
         result = shiftedCharCode
-        // 4
+        // 1-4
       } else if (shiftedCharCode > 57) {
         branchDetection.set('caesarCipherEncodeAndDecodeEngine-4', true)
         let diff = Math.abs(57 + 1 - shiftedCharCode) % 10
@@ -105,10 +105,10 @@ function caesarCipherEncodeAndDecodeEngine (inStr, numShifted) {
 
         result = shiftedCharCode
       }
-      // 5
+      // 1-5
     } else if ((charCode >= 65 && charCode <= 90)) {
       branchDetection.set('caesarCipherEncodeAndDecodeEngine-5', true)
-      // 6
+      // 1-6
       if (shiftedCharCode <= 64) {
         branchDetection.set('caesarCipherEncodeAndDecodeEngine-6', true)
         let diff = Math.abs(65 - 1 - shiftedCharCode) % 26
@@ -118,11 +118,11 @@ function caesarCipherEncodeAndDecodeEngine (inStr, numShifted) {
         }
         shiftedCharCode = 90 - diff
         result = shiftedCharCode
-        // 7
+        // 1-7
       } else if (shiftedCharCode >= 65 && shiftedCharCode <= 90) {
         branchDetection.set('caesarCipherEncodeAndDecodeEngine-7', true)
         result = shiftedCharCode
-        // 8
+        // 1-8
       } else if (shiftedCharCode > 90) {
         branchDetection.set('caesarCipherEncodeAndDecodeEngine-8', true)
         let diff = Math.abs(shiftedCharCode - 1 - 90) % 26
@@ -133,10 +133,10 @@ function caesarCipherEncodeAndDecodeEngine (inStr, numShifted) {
         shiftedCharCode = 65 + diff
         result = shiftedCharCode
       }
-      // 9
+      // 1-9
     } else if ((charCode >= 97 && charCode <= 122)) {
       branchDetection.set('caesarCipherEncodeAndDecodeEngine-9', true)
-      // 10
+      // 1-10
       if (shiftedCharCode <= 96) {
         branchDetection.set('caesarCipherEncodeAndDecodeEngine-10', true)
         let diff = Math.abs(97 - 1 - shiftedCharCode) % 26
@@ -146,11 +146,11 @@ function caesarCipherEncodeAndDecodeEngine (inStr, numShifted) {
         }
         shiftedCharCode = 122 - diff
         result = shiftedCharCode
-        // 11
+        // 1-11
       } else if (shiftedCharCode >= 97 && shiftedCharCode <= 122) {
         branchDetection.set('caesarCipherEncodeAndDecodeEngine-11', true)
         result = shiftedCharCode
-        // 12
+        // 1-12
       } else if (shiftedCharCode > 122) {
         branchDetection.set('caesarCipherEncodeAndDecodeEngine-12', true)
         let diff = Math.abs(shiftedCharCode - 1 - 122) % 26

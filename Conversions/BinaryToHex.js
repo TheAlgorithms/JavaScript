@@ -6,73 +6,73 @@ const pad = (num, padlen) => {
 const hexLookup = (bin) => {
   const branchDetection = new Map()
   let binary = bin
-  // 1
+  // 3-1
   if (binary.length < 4) {
     branchDetection.set('hexLookup-1', true)
     binary = pad(binary, 4)
   }
   switch (binary) {
-    // 2
+    // 3-2
     case '0000':
       branchDetection.set('hexLookup-2', true)
       return '0'
-    // 3
+    // 3-3
     case '0001':
       branchDetection.set('hexLookup-3', true)
       return '1'
-    // 4
+    // 3-4
     case '0010':
       branchDetection.set('hexLookup-4', true)
       return '2'
-    // 5
+    // 3-5
     case '0011':
       branchDetection.set('hexLookup-5', true)
       return '3'
-    // 6
+    // 3-6
     case '0100':
       branchDetection.set('hexLookup-6', true)
       return '4'
-    // 7
+    // 3-7
     case '0101':
       branchDetection.set('hexLookup-7', true)
       return '5'
-    // 8
+    // 3-8
     case '0110':
       branchDetection.set('hexLookup-8', true)
       return '6'
-    // 9
+    // 3-9
     case '0111':
       branchDetection.set('hexLookup-9', true)
       return '7'
-    // 10
+    // 3-10
     case '1000':
       branchDetection.set('hexLookup-10', true)
       return '8'
-    // 11
+    // 3-11
     case '1001':
       branchDetection.set('hexLookup-11', true)
       return '9'
-    // 12
+    // 3-12
     case '1010':
       branchDetection.set('hexLookup-12', true)
       return 'A'
-    // 13
+    // 3-13
     case '1011':
       branchDetection.set('hexLookup-13', true)
       return 'B'
-    // 14
+    // 3-14
     case '1100':
       branchDetection.set('hexLookup-14', true)
       return 'C'
-    // 15
+    // 3-15
     case '1101':
       branchDetection.set('hexLookup-15', true)
       return 'D'
-    // 16
+    // 3-16
     case '1110':
       branchDetection.set('hexLookup-16', true)
       return 'E'
-    // 17
+    // 3-17
     case '1111':
       branchDetection.set('hexLookup-17', true)
       return 'F'
