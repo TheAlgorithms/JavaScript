@@ -1,80 +1,81 @@
+import { logDataToTestFile } from '../util'
+
 const pad = (num, padlen) => {
   const pad = new Array(1 + padlen).join(0)
   return (pad + num).slice(-pad.length)
 }
 
 const hexLookup = (bin) => {
-  const branchDetection = new Map()
   let binary = bin
-  // 3-1
+  // 1
   if (binary.length < 4) {
-    branchDetection.set('hexLookup-1', true)
+    logDataToTestFile('hexLookup-1', true)
     binary = pad(binary, 4)
   }
   switch (binary) {
-    // 3-2
+    // 2
     case '0000':
-      branchDetection.set('hexLookup-2', true)
+      logDataToTestFile('hexLookup-2', true)
       return '0'
-    // 3-3
+    // 3
     case '0001':
-      branchDetection.set('hexLookup-3', true)
+      logDataToTestFile('hexLookup-3', true)
       return '1'
-    // 3-4
+    // 4
     case '0010':
-      branchDetection.set('hexLookup-4', true)
+      logDataToTestFile('hexLookup-4', true)
       return '2'
-    // 3-5
+    // 5
     case '0011':
-      branchDetection.set('hexLookup-5', true)
+      logDataToTestFile('hexLookup-5', true)
       return '3'
-    // 3-6
+    // 6
     case '0100':
-      branchDetection.set('hexLookup-6', true)
+      logDataToTestFile('hexLookup-6', true)
       return '4'
-    // 3-7
+    // 7
     case '0101':
-      branchDetection.set('hexLookup-7', true)
+      logDataToTestFile('hexLookup-7', true)
       return '5'
-    // 3-8
+    // 8
     case '0110':
-      branchDetection.set('hexLookup-8', true)
+      logDataToTestFile('hexLookup-8', true)
       return '6'
-    // 3-9
+    // 9
     case '0111':
-      branchDetection.set('hexLookup-9', true)
+      logDataToTestFile('hexLookup-9', true)
       return '7'
-    // 3-10
+    // 10
     case '1000':
-      branchDetection.set('hexLookup-10', true)
+      logDataToTestFile('hexLookup-10', true)
       return '8'
-    // 3-11
+    // 11
     case '1001':
-      branchDetection.set('hexLookup-11', true)
+      logDataToTestFile('hexLookup-11', true)
       return '9'
-    // 3-12
+    // 12
     case '1010':
-      branchDetection.set('hexLookup-12', true)
+      logDataToTestFile('hexLookup-12', true)
       return 'A'
-    // 3-13
+    // 13
     case '1011':
-      branchDetection.set('hexLookup-13', true)
+      logDataToTestFile('hexLookup-13', true)
       return 'B'
-    // 3-14
+    // 14
     case '1100':
-      branchDetection.set('hexLookup-14', true)
+      logDataToTestFile('hexLookup-14', true)
       return 'C'
-    // 3-15
+    // 15
     case '1101':
-      branchDetection.set('hexLookup-15', true)
+      logDataToTestFile('hexLookup-15', true)
       return 'D'
-    // 3-16
+    // 16
     case '1110':
-      branchDetection.set('hexLookup-16', true)
+      logDataToTestFile('hexLookup-16', true)
       return 'E'
-    // 3-17
+    // 17
     case '1111':
-      branchDetection.set('hexLookup-17', true)
+      logDataToTestFile('hexLookup-17', true)
       return 'F'
   }
 }

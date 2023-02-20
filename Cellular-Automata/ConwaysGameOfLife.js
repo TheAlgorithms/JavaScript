@@ -8,66 +8,66 @@ The Game of Life is a cellular automaton devised by the British mathematician Jo
 (example adapted from https://github.com/TheAlgorithms/Python/blob/master/cellular_automata/conways_game_of_life.py )
 */
 
+import { logDataToTestFile } from '../util'
+
 /**
  * Generates the next generation for a given state of Conway's Game of Life.
  */
 export function newGeneration (cells) {
-  const branchDetection = new Map()
-
   const nextGeneration = []
   for (let i = 0; i < cells.length; i++) {
     const nextGenerationRow = []
     for (let j = 0; j < cells[i].length; j++) {
       // Get the number of living neighbours
       let neighbourCount = 0
-      // 2-1
+      // 1
       if (i > 0 && j > 0) {
-        branchDetection.set('newGeneration-1', true)
+        logDataToTestFile('newGeneration-1', true)
         neighbourCount += cells[i - 1][j - 1]
       }
-      // 2-2
+      // 2
       if (i > 0) {
-        branchDetection.set('newGeneration-2', true)
+        logDataToTestFile('newGeneration-2', true)
         neighbourCount += cells[i - 1][j]
       }
-      // 2-3
+      // 3
       if (i > 0 && j < cells[i].length - 1) {
-        branchDetection.set('newGeneration-3', true)
+        logDataToTestFile('newGeneration-3', true)
         neighbourCount += cells[i - 1][j + 1]
       }
-      // 2-4
+      // 4
       if (j > 0) {
-        branchDetection.set('newGeneration-4', true)
+        logDataToTestFile('newGeneration-4', true)
         neighbourCount += cells[i][j - 1]
       }
-      // 2-5
+      // 5
       if (j < cells[i].length - 1) {
-        branchDetection.set('newGeneration-5', true)
+        logDataToTestFile('newGeneration-5', true)
         neighbourCount += cells[i][j + 1]
       }
-      // 2-6
+      // 6
       if (i < cells.length - 1 && j > 0) {
-        branchDetection.set('newGeneration-6', true)
+        logDataToTestFile('newGeneration-6', true)
         neighbourCount += cells[i + 1][j - 1]
       }
-      // 2-7
+      // 7
       if (i < cells.length - 1) {
-        branchDetection.set('newGeneration-7', true)
+        logDataToTestFile('newGeneration-7', true)
         neighbourCount += cells[i + 1][j]
       }
-      // 2-8
+      // 8
       if (i < cells.length - 1 && j < cells[i].length - 1) {
-        branchDetection.set('newGeneration-8', true)
+        logDataToTestFile('newGeneration-8', true)
         neighbourCount += cells[i + 1][j + 1]
       }
 
       // Decide whether the cell is alive or dead
       const alive = cells[i][j] === 1
-      // 2-9
+      // 9
       if ((alive && neighbourCount >= 2 && neighbourCount <= 3) || (!alive && neighbourCount === 3)) {
-        branchDetection.set('newGeneration-9', true)
+        logDataToTestFile('newGeneration-9', true)
         nextGenerationRow.push(1)
-        // 2-10
+        // 10
       } else {
         nextGenerationRow.push(0)
       }
