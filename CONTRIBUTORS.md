@@ -184,6 +184,8 @@
 
 -[@q-rault](https://github.com/q-rault)
 
+-[@pratik-wadhai](https://github.com/pratik-wadhai)
+
 -[@leul1212] (https://github.com/leul1212)
 
 -[@Radiostranger](https://github.com/Radiostranger)
