@@ -32,44 +32,48 @@ We decided to continue with this project. The project is a library of functions 
 5. Is the documentation clear w.r.t. all the possible outcomes?
 
 ## Refactoring
+ **Plan for refactoring complex code:**
+there would not be huge differences to make with refactoring the code since a lot of it is broken down to as much as it could be.
+However, in *caesarCipherEncodeAndDecodeEngine* there are three larger cases that can occur depending on the paramaters, these could be broken down into three smaller functions. 
+You could probably also create a helper function for the last part of the *intefralEvaluation*.
+The other top 5 functions are fairly optimized and there are not any good ways to refactor without sacraficing in other areas. 
 
-Plan for refactoring complex code:
-
-Estimated impact of refactoring (lower CC, but other drawbacks?).
-
-Carried out refactoring (optional, P+):
-
-git diff ...
+**Estimated impact of refactoring (lower CC, but other drawbacks?)**
+it would require more tests since a proper coverage would test each individual function. While lowering complexity it could also introduce new errors possibly. Also if you separate and refactor it too much it can become harder to read since you have to jump around to follow the code. 
 
 ## Coverage
 
 ### Tools
 
-Document your experience in using a "new"/different coverage tool.
 
-How well was the tool documented? Was it possible/easy/difficult to
-integrate it with your build environment?
+We used Lizard as a coverage tool to measure complexity. 
+it was fairly simple and straitforward to use. Documentation was easily available and was clear in the steps that were needed in order to get the wanted view.
+barely any integration was needed as everything ran rightaway from the command line. 
+
+if anything googling information about it was a little inconvinient since the name brings up a lot of other results as well. 
 
 ### Your own coverage tool
 
-Show a patch (or link to a branch) that shows the instrumented code to
-gather coverage measurements.
+link to branch: here
+git command to obtain the patch:
 
-The patch is probably too long to be copied here, so please add
-the git command that is used to obtain the patch instead:
+We trach all the branches in the five most complex functions through a map that sees which branches were reached and then puts that information into a file.
+The way we track each branch is through the unique number we assigned them which is listen in [this document](Assignment3.md)
 
-git diff ...
+Tool is quite accurate and will portray the branches taken well and will have a readable output file. 
 
-What kinds of constructs does your tool support, and how accurate is
-its output?
+it supports all constucts used in the JS code. 
 
 ### Evaluation
 
-1. How detailed is your coverage measurement?
+1. **How detailed is your coverage measurement?**
+it is not too detailed, It achompishes showing what was run however it does not track the outputs or what has come before. It simply verifies that the code reached that point.
 
-2. What are the limitations of your own tool?
+2. **What are the limitations of your own tool?**
+The tool is in no way automatic, any changes to the code would require changes to the tool and manually adding each new branch as well as fixing numbers of branches that come after it. 
 
-3. Are the results of your tool consistent with existing coverage tools?
+3. **Are the results of your tool consistent with existing coverage tools?**
+the coverage tool seems fairly consistent however it does not check all the same things that Lizard checked
 
 ## Coverage improvement
 
