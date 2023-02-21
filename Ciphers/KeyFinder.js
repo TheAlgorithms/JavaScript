@@ -1,8 +1,11 @@
+import { logDataToTestFile } from '../util'
+
 /******************************************************
  Find and retrieve the encryption key automatically
  Note: This is a draft version, please help to modify, Thanks!
  ******************************************************/
-function keyFinder (str) { // str is used to get the input of encrypted string
+function keyFinder (str) {
+  // str is used to get the input of encrypted string
   const wordBank = [
     'I ',
     'You ',
@@ -27,13 +30,15 @@ function keyFinder (str) { // str is used to get the input of encrypted string
     ' may ',
     'May ',
     ' be ',
-    'Be ']
+    'Be '
+  ]
   // let wordbankelementCounter = 0;
   // let key = 0; // return zero means the key can not be found
   const inStr = str.toString() // convert the input to String
   let outStr = '' // store the output value
   let outStrElement = '' // temporary store the word inside the outStr, it is used for comparison
-  for (let k = 0; k < 26; k++) { // try the number of key shifted, the sum of character from a-z or A-Z is 26
+  for (let k = 0; k < 26; k++) {
+    // try the number of key shifted, the sum of character from a-z or A-Z is 26
     outStr = caesarCipherEncodeAndDecodeEngine(inStr, k) // use the encryption engine to decrypt the input string
 
     // loop through the whole input string
@@ -69,8 +74,12 @@ function caesarCipherEncodeAndDecodeEngine (inStr, numShifted) {
     shiftedCharCode = charCode + shiftNum
     result = charCode
 
-    if ((charCode >= 48 && charCode <= 57)) {
+    // 1
+    if (charCode >= 48 && charCode <= 57) {
+      logDataToTestFile('caesarCipherEncodeAndDecodeEngine-1', true)
+      // 2
       if (shiftedCharCode < 48) {
+        logDataToTestFile('caesarCipherEncodeAndDecodeEngine-2', true)
         let diff = Math.abs(48 - 1 - shiftedCharCode) % 10
 
         while (diff >= 10) {
@@ -81,9 +90,13 @@ function caesarCipherEncodeAndDecodeEngine (inStr, numShifted) {
         shiftedCharCode = 57 - diff
 
         result = shiftedCharCode
+        // 3
       } else if (shiftedCharCode >= 48 && shiftedCharCode <= 57) {
+        logDataToTestFile('caesarCipherEncodeAndDecodeEngine-3', true)
         result = shiftedCharCode
+        // 4
       } else if (shiftedCharCode > 57) {
+        logDataToTestFile('caesarCipherEncodeAndDecodeEngine-4', true)
         let diff = Math.abs(57 + 1 - shiftedCharCode) % 10
 
         while (diff >= 10) {
@@ -95,41 +108,57 @@ function caesarCipherEncodeAndDecodeEngine (inStr, numShifted) {
 
         result = shiftedCharCode
       }
-    } else if ((charCode >= 65 && charCode <= 90)) {
+      // 5
+    } else if (charCode >= 65 && charCode <= 90) {
+      logDataToTestFile('caesarCipherEncodeAndDecodeEngine-5', true)
+      // 6
       if (shiftedCharCode <= 64) {
+        logDataToTestFile('caesarCipherEncodeAndDecodeEngine-6', true)
         let diff = Math.abs(65 - 1 - shiftedCharCode) % 26
 
-        while ((diff % 26) >= 26) {
+        while (diff % 26 >= 26) {
           diff = diff % 26
         }
         shiftedCharCode = 90 - diff
         result = shiftedCharCode
+        // 7
       } else if (shiftedCharCode >= 65 && shiftedCharCode <= 90) {
+        logDataToTestFile('caesarCipherEncodeAndDecodeEngine-7', true)
         result = shiftedCharCode
+        // 8
       } else if (shiftedCharCode > 90) {
+        logDataToTestFile('caesarCipherEncodeAndDecodeEngine-8', true)
         let diff = Math.abs(shiftedCharCode - 1 - 90) % 26
 
-        while ((diff % 26) >= 26) {
+        while (diff % 26 >= 26) {
           diff = diff % 26
         }
         shiftedCharCode = 65 + diff
         result = shiftedCharCode
       }
-    } else if ((charCode >= 97 && charCode <= 122)) {
+      // 9
+    } else if (charCode >= 97 && charCode <= 122) {
+      logDataToTestFile('caesarCipherEncodeAndDecodeEngine-9', true)
+      // 10
       if (shiftedCharCode <= 96) {
+        logDataToTestFile('caesarCipherEncodeAndDecodeEngine-10', true)
         let diff = Math.abs(97 - 1 - shiftedCharCode) % 26
 
-        while ((diff % 26) >= 26) {
+        while (diff % 26 >= 26) {
           diff = diff % 26
         }
         shiftedCharCode = 122 - diff
         result = shiftedCharCode
+        // 11
       } else if (shiftedCharCode >= 97 && shiftedCharCode <= 122) {
+        logDataToTestFile('caesarCipherEncodeAndDecodeEngine-11', true)
         result = shiftedCharCode
+        // 12
       } else if (shiftedCharCode > 122) {
+        logDataToTestFile('caesarCipherEncodeAndDecodeEngine-12', true)
         let diff = Math.abs(shiftedCharCode - 1 - 122) % 26
 
-        while ((diff % 26) >= 26) {
+        while (diff % 26 >= 26) {
           diff = diff % 26
         }
         shiftedCharCode = 97 + diff

@@ -1,3 +1,5 @@
+import { logDataToTestFile } from '../util'
+
 const pad = (num, padlen) => {
   const pad = new Array(1 + padlen).join(0)
   return (pad + num).slice(-pad.length)
@@ -5,26 +7,76 @@ const pad = (num, padlen) => {
 
 const hexLookup = (bin) => {
   let binary = bin
+  // 1
   if (binary.length < 4) {
+    logDataToTestFile('hexLookup-1', true)
     binary = pad(binary, 4)
   }
   switch (binary) {
-    case '0000': return '0'
-    case '0001': return '1'
-    case '0010': return '2'
-    case '0011': return '3'
-    case '0100': return '4'
-    case '0101': return '5'
-    case '0110': return '6'
-    case '0111': return '7'
-    case '1000': return '8'
-    case '1001': return '9'
-    case '1010': return 'A'
-    case '1011': return 'B'
-    case '1100': return 'C'
-    case '1101': return 'D'
-    case '1110': return 'E'
-    case '1111': return 'F'
+    // 2
+    case '0000':
+      logDataToTestFile('hexLookup-2', true)
+      return '0'
+    // 3
+    case '0001':
+      logDataToTestFile('hexLookup-3', true)
+      return '1'
+    // 4
+    case '0010':
+      logDataToTestFile('hexLookup-4', true)
+      return '2'
+    // 5
+    case '0011':
+      logDataToTestFile('hexLookup-5', true)
+      return '3'
+    // 6
+    case '0100':
+      logDataToTestFile('hexLookup-6', true)
+      return '4'
+    // 7
+    case '0101':
+      logDataToTestFile('hexLookup-7', true)
+      return '5'
+    // 8
+    case '0110':
+      logDataToTestFile('hexLookup-8', true)
+      return '6'
+    // 9
+    case '0111':
+      logDataToTestFile('hexLookup-9', true)
+      return '7'
+    // 10
+    case '1000':
+      logDataToTestFile('hexLookup-10', true)
+      return '8'
+    // 11
+    case '1001':
+      logDataToTestFile('hexLookup-11', true)
+      return '9'
+    // 12
+    case '1010':
+      logDataToTestFile('hexLookup-12', true)
+      return 'A'
+    // 13
+    case '1011':
+      logDataToTestFile('hexLookup-13', true)
+      return 'B'
+    // 14
+    case '1100':
+      logDataToTestFile('hexLookup-14', true)
+      return 'C'
+    // 15
+    case '1101':
+      logDataToTestFile('hexLookup-15', true)
+      return 'D'
+    // 16
+    case '1110':
+      logDataToTestFile('hexLookup-16', true)
+      return 'E'
+    // 17
+    case '1111':
+      logDataToTestFile('hexLookup-17', true)
+      return 'F'
   }
 }
 const binaryToHex = (binaryString) => {
