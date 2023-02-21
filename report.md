@@ -52,9 +52,19 @@ The function has 3 initial if-statements that have one path to an end node and 1
 The function has an if statement which provides two different paths and then an independent switch case with 16 different cases. This gives us 18 independent paths through the function and an CCN of 18.
 
 2. Are the functions just complex, or also long?
-3. What is the purpose of the functions?
-4. Are exceptions taken into account in the given measurements?
-5. Is the documentation clear w.r.t. all the possible outcomes?
+
+   Sometimes they are related but not always, like function *newGeneration* in *ConwaysGameOfLife.js* has around 30 lines of code but with CC of 20, mainly because of a bunch of conditional statements within the function.
+2. What is the purpose of the functions?
+
+   Those functions all implement some kind of algorithm to solve different kinds of problems and they are classified by different folders.
+
+3. Are exceptions taken into account in the given measurements?
+
+   There is no exception to catch in functions we measured, so we didn't take exceptions into account.
+
+4. Is the documentation clear w.r.t. all the possible outcomes?
+
+   The documentation describes some of the possible outcomes, but still may miss some scenarios. The document can be improved by further detailed tests.
 
 ## Refactoring
 **Plan for refactoring complex code:**
