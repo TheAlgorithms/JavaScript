@@ -4809,6 +4809,8 @@
 
 - [@Zocum](https://github.com/Zocum)
 
+- [@EduardoSalasG](https://github.com/EduardoSalasG)
+
 - [@alanajac](https://github.com/alanajac)
 
 - [@kishky101](https://github.com/kishky101)
