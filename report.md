@@ -18,39 +18,64 @@ The project is a library of algorithms and data structures implemented in JavaSc
 For this project we had to install Android Studio in order to build the project. Android Studio is thoroughly documented and the project could be built without errors. The program could then be run smoothly on a simulated mobile device. In the end we decided not to continue with this project because the testing would require a lot of extra steps. Since it was a mobile application, work-arounds would be required to test on-click functions to name one example.
 
 ### TheAlgorithms/JavaScript
-We decided to continue with this project. The project is a library of functions and data structures, so no building was required. However in order to run the JavaScript code, an interpreter such as Node.js was needed. Furthermore, the entire test suite for the project completed in 24 seconds without error. 
+We decided to continue with this project. The project is a library of functions and data structures, so no building was required. However in order to run the JavaScript code, an interpreter such as Node.js was needed. Furthermore, the entire test suite for the project completed in 24 seconds without error.
 
 
 ## Complexity
 
 1. What are your results for ten complex functions?
-   * Did all methods (tools vs. manual count) get the same result?
-   * Are the results clear?
+
+Below follows a comparison between the complexity recorded by the lizard tool and a manual count for five of the ten most complex functions:
+
+### Dynamic-Programming/MaxProductOfThree
+	-Counting with lizard: AvgCCN = 11
+	-Counting manually: CCN = 13
+This function has an initial if-statement that catches an error. Then we have three nested if-statements which give four linearly independent paths through the code. A final “if else-if” statement is then passed through which gives another three paths. If we count all the combinations we can move through the two blocks of if-statements and add the first single one we get a cyclomatic complexity of  4*3 + 1 = 13.
+### Strings/ScrambleStrings
+	-Counting with lizard: AvgCCN = 13
+	-Counting manually: CCN = 14
+This function has 6 if-statements. 4 of them have a direct path to an end node while 2 of them do not and can create unique paths. There are 2 unique independent paths up until these two if-statements. There are four unique paths through these two statements. The last two if statements give us 3 paths, but we can reach it from the four different earlier paths. We get a total of 2 + 4*3 = 14 unique independent paths.
+
+### Maths/SimpsonIntegration
+	-Counting with lizard: AvgCCN = 15
+	-Counting manually: CCN = 12
+The function has 6 initial if-statements that have a direct path to an end node. Then comes a “if-if else-else”-statement which can be passed through in three different ways. Lastly we have a single if statement that gives us 2 unique paths but it can be reached in three different ways. We get a total of 6 + 3*2 = 12 unique paths and a CCN of 12.
+
+### Data-Structures/Tree/Trie
+	-Counting with lizard: AvgCCN = 12
+-Counting manually: CCN = 9
+The function has 3 initial if-statements that have one path to an end node and 1 if-statement that has two paths to an end node. Then comes two if-else statements that do not lead directly to end nodes. These two can be passed in 4 different ways which gives us a total of 3 + 2 + 4 = 9 unique independent paths and a CCN of 9.
+
+### Conversions/BinaryToHex
+	-Counting with lizard: AvgCCN = 18
+	-Counting manually CCN = 18
+The function has an if statement which provides two different paths and then an independent switch case with 16 different cases. This gives us 18 independent paths through the function and an CCN of 18.
+
 2. Are the functions just complex, or also long?
 3. What is the purpose of the functions?
 4. Are exceptions taken into account in the given measurements?
 5. Is the documentation clear w.r.t. all the possible outcomes?
 
 ## Refactoring
- **Plan for refactoring complex code:**
+**Plan for refactoring complex code:**
 there would not be huge differences to make with refactoring the code since a lot of it is broken down to as much as it could be.
-However, in *caesarCipherEncodeAndDecodeEngine* there are three larger cases that can occur depending on the paramaters, these could be broken down into three smaller functions. 
+However, in *caesarCipherEncodeAndDecodeEngine* there are three larger cases that can occur depending on the paramaters, these could be broken down into three smaller functions.
 You could probably also create a helper function for the last part of the *intefralEvaluation*.
-The other top 5 functions are fairly optimized and there are not any good ways to refactor without sacraficing in other areas. 
+The other top 5 functions are fairly optimized and there are not any good ways to refactor without sacraficing in other areas.
 
 **Estimated impact of refactoring (lower CC, but other drawbacks?)**
-it would require more tests since a proper coverage would test each individual function. While lowering complexity it could also introduce new errors possibly. Also if you separate and refactor it too much it can become harder to read since you have to jump around to follow the code. 
+it would require more tests since a proper coverage would test each individual function. While lowering complexity it could also introduce new errors possibly. Also if you separate and refactor it too much it can become harder to read since you have to jump around to follow the code.
 
 ## Coverage
 
 ### Tools
 
 
-We used Lizard as a coverage tool to measure complexity. 
+We used Lizard as a coverage tool to measure complexity.
 it was fairly simple and straitforward to use. Documentation was easily available and was clear in the steps that were needed in order to get the wanted view.
-barely any integration was needed as everything ran rightaway from the command line. 
+barely any integration was needed as everything ran rightaway from the command line.
 
-if anything googling information about it was a little inconvinient since the name brings up a lot of other results as well. 
+if anything googling information about it was a little inconvinient since the name brings up a lot of other results as well.
 
 ### Your own coverage tool
 
@@ -60,20 +85,20 @@ git command to obtain the patch:
 We trach all the branches in the five most complex functions through a map that sees which branches were reached and then puts that information into a file.
 The way we track each branch is through the unique number we assigned them which is listen in [this document](Assignment3.md)
 
-Tool is quite accurate and will portray the branches taken well and will have a readable output file. 
+Tool is quite accurate and will portray the branches taken well and will have a readable output file.
 
-it supports all constucts used in the JS code. 
+it supports all constucts used in the JS code.
 
 ### Evaluation
 
 1. **How detailed is your coverage measurement?**
-it is not too detailed, It achompishes showing what was run however it does not track the outputs or what has come before. It simply verifies that the code reached that point.
+   it is not too detailed, It achompishes showing what was run however it does not track the outputs or what has come before. It simply verifies that the code reached that point.
 
 2. **What are the limitations of your own tool?**
-The tool is in no way automatic, any changes to the code would require changes to the tool and manually adding each new branch as well as fixing numbers of branches that come after it. 
+   The tool is in no way automatic, any changes to the code would require changes to the tool and manually adding each new branch as well as fixing numbers of branches that come after it.
 
 3. **Are the results of your tool consistent with existing coverage tools?**
-the coverage tool seems fairly consistent however it does not check all the same things that Lizard checked
+   the coverage tool seems fairly consistent however it does not check all the same things that Lizard checked
 
 ## Coverage improvement
 
