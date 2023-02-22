@@ -17,5 +17,4 @@ describe('checking nth prime number', () => {
   //  test('if the number is greater or equal to 2167', () => {
   //    expect(problem44(2167)).toBe(8476206790)
   //  })
-
 })

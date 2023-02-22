@@ -16,3 +16,4 @@ yarn-error.log*
 .idea
 
 test.json
+coverage/
