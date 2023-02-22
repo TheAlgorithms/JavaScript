@@ -6,10 +6,10 @@
  * Their main property is that any parent node has a smaller or equal priority to all of its children,
  * hence the root of the tree always has the smallest priority of all nodes.
  *
- * This implementation of the Minimum Binary Heap allows for nodes to contain both a key and a priority.
- * WARNING: keys must be Integers as they are used as array indices.
+ * This implementation of the Minimum Binary Heap allows for nodes to be associated to both a key,
+ * which can be any datatype, and a priority.
  *
- * In this implementation, the heap is represented by an array with nodes ordered
+ * The heap is represented by an array with nodes ordered
  * from root-to-leaf, left-to-right.
  * Therefore, the parent-child node relationship is such that
  *      * the children nodes positions relative to their parent are: (parentPos * 2 + 1) and (parentPos * 2 + 2)
@@ -26,7 +26,7 @@ class KeyPriorityQueue {
   // Priority Queue class using Minimum Binary Heap
   constructor () {
     this._heap = []
-    this.keys = {}
+    this.priorities = new Map()
   }
 
   /**
@@ -39,13 +39,13 @@ class KeyPriorityQueue {
 
   /**
    * Adds an element to the queue
-   * @param {number} key
+   * @param {*} key
    * @param {number} priority
    */
   push (key, priority) {
-    this._heap.push([key, priority])
-    this.keys[key] = this._heap.length - 1
-    this._shiftUp(this.keys[key])
+    this._heap.push(key)
+    this.priorities.set(key, priority)
+    this._shiftUp(this._heap.length - 1)
   }
 
   /**
@@ -54,29 +54,33 @@ class KeyPriorityQueue {
    */
   pop () {
     this._swap(0, this._heap.length - 1)
-    const [key] = this._heap.pop()
-    delete this.keys[key]
+    const key = this._heap.pop()
+    this.priorities.delete(key)
     this._shiftDown(0)
     return key
   }
 
   /**
    * Checks whether a given key is present in the queue
-   * @param {number} key
+   * @param {*} key
    * @returns boolean
    */
   contains (key) {
-    return (key in this.keys)
+    return this.priorities.has(key)
   }
 
   /**
-   * Updates the priority of the given element
-   * @param {number} key the element to change
+   * Updates the priority of the given element.
+   * Adds the element if it is not in the queue.
+   * @param {*} key the element to change
    * @param {number} priority new priority of the element
    */
   update (key, priority) {
-    const currPos = this.keys[key]
-    this._heap[currPos][1] = priority
+    const currPos = this._heap.indexOf(key)
+    // if the key does not exist yet, add it
+    if (currPos === -1) return this.push(key, priority)
+    // else update priority
+    this.priorities.set(key, priority)
     const parentPos = getParentPosition(currPos)
     const currPriority = this._getPriorityOrInfinite(currPos)
     const parentPriority = this._getPriorityOrInfinite(parentPos)
@@ -93,7 +97,7 @@ class KeyPriorityQueue {
 
   _getPriorityOrInfinite (position) {
     // Helper function, returns priority of the node, or Infinite if no node corresponds to this position
-    if (position >= 0 && position < this._heap.length) return this._heap[position][1]
+    if (position >= 0 && position < this._heap.length) return this.priorities.get(this._heap[position])
     else return Infinity
   }
 
@@ -111,7 +115,6 @@ class KeyPriorityQueue {
       currPriority = this._getPriorityOrInfinite(currPos)
       parentPriority = this._getPriorityOrInfinite(parentPos)
     }
-    this.keys[this._heap[currPos][0]] = currPos
   }
 
   _shiftDown (position) {
@@ -144,8 +147,6 @@ class KeyPriorityQueue {
   _swap (position1, position2) {
     // Helper function to swap 2 nodes
     [this._heap[position1], this._heap[position2]] = [this._heap[position2], this._heap[position1]]
-    this.keys[this._heap[position1][0]] = position1
-    this.keys[this._heap[position2][0]] = position2
   }
 }
 
