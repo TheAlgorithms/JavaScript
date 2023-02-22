@@ -6,8 +6,6 @@
  * Wikipedia: https://en.wikipedia.org/wiki/Flashsort
  */
 
-import { logDataToTestFile } from '../util'
-
 export function flashSort (arr) {
   let max = 0
   let min = arr[0]
@@ -16,21 +14,15 @@ export function flashSort (arr) {
   const l = new Array(m)
 
   for (let i = 1; i < n; ++i) {
-    // 1
     if (arr[i] < min) {
-      logDataToTestFile('flashSort-1', true)
       min = arr[i]
     }
-    // 2
     if (arr[i] > arr[max]) {
-      logDataToTestFile('flashSort-2', true)
       max = i
     }
   }
 
-  // 3
   if (min === arr[max]) {
-    logDataToTestFile('flashSort-3', true)
     return arr
   }
 
@@ -65,9 +57,7 @@ export function flashSort (arr) {
       ++j
       k = ~~(c1 * (arr[j] - min))
     }
-    // 4
     if (k < 0) {
-      logDataToTestFile('flashSort-4', true)
       break
     }
     flash = arr[j]

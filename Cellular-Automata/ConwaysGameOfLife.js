@@ -8,8 +8,6 @@ The Game of Life is a cellular automaton devised by the British mathematician Jo
 (example adapted from https://github.com/TheAlgorithms/Python/blob/master/cellular_automata/conways_game_of_life.py )
 */
 
-import { logDataToTestFile } from '../util'
-
 /**
  * Generates the next generation for a given state of Conway's Game of Life.
  */
@@ -20,54 +18,46 @@ export function newGeneration (cells) {
     for (let j = 0; j < cells[i].length; j++) {
       // Get the number of living neighbours
       let neighbourCount = 0
-      // 1
       if (i > 0 && j > 0) {
-        logDataToTestFile('newGeneration-1', true)
         neighbourCount += cells[i - 1][j - 1]
       }
-      // 2
+
       if (i > 0) {
-        logDataToTestFile('newGeneration-2', true)
         neighbourCount += cells[i - 1][j]
       }
-      // 3
+
       if (i > 0 && j < cells[i].length - 1) {
-        logDataToTestFile('newGeneration-3', true)
         neighbourCount += cells[i - 1][j + 1]
       }
-      // 4
+
       if (j > 0) {
-        logDataToTestFile('newGeneration-4', true)
         neighbourCount += cells[i][j - 1]
       }
-      // 5
+
       if (j < cells[i].length - 1) {
-        logDataToTestFile('newGeneration-5', true)
         neighbourCount += cells[i][j + 1]
       }
-      // 6
+
       if (i < cells.length - 1 && j > 0) {
-        logDataToTestFile('newGeneration-6', true)
         neighbourCount += cells[i + 1][j - 1]
       }
-      // 7
+
       if (i < cells.length - 1) {
-        logDataToTestFile('newGeneration-7', true)
         neighbourCount += cells[i + 1][j]
       }
-      // 8
+
       if (i < cells.length - 1 && j < cells[i].length - 1) {
-        logDataToTestFile('newGeneration-8', true)
         neighbourCount += cells[i + 1][j + 1]
       }
 
       // Decide whether the cell is alive or dead
       const alive = cells[i][j] === 1
-      // 9
-      if ((alive && neighbourCount >= 2 && neighbourCount <= 3) || (!alive && neighbourCount === 3)) {
-        logDataToTestFile('newGeneration-9', true)
+
+      if (
+        (alive && neighbourCount >= 2 && neighbourCount <= 3) ||
+        (!alive && neighbourCount === 3)
+      ) {
         nextGenerationRow.push(1)
-        // 10
       } else {
         nextGenerationRow.push(0)
       }
