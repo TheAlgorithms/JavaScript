@@ -14,3 +14,15 @@ test('Should return the integral of f(x) = log(x) + Pi*x^3 in [5, 12] to be equa
   const result = integralEvaluation(128, 5, 12, (x) => { return Math.log(x) + Math.PI * Math.pow(x, 3) })
   expect(Number(result.toPrecision(12))).toBe(15809.9141543)
 })
+
+test('Should return 0 since the interval is between the same numbers', () => {
+  const result = integralEvaluation(128, 5, 5, (x) => { return Math.log(x) + Math.PI * Math.pow(x, 3) })
+  expect(Number(result)).toBe(0)
+})
+
+test('Should return a error since N is too small', () => {
+  expect(() => {
+    const result = integralEvaluation(0, 5, 5, (x) => { return Math.log(x) + Math.PI * Math.pow(x, 3) })
+    Number(result)
+  }).toThrow('N has to be >= 2')
+})

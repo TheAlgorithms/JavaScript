@@ -20,7 +20,6 @@ For this project we had to install Android Studio in order to build the project.
 ### TheAlgorithms/JavaScript
 We decided to continue with this project. The project is a library of functions and data structures, so no building was required. However in order to run the JavaScript code, an interpreter such as Node.js was needed. Furthermore, the entire test suite for the project completed in 24 seconds without error.
 
-
 ## Complexity
 
 #### 1. What are your results for ten complex functions?
@@ -87,7 +86,6 @@ it would require more tests since a proper coverage would test each individual f
 
 ### Tools
 
-
 We used Lizard as a coverage tool to measure complexity.
 it was fairly simple and straitforward to use. Documentation was easily available and was clear in the steps that were needed in order to get the wanted view.
 barely any integration was needed as everything ran rightaway from the command line.
@@ -99,12 +97,12 @@ if anything googling information about it was a little inconvinient since the na
 link to branch: here
 git command to obtain the patch:
 
-We trach all the branches in the five most complex functions through a map that sees which branches were reached and then puts that information into a file.
+We trach all the branches in the five most complex functions through a map that sees which branches were reached and then puts that information into the terminal.
 The way we track each branch is through the unique number we assigned them which is listen in [this document](Assignment3.md)
 
-Tool is quite accurate and will portray the branches taken well and will have a readable output file.
+Tool is quite accurate and will portray the branches taken well and will have a readable output file. 
 
-it supports all constucts used in the JS code.
+it supports all constucts used in the JS code. 
 
 ### Evaluation
 
