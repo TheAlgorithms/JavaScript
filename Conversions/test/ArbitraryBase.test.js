@@ -34,3 +34,13 @@ test('Check the answer of convertArbitraryBase(111, 0123456789, abcdefgh) is bfh
   const res = convertArbitraryBase('111', '0123456789', 'abcdefgh')
   expect(res).toBe('bfh')
 })
+
+test('Unicode awareness', () => {
+  const res = convertArbitraryBase('98', '0123456789', '💝🎸🦄')
+  expect(res).toBe('🎸💝🎸🦄🦄')
+})
+
+test('zero', () => {
+  const res = convertArbitraryBase('0', '0123456789', 'abc')
+  expect(res).toBe('a')
+})

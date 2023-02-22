@@ -1,4 +1,17 @@
 /**
+* Divide two numbers and get the result of floor division and remainder
+* @param {number} dividend
+* @param {number} divisor
+* @returns {[result: number, remainder: number]}
+*/
+const floorDiv = (dividend, divisor) => {
+  const remainder = dividend % divisor
+  const result = Math.floor(dividend / divisor)
+
+  return [result, remainder]
+}
+
+/**
 * Converts a string from one base to other
 * @param {string} stringInBaseOne String in input base
 * @param {string} baseOneCharacters Character set for the input base
@@ -33,24 +46,11 @@ const convertArbitraryBase = (stringInBaseOne, baseOneCharacterString, baseTwoCh
   let stringInBaseTwo = ''
   const stringTwoBase = baseTwoCharacters.length
   while (value > 0) {
-    const remainder = value % stringTwoBase
-    stringInBaseTwo = baseTwoCharacters.at(remainder) + stringInBaseTwo
-    value /= stringTwoBase
+    const [divisionResult, remainder] = floorDiv(value, stringTwoBase)
+    stringInBaseTwo = baseTwoCharacters[remainder] + stringInBaseTwo
+    value = divisionResult
   }
-  const baseTwoZero = baseTwoCharacters.at(0)
-  return stringInBaseTwo.replace(new RegExp(`^${baseTwoZero}+`, 'u'), '')
+  return stringInBaseTwo || baseTwoCharacters[0]
 }
 
 export { convertArbitraryBase }
-
-// > convertArbitraryBase('98', '0123456789', '01234567')
-// '142'
-
-// > convertArbitraryBase('98', '0123456789', 'abcdefgh')
-// 'bec'
-
-// > convertArbitraryBase('129', '0123456789', '01234567')
-// '201'
-
-// > convertArbitraryBase('98', '0123456789', '💝🎸🦄')
-// '🎸💝🎸🦄🦄'
