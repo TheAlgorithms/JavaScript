@@ -5,16 +5,19 @@
 * @param {string} baseTwoCharacters Character set for the output base
 * @returns {string}
 */
-const convertArbitraryBase = (stringInBaseOne, baseOneCharacters, baseTwoCharacters) => {
-  if ([stringInBaseOne, baseOneCharacters, baseTwoCharacters].map(arg => typeof arg).some(type => type !== 'string')) {
+const convertArbitraryBase = (stringInBaseOne, baseOneCharacterString, baseTwoCharacterString) => {
+  if ([stringInBaseOne, baseOneCharacterString, baseTwoCharacterString].map(arg => typeof arg).some(type => type !== 'string')) {
     throw new TypeError('Only string arguments are allowed')
   }
-  [baseOneCharacters, baseTwoCharacters].forEach(baseString => {
-    const charactersInBase = [...baseString]
+
+  const baseOneCharacters = [...baseOneCharacterString]
+  const baseTwoCharacters = [...baseTwoCharacterString]
+
+  for (const charactersInBase of [baseOneCharacters, baseTwoCharacters]) {
     if (charactersInBase.length !== new Set(charactersInBase).size) {
       throw new TypeError('Duplicate characters in character set are not allowed')
     }
-  })
+  }
   const reversedStringOneChars = [...stringInBaseOne].reverse()
   const stringOneBase = baseOneCharacters.length
   let value = 0
@@ -31,11 +34,11 @@ const convertArbitraryBase = (stringInBaseOne, baseOneCharacters, baseTwoCharact
   const stringTwoBase = baseTwoCharacters.length
   while (value > 0) {
     const remainder = value % stringTwoBase
-    stringInBaseTwo = baseTwoCharacters.charAt(remainder) + stringInBaseTwo
+    stringInBaseTwo = baseTwoCharacters.at(remainder) + stringInBaseTwo
     value /= stringTwoBase
   }
-  const baseTwoZero = baseTwoCharacters.charAt(0)
-  return stringInBaseTwo.replace(new RegExp(`^${baseTwoZero}+`), '')
+  const baseTwoZero = baseTwoCharacters.at(0)
+  return stringInBaseTwo.replace(new RegExp(`^${baseTwoZero}+`, 'u'), '')
 }
 
 export { convertArbitraryBase }
@@ -48,3 +51,6 @@ export { convertArbitraryBase }
 
 // > convertArbitraryBase('129', '0123456789', '01234567')
 // '201'
+
+// > convertArbitraryBase('98', '0123456789', '💝🎸🦄')
+// '🎸💝🎸🦄🦄'
