@@ -19,14 +19,8 @@
  */
 
 // Priority Queue Helper functions
-function getParentPosition (position) {
-  // Get the parent node of the current node
-  return Math.floor((position - 1) / 2)
-}
-function getChildrenPosition (position) {
-  // Get the children nodes of the current node
-  return [2 * position + 1, 2 * position + 2]
-}
+const getParentPosition = position => Math.floor((position - 1) / 2)
+const getChildrenPositions = position => [2 * position + 1, 2 * position + 2]
 
 class KeyPriorityQueue {
   // Priority Queue class using Minimum Binary Heap
@@ -86,7 +80,7 @@ class KeyPriorityQueue {
     const parentPos = getParentPosition(currPos)
     const currPriority = this._getPriorityOrInfinite(currPos)
     const parentPriority = this._getPriorityOrInfinite(parentPos)
-    const [child1Pos, child2Pos] = getChildrenPosition(currPos)
+    const [child1Pos, child2Pos] = getChildrenPositions(currPos)
     const child1Priority = this._getPriorityOrInfinite(child1Pos)
     const child2Priority = this._getPriorityOrInfinite(child2Pos)
 
@@ -123,7 +117,7 @@ class KeyPriorityQueue {
   _shiftDown (position) {
     // Helper function to shift down a node to proper position (equivalent to bubbleDown)
     let currPos = position
-    let [child1Pos, child2Pos] = getChildrenPosition(currPos)
+    let [child1Pos, child2Pos] = getChildrenPositions(currPos)
     let child1Priority = this._getPriorityOrInfinite(child1Pos)
     let child2Priority = this._getPriorityOrInfinite(child2Pos)
     let currPriority = this._getPriorityOrInfinite(currPos)
@@ -140,7 +134,7 @@ class KeyPriorityQueue {
         this._swap(child2Pos, currPos)
         currPos = child2Pos
       }
-      [child1Pos, child2Pos] = getChildrenPosition(currPos)
+      [child1Pos, child2Pos] = getChildrenPositions(currPos)
       child1Priority = this._getPriorityOrInfinite(child1Pos)
       child2Priority = this._getPriorityOrInfinite(child2Pos)
       currPriority = this._getPriorityOrInfinite(currPos)
