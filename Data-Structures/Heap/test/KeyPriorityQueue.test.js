@@ -1,23 +1,21 @@
 import { KeyPriorityQueue } from '../KeyPriorityQueue.js'
 
 describe('Method isEmpty', () => {
-
   test('Check heap is empty', () => {
     const queue = new KeyPriorityQueue()
-    let res = queue.isEmpty()
+    const res = queue.isEmpty()
     expect(res).toEqual(true)
   })
 
   test('Check heap is not empty', () => {
     const queue = new KeyPriorityQueue()
     queue.push(0, 2)
-    let res = queue.isEmpty()
+    const res = queue.isEmpty()
     expect(res).toEqual(false)
   })
 })
 
 describe('Methods push and pop', () => {
-
   test('Test Case 1', () => {
     // create queue
     const queue = new KeyPriorityQueue()
@@ -34,7 +32,7 @@ describe('Methods push and pop', () => {
     queue.pop()
     expect(queue).toEqual(expectedQueue)
   })
-  
+
   test('Test Case 2', () => {
     // create queue
     const queue = new KeyPriorityQueue()
@@ -51,7 +49,7 @@ describe('Methods push and pop', () => {
     queue.pop()
     expect(queue).toEqual(expectedQueue)
   })
-  
+
   test('Test Case 3', () => {
     // create queue
     const queue = new KeyPriorityQueue()
@@ -73,23 +71,21 @@ describe('Methods push and pop', () => {
 })
 
 describe('Method contains', () => {
-
   test('Check heap does not contain element', () => {
     const queue = new KeyPriorityQueue()
-    let res = queue.contains(0)
+    const res = queue.contains(0)
     expect(res).toEqual(false)
   })
 
   test('Check heap contains element', () => {
     const queue = new KeyPriorityQueue()
     queue.push(0, 2)
-    let res = queue.contains(0)
+    const res = queue.contains(0)
     expect(res).toEqual(true)
   })
 })
 
 describe('Method update', () => {
-
   test('Update without change in position', () => {
     // create queue
     const queue = new KeyPriorityQueue()

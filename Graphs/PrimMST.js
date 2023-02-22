@@ -1,4 +1,4 @@
-import { KeyPriorityQueue } from "../Data-Structures/Heap/KeyPriorityQueue"
+import { KeyPriorityQueue } from '../Data-Structures/Heap/KeyPriorityQueue'
 class GraphWeightedUndirectedAdjacencyList {
   // Weighted Undirected Graph class
   constructor () {
