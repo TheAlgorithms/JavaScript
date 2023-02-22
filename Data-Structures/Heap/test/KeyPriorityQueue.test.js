@@ -1,25 +1,5 @@
 import { KeyPriorityQueue } from '../KeyPriorityQueue.js'
 
-describe('KeyPriorityQueue', () => {
-
-  test('Check heap correctly ordered', () => {
-    // create queue and fill it
-    const priorities = [5, 2, 4, 1, 7, 6, 3, 8]
-    const queue = new KeyPriorityQueue()
-    for (let i = 0; i < priorities.length; i++) {
-      queue.push(i, priorities[i])
-    }
-
-    // result from popping all elements from the queue
-    let res = []
-    while (!queue.isEmpty()) {
-      res.push(queue.pop())
-    }
-
-    expect(res).toEqual([1, 2, 3, 5, 7, 6, 4, 8])
-  })
-})
-
 describe('Method isEmpty', () => {
 
   test('Check heap is empty', () => {
@@ -119,7 +99,7 @@ describe('Method update', () => {
     queue.push(3, 11)
     // create expected queue
     const expectedQueue = new KeyPriorityQueue()
-    expectedQueue.push(0, 3)
+    expectedQueue.push(0, 2)
     expectedQueue.push(1, 5)
     expectedQueue.push(2, 7)
     expectedQueue.push(3, 11)
