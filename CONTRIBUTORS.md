@@ -70,6 +70,7 @@
 - [@Adityapote](https://github.com/AdityaPote)
 
 - [@Meis01](https://github.com/Meis01)
+- [@NeringaPa](https://github.com/NeringaPa)
 
 - [@AlainDlcTVOP](https://github.com/AlainDlcTVOP)
 
