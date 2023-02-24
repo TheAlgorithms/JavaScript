@@ -4418,6 +4418,8 @@
 
 - [@Zhidong02134](https://github.com/ZhiDong02134)
 
+- [@RNDdave] (https://github.com/rnddave)
+
 - [@Zhuzum](https://github.com/Zhuzum)
 
 - [@Zhvn1](https://github.com/rzhvn1)
@@ -8539,5 +8541,3 @@ fe477c7f6162e310f2e603958da3d37cc1fc69ab
 -[@redfordk](https://github.com/redfordk/)
 
 -[@Kvlen](https://github.com/Kvlen)
-
--[@RNDdave] (https://github.com/rnddave)
