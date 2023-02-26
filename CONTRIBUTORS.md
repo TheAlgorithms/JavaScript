@@ -8175,6 +8175,8 @@
 
 -   [Imbeshat](https://github.com/imbeshat)
 
+- [@paul-cute](https://github.com/paul-cute)
+
 -   [@Ruben](https://github.com/Rube01)
 
 -   [0xSilkweave](https://github.com/0xSilkweave)
@@ -8574,3 +8576,4 @@ fe477c7f6162e310f2e603958da3d37cc1fc69ab
 -[@upadrasta84](https://github.com/upadrasta84)
 
 -[@singhalmradul](https://github.com/singhalmradul)
+
