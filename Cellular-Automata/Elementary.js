@@ -3,7 +3,11 @@
  *
  * Generates generations of Elementary 1D cellular automata
  *
- * My take on the explanation of Elementary Cellular Automata
+ * Wikipedia: https://en.wikipedia.org/wiki/Elementary_cellular_automaton
+ * See all 255 possible rules and find another explanation here: https://mathworld.wolfram.com/ElementaryCellularAutomaton.html
+ *
+ * My personal take on the explanation of Elementary Cellular Automata:
+ *
  * Elementary 1D cellular automata defines the growth and decay of populations of "cells" according to a specific rule, where the population is a line (array) and each cell is in either an "alive" (1) or a "dead" (0) state.
  *
  * The next generation of for a cell in the simulation ONLY depends on the state of its neighborhood (the state of the cell itself as well as the states of the cells to the immediate right and the immediate left)
@@ -28,7 +32,6 @@
  * This analysis of a cell's neighborhood is performed on each cell in a generation until a new generation is created and returned.
  *
  * Rules are usually demonstrated visually by how a single cell grows independently according to that rule
- * Read more and see example patterns at https://mathworld.wolfram.com/ElementaryCellularAutomaton.html (they probably explain it better than I do anyway)
  *
  * Example: First generations of Rule 94                    First Generations of Rule 126
  * 000000000000000000000000001000000000000000000000000      000000000000000000000000001000000000000000000000000
