@@ -4165,6 +4165,8 @@
 
 - [@Vanessander](https://github.com/vanessander)
 
+- [@gsvidal](https://github.com/gsvidal)
+
 - [@Vanimus](https://github.com/vanimus)
 
 - [@Varsha631](https://github.com/varsha631)
