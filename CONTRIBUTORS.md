@@ -1744,6 +1744,8 @@
 
 - [@Isaac7App](https://github.com/Isaac7app)
 
+- [@Lkblanch](https://github.com/lkblanch)
+
 - [@Isaicastro1](https://github.com/isaicastro1)
 
 - [@Ishevchyk](https://github.com/ishevchyk/)
