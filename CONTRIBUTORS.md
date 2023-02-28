@@ -3961,7 +3961,7 @@
 
 - [@Tedzregor](https://github.com/tedzregor/)
 
-- [@Tabornkr](https://github.com/TabornKR)
+- [@tabornkr](https://github.com/tabornkr)
 
 - [@Teeteelab](https://github.com/Teetee-lab)
 
