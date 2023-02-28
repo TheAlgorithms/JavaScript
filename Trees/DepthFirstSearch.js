@@ -4,11 +4,11 @@
  * DFS Algorithm for traversing or searching graph data structures.
 */
 
-// traverses a give tree from specified root
-function traverseDFS (tree, root) {
+// traverses a give tree from specified root's value
+function traverseDFS (tree, rootValue) {
   const stack = []
   const res = []
-  stack.push(searchDFS(tree, root))
+  stack.push(searchDFS(tree, rootValue))
   // if root is not present in the tree, returning empty array
   if (!stack[0]) return res
   while (stack.length) {
