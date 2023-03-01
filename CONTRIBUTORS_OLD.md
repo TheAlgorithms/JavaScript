@@ -15273,8 +15273,3 @@
 - [@AndyCarriere](https://github.com/AndyCarriere/)
 
 - [@AditKhandelwal](https://github.com/AditKhandelwal)
-
-- [@cfirbuvel](https://github.com/cfirbuvel)
-
-- [@MRWOLVEY](https://github.com/MRWOLVEY)
-
