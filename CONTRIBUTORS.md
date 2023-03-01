@@ -228,6 +228,8 @@
 
 -[@pinatic](https://github.com/Pinatic79)
 
+-[@flaviowh](https://github.com/flaviowh)
+
 -[@hiltondeville](https://github.com/hiltondeville)
 
 -[@dkembre](https://github.com/dkembre) -[@pinatic](https://github.com/Pinatic79)
