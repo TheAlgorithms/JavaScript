@@ -63,6 +63,8 @@
 
 - [@brandonHafley](https://github.com/brandonHafley)
 
+- [@Danthesage01](https://github.com/Danthesage01)
+
 - [@wadeevans](https://github.com/wadeevans)
 
 - [@giolmartin](https://github.com/giolmartin)
