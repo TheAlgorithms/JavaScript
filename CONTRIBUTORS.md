@@ -306,6 +306,8 @@
 
 -[@pixelRena](https://github.com/pixelRena)
 
+-[@shriyans3](https://github.com/shriyans3)
+
 -[@MarceloLopezS](https://github.com/MarceloLopezS)
 
 -[@kylegothman](https://github.com/kylegothman) -[@Imadinglefritz](https://github.com/Imadinglefritz)
