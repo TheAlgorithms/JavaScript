@@ -14,7 +14,7 @@
 
 - [@jalonghurst] (https://github.com/jalonghurst)
 
-- [@Kaze] (https://github.com/11kaze)
+- [@Kaze] (https://github.com/11kaze) 
 - [@roxana412] (https://github.com/roxana412)
 
 - [@Ngyyen](https://github.com/Ngyyen)
