@@ -352,6 +352,8 @@
 
 -[@Karim-Daouas](https://github.com/Karim-Daouas)
 
+-[@logphile](https://github.com/logphile)
+
 -[@Phanix](https://github.com/Phanix)
 
 -[@bigeomaha](https://github.com/bigeomaha)
