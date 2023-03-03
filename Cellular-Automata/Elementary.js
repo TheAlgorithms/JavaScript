@@ -84,18 +84,18 @@ export function getNextElementaryGeneration (generation, rule) {
   const RIGHT_DEAD = 1 // 001 in binary
 
   for (let i = 0; i < generation.length; i++) {
-    let neighborhoodValue = LEFT_DEAD + MIDDLE_DEAD + RIGHT_DEAD
+    let neighborhoodValue = LEFT_DEAD | MIDDLE_DEAD | RIGHT_DEAD
 
     if (i - 1 > 0 && generation[i - 1] === 1) {
-      neighborhoodValue -= LEFT_DEAD
+      neighborhoodValue ^= LEFT_DEAD
     }
 
     if (generation[i] === 1) {
-      neighborhoodValue -= MIDDLE_DEAD
+      neighborhoodValue ^= MIDDLE_DEAD
     }
 
     if (i + 1 < generation.length && generation[i + 1] === 1) {
-      neighborhoodValue -= RIGHT_DEAD
+      neighborhoodValue ^= RIGHT_DEAD
     }
 
     output[i] = ruleData[neighborhoodValue]
