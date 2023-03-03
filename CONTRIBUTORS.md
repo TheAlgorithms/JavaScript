@@ -8640,6 +8640,8 @@ fe477c7f6162e310f2e603958da3d37cc1fc69ab
 
 -[@ahnngo](https://github.com/ahnngo)
 
+-[@Adam-Nick](https://github.com/Adam-Nick)
+
 -[@ChetanHaobijam](https://github.com/chetanhaobijam)
 
 -[@10isha](https://github.com/10isha)
