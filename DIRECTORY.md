@@ -303,6 +303,7 @@
   * [CombSort](Sorts/CombSort.js)
   * [CountingSort](Sorts/CountingSort.js)
   * [CycleSort](Sorts/CycleSort.js)
+  * [DutchNationalFlagSort](Sorts/DutchNationalFlagSort.js)
   * [FindSecondLargestElement](Sorts/FindSecondLargestElement.js)
   * [FisherYatesShuffle](Sorts/FisherYatesShuffle.js)
   * [FlashSort](Sorts/FlashSort.js)
