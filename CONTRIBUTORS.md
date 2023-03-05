@@ -50,6 +50,9 @@
 
 - [@Shreyasuthar](https://github.com/shreyasuthar655)
 
+- [@DanRos88](https://github.com/DanRos88)
+
+
 - [@Vasanth](https://github.com/v-vasanth)
 - [@accaradhika](https://github.com/accaradhika)
 
