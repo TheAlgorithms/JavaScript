@@ -377,6 +377,8 @@
 
 -[@Kindevral](https://github.com/Kindevral)
 
+-[@kindredFP](https://github.com/kindredFP)
+
 -[@RoxanaAnamariaTurc](https://github.com/RoxanaAnamariaTurc)
 
 -[@kylegothman](https://github.com/kylegothman)
