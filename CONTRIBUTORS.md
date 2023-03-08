@@ -1227,6 +1227,8 @@
 
 - [@Emeraldcolour](https://github.com/EmeraldColour)
 
+-[@alejosilvalau](https://github.com/alejosilvalau)
+
 - [@Emmaclarem](https://github.com/emmaclarem)
 
 - [@Emmanuelkech](https://github.com/emmanuelkech)
