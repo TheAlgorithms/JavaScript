@@ -109,6 +109,8 @@
 
 - [@Beavinco](https://github.com/beavinco)
 
+- [@carolinaqvargas](https://github.com/carolinaqvargas)
+
 -[@YsnESSMAILI](https://github.com/YsnESSMAILI)
 
 - [@Bluejeansandbloddytears](https://github.com/BlueJeansAndBloddyTears)
