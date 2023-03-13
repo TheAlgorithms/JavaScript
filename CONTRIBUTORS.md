@@ -48,6 +48,8 @@
 
 - [@mohameddallas](https://github.com/mohameddallas)
 
+- [Goretzky](https://github.com/Goretzky/)
+
 - [@Shreyasuthar](https://github.com/shreyasuthar655)
 
 - [@DanRos88](https://github.com/DanRos88)
