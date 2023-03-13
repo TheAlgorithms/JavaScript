@@ -8931,7 +8931,7 @@
 
 - [@Jinalgoyani](https://github.com/jinalgoyani/)
 
-- [@Jinalpatel](https://github.com/JinalPatel17/)
+- [@JinalPatel](https://github.com/JinalPatel17)
 
 - [@Jithendragunuru](https://github.com/jithendra-gunuru)
 
