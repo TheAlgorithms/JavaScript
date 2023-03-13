@@ -48,7 +48,7 @@
 
 - [@mohameddallas](https://github.com/mohameddallas)
 
-- [Goretzky](https://github.com/Goretzky/)
+- [@Goretzky](https://github.com/Goretzky/)
 
 - [@Shreyasuthar](https://github.com/shreyasuthar655)
 
