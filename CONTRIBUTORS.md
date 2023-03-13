@@ -8371,9 +8371,9 @@
 
 -[@osilama](https://github.com/osilama)
 
--[@bendamian](https://github.com/bendamian)
+- [@bendamian](https://github.com/bendamian)
 
--[@watanaprasit](https://github.com/watanaprasit)
+- [@watanaprasit](https://github.com/watanaprasit)
 
 - [@rajeetdel](https://github.com/rajeetdel)
 
@@ -8385,9 +8385,11 @@
 
 - [@danazhunussova](https://github.com/danazhunussova/)
 
--[@pytholic](https://github.com/pytholic)
+- [@pytholic](https://github.com/pytholic)
 
 - [@YuWaiLinn](https://github.com/YuWaiLinn)
+
+- [@ljhuzii](https://github.com/ljhuzii)
 
 -[@ljhuzii](https://github.com/ljhuzii)
 
@@ -8415,7 +8417,9 @@
 
 - [@AIisDway](https://github.com/AIisDway)
 
-- [@willdelorm](https://github.com/willdelorm) -[@Gabeifeoluwa](https://github.com/Gabeifeoluwa)
+- [@willdelorm](https://github.com/willdelorm)
+
+-[@Gabeifeoluwa](https://github.com/Gabeifeoluwa)
 
 - [@j-zylstra](https://github.com/j-zylstra)
 
@@ -8439,19 +8443,17 @@
 
 -[@Guilherme013S](https://github.com/Guilherme013S)
 
-- [@Florent-NOEL](https://github.com/Florent-NOEL/)
+- [@osilama-lab](https://github.com/osilama-lab)
 
--[@Yarince90](https://github.com/Yarince90)
+- [@bogse](https://github.com/bogse)
 
-- [@chachacha666](https://github.com/chachacha666)
+- [@henryapm](https://github.com/henryapm)
 
--[@anasolomon](https://github.com/anasolomon)
+- [@ashton8504](https://github.com/ashton8504)
 
-- [@lenny-damiani](https://github.com/lenny-damiani)
+- [@SarperMakas](https://github.com/SarperMakas)
 
-- [@JackCaldwellNichols](https://github.com/JackCaldwellNichols)
-
-- [@VladOneBls](https://github.com/VladOneBls/)
+- [@sunnySavlot](https://github.com/sunnySavlot)
 
 - [@hoangphamdksc](https://github.com/hoangphamdksc/)
 
