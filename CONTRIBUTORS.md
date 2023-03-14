@@ -3348,6 +3348,8 @@ cl# CONTRIBUTORS
 
 - [@Redskowa](https://github.com/redskowa/)
 
+- [@RegosAdam](https://github.com/RegosAdam)
+
 - [@Rehanqasimk](https://github.com/rehanqasimk)
 
 - [@SopheeThomas](https://github.com/SopheeThomas)
