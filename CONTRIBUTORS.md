@@ -162,6 +162,8 @@
 
 - [@Afrokayie](https://github.com/afrokayie)
 
+- [@Agh26](https://github.com/agh26)
+
 - [@Agoddardc](http://github.com/agoddardc)
 
 - [@Agsarafa](https://github.com/Agsarafa)
@@ -2686,13 +2688,13 @@
 
 - [@Ibonom](https://github.com/Ibonom)
 
-- [@ibunco](https://github.com/ibunco)
-
 - [@Ibrahim](https://github.com/piincher)
 
 - [@Ibrahimomeiza99](https://github.com/ibrahimomeiza99)
 
 - [@Ibtehaz](https://github.com/ibtehaz)
+
+- [@Ibunco](https://github.com/ibunco)
 
 - [@Ic2505](https://github.com/ic2505)
 
@@ -6962,6 +6964,8 @@
 
 - [@Tala101](https://github.com/Tala101)
 
+- [@Talenttinaapi](https://github.com/talenttinaapi)
+
 - [@Talhaansari4761](https://github.com/talhaansari4761/)
 
 - [@Talhaarshad7](https://github.com/talhaarshad7)
@@ -7924,4 +7928,3 @@
 
 - [@🐬Gassims](https://github.com/gassims/)
 
--[@agh26](https://github.com/agh26)
