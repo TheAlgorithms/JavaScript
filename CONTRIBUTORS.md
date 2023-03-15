@@ -8914,9 +8914,6 @@ cl# CONTRIBUTORS
 
 -[@Meltasy](https://github.com/Meltasy)
 
-<<<<<<< HEAD
--[@mikeescro](https://github.com/mikeescro)
-=======
 -[@rdcorrigan](https://github.com/rdcorrigan)
 
 -[@Gabe-Velasquez](https://github.com/Gabe-Velasquez)
@@ -8924,4 +8921,5 @@ cl# CONTRIBUTORS
 -[@John H](https://github.com/hyakku)
 
 -[@zvin123](https://github.com/zvin123)
->>>>>>> de14379220d6ffb112c7e921076f8bb51568e41d
+
+-[@mikeescro](https://github.com/mikeescro)
