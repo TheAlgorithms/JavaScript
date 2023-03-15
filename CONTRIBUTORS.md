@@ -1704,6 +1704,8 @@ cl# CONTRIBUTORS
 
 - [@Hyelnatzz](https://github.com/hyelnatzz)
 
+- [@ayanda-m](https://github.com/ayanda-m)
+
 - [@I1Hpi](https://github.com/I1hpI)
 
 - [@Iambolu](https://github.com/iambolu)
