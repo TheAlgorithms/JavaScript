@@ -2314,6 +2314,8 @@ cl# CONTRIBUTORS
 
 - [@Lakshya3119](https://github.com/Lakshya3119)
 
+- [@lakintosh](https://github.com/lakintosh)
+
 - [@Lalhmingmuana](https://github.com/lalhming-muana)
 
 - [@Lalysi](https://github.com/lalysi)
