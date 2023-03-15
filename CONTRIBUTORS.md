@@ -24,6 +24,8 @@ cl# CONTRIBUTORS
 
 - [@anna-kulyk](https://github.com/anna-kulyk)
 
+- [@praveencoolkpk](https://github.com/praveencoolkpk)
+
 - [@Eklemis](https://github.com/eklemis)
 
 - [@jalonghurst](https://github.com/jalonghurst)
@@ -2314,6 +2316,8 @@ cl# CONTRIBUTORS
 
 - [@Lakshya3119](https://github.com/Lakshya3119)
 
+- [@lakintosh](https://github.com/lakintosh)
+
 - [@Lalhmingmuana](https://github.com/lalhming-muana)
 
 - [@Lalysi](https://github.com/lalysi)
@@ -4095,6 +4099,8 @@ cl# CONTRIBUTORS
 
 - [@Timothyrowland](https://github.com/TimothyRowland)
 
+- [@timothyrusso](https://github.com/timothyrusso)
+
 - [@Timphamvn33](https://github.com/timphamvn33)
 
 - [@Timsorrow](https://github.com/TimSorrow)
@@ -4684,6 +4690,8 @@ cl# CONTRIBUTORS
 - [@ssood12](https://github.com/ssood12)
 
 - [@KirillGos](https://github.com/KirillGos)
+
+- [@joachinhimself](https://github.com/joachinhimself)
 
 - [@Jatin-7](https://github.com/Jatin-7)
 
@@ -6189,6 +6197,8 @@ cl# CONTRIBUTORS
 - [@Puka-Luke](https://github.com/Puka-Luke)
 
 - [@KaraFang](https://github.com/KaraFang)
+
+- [@suriair](https://github.com/suriair)
 
 - [@daytonschuh](https://github.com/daytonschuh)
 
@@ -8904,4 +8914,14 @@ cl# CONTRIBUTORS
 
 -[@Meltasy](https://github.com/Meltasy)
 
+<<<<<<< HEAD
 -[@mikeescro](https://github.com/mikeescro)
+=======
+-[@rdcorrigan](https://github.com/rdcorrigan)
+
+-[@Gabe-Velasquez](https://github.com/Gabe-Velasquez)
+
+-[@John H](https://github.com/hyakku)
+
+-[@zvin123](https://github.com/zvin123)
+>>>>>>> de14379220d6ffb112c7e921076f8bb51568e41d
