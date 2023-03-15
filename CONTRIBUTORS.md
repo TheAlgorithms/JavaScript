@@ -6190,6 +6190,8 @@ cl# CONTRIBUTORS
 
 - [@KaraFang](https://github.com/KaraFang)
 
+- [@suriair](https://github.com/suriair)
+
 - [@daytonschuh](https://github.com/daytonschuh)
 
 - [@KC2k13](https://github.com/KC2k13)
