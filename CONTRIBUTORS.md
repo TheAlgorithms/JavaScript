@@ -139,6 +139,8 @@ cl# CONTRIBUTORS
 
 - [@aalmarhabi](https://github.com/aalmarhabi)
 
+- [@fancy_pigeon5](https://github.com/fancypigeon5)
+
 - [@Enthr](https://github.com/enthr)
 
 - [@pdutra145](https://github.com/pdutra145)
@@ -8938,3 +8940,6 @@ cl# CONTRIBUTORS
 -[@AniketBhunia](https://github.com/AniketBhunia)
 
 -[@root5086](https://github.com/root5086)
+
+-[@rubydevi](https://github.com/rubydevi)
+
