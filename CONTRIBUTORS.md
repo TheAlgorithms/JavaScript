@@ -37,7 +37,10 @@ cl# CONTRIBUTORS
   -[@fabioauroradev](https://github.com/FabioAurora)
 
 - [@joancodes] (https://github.com/joancodes)
+
 - [@ananddixit007] (https://github.com/ananddixit007)
+
+-[@JermainePaine] (https://github.com/JermainePaine)
 
 - [@fabioauroradev](https://github.com/FabioAurora)
 
