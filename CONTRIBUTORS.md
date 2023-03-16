@@ -30,6 +30,9 @@ cl# CONTRIBUTORS
 
 - [@jalonghurst](https://github.com/jalonghurst)
 
+
+- [@akash-chauhan](https://github.com/AkashChauhan111)
+
 - [@belaid-dali](https://github.com/belaid-dali)
 
 - [@joancodes](https://github.com/joancodes)
