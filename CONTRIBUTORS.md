@@ -624,6 +624,8 @@ cl# CONTRIBUTORS
 
 - [@Brandonmagana](https://github.com/BrandonMagana)
 
+- [@allanrodriguest](https://github.com/allanrodriguest)
+
 - [@Breyrivera2021](https://github.com/BreyRivera2021)
 
 - [@BrianWhelanDublin](https://github.com/BrianWhelanDublin)
