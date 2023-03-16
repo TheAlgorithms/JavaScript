@@ -624,6 +624,8 @@ cl# CONTRIBUTORS
 
 - [@Brandonmagana](https://github.com/BrandonMagana)
 
+- [@allanrodriguest](https://github.com/allanrodriguest)
+
 - [@Breyrivera2021](https://github.com/BreyRivera2021)
 
 - [@BrianWhelanDublin](https://github.com/BrianWhelanDublin)
@@ -1703,6 +1705,8 @@ cl# CONTRIBUTORS
 - [@Hychanbn1009](https://github.com/hychanbn1009/)
 
 - [@Hyelnatzz](https://github.com/hyelnatzz)
+
+- [@ayanda-m](https://github.com/ayanda-m)
 
 - [@I1Hpi](https://github.com/I1hpI)
 
@@ -8923,3 +8927,6 @@ cl# CONTRIBUTORS
 -[@zvin123](https://github.com/zvin123)
 
 -[@R3KV1EM](https://github.com/R3KV1EM)
+
+-[@JayNaii](https://github.com/JayNaii)
+
