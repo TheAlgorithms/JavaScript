@@ -2020,6 +2020,8 @@ cl# CONTRIBUTORS
 
 - [@Jonrivers30](https://github.com/JonRivers30)
 
+- [@Zesc](https://github.com/Zesc)
+
 - [@Jordanclarkkk](https://github.com/JordanClarkkk)
 
 - [@Josefkohoutek](https://github.com/kohojo)
