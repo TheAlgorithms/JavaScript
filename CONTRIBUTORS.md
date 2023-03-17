@@ -65,6 +65,7 @@ cl# CONTRIBUTORS
 
 - [@DanRos88](https://github.com/DanRos88)
 
+- [@frukarto](https://github.com/apoorva71)
 
 - [@Vasanth](https://github.com/v-vasanth)
 - [@accaradhika](https://github.com/accaradhika)
