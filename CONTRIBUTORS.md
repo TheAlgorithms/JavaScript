@@ -7625,6 +7625,7 @@
 - [@Wjrempelos](https://github.com/Wjrempelos)
 
 - [@Wkaiser21](https://github.com/wkaiser21)
+- [@StefaniaNeri](https://github.com/StefaniaNeri)
 
 - [@Wmk5055](https://github.com/wmk5055)
 
