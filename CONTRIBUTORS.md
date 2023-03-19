@@ -2839,6 +2839,8 @@ cl# CONTRIBUTORS
 
 - [@Mvisanu](https://github.com/mvisanu)
 
+- [@Mxrhodes](https://github.com/mxrhodes)
+
 - [@Mylesthecoder](https://github.com/Myles-The-Coder/)
 
 - [@Nadiafrshlm](https://github.com/NadiaFrShLm)
