@@ -8965,4 +8965,4 @@ cl# CONTRIBUTORS
 
 - [@Paul-03-tech](https://github.com/Paul-03-tech)
 
-- [@simonfoy] (https://github.com/simonfoy)
+-[@simonfoy] (https://github.com/simonfoy)
