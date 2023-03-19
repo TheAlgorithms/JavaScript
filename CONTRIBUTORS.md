@@ -30,6 +30,9 @@ cl# CONTRIBUTORS
 
 - [@jalonghurst](https://github.com/jalonghurst)
 
+
+- [@akash-chauhan](https://github.com/AkashChauhan111)
+
 - [@belaid-dali](https://github.com/belaid-dali)
 
 - [@joancodes](https://github.com/joancodes)
@@ -62,6 +65,7 @@ cl# CONTRIBUTORS
 
 - [@DanRos88](https://github.com/DanRos88)
 
+- [@frukarto](https://github.com/apoorva71)
 
 - [@Vasanth](https://github.com/v-vasanth)
 - [@accaradhika](https://github.com/accaradhika)
@@ -6865,6 +6869,8 @@ cl# CONTRIBUTORS
 
 - [@kaiwalya-07] (https://github.com/kaiwalya-07)
 
+- [@Mohammad-Ajram] (https://github.com/Mohammad-Ajram)
+
 - [mbah7onez](https://github.com/mbah7onez)
 
 -[@behappyleee](https://github.com/behappyleee) -[@ShubhamSKadam](https://github.com/ShubhamSKadam)
@@ -8939,4 +8945,24 @@ cl# CONTRIBUTORS
 
 -[@AniketBhunia](https://github.com/AniketBhunia)
 
+-[@mnogie](https://github.com/mnogie)
+
 -[@rubydevi](https://github.com/rubydevi)
+
+-[@Hmz931](https://github.com/Hmz931)
+
+-[@CloverJoy](https://github.com/CloverJoy)
+
+-[@Wexo78](https://github.com/Wexo78)
+
+-[@abhishekpatel2528](https://github.com/abhishekpatel2528)
+
+-[@Sidd-alt](https://github.com/Sidd-alt)
+
+- [@whiteSHADOW1234](https://github.com/whiteSHADOW1234)
+
+-[@p1ttstop](https://github.com/p1ttstop)
+
+- [@Paul-03-tech](https://github.com/Paul-03-tech)
+
+-[@simonfoy] (https://github.com/simonfoy)
