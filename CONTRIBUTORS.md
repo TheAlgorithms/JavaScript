@@ -1429,6 +1429,8 @@ cl# CONTRIBUTORS
 
 - [@Funnyr0B0T](https://github.com/funnyr0b0t)
 
+- [@fyemane] (https://github.com/fyemane)
+
 - [@Fznmlk](https://github.com/fznmlk)
 
 - [@Gab990](https://github.com/Gab990)
