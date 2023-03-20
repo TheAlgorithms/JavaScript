@@ -22,11 +22,7 @@
 
 - [@111Akash](https://github.com/111akash)
 
-
-- [@RJBurford][https://github.com/rjburford]
-
 - [@123Lickme](https://github.com/123lickme)
-
 
 - [@126Jullian](https://github.com/126jullian)
 
@@ -3634,6 +3630,8 @@
 
 - [@Katyh820](https://github.com/KatyH820)
 
+- [@Kaunghtetmon](https://github.com/KaungHtetMon29)
+
 - [@Kaushalmohit](https://github.com/kaushal-mohit)
 
 - [@Kavgo](https://github.com/KavGo)
@@ -3688,7 +3686,7 @@
 
 - [@Kennshen](https://github.com/Kennshen)
 
-- [@Kennymcgeoch](https://github.com/KennyMcGeoch/)
+- [@Kennymcgeoch](https://github.com/KennyMcGeoch)
 
 - [@Kentandrian](https://github.com/KenTandrian)
 
@@ -6144,6 +6142,8 @@
 
 - [@Rizquadnan](https://github.com/rizquadnan)
 
+- [@Rjburford](https://github.com/rjburford)
+
 - [@Rjhuffaker](https://github.com/RjHuffaker)
 
 - [@Rjohnsondev1](https://github.com/rjohnsondev1)
@@ -8184,6 +8184,3 @@
 
 - [@🐬Gassims](https://github.com/gassims/)
 
-- [@simonfoy] (https://github.com/simonfoy)
-
-- [@rjburford](https://github.com/rjburford)
