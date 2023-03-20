@@ -14,6 +14,7 @@ cl# CONTRIBUTORS
 -  [@code2forever](https://github.com/code2forever)
 
 - [@SHA888](https://github.com/SHA888)
+- Taufeeq Noamaan
 
 - [@jalonghurst] (https://github.com/jalonghurst)
 
