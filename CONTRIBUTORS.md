@@ -8976,3 +8976,5 @@ cl# CONTRIBUTORS
 -[@simonfoy] (https://github.com/simonfoy)
 
 -[@rajevercrazy] (https://github.com/rajevercrazy)
+
+-[@giggle] (https://github.com/giggle)
