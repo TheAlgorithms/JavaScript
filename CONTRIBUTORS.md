@@ -4792,6 +4792,8 @@ cl# CONTRIBUTORS
 
 - [@simi360](https://github.com/simi360)
 
+- [@dennyjohnk](https://github.com/dennyjohnk)
+
 - [@kareninarg](https://github.com/kareninarg)
 
 - [@hammypig](https://github.com/hammypig)
