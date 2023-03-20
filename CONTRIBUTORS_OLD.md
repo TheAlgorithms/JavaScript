@@ -2,6 +2,8 @@
 
 - [@Nazmul6180](https://github.com/Nazmul6180)
 
+- [@camilagx](https://github.com/camilagx)
+
 - [@p-acs8](https://github.com/p-acs8/)
 
 - [@mbajinaru](https://github.com/mbajinaru)
