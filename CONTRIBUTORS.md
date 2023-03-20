@@ -394,7 +394,9 @@ cl# CONTRIBUTORS
 
 -[@hakedo](https://github.com/hakedo)
 
--[@anubhav-negi](https://github.com/starlove54)s
+-[@muhammedhasann](https://github.com/muhammedhasann)
+
+-[@anubhav-negi](https://github.com/starlove54)
 
 -[@Kindevral](https://github.com/Kindevral)
 
