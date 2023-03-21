@@ -5574,8 +5574,6 @@ cl# CONTRIBUTORS
 
 - [@VerDanT](https://github.com/NVergil)
 
-- [@manuelLanderos](https://github.com/manuelLanderos)
-
 - [@arx0x0](https://github.com/arx0x0/)
 
 - [@eloquent-programmer](https://github.com/eloquent-programmer)
@@ -8997,3 +8995,5 @@ cl# CONTRIBUTORS
 -[@NiteshMishra](https://github.com/Nitesh232)
 
 -[@laukic1](https://github.com/laukic1)
+
+- [@manuelLanderos](https://github.com/manuelLanderos)
