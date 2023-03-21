@@ -184,6 +184,8 @@ cl# CONTRIBUTORS
 
 - [@Mikerobards](https://github.com/mikerobards)
 
+- [@stkz](https://github.com/stkz)
+
 - [@Mmassoud](https://github.com/M-Massoud)
 
 - [@Paramjeetdhiman](https://github.com/paramjeetdhiman)
