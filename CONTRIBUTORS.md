@@ -9000,3 +9000,5 @@ cl# CONTRIBUTORS
 
 -[@laukic1](https://github.com/laukic1)
 -[@Moyebamiji98](https://github.com/Moyebamiji98)
+
+-[@seanryderjr] (https://github.com/seanryderjr)
