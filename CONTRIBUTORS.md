@@ -6680,6 +6680,8 @@ cl# CONTRIBUTORS
 
 - [@padrone1225](https://github.com/padrone1225)
 
+- [@SammyT90](https://github.com/SammyT90)
+
 - [@shawnjamil](https://github.com/shawnjamil)
 
 - [@blu-1337](https://github.com/blu-1337)
@@ -9004,4 +9006,10 @@ cl# CONTRIBUTORS
 -[@seanryderjr] (https://github.com/seanryderjr)
 
 -[@SeikhAsifAkram](https://github.com/SeikhAsifAkram)
+
+-[@BobTheCool55](https://github.com/BobTheCool55)
+
+-[@Divyajyoti1801](https://github.com/Divyajyoti1801)
+
+-[@Kirankumar1597](https://github.com/Kirankumar1597)
 -[@divyanshu49](https://github.com/divyanshu49)
