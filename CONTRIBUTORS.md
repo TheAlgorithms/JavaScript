@@ -1196,6 +1196,8 @@ cl# CONTRIBUTORS
 
 - [@jovannickovic](https://github.com/jovannickovic)
 
+- [@kamilodev](https://github.com/kamilodev)
+
 - [@Dzayo](https://github.com/Dzayo)
 
 - [@Dzigio](https://github.com/dzigio)
