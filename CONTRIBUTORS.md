@@ -4292,6 +4292,8 @@ cl# CONTRIBUTORS
 
 - [@Vigtirakapadi18](https://github.com/vig-tirakapadi18)
 
+- [@Euripidec](https://github.com/Euripidec)
+
 - [@Vijay2249](https://github.com/vijay2249)
 
 - [@Vijayan108](https://github.com/vijayan108/)
