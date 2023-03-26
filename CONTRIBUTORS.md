@@ -8987,6 +8987,8 @@ cl# CONTRIBUTORS
 
 - [@whiteSHADOW1234](https://github.com/whiteSHADOW1234)
 
+-[@FJORG58](https://github.com/fjorg58)
+
 -[@p1ttstop](https://github.com/p1ttstop)
 
 - [@Paul-03-tech](https://github.com/Paul-03-tech)
@@ -9025,5 +9027,18 @@ cl# CONTRIBUTORS
 -[@emrekaza-hub](https://github.com/emrekazaz-hub)
 -[@shoudto](https://github.com/shoudto)
 
--[@FJORG58](https://github.com/fjorg58)
+-[@Yuuxooon](https://github.com/Yuuxooon)
 
+-[@MaxwellABlevins](https://github.com/MaxwellABlevins)
+
+-[@BharathKonatham](https://github.com/BharathKonatham)
+-[@ChrisFletcher1989](https://github.com/ChrisFletcher1989)
+
+-[@MichailB](https://github.com/Mi-Br)
+
+-[@heyxdelaram](https://github.com/heyxdelaram)
+
+-[@Mvishal123](https://github.com/Mvishal123)
+
+-[@monooleate](https://github.com/monooleate)
+>>>>>>> 32dfa59ac64d255ca573cc4e8bf7becb0bd097de
