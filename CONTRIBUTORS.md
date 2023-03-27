@@ -1,5 +1,4 @@
 cl# CONTRIBUTORS
-- [@macaferrer](https://github.com/macaferrer)
 - [@sahilaghara1911](https://github.com/sahilaghara1911)
 - [@nawabsahab16](https://github.com/nawabsahab16)
 - [@atef1995](https://github.com/atef1995)
@@ -9064,3 +9063,5 @@ cl# CONTRIBUTORS
 -[@Markchav](https://github.com/Markchav)
 
 -[@arvee0220](https://github.com/arvee0220)
+
+- [@macaferrer](https://github.com/macaferrer)
