@@ -2630,6 +2630,8 @@ cl# CONTRIBUTORS
 
 - [@Mayorman07](https://github.com/Mayorman07)
 
+- [@ZanderCoding](https://github.com/ZanderCoding)
+
 - [@Mayuresh](https://github.com/mayureshzende)
 
 - [@prdicochea](https://github.com/prdicochea)
