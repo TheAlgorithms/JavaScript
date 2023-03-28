@@ -98,6 +98,8 @@ cl# CONTRIBUTORS
 
 - [@Adityapote](https://github.com/AdityaPote)
 
+-[@ElinaG3](https://github.com/ElinaG3)
+
 - [@Meis01](https://github.com/Meis01)
 - [@NeringaPa](https://github.com/NeringaPa)
 
