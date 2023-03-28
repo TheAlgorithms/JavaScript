@@ -9071,3 +9071,5 @@ cl# CONTRIBUTORS
 -[@jahscode](https://github.com/jahscode)
 
 -[@DavidMHoang](https://github.com/DavidMHoang)
+
+-[@eduardosegundoit](https://github.com/eduardosegundoit)
