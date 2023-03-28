@@ -32,6 +32,7 @@ cl# CONTRIBUTORS
 
 - [@jalonghurst](https://github.com/jalonghurst)
 
+- [fosfor15](https://github.com/fosfor15)
 
 - [@akash-chauhan](https://github.com/AkashChauhan111)
 
