@@ -9073,3 +9073,5 @@ cl# CONTRIBUTORS
 -[@DavidMHoang](https://github.com/DavidMHoang)
 
 [@MALIIKK0] (https://github.com/MALIIKK0)
+
+-[@eduardosegundoit](https://github.com/eduardosegundoit)
