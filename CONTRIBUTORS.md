@@ -2378,6 +2378,8 @@ cl# CONTRIBUTORS
 
 - [@Leonardotarpani](https://github.com/leonardotrapani)
 
+- [@LeoSebben](https://github.com/leosebben)
+
 - [@Leoshuvo](https://github.com/Leoshuvo)
 
 - [@Lethalsilicon](https://github.com/lethalsilicon)
@@ -9082,5 +9084,9 @@ cl# CONTRIBUTORS
 -[@HIRUT4528](https://github.com/HIRUT4528/HIRUT4528)
 
 -[@Benjikoy](https://github.com/Benjikoy)
+
+-[@JinkoSiz](https://github.com/JinkoSiz)
+
+-[@marekkaczbartek](https://github.com/marekkaczbartek)
 
 -[@bshohug](https://github.com/bshohug)
