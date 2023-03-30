@@ -8834,6 +8834,8 @@
 
 - [@pachavasri](https://github.com/pachavasri)
 
+- [@V4nd0r](https://github.com/V4nd0r/)
+
 - [@pedrocarlos-ti](https://github.com/pedrocarlos-ti)
 
 - [@TariqHusainKhan](https://github.com/TariqHusainKhan)
