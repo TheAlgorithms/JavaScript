@@ -66,6 +66,8 @@ cl# CONTRIBUTORS
 
 - [@Goretzky](https://github.com/Goretzky/)
 
+- [@Tantris27](https://github.com/Tantris27)
+
 - [@Shreyasuthar](https://github.com/shreyasuthar655)
 
 - [@DanRos88](https://github.com/DanRos88)
@@ -4965,6 +4967,8 @@ cl# CONTRIBUTORS
 
 - [@jeremychung1999](https://github.com/jeremychung1999)
 
+- [@Elflakos](https://github.com/Elflakos)
+
 - [@laulupidu](https://github.com/laulupidu)
 
 - [@Rex-1031](https://github.com/Rex-1031)
@@ -9079,6 +9083,8 @@ cl# CONTRIBUTORS
 
 - [@macaferrer](https://github.com/macaferrer)
 
+-[@cdxawesome](https://github.com/cdxawesome)
+
 -[@jahscode](https://github.com/jahscode)
 
 -[@DavidMHoang](https://github.com/DavidMHoang)
@@ -9115,4 +9121,16 @@ cl# CONTRIBUTORS
 
 - [@rajdip20](https://github.com/rajdip20)
 
--[@veronicapetre](https://github.com/veronicapetre)
+- [@ni5arga](https://github.com/ni5arga)
+
+- [@lenguyenhcm325](https://github.com/lenguyenhcm325)
+
+- [@IITheGameII](https://github.com/IITheGameII)
+-[@rsengar29](https://github.com/rsengar29)
+
+- [@ni5arga](https://github.com/ni5arga)
+
+- [@lenguyenhcm325](https://github.com/lenguyenhcm325)
+
+- [@IITheGameII](https://github.com/IITheGameII)
+-[@rsengar29](https://github.com/rsengar29)
