@@ -66,6 +66,8 @@ cl# CONTRIBUTORS
 
 - [@Goretzky](https://github.com/Goretzky/)
 
+- [@Tantris27](https://github.com/Tantris27)
+
 - [@Shreyasuthar](https://github.com/shreyasuthar655)
 
 - [@DanRos88](https://github.com/DanRos88)
