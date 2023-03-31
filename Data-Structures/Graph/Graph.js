@@ -1,24 +1,24 @@
 class Graph {
-  constructor () {
+  constructor() {
     this.adjacencyMap = {}
   }
 
-  addVertex (vertex) {
+  addVertex(vertex) {
     this.adjacencyMap[vertex] = []
   }
 
-  containsVertex (vertex) {
+  containsVertex(vertex) {
     return typeof (this.adjacencyMap[vertex]) !== 'undefined'
   }
 
-  addEdge (vertex1, vertex2) {
+  addEdge(vertex1, vertex2) {
     if (this.containsVertex(vertex1) && this.containsVertex(vertex2)) {
       this.adjacencyMap[vertex1].push(vertex2)
       this.adjacencyMap[vertex2].push(vertex1)
     }
   }
 
-  printGraph (output = value => console.log(value)) {
+  printGraph(output = value => console.log(value)) {
     const keys = Object.keys(this.adjacencyMap)
     for (const i of keys) {
       const values = this.adjacencyMap[i]
@@ -34,7 +34,7 @@ class Graph {
    * Prints the Breadth first traversal of the graph from source.
    * @param {number} source The source vertex to start BFS.
    */
-  bfs (source, output = value => console.log(value)) {
+  bfs(source, output = value => console.log(value)) {
     const queue = [[source, 0]] // level of source is 0
     const visited = new Set()
 
@@ -56,7 +56,7 @@ class Graph {
    * Prints the Depth first traversal of the graph from source.
    * @param {number} source The source vertex to start DFS.
    */
-  dfs (source, visited = new Set(), output = value => console.log(value)) {
+  dfs(source, visited = new Set(), output = value => console.log(value)) {
     if (visited.has(source)) { // visited
       return
     }
@@ -65,6 +65,52 @@ class Graph {
     visited.add(source)
     for (const neighbour of this.adjacencyMap[source]) {
       this.dfs(neighbour, visited, output)
+    }
+  }
+
+
+  topologicalSortUtil(v, visited, stack) {
+    // Mark the current node as visited.
+    visited[v] = true;
+    let i = 0;
+
+    // Recur for all the vertices adjacent
+    // to thisvertex
+    for (i = 0; i < this.adj[v].length; i++) {
+      if (!visited[this.adj[v][i]]) {
+        this.topologicalSortUtil(this.adj[v][i], visited, stack)
+      }
+    }
+
+    // Push current vertex to stack
+    // which stores result
+    stack.push(v);
+  }
+
+  // The function to do Topological Sort.
+  // It uses recursive topologicalSortUtil()
+  topologicalSort() {
+    let stack = new Array()
+
+    // Mark all the vertices as not visited
+    let visited = new Array(this.V);
+    for (let i = 0; i < this.V; i++) {
+      visited[i] = false;
+    }
+
+    // Call the recursive helper
+    // function to store
+    // Topological Sort starting
+    // from all vertices one by one
+    for (let i = 0; i < this.V; i++) {
+      if (visited[i] == false) {
+        this.topologicalSortUtil(i, visited, stack);
+      }
+    }
+
+    // Print contents of stack
+    while (stack.length != 0) {
+      console.log(stack.pop() + " ")
     }
   }
 }
@@ -96,6 +142,9 @@ const example = () => {
 
   // Depth first search at node 1
   g.dfs(1)
+
+  // Prints Topological sort of given graph
+  g.topologicalSort()
 }
 
 export { Graph, example }
