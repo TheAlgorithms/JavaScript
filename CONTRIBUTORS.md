@@ -9081,6 +9081,8 @@ cl# CONTRIBUTORS
 
 - [@macaferrer](https://github.com/macaferrer)
 
+-[@cdxawesome](https://github.com/cdxawesome)
+
 -[@jahscode](https://github.com/jahscode)
 
 -[@DavidMHoang](https://github.com/DavidMHoang)
