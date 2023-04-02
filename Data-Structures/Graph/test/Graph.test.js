@@ -1,23 +1,25 @@
 import { Graph } from '../Graph'
 
-describe('Test Graph', () => {
-  const vertices = [1, 2, 3, 4, 5]
+describe('Graph', () => {
   const graph = new Graph()
 
-  // adding vertices
-  for (let i = 0; i < vertices.length; i++) {
-    graph.addVertex(vertices[i])
+  for (let v = 1; v <= 5; v++) {
+    graph.addVertex(v)
   }
 
-  // adding edges
   graph.addEdge(1, 2)
   graph.addEdge(1, 3)
   graph.addEdge(2, 4)
   graph.addEdge(2, 5)
 
-  //testing Topological Sort
-  it('topological sort', () => {
-    expect(graph.topologicalSort()).toEqual([1, 3, 2, 5, 4])
+  it('returns any valid topological sort', () => {
+    expect([
+      [1, 2, 3, 4, 5],
+      [1, 3, 2, 4, 5],
+      [1, 3, 2, 5, 4],
+      [1, 2, 4, 3, 5],
+      [1, 2, 5, 3, 4],
+      [1, 2, 4, 5, 3],
+    ]).toContain(graph.topologicalSort())
   })
-
 })
