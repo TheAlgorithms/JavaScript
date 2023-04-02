@@ -15277,6 +15277,7 @@
 - [@AditKhandelwal](https://github.com/AditKhandelwal)
 
 - [@MRWOLVEY](https://github.com/MRWOLVEY)
+<<<<<<< HEAD
 
 - [@YamzashS](https://github.com/YamzashS)
 
@@ -15290,3 +15291,5 @@
 
 - [@mikeescro](https://github.com/mikeescro)
 
+=======
+>>>>>>> 1182f8941 (added my name to contributer list)
