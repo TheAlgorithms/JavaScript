@@ -12393,7 +12393,6 @@
 
 -[@Kieroncoombs](https://github.com/Kieroncoombs)
 
--[@Satyxm](https://github.com/Satyxm)
 
 -[@Emavc93](https://github.com/Emavc93)
 >>>>>>> 19764a023 (New contributor)
