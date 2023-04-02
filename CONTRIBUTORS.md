@@ -66,6 +66,8 @@ cl# CONTRIBUTORS
 
 - [@Goretzky](https://github.com/Goretzky/)
 
+- [@Tantris27](https://github.com/Tantris27)
+
 - [@Shreyasuthar](https://github.com/shreyasuthar655)
 
 - [@DanRos88](https://github.com/DanRos88)
@@ -171,6 +173,8 @@ cl# CONTRIBUTORS
 - [@Jlachondo](https://github.com/jlachondo)
 
 - [@abucan](https://github.com/abucan)
+
+- [@bhaskarcsawant](https://github.com/bhaskarcsawant)
 
 - [@joonkyu](https://github.com/joonkyu)
 
@@ -4203,6 +4207,8 @@ cl# CONTRIBUTORS
 
 - [@Tranhoangan22](https://github.com/tranhoangan22)
 
+- [@IanGrin](https://github.com/IanGrin)
+
 - [@Trebroon](https://github.com/Trebroon)
 
 - [@Tregalloway](https://github.com/TreGalloway)
@@ -4965,6 +4971,8 @@ cl# CONTRIBUTORS
 
 - [@jeremychung1999](https://github.com/jeremychung1999)
 
+- [@Elflakos](https://github.com/Elflakos)
+
 - [@laulupidu](https://github.com/laulupidu)
 
 - [@Rex-1031](https://github.com/Rex-1031)
@@ -4996,6 +5004,8 @@ cl# CONTRIBUTORS
 - [@Victorloma](https://github.com/Victorloma)
 
 - [@AndrewArocha](https://github.com/AndrewArocha)
+
+- [@gitel21](https://github.com/gitel21)
 
 - [@jungj0925](https://github.com/jungj0925)
 
@@ -9077,6 +9087,8 @@ cl# CONTRIBUTORS
 
 - [@macaferrer](https://github.com/macaferrer)
 
+-[@cdxawesome](https://github.com/cdxawesome)
+
 -[@jahscode](https://github.com/jahscode)
 
 -[@DavidMHoang](https://github.com/DavidMHoang)
@@ -9100,3 +9112,32 @@ cl# CONTRIBUTORS
 -[@JamesWSM](https://github.com/JamesWSM)
 
 -[@tannu371](https://github.com/tannu371)
+
+-[@pedrocsfranca](https://github.com/pedrocsfranca)
+
+-[@Milochka2103](https://github.com/Milochka2103)
+
+-[@abbeytech2023](https://github.com/abbeytech2023)
+
+-[@kompeet](https://github.com/kompeet)
+
+-[@HWS-dev](https://github.com/HWS-dev)
+
+-[@andrewberning](https://github.com/andrewberning)
+
+-[@jeffwu85182](https://github.com/jeffwu85182)
+
+- [@rajdip20](https://github.com/rajdip20)
+
+- [@ni5arga](https://github.com/ni5arga)
+
+- [@lenguyenhcm325](https://github.com/lenguyenhcm325)
+
+- [@IITheGameII](https://github.com/IITheGameII)
+-[@rsengar29](https://github.com/rsengar29)
+
+-[@Alangithub08](https://github.com/Alangithub08)
+
+-[@Kieroncoombs](https://github.com/Kieroncoombs)
+
+-[@Satyxm](https://github.com/Satyxm)
