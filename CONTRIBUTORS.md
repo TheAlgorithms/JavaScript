@@ -89,6 +89,8 @@ cl# CONTRIBUTORS
 
 - [@brandonHafley](https://github.com/brandonHafley)
 
+- [@jcon306](https://github.com/jcon306)
+
 - [@Danthesage01](https://github.com/Danthesage01)
 
 - [@wadeevans](https://github.com/wadeevans)
