@@ -9167,5 +9167,3 @@ cl# CONTRIBUTORS
 -[@PranavYewale](https://github.com/PranavYewale)
 
 -[@mjackson16](https://github.com/mjackson16)
-
--[@kirill-pisarchik](https://github.com/kirill-pisarchik)
