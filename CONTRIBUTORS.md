@@ -56,6 +56,8 @@
 
 - [@=Davidsallusti](https://github.com/davidsallusti)
 
+- [@>>>>>>>2Bfddcfe2(Addmynametocontributors.Md)](add my name to CONTRIBUTORS.md)
+
 - [@>>>>>>>7D99Eb8A1(Addnewcontributortocontributors.Md)](Addnewcontributortocontributors.Md)
 
 - [@Aakarshan369](https://github.com/Aakarshan-369)
@@ -1584,7 +1586,7 @@
 
 - [@Dhurika](https://github.com/Dhurika)
 
-- [@Diaandrei(Https://Github.Com/Diaandrei)](Https://Github.Com/Diaandrei)
+- [@Diaandrei(Https://Github.Com/Diaandrei)](https://github.com/diaandrei)
 
 - [@Dicucristiann](https://github.com/dicucristiann)
 
@@ -4963,6 +4965,8 @@
 - [@Mrmotivated23](https://github.com/MrMotivated23)
 
 - [@Mrobin](https://github.com/mrobin132)
+
+- [@Mrrolbot23](https://github.com/mrrolbot23)
 
 - [@Mrsakib94](https://github.com/mrsakib94)
 
