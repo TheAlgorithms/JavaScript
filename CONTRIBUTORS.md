@@ -33,6 +33,8 @@ cl# CONTRIBUTORS
 
 - [@Eklemis](https://github.com/eklemis)
 
+- [@kirill-pisarchik](https://github.com/kirill-pisarchik)
+
 - [@jalonghurst](https://github.com/jalonghurst)
 
 - [@fosfor15](https://github.com/fosfor15)
