@@ -9104,6 +9104,8 @@ cl# CONTRIBUTORS
 
 [@MALIIKK0] (https://github.com/MALIIKK0)
 
+-[@Reyan-786](https://github.com/Reyan-786)
+
 -[@eduardosegundoit](https://github.com/eduardosegundoit)
 
 -[@HIRUT4528](https://github.com/HIRUT4528/HIRUT4528)
@@ -9169,5 +9171,3 @@ cl# CONTRIBUTORS
 -[@PranavYewale](https://github.com/PranavYewale)
 
 -[@mjackson16](https://github.com/mjackson16)
-
--[@Reyan-786](https://github.com/Reyan-786)
