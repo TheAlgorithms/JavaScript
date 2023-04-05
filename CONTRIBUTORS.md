@@ -46,19 +46,11 @@
 
 - [@9Valleb9](https://github.com/9valleb9)
 
-- [@<<<<<<<Head]()
-
 - [@<I><B>Ravitechnomindz</I></B>](https://github.com/RaviTechnoMindz)
-
-- [@=======]()
 
 - [@=Cristiansanchez14](https://github.com/Cristian-sanchez14)
 
 - [@=Davidsallusti](https://github.com/davidsallusti)
-
-- [@>>>>>>>2Bfddcfe2(Addmynametocontributors.Md)](Addmynametocontributors.Md)
-
-- [@>>>>>>>7D99Eb8A1(Addnewcontributortocontributors.Md)](Addnewcontributortocontributors.Md)
 
 - [@Aakarshan369](https://github.com/Aakarshan-369)
 
@@ -1586,7 +1578,7 @@
 
 - [@Dhurika](https://github.com/Dhurika)
 
-- [@Diaandrei(Https://Github.Com/Diaandrei)](Https://Github.Com/Diaandrei)
+- [@Diaandrei(Https://Github.Com/Diaandrei)](https://github.com/diaandrei)
 
 - [@Dicucristiann](https://github.com/dicucristiann)
 
@@ -4245,6 +4237,8 @@
 - [@Macaferrer](https://github.com/macaferrer)
 
 - [@Maciej88](https://github.com/maciej88)
+
+- [@Macjones](https://github.com/Mac-Jones)
 
 - [@Mackmcgovern](https://github.com/mackmcgovern)
 
@@ -7688,7 +7682,7 @@
 
 - [@Vaibiz](https://github.com/vaibiz/)
 
-- [@Vaidehi2027](https://github.com/Vaidehi2027)
+- [@Vaidehi2027](https://github.com/Vaidehi2027/)
 
 - [@Vaishnaviswarnoj](https://github.com/Vaishu03)
 
