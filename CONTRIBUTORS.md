@@ -1586,7 +1586,7 @@
 
 - [@Dhurika](https://github.com/Dhurika)
 
-- [@Diaandrei(Https://Github.Com/Diaandrei)](Https://Github.Com/Diaandrei)
+- [@Diaandrei(Https://Github.Com/Diaandrei)](https://github.com/diaandrei)
 
 - [@Dicucristiann](https://github.com/dicucristiann)
 
@@ -5449,6 +5449,8 @@
 - [@Otahboub](https://github.com/o-tahboub)
 
 - [@Otisdev95](https://github.com/otisdev95)
+
+- [@Oulyone](https://github.com/Oulyone/)
 
 - [@Overdrivemachines](https://github.com/overdrivemachines)
 
