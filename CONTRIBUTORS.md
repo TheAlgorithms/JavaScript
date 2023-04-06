@@ -2593,6 +2593,8 @@ cl# CONTRIBUTORS
 
 - [@Markhonz](https://github.com/MarkHonz/)
 
+- [@Jdtacke](https://github.com/Jdtacke)
+
 - [@Markitos314](https://github.com/markitos314/)
 
 - [@Markost96](https://github.com/markost96/)
