@@ -1580,7 +1580,7 @@
 
 - [@Dhurika](https://github.com/Dhurika)
 
-- [@Diaandrei(Https://Github.Com/Diaandrei)](Https://Github.Com/Diaandrei)
+- [@Diaandrei(Https://Github.Com/Diaandrei)](https://github.com/diaandrei)
 
 - [@Dicucristiann](https://github.com/dicucristiann)
 
@@ -1759,6 +1759,8 @@
 - [@Dvxsw](https://github.com/DVXSW)
 
 - [@Dwebbdesigner](https://github.com/dwebbdesigner)
+
+- [@Dwernz](https://github.com/dwernz)
 
 - [@Dwightmckenzie](https://github.com/DwightMckenzie)
 
@@ -4170,6 +4172,8 @@
 
 - [@Lucasgm17](https://github.com/LucasGM17/)
 
+- [@Lucastannus](https://github.com/lucas-tannus)
+
 - [@Lucasthorley](https://github.com/LucasThorley)
 
 - [@Lucasvoltera](https://github.com/lucasvoltera/)
@@ -4788,6 +4792,8 @@
 
 - [@Mka](https://github.com/mufratkarim)
 
+- [@Mka0000](https://github.com/MKA0000)
+
 - [@Mkr1984](https://github.com/Mkr1984)
 
 - [@Mksameera89](https://github.com/mksameera89/)
@@ -5115,6 +5121,8 @@
 - [@Nazmul6180](https://github.com/Nazmul6180)
 
 - [@Ncsearcy](https://github.com/ncsearcy)
+
+- [@Nde95](https://github.com/nde95)
 
 - [@Ndimoforaretas](https://github.com/ndimoforaretas)
 
@@ -6308,6 +6316,8 @@
 
 - [@Rrehlert](https://github.com/rrehlert)
 
+- [@Rrsdl](https://github.com/RRSDL)
+
 - [@Rsengar29](https://github.com/rsengar29)
 
 - [@Rsharma941](https://github.com/rsharma941)
@@ -6781,6 +6791,8 @@
 - [@Sherifsharafstein](https://github.com/sherifsharafstein)
 
 - [@Shermainelim](https://github.com/shermainelim)
+
+- [@Sheyerdahl](https://github.com/sheyerdahl)
 
 - [@Shielddesign](https://github.com/shielddesign)
 
@@ -7684,7 +7696,7 @@
 
 - [@Vaibiz](https://github.com/vaibiz/)
 
-- [@Vaidehi2027](https://github.com/Vaidehi2027/)
+- [@Vaidehi2027](https://github.com/Vaidehi2027)
 
 - [@Vaishnaviswarnoj](https://github.com/Vaishu03)
 
@@ -8046,6 +8058,8 @@
 
 - [@Yanathedev](https://github.com/yanathedev)
 
+- [@Yannickr1](https://github.com/YannickR1)
+
 - [@Yarinam](https://github.com/YarinAm/)
 
 - [@Yarince90](https://github.com/Yarince90)
@@ -8259,12 +8273,6 @@
 - [@Zysable](https://github.com/zysable/)
 
 - [@Zzhou0922](https://github.com/zzhou0922)
-
--[@Vaidehi2027](https://github.com/Vaidehi2027)
-
--[@datng](https://github.com/dattuannguyen/)
-
--[@YannickR1](https://github.com/YannickR1)
 
 - [@🐬Gassims](https://github.com/gassims/)
 
