@@ -8971,6 +8971,8 @@ cl# CONTRIBUTORS
 
 -[@BTBenton10](https://github.com/BTBenton10/)
 
+-[@lucas-tannus](https://github.com/lucas-tannus)
+
 -[@quickstepp](https://github.com/quickstepp/)
 
 -[VeryColdMilk](https://github.com/VeryColdMilk/)
