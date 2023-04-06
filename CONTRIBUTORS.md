@@ -7,6 +7,8 @@ cl# CONTRIBUTORS
 
 - [@ubaidh](https://github.com/ubaidh)
 
+- [@Shivam](https://github.com/shivamsinghydv)
+
 - [@DarwinsCorn](https://github.com/DarwinsCorn) -[@bustillos83] (https://github.com/bustillos83)
 - [@DarwinsCorn](https://github.com/DarwinsCorn)
 -[@bustillos83] (https://github.com/bustillos83)
@@ -8969,6 +8971,8 @@ cl# CONTRIBUTORS
 
 -[@BTBenton10](https://github.com/BTBenton10/)
 
+-[@lucas-tannus](https://github.com/lucas-tannus)
+
 -[@quickstepp](https://github.com/quickstepp/)
 
 -[VeryColdMilk](https://github.com/VeryColdMilk/)
@@ -9171,6 +9175,7 @@ cl# CONTRIBUTORS
 -[@StephCLL] (https://github.com/StephCLL/)
 
 -[@PranavYewale](https://github.com/PranavYewale)
+-[@craftpine](https://github.com/craftpine)
 
 -[@mjackson16](https://github.com/mjackson16)
 
@@ -9179,5 +9184,13 @@ cl# CONTRIBUTORS
 -[@datng](https://github.com/dattuannguyen/)
 
 - [@patografx](https://github.com/patografx)
+
+-[@marcelkukler](https://github.com/marcelkukler)
+
+-[@RRSDL](https://github.com/RRSDL)
+
+-[@MKA0000](https://github.com/MKA0000)
+
+-[@nde95](https://github.com/nde95)
 
 - [@sheyerdahl](https://github.com/sheyerdahl)
