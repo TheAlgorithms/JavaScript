@@ -856,6 +856,8 @@ cl# CONTRIBUTORS
 
 - [@Codewithbilal](https://github.com/CodeWithBilal)
 
+- [@SyahrezaFerdian](https://github.com/Syahreza-Ferdian)
+
 - [@Codinggaming](https://github.com/Coding-Gaming)
 
 - [@Coding-Hashira](https://github.com/Coding-Hashira)
