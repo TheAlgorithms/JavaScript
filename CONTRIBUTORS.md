@@ -9209,3 +9209,5 @@ cl# CONTRIBUTORS
 
 -[@Suramyavns](https://github.com/Suramyavns)
 -[@Muhammad-Rebaal](https://github.com/Muhammad-Rebaal)
+
+-[@trinhminhnhat](https://github.com/trinhminhnhat)
