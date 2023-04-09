@@ -1,16 +1,4 @@
-
-cl# CONTRIBUTORS
-
-- [@Phoenix2157](https://github.com/rayyan21d)
-- 
-- [@sahilaghara1911](https://github.com/sahilaghara1911)
-- 
-- [@nawabsahab16](https://github.com/nawabsahab16)
-- 
-- [@atef1995](https://github.com/atef1995)
-
 # CONTRIBUTORS
-
 
 - [@]()
 
@@ -67,6 +55,8 @@ cl# CONTRIBUTORS
 - [@=Cristiansanchez14](https://github.com/Cristian-sanchez14)
 
 - [@=Davidsallusti](https://github.com/davidsallusti)
+
+- [@>>>>>>>Dcc03C4D8(Addedmynametoztmcontributorlist)](added my name to ztm contributor list)
 
 - [@>>>>>>>Fcc1B6961(Addedmynameincontributorlist)](Addedmynameincontributorlist)
 
@@ -271,6 +261,8 @@ cl# CONTRIBUTORS
 - [@Alau87](https://github.com/alau87)
 
 - [@Albertalynnbrubaker](https://github.com/AlbertaLynnBrubaker)
+
+- [@Alcoranpaul](https://github.com/alcoranpaul)
 
 - [@Aldopaganijr](https://github.com/aldopaganijr)
 
@@ -541,6 +533,8 @@ cl# CONTRIBUTORS
 - [@Asifcode](https://github.com/asif-code)
 
 - [@Asishbhandari](https://github.com/asishbhandari)
+
+- [@Askoflek](https://github.com/Askoflek)
 
 - [@Askurtomasson](https://github.com/AskurTomasson/)
 
@@ -845,6 +839,8 @@ cl# CONTRIBUTORS
 - [@Btbenton10](https://github.com/BTBenton10/)
 
 - [@Bthbergheim](https://github.com/bthbergheim/)
+
+- [@Buburevelat](https://github.com/bubu-revelat)
 
 - [@Buddyhalljr](https://github.com/buddyhalljr/)
 
@@ -1482,6 +1478,8 @@ cl# CONTRIBUTORS
 
 - [@Deanfowler](https://github.com/DeanFowler)
 
+- [@Deardaveed](https://github.com/deardaveed)
+
 - [@Decodeajay](https://github.com/DecodeAjay)
 
 - [@Dedaldinopapelo](https://github.com/Dedaldino-Papelo)
@@ -1604,7 +1602,7 @@ cl# CONTRIBUTORS
 
 - [@Dhurika](https://github.com/Dhurika)
 
-- [@Diaandrei(Https://Github.Com/Diaandrei)](Https://Github.Com/Diaandrei)
+- [@Diaandrei(Https://Github.Com/Diaandrei)](https://github.com/diaandrei)
 
 - [@Dicucristiann](https://github.com/dicucristiann)
 
@@ -3346,6 +3344,8 @@ cl# CONTRIBUTORS
 
 - [@Joancodes](https://github.com/joancodes)
 
+- [@Joaohertel](https://github.com/joaohertel)
+
 - [@Joaquinb2000](https://github.com/Joaquinb2000)
 
 - [@Jobbrodriguez](https://github.com/jobb-rodriguez)
@@ -3945,8 +3945,6 @@ cl# CONTRIBUTORS
 - [@Ks817](https://github.com/ks817)
 
 - [@Kshar23](https://github.com/akshar-23)
-
--[@alcoranpaul](https://github.com/alcoranpaul)
 
 - [@Kshreepadk](https://github.com/kshreepadk/)
 
@@ -4888,8 +4886,6 @@ cl# CONTRIBUTORS
 
 - [@Mohan216](https://github.com/mohan216/)
 
-- [@joaohertel](https://github.com/joaohertel)
-
 - [@Mohgotjuice](https://github.com/MohGotJuice/)
 
 - [@Mohit1310](https://github.com/Mohit1310)
@@ -5693,6 +5689,8 @@ cl# CONTRIBUTORS
 - [@Phillysrevenge](https://github.com/phillysrevenge)
 
 - [@Phirefly](https://github.com/phirefly/)
+
+- [@Phoenix2157](https://github.com/rayyan21d)
 
 - [@Phonethawhtet](https://github.com/phonethawhtet)
 
@@ -6814,7 +6812,7 @@ cl# CONTRIBUTORS
 
 - [@Shashwatpal1021](https://github.com/shashwatpal1021)
 
-- [@Shaswat-satyam] (https://github.com/shaswat-satyam)
+- [@Shaswatsatyam](https://github.com/shaswat-satyam)
 
 - [@Shaunandgemma](https://github.com/shaunandgemma/)
 
@@ -8016,6 +8014,8 @@ cl# CONTRIBUTORS
 
 - [@Wilken311](https://github.com/wilken311)
 
+- [@Wilkensoncode](https://github.com/wilkensoncode)
+
 - [@Willaims2C](https://github.com/williams2c)
 
 - [@Willamgdev](https://github.com/willamgdev)
@@ -8184,6 +8184,8 @@ cl# CONTRIBUTORS
 
 - [@Yogi1917](https://github.com/Yogi1917)
 
+- [@Yogik2001](https://github.com/YogiK2001)
+
 - [@Yokego](https://github.com/yokego)
 
 - [@Yongsu1995](https://github.com/yongsu1995)
@@ -8337,12 +8339,4 @@ cl# CONTRIBUTORS
 - [@Zzhou0922](https://github.com/zzhou0922)
 
 - [@🐬Gassims](https://github.com/gassims/)
-
-- [@wilkensoncode](https://github.com/wilkensoncode)
-
-- [@bubu-revelat](https://github.com/bubu-revelat)
-
-- [@ramielhaj](https://github.com/ramielhaj)
-
-- [@deardaveed](https://github.com/deardaveed)
 
