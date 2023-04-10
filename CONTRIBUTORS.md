@@ -55,6 +55,8 @@ cl# CONTRIBUTORS
 
 -[@JermainePaine] (https://github.com/JermainePaine)
 
+- [@JuanLinero](https://github.com/JuanLinero1)
+
 - [@fabioauroradev](https://github.com/FabioAurora)
 
 - [@uthsaraindeewara](https://github.com/uthsaraindeewara)
