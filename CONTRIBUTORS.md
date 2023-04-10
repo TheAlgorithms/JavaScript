@@ -3,6 +3,8 @@ cl# CONTRIBUTORS
 - [@nawabsahab16](https://github.com/nawabsahab16)
 - [@atef1995](https://github.com/atef1995)
 
+- [@acoreyu](https://github.com/acoreyu)
+
 - [@cem-1](https://github.com/cem-1)
 
 - [@ubaidh](https://github.com/ubaidh)
