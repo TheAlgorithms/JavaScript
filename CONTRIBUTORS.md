@@ -1790,6 +1790,8 @@
 
 - [@Ea5](https://github.com/EA5)
 
+- [@Eamos2](https://github.com/Eamos2)
+
 - [@Earlyverdy](https://github.com/earlyverdy)
 
 - [@Easianyu](https://github.com/easianyu)
