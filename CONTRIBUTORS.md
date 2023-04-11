@@ -219,6 +219,8 @@ cl# CONTRIBUTORS
 
 - [@Pinatic](https://github.com/Pinatic79)
 
+-[@MagicGionson93](https://github.com/MagicGionson93)
+
 - [@Purpleslayer](https://github.com/Purple-Slayer)
 
 - [@Qrault](https://github.com/q-rault)
