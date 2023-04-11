@@ -9229,6 +9229,8 @@ cl# CONTRIBUTORS
 
 - [@monisa-mirza](https://github.com/monisa-mirza)
 
+- [@DevonGifford](https://github.com/DevonGifford)
+
 - [@kegkeg10](https://github.com/kegkeg10)
 
 - [@tongchentw](https://github.com/tongchentw)
