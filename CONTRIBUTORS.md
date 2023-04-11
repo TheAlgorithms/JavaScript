@@ -121,6 +121,8 @@ cl# CONTRIBUTORS
 
 - [@AlainDlcTVOP](https://github.com/AlainDlcTVOP)
 
+- [@AlexHolad](https://github.com/AlexHolad)
+
 - [@Afrokayie](https://github.com/afrokayie)
 
 - [@Akifunal](https://github.com/akifunal)
