@@ -272,6 +272,8 @@
 
 - [@Alexfedorov86](https://github.com/alexfedorov86/)
 
+- [@Alexholad](https://github.com/AlexHolad)
+
 - [@Alexiandra97](https://github.com/alexiandra97)
 
 - [@Alexm90](https://github.com/Alex-M90)
@@ -469,6 +471,8 @@
 - [@Arisstampolidis](https://github.com/ArisStampolidis/)
 
 - [@Arjorb](https://github.com/arjorb/)
+
+- [@Aromero18020](https://github.com/aromero18020)
 
 - [@Arpadikuma](https://github.com/arpadikuma)
 
@@ -739,6 +743,8 @@
 - [@Bkmotoz](https://github.com/BKmotoz)
 
 - [@Blackbullet99](https://github.com/Blackbullet99)
+
+- [@Blackhacker09](https://github.com/blackhacker09)
 
 - [@Blesiandc](https://github.com/blesiandc)
 
@@ -1547,6 +1553,8 @@
 - [@Devlaka](https://github.com/DevLaka)
 
 - [@Devngnx](https://github.com/devngnx)
+
+- [@Devongifford](https://github.com/DevonGifford)
 
 - [@Devrabbani](https://github.com/devRabbani)
 
@@ -3204,6 +3212,8 @@
 
 - [@Jekabsinc](https://github.com/jekabsinc)
 
+- [@Jemmymbire](https://github.com/Jemmymbire)
+
 - [@Jeni92](https://github.com/Jeni92)
 
 - [@Jenilas](https://github.com/JENILAS)
@@ -3525,6 +3535,8 @@
 - [@Junichisource](https://github.com/junichi-source/)
 
 - [@Juniorjj13](https://github.com/juniorjj13)
+
+- [@Junnotdaniel13](https://github.com/JunnotDaniel13)
 
 - [@Junojunho](https://github.com/juno-junho)
 
@@ -5424,6 +5436,8 @@
 
 - [@Omkar110401](https://github.com/Omkar110401)
 
+- [@Oneillxm](https://github.com/OneillxM)
+
 - [@Ong22280](https://github.com/ong22280)
 
 - [@Onionsequences](https://github.com/onionSequences)
@@ -5525,6 +5539,8 @@
 - [@Palazard](https://github.com/palazard)
 
 - [@Paleksanderr](https://github.com/paleksanderr)
+
+- [@Pancakezsofia](https://github.com/PancakeZsofia)
 
 - [@Pangambu](https://github.com/pangambu)
 
@@ -5971,6 +5987,8 @@
 - [@Raduilasi](https://github.com/RaduIlasi/)
 
 - [@Raduwd](https://github.com/raduWD)
+
+- [@Rafaelcardenas](https://github.com/Rafael-Cardenas)
 
 - [@Rafaelm011](https://github.com/RafaelM011/)
 
@@ -7484,6 +7502,8 @@
 
 - [@Thierryrakotomanana](https://github.com/ThierryRakotomanana)
 
+- [@Thihatheinhtutlu](https://github.com/thihatheinhtutlu/)
+
 - [@Thinh19981998](https://github.com/thinh19981998)
 
 - [@Thisisaryan](https://github.com/ThisIsAryan)
@@ -8328,13 +8348,3 @@
 
 - [@🐬Gassims](https://github.com/gassims/)
 
-
-- [@aromero18020](https://github.com/aromero18020)
-
-- [@OneillxM](https://github.com/OneillxM)
-
-- [@Jemmymbire](https://github.com/Jemmymbire)
-
-- [@blackhacker09](https://github.com/blackhacker09)
-
-- [@thihatheinhtutlu](https://github.com/thihatheinhtutlu/)
