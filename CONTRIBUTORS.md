@@ -123,6 +123,8 @@ cl# CONTRIBUTORS
 
 - [@AlexHolad](https://github.com/AlexHolad)
 
+- [@arinabo](https://github.com/arinabo)
+
 - [@Afrokayie](https://github.com/afrokayie)
 
 - [@Akifunal](https://github.com/akifunal)
