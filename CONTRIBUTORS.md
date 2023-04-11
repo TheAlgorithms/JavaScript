@@ -3659,6 +3659,8 @@ cl# CONTRIBUTORS
 
 - [@Satkar2001](https://github.com/satkar2001)
 
+- [@vishalnite](https://github.com/vishalnite)
+
 - [@Saudsa](https://github.com/saudsa)
 
 - [@Sauld95](https://github.com/sauld95)
