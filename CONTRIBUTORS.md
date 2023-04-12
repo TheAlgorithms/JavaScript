@@ -1,4 +1,5 @@
 cl# CONTRIBUTORS
+- [@SajeewaGarusinghe](https://github.com/SajeewaGarusinghe)
 - [@sahilaghara1911](https://github.com/sahilaghara1911)
 - [@nawabsahab16](https://github.com/nawabsahab16)
 - [@atef1995](https://github.com/atef1995)
@@ -9255,6 +9256,5 @@ cl# CONTRIBUTORS
 
 - [@Dillind](https://github.com/Dillind)
 
--[@kasrus](https://github.com/kasrus)
+- [@kasrus](https://github.com/kasrus)
 
--[@SajeewaGarusinghe](https://github.com/SajeewaGarusinghe)
