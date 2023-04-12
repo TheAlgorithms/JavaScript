@@ -66,6 +66,8 @@ cl# CONTRIBUTORS
 
 - [@zohair001](https://github.com/zohair001)
 
+- [@d-zg](https://github.com/d-zg)
+
 - [@ekramasif](https://github.com/ekramasif)
 
 -[@ekramasif](https://github.com/parvej2001)
