@@ -1,4 +1,5 @@
 cl# CONTRIBUTORS
+- [@SajeewaGarusinghe](https://github.com/SajeewaGarusinghe)
 - [@sahilaghara1911](https://github.com/sahilaghara1911)
 - [@nawabsahab16](https://github.com/nawabsahab16)
 - [@atef1995](https://github.com/atef1995)
@@ -123,6 +124,10 @@ cl# CONTRIBUTORS
 
 - [@AlainDlcTVOP](https://github.com/AlainDlcTVOP)
 
+- [@AlexHolad](https://github.com/AlexHolad)
+
+- [@arinabo](https://github.com/arinabo)
+
 - [@Afrokayie](https://github.com/afrokayie)
 
 - [@Akifunal](https://github.com/akifunal)
@@ -156,6 +161,8 @@ cl# CONTRIBUTORS
 - [@Chonsawat](https://github.com/chonsawat)
 
 - [@MichaelLuppino](https://github.com/MichaelLuppino)
+
+- [@Maurice972](https://github.com/Maurice972)
 
 - [@Clairekarsenti](https://github.com/ClaireKarsenti)
 
@@ -218,6 +225,8 @@ cl# CONTRIBUTORS
 - [@Phenoxp](https://github.com/phenoxp)
 
 - [@Pinatic](https://github.com/Pinatic79)
+
+-[@MagicGionson93](https://github.com/MagicGionson93)
 
 - [@Purpleslayer](https://github.com/Purple-Slayer)
 
@@ -3658,6 +3667,8 @@ cl# CONTRIBUTORS
 - [@Sarthakskumar](https://github.com/SarthakSKumar)
 
 - [@Satkar2001](https://github.com/satkar2001)
+
+- [@vishalnite](https://github.com/vishalnite)
 
 - [@Saudsa](https://github.com/saudsa)
 
@@ -8813,6 +8824,9 @@ cl# CONTRIBUTORS
 -[@jakeoyd](https://github.com/jakeoyd/)
 
 -[@birkanatici](https://github.com/birkanatici/)
+
+-[@bymia](https://github.com/bymia/)
+
 -[@umangm17](https://github.com/umangm17/)
 
 -[@CamMcCluskey](https://github.com/cammccluskey)
@@ -9229,6 +9243,31 @@ cl# CONTRIBUTORS
 
 - [@monisa-mirza](https://github.com/monisa-mirza)
 
+- [@DevonGifford](https://github.com/DevonGifford)
+
 - [@kegkeg10](https://github.com/kegkeg10)
 
 - [@tongchentw](https://github.com/tongchentw)
+
+- [@aromero18020](https://github.com/aromero18020)
+
+- [@fidahussain87](https://github.com/fidahussain87)
+
+- [@tilakbeast](https://github.com/tilakbeast)
+
+- [@JunnotDaniel13](https://github.com/JunnotDaniel13)
+
+- [@PancakeZsofia](https://github.com/PancakeZsofia)
+
+- [@Raymond-Aponte](https://github.com/Raymond-Aponte)
+
+- [@Dillind](https://github.com/Dillind)
+
+- [@kasrus](https://github.com/kasrus)
+- [@kurofavo](https://github.com/kurofavo)
+
+- [@Haya340](https://github.com/Haya340)
+
+- [@engurararazov](https://github.com/engurararazov)
+
+- [@vinayraibole](https://github.com/vinayraibole)
