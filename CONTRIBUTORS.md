@@ -9256,5 +9256,3 @@ cl# CONTRIBUTORS
 - [@Dillind](https://github.com/Dillind)
 
 -[@kasrus](https://github.com/kasrus)
-
--[@SajeewaGarusinghe](https://github.com/SajeewaGarusinghe)
