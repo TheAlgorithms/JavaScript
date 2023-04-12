@@ -9260,3 +9260,4 @@ cl# CONTRIBUTORS
 - [@Dillind](https://github.com/Dillind)
 
 - [@kasrus](https://github.com/kasrus)
+- [@kurofavo](https://github.com/kurofavo)
