@@ -160,6 +160,8 @@ cl# CONTRIBUTORS
 
 - [@MichaelLuppino](https://github.com/MichaelLuppino)
 
+- [@Maurice972](https://github.com/Maurice972)
+
 - [@Clairekarsenti](https://github.com/ClaireKarsenti)
 
 - [@Dkembre](https://github.com/dkembre)
