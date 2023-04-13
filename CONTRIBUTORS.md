@@ -1606,6 +1606,8 @@
 
 - [@Diaandrei](https://github.com/Diaandrei)
 
+- [@Diaandrei(Https://Github.Com/Diaandrei)](Https://Github.Com/Diaandrei)
+
 - [@Dicucristiann](https://github.com/dicucristiann)
 
 - [@Didargml](https://github.com/didargml)
@@ -7654,6 +7656,8 @@
 
 - [@Tomerbaranes](https://github.com/TomerBaranes)
 
+- [@Tommypatumnakulrachman](https://github.com/TommyPatumnakulRachman)
+
 - [@Tommyshelby2001](https://github.com/tommyshelby2001)
 
 - [@Tomsavage](https://github.com/Tom-Savage)
@@ -7773,6 +7777,8 @@
 - [@Unpoint](https://github.com/unpoint)
 
 - [@Upadrasta84](https://github.com/upadrasta84)
+
+- [@Urslokey](https://github.com/urslokey)
 
 - [@Usama1095854](https://github.com/usama1095854)
 
