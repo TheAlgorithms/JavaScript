@@ -894,6 +894,8 @@
 
 - [@Cameronhoff](https://github.com/cameronhoff)
 
+- [@Camhoccode](https://github.com/camhoccode)
+
 - [@Camillelopez](https://github.com/CamilleLopez)
 
 - [@Cammccluskey](https://github.com/cammccluskey)
@@ -1602,7 +1604,7 @@
 
 - [@Dhurika](https://github.com/Dhurika)
 
-- [@Diaandrei(Https://Github.Com/Diaandrei)](Https://Github.Com/Diaandrei)
+- [@Diaandrei](https://github.com/Diaandrei)
 
 - [@Dicucristiann](https://github.com/dicucristiann)
 
@@ -1799,6 +1801,8 @@
 - [@Dzayo](https://github.com/Dzayo)
 
 - [@Dzenan282](https://github.com/Dzenan282)
+
+- [@Dzg](https://github.com/d-zg)
 
 - [@Dzigio](https://github.com/dzigio)
 
@@ -4297,6 +4301,8 @@
 - [@Maaneth](https://github.com/maan-eth)
 
 - [@Maanginsixmonths](https://github.com/maanginsixmonths)
+
+- [@Macadoo18](https://github.com/macadoo18)
 
 - [@Macaferrer](https://github.com/macaferrer)
 
