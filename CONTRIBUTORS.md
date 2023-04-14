@@ -1,6 +1,7 @@
 cl# CONTRIBUTORS
 - [@SajeewaGarusinghe](https://github.com/SajeewaGarusinghe)
 - [@sahilaghara1911](https://github.com/sahilaghara1911)
+- [@therohit777](https://github.com/therohit777)
 - [@nawabsahab16](https://github.com/nawabsahab16)
 - [@atef1995](https://github.com/atef1995)
 
