@@ -9283,3 +9283,5 @@ cl# CONTRIBUTORS
 - [@mmahroo](https://github.com/mmahroo/)
 
 - [@jorgeProgramaEn5](https://github.com/jorgeProgramaEn5)
+
+- [chapterclose](https://chapterclose.com)
