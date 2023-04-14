@@ -184,6 +184,8 @@ cl# CONTRIBUTORS
 
 - [@Ghintema](https://github.com/ghintema)
 
+- [@OsamaTbaileh](https://github.com/OsamaTbaileh)
+
 - [@PriyanshuSinghR](https://github.com/PriyanshuSinghR)
 
 - [@chaossaver103](https://github.com/chaossaver103)
