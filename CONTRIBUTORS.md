@@ -9241,6 +9241,8 @@ cl# CONTRIBUTORS
 
 - [@benwood33](https://github.com/benwood33)
 
+- [@Kostaga](https://github.com/Kostaga)
+
 - [@ramielhaj](https://github.com/ramielhaj)
 
 - [@monisa-mirza](https://github.com/monisa-mirza)
@@ -9286,4 +9288,5 @@ cl# CONTRIBUTORS
 
 - [chapterclose](https://chapterclose.com)
 
+- [@chetan07092000](https://github.com/chetan07092000/)
 -[@chetan07092000](https://github.com/chetan07092000/)
