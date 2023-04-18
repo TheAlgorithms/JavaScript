@@ -2596,6 +2596,8 @@
 
 - [@Hanakamer](https://github.com/hanakamer)
 
+- [@Hanawang](https://github.com/Hana-Wang)
+
 - [@Handa26](https://github.com/handa26/)
 
 - [@Haniehgrn](https://github.com/HaniehGRN)
@@ -3277,8 +3279,6 @@
 - [@Jerich1992](https://https://github.com/Jerich1992/)
 
 - [@Jermaine35](https://github.com/jermaine35)
-
-- [@rein042997](https://github.com/rein042997)
 
 - [@Jermainepaine](https://github.com/JermainePaine)
 
@@ -4293,6 +4293,8 @@
 - [@Luispinho](https://github.com/Luis-Pinho)
 
 - [@Luistorres0](https://github.com/luistorres0)
+
+- [@Lukagva](https://github.com/lukagva)
 
 - [@Lukamarinkovic](https://github.com/lukamarinkovic)
 
@@ -6257,6 +6259,8 @@
 - [@Rehanqasimk](https://github.com/rehanqasimk)
 
 - [@Rehant123](https://github.com/rehant123)
+
+- [@Rein042997](https://github.com/rein042997)
 
 - [@Rel1Nce](https://github.com/rel1nce)
 
@@ -8465,9 +8469,4 @@
 - [@Zzhou0922](https://github.com/zzhou0922)
 
 - [@🐬Gassims](https://github.com/gassims/)
-
-- [@lukagva](https://github.com/lukagva)
-
-
-- [@Hana-Wang] (https://github.com/Hana-Wang)
 
