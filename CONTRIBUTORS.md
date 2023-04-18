@@ -330,6 +330,8 @@
 
 - [@Amilawa](https://github.com/amilawa)
 
+- [@Amir99Ba](https://github.com/Amir99ba)
+
 - [@Amjedidiah](https://github.com/amjedidiah)
 
 - [@Amodeusr](https://github.com/amodeusr)
@@ -7267,6 +7269,8 @@
 - [@Ssoppet1](https://github.com/ssoppet1)
 
 - [@Sstroz](https://github.com/sstroz)
+
+- [@Standinkp](https://github.com/StandinKP)
 
 - [@Stanhenriquez](https://github.com/stanhenriquez)
 
