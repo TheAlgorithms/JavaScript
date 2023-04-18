@@ -1622,8 +1622,6 @@
 
 - [@Diaandrei](https://github.com/Diaandrei)
 
-- [@Diaandrei(Https://Github.Com/Diaandrei)](Https://Github.Com/Diaandrei)
-
 - [@Dicucristiann](https://github.com/dicucristiann)
 
 - [@Didargml](https://github.com/didargml)
@@ -2193,6 +2191,8 @@
 - [@Felixburton7](https://github.com/Felixburton7)
 
 - [@Femiscript](https://github.com/femiscript)
+
+- [@Fermat01](https://github.com/fermat01)
 
 - [@Fernandank](https://github.com/fernandank)
 
