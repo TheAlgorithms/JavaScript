@@ -335,6 +335,8 @@ cl# CONTRIBUTORS
 
 -[@PrakashKolisetty](https://github.com/PrakashKolisetty)
 
+-[@nikoalteri](https://github.com/nikoalteri)
+
 -[@michalbudzik](https://github.com/michalbudzik)
 
 -[@jerryjohnsoffl](https://github.com/jerryjohnsoffl)
