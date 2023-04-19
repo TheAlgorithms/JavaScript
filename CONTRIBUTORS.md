@@ -335,6 +335,8 @@ cl# CONTRIBUTORS
 
 -[@PrakashKolisetty](https://github.com/PrakashKolisetty)
 
+-[@nikoalteri](https://github.com/nikoalteri)
+
 -[@michalbudzik](https://github.com/michalbudzik)
 
 -[@jerryjohnsoffl](https://github.com/jerryjohnsoffl)
@@ -7313,6 +7315,8 @@ cl# CONTRIBUTORS
 
 - [@Wjrempelos](https://github.com/Wjrempelos)
 
+- [@Kezzzah](https://github.com/Kezzzah)
+
 - [@LIJOMLOYID](https://github.com/LIJOMLOYID)
 
 - [@ClaireKarsenti](https://github.com/ClaireKarsenti)
@@ -9332,4 +9336,17 @@ cl# CONTRIBUTORS
 -[@j-donjuan](https://github.com/J-DonJuan)
 
 -[@kaikencode](https://github.com/kaikencode)
+
 - [@FJSDO] https://github.com/FJSDO
+
+-[@Jlloppez](https://github.com/Jlloppez)
+
+-[@Matheus7253](https://github.com/Matheus7253)
+
+-[@mohiniagarwal08](https://github.com/mohiniagarwal08)
+
+-[@Darya-STRONG](https://github.com/Darya-STRONG)
+
+-[@AhmedMalekX](https://github.com/AhmedMalekX)
+
+-[@kevintata](https://github.com/kevintata)
