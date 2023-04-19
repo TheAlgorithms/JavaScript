@@ -1,7 +1,5 @@
 # CONTRIBUTORS
 
-- [@]()
-
 - [@02Fede02](https://github.com/02fede02)
 
 - [@05Maelket](https://github.com/05Maelket)
@@ -45,6 +43,8 @@
 - [@9Valleb9](https://github.com/9valleb9)
 
 - [@<I><B>Ravitechnomindz</I></B>](https://github.com/RaviTechnoMindz)
+
+- [@=Davidsallusti](https://github.com/davidsallusti)
 
 - [@Aakarshan369](https://github.com/Aakarshan-369)
 
@@ -313,6 +313,8 @@
 - [@Ananddixit007](https://github.com/ananddixit007)
 
 - [@Anandsvd](https://github.com/Anandkp6937)
+
+- [@Anasolomon](https://github.com/anasolomon)
 
 - [@Anateston](https://github.com/Ana-teston)
 
@@ -891,6 +893,8 @@
 - [@Cesaralk](https://github.com/cesaralk/)
 
 - [@Cfanjos](https://github.com/cfanjos)
+
+- [@Chachacha666](https://github.com/chachacha666)
 
 - [@Chadegomez](https://github.com/chadegomez)
 
@@ -1752,7 +1756,7 @@
 
 - [@Ekoorits](https://github.com/Ekoorits)
 
-- [@Ekramasif](https://github.com/ekramasif)
+- [@Ekramasif](https://github.com/parvej2001)
 
 - [@El2Toro](https://github.com/el2toro/)
 
@@ -2012,6 +2016,8 @@
 
 - [@Fdmorgan](https://github.com/FDMorgan)
 
+- [@Fe477C7F6162E310F2E603958Da3D37Cc1Fc69Ab]()
+
 - [@Febieclinton](https://github.com/febieclinton)
 
 - [@Febomtempo](https://github.com/febomtempo)
@@ -2061,6 +2067,8 @@
 - [@Flippsa](https://github.com/FLIPPSA)
 
 - [@Flogit](https://github.com/Flo-git)
+
+- [@Florentnoel](https://github.com/Florent-NOEL/)
 
 - [@Fly0W](https://github.com/Fly0w)
 
@@ -2844,6 +2852,8 @@
 
 - [@Jacek2003](https://github.com/jacek2003)
 
+- [@Jackcaldwellnichols](https://github.com/JackCaldwellNichols)
+
 - [@Jackcollins98](https://github.com/jack-collins98)
 
 - [@Jackkluz](https://github.com/Jackkluz)
@@ -3542,7 +3552,7 @@
 
 - [@Kennshen](https://github.com/Kennshen)
 
-- [@Kennymcgeoch](https://github.com/KennyMcGeoch/)
+- [@Kennymcgeoch](https://github.com/KennyMcGeoch)
 
 - [@Kentandrian](https://github.com/KenTandrian)
 
@@ -3839,6 +3849,8 @@
 - [@Lenao91](https://github.com/lenao91)
 
 - [@Lenindelarosa](https://github.com/lenindelarosa)
+
+- [@Lennydamiani](https://github.com/lenny-damiani)
 
 - [@Lenspira](https://github.com/lenspira)
 
@@ -7484,6 +7496,8 @@
 
 - [@Vkmboss](https://github.com/VKM-BOSS)
 
+- [@Vladonebls](https://github.com/VladOneBls/)
+
 - [@Vlhsmylv](https://github.com/vlhsmylv)
 
 - [@Vnykshrma](https://github.com/Vnykshrma)
@@ -7611,6 +7625,7 @@
 - [@Wjrempelos](https://github.com/Wjrempelos)
 
 - [@Wkaiser21](https://github.com/wkaiser21)
+- [@StefaniaNeri](https://github.com/StefaniaNeri)
 
 - [@Wmk5055](https://github.com/wmk5055)
 
