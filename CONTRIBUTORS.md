@@ -88,7 +88,7 @@ cl# CONTRIBUTORS
 - [@Danthesage01](https://github.com/Danthesage01)
 
 - [@wadeevans](https://github.com/wadeevans)
-
+- [@AlexRodriguez-dev](https://github.com/AlexRodriguez-dev)
 - [@giolmartin](https://github.com/giolmartin)
 
 - [@ProsperousHeart](https://github.com/ProsperousHeart)
