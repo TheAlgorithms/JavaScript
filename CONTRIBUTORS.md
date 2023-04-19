@@ -7315,6 +7315,8 @@ cl# CONTRIBUTORS
 
 - [@Wjrempelos](https://github.com/Wjrempelos)
 
+- [@Kezzzah](https://github.com/Kezzzah)
+
 - [@LIJOMLOYID](https://github.com/LIJOMLOYID)
 
 - [@ClaireKarsenti](https://github.com/ClaireKarsenti)
