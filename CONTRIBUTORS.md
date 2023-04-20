@@ -3680,7 +3680,7 @@
 
 - [@Kennshen](https://github.com/Kennshen)
 
-- [@Kennymcgeoch](https://github.com/KennyMcGeoch/)
+- [@Kennymcgeoch](https://github.com/KennyMcGeoch)
 
 - [@Kentandrian](https://github.com/KenTandrian)
 
@@ -5233,6 +5233,8 @@
 - [@Nsreeni2](https://github.com/nsreeni2)
 
 - [@Numananees](https://github.com/NumanAnees)
+
+- [@Nurrohmann](https://github.com/Nurrohmann)
 
 - [@Nursamyrzash](https://github.com/nursamyrzash)
 
