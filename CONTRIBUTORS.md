@@ -46,11 +46,7 @@
 
 - [@9Valleb9](https://github.com/9valleb9)
 
-- [@<<<<<<<Head]()
-
 - [@<I><B>Ravitechnomindz</I></B>](https://github.com/RaviTechnoMindz)
-
-- [@=======]()
 
 - [@=Cristiansanchez14](https://github.com/Cristian-sanchez14)
 
@@ -5649,6 +5645,8 @@
 - [@Prachidimote](https://github.com/prachidimote)
 
 - [@Pradhyumarora](https://github.com/PradhyumArora)
+
+- [@Pradsai](https://github.com/Prads-ai)
 
 - [@Pradytpk](https://github.com/pradytpk)
 
