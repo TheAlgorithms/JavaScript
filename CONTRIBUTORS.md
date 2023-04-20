@@ -22,7 +22,11 @@
 
 - [@111Akash](https://github.com/111akash)
 
+
+- [@RJBurford][https://github.com/rjburford]
+
 - [@123Lickme](https://github.com/123lickme)
+
 
 - [@126Jullian](https://github.com/126jullian)
 
@@ -8180,3 +8184,6 @@
 
 - [@🐬Gassims](https://github.com/gassims/)
 
+- [@simonfoy] (https://github.com/simonfoy)
+
+- [@rjburford](https://github.com/rjburford)
