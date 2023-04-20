@@ -8260,5 +8260,11 @@
 
 - [@Zzhou0922](https://github.com/zzhou0922)
 
+-[@Vaidehi2027](https://github.com/Vaidehi2027)
+
+-[@datng](https://github.com/dattuannguyen/)
+
+-[@YannickR1](https://github.com/YannickR1)
+
 - [@🐬Gassims](https://github.com/gassims/)
 
