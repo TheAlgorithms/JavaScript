@@ -46,11 +46,17 @@
 
 - [@9Valleb9](https://github.com/9valleb9)
 
+- [@<<<<<<<Head]()
+
 - [@<I><B>Ravitechnomindz</I></B>](https://github.com/RaviTechnoMindz)
+
+- [@=======]()
 
 - [@=Cristiansanchez14](https://github.com/Cristian-sanchez14)
 
 - [@=Davidsallusti](https://github.com/davidsallusti)
+
+- [@>>>>>>>7D99Eb8A1(Addnewcontributortocontributors.Md)](Add new contributor to CONTRIBUTORS.md)
 
 - [@Aakarshan369](https://github.com/Aakarshan-369)
 
@@ -88,11 +94,7 @@
 
 - [@Abebewolie](https://github.com/AbebeWolie/)
 
-<<<<<<< HEAD
 - [@Abhaytaras7](https://github.com/abhaytaras7)
-=======
--[@q-rault](https://github.com/q-rault) -[@leul1212] (https://github.com/leul1212) -[@Radiostranger](https://github.com/Radiostranger)
->>>>>>> 7d99eb8a1 (Add new contributor to CONTRIBUTORS.md)
 
 - [@Abhid1678](https://github.com/AbhiD1678)
 
@@ -104,11 +106,7 @@
 
 - [@Abhimom03](https://github.com/abhimom03)
 
-<<<<<<< HEAD
 - [@Abhishek02121](https://github.com/Abhishek02121/)
-=======
--[@dkembre](https://github.com/dkembre) -[@pinatic](https://github.com/Pinatic79)
->>>>>>> 7d99eb8a1 (Add new contributor to CONTRIBUTORS.md)
 
 - [@Abhishekpatel2528](https://github.com/abhishekpatel2528)
 
@@ -132,15 +130,10 @@
 
 - [@Acekavi](https://github.com/acekavi)
 
-<<<<<<< HEAD
 - [@Achreffast](https://github.com/AchrefFast)
-=======
--[@behappyleee](https://github.com/behappyleee) -[@ShubhamSKadam](https://github.com/ShubhamSKadam)
->>>>>>> 7d99eb8a1 (Add new contributor to CONTRIBUTORS.md)
 
 - [@Acoetzee91](https://github.com/ACoetzee1991)
 
-<<<<<<< HEAD
 - [@Acriscione1](https://github.com/acriscione1)
 
 - [@Actll](https://github.com/actll)
@@ -154,23 +147,6 @@
 - [@Adbogan1](https://github.com/adbogan1)
 
 - [@Addyk16](https://github.com/Addyk16)
-=======
--[@chakib33](https://github.com/chakib33) -[@ihouwat](https://github.com/ihouwat) -[@Karim-Daouas](https://github.com/Karim-Daouas)
-
--[@Phanix](https://github.com/Phanix) -[@MarcoM0404](https://github.com/MarcoM0404)
-
--[@hakedo](https://github.com/hakedo) -[@anubhav-negi](https://github.com/starlove54)s
-
--[@Kindevral](https://github.com/Kindevral) -[@RoxanaAnamariaTurc](https://github.com/RoxanaAnamariaTurc)
-
--[@kylegothman](https://github.com/kylegothman) -[@Imadinglefritz](https://github.com/Imadinglefritz)
-
-- [@leeorf](https://github.com/leeorf) -[@ushicode](https://github.com/ushicode) -[@Mdirfanul](https://github.com/MdIrfan-ul/)
-
--[@YuqingWangCG](https://github.com/YuqingWangCG/)
-
-- [@bilalkhan360](https://github.com/bilalkhan360)
->>>>>>> 7d99eb8a1 (Add new contributor to CONTRIBUTORS.md)
 
 - [@Adelmalek](https://github.com/adelmalek)
 
@@ -6322,6 +6298,8 @@
 
 - [@Royalmelon](https://github.com/RoyalMelon)
 
+- [@Rozuke](https://github.com/ROZUKE)
+
 - [@Rproulx5](https://github.com/rproulx5)
 
 - [@Rrehlert](https://github.com/rrehlert)
@@ -7218,21 +7196,11 @@
 
 - [@Superman566](https://github.com/superman566)
 
-<<<<<<< HEAD
 - [@Supernovascript](https://github.com/superNovaScript)
-=======
--[@neerajnishad5](https://github.com/neerajnishad5) -[@rashidjama](https://github.com/rashidjama)
->>>>>>> 7d99eb8a1 (Add new contributor to CONTRIBUTORS.md)
 
 - [@Superstar090703](https://github.com/SuperStar090703/)
 
-<<<<<<< HEAD
 - [@Superstruppie](https://github.com/Superstruppie/)
-=======
--[@amos-pun](https://github.com/amos-pun)
-
-- [@dakshith-u-2013](https://github.com/dakshith-u-2013)
->>>>>>> 7d99eb8a1 (Add new contributor to CONTRIBUTORS.md)
 
 - [@Supratim30](https://github.com/Supratim30)
 
@@ -8290,9 +8258,3 @@
 
 - [@🐬Gassims](https://github.com/gassims/)
 
-<<<<<<< HEAD
-=======
--[@PeshwariNaan](https://github.com/PeshwariNaan)
-
--[@ROZUKE](https://github.com/ROZUKE)
->>>>>>> 7d99eb8a1 (Add new contributor to CONTRIBUTORS.md)
