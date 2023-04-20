@@ -536,7 +536,7 @@
 
 - [@Atifdev](https://github.com/atif-dev)
 
-- [@Atikrg]([https://github.com/Atikrg])
+- [@Atikrg]([@https://github.com/Atikrg])
 
 - [@Audleycoding](https://github.com/AudleyCoding)
 
@@ -732,7 +732,7 @@
 
 - [@Bnc1338](https://github.com/bnc1338)
 
-- [@Bobbysilva11]([https://github.com/bobbysilva11])
+- [@Bobbysilva11]([@https://github.com/bobbysilva11])
 
 - [@Bobomatic](https://github.com/bobomatic)
 
@@ -2022,7 +2022,7 @@
 
 - [@Evropa](https://github.com/evropa)
 
-- [@Exxonose]([https://github.com/exxonose])
+- [@Exxonose]([@https://github.com/exxonose])
 
 - [@Eyadalomari](https://github.com/eyadalomari)
 
@@ -2049,6 +2049,8 @@
 - [@Fabienmarchand](https://github.com/fabienMarchand)
 
 - [@Fabioauroradev](https://github.com/FabioAurora)
+
+- [@Fabiolalaguna](https://github.com/fabiolalaguna)
 
 - [@Fabioteichmann](https://github.com/fabio-teichmann)
 
@@ -2366,7 +2368,7 @@
 
 - [@Glowczyns](https://github.com/Glowczyns)
 
-- [@Glowrhee](https://github.com/Glow-rhee )
+- [@Glowrhee](https://github.com/Glow-rhee)
 
 - [@Gmedakeys](https://github.com/gmedakeys)
 
@@ -2614,7 +2616,7 @@
 
 - [@Helgasov](https://github.com/Helga-sov)
 
-- [@Hellogung]([https://github.com/hellogung])
+- [@Hellogung]([@https://github.com/hellogung])
 
 - [@Hellosanmi](https://github.com/helloSanmi)
 
@@ -6336,7 +6338,7 @@
 
 - [@Ryzheboka](https://github.com/ryzheboka)
 
-- [@Rzilla92](https://github.com/rzilla92)
+- [@Rzilla92](https://github.com/rzilla92/)
 
 - [@Rzmk](https://github.com/rzmk)
 
@@ -6640,7 +6642,7 @@
 
 - [@Seinnlee](https://github.com/seinnlee)
 
-- [@Selva02695](https://github.com/Selva02695)
+- [@Selva02695](<https://github.com/Selva02695)
 
 - [@Selvendranks](https://github.com/selvendranks)
 
@@ -6872,7 +6874,7 @@
 
 - [@Silverzaju](https://github.com/silverzaju)
 
-- [@Silviu1995]([https://github.com/Silviu1995])
+- [@Silviu1995]([@https://github.com/Silviu1995])
 
 - [@Simeonov11](https://github.com/Simeonov11/)
 
@@ -7702,6 +7704,8 @@
 
 - [@Verncode](https://github.com/Vern-code)
 
+- [@Veronicapetre](https://github.com/veronicapetre)
+
 - [@Veronicavb](https://github.com/VeronicaVB)
 
 - [@Veronikabejan](https://github.com/veronikabejan)
@@ -8223,18 +8227,4 @@
 - [@Zzhou0922](https://github.com/zzhou0922)
 
 - [@🐬Gassims](https://github.com/gassims/)
-
-
-- [@IITheGameII](https://github.com/IITheGameII)
--[@rsengar29](https://github.com/rsengar29)
-
-- [@ni5arga](https://github.com/ni5arga)
-
-- [@lenguyenhcm325](https://github.com/lenguyenhcm325)
-
-- [@IITheGameII](https://github.com/IITheGameII)
--[@rsengar29](https://github.com/rsengar29)
-
--[@veronicapetre](https://github.com/veronicapetre)
-
 
