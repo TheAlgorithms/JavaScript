@@ -3618,6 +3618,8 @@
 
 - [@Katanok](https://github.com/katanok)
 
+- [@Katerinastrelina](https://github.com/katerinastrelina)
+
 - [@Kateway](https://github.com/Kate-Way)
 
 - [@Kathring](https://github.com/Kathrin-G)
@@ -3972,7 +3974,7 @@
 
 - [@Lea19019](https://github.com/lea19019)
 
-- [@lealethpamilar](https://github.com/lealethpamilar)
+- [@Lealethpamilar](https://github.com/lealethpamilar)
 
 - [@Leandrososa](https://github.com/leandrososa)
 
@@ -4667,6 +4669,8 @@
 - [@Mikedepacina](https://github.com/MikeDePacina)
 
 - [@Mikedev23](https://github.com/mikedev23)
+
+- [@Mikeescro](https://github.com/mikeescro)
 
 - [@Mikelammy](https://github.com/mikelammy)
 
@@ -8156,6 +8160,3 @@
 
 - [@🐬Gassims](https://github.com/gassims/)
 
--[@zvin123](https://github.com/zvin123)
-
--[@mikeescro](https://github.com/mikeescro)
