@@ -530,6 +530,8 @@
 
 - [@Assouaalbert](https://github.com/AssouaAlbert)
 
+- [@Astenos15](https://github.com/Astenos15)
+
 - [@Asvorz](https://github.com/asvorz)
 
 - [@Atcnplt](https://github.com/at-cnplt)
@@ -5132,6 +5134,8 @@
 
 - [@Nelsonalgarve](https://github.com/nelsonalgarve)
 
+- [@Nelsonbechem](https://github.com/EngNelson)
+
 - [@Nemesislw](https://github.com/NemesisLW)
 
 - [@Neocyber](https://github.com/neocyber)
@@ -8244,6 +8248,3 @@
 
 - [@🐬Gassims](https://github.com/gassims/)
 
--[@Akash-KumarSinha](https://github.com/Akash-KumarSinha)
-
--[@Nelson Bechem](https://github.com/EngNelson)
