@@ -56,7 +56,7 @@
 
 - [@=Davidsallusti](https://github.com/davidsallusti)
 
-- [@>>>>>>>7D99Eb8A1(Addnewcontributortocontributors.Md)](Add new contributor to CONTRIBUTORS.md)
+- [@>>>>>>>7D99Eb8A1(Addnewcontributortocontributors.Md)](Addnewcontributortocontributors.Md)
 
 - [@Aakarshan369](https://github.com/Aakarshan-369)
 
@@ -6111,6 +6111,8 @@
 - [@Rel1Nce](https://github.com/rel1nce)
 
 - [@Relieyanhilman](https://github.com/relieyanhilman)
+
+- [@Remulus123](https://github.com/remulus123)
 
 - [@Remy349](https://github.com/Remy349)
 
