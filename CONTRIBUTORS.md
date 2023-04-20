@@ -8218,7 +8218,13 @@
 
 - [@Zoroot](https://github.com/zoroot)
 
+
+-[@tannu371](https://github.com/tannu371)
+
+-[@pedrocsfranca](https://github.com/pedrocsfranca)
+
 - [@Zosov](https://github.com/ZosoV)
+
 
 - [@Zuiluj](https://github.com/Zuiluj)
 
@@ -8241,5 +8247,9 @@
 -[@Kieroncoombs](https://github.com/Kieroncoombs)
 
 -[Preetirai-tech](https://github.com/Preetirai-tech)
+
+
+
+-[@Satyxm](https://github.com/Satyxm)
 
 
