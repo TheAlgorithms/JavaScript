@@ -3302,7 +3302,7 @@
 
 - [@Josielmatos](https://github.com/JosielMatos)
 
-- [@Jossidroid](https://github.com/JossiDroid])
+- [@Jossidroid](https://github.com/JossiDroid)
 
 - [@Jovannickovic](https://github.com/jovannickovic)
 
