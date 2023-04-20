@@ -8192,7 +8192,24 @@
 
 - [@🐬Gassims](https://github.com/gassims/)
 
-
--[@laukic1](https://github.com/laukic1)
+- [@laukic1](https://github.com/laukic1)
 
 - [@manuelLanderos](https://github.com/manuelLanderos)
+
+- [@simonfoy] (https://github.com/simonfoy)
+
+- [@rajevercrazy] (https://github.com/rajevercrazy)
+
+- [@Hope247code] (https://github/Hope247code)
+
+- [@rjburford](https://github.com/rjburford)
+
+- [@abhishekpatel2528](https://github.com/abhishekpatel2528)
+
+- [@NiteshMishra](https://github.com/Nitesh232)
+
+- [@appleinautumn](https://github.com/appleinautumn)
+
+- [@byrondray] (https://github.com/byrondray)
+
+
