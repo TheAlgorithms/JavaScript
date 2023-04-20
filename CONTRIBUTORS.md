@@ -56,7 +56,7 @@
 
 - [@=Davidsallusti](https://github.com/davidsallusti)
 
-- [@>>>>>>>2Ea8C64E7(Kamranriyaz)](Kamran-Riyaz)
+- [@>>>>>>>2Ea8C64E7(Kamranriyaz)](Kamranriyaz)
 
 - [@Aakarshan369](https://github.com/Aakarshan-369)
 
@@ -1590,7 +1590,7 @@
 
 - [@Dhurika](https://github.com/Dhurika)
 
-- [@Diaandrei(Https://Github.Com/Diaandrei)](https://github.com/diaandrei)
+- [@Diaandrei(Https://Github.Com/Diaandrei)](Https://Github.Com/Diaandrei)
 
 - [@Dicucristiann](https://github.com/dicucristiann)
 
