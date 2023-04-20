@@ -3364,7 +3364,7 @@
 
 - [@Jorgearbelaez](https://github.com/jorgearbelaez/)
 
-- [@Jorlar](httos://github.com/jorlar)
+- [@Jorlar](https://github.com/jorlar)
 
 - [@Jorydurham](https://github.com/jorydurham)
 
@@ -3908,7 +3908,7 @@
 
 - [@Kwassisenam](https://github.com/KwassiSenam)
 
-- [@Kwiczling](https://github.com/K-Wiczling)
+- [@Kwiczling](https://github.com/K-Wiczling/)
 
 - [@Kxmom](https://github.com/kxmom/)
 
@@ -7597,6 +7597,8 @@
 - [@Vagison](https://github.com/vagison)
 
 - [@Vagnerandrei26](https://github.com/VagnerAndrei26)
+
+- [@Vaibiz](https://github.com/vaibiz/)
 
 - [@Vaidehi2027](https://github.com/Vaidehi2027)
 
