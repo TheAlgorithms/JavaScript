@@ -46,11 +46,17 @@
 
 - [@9Valleb9](https://github.com/9valleb9)
 
+- [@<<<<<<<Head]()
+
 - [@<I><B>Ravitechnomindz</I></B>](https://github.com/RaviTechnoMindz)
+
+- [@=======]()
 
 - [@=Cristiansanchez14](https://github.com/Cristian-sanchez14)
 
 - [@=Davidsallusti](https://github.com/davidsallusti)
+
+- [@>>>>>>>7D99Eb8A1(Addnewcontributortocontributors.Md)](Add new contributor to CONTRIBUTORS.md)
 
 - [@Aakarshan369](https://github.com/Aakarshan-369)
 
@@ -6291,6 +6297,8 @@
 - [@Roxanaanamariaturc](https://github.com/RoxanaAnamariaTurc)
 
 - [@Royalmelon](https://github.com/RoyalMelon)
+
+- [@Rozuke](https://github.com/ROZUKE)
 
 - [@Rproulx5](https://github.com/rproulx5)
 
