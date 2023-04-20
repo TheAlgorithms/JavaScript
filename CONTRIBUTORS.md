@@ -3684,7 +3684,7 @@
 
 - [@Kennshen](https://github.com/Kennshen)
 
-- [@Kennymcgeoch](https://github.com/KennyMcGeoch)
+- [@Kennymcgeoch](https://github.com/KennyMcGeoch/)
 
 - [@Kentandrian](https://github.com/KenTandrian)
 
@@ -7899,6 +7899,8 @@
 - [@Wonhee3472](https://github.com/wonhee3472)
 
 - [@Wonntann](https://github.com/wonntann)
+
+- [@Woodmarkdev](https://github.com/woodmark-dev)
 
 - [@Wookash90](https://github.com/Wookash90)
 
