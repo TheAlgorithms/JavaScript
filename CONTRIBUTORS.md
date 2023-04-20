@@ -5756,6 +5756,8 @@
 
 - [@Preethamm](https://github.com/preetham-m)
 
+- [@Preetiraitech](https://github.com/Preetirai-tech)
+
 - [@Premahhh](https://github.com/premahhh)
 
 - [@Premkrishna2442](https://github.com/Premkrishna2442)
@@ -7848,6 +7850,8 @@
 
 - [@Vuquangpham](https://github.com/vuquangpham)
 
+- [@Vusal5555](https://github.com/vusal5555)
+
 - [@Vvasileios](https://github.com/vvasileios)
 
 - [@Vybraan](https://github.com/vybraan)
@@ -8218,13 +8222,7 @@
 
 - [@Zoroot](https://github.com/zoroot)
 
-
--[@tannu371](https://github.com/tannu371)
-
--[@pedrocsfranca](https://github.com/pedrocsfranca)
-
 - [@Zosov](https://github.com/ZosoV)
-
 
 - [@Zuiluj](https://github.com/Zuiluj)
 
@@ -8239,17 +8237,4 @@
 - [@Zzhou0922](https://github.com/zzhou0922)
 
 - [@🐬Gassims](https://github.com/gassims/)
-
--[@Kieroncoombs](https://github.com/Kieroncoombs)
-
--[@Preetirai-tech](https://github.com/Preetirai-tech)
-
--[@Kieroncoombs](https://github.com/Kieroncoombs)
-
--[Preetirai-tech](https://github.com/Preetirai-tech)
-
-
-
--[@Satyxm](https://github.com/Satyxm)
-
 
