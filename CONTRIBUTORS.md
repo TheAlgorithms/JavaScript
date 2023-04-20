@@ -2050,6 +2050,8 @@
 
 - [@Ezeh20](https://github.com/Ezeh20)
 
+- [@Ezekielysunday](https://github.com/ezekielysunday)
+
 - [@Ezzykine](https://github.com/ezzykine)
 
 - [@F1V3Dev](https://github.com/f1v3-dev)
