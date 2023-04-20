@@ -92,6 +92,8 @@
 
 - [@Abhiiagarwal09](https://github.com/Abhii-Agarwal09)
 
+- [@Abhijeetsatpute](https://github.com/abhijeetsatpute)
+
 - [@Abhimishranow](https://github.com/AbhiMishra-Now)
 
 - [@Abhimom03](https://github.com/abhimom03)
@@ -431,6 +433,8 @@
 - [@Aorazaq](https://github.com/aorazaq)
 
 - [@Apostolos172](https://github.com/Apostolos172/)
+
+- [@Appleinautumn](https://github.com/appleinautumn)
 
 - [@Appsbygita](https://github.com/appsbygita)
 
@@ -2144,6 +2148,8 @@
 
 - [@Flaveeoos](https://github.com/flaveeoos)
 
+- [@Flaviossimonis](https://github.com/FlaviosSimonis)
+
 - [@Flaviowh](https://github.com/flaviowh)
 
 - [@Flint1101](https://github.com/Flint1101)
@@ -2181,6 +2187,8 @@
 - [@Francomoraes](https://github.com/francomoraes)
 
 - [@Frankfromthesea](https://github.com/FrankFromTheSea)
+
+- [@Franzmueller1](https://github.com/franzmueller1)
 
 - [@Freddykembo](https://github.com/freddykembo)
 
@@ -4783,8 +4791,6 @@
 - [@Mohamadelhadidy](https://github.com/MohamadElhadidy)
 
 - [@Mohamedamhil](https://github.com/Mohamed-amhil)
-
-- [@arx0x0](https://github.com/arx0x0/)
 
 - [@Mohameddallas](https://github.com/mohameddallas)
 
@@ -8191,34 +8197,4 @@
 - [@Zzhou0922](https://github.com/zzhou0922)
 
 - [@🐬Gassims](https://github.com/gassims/)
-
-- [@laukic1](https://github.com/laukic1)
-
-- [@manuelLanderos](https://github.com/manuelLanderos)
-
-- [@simonfoy] (https://github.com/simonfoy)
-
-- [@rajevercrazy] (https://github.com/rajevercrazy)
-
-- [@Hope247code] (https://github/Hope247code)
-
-- [@rjburford](https://github.com/rjburford)
-
-- [@abhishekpatel2528](https://github.com/abhishekpatel2528)
-
-- [@NiteshMishra](https://github.com/Nitesh232)
-
-- [@appleinautumn](https://github.com/appleinautumn)
-
-- [@byrondray] (https://github.com/byrondray)
-
--[@SeikhAsifAkram](https://github.com/SeikhAsifAkram)
-
--[@franzmueller1] (https://github.com/franzmueller1)
-
-
-
--[@abhijeetsatpute](https://github.com/abhijeetsatpute)
-
--[@FatemaBohra](https://github.com/FatemaBohra)
 
