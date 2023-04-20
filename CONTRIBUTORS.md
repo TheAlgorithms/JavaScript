@@ -140,6 +140,8 @@
 
 - [@Addyk16](https://github.com/Addyk16)
 
+- [@Adelmalek](https://github.com/adelmalek)
+
 - [@Adimrs](https://github.com/adimrs/)
 
 - [@Aditya3011Ai](https://github.com/aditya3011ai/)
@@ -4163,6 +4165,8 @@
 - [@Lucianaalbuquerque](https://github.com/lucianaalbuquerque)
 
 - [@Lucifer1947](https://github.com/lucifer-1947)
+
+- [@Luckylukic](https://github.com/LuckyLukic)
 
 - [@Lucyd133](https://github.com/lucyd133)
 
@@ -8227,21 +8231,4 @@
 - [@Zzhou0922](https://github.com/zzhou0922)
 
 - [@🐬Gassims](https://github.com/gassims/)
-
-- [@IITheGameII](https://github.com/IITheGameII)
--[@rsengar29](https://github.com/rsengar29)
-
-- [@ni5arga](https://github.com/ni5arga)
-
-- [@lenguyenhcm325](https://github.com/lenguyenhcm325)
-
-- [@IITheGameII](https://github.com/IITheGameII)
--[@rsengar29](https://github.com/rsengar29)
-
-
--[@Alangithub08](https://github.com/Alangithub08)
-
--[@adelmalek](https://github.com/adelmalek)
-
--[@veronicapetre](https://github.com/veronicapetre)
 
