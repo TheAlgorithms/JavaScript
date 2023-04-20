@@ -8184,3 +8184,11 @@
 
 - [@🐬Gassims](https://github.com/gassims/)
 
+- [@simonfoy] (https://github.com/simonfoy)
+
+- [@rajevercrazy] (https://github.com/rajevercrazy)
+
+- [@Hope247code] (https://github/Hope247code)
+
+- [@rjburford](https://github.com/rjburford)
+
