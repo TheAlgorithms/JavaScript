@@ -3206,7 +3206,7 @@
 
 - [@Johnesleyer](https://github.com/JohnEsleyer)
 
-- [@Johngehring2008](https://github.com/johngehring2008/)
+- [@Johngehring2008](https://github.com/johngehring2008)
 
 - [@Johngg15](https://github.com/johngg15)
 
@@ -3302,7 +3302,7 @@
 
 - [@Josielmatos](https://github.com/JosielMatos)
 
-- [@Jossidroid](https://github.com/JossiDroid)
+- [@Jossidroid](https://github.com/JossiDroid])
 
 - [@Jovannickovic](https://github.com/jovannickovic)
 
@@ -4614,7 +4614,7 @@
 
 - [@Mohamedimouchane](https://github.com/MohamedImouchane)
 
-- [@Mohamedvol1](https://github.com/mohamedvol1/)
+- [@Mohamedvol1](https://github.com/mohamedvol1)
 
 - [@Mohammadajram](https://github.com/Mohammad-Ajram)
 
@@ -6411,6 +6411,8 @@
 - [@Sf0912](https://github.com/sf0912)
 
 - [@Sfkaayan](https://github.com/sfk-aayan)
+
+- [@Sg75](https://github.com/SG75)
 
 - [@Sha888](https://github.com/SHA888)
 
