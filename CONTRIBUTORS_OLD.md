@@ -2289,6 +2289,8 @@
 
 - [@Kathring](https://github.com/Kathrin-G)
 
+- [@KatieStairs] (https://github.com/KatieStairs)
+
 - [@Katyanichi](https://github.com/KatyaNichi)
 
 - [@Kavishbamboli](https://github.com/KavishBamboli)
