@@ -2842,6 +2842,8 @@
 
 - [@Iurialmeida](https://github.com/Iuri-Almeida)
 
+- [@Ivane98](https://github.com/ivane98)
+
 - [@Ivansing](https://github.com/ivansing)
 
 - [@Ivantanghw](https://github.com/ivantanghw)
@@ -3206,7 +3208,7 @@
 
 - [@Johnesleyer](https://github.com/JohnEsleyer)
 
-- [@Johngehring2008](https://github.com/johngehring2008)
+- [@Johngehring2008](https://github.com/johngehring2008/)
 
 - [@Johngg15](https://github.com/johngg15)
 
@@ -4614,7 +4616,7 @@
 
 - [@Mohamedimouchane](https://github.com/MohamedImouchane)
 
-- [@Mohamedvol1](https://github.com/mohamedvol1)
+- [@Mohamedvol1](https://github.com/mohamedvol1/)
 
 - [@Mohammadajram](https://github.com/Mohammad-Ajram)
 
