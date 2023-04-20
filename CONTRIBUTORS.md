@@ -4784,6 +4784,8 @@
 
 - [@Mohamedamhil](https://github.com/Mohamed-amhil)
 
+- [@arx0x0](https://github.com/arx0x0/)
+
 - [@Mohameddallas](https://github.com/mohameddallas)
 
 - [@Mohamedimouchane](https://github.com/MohamedImouchane)
@@ -8190,6 +8192,10 @@
 
 - [@🐬Gassims](https://github.com/gassims/)
 
+- [@laukic1](https://github.com/laukic1)
+
+- [@manuelLanderos](https://github.com/manuelLanderos)
+
 - [@simonfoy] (https://github.com/simonfoy)
 
 - [@rajevercrazy] (https://github.com/rajevercrazy)
@@ -8198,11 +8204,12 @@
 
 - [@rjburford](https://github.com/rjburford)
 
--[@abhishekpatel2528](https://github.com/abhishekpatel2528)
+- [@abhishekpatel2528](https://github.com/abhishekpatel2528)
 
--[@NiteshMishra](https://github.com/Nitesh232)
+- [@NiteshMishra](https://github.com/Nitesh232)
 
--[@appleinautumn](https://github.com/appleinautumn)
+- [@appleinautumn](https://github.com/appleinautumn)
 
--[@byrondray] (https://github.com/byrondray)
+- [@byrondray] (https://github.com/byrondray)
+
 
