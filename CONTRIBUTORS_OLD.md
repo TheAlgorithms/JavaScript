@@ -15278,6 +15278,8 @@
 
 - [@MRWOLVEY](https://github.com/MRWOLVEY)
 
+- [@SebastianZxD](https://github.com/SebastianZxD/)
+
 - [@dannybartolini](https://github.com/dannybartolini)
 
 - [@YamzashS](https://github.com/YamzashS)
@@ -15291,3 +15293,4 @@
 - [@rubada](https://github.com/rubada)
 
 - [@mikeescro](https://github.com/mikeescro)
+
