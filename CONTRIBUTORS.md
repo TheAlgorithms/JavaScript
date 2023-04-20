@@ -1580,7 +1580,7 @@
 
 - [@Dhurika](https://github.com/Dhurika)
 
-- [@Diaandrei(Https://Github.Com/Diaandrei)](https://github.com/diaandrei)
+- [@Diaandrei(Https://Github.Com/Diaandrei)](Https://Github.Com/Diaandrei)
 
 - [@Dicucristiann](https://github.com/dicucristiann)
 
