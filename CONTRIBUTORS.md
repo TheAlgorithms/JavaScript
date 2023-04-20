@@ -828,6 +828,8 @@
 
 - [@Byenna](https://github.com/Byenna)
 
+- [@Byrondray](https://github.com/byrondray)
+
 - [@Bytebitbyte](https://github.com/Byte-bit-Byte)
 
 - [@Byungminchoi](https://github.com/PhilosopherProgrammer)
@@ -2674,6 +2676,8 @@
 
 - [@Honeysaxena](https://github.com/honeysaxena/)
 
+- [@Hope247Code](https://github/Hope247code)
+
 - [@Hopeful89](https://github.com/hopeful89/)
 
 - [@Hossambaheiy449](https://github.com/HossamBaheiy449)
@@ -2961,6 +2965,8 @@
 - [@Jacek2003](https://github.com/jacek2003)
 
 - [@Jackcaldwellnichols](https://github.com/JackCaldwellNichols)
+
+- [@Jackchaffin](https://github.com/jackchaffin)
 
 - [@Jackcollins98](https://github.com/jack-collins98)
 
@@ -3686,7 +3692,7 @@
 
 - [@Kennshen](https://github.com/Kennshen)
 
-- [@Kennymcgeoch](https://github.com/KennyMcGeoch/)
+- [@Kennymcgeoch](https://github.com/KennyMcGeoch)
 
 - [@Kentandrian](https://github.com/KenTandrian)
 
@@ -8184,14 +8190,3 @@
 
 - [@🐬Gassims](https://github.com/gassims/)
 
-- [@simonfoy] (https://github.com/simonfoy)
-
-- [@rajevercrazy] (https://github.com/rajevercrazy)
-
-- [@Hope247code] (https://github/Hope247code)
-
-- [@rjburford](https://github.com/rjburford)
-
--[@abhishekpatel2528](https://github.com/abhishekpatel2528)
-
--[@byrondray] (https://github.com/byrondray)
