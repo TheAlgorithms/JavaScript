@@ -84,6 +84,8 @@
 
 - [@Abdurahimus](https://github.com/abdurahim-us)
 
+- [@Abdurrahmaneee](https://github.com/AbdurRahmaneee)
+
 - [@Abebewolie](https://github.com/AbebeWolie/)
 
 - [@Abhaytaras7](https://github.com/abhaytaras7)
