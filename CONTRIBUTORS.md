@@ -8228,9 +8228,15 @@
 
 - [@reciproque](https://github.com/remireci)
 
+
+-[@shaunandgemma](https://github.com/shaunandgemma/)
+
+-[@jflores011](https://github.com/jflores011/)
+
 - [@seancary62](https://github.com/seancary62)
 
 - [@Safwaan-GitHub](https://github.com/Safwaan-GitHub)
+
 
 -[@HIRUT4528](https://github.com/HIRUT4528/HIRUT4528)
 
