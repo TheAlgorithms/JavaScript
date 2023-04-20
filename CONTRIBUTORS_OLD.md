@@ -15278,6 +15278,8 @@
 
 - [@MRWOLVEY](https://github.com/MRWOLVEY)
 
+- [@YamzashS](https://github.com/YamzashS)
+
 - [@reciproque](https://github.com/remireci)
 
 - [@Fixlim](https://github.com/Fixlim)
@@ -15287,5 +15289,4 @@
 - [@rubada](https://github.com/rubada)
 
 - [@mikeescro](https://github.com/mikeescro)
-
 
