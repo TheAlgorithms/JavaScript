@@ -18,6 +18,8 @@
 
 - [@0Xzonav](https://github.com/0xZonaV)
 
+- [@SoulimanMEd](https://github.com/SoulimanMEd)
+
 - [@10Isha](https://github.com/10isha)
 
 - [@111Akash](https://github.com/111akash)

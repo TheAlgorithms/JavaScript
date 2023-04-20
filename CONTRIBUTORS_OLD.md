@@ -190,6 +190,8 @@
 
 - [@A7Coder](https://github.com/a7coder)
 
+- [@SoulimanMEd](https://github.com/SoulimanMEd)
+
 - [@A7Madmostafa](https://github.com/a7madmostafa)
 
 - [@Aadhism](https://github.com/AADHISM)
