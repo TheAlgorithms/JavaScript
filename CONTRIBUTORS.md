@@ -3686,7 +3686,7 @@
 
 - [@Kennshen](https://github.com/Kennshen)
 
-- [@Kennymcgeoch](https://github.com/KennyMcGeoch)
+- [@Kennymcgeoch](https://github.com/KennyMcGeoch/)
 
 - [@Kentandrian](https://github.com/KenTandrian)
 
