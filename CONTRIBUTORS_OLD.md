@@ -2,6 +2,8 @@
 
 - [@Nazmul6180](https://github.com/Nazmul6180)
 
+- [@camilagx](https://github.com/camilagx)
+
 - [@p-acs8](https://github.com/p-acs8/)
 
 - [@mbajinaru](https://github.com/mbajinaru)
@@ -15275,3 +15277,16 @@
 - [@AditKhandelwal](https://github.com/AditKhandelwal)
 
 - [@MRWOLVEY](https://github.com/MRWOLVEY)
+
+- [@YamzashS](https://github.com/YamzashS)
+
+- [@reciproque](https://github.com/remireci)
+
+- [@Fixlim](https://github.com/Fixlim)
+
+- [@AnkitGupta](https://github.com/ankitgupta1020)
+
+- [@rubada](https://github.com/rubada)
+
+- [@mikeescro](https://github.com/mikeescro)
+
