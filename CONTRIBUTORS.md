@@ -8170,3 +8170,7 @@
 
 - [@🐬Gassims](https://github.com/gassims/)
 
+
+-[@Wexo78](https://github.com/Wexo78)
+
+-[@kanae1889](https://github.com/kanae1889)
