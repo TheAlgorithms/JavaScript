@@ -6788,6 +6788,8 @@
 
 - [@Sheri0441](https://github.com/sheri0441)
 
+- [@Sherifackles](https://github.com/SherifAckles)
+
 - [@Sherifsharafstein](https://github.com/sherifsharafstein)
 
 - [@Shermainelim](https://github.com/shermainelim)
@@ -7970,6 +7972,8 @@
 
 - [@Willianac](https://github.com/willianac)
 
+- [@Willingtolearncoding](https://github.com/Willingtolearncoding)
+
 - [@Willsbit](https://github.com/willsbit)
 
 - [@Willsdev](https://github.com/wills-dev)
@@ -8275,8 +8279,4 @@
 - [@Zzhou0922](https://github.com/zzhou0922)
 
 - [@🐬Gassims](https://github.com/gassims/)
-
-- [@sheyerdahl](https://github.com/sheyerdahl)
-
-- [@Willingtolearncoding](https://github.com/Willingtolearncoding)
 
