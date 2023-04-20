@@ -516,7 +516,7 @@
 
 - [@Asishbhandari](https://github.com/asishbhandari)
 
-- [@Askurtomasson](https://github.com/AskurTomasson)
+- [@Askurtomasson](https://github.com/AskurTomasson/)
 
 - [@Aslamdoctor](https://github.com/aslamdoctor)
 
@@ -1885,6 +1885,8 @@
 - [@Emamezi](https://github.com/Emamezi)
 
 - [@Emanuelretamozo](https://github.com/emanuelretamozo)
+
+- [@Emavc93](https://github.com/Emavc93)
 
 - [@Emenius96](https://github.com/emenius96)
 
@@ -3390,7 +3392,7 @@
 
 - [@Jorgearbelaez](https://github.com/jorgearbelaez/)
 
-- [@Jorlar](httos://github.com/jorlar)
+- [@Jorlar](https://github.com/jorlar)
 
 - [@Jorydurham](https://github.com/jorydurham)
 
@@ -3940,7 +3942,7 @@
 
 - [@Kwassisenam](https://github.com/KwassiSenam)
 
-- [@Kwiczling](https://github.com/K-Wiczling)
+- [@Kwiczling](https://github.com/K-Wiczling/)
 
 - [@Kxmom](https://github.com/kxmom/)
 
