@@ -3558,6 +3558,8 @@
 
 - [@Kampani](https://github.com/Kampani)
 
+- [@Kanae1889](https://github.com/kanae1889)
+
 - [@Kanha638](https://github.com/kanha638)
 
 - [@Kanishkjha](https://github.com/kanishkjha)
@@ -6218,6 +6220,8 @@
 
 - [@Rosiaz](https://github.com/Rosiaz)
 
+- [@Rosskovt](https://github.com/rosskovt)
+
 - [@Rovinchauhan](https://github.com/rovinChauhan)
 
 - [@Rowine](https://github.com/Rowine)
@@ -8170,7 +8174,3 @@
 
 - [@🐬Gassims](https://github.com/gassims/)
 
-
--[@Wexo78](https://github.com/Wexo78)
-
--[@kanae1889](https://github.com/kanae1889)
