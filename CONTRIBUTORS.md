@@ -6790,7 +6790,7 @@
 
 - [@Shashwatpal1021](https://github.com/shashwatpal1021)
 
-- [@Shaswatsatyam] (https://github.com/shaswat-satyam)
+- [@Shaswat-satyam] (https://github.com/shaswat-satyam)
 
 - [@Shaunandgemma](https://github.com/shaunandgemma/)
 
