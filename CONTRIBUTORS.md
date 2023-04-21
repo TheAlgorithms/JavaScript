@@ -8319,3 +8319,5 @@
 - [@wilkensoncode](https://github.com/wilkensoncode)
 
 - [@bubu-revelat](https://github.com/bubu-revelat)
+
+- [@deardaveed](https://github.com/deardaveed)
