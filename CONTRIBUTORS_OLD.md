@@ -2,6 +2,8 @@
 
 - [@Nazmul6180](https://github.com/Nazmul6180)
 
+- [@camilagx](https://github.com/camilagx)
+
 - [@p-acs8](https://github.com/p-acs8/)
 
 - [@mbajinaru](https://github.com/mbajinaru)
@@ -2286,6 +2288,8 @@
 - [@Karyseaweed](https://github.com/karyseaweed)
 
 - [@Kathring](https://github.com/Kathrin-G)
+
+- [@KatieStairs] (https://github.com/KatieStairs)
 
 - [@Katyanichi](https://github.com/KatyaNichi)
 
@@ -15277,3 +15281,20 @@
 - [@MRWOLVEY](https://github.com/MRWOLVEY)
 
 - [@VIKASDONTA](https://github.com/Vikasdonta1)
+
+- [@SebastianZxD](https://github.com/SebastianZxD/)
+
+- [@dannybartolini](https://github.com/dannybartolini)
+
+- [@YamzashS](https://github.com/YamzashS)
+
+- [@reciproque](https://github.com/remireci)
+
+- [@Fixlim](https://github.com/Fixlim)
+
+- [@AnkitGupta](https://github.com/ankitgupta1020)
+
+- [@rubada](https://github.com/rubada)
+
+- [@mikeescro](https://github.com/mikeescro)
+
