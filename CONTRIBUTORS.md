@@ -524,6 +524,8 @@
 
 - [@Asishbhandari](https://github.com/asishbhandari)
 
+- [@Askoflek](https://github.com/Askoflek)
+
 - [@Askurtomasson](https://github.com/AskurTomasson/)
 
 - [@Aslamdoctor](https://github.com/aslamdoctor)
@@ -1586,7 +1588,7 @@
 
 - [@Dhurika](https://github.com/Dhurika)
 
-- [@Diaandrei(Https://Github.Com/Diaandrei)](https://github.com/diaandrei)
+- [@Diaandrei(Https://Github.Com/Diaandrei)](Https://Github.Com/Diaandrei)
 
 - [@Dicucristiann](https://github.com/dicucristiann)
 
@@ -3717,6 +3719,8 @@
 - [@Keerthana0207](https://github.com/Keerthana0207)
 
 - [@Keerthiakella3](https://github.com/KeerthiAkella3/)
+
+- [@Kegkeg10](https://github.com/kegkeg10)
 
 - [@Keithebbett](https://github.com/KeithEbbett)
 
@@ -7775,6 +7779,8 @@
 - [@Venkatguna](https://github.com/venkatguna)
 
 - [@Venomoushamster](https://github.com/VenomousHamster)
+
+- [@Ventiphresh](https://github.com/Ventiphresh)
 
 - [@Verdant](https://github.com/NVergil)
 
