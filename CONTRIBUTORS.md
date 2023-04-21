@@ -1,16 +1,4 @@
-
-cl# CONTRIBUTORS
-
-- [@Phoenix2157](https://github.com/rayyan21d)
-- 
-- [@sahilaghara1911](https://github.com/sahilaghara1911)
-- 
-- [@nawabsahab16](https://github.com/nawabsahab16)
-- 
-- [@atef1995](https://github.com/atef1995)
-
 # CONTRIBUTORS
-
 
 - [@]()
 
@@ -58,17 +46,11 @@ cl# CONTRIBUTORS
 
 - [@9Valleb9](https://github.com/9valleb9)
 
-- [@<<<<<<<Head]()
-
 - [@<I><B>Ravitechnomindz</I></B>](https://github.com/RaviTechnoMindz)
-
-- [@=======]()
 
 - [@=Cristiansanchez14](https://github.com/Cristian-sanchez14)
 
 - [@=Davidsallusti](https://github.com/davidsallusti)
-
-- [@>>>>>>>Fcc1B6961(Addedmynameincontributorlist)](Addedmynameincontributorlist)
 
 - [@Aakarshan369](https://github.com/Aakarshan-369)
 
@@ -1604,7 +1586,7 @@ cl# CONTRIBUTORS
 
 - [@Dhurika](https://github.com/Dhurika)
 
-- [@Diaandrei(Https://Github.Com/Diaandrei)](Https://Github.Com/Diaandrei)
+- [@Diaandrei(Https://Github.Com/Diaandrei)](https://github.com/diaandrei)
 
 - [@Dicucristiann](https://github.com/dicucristiann)
 
@@ -3946,8 +3928,6 @@ cl# CONTRIBUTORS
 
 - [@Kshar23](https://github.com/akshar-23)
 
--[@alcoranpaul](https://github.com/alcoranpaul)
-
 - [@Kshreepadk](https://github.com/kshreepadk/)
 
 - [@Kstt27](https://github.com/kstt27)
@@ -4887,8 +4867,6 @@ cl# CONTRIBUTORS
 - [@Mohammednadeempasha](https://github.com/MohammedNadeemPasha)
 
 - [@Mohan216](https://github.com/mohan216/)
-
-- [@joaohertel](https://github.com/joaohertel)
 
 - [@Mohgotjuice](https://github.com/MohGotJuice/)
 
@@ -6814,8 +6792,6 @@ cl# CONTRIBUTORS
 
 - [@Shashwatpal1021](https://github.com/shashwatpal1021)
 
-- [@Shaswat-satyam] (https://github.com/shaswat-satyam)
-
 - [@Shaunandgemma](https://github.com/shaunandgemma/)
 
 - [@Shawnjamil](https://github.com/shawnjamil)
@@ -8337,12 +8313,4 @@ cl# CONTRIBUTORS
 - [@Zzhou0922](https://github.com/zzhou0922)
 
 - [@🐬Gassims](https://github.com/gassims/)
-
-- [@wilkensoncode](https://github.com/wilkensoncode)
-
-- [@bubu-revelat](https://github.com/bubu-revelat)
-
-- [@ramielhaj](https://github.com/ramielhaj)
-
-- [@deardaveed](https://github.com/deardaveed)
 
