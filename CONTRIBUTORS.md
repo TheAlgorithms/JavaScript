@@ -1514,6 +1514,8 @@
 
 - [@Deucetrk](https://github.com/deucetrk)
 
+- [@Deukhwa](https://github.com/Deukhwa)
+
 - [@Devakinola](https://github.com/Devakinola)
 
 - [@Devasse](https://github.com/devassse)
@@ -4904,6 +4906,8 @@
 
 - [@Moniqueshaqiri](https://github.com/Monique-Shaqiri)
 
+- [@Monisamirza](https://github.com/monisa-mirza)
+
 - [@Monooleate](https://github.com/monooleate)
 
 - [@Mooglyoogly](https://github.com/MooglyOogly)
@@ -7585,6 +7589,8 @@
 - [@Tommyshelby2001](https://github.com/tommyshelby2001)
 
 - [@Tomsavage](https://github.com/Tom-Savage)
+
+- [@Tongchentw](https://github.com/tongchentw)
 
 - [@Toni123321](https://github.com/toni123321)
 
