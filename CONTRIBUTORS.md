@@ -46,19 +46,11 @@
 
 - [@9Valleb9](https://github.com/9valleb9)
 
-- [@<<<<<<<Head]()
-
 - [@<I><B>Ravitechnomindz</I></B>](https://github.com/RaviTechnoMindz)
-
-- [@=======]()
 
 - [@=Cristiansanchez14](https://github.com/Cristian-sanchez14)
 
 - [@=Davidsallusti](https://github.com/davidsallusti)
-
-- [@>>>>>>>Dcc03C4D8(Addedmynametoztmcontributorlist)](added my name to ztm contributor list)
-
-- [@>>>>>>>Fcc1B6961(Addedmynameincontributorlist)](Addedmynameincontributorlist)
 
 - [@Aakarshan369](https://github.com/Aakarshan-369)
 
@@ -261,8 +253,6 @@
 - [@Alau87](https://github.com/alau87)
 
 - [@Albertalynnbrubaker](https://github.com/AlbertaLynnBrubaker)
-
-- [@Alcoranpaul](https://github.com/alcoranpaul)
 
 - [@Aldopaganijr](https://github.com/aldopaganijr)
 
@@ -533,8 +523,6 @@
 - [@Asifcode](https://github.com/asif-code)
 
 - [@Asishbhandari](https://github.com/asishbhandari)
-
-- [@Askoflek](https://github.com/Askoflek)
 
 - [@Askurtomasson](https://github.com/AskurTomasson/)
 
@@ -839,8 +827,6 @@
 - [@Btbenton10](https://github.com/BTBenton10/)
 
 - [@Bthbergheim](https://github.com/bthbergheim/)
-
-- [@Buburevelat](https://github.com/bubu-revelat)
 
 - [@Buddyhalljr](https://github.com/buddyhalljr/)
 
@@ -1477,8 +1463,6 @@
 - [@Dealtalfa](https://github.com/DEALTALFA)
 
 - [@Deanfowler](https://github.com/DeanFowler)
-
-- [@Deardaveed](https://github.com/deardaveed)
 
 - [@Decodeajay](https://github.com/DecodeAjay)
 
@@ -3343,8 +3327,6 @@
 - [@Joachinhimself](https://github.com/joachinhimself)
 
 - [@Joancodes](https://github.com/joancodes)
-
-- [@Joaohertel](https://github.com/joaohertel)
 
 - [@Joaquinb2000](https://github.com/Joaquinb2000)
 
@@ -5690,8 +5672,6 @@
 
 - [@Phirefly](https://github.com/phirefly/)
 
-- [@Phoenix2157](https://github.com/rayyan21d)
-
 - [@Phonethawhtet](https://github.com/phonethawhtet)
 
 - [@Phuclegin](https://github.com/phucle-gin)
@@ -6811,8 +6791,6 @@
 - [@Shashankcoc](https://github.com/shashankcoc)
 
 - [@Shashwatpal1021](https://github.com/shashwatpal1021)
-
-- [@Shaswatsatyam](https://github.com/shaswat-satyam)
 
 - [@Shaunandgemma](https://github.com/shaunandgemma/)
 
@@ -8014,8 +7992,6 @@
 
 - [@Wilken311](https://github.com/wilken311)
 
-- [@Wilkensoncode](https://github.com/wilkensoncode)
-
 - [@Willaims2C](https://github.com/williams2c)
 
 - [@Willamgdev](https://github.com/willamgdev)
@@ -8183,8 +8159,6 @@
 - [@Yodkwtf](https://github.com/yodkwtf)
 
 - [@Yogi1917](https://github.com/Yogi1917)
-
-- [@Yogik2001](https://github.com/YogiK2001)
 
 - [@Yokego](https://github.com/yokego)
 
