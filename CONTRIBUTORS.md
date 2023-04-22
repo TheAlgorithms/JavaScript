@@ -12,6 +12,8 @@
 
 - [@0Ludeaux](https://github.com/0ludeaux)
 
+- [@chris-troupe](https://github.com/chris-troupe)
+
 - [@0Xmrtt](https://github.com/0xMRTT)
 
 - [@0Xsilkweave](https://github.com/0xSilkweave)
@@ -8995,4 +8997,3 @@
 - [@Hana-Wang] (https://github.com/Hana-Wang)
 
 - [@Hana-Wang] (https://github.com/Vishalsharma843)
-
