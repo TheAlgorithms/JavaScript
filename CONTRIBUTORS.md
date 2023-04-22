@@ -18,8 +18,6 @@
 
 - [@0Xzonav](https://github.com/0xZonaV)
 
-- [@SoulimanMEd](https://github.com/SoulimanMEd)
-
 - [@10Isha](https://github.com/10isha)
 
 - [@111Akash](https://github.com/111akash)
@@ -567,6 +565,8 @@
 - [@Atikrg]([@https://github.com/Atikrg])
 
 - [@Audleycoding](https://github.com/AudleyCoding)
+
+- [@Audrius](https://github.com/AudriusAlt)
 
 - [@Augustincolesnic](https://github.com/augustin-colesnic)
 
@@ -7216,6 +7216,8 @@
 
 - [@Souldrop](https://github.com/souldrop)
 
+- [@Soulimanmed](https://github.com/SoulimanMEd)
+
 - [@Soumiksaha](https://github.com/soumik-saha)
 
 - [@Sourabhmittal](https://github.com/Sourabh-mittal)
@@ -8484,8 +8486,3 @@
 
 - [@🐬Gassims](https://github.com/gassims/)
 
--[@R3KV1EM](https://github.com/R3KV1EM)
-
--[@JayNaii](https://github.com/JayNaii)
-
--[@Audrius](https://github.com/AudriusAlt)
