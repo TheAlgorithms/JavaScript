@@ -2384,6 +2384,8 @@
 
 - [@Gifariramadhan](https://github.com/gifariramadhan/)
 
+- [@thedanielng](https://github.com/thedanielng/)
+
 - [@Giggle](https://github.com/giggle)
 
 - [@Gilbertdaniel](https://github.com/GilbertDaniel)
