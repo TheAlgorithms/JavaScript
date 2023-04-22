@@ -3278,6 +3278,8 @@
 
 - [@Jermaine35](https://github.com/jermaine35)
 
+- [@rein042997](https://github.com/rein042997)
+
 - [@Jermainepaine](https://github.com/JermainePaine)
 
 - [@Jerricke](https://github.com/Jerricke)
@@ -8469,4 +8471,8 @@
 - [@Zzhou0922](https://github.com/zzhou0922)
 
 - [@🐬Gassims](https://github.com/gassims/)
+
+- [@lukagva](https://github.com/lukagva)
+
+- [@Hana-Wang] (https://github.com/Hana-Wang)
 
