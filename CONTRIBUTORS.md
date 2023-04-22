@@ -1621,7 +1621,9 @@
 - [@Dhurika](https://github.com/Dhurika)
 
 - [@Diaandrei](https://github.com/Diaandrei)
-:
+
+- [@Diaandrei(Https://Github.Com/Diaandrei)](Https://Github.Com/Diaandrei)
+
 - [@Dicucristiann](https://github.com/dicucristiann)
 
 - [@Didargml](https://github.com/didargml)
@@ -2762,6 +2764,8 @@
 
 - [@Hld3](https://github.com/hld3/)
 
+- [@Hlenhard](https://github.com/hlenhard)
+
 - [@Hmz931](https://github.com/Hmz931)
 
 - [@Hoangphamdksc](https://github.com/hoangphamdksc/)
@@ -3377,6 +3381,8 @@
 - [@Jlizard95](https://github.com/Jlizard95)
 
 - [@Jll19Ggh](https://github.com/jll19gGH)
+
+- [@Jlloppez](https://github.com/Jlloppez)
 
 - [@Jlmonar17](https://github.com/jlmonar17)
 
@@ -5335,6 +5341,8 @@
 - [@Nikhitathomas](https://github.com/NikhitaThomas/)
 
 - [@Nikitabhanderi93](https://github.com/nikitabhanderi93)
+
+- [@Nikoalteri](https://github.com/nikoalteri)
 
 - [@Nikola0707](https://github.com/Nikola0707)
 
@@ -8473,8 +8481,4 @@
 - [@Zzhou0922](https://github.com/zzhou0922)
 
 - [@🐬Gassims](https://github.com/gassims/)
-
-- [@lukagva](https://github.com/lukagva)
-
-- [@Hana-Wang] (https://github.com/Hana-Wang)
 
