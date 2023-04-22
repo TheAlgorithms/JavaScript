@@ -1010,6 +1010,8 @@
 
 - [@Chaossaver103](https://github.com/chaossaver103)
 
+- [@Chapterclose](https://chapterclose.com)
+
 - [@Charlerae](https://github.com/charlerae)
 
 - [@Chayan11](https://github.com/Chayan-11)
@@ -1017,6 +1019,8 @@
 - [@Chengali111](https://github.com/chengali111)
 
 - [@Cherrydub](https://github.com/cherrydub)
+
+- [@Chetan07092000](https://github.com/chetan07092000/)
 
 - [@Chetan2332](https://github.com/chetan2332/)
 
@@ -1141,6 +1145,8 @@
 - [@Cmleo](https://github.com/cmleo/)
 
 - [@Cocogelato](https://github.com/cocogelato/)
+
+- [@Coconochoco](https://github.com/coconochoco/)
 
 - [@Code2Forever](https://github.com/code2forever)
 
@@ -1605,8 +1611,6 @@
 - [@Dhurika](https://github.com/Dhurika)
 
 - [@Diaandrei](https://github.com/Diaandrei)
-
-- [@Diaandrei(Https://Github.Com/Diaandrei)](Https://Github.Com/Diaandrei)
 
 - [@Dicucristiann](https://github.com/dicucristiann)
 
@@ -2461,6 +2465,8 @@
 - [@Goretzky](https://github.com/Goretzky/)
 
 - [@Got0Values](https://github.com/got0values)
+
+- [@Gourav1695](https://github.com/Gourav1695)
 
 - [@Goutamprasad](https://github.com/Goutam-Prasad/)
 
@@ -3448,6 +3454,8 @@
 
 - [@Jorgearbelaez](https://github.com/jorgearbelaez/)
 
+- [@Jorgeprogramaen5](https://github.com/jorgeProgramaEn5)
+
 - [@Jorlar](https://github.com/jorlar)
 
 - [@Jorydurham](https://github.com/jorydurham)
@@ -3931,6 +3939,8 @@
 - [@Kos3126](https://github.com/kos3126)
 
 - [@Koshka](https://github.com/koshka)
+
+- [@Kostaga](https://github.com/Kostaga)
 
 - [@Kpatel1010](https://github.com/kpatel1010)
 
@@ -4871,6 +4881,8 @@
 - [@Mksameera89](https://github.com/mksameera89/)
 
 - [@Mleduccl](https://github.com/mleduccl/)
+
+- [@Mmahroo](https://github.com/mmahroo/)
 
 - [@Mmassoud](https://github.com/M-Massoud)
 
@@ -7074,6 +7086,8 @@
 
 - [@Skultty](https://github.com/Skultty)
 
+- [@Skyelynwaddell](https://github.com/skyelynwaddell/)
+
 - [@Skywalkersam](https://github.com/skywalkerSam)
 
 - [@Sl972](https://github.com/SL972)
@@ -8055,6 +8069,8 @@
 - [@Webdevhill](https://github.com/webdevhill/)
 
 - [@Websachin991](https://github.com/websachin991)
+
+- [@Webwithvez](https://github.com/webwithvez)
 
 - [@Weichun0911](https://github.com/WeiChun0911)
 
