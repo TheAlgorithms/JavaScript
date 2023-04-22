@@ -46,17 +46,11 @@
 
 - [@9Valleb9](https://github.com/9valleb9)
 
-- [@<<<<<<<Head]()
-
 - [@<I><B>Ravitechnomindz</I></B>](https://github.com/RaviTechnoMindz)
-
-- [@=======]()
 
 - [@=Cristiansanchez14](https://github.com/Cristian-sanchez14)
 
 - [@=Davidsallusti](https://github.com/davidsallusti)
-
-- [@>>>>>>>Be2F03Dfa(Addedmynametocontributorlist)](Addedmynametocontributorlist)
 
 - [@Aakarshan369](https://github.com/Aakarshan-369)
 
@@ -5402,6 +5396,8 @@
 
 - [@Nybunny54](https://github.com/nybunny54/)
 
+- [@O_Temii](https://github.com/Temiloluwa-Onaleye)
+
 - [@Obadiahdesigns](https://github.com/obadiahdesigns)
 
 - [@Obapythonaire](https://github.com/ObaPythonaire)
@@ -6529,6 +6525,8 @@
 - [@Sajalnayansingh](https://github.com/sajalnayansingh/)
 
 - [@Sajda](https://github.com/sajdakabir)
+
+- [@Sajeewagarusinghe](https://github.com/SajeewaGarusinghe)
 
 - [@Sajjacodes](https://github.com/sajjadcodes)
 
