@@ -1622,6 +1622,8 @@
 
 - [@Diaandrei](https://github.com/Diaandrei)
 
+- [@Diaandrei(Https://Github.Com/Diaandrei)](Https://Github.Com/Diaandrei)
+
 - [@Dicucristiann](https://github.com/dicucristiann)
 
 - [@Didargml](https://github.com/didargml)
@@ -2596,6 +2598,8 @@
 
 - [@Hanakamer](https://github.com/hanakamer)
 
+- [@Hanawang](https://github.com/Hana-Wang)
+
 - [@Handa26](https://github.com/handa26/)
 
 - [@Haniehgrn](https://github.com/HaniehGRN)
@@ -2759,6 +2763,8 @@
 - [@Hkj23](https://github.com/hkj23)
 
 - [@Hld3](https://github.com/hld3/)
+
+- [@Hlenhard](https://github.com/hlenhard)
 
 - [@Hmz931](https://github.com/Hmz931)
 
@@ -3376,6 +3382,8 @@
 
 - [@Jll19Ggh](https://github.com/jll19gGH)
 
+- [@Jlloppez](https://github.com/Jlloppez)
+
 - [@Jlmonar17](https://github.com/jlmonar17)
 
 - [@Jmg047](https://github.com/Jmg047)
@@ -3641,6 +3649,8 @@
 - [@Kagedevio](https://github.com/kagedevio)
 
 - [@Kaifmkhan](https://github.com/kaifmkhan)
+
+- [@Kaikencode](https://github.com/kaikencode)
 
 - [@Kailew](https://github.com/kailew)
 
@@ -4291,6 +4301,8 @@
 - [@Luispinho](https://github.com/Luis-Pinho)
 
 - [@Luistorres0](https://github.com/luistorres0)
+
+- [@Lukagva](https://github.com/lukagva)
 
 - [@Lukamarinkovic](https://github.com/lukamarinkovic)
 
@@ -5330,6 +5342,8 @@
 
 - [@Nikitabhanderi93](https://github.com/nikitabhanderi93)
 
+- [@Nikoalteri](https://github.com/nikoalteri)
+
 - [@Nikola0707](https://github.com/Nikola0707)
 
 - [@Nikolaokuka](https://github.com/nikolaokuka)
@@ -6255,6 +6269,8 @@
 - [@Rehanqasimk](https://github.com/rehanqasimk)
 
 - [@Rehant123](https://github.com/rehant123)
+
+- [@Rein042997](https://github.com/rein042997)
 
 - [@Rel1Nce](https://github.com/rel1nce)
 
@@ -7851,6 +7867,8 @@
 - [@Usmresees](https://github.com/UsmResees)
 
 - [@Uthsaraindeewara](https://github.com/uthsaraindeewara)
+
+- [@Utkarsh032](https://github.com/utkarsh032)
 
 - [@Utkarsh5038](https://github.com/UTKARSH5038)
 
