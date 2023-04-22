@@ -15280,7 +15280,10 @@
 
 - [@MRWOLVEY](https://github.com/MRWOLVEY)
 
-<<<<<<< HEAD
+- [@dfcb2012](https://github.com/dfcb2012)
+
+- [@OlusegunJoseph](https://github.com/OlusegunJoseph)
+
 - [@VIKASDONTA](https://github.com/Vikasdonta1)
 
 - [@SebastianZxD](https://github.com/SebastianZxD/)
@@ -15299,6 +15302,5 @@
 
 - [@mikeescro](https://github.com/mikeescro)
 
-=======
 - [@Eamos2] (https://github.com/Eamos2)
->>>>>>> c90cc8dfb (added name to contribtor list)
+
