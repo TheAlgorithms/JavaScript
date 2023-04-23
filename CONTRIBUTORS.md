@@ -1122,6 +1122,8 @@
 
 - [@Charlerae](https://github.com/charlerae)
 
+- [@ChaseSmith67](https://github.com/ChaseSmith67)
+
 - [@Chayan11](https://github.com/Chayan-11)
 
 - [@Chengali111](https://github.com/chengali111)
