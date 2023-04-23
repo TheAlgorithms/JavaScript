@@ -1122,6 +1122,8 @@
 
 - [@Charlerae](https://github.com/charlerae)
 
+- [@ChaseSmith67](https://github.com/ChaseSmith67)
+
 - [@Chayan11](https://github.com/Chayan-11)
 
 - [@Chengali111](https://github.com/chengali111)
@@ -9002,3 +9004,11 @@
 - [@venicialb] (https://github.com/venicialb)
 
 - [@hendramuljono8] {https://github.com/hendramuljono8}
+
+- [@BalramAgnihotri123](https://github.com/BalramAgnihotri123/)
+
+- [@Jonathanswebdev] (https://github.com/Jonathanswebdev)
+
+- [@YoucefMegoura] (https://github.com/YoucefMegoura)
+
+-[@zsoltremenyi](https://github.com/zsoltremenyi/)
