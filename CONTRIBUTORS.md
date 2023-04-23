@@ -56,7 +56,7 @@
 
 - [@=Davidsallusti](https://github.com/davidsallusti)
 
-- [@>>>>>>>36877377A(Addedagainmyname)](added again my name)
+- [@>>>>>>>36877377A(Addedagainmyname)](Addedagainmyname)
 
 - [@Aakarshan369](https://github.com/Aakarshan-369)
 
@@ -2539,6 +2539,8 @@
 - [@Gylim](https://github.com/gylim)
 
 - [@Habbski](https://github.com/Habbski)
+
+- [@Hadesthepotato](https://github.com/hadesthepotato)
 
 - [@Hadiesmaeilpour](https://github.com/hadiesmaeilpour)
 
