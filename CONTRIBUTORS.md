@@ -7816,6 +7816,8 @@
 
 - [@Vagnerandrei26](https://github.com/VagnerAndrei26)
 
+- [@Vaibhavkumartondak](https://github.com/VAIBHAVKUMARTONDAK/)
+
 - [@Vaibiz](https://github.com/vaibiz/)
 
 - [@Vaidehi2027](https://github.com/Vaidehi2027)
@@ -8085,6 +8087,8 @@
 - [@Wilfex81](https://github.com/wilfex81)
 
 - [@Wilken311](https://github.com/wilken311)
+
+- [@Wilkensoncode](https://github.com/wilkensoncode)
 
 - [@Willaims2C](https://github.com/williams2c)
 
