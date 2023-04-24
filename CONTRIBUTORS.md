@@ -572,6 +572,8 @@
 
 - [@Aust1Inn](https://github.com/aust1inn)
 
+- [@Av2001](https://github.com/AV2001)
+
 - [@Avatar10000](https://github.com/avatar-10000)
 
 - [@Avin045](https://github.com/avin045)
@@ -917,6 +919,8 @@
 - [@Captainakshay](https://github.com/captain-Akshay)
 
 - [@Cardonaw](https://github.com/cardonaw)
+
+- [@Carinaich](https://github.com/CarinaICH/)
 
 - [@Carlcidromero](https://github.com/carlcidromero)
 
@@ -1485,6 +1489,8 @@
 - [@Dealtalfa](https://github.com/DEALTALFA)
 
 - [@Deanfowler](https://github.com/DeanFowler)
+
+- [@Decario](https://github.com/Decario)
 
 - [@Decodeajay](https://github.com/DecodeAjay)
 
@@ -2181,6 +2187,8 @@
 - [@Felixburton7](https://github.com/Felixburton7)
 
 - [@Femiscript](https://github.com/femiscript)
+
+- [@Fermat01](https://github.com/fermat01)
 
 - [@Fernandank](https://github.com/fernandank)
 
@@ -3578,7 +3586,7 @@
 
 - [@Just4Codingnow](https://github.com/Just4CodingNow)
 
-- [@JustAnotherIdea](https://github.com/JustAnotherIdea)
+- [@Justanotheridea](https://github.com/JustAnotherIdea)
 
 - [@Justbaneisfine](https://github.com/JustBaneIsFine)
 
@@ -6364,6 +6372,8 @@
 
 - [@Robwill236](https://github.com/robwill236/)
 
+- [@Roc102](https://github.com/roc102)
+
 - [@Rocketcraze](https://github.com/RocketCraze)
 
 - [@Rod31](https://github.com/rod31)
@@ -8429,3 +8439,4 @@
 - [@roc102](https://github.com/roc102)
 
 - [@owais0017](https://github.com/owais0017)
+
