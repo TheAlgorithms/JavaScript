@@ -1,6 +1,5 @@
 # CONTRIBUTORS
 
-- [@]()
 
 - [@0xWebMilk](https://github.com/0xwebmilk)
 
