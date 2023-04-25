@@ -3816,6 +3816,8 @@
 
 - [@Kephass](https://github.com/Kephass)
 
+- [@DeividasJuska](https://github.com/DeividasJuska)
+
 - [@Kerwindows](https://github.com/kerwindows)
 
 - [@Keshetjackson](https://github.com/keshetjackson)
@@ -3823,8 +3825,6 @@
 - [@Ketakisbarde](https://github.com/ketakisbarde)
 
 - [@Kevinkigotho](https://github.com/Kevin-Kigotho)
-
-- [@DeividasJuska](https://github.com/DeividasJuska)
 
 - [@Kevinmaida](https://github.com/KevinMaida/)
 
