@@ -3824,6 +3824,8 @@
 
 - [@Kevinkigotho](https://github.com/Kevin-Kigotho)
 
+- [@DeividasJuska](https://github.com/DeividasJuska)
+
 - [@Kevinmaida](https://github.com/KevinMaida/)
 
 - [@Kevinnm](https://github.com/Kevnnm)
