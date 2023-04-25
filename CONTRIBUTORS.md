@@ -184,6 +184,8 @@
 
 - [@Agoddardc](http://github.com/agoddardc)
 
+- [@nellybognar](http://github.com/nellybognar/)
+
 - [@Agsarafa](https://github.com/Agsarafa)
 
 - [@Agyesie](https://github.com/agyesie)
@@ -3815,6 +3817,8 @@
 - [@Kenzo92](https://github.com/kenzo92/)
 
 - [@Kephass](https://github.com/Kephass)
+
+- [@DeividasJuska](https://github.com/DeividasJuska)
 
 - [@Kerwindows](https://github.com/kerwindows)
 
@@ -8455,3 +8459,9 @@
 -[@ahmed18gaa](https://github.com/ahmed18gaa)
 
 -[@kunalchaudharyofficial](https://github.com/Kunalchaudharyofficial)
+
+-[@setto29](https://github.com/setto29)
+
+-[@aleks930819](https://github.com/aleks930819)
+
+-[@JSDWRLD](https://github.com/JSDWRLD)
