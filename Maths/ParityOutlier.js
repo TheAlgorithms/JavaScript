@@ -7,7 +7,6 @@
  * @example parityOutlier([1, 3, 5, 8, 9]) = 8
  */
 const parityOutlier = (integers) => {
-  // define new containers
   let oddsCount = 0 // define counter for odd number(s)
   let evensCount = 0 // define counter for even number(s)
   let odd, even
@@ -15,7 +14,9 @@ const parityOutlier = (integers) => {
   for (const e of integers) {
     if (!Number.isInteger(e)) { // detect non-integer elements
       return null
-    } else if (e % 2 === 0) { // an even number
+    }
+    
+    if (e % 2 === 0) { // an even number
       even = e
       evensCount++
     } else { // an odd number
@@ -25,7 +26,7 @@ const parityOutlier = (integers) => {
   }
 
   if (oddsCount === 0 || evensCount === 0) return null // array has only odd/even number(s)
-  else if (oddsCount > 1 && evensCount > 1) return null // array has more than one even and odd number
+  if (oddsCount > 1 && evensCount > 1) return null // array has more than one even and odd number
 
   return oddsCount === 1 ? odd : even
 }
