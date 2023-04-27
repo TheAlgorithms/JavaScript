@@ -25,5 +25,6 @@ describe('Testing parityOutlier function', () => {
     expect(parityOutlier([2, {}, 5, 'GitHub'])).toBe(null)
     expect(parityOutlier([1, 3, 5, 7, 9])).toBe(null)
     expect(parityOutlier([0, 2, 4, 6, 8])).toBe(null)
+    expect(parityOutlier([1, 3, 5, 7, 2, 4, 6, 8])).toBe(null)
   })
 })
