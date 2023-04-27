@@ -15,7 +15,6 @@ const parityOutlier = (integers) => {
     if (!Number.isInteger(e)) { // detect non-integer elements
       return null
     }
-    
     if (e % 2 === 0) { // an even number
       even = e
       evensCount++
