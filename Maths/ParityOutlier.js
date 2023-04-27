@@ -8,22 +8,26 @@
  */
 const parityOutlier = (integers) => {
   // define new containers
-  const odds = [] // store odd number(s)
-  const evens = [] // store even number(s)
+  let odds_count = 0 // define counter for odd number(s)
+  let evens_count = 0 // define counter for even number(s)
+  let odd, even
 
-  for (let i = 0; i < integers.length; i++) {
-    if (!Number.isInteger(integers[i])) { // detect non-integer elements
+  for (let e of integers) {
+    if (!Number.isInteger(e)) { // detect non-integer elements
       return null
-    } else if (integers[i] % 2 === 0) { // an even number
-      evens.push(integers[i])
+    } else if (e % 2 === 0) { // an even number
+      even = e
+      evens_count++
     } else { // an odd number
-      odds.push(integers[i])
+      odd = e;
+      odds_count++
     }
   }
 
-  if (odds.length === 0 || evens.length === 0) return null
+  if (odds_count === 0 || evens_count === 0) return null // array has only odd/even number(s)
+  else if (odds_count > 1 && evens_count > 1) return null // array has more than one even and odd number
 
-  return odds.length === 1 ? odds[0] : evens[0]
+  return odds_count === 1 ? odd : even
 }
 
 export { parityOutlier }
