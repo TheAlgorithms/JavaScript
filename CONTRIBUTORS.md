@@ -7792,6 +7792,8 @@
 
 - [@Trivedhkumar](https://github.com/Trivedhkumar)
 
+- [@trottiemcqueen](https://github.com/trottiemcqueen)
+
 - [@Troypouliot](https://github.com/troypouliot)
 
 - [@Trsohankumar](https://github.com/trsohankumar)
