@@ -2,10 +2,10 @@
  * @author mrmagic2020
  * @description Enciphers a combination of letters, numbers and symbols into morse code.
  * @see https://en.wikipedia.org/wiki/Morse_code
- * @param {string} msg The message to be enciphered. 
+ * @param {string} msg The message to be enciphered.
  * @param {string} dot Symbol representing the dots.
  * @param {string} dash Symbol representing the dash.
- * @returns {string} Enciphered morse code. 
+ * @returns {string} Enciphered morse code.
  * @example morse('Hello World!') = '**** * *-** *-** ---   *-- --- *-* *-** -** -*-*--'
  */
 const morse = (msg, dot = '*', dash = '-') => {
