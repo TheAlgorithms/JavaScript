@@ -38,6 +38,8 @@
 
 - [@3Gruby](https://github.com/3GRuby)
 
+-[@tush-rastogi](https://github.com/tush-rastogi)
+
 - [@5P7Ro0T](https://github.com/5p7Ro0t)
 
 - [@69966969](https://github.com/69966969)
