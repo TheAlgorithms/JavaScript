@@ -1,7 +1,7 @@
 /*
   => Guess the number game 
   - In this game you have to guess the number between 1 to 100 
-  - The Random number is already choosen  by the getRandomInt function
+  - The Random number is already chosen  by the getRandomInt function
   - you only have to guess the number 
   - once you guess the number if the number is  matched yo will get your score 
   - else if the number is greater or smaller you will get the hint 
