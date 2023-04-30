@@ -8544,7 +8544,7 @@
 
 -[@kazimovzaman2](https://github.com/kazimovzaman2)
 
--[@Younis-Ahmed](https://github.com/Younis-Ahmed
+-[@Younis-Ahmed](https://github.com/Younis-Ahmed)
 
 -[@mansgotsites](https://github.com/mansgotsites/)
 
@@ -8570,3 +8570,4 @@
 
 -[@mmagas](https://github.com/mmagas)
 
+-[@LEGO-SUDO](https://github.com/LEGO-SUDO)
