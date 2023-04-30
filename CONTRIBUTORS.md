@@ -1848,6 +1848,8 @@
 
 - [@Easianyu](https://github.com/easianyu)
 
+- [@VerdiZone](https://github.com/verdizone)
+
 - [@Eazyh](https://github.com/EazyH)
 
 - [@Ebjoel](https://github.com/EB-Joel)
