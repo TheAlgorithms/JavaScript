@@ -266,6 +266,8 @@
 
 - [@Albertalynnbrubaker](https://github.com/AlbertaLynnBrubaker)
 
+- [@Alcoranpaul](https://github.com/alcoranpaul)
+
 - [@Aldopaganijr](https://github.com/aldopaganijr)
 
 - [@Alejosilvalau](https://github.com/alejosilvalau)
