@@ -8574,6 +8574,8 @@
 
 -[@ndr3j](https://github.com/ndr3j)
 
+-[@josedsegurav](https://github.com/josedsegurav)
+
 -[@hamedkalantari0111](https://github.com/Hamedkalantari0111)
 
 -[@saikat676](https://github.com/saikat676)
