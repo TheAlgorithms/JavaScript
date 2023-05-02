@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@Engr-zainjaved](https://github.com/Engr-zainjaved)
+
 - [@#Kthao21](https://github.com/kthao21)
 
 - [@02Fede02](https://github.com/02fede02)
