@@ -6468,7 +6468,7 @@
 
 - [@Rosiaz](https://github.com/Rosiaz)
 
-- [@Rossbrown](https:/github.com/ross-brown)
+- [@Rossbrown](https://github.com/ross-brown)
 
 - [@Rosskovt](https://github.com/rosskovt)
 
