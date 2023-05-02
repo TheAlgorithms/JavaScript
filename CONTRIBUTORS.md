@@ -4292,6 +4292,8 @@
 
 - [@Lorda2117](https://github.com/LordA2117)
 
+-[@juanduque5](https://github.com/juanduque5)
+
 - [@Louderthanthunderx1](https://github.com/louderthanthunderx1)
 
 - [@Loufi5](https://github.com/LouFi5)
