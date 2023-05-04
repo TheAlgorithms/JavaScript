@@ -3212,6 +3212,8 @@
 
 - [@Javierb07](https://github.com/javierb07)
 
+- [@WhiteHatGamer](https://github.com/WhiteHatGamer)
+
 - [@Javigong](https://github.com/javigong)
 
 - [@Jawadswed](https://github.com/jawadswed)
