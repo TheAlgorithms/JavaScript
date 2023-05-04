@@ -3736,6 +3736,8 @@
 
 - [@Kapshar](https://github.com/kapshar)
 
+- [@Siddhant-Rawat](https://github.com/Siddhant-Rawat)
+
 - [@Karafang](https://github.com/KaraFang)
 
 - [@Karammajdi7](https://github.com/KaramMajdi7)
