@@ -570,6 +570,8 @@
 
 - [@Atifdev](https://github.com/atif-dev)
 
+- [@DAEM007](https://github.com/DAEM007)
+
 - [@Atikrg]([@https://github.com/Atikrg])
 
 - [@Audleycoding](https://github.com/AudleyCoding)
@@ -945,6 +947,8 @@
 - [@Carlsaqui29](https://github.com/CarlSaqui29)
 
 - [@Carlts93](https://github.com/carlts93)
+
+- [@Calebbenjin](https://github.com/calebbenjin)
 
 - [@Carolinaqvargas](https://github.com/carolinaqvargas)
 
@@ -3212,6 +3216,8 @@
 
 - [@Javierb07](https://github.com/javierb07)
 
+- [@WhiteHatGamer](https://github.com/WhiteHatGamer)
+
 - [@Javigong](https://github.com/javigong)
 
 - [@Jawadswed](https://github.com/jawadswed)
@@ -3488,6 +3494,8 @@
 
 - [@Jonathanswebdev](https://github.com/Jonathanswebdev)
 
+- [@Itzbrandonlee](https://github.com/Itzbrandonlee)
+
 - [@Jonbull](https://github.com/Jon-Bull)
 
 - [@Jonesjac20](https://github.com/jonesjac20)
@@ -3731,6 +3739,8 @@
 - [@Kapiltha9A](https://github.com/kapiltha9a)
 
 - [@Kapshar](https://github.com/kapshar)
+
+- [@Siddhant-Rawat](https://github.com/Siddhant-Rawat)
 
 - [@Karafang](https://github.com/KaraFang)
 
@@ -4291,6 +4301,8 @@
 - [@Lopsluan](https://github.com/lopsluan)
 
 - [@Lorda2117](https://github.com/LordA2117)
+
+-[@juanduque5](https://github.com/juanduque5)
 
 - [@Louderthanthunderx1](https://github.com/louderthanthunderx1)
 
@@ -5044,6 +5056,8 @@
 
 - [@Monooleate](https://github.com/monooleate)
 
+-[@MonteThmas](https://github.com/MonteThmas)
+
 - [@Mooglyoogly](https://github.com/MooglyOogly)
 
 - [@Moondevbeam](https://github.com/Moondevbeam)
@@ -5681,6 +5695,8 @@
 - [@Pankaj485](https://github.com/pankaj485)
 
 - [@Papacuerpo](https://github.com/papacuerpo)
+
+- [@GeorgeOL](https://github.com/GeorgeOL)
 
 - [@Papichuloooo99](https://github.com/papichuloooo99)
 
@@ -7360,6 +7376,8 @@
 
 - [@Stevenduval](https://github.com/stevenduval)
 
+- [@stevenyeo99](https://github.com/stevenyeo99)
+
 - [@Stevetanus](https://github.com/Stevetanus)
 
 - [@Stika01](https://github.com/Stika01)
@@ -8521,6 +8539,7 @@
 - [@Znyeoaky](https://github.com/znyeoaky)
 
 - [@Zocum](https://github.com/Zocum)
+-[@Fitsum1204](https://github.com/Fitsum1204/)
 
 - [@Zohair001](https://github.com/zohair001)
 
@@ -8538,6 +8557,7 @@
 
 - [@Zxbk](https://github.com/ZXBK)
 
+
 - [@Zxhy24](https://github.com/zxhy24)
 
 - [@Zysable](https://github.com/zysable/)
@@ -8547,4 +8567,21 @@
 - [@🐬Gassims](https://github.com/gassims/)
 
 - [@ziad-96](https://github.com/ziad-96/)
+
+- [@bokharim24](https://github.com/bokharim24)
+
+- [@bokharim24](https://github.com/bokharim24)
+
+- [@JCFennell](https://github.com/JCFennell)
+
+- [@MeowB](https://github.com/MeowB)
+
+- [@kushalBhetuwal](https://github.com/kushalBhetuwal)
+
+- [@Wesley-waka](https://github.com/Wesley-waka)
+
+- [@ruturajshinde18](https://github.com/ruturajshinde18)
+
+- [@rrahul08](https://github.com/rrahul08)
+-[rizwanhussein](https://github.com/rizwanhussein)
 
