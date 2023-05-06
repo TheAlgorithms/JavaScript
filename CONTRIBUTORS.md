@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@Criezc](https://github.com/Criezc)
+
 - [@#Kthao21](https://github.com/kthao21)
 
 - [@02Fede02](https://github.com/02fede02)
@@ -2672,6 +2674,8 @@
 
 - [@Harshadkathiriya](https://github.com/harshad-kathiriya)
 
+- [@HarshalYadav](https://github.com/Harshalyadav)
+
 - [@Harshil35](https://github.com/harshil35)
 
 - [@Harshilbackup](https://github.com/harshilbackup)
@@ -2863,6 +2867,8 @@
 - [@Hychanbn1009](https://github.com/hychanbn1009/)
 
 - [@Hyelnatzz](https://github.com/hyelnatzz)
+
+- [@HyMike](https://github.com/HyMike)
 
 - [@Hyonbokan](https://github.com/hyonbokan)
 
@@ -3678,6 +3684,8 @@
 
 - [@Kabuyeivan](https://github.com/kasmediautamu)
 
+- [@KacperNarwojsz](https://github.com/KacperNarwojsz)
+
 - [@Kadir95](https://github.com/Kadir95)
 
 - [@Kaduspiaro](https://github.com/kaduspiaro)
@@ -3801,6 +3809,8 @@
 - [@Katyh820](https://github.com/KatyH820)
 
 - [@Kaunghtetmon](https://github.com/KaungHtetMon29)
+
+-[@grand282](https://github.com/grand282)
 
 - [@Kaushalmohit](https://github.com/kaushal-mohit)
 
@@ -7908,6 +7918,8 @@
 
 - [@Uma998](https://github.com/Uma998)
 
+- [@martinmdias](https://github.com/martinmdias)
+
 - [@Umangm17](https://github.com/umangm17/)
 
 - [@Umar052001](https://github.com/umar052001)
@@ -8590,3 +8602,7 @@
 
 - [@medlaah88](https://github.com/medlaah88)
 
+-[@Kadestery](https://github.com/Kadestery)
+-[@Ismalure12](https://https://github.com/Ismalure12)
+
+-[@aryanverma3009](https://github.com/aryanverma3009)
