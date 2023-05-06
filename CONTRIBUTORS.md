@@ -2674,6 +2674,8 @@
 
 - [@Harshadkathiriya](https://github.com/harshad-kathiriya)
 
+- [@HarshalYadav](https://github.com/Harshalyadav)
+
 - [@Harshil35](https://github.com/harshil35)
 
 - [@Harshilbackup](https://github.com/harshilbackup)
