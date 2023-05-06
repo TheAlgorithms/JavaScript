@@ -6,6 +6,8 @@
 
 - [@02Fede02](https://github.com/02fede02)
 
+- [@Festivemena](https://github.com/Festivemena)
+
 - [@05Maelket](https://github.com/05Maelket)
 
 - [@08Freyza](https://github.com/08freyza)
