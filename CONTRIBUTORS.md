@@ -8450,6 +8450,8 @@
 
 - [@Ys4510](https://github.com/ys4510)
 
+- [@ysa212](https://github.com/ysa212/start-here-guidelines.git)
+
 - [@Ysnessmaili](https://github.com/YsnESSMAILI)
 
 - [@Ytsou1230](https://github.com/ytsou1230)
