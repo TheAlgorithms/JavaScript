@@ -8450,7 +8450,7 @@
 
 - [@Ys4510](https://github.com/ys4510)
 
-- [@ysa212](https://github.com/ysa212/)
+- [@ysa212](https://github.com/ysa212)
 
 - [@Ysnessmaili](https://github.com/YsnESSMAILI)
 
