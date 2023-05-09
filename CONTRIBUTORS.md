@@ -1172,7 +1172,7 @@
 
 - [@Cmleo](https://github.com/cmleo/)
 
--[@C0deB](https://github.com/C0deB)
+- [@C0deB](https://github.com/C0deB)
 
 - [@Cocogelato](https://github.com/cocogelato/)
 
