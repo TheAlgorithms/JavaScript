@@ -40,7 +40,7 @@ class LinkedList {
 
   // Returns the head
   head () {
-    return this.headNode?.data || null
+    return this.headNode?.data ?? null
   }
 
   // Returns the tail

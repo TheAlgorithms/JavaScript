@@ -148,6 +148,9 @@ describe('SinglyLinkedList', () => {
 
     list.addFirst(30)
     expect(list.head()).toBe(30)
+
+    list.addFirst(0)
+    expect(list.head()).toBe(0)
   })
 
   it('Check tail', () => {
