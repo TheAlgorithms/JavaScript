@@ -7686,6 +7686,8 @@
 
 - [@Thelimaceguy](https://github.com/theLimaceGuy/)
 
+- [@yeatin](https://github.com/yeatin/)
+
 - [@Themis1986](https://github.com/themis1986/)
 
 - [@Theoptimalape](https://github.com/theoptimalape)
