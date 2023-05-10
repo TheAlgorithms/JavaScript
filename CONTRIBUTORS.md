@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@0xWebMilk](https://github.com/0xWebMilk)
+
 - [@Criezc](https://github.com/Criezc)
 
 - [@#Kthao21](https://github.com/kthao21)
@@ -2210,8 +2212,6 @@
 
 - [@Fdmorgan](https://github.com/FDMorgan)
 
-- [@Fe477C7F6162E310F2E603958Da3D37Cc1Fc69Ab]()
-
 - [@Febieclinton](https://github.com/febieclinton)
 
 - [@Febomtempo](https://github.com/febomtempo)
@@ -2747,8 +2747,6 @@
 - [@Hemangkrish7](https://github.com/hemangkrish7)
 
 - [@Hemantsachdeva](https://github.com/HemantSachdeva)
-
-- [@Hendramuljono8]()
 
 - [@Henry.Codex](https://github.com/henry.codex/)
 
@@ -3818,7 +3816,7 @@
 
 - [@Kaunghtetmon](https://github.com/KaungHtetMon29)
 
--[@grand282](https://github.com/grand282)
+- [@grand282](https://github.com/grand282)
 
 - [@Kaushalmohit](https://github.com/kaushal-mohit)
 
@@ -7576,8 +7574,6 @@
 
 - [@Tariqhusainkhan](https://github.com/TariqHusainKhan)
 
-- [@Tarunarawat)]()
-
 - [@Tarunkamboj](https://github.com/Tarun-Kamboj)
 
 - [@Tarunmankar](https://github.com/tarunmankar)
@@ -7591,8 +7587,6 @@
 - [@Tatanoc92](https://github.com/tatanoc92)
 
 - [@Tatianabuiucli](https://github.com/tatianabuiucli)
-
-- [@Taufeeqnoamaan]()
 
 - [@Tavettehepburn](https://github.com/TavetteHepburn)
 
