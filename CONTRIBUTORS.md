@@ -242,6 +242,8 @@
 
 - [@Akhiranandan](https://github.com/akhiranandan)
 
+- [@Fauz](https://github.com/fauzurraheem)
+
 - [@Akibrahimug](https://github.com/akibrahimug)
 
 - [@Akifunal](https://github.com/akifunal)
