@@ -780,6 +780,8 @@
 
 - [@Blackhacker09](https://github.com/blackhacker09)
 
+- [@djosamy](https://github.com/djosamy)
+
 - [@Blesiandc](https://github.com/blesiandc)
 
 - [@Blu1337](https://github.com/blu-1337)
