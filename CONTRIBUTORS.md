@@ -42,6 +42,8 @@
 
 - [@1998Rtran](https://github.com/1998rtran/)
 
+- [@cout-sid](https://github.com/cout-sid)
+
 - [@1C0Der](https://github.com/@1C0DER)
 
 - [@1Chrish1](https://github.com/1ChrisH1)
@@ -4782,6 +4784,8 @@
 
 - [@Mbizo1](https://github.com/mbizo1)
 
+-[@longoriae-314](https://github.com/longoriae-314)
+
 - [@Mchokhaw](https://github.com/mchokhaw)
 
 - [@Mckinley27](https://github.com/mckinleyforster)
@@ -8716,3 +8720,7 @@
 - [@SamuelNarh](https://github.com/SamuelNarh)
 
 - [@daanwNL](https://github.com/daanwNL)
+
+- [@Johnny-gomes](https://github.com/Johnny-gomes)
+
+- [@Aditya7-grover](https://github.com/Aditya7-grover)
