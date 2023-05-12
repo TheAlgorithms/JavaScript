@@ -42,6 +42,8 @@
 
 - [@1998Rtran](https://github.com/1998rtran/)
 
+- [@cout-sid](https://github.com/cout-sid)
+
 - [@1C0Der](https://github.com/@1C0DER)
 
 - [@1Chrish1](https://github.com/1ChrisH1)
