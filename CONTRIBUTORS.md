@@ -774,6 +774,8 @@
 
 - [@Birukn](https://github.com/Biruk-N)
 
+- [@sergii-smagin](https://github.com/sergii-smagin)
+
 - [@Birvagangurde](https://github.com/birvagangurde)
 
 - [@Bkmotoz](https://github.com/BKmotoz)
