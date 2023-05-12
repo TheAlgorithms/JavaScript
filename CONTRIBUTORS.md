@@ -8640,17 +8640,17 @@
 
 - [@Ismalure12](https://https://github.com/Ismalure12)
 
-- [@kaiwalya-07] (https://github.com/kaiwalya-07)
+- [@kaiwalya-07](https://github.com/kaiwalya-07)
 
-- [@AlinaShevelev] (https://github.com/AlinaShevelev)
+- [@AlinaShevelev](https://github.com/AlinaShevelev)
 
 - [@aryanverma3009](https://github.com/aryanverma3009)
 
-- [@Catalin404] (https://github.com/Catalin404)
+- [@Catalin404](https://github.com/Catalin404)
 
-- [@jackhzinn] (https://github.com/jackhzinn)
+- [@jackhzinn](https://github.com/jackhzinn)
 
-- [@aisafaith] (https://github.com/aisafaith)
+- [@aisafaith](https://github.com/aisafaith)
 
 - [@ZeeCleaner](https://github.com/ZeeCleaner)
 
@@ -8660,7 +8660,7 @@
 
 - [@Ali0ink](https://github.com/Ali0ink)
 
-- [@mejiab4494] (https://github.com/mejiab4494)
+- [@mejiab4494](https://github.com/mejiab4494)
 
 - [@Nikitazer0s](https://github.com/Nikitazer0s)
 
@@ -8678,17 +8678,18 @@
 
 - [@dbaran95](https://github.com/dbaran95)
 
+- [@azrihell](https://github.com/Azrihell)
+
 - [@azizomar9](https://github.com/azizomar9)
 
 - [@mpeterson8290](https://github.com/mpeterson8290)
 
--[@ashrafb1](https://github.com/ashrafb1)
+- [@ashrafb1](https://github.com/ashrafb1)
 
--[@a-yazbek](https://github.com/a-yazbek)
+- [@a-yazbek](https://github.com/a-yazbek)
 
--[@prathamesh2503](https://github.com/prathamesh2503)
+- [@prathamesh2503](https://github.com/prathamesh2503)
 
--[@jeks95](https://github.com/jeks95)
+- [@jeks95](https://github.com/jeks95)
 
--[@SamuelNarh](https://github.com/SamuelNarh)
-
+- [@SamuelNarh](https://github.com/SamuelNarh)
