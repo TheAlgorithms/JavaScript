@@ -8678,10 +8678,11 @@
 
 - [@dbaran95](https://github.com/dbaran95)
 
-
 - [@azizomar9](https://github.com/azizomar9
 
 - [@Hei-Chunhei](https://github.com/Hei-Chunhei)
+
+- [@azrihell](https://github.com/Azrihell)
 
 - [@azizomar9](https://github.com/azizomar9)
 
@@ -8697,3 +8698,10 @@
 
 - [@SamuelNarh](https://github.com/SamuelNarh)
 
+- [@a-yazbek](https://github.com/a-yazbek)
+
+- [@prathamesh2503](https://github.com/prathamesh2503)
+
+- [@jeks95](https://github.com/jeks95)
+
+- [@SamuelNarh](https://github.com/SamuelNarh)
