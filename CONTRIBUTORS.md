@@ -48,6 +48,8 @@
 
 - [@1Chrish1](https://github.com/1ChrisH1)
 
+-[@joydas-123](https://github.com/joydas-123)
+
 - [@3Gruby](https://github.com/3GRuby)
 
 - [@5P7Ro0T](https://github.com/5p7Ro0t)
@@ -8724,3 +8726,9 @@
 - [@Johnny-gomes](https://github.com/Johnny-gomes)
 
 - [@Aditya7-grover](https://github.com/Aditya7-grover)
+
+- [@Jaspriyakaur](https://github.com/Jaspriyakaur)
+
+-[@elena-emma](https://github.com/elena-emma)
+
+-[@jmeresma](https://github.com/jmeresma/)
