@@ -166,6 +166,10 @@ describe('SinglyLinkedList', () => {
 
     list.addFirst(30)
     expect(list.tail()).toBe(20)
+
+    // check for a falsy tail data
+    list.addLast(false)
+    expect(list.tail()).toBe(false)
   })
 
   it('Check size', () => {

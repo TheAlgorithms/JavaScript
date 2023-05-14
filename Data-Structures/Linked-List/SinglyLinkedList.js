@@ -45,7 +45,7 @@ class LinkedList {
 
   // Returns the tail
   tail () {
-    return this.tailNode?.data || null
+    return this.tailNode?.data ?? null
   }
 
   // Return if the list is empty
