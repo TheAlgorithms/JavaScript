@@ -7040,6 +7040,8 @@
 
 - [@Shaunandgemma](https://github.com/shaunandgemma/)
 
+- [@shawndrake2](http://github.com/shawndrake2)
+
 - [@Shawnjamil](https://github.com/shawnjamil)
 
 - [@Shawnspancer](https://github.com/shawn-spancer)
@@ -8736,3 +8738,5 @@
 -[@jmeresma](https://github.com/jmeresma/)
 
 -[@abdi-123](https://github.com/@abdi-123/)
+
+-[@KK-Karan](https://github.com/KK-Karan)
