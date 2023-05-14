@@ -7040,6 +7040,8 @@
 
 - [@Shaunandgemma](https://github.com/shaunandgemma/)
 
+- [@shawndrake2](http://github.com/shawndrake2)
+
 - [@Shawnjamil](https://github.com/shawnjamil)
 
 - [@Shawnspancer](https://github.com/shawn-spancer)
@@ -8721,6 +8723,8 @@
 
 - [@SamuelNarh](https://github.com/SamuelNarh)
 
+- [@Vinod-AI](https://github.com/Vinod-AI)
+
 - [@daanwNL](https://github.com/daanwNL)
 
 - [@Johnny-gomes](https://github.com/Johnny-gomes)
@@ -8729,8 +8733,13 @@
 
 - [@Jaspriyakaur](https://github.com/Jaspriyakaur)
 
--[@elena-emma](https://github.com/elena-emma)
+- [@elena-emma](https://github.com/elena-emma)
 
--[@jmeresma](https://github.com/jmeresma/)
+- [@jmeresma](https://github.com/jmeresma/)
 
--[@Abdifatah-said](https://github.com/Abdifatah-said/)
+- [@Abdifatah-said](https://github.com/Abdifatah-said/)
+
+- [@abdi-123](https://github.com/@abdi-123/)
+
+- [@KK-Karan](https://github.com/KK-Karan)
+
