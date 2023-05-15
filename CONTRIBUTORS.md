@@ -1400,6 +1400,8 @@
 
 - [@Danielpimentel00](https://github.com/danielpimentel00)
 
+-[@daniel1david](https://github.com/daniel1david)
+
 - [@Danielvierh](https://github.com/DanielVierh)
 
 - [@Danijelsvk](https://github.com/DanijelSVK)
