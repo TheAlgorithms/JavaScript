@@ -8772,7 +8772,7 @@
 
 - [@NatS42](https://github.com/NatS42/)
 
-- [@NatS42](https://github.com/NatS42/)
+- [@brunolota](https://github.com/brunolota/)
 
 - [@xCarter93](https://github.com/xCarter93)
 
@@ -8780,4 +8780,4 @@
 
 - [@aleksandrajk](https://github.com/aleksandrajk/)
 
-[@KAbdullah](https://github.com/KAbdullah/)
+- [@KAbdullah](https://github.com/KAbdullah/)
