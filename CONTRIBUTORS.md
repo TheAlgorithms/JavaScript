@@ -8770,7 +8770,14 @@
 
 - [@VTumkur](https://github.com/VTumkur)
 
+- [@NatS42](https://github.com/NatS42/)
 
--[@NatS42](https://github.com/NatS42/)
--[@brunolota](https://github.com/brunolota/)
+- [@brunolota](https://github.com/brunolota/)
 
+- [@xCarter93](https://github.com/xCarter93)
+
+- [@rmoloney96](https://github.com/rmoloney96/)
+
+- [@aleksandrajk](https://github.com/aleksandrajk/)
+
+- [@KAbdullah](https://github.com/KAbdullah/)
