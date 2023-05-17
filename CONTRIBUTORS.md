@@ -8744,6 +8744,8 @@
 
 - [@Jaspriyakaur](https://github.com/Jaspriyakaur)
 
+- [@Panbear1983](https://github.com/Panbear1983)
+
 - [@elena-emma](https://github.com/elena-emma)
 
 - [@jmeresma](https://github.com/jmeresma/)
@@ -8756,15 +8758,19 @@
 
 - [@KK-Karan](https://github.com/KK-Karan)
 
--[@samrudhi03](https://github.com/samrudhi03)
+- [@samrudhi03](https://github.com/samrudhi03)
 
--[@swapy96](https://github.com/swapy96)
+- [@swapy96](https://github.com/swapy96)
 
 - [anandaffaA](https://github.com/anandaffA)
 
 - [@azurize](https://github.com/azurize)
 
+- [@Demzy2022](https://github.com/Demzy2022)
+
 - [@VTumkur](https://github.com/VTumkur)
+
 
 -[@NatS42](https://github.com/NatS42/)
 -[@brunolota](https://github.com/brunolota/)
+
