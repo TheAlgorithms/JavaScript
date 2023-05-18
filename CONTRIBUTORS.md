@@ -5134,7 +5134,7 @@
 
 - [@Moremilktea](https://github.com/Moremilktea)
 
-- [@Morganejla](https://github.com/MorganEJLA/)
+- [@Morganejla](https://github.com/MorganEJLA)
 
 - [@Morganjay](https://github.com/MorganJay/)
 
