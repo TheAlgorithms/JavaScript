@@ -2,6 +2,8 @@
 
 - [@0xWebMilk](https://github.com/0xWebMilk)
 
+- [@yashdesoi](https://github.com/yashdesoi)
+
 - [@Criezc](https://github.com/Criezc)
 
 - [@mwinmanassawin](https://github.com/mwinmanassawin)
