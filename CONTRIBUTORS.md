@@ -16,6 +16,8 @@
 
 - [@Festivemena](https://github.com/Festivemena)
 
+- [@Hyper-terminal](https://github.com/hyper-terminal)
+
 - [@chandu0077](https://github.com/chandu0077)
 
 - [@05Maelket](https://github.com/05Maelket)
