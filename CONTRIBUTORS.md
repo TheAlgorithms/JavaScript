@@ -26,6 +26,8 @@
 
 - [@0Xmrtt](https://github.com/0xMRTT)
 
+- [@muhannad-alobaidi](https://github.com/muhannad-alobaidi)
+
 - [@0Xsilkweave](https://github.com/0xSilkweave)
 
 - [@0Xwebmilk](https://github.com/0xwebmilk)
