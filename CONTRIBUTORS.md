@@ -250,6 +250,8 @@
 
 - [@Akashchauhan](https://github.com/AkashChauhan111)
 
+- [@MarkTLite](https://github.com/MarkTLite)
+
 - [@Akashkumarsinha](https://github.com/Akash-KumarSinha)
 
 - [@Akc302](https://github.com/akc302)
@@ -5876,6 +5878,8 @@
 
 - [@Peixotons](https://github.com/peixotons/)
 
+- [@Pradnya136](https://github.com/Pradnya136)
+
 - [@Pel89](https://github.com/Pel89)
 
 - [@Pelumiolawole](https://github.com/pelumiolawole)
@@ -8704,6 +8708,8 @@
 
 - [@Nikitazer0s](https://github.com/Nikitazer0s)
 
+- [@shreevaths1](https://github.com/shreevaths1)
+
 - [@Annelisseishere](https://github.com/Annelisseishere)
 
 - [@conorkz](https://github.com/conorkz)
@@ -8814,12 +8820,14 @@
 
 - [@saidulsaikat](https://github.com/saidulsaikat/)
 
-- [JUANCA99COL] (https://github.com/JUANCA99COL/)
+- [JUANCA99COL](https://github.com/JUANCA99COL/)
 
 - [@markuzkuz](https://github.com/markuzkuz/)
 
 - [@walidham](https://github.com/walidham/)
+
 - [@josealarconchacon](https://github.com/josealarconchacon)
+
 - [@Karthikoffl](https://github.com/Karthikoffl)
 
 - [@arooj-12](https://github.com/arooj-12/)
@@ -8828,4 +8836,7 @@
 
 - [@Camerlia](https://github.com/Camerlia/)
 
--[@ronsamboise] (https://github.com/ronsamboise)
+- [@ronsamboise](https://github.com/ronsamboise)
+
+- [@Heroeskeeper](https://github.com/Heroeskeeper/)
+
