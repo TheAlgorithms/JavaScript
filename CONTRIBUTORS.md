@@ -8820,12 +8820,14 @@
 
 - [@saidulsaikat](https://github.com/saidulsaikat/)
 
-- [JUANCA99COL] (https://github.com/JUANCA99COL/)
+- [JUANCA99COL](https://github.com/JUANCA99COL/)
 
 - [@markuzkuz](https://github.com/markuzkuz/)
 
 - [@walidham](https://github.com/walidham/)
+
 - [@josealarconchacon](https://github.com/josealarconchacon)
+
 - [@Karthikoffl](https://github.com/Karthikoffl)
 
 - [@arooj-12](https://github.com/arooj-12/)
@@ -8833,4 +8835,8 @@
 - [@Ethanwelz](https://github.com/Ethanwelz/)
 
 - [@Camerlia](https://github.com/Camerlia/)
+
+- [@ronsamboise](https://github.com/ronsamboise)
+
 - [@Heroeskeeper](https://github.com/Heroeskeeper/)
+
