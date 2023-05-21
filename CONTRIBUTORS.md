@@ -1014,6 +1014,8 @@
 
 - [@Cdxawesome](https://github.com/cdxawesome)
 
+- [@cdturizo15](https://github.com/cdturizo15)
+
 - [@Cebenermaake](https://github.com/cebener-maake)
 
 - [@Cedricahenkorah](https://github.com/cedricahenkorah/)
