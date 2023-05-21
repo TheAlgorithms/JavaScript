@@ -1014,6 +1014,8 @@
 
 - [@Cdxawesome](https://github.com/cdxawesome)
 
+- [@cdturizo15](https://github.com/cdturizo15)
+
 - [@Cebenermaake](https://github.com/cebener-maake)
 
 - [@Cedricahenkorah](https://github.com/cedricahenkorah/)
@@ -8847,4 +8849,6 @@
 - [@Ashish](https://github.com/Ashish93-mrx/)
 
 - [@Owenzo7](https://github.com/Owenzo7/)
+
+- [@MMasterMy](https://github.com/MMasterMy/)
 
