@@ -1302,6 +1302,8 @@
 
 - [@Craftpine](https://github.com/craftpine)
 
+- [@CrazyMint](https://github.com/CrazyMint)
+
 - [@Cricri777](https://github.com/cricri777)
 
 - [@Criscaldeiraa](https://github.com/criscaldeiraa)
