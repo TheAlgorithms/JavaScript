@@ -8862,6 +8862,8 @@
 
 - [@munibiq](https://github.com/munibiq)
 
+- [@yourfellajazz] (https://github.com/yourfelljazz/)
+
 - [@Amine-Mhiri](https://github.com/Amine-Mhiri/)
 
 - [@VTdevelops](https://github.com/VTdevelops/)
