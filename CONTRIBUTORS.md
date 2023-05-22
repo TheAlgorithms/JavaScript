@@ -4012,6 +4012,8 @@
 
 - [@Kishky101](https://github.com/kishky101)
 
+- [@Obafunshy](https://github.com/Obafunshy)
+
 - [@Kissakoskoppany](https://github.com/KissAkosKoppany)
 
 - [@Kitkatnik](https://github.com/Kitkatnik)
@@ -8851,4 +8853,14 @@
 - [@Owenzo7](https://github.com/Owenzo7/)
 
 - [@MMasterMy](https://github.com/MMasterMy/)
+
+- [@MMasterMy](https://github.com/MMasterMy/)
+
+- [@alincz](https://github.com/alincz)
+
+- [@munibiq](https://github.com/munibiq)
+
+- [@Amine-Mhiri](https://github.com/Amine-Mhiri/)
+
+- [@Raguna9](https://github.com/Raguna9/)
 
