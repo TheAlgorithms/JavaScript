@@ -8866,4 +8866,6 @@
 
 - [@Raguna9](https://github.com/Raguna9/)
 
+- [@miguelDalberto](https://github.com/miguelDalberto)
 
+- [@ogorei](https://github.com/ogorei)
