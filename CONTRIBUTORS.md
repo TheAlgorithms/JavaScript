@@ -648,6 +648,8 @@
 
 - [@Bacoburn93](https://github.com/BACoburn93)
 
+- [@bbauer82](https://github.com/bbauer82)
+
 - [@Baje99](https://github.com/Baje99)
 
 - [@Bakasajoshua](https://github.com/bakasajoshua)
