@@ -8812,6 +8812,8 @@
 
 - [@brunolota](https://github.com/brunolota/)
 
+- [@keitqr](https://github.com/keitqr)
+
 - [@xCarter93](https://github.com/xCarter93)
 
 - [@rmoloney96](https://github.com/rmoloney96/)
@@ -8899,5 +8901,6 @@
 - [@Betelgeuse1979](https://github.com/Betelgeuse1979)
 
 - [@yashp4858](https://github.com/yashp4858)
+
 
 
