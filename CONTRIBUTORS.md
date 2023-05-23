@@ -4800,6 +4800,8 @@
 
 - [@Mayanknasa](https://github.com/mayanknasa)
 
+- [@Strategos1](https://github.com/Strategos1)
+
 - [@Mayapik](https://github.com/MayaPik)
 
 - [@Mayheptad](https://github.com/Mayheptad)
