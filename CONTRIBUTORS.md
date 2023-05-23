@@ -648,6 +648,8 @@
 
 - [@Bacoburn93](https://github.com/BACoburn93)
 
+- [@bbauer82](https://github.com/bbauer82)
+
 - [@Baje99](https://github.com/Baje99)
 
 - [@Bakasajoshua](https://github.com/bakasajoshua)
@@ -1301,6 +1303,8 @@
 - [@Cquinsay](http://github.com/cquinsay/)
 
 - [@Craftpine](https://github.com/craftpine)
+
+- [@CrazyMint](https://github.com/CrazyMint)
 
 - [@Cricri777](https://github.com/cricri777)
 
@@ -8862,6 +8866,8 @@
 
 - [@munibiq](https://github.com/munibiq)
 
+- [@yourfellajazz] (https://github.com/yourfelljazz/)
+
 - [@Amine-Mhiri](https://github.com/Amine-Mhiri/)
 
 - [@VTdevelops](https://github.com/VTdevelops/)
@@ -8882,4 +8888,5 @@
 
 - [@pbrearton94](https://github.com/pbrearton94)
 
+- [@Betelgeuse1979](https://github.com/Betelgeuse1979)
 
