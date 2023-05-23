@@ -648,6 +648,8 @@
 
 - [@Bacoburn93](https://github.com/BACoburn93)
 
+- [@bbauer82](https://github.com/bbauer82)
+
 - [@Baje99](https://github.com/Baje99)
 
 - [@Bakasajoshua](https://github.com/bakasajoshua)
@@ -2003,6 +2005,8 @@
 - [@Elizabethkatk](https://github.com/elizabethkatk)
 
 - [@Elkmar](https://github.com/Elkmar)
+
+- [@elmiang](https://github.com/elmiang)
 
 - [@Eloquentprogrammer](https://github.com/eloquent-programmer)
 
@@ -4937,6 +4941,8 @@
 - [@Migfra1](https://github.com/migfra1/)
 
 - [@Miguelcsvanzela](https://github.com/MiguelCSVanzela/)
+
+- [@Betelgeuse1979](https://github.com/Betelgeuse1979)
 
 - [@Miguelpenagithub](https://github.com/miguelpena-github/)
 
@@ -8862,7 +8868,7 @@
 
 - [@munibiq](https://github.com/munibiq)
 
-- [@yourfellajazz] (https://github.com/yourfelljazz/)
+- [@yourfellajazz](https://github.com/yourfelljazz/)
 
 - [@Amine-Mhiri](https://github.com/Amine-Mhiri/)
 
@@ -8885,3 +8891,13 @@
 - [@pbrearton94](https://github.com/pbrearton94)
 
 - [@dhia.88](https://github.com/dhia88)
+
+- [@hanieh73](https://github.com/Hanieh73)
+
+- [@pbrearton94](https://github.com/pbrearton94)
+
+- [@Betelgeuse1979](https://github.com/Betelgeuse1979)
+
+- [@yashp4858](https://github.com/yashp4858)
+
+
