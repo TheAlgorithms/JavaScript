@@ -2006,6 +2006,8 @@
 
 - [@Elkmar](https://github.com/Elkmar)
 
+- [@elmiang](https://github.com/elmiang)
+
 - [@Eloquentprogrammer](https://github.com/eloquent-programmer)
 
 - [@Elvinyeka](https://github.com/elvinyeka)
@@ -8866,7 +8868,7 @@
 
 - [@munibiq](https://github.com/munibiq)
 
-- [@yourfellajazz] (https://github.com/yourfelljazz/)
+- [@yourfellajazz](https://github.com/yourfelljazz/)
 
 - [@Amine-Mhiri](https://github.com/Amine-Mhiri/)
 
@@ -8882,11 +8884,13 @@
 
 - [@11aghayan](https://github.com/11aghayan)
 
--[@Mwendwa88](https://github.com/Mwendwa88)
+- [@Mwendwa88](https://github.com/Mwendwa88)
 
-[@hanieh73](https://github.com/Hanieh73)
+- [@hanieh73](https://github.com/Hanieh73)
 
 - [@pbrearton94](https://github.com/pbrearton94)
 
 - [@Betelgeuse1979](https://github.com/Betelgeuse1979)
+
+-[@yashp4858](https://github.com/yashp4858)
 
