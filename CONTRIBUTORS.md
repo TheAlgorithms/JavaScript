@@ -4,6 +4,8 @@
 
 - [@yashdesoi](https://github.com/yashdesoi)
 
+- [@vickneee](https://github.com/vickneee)
+
 - [@Criezc](https://github.com/Criezc)
 
 - [@mwinmanassawin](https://github.com/mwinmanassawin)
