@@ -4,6 +4,8 @@
 
 - [@yashdesoi](https://github.com/yashdesoi)
 
+- [@vickneee](https://github.com/vickneee)
+
 - [@Criezc](https://github.com/Criezc)
 
 - [@mwinmanassawin](https://github.com/mwinmanassawin)
@@ -4704,6 +4706,8 @@
 
 - [@Martinburton](https://github.com/MartinBurton)
 
+- [@geekAnanya](https://github.com/geekananya)
+
 - [@Martincorona007](https://github.com/martincorona007)
 
 - [@Martinlednar](https://github.com/MartinLednar)
@@ -4799,6 +4803,8 @@
 - [@Mayank1170](https://github.com/Mayank1170)
 
 - [@Mayanknasa](https://github.com/mayanknasa)
+
+- [@Strategos1](https://github.com/Strategos1)
 
 - [@Mayapik](https://github.com/MayaPik)
 
@@ -8272,6 +8278,8 @@
 
 - [@Waldemarhermann](https://github.com/waldemarhermann)
 
+- [@julycrystal](https://github.com/julycrystal)
+
 - [@Waldermx](https://github.com/waldermx)
 
 - [@Waltqiii](https://github.com/WaltQIII)
@@ -8812,6 +8820,8 @@
 
 - [@brunolota](https://github.com/brunolota/)
 
+- [@keitqr](https://github.com/keitqr)
+
 - [@xCarter93](https://github.com/xCarter93)
 
 - [@rmoloney96](https://github.com/rmoloney96/)
@@ -8899,4 +8909,15 @@
 - [@Betelgeuse1979](https://github.com/Betelgeuse1979)
 
 - [@yashp4858](https://github.com/yashp4858)
+
 - [@shotatsertsvadze](https://github.com/shotatsertsvadze)
+
+- [@NehalSurti](https://github.com/NehalSurti)
+
+- [@goodwin-christopher](https://github.com/goodwin-christopher)
+
+- [@crocmons](https://github.com/crocmons)
+
+- [@SeattleSlough](https://github.com/SeattleSloughgit s)
+
+- [@JOVGUE](https://github.com/JOVGUE)
