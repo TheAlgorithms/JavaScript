@@ -4,6 +4,8 @@
 
 - [@yashdesoi](https://github.com/yashdesoi)
 
+- [@vickneee](https://github.com/vickneee)
+
 - [@Criezc](https://github.com/Criezc)
 
 - [@mwinmanassawin](https://github.com/mwinmanassawin)
@@ -8912,5 +8914,6 @@
 
 - [@goodwin-christopher](https://github.com/goodwin-christopher)
 - [@crocmons](https://github.com/crocmons)
+
 
 - [@SeattleSlough](https://github.com/SeattleSloughgit s)
