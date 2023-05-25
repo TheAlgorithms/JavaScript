@@ -1724,6 +1724,8 @@
 
 - [@Dinopoblete](https://github.com/dino-poblete/)
 
+- [@VivekRaj212](https://github.com/VivekRaj212)
+
 - [@Diogoleitef](https://github.com/DiogoLeiteF/)
 
 - [@Diogoson11](https://github.com/diogoson11)
@@ -4774,6 +4776,8 @@
 
 - [@Maurice972](https://github.com/Maurice972)
 
+- [@bytebyrd](https://github.com/bytebyrd)
+
 - [@Mauriciomatos96](https://github.com/mauriciomatos96)
 
 - [@Mauriciotorresl](https://github.com/Mauricio-Torresl/)
@@ -5935,6 +5939,8 @@
 - [@Philipbeauford](https://github.com/PhilipBeauford)
 
 - [@Philipbos](https://github.com/Philip-Bos)
+
+- [@aanseev](https://github.com/aanseev/)
 
 - [@Philling1](https://github.com/philling1)
 
@@ -8925,4 +8931,10 @@
 - [@SeattleSlough](https://github.com/SeattleSloughgit s)
 
 - [@JOVGUE](https://github.com/JOVGUE)
+
+- [@usmancmd](https://github.com/usmancmd)
+
+- [@sheikh-shakir](https://github.com/sheikh-shakir)
+
+- [@Carl4WebDev](https://github.com/Carl4WebDev)
 
