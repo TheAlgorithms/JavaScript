@@ -4774,6 +4774,8 @@
 
 - [@Maurice972](https://github.com/Maurice972)
 
+- [@bytebyrd](https://github.com/bytebyrd)
+
 - [@Mauriciomatos96](https://github.com/mauriciomatos96)
 
 - [@Mauriciotorresl](https://github.com/Mauricio-Torresl/)
