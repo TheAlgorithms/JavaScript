@@ -1724,6 +1724,8 @@
 
 - [@Dinopoblete](https://github.com/dino-poblete/)
 
+- [@VivekRaj212](https://github.com/VivekRaj212)
+
 - [@Diogoleitef](https://github.com/DiogoLeiteF/)
 
 - [@Diogoson11](https://github.com/diogoson11)
