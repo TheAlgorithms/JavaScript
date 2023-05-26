@@ -8950,25 +8950,25 @@
 
 - [@emadchy](https://github.com/emadchy)
 
--[@gradito](https://github.com/gradito)
+- [@gradito](https://github.com/gradito)
 
--[@emadchy](https://github.com/emadchy)
+- [@emadchy](https://github.com/emadchy)
 
--[@lpkyrius](https://github.com/lpkyrius/)
+- [@lpkyrius](https://github.com/lpkyrius/)
 
--[@Stadtmi99](https://github.com/Stadtmi99/)
+- [@Stadtmi99](https://github.com/Stadtmi99/)
 
--[@Pylos7](https://github.com/Pylos7)
+- [@Pylos7](https://github.com/Pylos7)
 
--[@bibaswanchakma02](https://github.com/bibaswanchakma02)
+- [@bibaswanchakma02](https://github.com/bibaswanchakma02)
 
--[mrcamjo12](https://github.com/mrcamjo12)
+- [mrcamjo12](https://github.com/mrcamjo12)
 
--[@Debradoo](https://github.com/Debradoo/)
+- [@Debradoo](https://github.com/Debradoo/)
 
--[@wladka99](https://github.com/wladka99/)
+- [@wladka99](https://github.com/wladka99/)
 
-<<<<<<< HEAD
--[@g3njac](https://github.com/g3njac)
-=======
->>>>>>> 110454f76ac7ba609274a9d11c5d79ddcad5c672
+- [@g3njac](https://github.com/g3njac)
+
+- [@Tatakoms](https://github.com/Tatakoms)
+
