@@ -14,6 +14,8 @@
 
 - [@02Fede02](https://github.com/02fede02)
 
+- [@Sahil-Choudhary-17](https://github.com/Sahil-Choudhary-17)
+
 - [@akpbadnawar](https://github.com/akpbadnawar)
 
 - [@Festivemena](https://github.com/Festivemena)
@@ -4207,6 +4209,8 @@
 - [@Lajatto](https://github.com/Lajatto)
 
 - [@Lakintosh](https://github.com/lakintosh)
+
+- [@softdeveloper23](https://github.com/softdeveloper23)
 
 - [@Lakshya3119](https://github.com/Lakshya3119)
 
@@ -8961,4 +8965,6 @@
 -[mrcamjo12](https://github.com/mrcamjo12)
 
 -[@Debradoo](https://github.com/Debradoo/)
+
+-[@wladka99](https://github.com/wladka99/)
 
