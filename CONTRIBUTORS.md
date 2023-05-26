@@ -14,6 +14,8 @@
 
 - [@02Fede02](https://github.com/02fede02)
 
+- [@Sahil-Choudhary-17](https://github.com/Sahil-Choudhary-17)
+
 - [@akpbadnawar](https://github.com/akpbadnawar)
 
 - [@Festivemena](https://github.com/Festivemena)
