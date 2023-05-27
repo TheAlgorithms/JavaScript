@@ -4064,6 +4064,8 @@
 
 - [@Kodkod10](https://github.com/Kodkod10/)
 
+- [@Josephiscoding](https://github.com/Josephiscoding/)
+
 - [@Kogbuokiri02](https://github.com/kogbuokiri02)
 
 - [@Koknikol](https://github.com/koknikol)
@@ -8973,4 +8975,8 @@
 - [@Tatakoms](https://github.com/Tatakoms)
 
 - [@muteeb5494](https://github.com/Muteeb5494)
+
+- [@wladka99](https://github.com/wladka99/)
+
+- [@Lici0nT3ch](https://github.com/Lici0nT3ch)
 
