@@ -8934,6 +8934,8 @@
 
 - [@KKoichi276052](https://github.com/KKoichi276052)
 
+- [@Arimzpromise](https://github.com/Arimzpromise)
+
 - [@goodwin-christopher](https://github.com/goodwin-christopher)
 
 - [@crocmons](https://github.com/crocmons)
