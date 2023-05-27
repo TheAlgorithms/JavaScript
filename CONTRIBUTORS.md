@@ -8974,3 +8974,6 @@
 
 - [@Tatakoms](https://github.com/Tatakoms)
 
+- [@wladka99](https://github.com/wladka99/)
+
+- [@Lici0nT3ch](https://github.com/Lici0nT3ch)
