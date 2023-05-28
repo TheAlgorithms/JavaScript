@@ -262,6 +262,8 @@
 
 - [@Akashkumarsinha](https://github.com/Akash-KumarSinha)
 
+- [@jahcoderson](https://github.com/jahcoderson)
+
 - [@Akc302](https://github.com/akc302)
 
 - [@Akhilpokuri](https://github.com/akhilpokuri)
