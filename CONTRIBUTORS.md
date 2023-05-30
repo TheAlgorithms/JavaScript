@@ -7672,6 +7672,8 @@
 
 - [@Tanxveer](https://github.com/tanxveer)
 
+- [@Incalescence](https://github.com/incalescence)
+
 - [@Taphadzqa](https://github.com/Taphadzqa)
 
 - [@Tariqhusainkhan](https://github.com/TariqHusainKhan)
@@ -8998,6 +9000,9 @@
 - [@Stephen-Afari](https://github.com/Stephen-Afari)
 
 - [@Sharanya21gs](https://github.com/Sharanya21gs)
+
+- [@Kiruthika71](https://github.com/Kiruthika71)
+
 - [@cassius2828](https://github.com/cassius2828)
 
 -[@Gaurish10](https://github.com/Gaurish10)
@@ -9012,4 +9017,8 @@
 - [@maomweb](https://github.com/maomweb)
 
 - [@GetLouied](https://github.com/GetLouied)
+
+- [@tracytw](https://github.com/tracytw)
+
+- [@santhinisha](https://github.com/santhinisha/)
 
