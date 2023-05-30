@@ -672,6 +672,8 @@
 
 - [@Azurize](https://github.com/azurize)
 
+- [@Ayumilky](https://github.com/ayumilky)
+
 - [@Bacoburn93](https://github.com/BACoburn93)
 
 - [@Baje99](https://github.com/Baje99)
@@ -8977,4 +8979,3 @@
 - [@🐬Gassims](https://github.com/gassims)
 
 - [linyawun](https://github.com/linyawun)
-
