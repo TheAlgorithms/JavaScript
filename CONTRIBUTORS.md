@@ -74,6 +74,8 @@
 
 - [@Aashigoel](https://github.com/AashiGoel)
 
+- [@nate-py-jp](https://github.com/nate-py-jp)
+
 - [@Aayushkujur](https://github.com/aAYUSHkujur)
 
 - [@Abarthe](https://github.com/abarthe)
