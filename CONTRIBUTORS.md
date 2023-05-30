@@ -5210,6 +5210,8 @@
 
 - [@Moyu597](https://github.com/moyu597)
 
+- [@mparczyk](https://github.com/mparczyk)
+
 - [@Mpbasto](https://github.com/mpbasto)
 
 - [@Mpenkal](https://github.com/mpenkal)
@@ -8830,6 +8832,8 @@
 
 - [anandaffaA](https://github.com/anandaffA)
 
+- [@mattbeglinger](https://github.com/mattbeglinger)
+
 - [@azurize](https://github.com/azurize)
 
 - [@Demzy2022](https://github.com/Demzy2022)
@@ -8996,6 +9000,16 @@
 - [@Sharanya21gs](https://github.com/Sharanya21gs)
 - [@cassius2828](https://github.com/cassius2828)
 
-[@Gaurish10](https://github.com/Gaurish10)
+-[@Gaurish10](https://github.com/Gaurish10)
 
+- [@unnati-0509](https://github.com/unnati-0509)
+
+- [@Nathansteboi](https://github.com/Nathansteboi)
+
+- [@AlexKaramaru](https://github.com/AlexKaramaru)
+
+- [@MaiaMid](https://github.com/MaiaMid)
+- [@maomweb](https://github.com/maomweb)
+
+- [@GetLouied](https://github.com/GetLouied)
 
