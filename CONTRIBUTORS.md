@@ -44,6 +44,8 @@
 
 - [@69966969](https://github.com/69966969)
 
+- [@cesvincent](https://github.com/cesvincent)
+
 - [@7Osny13](https://github.com/7osny13)
 
 - [@8Shagrid](https://github.com/8shagrid)
