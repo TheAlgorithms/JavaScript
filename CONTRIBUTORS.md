@@ -8993,9 +8993,12 @@
 
 - [@Amin-py](https://github.com/Amin-py)
 
--[@Sayandeep16](https://github.com/Sayandeep16)
+- [@Sayandeep16](https://github.com/Sayandeep16)
 
--[@Samim-dev](https://github.com/Samim-dev)
+- [@Samim-dev](https://github.com/Samim-dev)
 
 - [@paulorinze](https://github.com/paulorinze)
+
 - [@mutaremalcolm](https://github.com/mutaremalcolm)
+
+- [@eric-vantunes](https://github.com/eric-vantunes)
