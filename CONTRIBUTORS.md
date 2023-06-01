@@ -1854,6 +1854,8 @@
 
 - [@Dnkoziatek](https://github.com/dnkoziatek)
 
+- [@DocLommi](https://github.com/DocLommi)
+
 - [@Doctorwilliamtroll](https://github.com/DoctorWilliamTroll)
 
 - [@Docum5](https://github.com/docum5)
