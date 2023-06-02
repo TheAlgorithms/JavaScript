@@ -7128,6 +7128,8 @@
 
 - [@Satkar2001](https://github.com/satkar2001)
 
+- [@Satriapamudji](https://github.com/satriapamudji)
+
 - [@Sattarz](https://github.com/Sattar-Z)
 
 - [@Satyxm](https://github.com/Satyxm)
@@ -9037,5 +9039,3 @@
 - [JaseGrable](https://github.com/JaseGrable)
 
 - [@Andrej044](https://github.com/Andrej044)
-
-
