@@ -8340,6 +8340,8 @@
 
 - [@Vaibhavkumartondak](https://github.com/VAIBHAVKUMARTONDAK)
 
+- [@vaibhavharsoda](https://github.com/vaibhavharsoda)
+
 - [@Vaibiz](https://github.com/vaibiz)
 
 - [@Vaidehi2027](https://github.com/Vaidehi2027)
