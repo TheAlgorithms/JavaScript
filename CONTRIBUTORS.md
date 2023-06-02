@@ -14,6 +14,8 @@
 
 - [@0Xwebmilk](https://github.com/0xwebmilk)
 
+- [@alejandrosolf](https://github.com/alejandrosolf)
+
 - [@0Xxerkan](https://github.com/0xXerkan)
 
 - [@0Xzonav](https://github.com/0xZonaV)
@@ -9039,3 +9041,4 @@
 - [JaseGrable](https://github.com/JaseGrable)
 
 - [@Andrej044](https://github.com/Andrej044)
+
