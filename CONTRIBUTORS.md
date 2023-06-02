@@ -1804,6 +1804,8 @@
 
 - [@Diram7096](https://github.com/adiram7096)
 
+- [@manoj-jayapprakash](https://github.com/manoj-jayapprakash)
+
 - [@Dirga89](https://github.com/dirga89)
 
 - [@Dishitahz](https://github.com/dishitahz)
@@ -7128,6 +7130,8 @@
 
 - [@Satkar2001](https://github.com/satkar2001)
 
+- [@Satriapamudji](https://github.com/satriapamudji)
+
 - [@Sattarz](https://github.com/Sattar-Z)
 
 - [@Satyxm](https://github.com/Satyxm)
@@ -8342,6 +8346,8 @@
 
 - [@Vaibhavkumartondak](https://github.com/VAIBHAVKUMARTONDAK)
 
+- [@vaibhavharsoda](https://github.com/vaibhavharsoda)
+
 - [@Vaibiz](https://github.com/vaibiz)
 
 - [@Vaidehi2027](https://github.com/Vaidehi2027)
@@ -9002,6 +9008,16 @@
 
 - [@Sayandeep16](https://github.com/Sayandeep16)
 
+- [@Samim-dev](https://github.com/Samim-dev)
+
+- [@paulorinze](https://github.com/paulorinze)
+
+- [@mutaremalcolm](https://github.com/mutaremalcolm)
+
+- [@ayrtton](https://github.com/ayrtton)
+
+- [@eric-vantunes](https://github.com/eric-vantunes)
+
 - [@pauldzvonyk](https://github.com/pauldzvonyk)
 
 - [@hagverdii](https://github.com/hagverdii)
@@ -9017,3 +9033,12 @@
 - [@mutaremalcolm](https://github.com/mutaremalcolm)
 
 - [@larisama](https://github.com/larisama)
+
+- [@paulorinze](https://github.com/paulorinze)
+
+- [@aznone5](https://github.com/aznone5)
+
+- [JaseGrable](https://github.com/JaseGrable)
+
+- [@Andrej044](https://github.com/Andrej044)
+
