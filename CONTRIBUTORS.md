@@ -8,13 +8,13 @@
 
 - [@08Freyza](https://github.com/08freyza)
 
-- [@alejandrosolf](https://github.com/alejandrosolf)
-
 - [@0Xmrtt](https://github.com/0xMRTT)
 
 - [@0Xsilkweave](https://github.com/0xSilkweave)
 
 - [@0Xwebmilk](https://github.com/0xwebmilk)
+
+- [@alejandrosolf](https://github.com/alejandrosolf)
 
 - [@0Xxerkan](https://github.com/0xXerkan)
 
