@@ -8,6 +8,8 @@
 
 - [@08Freyza](https://github.com/08freyza)
 
+- [@alejandrosolf](https://github.com/alejandrosolf)
+
 - [@0Xmrtt](https://github.com/0xMRTT)
 
 - [@0Xsilkweave](https://github.com/0xSilkweave)
@@ -9015,5 +9017,3 @@
 - [@mutaremalcolm](https://github.com/mutaremalcolm)
 
 - [@larisama](https://github.com/larisama)
-
-
