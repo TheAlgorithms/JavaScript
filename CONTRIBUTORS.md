@@ -7126,6 +7126,8 @@
 
 - [@Satkar2001](https://github.com/satkar2001)
 
+- [@Satriapamudji](https://github.com/satriapamudji)
+
 - [@Sattarz](https://github.com/Sattar-Z)
 
 - [@Satyxm](https://github.com/Satyxm)
@@ -9015,5 +9017,3 @@
 - [@mutaremalcolm](https://github.com/mutaremalcolm)
 
 - [@larisama](https://github.com/larisama)
-
-
