@@ -9004,6 +9004,14 @@
 
 - [@Sayandeep16](https://github.com/Sayandeep16)
 
+- [@Samim-dev](https://github.com/Samim-dev)
+
+- [@paulorinze](https://github.com/paulorinze)
+
+- [@mutaremalcolm](https://github.com/mutaremalcolm)
+
+- [@eric-vantunes](https://github.com/eric-vantunes)
+
 - [@pauldzvonyk](https://github.com/pauldzvonyk)
 
 - [@hagverdii](https://github.com/hagverdii)
