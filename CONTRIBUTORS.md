@@ -120,6 +120,8 @@
 
 - [@Abhishek02121](https://github.com/Abhishek02121)
 
+- [@Ad019El](https://github.com/Ad019El)
+
 - [@Abhishekgoel](https://github.com/abhishek94goel)
 
 - [@Abhishekpatel2528](https://github.com/abhishekpatel2528)
@@ -151,8 +153,6 @@
 - [@Acriscione1](https://github.com/acriscione1)
 
 - [@Actll](https://github.com/actll)
-
-- [@Ad019El](https://github.com/Ad019El)
 
 - [@Adamnick](https://github.com/Adam-Nick)
 
