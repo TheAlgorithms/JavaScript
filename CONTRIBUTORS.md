@@ -62,6 +62,8 @@
 
 - [@Aakarshan369](https://github.com/Aakarshan-369)
 
+- [Ali-Tofiqi](https://github.com/Ali-Tofiqi)
+
 - [@Aakashbansal837](https://github.com/aakashbansal837)
 
 - [@Aakibvah](https://github.com/Aakibvah)
