@@ -8804,6 +8804,8 @@
 
 - [@Xisurthros](https://github.com/Xisurthros)
 
+- [@Xiangyi](https://github.com/xiangyi-zhou)
+
 - [@Xmara](https://github.com/Xmara)
 
 - [@Xmiwon](https://github.com/xmiwon)
