@@ -62,6 +62,10 @@
 
 - [@Aakarshan369](https://github.com/Aakarshan-369)
 
+- [@samiNaourani](https://github.com/samiNaourani)
+
+- [Ali-Tofiqi](https://github.com/Ali-Tofiqi)
+
 - [@Aakashbansal837](https://github.com/aakashbansal837)
 
 - [@Aakibvah](https://github.com/Aakibvah)
@@ -3975,6 +3979,8 @@
 - [@Karat000](https://github.com/karat000)
 
 - [@Kareem42](https://github.com/Kareem42)
+
+- [@Ferro-coder](https://github.com/Ferro-coder)
 
 - [@Kareemmoneeam](https://github.com/KareemMoneeam)
 
@@ -8980,6 +8986,8 @@
 
 - [@Zoroot](https://github.com/zoroot)
 
+- [@zOrOjUrO](https://github.com/zOrOjUrO)
+
 - [@Zosov](https://github.com/ZosoV)
 
 - [@Zsoltremenyi](https://github.com/zsoltremenyi)
@@ -9047,3 +9055,28 @@
 - [@maggiechudik](https://github.com/maggiechudik)
 
 - [@meziszem](https://github.com/meziszem)
+
+- [@Ahesh-A](https://github.com/Ahesh-A)
+
+- [@Anu-techie](https://github.com/anu-techie)
+
+- [@efxlve](https://github.com/efxlve)
+
+- [@peusilva](https://github.com/peusilva)
+
+- [@Prabhleen](https://github.com/shanoo4)
+
+- [@Hrithk-c-a](https://github.com/Hrithik-C-A)
+
+- [@Luzero99](https://github.com/Luzero99)
+
+- [@kaustubh43](https://github.com/kaustubh43)
+
+- [@eric-foster](https://github.com/eric-foster)
+
+- [@ekinkarakoc](https://github.com/ekinkarakoc)
+
+- [@Peterloveprogramming](https://github.com/Peterloveprogramming)
+
+- [@JosePadolina](https://github.com/JosePadolina)
+
