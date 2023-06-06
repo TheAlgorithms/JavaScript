@@ -14,6 +14,8 @@
 
 - [@0Xwebmilk](https://github.com/0xwebmilk)
 
+-[@refrigerated](https://github.com/refrigerated1)
+
 - [@0Xxerkan](https://github.com/0xXerkan)
 
 - [@0Xzonav](https://github.com/0xZonaV)
