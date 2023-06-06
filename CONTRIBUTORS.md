@@ -9103,3 +9103,5 @@
 
 - [@kaitanidis](https://github.com/kaitanidis)
 - [@mikelesnr](https://github.com/Mikelesnr)
+
+- [@FredDurand](https://github.com/FredDurand/)
