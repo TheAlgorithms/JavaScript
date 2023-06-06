@@ -9087,3 +9087,5 @@
 - [@prathmeshgujar](https://github.com/prathmeshgujar)
 
 - [@Lucas-TA](https://github.com/Lucas-TA)
+
+- [@WeSantos](https://github.com/wal-wizard)
