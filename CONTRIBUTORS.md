@@ -17,6 +17,7 @@
 - [@0Xxerkan](https://github.com/0xXerkan)
 
 - [@0Xzonav](https://github.com/0xZonaV)
+- [@refrigerated1](https://github.com/refrigerated1)
 
 - [@RAJESH2132](https://github.com/RAJESH2132)
 
