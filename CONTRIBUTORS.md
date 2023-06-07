@@ -14,9 +14,12 @@
 
 - [@0Xwebmilk](https://github.com/0xwebmilk)
 
+-[@refrigerated](https://github.com/refrigerated1)
+
 - [@0Xxerkan](https://github.com/0xXerkan)
 
 - [@0Xzonav](https://github.com/0xZonaV)
+- [@refrigerated1](https://github.com/refrigerated1)
 
 - [@RAJESH2132](https://github.com/RAJESH2132)
 
@@ -259,6 +262,8 @@
 - [@Akpbadnawar](https://github.com/akpbadnawar)
 
 - [@Akrama23](https://github.com/akrama23)
+
+- [@minhbubi123](https://github.com/minhbubi123)
 
 - [@Aksh978](https://github.com/aksh978)
 
@@ -4828,6 +4833,8 @@
 
 - [@Mansvini](https://github.com/Mansvini)
 
+- [@adithya2018](https://github.com/adithya2018/)
+
 - [@Manuellanderos](https://github.com/manuelLanderos)
 
 - [@Manulthanura](https://github.com/manulthanura)
@@ -5719,6 +5726,8 @@
 - [@Ni5Arga](https://github.com/ni5arga)
 
 - [@Nick1092387456](https://github.com/nick1092387456)
+
+- [@nickabate](https://github.com/nickabate)
 
 - [@Nickygenn](https://github.com/NickygenN1)
 
@@ -9097,4 +9106,13 @@
 - [@williamk19](https://github.com/williamk19)
 
 -[@shayneko](https://github.com/shayneko/)
+
 -[@Ojasvita1305](https://github.com/Ojasvita1305)
+- [@kaitanidis](https://github.com/kaitanidis)
+- [@mikelesnr](https://github.com/Mikelesnr)
+
+- [@FredDurand](https://github.com/FredDurand/)
+- [@madhesh19](https://github.com/madhesh19/)
+
+- [@ajain505](https://github.com/ajain505/)
+
