@@ -3085,7 +3085,7 @@
 
 - [@Hyelnatzz](https://github.com/hyelnatzz)
 
-- [@Hymike](https://github.com/HyMike) practicing github. 
+- [@Hymike](https://github.com/HyMike)
 
 - [@Hyonbokan](https://github.com/hyonbokan)
 
