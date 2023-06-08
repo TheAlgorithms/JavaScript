@@ -13,7 +13,7 @@
 - [@0Xsilkweave](https://github.com/0xSilkweave)
 
 - [@0Xwebmilk](https://github.com/0xwebmilk)
-
+- [#m-fazeel](https://github.com/m-fazeel)
 -[@refrigerated](https://github.com/refrigerated1)
 
 - [@0Xxerkan](https://github.com/0xXerkan)
