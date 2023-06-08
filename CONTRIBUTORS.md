@@ -9107,9 +9107,9 @@
 
 - [@williamk19](https://github.com/williamk19)
 
--[@shayneko](https://github.com/shayneko/)
+- [@shayneko](https://github.com/shayneko/)
 
--[@Ojasvita1305](https://github.com/Ojasvita1305)
+- [@Ojasvita1305](https://github.com/Ojasvita1305)
 
 - [@kaitanidis](https://github.com/kaitanidis)
 
@@ -9124,3 +9124,12 @@
 - [@mfgrcia](https://github.com/mfgrcia/)
 
 - [@mshazim](https://github.com/MShazim)
+
+- [@Khoua28](https://github.com/Khoua28/)
+
+- [@rohitpawar47](https://github.com/rohitpawar47/)
+
+- [@hugodenari-pf](https://github.com/hugodenari-pf/)
+
+- [@SamirSL](https://github.com/SamirSL/)
+
