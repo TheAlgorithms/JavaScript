@@ -9131,5 +9131,7 @@
 
 - [@hugodenari-pf](https://github.com/hugodenari-pf/)
 
+- [@Amethyst2glow](https://github.com/Amethyst2glow/)
+
 - [@SamirSL](https://github.com/SamirSL/)
 
