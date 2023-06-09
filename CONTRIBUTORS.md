@@ -9111,6 +9111,8 @@
 
 - [@williamk19](https://github.com/williamk19)
 
+- [@Raja-Here](https://github.com/Raja-Here/)
+
 - [@shayneko](https://github.com/shayneko/)
 
 - [@Ojasvita1305](https://github.com/Ojasvita1305)
@@ -9139,7 +9141,9 @@
 
 - [@SamirSL](https://github.com/SamirSL/)
 
--[@CagatayAkkas](https://github.com/CagatayAkkas)
+- [@CagatayAkkas](https://github.com/CagatayAkkas)
+
+- [@reyvillenajr](https://github.com/reyvillenajr)
 
 - [@GoluCristian](https://github.com/golucristian22)
 
@@ -9148,6 +9152,10 @@
 - [@biancagabur](https://github.com/biancagabur)
 
 - [@romylomy](https://github.com/romylomy)
+
+- [@andrewandca](https://github.com/andrewandca)
+
+- [@ultimatepau](https://github.com/ultimatepau)
 
 - [@andrewandca](https://github.com/andrewandca)
 
