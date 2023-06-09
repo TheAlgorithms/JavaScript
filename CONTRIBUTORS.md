@@ -13,7 +13,7 @@
 - [@0Xsilkweave](https://github.com/0xSilkweave)
 
 - [@0Xwebmilk](https://github.com/0xwebmilk)
-
+- [#m-fazeel](https://github.com/m-fazeel)
 -[@refrigerated](https://github.com/refrigerated1)
 
 - [@0Xxerkan](https://github.com/0xXerkan)
@@ -996,6 +996,8 @@
 - [@Caffeinecoder25](https://github.com/caffeine-coder25)
 
 - [@Cagomez6](https://github.com/cagomez6)
+
+- [@MycroftDev](https://github.com/MycroftDev)
 
 - [@Caiman16](https://github.com/caiman16)
 
@@ -3520,6 +3522,8 @@
 - [@Jeddstudio](https://github.com/jeddstudio)
 
 - [@Jeddy019](https://github.com/jeddy019)
+
+- [MohamedCheour98](https://github.com/MohamedCheour98) 
 
 - [@Jeelanisharifs](https://github.com/JeelanisharifS)
 
@@ -9137,5 +9141,17 @@
 
 - [@SamirSL](https://github.com/SamirSL/)
 
+- [@CagatayAkkas](https://github.com/CagatayAkkas)
 
+- [@GoluCristian](https://github.com/golucristian22)
+
+- [@AkhilSharma](https://github.com/aAkHilsharma)
+
+- [@biancagabur](https://github.com/biancagabur)
+
+- [@andrewandca](https://github.com/andrewandca)
+
+- [@ultimatepau](https://github.com/ultimatepau)
+
+- [@Hokkyokukou](https://github.com/Hokkyokukou)
 
