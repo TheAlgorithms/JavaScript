@@ -12,6 +12,8 @@
 
 - [@0Xsilkweave](https://github.com/0xSilkweave)
 
+-[@paawanx](https://github.com/paawanx)
+
 - [@0Xwebmilk](https://github.com/0xwebmilk)
 - [#m-fazeel](https://github.com/m-fazeel)
 -[@refrigerated](https://github.com/refrigerated1)
