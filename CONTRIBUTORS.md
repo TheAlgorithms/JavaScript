@@ -2611,6 +2611,8 @@
 
 - [@Georgeo4](https://github.com/georgeO4)
 
+- [@cs50-romain](https://github.com/cs50-romain)
+
 - [@Georgeol](https://github.com/GeorgeOL)
 
 - [@Georgeyjacob](https://github.com/georgeyjacob)
