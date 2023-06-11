@@ -1029,6 +1029,8 @@
 
 - [@Candebarcelo](https://github.com/candebarcelo)
 
+- [@Cander36](https://github.com/cander36)
+
 - [@Candicefdev](https://github.com/candicefdev)
 
 - [@Cankahramann](https://github.com/cankahramann)
@@ -9190,4 +9192,3 @@
 -[@tanvi2104](https://github.com/tanvi2104)
 
 -[@danniel707](https://github.com/danniel707)
-
