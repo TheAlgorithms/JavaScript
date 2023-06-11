@@ -4,6 +4,8 @@
 
 - [@02Fede02](https://github.com/02fede02)
 
+- [@Guilherme-G-Cadilhe](https://github.com/Guilherme-G-Cadilhe)
+
 - [@05Maelket](https://github.com/05Maelket)
 
 - [@08Freyza](https://github.com/08freyza)
