@@ -2043,6 +2043,8 @@
 
 - [@Edwardswisher](https://github.com/edwardswisher)
 
+- [@EdWestfieldJr](https://github.com/edwestfieldjr)
+
 - [@Edwin254Byte](https://github.com/Edwin254-byte)
 
 - [@Edwinmbugua](https://github.com/edwinmbugua)
