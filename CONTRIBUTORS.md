@@ -1,8 +1,18 @@
 # CONTRIBUTORS
 
+- [@#Atef1995](https://github.com/atef1995)
+
+- [@#Bryanrillstone](https://github.com/bryanrillstone)
+
 - [@#Kthao21](https://github.com/kthao21)
 
 - [@#Mfazeel](https://github.com/m-fazeel)
+
+- [@#Rosielee09](https://github.com/rosielee09)
+
+- [@#Roxana412](https://github.com/roxana412)
+
+- [@#Sha888](https://github.com/SHA888)
 
 - [@02Fede02](https://github.com/02fede02)
 
@@ -57,6 +67,8 @@
 - [@=Cristiansanchez14](https://github.com/Cristian-sanchez14)
 
 - [@=Davidsallusti](https://github.com/davidsallusti)
+
+- [@>>>>>>>61F7249Ac45E2E5D3E0D1Eea29029Cc6E81B11D2]()
 
 - [@Aaephraim](https://github.com/aaephraim)
 
@@ -840,7 +852,7 @@
 
 - [@Bharathkonatham](https://github.com/BharathKonatham)
 
-- [@Bhargav596](https://github.com/BHARGAV596/)
+- [@Bhargav596](https://github.com/BHARGAV596)
 
 - [@Bhargavia](https://github.com/BhargaviAnnadevara-MSFT)
 
@@ -1946,7 +1958,7 @@
 
 - [@Dmcneil](https://github.com/d-mcneil)
 
-- [@Dmdbilal](https://github.com/dmdbilal/)
+- [@Dmdbilal](https://github.com/dmdbilal)
 
 - [@Dmwk](https://github.com/DMW-K)
 
@@ -2236,7 +2248,7 @@
 
 - [@Emmagh1](https://github.com/emmaGH1)
 
-- [@Emmaj86](https://github.com/emmaj86/)
+- [@Emmaj86](https://github.com/emmaj86)
 
 - [@Emmanuelkech](https://github.com/emmanuelkech)
 
@@ -2596,7 +2608,7 @@
 
 - [@Frustrabe](https://github.com/frustrabe)
 
-- [@Fseneve](https://github.com/FSeneve/)
+- [@Fseneve](https://github.com/FSeneve)
 
 - [@Ftee97](https://github.com/Iftee97)
 
@@ -3302,7 +3314,7 @@
 
 - [@Imadinglefritz](https://github.com/Imadinglefritz)
 
-- [@Imanirak](https://github.com/imanirak/)
+- [@Imanirak](https://github.com/imanirak)
 
 - [@Imbenox](https://github.com/IMBENOX)
 
@@ -4412,7 +4424,7 @@
 
 - [@Km2002](https://github.com/KM2002)
 
-- [@Km2002(Https://Github.Com/Km2002)](Https://Github.Com/Km2002)
+- [@Km2002(Https://Github.Com/Km2002)](https://github.com/KM2002)
 
 - [@Kmangar](https://github.com/kmangar)
 
@@ -4548,11 +4560,11 @@
 
 - [@Kwassisenam](https://github.com/KwassiSenam)
 
-- [@Kwiczling](https://github.com/K-Wiczling/)
+- [@Kwiczling](https://github.com/K-Wiczling)
 
 - [@Kxmom](https://github.com/kxmom)
 
-- [@Kyanvalipour](https://github.com/kyanvalipour/)
+- [@Kyanvalipour](https://github.com/kyanvalipour)
 
 - [@Kyelindholm](https://github.com/kyelindholm)
 
@@ -5084,7 +5096,7 @@
 
 - [@Mariojean](https://github.com/MarioJean)
 
-- [@Mariomihaly](https://github.com/ajay-er)
+- [@Mariomihaly](https://github.com/MarioMihaly)
 
 - [@Mariyandev](https://github.com/Mariya-N-dev)
 
@@ -6076,7 +6088,7 @@
 
 - [@Nutsr](https://github.com/NutsR)
 
-- [@Nvhung2711](https://github.com/nvhung2711/)
+- [@Nvhung2711](https://github.com/nvhung2711)
 
 - [@Nvsco10](https://github.com/nvsco-10)
 
@@ -6462,7 +6474,7 @@
 
 - [@Pinkdwarf](https://github.com/PinkDwarf)
 
-- [@Pinkhills](https://github.com/PinkHills/)
+- [@Pinkhills](https://github.com/PinkHills)
 
 - [@Pirarku](https://github.com/pirarku)
 
@@ -7500,7 +7512,7 @@
 
 - [@Sayanroy729](https://github.com/Sayan-Roy-729)
 
-- [@Saydou231](https://github.com/Saydou231/)
+- [@Saydou231](https://github.com/Saydou231)
 
 - [@Sayedafnankhazi](https://github.com/Sayed-Afnan-Khazi)
 
@@ -8672,7 +8684,7 @@
 
 - [@Uma998](https://github.com/Uma998)
 
-- [@Umangm17](https://github.com/umangm17/)
+- [@Umangm17](https://github.com/umangm17)
 
 - [@Umar052001](https://github.com/umar052001)
 
@@ -8748,7 +8760,7 @@
 
 - [@Vanessander](https://github.com/vanessander)
 
-- [@Vanessavun](https://github.com/vanessavun/)
+- [@Vanessavun](https://github.com/vanessavun)
 
 - [@Vanha777](https://github.com/vanha777)
 
@@ -8988,7 +9000,7 @@
 
 - [@Wazeefz](https://github.com/wazeefz)
 
-- [@Wcares](https://github.com/wcares/)
+- [@Wcares](https://github.com/wcares)
 
 - [@Wdaryan](https://github.com/W-D-ARYAN/)
 
@@ -9216,7 +9228,7 @@
 
 - [@Ymohammad](https://github.com/ymohammad/)
 
-- [@Ymw0331](https://github.com/ymw0331/)
+- [@Ymw0331](https://github.com/ymw0331)
 
 - [@Yodkwtf](https://github.com/yodkwtf)
 
@@ -9268,7 +9280,7 @@
 
 - [@Yuliakca](https://github.com/yuliaCa)
 
-- [@Yuqingwangcg](https://github.com/YuqingWangCG/)
+- [@Yuqingwangcg](https://github.com/YuqingWangCG)
 
 - [@Yusufkarakaya](https://github.com/yusufkarakaya)
 
