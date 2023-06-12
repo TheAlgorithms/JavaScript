@@ -4300,8 +4300,6 @@
 
 - [@Km2002](https://github.com/KM2002)
 
-- [@Km2002(Https://Github.Com/Km2002)](https://github.com/KM2002)
-
 - [@Kmangar](https://github.com/kmangar)
 
 - [@Kmdshojib](https://github.com/kmdshojib)
