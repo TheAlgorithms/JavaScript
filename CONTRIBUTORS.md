@@ -17,8 +17,7 @@
 - [@paawanx](https://github.com/paawanx)
 
 - [@0Xwebmilk](https://github.com/0xwebmilk)
-- [#m-fazeel](https://github.com/m-fazeel)
--[@refrigerated](https://github.com/refrigerated1)
+- [#m-fazeel](https://github.com/m-fazeel) -[@refrigerated](https://github.com/refrigerated1)
 
 - [@0Xxerkan](https://github.com/0xXerkan)
 
@@ -1504,6 +1503,8 @@
 - [@Danielginting](https://github.com/daniel-ginting)
 
 - [@Danielgluhak](https://github.com/danielgluhak)
+
+- [@danielrfh](https://github.com/danielrfh)
 
 - [@Daniellyfrancis](https://github.com/daniellyfrancis)
 
@@ -3533,7 +3534,7 @@
 
 - [@Jeddy019](https://github.com/jeddy019)
 
-- [MohamedCheour98](https://github.com/MohamedCheour98) 
+- [MohamedCheour98](https://github.com/MohamedCheour98)
 
 - [@Jeelanisharifs](https://github.com/JeelanisharifS)
 
@@ -9178,7 +9179,7 @@
 - [@Hokkyokukou](https://github.com/Hokkyokukou)
 
 - [@vernbhat](https://github.com/vernbhat/)
- 
+
 -[@Hokkyokukou](https://github.com/Hokkyokukou)
 
 -[@maorgigi123](https://github.com/maorgigi123)
