@@ -39,7 +39,7 @@ We don't care if you break things. This is a playground, and we encourage failin
 
    If you run into a **merge conflict**, you have to resolve the conflict. There are a lot of guides online, or you can [watch this tutorial](https://www.youtube.com/watch?v=9ZRb01WhuoE&list=PL2HX_yT71umC0SWrtpzaXt0QzwhWyNI4c&index=4).
 
-6. After adding the upstream and checking that all files are up to date, we now will create new branch before editing any files. There are three ways to do so:
+6. After adding the upstream and checking that all files are up to date, we now will create new branch before editing any files. There are two ways to do so:
 
    ```bash
    git checkout -b <branch-name>
@@ -48,9 +48,6 @@ We don't care if you break things. This is a playground, and we encourage failin
    ```bash
    git branch <branch-name>
    git switch <branch-name>
-   ```
-    ```bash
-   git switch -c <branch-name>
    ```
 
 7. On your computer, open your text editor, and add your name to the `CONTRIBUTORS.md` file.
