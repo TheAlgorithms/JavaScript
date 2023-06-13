@@ -8,6 +8,8 @@
 
 - [@05Maelket](https://github.com/05Maelket)
 
+- [@aaephraim](https://github.com/aaephraim)
+
 - [@08Freyza](https://github.com/08freyza)
 
 - [@0Xmrtt](https://github.com/0xMRTT)
