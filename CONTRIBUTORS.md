@@ -2178,6 +2178,8 @@
 
 - [@Emmaclarem](https://github.com/emmaclarem)
 
+- [@weeliam](https://github.com/weeliam)
+
 - [@Emmagh1](https://github.com/emmaGH1)
 
 - [@Emmaj86](https://github.com/emmaj86/)
@@ -9318,5 +9320,16 @@
 
 - [@shamzaali7](https://github.com/shamzaali7)
 
--[DevG75](https://github.com/DevG75)
+
+- [DevG75](https://github.com/DevG75)
+
+- [@ashishpatill](https://github.com/ashishpatill)
+
+- [@DarthSanso] (https://github.com/darthsanso)
+
+- [@tylashae] (https://github.com/tylashae)
+
+- [@iqbalnoushad] (https://github.com/iqbalnoushad)
+
+- [@BileOara](https://github.com/BileOara)
 
