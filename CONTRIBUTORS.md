@@ -254,6 +254,8 @@
 
 - [@Akashkumarsinha](https://github.com/Akash-KumarSinha)
 
+- [@BusraKahraman](https://github.com/BusraKahraman)
+
 - [@Akc302](https://github.com/akc302)
 
 - [@Akhilpokuri](https://github.com/akhilpokuri)
@@ -9324,18 +9326,48 @@
 
 - [@ashishpatill](https://github.com/ashishpatill)
 
-- [@DarthSanso] (https://github.com/darthsanso)
+- [@DarthSanso](https://github.com/darthsanso)
 
-- [@tylashae] (https://github.com/tylashae)
+- [@Amana13](https://github.com/Amana13)
 
-- [@iqbalnoushad] (https://github.com/iqbalnoushad)
+- [@abdulalkout](https://github.com/abdulalkout)
+
+- [@Atharva0506](https://github.com/Atharva0506)
+
+- [@DarthSanso](https://github.com/darthsanso)
+
+- [@tylashae](https://github.com/tylashae)
+
+- [@iqbalnoushad](https://github.com/iqbalnoushad)
 
 - [@BileOara](https://github.com/BileOara)
 
-- [@Alexis1war] (https://github.com/Alexis1war)
+- [@EtanHey](https://github.com/EtanHey)
 
-- [@ErnazarD] (https://github.com/ErnazarD)
+- [@SrijitaSaha2003](https://github.com/SrijitaSaha2003)
 
-- [@savvisam] (ttps://github.com/savvisam)
+- [@saurabhshukla29](https://github.com/saurabhshukla29)
 
--[@prince-2023] (https://github.com/prince-2023)
+- [@Alexis1war](https://github.com/Alexis1war)
+
+- [@ErnazarD](https://github.com/ErnazarD)
+
+- [@prince-2023](https://github.com/prince-2023) 
+
+- [@okekefrancis112](https://github.com/okekefrancis112)
+
+- [@David-Maduabuchi](https://github.com/David-Maduabuchi)
+
+- [@abdullahqayid](https://github.com/abdullahqayid)
+
+- [@DivanJN](https://github.com/DivanJN)
+
+- [@Marinijibia](https://github.com/Marinijibia)
+
+- [@iqbalnoushad](https://github.com/iqbalnoushad)
+
+- [@savvisam](ttps://github.com/savvisam)
+
+- [@prince-2023](https://github.com/prince-2023)
+
+- [@ransfield](https://github.com/ransfield)
