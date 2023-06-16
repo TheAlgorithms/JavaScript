@@ -3374,6 +3374,8 @@
 
 - [@Izzybolts](https://github.com/aneagoie/)
 
+- [@dmcneil](https://github.com/d-mcneil)
+
 - [@Jaacielbriseo](https://github.com/JaacielBriseo)
 
 - [@Jaakkohumalajoki](https://github.com/JaakkoHumalajoki)
