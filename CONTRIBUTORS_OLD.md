@@ -15276,6 +15276,8 @@
 
 - [@RainDripz](https://github.com/RainDripz/)
 
+- [@jairus808] (https://github.com/jairus808)
+
 - [@AndyCarriere](https://github.com/AndyCarriere/)
 
 - [@AditKhandelwal](https://github.com/AditKhandelwal)
