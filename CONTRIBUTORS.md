@@ -9377,3 +9377,5 @@
 - [@ransfield](https://github.com/ransfield)
 
 - [@youngrilex](https://github.com/youngrilex)
+
+- [@vanmick](https://github.com/vanmick)
