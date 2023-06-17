@@ -9356,7 +9356,7 @@
 
 - [@ErnazarD](https://github.com/ErnazarD)
 
-- [@prince-2023](https://github.com/prince-2023) 
+- [@prince-2023](https://github.com/prince-2023)
 
 - [@okekefrancis112](https://github.com/okekefrancis112)
 
@@ -9379,3 +9379,5 @@
 - [@youngrilex](https://github.com/youngrilex)
 
 - [@vanmick](https://github.com/vanmick)
+
+- [@Kingtastix](https://github.com/Kingtastix)
