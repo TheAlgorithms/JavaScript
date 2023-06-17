@@ -2788,6 +2788,8 @@
 
 - [@Grzesiek90](https://github.com/GrzesieK90)
 
+- [@Kingtastix](https://github.com/Kingtastix)
+
 - [@Gsmeade](https://github.com/gsmeade)
 
 - [@Gstavrinos](https://github.com/gstavrinos)
@@ -9379,5 +9381,3 @@
 - [@youngrilex](https://github.com/youngrilex)
 
 - [@vanmick](https://github.com/vanmick)
-
-- [@Kingtastix](https://github.com/Kingtastix)
