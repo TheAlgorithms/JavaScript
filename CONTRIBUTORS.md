@@ -9369,7 +9369,7 @@
 
 - [@ErnazarD](https://github.com/ErnazarD)
 
-- [@prince-2023](https://github.com/prince-2023) 
+- [@prince-2023](https://github.com/prince-2023)
 
 - [@okekefrancis112](https://github.com/okekefrancis112)
 
@@ -9393,12 +9393,15 @@
 
 - [@vanmick](https://github.com/vanmick)
 
+- [@MurtuzaOmair](https://github.com/MurtuzaOmair)
+
 - [@TarnakShinde](https://github.com/TarnakShinde)
 
 - [@Esat-Karakaya](https://github.com/Esat-Karakaya)
 
 - [@AdityaShelke27](https://github.com/AdityaShelke27)
 
-- [@Gururaj8756] (https://github.com/Gururaj8756)
+- [@Gururaj8756](https://github.com/Gururaj8756)
 
 - [@lucky66](https://github.com/lucky66)
+
