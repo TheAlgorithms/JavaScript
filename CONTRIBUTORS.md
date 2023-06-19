@@ -38,6 +38,8 @@
 
 - [@12Vaishali](https://github.com/12-vaishali)
 
+- [@juackomdz](https://github.com/juackomdz)
+
 - [@18Jonangelo](https://github.com/18jonangelo)
 
 - [@1998Rtran](https://github.com/1998rtran/)
