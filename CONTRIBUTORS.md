@@ -72,6 +72,8 @@
 
 - [@Aalmarhabi](https://github.com/aalmarhabi)
 
+- [@kelvin-go-get](https://github.com/kelvinnjuiri)
+
 - [@acemido](https://github.com/AceMido)
 
 - [@Aameshie](https://github.com/aameshie)
@@ -9394,6 +9396,8 @@
 
 - [@vanmick](https://github.com/vanmick)
 
+- [@TarnakShinde](https://github.com/TarnakShinde)
+
 - [@pmaciejo](https://github.com/pmaciejo)
 
 - [@MurtuzaOmair](https://github.com/MurtuzaOmair)
@@ -9409,4 +9413,5 @@
 - [@Gururaj8756](https://github.com/Gururaj8756)
 
 - [@lucky66](https://github.com/lucky66)
+
 
