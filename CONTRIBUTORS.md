@@ -1,4 +1,3 @@
-
 # CONTRIBUTORS
 
 - [@#Kthao21](https://github.com/kthao21)
@@ -72,6 +71,8 @@
 - [@Aakibvah](https://github.com/Aakibvah/)
 
 - [@Aalmarhabi](https://github.com/aalmarhabi)
+
+- [@kelvin-go-get](https://github.com/kelvinnjuiri)
 
 - [@acemido](https://github.com/AceMido)
 
@@ -218,6 +219,8 @@
 - [@Ahesha](https://github.com/Ahesh-A)
 
 - [@Ahguanz](https://github.com/ahguanz)
+
+- [@maxteebabs](https://github.com/maxteebabs)
 
 - [@Ahmadolabi](https://github.com/ahmadolabi)
 
@@ -1978,7 +1981,7 @@
 - [@Dsnod93](https://github.com/dsnod93)
 
 - [@Dsnoeijer](https://github.com/dsnoeijer)
-
+- [@do262431](https://github.com/do262431)
 - [@Dsohn5497](https://github.com/DSohn5497)
 
 - [@Dtietje](https://github.com/dtietje)
@@ -2794,6 +2797,8 @@
 - [@Grushke](https://github.com/Grushke)
 
 - [@Grzesiek90](https://github.com/GrzesieK90)
+
+- [@Kingtastix](https://github.com/Kingtastix)
 
 - [@Gsmeade](https://github.com/gsmeade)
 
@@ -9369,7 +9374,7 @@
 
 - [@ErnazarD](https://github.com/ErnazarD)
 
-- [@prince-2023](https://github.com/prince-2023) 
+- [@prince-2023](https://github.com/prince-2023)
 
 - [@okekefrancis112](https://github.com/okekefrancis112)
 
@@ -9395,12 +9400,34 @@
 
 - [@TarnakShinde](https://github.com/TarnakShinde)
 
+- [@pmaciejo](https://github.com/pmaciejo)
+
+- [@MurtuzaOmair](https://github.com/MurtuzaOmair)
+
+- [@TarnakShinde](https://github.com/TarnakShinde)
+
 - [@Esat-Karakaya](https://github.com/Esat-Karakaya)
+
+- [@Gururaj8756](https://github.com/Gururaj8756)
+
+- [@Malz00](https://github.com/Malz00)
+
+- [@adham208](https://github.com/adham208)
 
 - [@AdityaShelke27](https://github.com/AdityaShelke27)
 
-- [@Gururaj8756] (https://github.com/Gururaj8756)
+- [@Gururaj8756](https://github.com/Gururaj8756)
+
+- [@AdgtheG](https://github.com/AdgtheG)
+
+- [@Gill](https://github.com/Gill-7)
+
+- [@Gururaj8756](https://github.com/Gururaj8756)
 
 - [@lucky66](https://github.com/lucky66)
 
 - [@Jordanras96](https://github.com/Jordanras96)
+
+- [@Rahul-lalwani-learner](https://github.com/Rahul-lalwani-learner)
+
+- [@pirarku](https://github.com/pirarku)
