@@ -84,6 +84,8 @@
 
 - [@Aandoney](https://github.com/aandoney)
 
+- [@jhlushbough](https://github.com/jlushbough)
+
 - [@Aanseev](https://github.com/aanseev)
 
 - [@Aashigoel](https://github.com/AashiGoel)
