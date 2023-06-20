@@ -1418,6 +1418,8 @@
 
 - [@Criscaldeiraa](https://github.com/criscaldeiraa)
 
+- [@CrisMorinaga](https://github.com/CrisMorinaga)
+
 - [@Cristianrp](https://github.com/CristianRP)
 
 - [@Cristiansanchez14](https://github.com/Cristian-sanchez14)
