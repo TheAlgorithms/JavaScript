@@ -38,6 +38,8 @@
 
 - [@12Vaishali](https://github.com/12-vaishali)
 
+- [@juackomdz](https://github.com/juackomdz)
+
 - [@18Jonangelo](https://github.com/18jonangelo)
 
 - [@1998Rtran](https://github.com/1998rtran/)
@@ -81,6 +83,8 @@
 - [@Aamir0890](https://github.com/Aamir0890)
 
 - [@Aandoney](https://github.com/aandoney)
+
+- [@jhlushbough](https://github.com/jlushbough)
 
 - [@Aanseev](https://github.com/aanseev)
 
@@ -1607,6 +1611,8 @@
 - [@Datdevdez](https://github.com/datdevdez)
 
 - [@Datng](https://github.com/dattuannguyen)
+
+- [@Dave "madPsyko" Horník](https://github.com/davehornik)
 
 - [@Davdwoo](https://github.com/davdwoo)
 
@@ -3615,6 +3621,8 @@
 - [@Jenilas](https://github.com/JENILAS)
 
 - [@Jenique22](https://github.com/Jenique22)
+
+- [@Jenniferanagy](https://github.com/jenniferanagy)
 
 - [@Jenstheuns](https://github.com/jenstheuns)
 
@@ -9431,3 +9439,5 @@
 - [@Rahul-lalwani-learner](https://github.com/Rahul-lalwani-learner)
 
 - [@pirarku](https://github.com/pirarku)
+
+- [@CODER3570)](https://github.com/CODER3570)
