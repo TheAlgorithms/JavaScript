@@ -1610,6 +1610,8 @@
 
 - [@Datng](https://github.com/dattuannguyen)
 
+- [@Dave "madPsyko" Horník](https://github.com/davehornik)
+
 - [@Davdwoo](https://github.com/davdwoo)
 
 - [@Davi0254](https://github.com/Davi0254)
