@@ -9462,3 +9462,5 @@
 - [@renebrucknerjnr](https://github.com/renebrucknerjnr)
 
 - [@suave97](https://github.com/suave97)
+
+- [@KedricMcIntyre](https://github.com/KedricMcIntyre0)
