@@ -4780,6 +4780,8 @@
 
 - [@Luscarus](https://github.com/luscarus)
 
+- [@Bookkeeper33](https://github.com/Bookkeeper33)
+
 - [@Luthyx](https://github.com/luthyx)
 
 - [@Luwamtesfamariam](https://github.com/LuwamTesfamariam)
@@ -5269,6 +5271,8 @@
 - [@Michael002](https://github.com/Michael-002)
 
 - [@Michaelaitken](https://github.com/michaelaitken)
+
+- [Nde-Dilan](https://github.com/Nde-Dilan)
 
 - [@Michaelboitmann](https://github.com/MichaelBoitmann)
 
@@ -9440,6 +9444,10 @@
 
 - [@Gururaj8756](https://github.com/Gururaj8756)
 
+- [@leavesza](https://github.com/leavesza)
+
+- [@Gururaj8756](https://github.com/Gururaj8756)
+
 - [@AdgtheG](https://github.com/AdgtheG)
 
 - [@Gill](https://github.com/Gill-7)
@@ -9449,6 +9457,8 @@
 - [@lucky66](https://github.com/lucky66)
 
 - [@Rahul-lalwani-learner](https://github.com/Rahul-lalwani-learner)
+
+- [@leomay282](https://github.com/leomay282) 
 
 - [@pirarku](https://github.com/pirarku)
 
@@ -9469,3 +9479,29 @@
 - [@vijultyagi](https://github.com/vijultyagi)
 
 - [@ayberklevendoglu](https://github.com/ayberklevendoglu)
+
+- [https://github.com/jimmybrandti](https://github.com/jimmybrandti)
+
+- [@cdavis83](https://github.com/cdavis83)
+
+- [@Ballantines87](https://github.com/Ballantines87)
+
+- [UntaintedTech](https://github.com/UntaintedTech)
+
+- [@Alex-web5](https://github.com/Alex-web5)
+
+- [@furby153](https://github.com/furby153)
+
+- [@Makiri-code](https://github.com/Makiri-Code)
+
+- [@KevinHoffmannLU](https://github.com/KevinHoffmannLU)
+
+- [@itsnileshgosavi](https://github.com/itsnileshgosavi)
+
+- [@Makiri-code](https://github.com/Makiri-Code)
+
+- [@KevinHoffmannLU](https://github.com/KevinHoffmannLU)
+
+- [@itsnileshgosavi](https://github.com/itsnileshgosavi)
+
+
