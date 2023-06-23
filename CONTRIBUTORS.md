@@ -108,6 +108,8 @@
 
 - [@Abdifatahsaid](https://github.com/Abdifatah-said)
 
+- [@Surya5603](https://github.com/Surya5603)
+
 - [@Abdulkhaliqcyber](https://github.com/abdulkhaliq-cyber/)
 
 - [@Abdurahimus](https://github.com/abdurahim-us)
@@ -1418,6 +1420,8 @@
 
 - [@Criscaldeiraa](https://github.com/criscaldeiraa)
 
+- [@CrisMorinaga](https://github.com/CrisMorinaga)
+
 - [@Cristianrp](https://github.com/CristianRP)
 
 - [@Cristiansanchez14](https://github.com/Cristian-sanchez14)
@@ -2376,6 +2380,8 @@
 
 - [@Fadedaditya](https://github.com/FadedAditya/)
 
+- [@wiu753](https://github.com/wiu753)
+
 - [@Fadimaher](https://github.com/FadiMaher)
 
 - [@Faisalibal33](https://github.com/faisalibal33)
@@ -2513,6 +2519,8 @@
 - [@Fofana215](https://github.com/fofana215)
 
 - [@Fokouarnaud](https://github.com/fokouarnaud)
+
+  [@foomin18](https://github.com/foomin18)
 
 - [@Foopizza](https://github.com/foopizza)
 
@@ -4548,6 +4556,8 @@
 
 - [@Lea19019](https://github.com/lea19019)
 
+- [@alexvlkv0](https://github.com/alexvlkv0)
+
 - [@Lealethpamilar](https://github.com/lealethpamilar)
 
 - [@Leandrososa](https://github.com/leandrososa)
@@ -5261,6 +5271,8 @@
 - [@Michael002](https://github.com/Michael-002)
 
 - [@Michaelaitken](https://github.com/michaelaitken)
+
+- [Nde-Dilan](https://github.com/Nde-Dilan)
 
 - [@Michaelboitmann](https://github.com/MichaelBoitmann)
 
@@ -9268,6 +9280,8 @@
 
 - [@WeSantos](https://github.com/wal-wizard)
 
+- [@jassimalfonso](https://github.com/jassimalfonso)
+
 - [@williamk19](https://github.com/williamk19)
 
 - [@Raja-Here](https://github.com/Raja-Here/)
@@ -9428,6 +9442,11 @@
 
 - [@AdityaShelke27](https://github.com/AdityaShelke27)
 
+
+- [@Gururaj8756](https://github.com/Gururaj8756)
+
+- [@leavesza](https://github.com/leavesza)
+
 - [@Gururaj8756](https://github.com/Gururaj8756)
 
 - [@AdgtheG](https://github.com/AdgtheG)
@@ -9440,6 +9459,47 @@
 
 - [@Rahul-lalwani-learner](https://github.com/Rahul-lalwani-learner)
 
+- [@leomay282](https://github.com/leomay282) 
+
 - [@pirarku](https://github.com/pirarku)
 
 - [@CODER3570)](https://github.com/CODER3570)
+
+- [@noahanno](https://github.com/noahanno)
+
+- [@lucasknutr](https://github.com/lucasknutr)
+
+- [@NosamTheWise](https://github.com/NosamTheWise)
+
+- [@renebrucknerjnr](https://github.com/renebrucknerjnr)
+
+- [@suave97](https://github.com/suave97)
+
+- [@KedricMcIntyre](https://github.com/KedricMcIntyre0)
+
+- [@vijultyagi](https://github.com/vijultyagi)
+
+- [https://github.com/jimmybrandti](https://github.com/jimmybrandti)
+
+- [@cdavis83](https://github.com/cdavis83)
+
+- [@Ballantines87](https://github.com/Ballantines87)
+
+- [UntaintedTech](https://github.com/UntaintedTech)
+
+- [@Alex-web5](https://github.com/Alex-web5)
+
+- [@furby153](https://github.com/furby153)
+
+- [@Makiri-code](https://github.com/Makiri-Code)
+
+- [@KevinHoffmannLU](https://github.com/KevinHoffmannLU)
+
+- [@itsnileshgosavi](https://github.com/itsnileshgosavi)
+
+- [@Makiri-code](https://github.com/Makiri-Code)
+
+- [@KevinHoffmannLU](https://github.com/KevinHoffmannLU)
+
+- [@itsnileshgosavi](https://github.com/itsnileshgosavi)
+
