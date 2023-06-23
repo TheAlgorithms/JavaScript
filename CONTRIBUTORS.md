@@ -9446,12 +9446,13 @@
 
 - [@Gill](https://github.com/Gill-7)
 
-
 - [@Gururaj8756](https://github.com/Gururaj8756)
 
 - [@lucky66](https://github.com/lucky66)
 
 - [@Rahul-lalwani-learner](https://github.com/Rahul-lalwani-learner)
+
+- [@leomay282](https://github.com/leomay282) 
 
 - [@pirarku](https://github.com/pirarku)
 
@@ -9475,15 +9476,16 @@
 
 - [@cdavis83](https://github.com/cdavis83)
 
-- [@Ballantines87] (https://github.com/Ballantines87)
+- [@Ballantines87](https://github.com/Ballantines87)
 
 - [UntaintedTech](https://github.com/UntaintedTech)
 
-- [@Alex-web5] (https://github.com/Alex-web5)
+- [@Alex-web5](https://github.com/Alex-web5)
 
-- [@furby153] (https://github.com/furby153)
--[@Makiri-code] (https://github.com/Makiri-Code)
+- [@furby153](https://github.com/furby153)
 
--[@KevinHoffmannLU](https://github.com/KevinHoffmannLU)
+- [@Makiri-code](https://github.com/Makiri-Code)
 
--[@itsnileshgosavi](https://github.com/itsnileshgosavi)
+- [@KevinHoffmannLU](https://github.com/KevinHoffmannLU)
+
+- [@itsnileshgosavi](https://github.com/itsnileshgosavi)
