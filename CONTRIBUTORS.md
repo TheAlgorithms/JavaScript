@@ -8436,6 +8436,8 @@
 
 - [@Toni123321](https://github.com/toni123321)
 
+- [@syafiqshakir](https://github.com/syafiqshakir)
+
 - [@Tonrugeria](https://github.com/tonrugeria)
 
 - [@Tonycookey](https://github.com/TonyCookey)
@@ -9440,7 +9442,6 @@
 
 - [@AdityaShelke27](https://github.com/AdityaShelke27)
 
-
 - [@Gururaj8756](https://github.com/Gururaj8756)
 
 - [@leavesza](https://github.com/leavesza)
@@ -9457,7 +9458,7 @@
 
 - [@Rahul-lalwani-learner](https://github.com/Rahul-lalwani-learner)
 
-- [@leomay282](https://github.com/leomay282) 
+- [@leomay282](https://github.com/leomay282)
 
 - [@pirarku](https://github.com/pirarku)
 
