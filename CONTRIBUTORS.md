@@ -8438,6 +8438,8 @@
 
 - [@Toni123321](https://github.com/toni123321)
 
+- [@syafiqshakir](https://github.com/syafiqshakir)
+
 - [@Tonrugeria](https://github.com/tonrugeria)
 
 - [@Tonycookey](https://github.com/TonyCookey)
@@ -9458,7 +9460,7 @@
 
 - [@Rahul-lalwani-learner](https://github.com/Rahul-lalwani-learner)
 
-- [@leomay282](https://github.com/leomay282) 
+- [@leomay282](https://github.com/leomay282)
 
 - [@pirarku](https://github.com/pirarku)
 
