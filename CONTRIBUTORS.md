@@ -4130,6 +4130,8 @@
 
 - [@Kaizokustrawhat](https://github.com/KaizokuStrawHat)
 
+- [@MitchMD33](https://github.com/MitchMD33/MitchMd33)
+
 - [@Kajarosz](https://github.com/kajarosz)
 
 - [@Kakomis](https://github.com/Kakomis)
@@ -5591,6 +5593,8 @@
 - [@Mondorapha](https://github.com/mondorapha)
 
 - [@Monikabucholc](https://github.com/monikabucholc)
+
+- [@Siboraberishaa] (https://github.com/siboraberishaa)
 
 - [@Moniqueshaqiri](https://github.com/Monique-Shaqiri)
 
