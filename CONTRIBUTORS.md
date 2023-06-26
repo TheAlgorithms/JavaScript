@@ -4,6 +4,8 @@
 
 - [@#Bryanrillstone](https://github.com/bryanrillstone)
 
+- [@HamidSafdari7](https://github.com/HamidSafdari7)
+
 - [@#Kthao21](https://github.com/kthao21)
 
 - [@#Mfazeel](https://github.com/m-fazeel)
