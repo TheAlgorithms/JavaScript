@@ -6580,6 +6580,8 @@
 
 - [@Pranotobudi](https://github.com/pranotobudi)
 
+- [@silviachihaia](https://github/silviachihaia)
+
 - [@Prantabarua007](https://github.com/pranta-barua007)
 
 - [@Prashantkumarkaushik](https://github.com/prashantkumarkaushik)
@@ -9671,3 +9673,4 @@
 - [@imladris20](https://github.com/imladris20)
 
 - [@yurishy11](https://github.com/yurishy11/)
+
