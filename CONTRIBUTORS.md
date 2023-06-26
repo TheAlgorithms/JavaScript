@@ -56,6 +56,8 @@
 
 - [@5P7Ro0T](https://github.com/5p7Ro0t)
 
+- [@aysehauck](https://github.com/aysehauck)
+
 - [@69966969](https://github.com/69966969)
 
 - [@7Osny13](https://github.com/7osny13)
