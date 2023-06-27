@@ -26,6 +26,8 @@
 
 - [@0Xsilkweave](https://github.com/0xSilkweave)
 
+- [@thelore85](https://github.com/thelore85)
+
 - [@0Xwebmilk](https://github.com/0xwebmilk)
 
 - [@0Xxerkan](https://github.com/0xXerkan/)
@@ -3187,6 +3189,8 @@
 - [@Https://Github.Com/Jimmybrandti](https://github.com/jimmybrandti)
 
 - [@Htuohz](https://github.com/htuohz)
+
+-[@Iyinonaeko](https://github.com/IyinOnaeko)
 
 - [@Huber00](https://github.com/Huber00)
 
@@ -7550,6 +7554,8 @@
 
 - [@Schandroid243](https://github.com/Schandroid243)
 
+-[@TiffanyClark](https://github.com/TiffanyClark)
+
 - [@Schospel](https://github.com/schospel)
 
 - [@Scottbryant1](https://github.com/scottbryant1)
@@ -9678,4 +9684,14 @@
 
 - [@yurishy11](https://github.com/yurishy11/)
 
+
 - [@DallaDev](https://github.com/DallaDev/)
+
+- [@jaycobdev](https://github.com/jaycobdev)
+
+- [@connorbrs](https://github.com/connorbrs)
+
+- [@Ovando21](https://github.com/Ovando21)
+
+- [@IvanTan96](https://github.com/IvanTan96)
+
