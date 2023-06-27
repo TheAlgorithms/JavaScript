@@ -26,6 +26,8 @@
 
 - [@0Xsilkweave](https://github.com/0xSilkweave)
 
+- [@thelore85](https://github.com/thelore85)
+
 - [@0Xwebmilk](https://github.com/0xwebmilk)
 
 - [@0Xxerkan](https://github.com/0xXerkan/)
