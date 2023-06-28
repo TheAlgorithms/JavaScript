@@ -6592,6 +6592,8 @@
 
 - [@Pranotobudi](https://github.com/pranotobudi)
 
+- [@silviachihaia](https://github/silviachihaia)
+
 - [@Prantabarua007](https://github.com/pranta-barua007)
 
 - [@Prashantkumarkaushik](https://github.com/prashantkumarkaushik)
@@ -9672,11 +9674,9 @@
 
 - [@HaleemaSagheer](https://github.com/HaleemaSagheer)
 
-
 - [@nadeemk2023](https://github.com/nadeemk2023)
 
 - [@Omaetedev](https://github.com/Omaetedev/)
-
 
 - [@Omaetedev](https://github.com/Omaetedev/)
 
@@ -9685,8 +9685,6 @@
 - [@imladris20](https://github.com/imladris20)
  
 - [@debjit-mandal](https://github.com/debjit-mandal)
-
-
 
 - [@yurishy11](https://github.com/yurishy11/)
 
@@ -9698,8 +9696,13 @@
 
 - [@IvanTan96](https://github.com/IvanTan96)
 
--[@chodardsu] (https://github.com/chodardsu)
--[@safa1904](https://github.com/safa1904)
+- [@chodardsu](https://github.com/chodardsu)
+
+- [@safa1904](https://github.com/safa1904)
+
+- [@yurishy11](https://github.com/yurishy11/)
+
+- [@noufanelachola](https://github.com/noufanelachola/)
 
 - [@noufanelachola](https://github.com/noufanelachola/)
 
