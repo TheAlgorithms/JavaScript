@@ -2,6 +2,8 @@
 
 - [@#Atef1995](https://github.com/atef1995)
 
+- [@zaidahmad25](https://github.com/zaidahmad25)
+
 - [@#Bryanrillstone](https://github.com/bryanrillstone)
 
 - [@HamidSafdari7](https://github.com/HamidSafdari7)
@@ -25,6 +27,8 @@
 - [@0Xmrtt](https://github.com/0xMRTT)
 
 - [@0Xsilkweave](https://github.com/0xSilkweave)
+
+- [@thelore85](https://github.com/thelore85)
 
 - [@0Xwebmilk](https://github.com/0xwebmilk)
 
@@ -2544,6 +2548,8 @@
 
 - [@Fjrmario](https://github.com/fjrmario)
 
+-[@moisesg526] (https://github.com/moisesg526)
+
 - [@Fkayrepo](https://github.com/FkayRepo)
 
 - [@Flaveeoos](https://github.com/flaveeoos)
@@ -3188,6 +3194,8 @@
 
 - [@Htuohz](https://github.com/htuohz)
 
+-[@Iyinonaeko](https://github.com/IyinOnaeko)
+
 - [@Huber00](https://github.com/Huber00)
 
 - [@Hubert123490](https://github.com/hubert123490)
@@ -3391,6 +3399,8 @@
 - [@Irbaine](https://github.com/irbaine)
 
 - [@Irene3177](https://github.com/irene3177)
+
+- [@iRjeffro](https://github.com/iRjeffro)
 
 - [@Ironmikej79](https://github.com/IronMikeJ79)
 
@@ -6582,6 +6592,8 @@
 
 - [@Pranotobudi](https://github.com/pranotobudi)
 
+- [@silviachihaia](https://github/silviachihaia)
+
 - [@Prantabarua007](https://github.com/pranta-barua007)
 
 -[@Prasaanth94](https://github.com/Prasaanth94)
@@ -9673,13 +9685,30 @@
 - [@AdityaRoy101](https://github.com/AdityaRoy101/)
 
 - [@imladris20](https://github.com/imladris20)
-
+ 
 - [@debjit-mandal](https://github.com/debjit-mandal)
 
+- [@Deepak-r](https://github.com/KingZeus0108)
+
 - [@yurishy11](https://github.com/yurishy11/)
+
+- [@jaycobdev](https://github.com/jaycobdev)
 
 - [@jaycobdev](https://github.com/jaycobdev)
 
 - [@connorbrs](https://github.com/connorbrs)
 
 - [@Ovando21](https://github.com/Ovando21)
+
+- [@IvanTan96](https://github.com/IvanTan96)
+
+- [@chodardsu](https://github.com/chodardsu)
+
+- [@safa1904](https://github.com/safa1904)
+
+- [@noufanelachola](https://github.com/noufanelachola/)
+
+- [@noufanelachola](https://github.com/noufanelachola/)
+
+- [@DavOlufuwa](https://github.com/DavOlufuwa)
+
