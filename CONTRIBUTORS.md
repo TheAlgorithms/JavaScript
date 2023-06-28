@@ -2546,6 +2546,8 @@
 
 - [@Fjrmario](https://github.com/fjrmario)
 
+-[@moisesg526] (https://github.com/moisesg526)
+
 - [@Fkayrepo](https://github.com/FkayRepo)
 
 - [@Flaveeoos](https://github.com/flaveeoos)
