@@ -2,6 +2,8 @@
 
 - [@#Atef1995](https://github.com/atef1995)
 
+- [@zaidahmad25](https://github.com/zaidahmad25)
+
 - [@#Bryanrillstone](https://github.com/bryanrillstone)
 
 - [@HamidSafdari7](https://github.com/HamidSafdari7)
