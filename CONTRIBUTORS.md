@@ -9670,21 +9670,17 @@
 
 - [@HaleemaSagheer](https://github.com/HaleemaSagheer)
 
-
 - [@nadeemk2023](https://github.com/nadeemk2023)
 
 - [@Omaetedev](https://github.com/Omaetedev/)
-
 
 - [@Omaetedev](https://github.com/Omaetedev/)
 
 - [@AdityaRoy101](https://github.com/AdityaRoy101/)
 
 - [@imladris20](https://github.com/imladris20)
- 
+
 - [@debjit-mandal](https://github.com/debjit-mandal)
-
-
 
 - [@yurishy11](https://github.com/yurishy11/)
 
@@ -9697,3 +9693,5 @@
 - [@IvanTan96](https://github.com/IvanTan96)
 
 -[@chodardsu] (https://github.com/chodardsu)
+
+- [@vicckuo](https://github.com/vicckuo)
