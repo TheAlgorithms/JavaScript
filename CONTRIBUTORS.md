@@ -9686,6 +9686,12 @@
  
 - [@debjit-mandal](https://github.com/debjit-mandal)
 
+- [@Deepak-r](https://github.com/KingZeus0108)
+
+- [@yurishy11](https://github.com/yurishy11/)
+
+- [@jaycobdev](https://github.com/jaycobdev)
+
 - [@yurishy11](https://github.com/yurishy11/)
 
 - [@jaycobdev](https://github.com/jaycobdev)
@@ -9707,3 +9713,4 @@
 - [@noufanelachola](https://github.com/noufanelachola/)
 
 - [@DavOlufuwa](https://github.com/DavOlufuwa)
+
