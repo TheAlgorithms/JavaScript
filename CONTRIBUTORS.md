@@ -2610,6 +2610,8 @@
 
 - [@Frhel](https://github.com/frhel/)
 
+- [@noufanelachola](https://github.com/noufanelachola/)
+
 - [@Frobertbs](https://github.com/frobertbs)
 
 - [@Frontendjohn](https://github.com/frontEndJohn)
@@ -9700,3 +9702,4 @@
 
 -[@chodardsu] (https://github.com/chodardsu)
 -[@safa1904](https://github.com/safa1904)
+
