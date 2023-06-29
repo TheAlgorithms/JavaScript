@@ -1544,6 +1544,8 @@
 
 - [@Dakshithu2013](https://github.com/dakshith-u-2013)
 
+- [@Dalebert](https://github.com/dalebert)
+
 - [@Damaluku](https://github.com/damaluku)
 
 - [@Damianpad](https://github.com/Damianpad)
@@ -1943,6 +1945,8 @@
 - [@Divyateja04](https://github.com/Divyateja04)
 
 - [@Divyeshrathod](https://github.com/divyesh-rathod)
+  
+- [@DIWAKARKASHYAP](https://github.com/DIWAKARKASHYAP)
 
 - [@Djaferimehmed](https://github.com/djaferimehmed)
 
@@ -9688,6 +9692,10 @@
 
 - [@debjit-mandal](https://github.com/debjit-mandal)
 
+- [@andrewmolten](https://github.com/andrewmolten)
+
+- [@debjit-mandal](https://github.com/debjit-mandal)
+
 - [@Kusuma-io](https://github.com/Kusuma-io)
 
 - [@Deepak-r](https://github.com/KingZeus0108)
@@ -9700,6 +9708,8 @@
 
 - [@jaycobdev](https://github.com/jaycobdev)
 
+- [@Zardian18](https://github.com/Zardian18)
+
 - [@connorbrs](https://github.com/connorbrs)
 
 - [@Ovando21](https://github.com/Ovando21)
@@ -9710,6 +9720,8 @@
  
 - [@chodardsu](https://github.com/chodardsu)
 
+- [@chodardsu](https://github.com/chodardsu)
+
 - [@safa1904](https://github.com/safa1904)
 
 - [@noufanelachola](https://github.com/noufanelachola/)
@@ -9718,4 +9730,8 @@
 
 - [@DavOlufuwa](https://github.com/DavOlufuwa)
 
+- [@sebashmh](https://github.com/sebashmh)
 
+- [@BorysCode](https://github.com/BorysCode)
+
+- [@Aaron-Dolan](https://github.com/Aaron-Dolan)
