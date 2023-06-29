@@ -8286,6 +8286,8 @@
 
 - [@Sylvahh](https://github.com/sylvahh)
 
+- [@Vic-Ruro](https://github.com/Victoryruro)
+
 - [@Syrmaplibpos](https://github.com/syrmaplibpos)
 
 - [@Sysdab](https://github.com/sysdab)
