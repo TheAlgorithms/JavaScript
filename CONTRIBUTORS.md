@@ -9654,6 +9654,10 @@
 
 - [@cdavis83](https://github.com/cdavis83)
 
+- [@Ballantines87] (https://github.com/Ballantines87)
+
+- [@PingItWide] (https://github.com/PingItWide)
+
 - [@Ballantines87](https://github.com/Ballantines87)
 
 - [UntaintedTech](https://github.com/UntaintedTech)
@@ -9712,6 +9716,8 @@
 
 - [@IvanTan96](https://github.com/IvanTan96)
 
+- [@chodardsu] (https://github.com/chodardsu)
+ 
 - [@chodardsu](https://github.com/chodardsu)
 
 - [@chodardsu](https://github.com/chodardsu)
