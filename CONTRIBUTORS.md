@@ -78,6 +78,8 @@
 
 - [@Aaephraim](https://github.com/aaephraim)
 
+- [@MuhdDanis](https://github.com/MuhdDanis)
+
 - [@Aakarshan369](https://github.com/Aakarshan-369)
 
 - [@Aakashbansal837](https://github.com/aakashbansal837/)
@@ -4221,6 +4223,8 @@
 - [@Karlitasg7](https://github.com/karlitasg7)
 
 - [@Karolpauldesign](https://github.com/karolpaul-design)
+
+- [@karthikkrishna1](https://github.com/karthikkrishna1)
 
 - [@Karthiarcus](https://github.com/KarthiArcus)
 
@@ -9756,3 +9760,4 @@
 
 - [@pauloassaf](https://github.com/pauloassaf)
 
+- [@thatmike1](https://github.com/thatmike1)
