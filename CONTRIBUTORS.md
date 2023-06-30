@@ -9696,6 +9696,8 @@
 
 - [@debjit-mandal](https://github.com/debjit-mandal)
 
+- [@debjit-mandal](https://github.com/debjit-mandal)
+
 - [@andrewmolten](https://github.com/andrewmolten)
 
 - [@debjit-mandal](https://github.com/debjit-mandal)
@@ -9720,7 +9722,11 @@
 
 - [@IvanTan96](https://github.com/IvanTan96)
 
-- [@chodardsu] (https://github.com/chodardsu)
+- [@chodardsu](https://github.com/chodardsu)
+
+- [@vicckuo](https://github.com/vicckuo)
+
+- [@chodardsu](https://github.com/chodardsu)
  
 - [@chodardsu](https://github.com/chodardsu)
 
@@ -9740,6 +9746,7 @@
 
 - [@Aaron-Dolan](https://github.com/Aaron-Dolan)
 
--[@Joshitha02](https://github.com/Joshitha02)
+- [@Joshitha02](https://github.com/Joshitha02)
 
 - [@mumtazcankildir](https://github.com/mumtazcankildir)
+
