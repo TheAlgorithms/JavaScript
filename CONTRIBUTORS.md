@@ -9775,5 +9775,11 @@
 
 - [@JA50N14](https://github.com/JA50N14/)
 
+- [@sloomabh](https://github.com/sloomabh/)
+
 - [@Pabir](https://github.com/Pabir)
+
+- [@noufanelachola](https://github.com/noufanelachola/)
+
+- [@clay1209](https://github.com/clay1209/)
 
