@@ -1947,7 +1947,6 @@
 - [@Divyateja04](https://github.com/Divyateja04)
 
 - [@Divyeshrathod](https://github.com/divyesh-rathod)
-  
 - [@DIWAKARKASHYAP](https://github.com/DIWAKARKASHYAP)
 
 - [@Djaferimehmed](https://github.com/djaferimehmed)
@@ -9743,7 +9742,7 @@
 - [@vicckuo](https://github.com/vicckuo)
 
 - [@chodardsu](https://github.com/chodardsu)
- 
+
 - [@chodardsu](https://github.com/chodardsu)
 
 - [@chodardsu](https://github.com/chodardsu)
@@ -9774,8 +9773,11 @@
 
 - [@JA50N14](https://github.com/JA50N14/)
 
+- [@sloomabh](https://github.com/sloomabh/)
+
 - [@Pabir](https://github.com/Pabir)
 
 - [@noufanelachola](https://github.com/noufanelachola/)
 
 - [@clay1209](https://github.com/clay1209/)
+
