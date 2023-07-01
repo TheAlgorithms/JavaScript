@@ -4539,6 +4539,8 @@
 
 - [@Ksxv](https://github.com/ksXV)
 
+- [@aunth](https://github.com/aunth)
+
 - [@Kt382](https://github.com/kT382)
 
 - [@Kthao21](https://github.com/kthao21)
@@ -9731,6 +9733,12 @@
 
 - [@chodardsu](https://github.com/chodardsu)
 
+- [@safa1904](https://github.com/safa1904)
+
+- [@alimehdii96](https://github.com/alimehdii96)
+
+- [@chodardsu](https://github.com/chodardsu)
+
 - [@vicckuo](https://github.com/vicckuo)
 
 - [@chodardsu](https://github.com/chodardsu)
@@ -9757,7 +9765,7 @@
 
 - [@mumtazcankildir](https://github.com/mumtazcankildir)
 
--[@mpenyanaryan](https://github.com/mpenyanaryan)
+- [@mpenyanaryan](https://github.com/mpenyanaryan)
 
 - [@pauloassaf](https://github.com/pauloassaf)
 
@@ -9766,3 +9774,10 @@
 - [@JA50N14](https://github.com/JA50N14/)
 
 - [@sloomabh](https://github.com/sloomabh/)
+
+- [@Pabir](https://github.com/Pabir)
+
+- [@noufanelachola](https://github.com/noufanelachola/)
+
+- [@clay1209](https://github.com/clay1209/)
+
