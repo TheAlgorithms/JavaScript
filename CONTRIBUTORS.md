@@ -9803,3 +9803,5 @@
 - [@HrayrR](https://github.com/HrayrR)
 
 - [@RavnZi](https://github.com/rbnmgr)
+
+- [@adoniscbatista]	(https://github.com/adoniscbatista)
