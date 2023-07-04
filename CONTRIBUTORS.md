@@ -1914,6 +1914,8 @@
 
 - [@Diogoleitef](https://github.com/DiogoLeiteF/)
 
+- [@MithuBitz](https://github.com/MithuBitz)
+
 - [@Diogoson11](https://github.com/diogoson11)
 
 - [@Diovane1103](https://github.com/Diovane1103)
