@@ -5,14 +5,14 @@
  * @return {Boolean}
  */
 const validateURL = (url) => {
-  let valid = null;
+  let valid = null
   try {
-    valid = new URL(url);
-  }catch(err) {
-    valid = false;
+    valid = new URL(url)
+  }catch(err){
+    valid = false
   }
 
-  return valid;
+  return valid
 }
 
 export { validateURL }
