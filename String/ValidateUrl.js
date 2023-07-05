@@ -5,9 +5,14 @@
  * @return {Boolean}
  */
 const validateURL = (url) => {
-  const URL_PATTERN = /^(https?:\/\/(?:www\.|(?!www))[^\s.]+\.[^\s]{2,}|www\.[^\s]+\.[^\s]{2,})$/gi
+  let valid = null;
+  try {
+    valid = new URL(url);
+  }catch(err) {
+    valid = false;
+  }
 
-  return URL_PATTERN.test(url)
+  return valid;
 }
 
 export { validateURL }
