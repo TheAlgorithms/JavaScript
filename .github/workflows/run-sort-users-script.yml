@@ -1,0 +1,38 @@
+name: run-python-sort-script
+on: pull_request
+jobs:
+  build:
+    name: Run sort-users.py
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout PR
+      uses: actions/checkout@v3
+      with:
+        ref: ${{ github.event.pull_request.head.sha }}
+        fetch-depth: 0
+    - name: Install Python 3
+      uses: actions/setup-python@v4
+      with:
+        python-version: 3.9
+    - name: Sort users
+      run: python sort-users.py
+    - name: Change CONTRIBUTORS file
+      run: |
+        echo "Changed" > CONTRIBUTORS.md 
+    - name: Check for changes
+      uses: tj-actions/verify-changed-files@v5.5
+      id: changed_files
+      with: 
+        files: |
+           CONTRIBUTORS.md
+    - name: Display changes to CONTRIBUTORS file
+      if: steps.changed_files.outputs.files_changed == 'true'
+      run: |
+        echo "Changed files: ${{ steps.changed_files.outputs.changed_files }}"
+    - name: Commit changes
+      if: steps.changed_files.outputs.files_changed == 'true'
+      run: |
+        git config --global user.name github-actions
+        git config --global user.email github-actions@github.com
+        git commit -a -m "(CI) format code"
+        git push
