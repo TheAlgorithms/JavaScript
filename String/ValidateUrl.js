@@ -8,7 +8,7 @@ const validateURL = (url) => {
   let valid = null
   try {
     valid = new URL(url)
-  }catch(err){
+  } catch (err) {
     valid = false
   }
 
