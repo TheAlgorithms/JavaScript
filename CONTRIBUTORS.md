@@ -186,6 +186,8 @@
 
 - [@Adbogan1](https://github.com/adbogan1)
 
+- [@JohnDale02](https://github.com/JohnDale02)
+
 - [@Addyk16](https://github.com/Addyk16)
 
 - [@Adelmalek](https://github.com/adelmalek)
@@ -9822,4 +9824,12 @@
 
 - [@nika-va](https://github.com/nika-va)
 
--[@atanuk45](https://github.com/atanuk45)
+- [@atanuk45](https://github.com/atanuk45)
+
+- [@GamesByGeff](https://github.com/GamesByGeff)
+
+- [@zakjak](https://github.com/zakjak)
+
+- [@mitinull](https://github.com/mitinull)
+
+- [Idrees9321] (https://github.com/Idrees9321)
