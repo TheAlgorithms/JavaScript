@@ -186,6 +186,8 @@
 
 - [@Adbogan1](https://github.com/adbogan1)
 
+- [@JohnDale02](https://github.com/JohnDale02)
+
 - [@Addyk16](https://github.com/Addyk16)
 
 - [@Adelmalek](https://github.com/adelmalek)
