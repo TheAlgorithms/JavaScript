@@ -9824,7 +9824,7 @@
 
 - [@RavnZi](https://github.com/rbnmgr)
 
-- [@adoniscbatista]	(https://github.com/adoniscbatista)
+- [@adoniscbatista] (https://github.com/adoniscbatista)
 
 - [@gururaj] (https://github.com/Gururajraibagi)
 
@@ -9850,3 +9850,5 @@
 - [@traynhamdavid426] (https://github.com/traynhamdavid426)
 
 - [@Samarth64s] (https://github.com/Samarth64s)
+
+- [@vickyrwandan](https://github.com/vickyrwandan)
