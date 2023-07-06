@@ -54,7 +54,7 @@ We don't care if you break things. This is a playground, and we encourage failin
 
 - ⚠️ **IMPORTANT NOTE #1:** Add your name somewhere in the middle. Not at the top or bottom in order to avoid the chance of you getting a [merge conflict](https://www.youtube.com/watch?v=9ZRb01WhuoE&list=PL2HX_yT71umC0SWrtpzaXt0QzwhWyNI4c&index=4)!
 - ⚠️ **IMPORTANT NOTE #2:** Please do **NOT** edit or remove other people from the list, even to fix their indentation etc. This will likely prevent your PR from being merged.
-   ⚠️ **IMPORTANT NOTE #3:** Please add your name to CONTRIBUTORS.md **NOT** CONTRIBUTORS_OLD.md.
+- ⚠️ **IMPORTANT NOTE #3:** Please add your name to CONTRIBUTORS.md **NOT** CONTRIBUTORS_OLD.md.
 
 8. Add the changes with `git add`, `git commit` ([write a good commit message](https://chris.beams.io/posts/git-commit/), if possible):
 
