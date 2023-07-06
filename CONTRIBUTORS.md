@@ -9818,13 +9818,14 @@
 - [@vishwas](https://github.com/Vishwas1451)
 
 - [@camswo](https://github.com/camswo)
+
 - [@HimansuWebCoder](https://github.com/HimansuWebCoder)
 
 - [@HrayrR](https://github.com/HrayrR)
 
 - [@RavnZi](https://github.com/rbnmgr)
 
-- [@adoniscbatista]	(https://github.com/adoniscbatista)
+- [@adoniscbatista] (https://github.com/adoniscbatista)
 
 - [@gururaj] (https://github.com/Gururajraibagi)
 
@@ -9847,8 +9848,12 @@
 - [Idrees9321] (https://github.com/Idrees9321)
 
 - [@starba3] (https://github.com/starba3)
+
 - [@traynhamdavid426] (https://github.com/traynhamdavid426)
 
 - [@Samarth64s] (https://github.com/Samarth64s)
 
 - [@sne-tis-12] (https://github.com/sne-tis-12)
+
+- [@vickyrwandan](https://github.com/vickyrwandan)
+
