@@ -76,8 +76,6 @@
 
 - [@=Davidsallusti](https://github.com/davidsallusti)
 
-- [@>>>>>>>61F7249Ac45E2E5D3E0D1Eea29029Cc6E81B11D2]()
-
 - [@Aaephraim](https://github.com/aaephraim)
 
 - [@MuhdDanis](https://github.com/MuhdDanis)
