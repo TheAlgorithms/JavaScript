@@ -2893,6 +2893,8 @@
 
 - [@Gsvidal](https://github.com/gsvidal)
 
+- [@guberpriques](https://github.com/guberpriques)
+
 - [@Guilhas5](https://guilhas5.github.io/guilhas5/)
 
 - [@Guilherme013S](https://github.com/Guilherme013S)
