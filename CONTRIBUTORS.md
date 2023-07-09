@@ -22,6 +22,8 @@
 
 - [@02Fede02](https://github.com/02fede02)
 
+- [@Nbk-Juno] (https://github.com/Nbk-Juno)
+
 - [@05Maelket](https://github.com/05Maelket)
 
 - [@08Freyza](https://github.com/08freyza)
