@@ -18,6 +18,8 @@
 
 - [@#Roxana412](https://github.com/roxana412)
 
+- [@Fogudo](https://github.com/Fogudo)
+
 - [@#Sha888](https://github.com/SHA888)
 
 - [@02Fede02](https://github.com/02fede02)
