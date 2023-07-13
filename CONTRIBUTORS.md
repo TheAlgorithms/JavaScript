@@ -2,7 +2,7 @@
 
 - [@#Atef1995](https://github.com/atef1995)
 
--[@mnamesujit](https://github.com/mnamesujit)
+- [@mnamesujit](https://github.com/mnamesujit)
 
 - [@zaidahmad25](https://github.com/zaidahmad25)
 
@@ -24,7 +24,7 @@
 
 - [@02Fede02](https://github.com/02fede02)
 
-- [@Nbk-Juno] (https://github.com/Nbk-Juno)
+- [@Nbk-Juno](https://github.com/Nbk-Juno)
 
 - [@05Maelket](https://github.com/05Maelket)
 
@@ -46,7 +46,7 @@
 
 - [@thomasravetto](https://github.com/thomasravetto)
 
--[@bellsofaba](https://github.com/bellsofaba)
+- [@bellsofaba](https://github.com/bellsofaba)
 
 - [@111Akash](https://github.com/111akash)
 
@@ -64,7 +64,7 @@
 
 - [@1C0Der](https://github.com/@1C0DER)
 
--[@ajv55](https://github.com/ajv55)
+- [@ajv55](https://github.com/ajv55)
 
 - [@1Chrish1](https://github.com/1ChrisH1)
 
@@ -6011,7 +6011,7 @@
 
 - [@Nick1092387456](https://github.com/nick1092387456/)
 
-- [@gzivkovic100] (https://github.com/gzivkovic100)
+- [@gzivkovic100](https://github.com/gzivkovic100)
 
 - [@Nickabate](https://github.com/nickabate)
 
