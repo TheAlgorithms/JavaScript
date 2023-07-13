@@ -18,6 +18,8 @@
 
 - [@#Roxana412](https://github.com/roxana412)
 
+- [@Fogudo](https://github.com/Fogudo)
+
 - [@#Sha888](https://github.com/SHA888)
 
 - [@02Fede02](https://github.com/02fede02)
@@ -5809,6 +5811,8 @@
 
 - [@Mukul314](https://github.com/mukul314)
 
+-[@antonisbelimezakis](https://github.com/antonisbelimezakis)
+
 - [@Mukulbamn](https://github.com/mukulbamn)
 
 - [@Mulduke](https://github.com/Mulduke)
@@ -7130,6 +7134,8 @@
 - [@Riteshbisht12](https://github.com/RiteshBisht12)
 
 - [@Ritikaagrawal811](https://github.com/Ritika-Agrawal811)
+
+- [@Rivka-Levit](https://github.com/rivka-levit)
 
 - [@Riyachavan1986](https://github.com/riyachavan1986)
 
@@ -9703,13 +9709,13 @@
 
 - [@vijultyagi](https://github.com/vijultyagi)
 
-- [https://github.com/jimmybrandti](https://github.com/jimmybrandti)
+- [@jimmybrandti](https://github.com/jimmybrandti)
 
 - [@cdavis83](https://github.com/cdavis83)
 
-- [@Ballantines87] (https://github.com/Ballantines87)
+- [@Ballantines87](https://github.com/Ballantines87)
 
-- [@PingItWide] (https://github.com/PingItWide)
+- [@PingItWide](https://github.com/PingItWide)
 
 - [@Ballantines87](https://github.com/Ballantines87)
 
@@ -9753,7 +9759,7 @@
 
 - [@Kusuma-io](https://github.com/Kusuma-io)
 
-- [@DavidZhu1388] (https://github.com/DavidZhu1388)
+- [@DavidZhu1388](https://github.com/DavidZhu1388)
 
 - [@Deepak-r](https://github.com/KingZeus0108)
 
@@ -9847,9 +9853,9 @@
 
 - [@RavnZi](https://github.com/rbnmgr)
 
-- [@adoniscbatista] (https://github.com/adoniscbatista)
+- [@adoniscbatista](https://github.com/adoniscbatista)
 
-- [@gururaj] (https://github.com/Gururajraibagi)
+- [@gururaj](https://github.com/Gururajraibagi)
 
 - [@guptanikshay](https://github.com/guptanikshay)
 
@@ -9867,15 +9873,17 @@
 
 - [@mitinull](https://github.com/mitinull)
 
-- [Idrees9321] (https://github.com/Idrees9321)
+- [Idrees9321](https://github.com/Idrees9321)
 
-- [@starba3] (https://github.com/starba3)
+- [@starba3](https://github.com/starba3)
 
-- [@traynhamdavid426] (https://github.com/traynhamdavid426)
+- [@traynhamdavid426](https://github.com/traynhamdavid426)
 
-- [@Samarth64s] (https://github.com/Samarth64s)
+- [@Samarth64s](https://github.com/Samarth64s)
 
-- [@sne-tis-12] (https://github.com/sne-tis-12)
+- [@bayoudhdev](https://github.com/bayoudhdev)
+
+- [@sne-tis-12](https://github.com/sne-tis-12)
 
 - [@vickyrwandan](https://github.com/vickyrwandan)
 
@@ -9914,3 +9922,12 @@
 - [@n0nickName7](https://github.com/n0nickName7)
 
 - [@Elsinjer](https://github.com/Elsinjer)
+
+- [@Kmilo29](https://github.com/Kmilo29)
+
+- [@TreFreeman](https://github.com/TreFreeman0)
+
+- [@mebestaca](https://github.com/mebestaca/)
+
+- [@abdullahsadik00](https://github.com/abdullahsadik00/)
+
