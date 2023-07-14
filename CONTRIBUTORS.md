@@ -7805,6 +7805,8 @@
 
 - [@Shayneko](https://github.com/shayneko/)
 
+- [@izpd] (https://github.com/izpd)
+
 - [@Shebani0](https://github.com/Shebani0)
 
 - [@Sheenagonzalez](https://github.com/sheenagonzalez)
