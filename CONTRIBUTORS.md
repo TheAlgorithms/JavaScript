@@ -44,7 +44,7 @@
 
 - [@10Isha](https://github.com/10isha)
 
-- [@baranakilli04](https://github.com/baranakilli04)
+- [@baranakilli](https://github.com/baranakilli)
 
 - [@thomasravetto](https://github.com/thomasravetto)
 
