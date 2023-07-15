@@ -18,6 +18,8 @@
 
 - [@#Rosielee09](https://github.com/rosielee09)
 
+- [@MajorOkino](https://github.com/MajorOkino)
+
 - [@#Roxana412](https://github.com/roxana412)
 
 - [@Fogudo](https://github.com/Fogudo)
