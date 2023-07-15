@@ -598,6 +598,8 @@
 
 - [@Appleinautumn](https://github.com/appleinautumn)
 
+- [@Ellaasthetic] (https://github.com/Ellaasthetic)
+
 - [@Appsbygita](https://github.com/appsbygita)
 
 - [@Araguaci](https://github.com/araguaci)
