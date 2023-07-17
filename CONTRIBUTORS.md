@@ -98,6 +98,8 @@
 
 - [@Aaephraim](https://github.com/aaephraim)
 
+- [@essdoubleu](https://github.com/essdoubleu)
+
 - [@MuhdDanis](https://github.com/MuhdDanis)
 
 - [@Aakarshan369](https://github.com/Aakarshan-369)
@@ -4987,8 +4989,7 @@
 
 - [@Magdalenastachova](https://github.com/magdalenastachova)
 
-- [@Magedmohammed834](https://github.com/magedmohammed834)
--[@Vigneshwaar](https://github.com/V6g1)
+- [@Magedmohammed834](https://github.com/magedmohammed834) -[@Vigneshwaar](https://github.com/V6g1)
 - [@Maggiechudik](https://github.com/maggiechudik)
 
 - [@Magicgionson93](https://github.com/MagicGionson93)
