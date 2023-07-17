@@ -209,6 +209,8 @@
 - [@Addyk16](https://github.com/Addyk16)
 
 - [@Adelmalek](https://github.com/adelmalek)
+  
+- [@BogdanMosica](https://github.com/bogdanmosica)
 
 - [@Adgtheg](https://github.com/AdgtheG)
 
