@@ -1,0 +1,14 @@
+[1mdiff --git a/CONTRIBUTORS.md b/CONTRIBUTORS.md[m
+[1mindex 1779ed25f..a92b94335 100755[m
+[1m--- a/CONTRIBUTORS.md[m
+[1m+++ b/CONTRIBUTORS.md[m
+[36m@@ -10015,4 +10015,6 @@[m
+ [m
+ - [@jngm8](https://github.com/jngm8)[m
+ [m
+[31m-- [@BenProgramming](https://github.com/BenProgramming)[m
+\ No newline at end of file[m
+[32m+[m[32m- [@BenProgramming](https://github.com/BenProgramming)[m
+[32m+[m
+[32m+[m[32m-[@squeakdesign](https://github.com/squeakdesign)[m
+\ No newline at end of file[m
