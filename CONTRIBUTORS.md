@@ -10016,3 +10016,5 @@
 - [@jngm8](https://github.com/jngm8)
 
 - [@BenProgramming](https://github.com/BenProgramming)
+
+- [@Malurian-PHP](https://github.com/Malurian-PHP)
