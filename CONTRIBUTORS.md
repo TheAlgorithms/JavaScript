@@ -211,7 +211,6 @@
 - [@Addyk16](https://github.com/Addyk16)
 
 - [@Adelmalek](https://github.com/adelmalek)
-  
 - [@BogdanMosica](https://github.com/bogdanmosica)
 
 - [@Adgtheg](https://github.com/AdgtheG)
@@ -2332,7 +2331,6 @@
 - [@Enesco99](https://github.com/Enesco99)
 
 - [@Engrzainjaved](https://github.com/Engr-zainjaved)
-
 
 - [@Engurararazov](https://github.com/engurararazov)
 
@@ -4739,6 +4737,8 @@
 - [@Lenguyenhcm325](https://github.com/lenguyenhcm325)
 
 - [@Lenindelarosa](https://github.com/lenindelarosa)
+
+- [@JoseMGuerra](https://github.com/JoseMGuerra)
 
 - [@Lennydamiani](https://github.com/lenny-damiani)
 
