@@ -9993,6 +9993,8 @@
 
 - [@giorgiwebdev](https://github.com/giorgiwebdev)
 
+- [@Bosspro2728](https://github.com/Bosspro2728)
+
 - [@jovanplavsic](https://github.com/jovanplavsic)
 
 - [@EnayatullahHabibi](https://github.com/EnayatullahHabibi)
@@ -10021,8 +10023,9 @@
 
 - [@Malurian-PHP](https://github.com/Malurian-PHP)
 
-- [@ghalebb] (https://github.com/ghalebb)
+- [@ghalebb](https://github.com/ghalebb)
 
--[@iyaseree] (https://github.com/iyaseree)
+- [@iyaseree](https://github.com/iyaseree)
 
--[@NawafSuu](https://github.com/nawafsuu)
+- [@NawafSuu](https://github.com/nawafsuu)
+
