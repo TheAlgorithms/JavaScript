@@ -2418,6 +2418,8 @@
 
 - [@Estif017](https://github.com/Estif017)
 
+- [@Elijahbecerrachen](https://github.com/ElijahBecerra-Chen)
+
 - [@Etanhey](https://github.com/EtanHey)
 
 - [@Etarasova](https://github.com/etarasova)
