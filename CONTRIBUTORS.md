@@ -10017,4 +10017,4 @@
 
 - [@BenProgramming](https://github.com/BenProgramming)
 
--[@squeakdesign](https://github.com/squeakdesign/)
+-[@squeakdesign](https://github.com/squeakdesign)
