@@ -8,29 +8,30 @@
 import { quickSelectSearch } from '../Search/QuickSelectSearch.js'
 
 export const simplifiedWiggleSort = function (arr) {
+  const arrSize = arr.length
   // find Median using QuickSelect
-  let median = quickSelectSearch(arr, Math.floor(arr.length / 2.0))
-  median = median[Math.floor(arr.length / 2.0)]
+  let median = quickSelectSearch(arr, Math.floor(arrSize / 2.0))
+  median = median[Math.floor(arrSize / 2.0)]
 
-  const sorted = new Array(arr.length)
+  const sorted = new Array(arrSize)
 
   let smallerThanMedianIndx = 0
-  let greaterThanMedianIndx = arr.length - 1 - (arr.length % 2)
+  let greaterThanMedianIndx = arrSize - 1 - (arrSize % 2)
 
-  for (let i = 0; i < arr.length; i++) {
-    if (arr[i] > median) {
-      sorted[greaterThanMedianIndx] = arr[i]
+  arr.forEach(element => {
+    if (element > median) {
+      sorted[greaterThanMedianIndx] = element
       greaterThanMedianIndx -= 2
     } else {
-      if (smallerThanMedianIndx < arr.length) {
-        sorted[smallerThanMedianIndx] = arr[i]
+      if (smallerThanMedianIndx < arrSize) {
+        sorted[smallerThanMedianIndx] = element
         smallerThanMedianIndx += 2
       } else {
-        sorted[greaterThanMedianIndx] = arr[i]
+        sorted[greaterThanMedianIndx] = element
         greaterThanMedianIndx -= 2
       }
     }
-  }
+  })
 
   return sorted
 }

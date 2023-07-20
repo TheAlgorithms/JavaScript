@@ -19,7 +19,7 @@ const DateToDay = (dd, mm, yyyy) => {
 
 const DateDayDifference = (date1, date2) => {
   // firstly, check that both input are string or not.
-  if (typeof date1 !== 'string' && typeof date2 !== 'string') {
+  if (typeof date1 !== 'string' || typeof date2 !== 'string') {
     return new TypeError('Argument is not a string.')
   }
   // extract the first date
