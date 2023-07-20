@@ -10058,3 +10058,5 @@
 - [@maidxn](https://github.com/maidxn)
 
 - [@Mustafa05Raza](https://github.com/Mustafa05Raza)
+
+- [@qraztec](https://github.com/qraztec)
