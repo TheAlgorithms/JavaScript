@@ -213,7 +213,6 @@
 - [@Addyk16](https://github.com/Addyk16)
 
 - [@Adelmalek](https://github.com/adelmalek)
-  
 - [@BogdanMosica](https://github.com/bogdanmosica)
 
 - [@Adgtheg](https://github.com/AdgtheG)
@@ -1239,6 +1238,8 @@
 - [@Chalresbryan](https://github.com/ChalresBryan)
 
 - [@Chamikarajanapriya85](https://github.com/chamikarajanapriya85)
+
+- [@Chamindu36](https://github.com/Chamindu36)
 
 - [@Chamodidh](https://github.com/ChamodiDH)
 
@@ -2334,7 +2335,6 @@
 - [@Enesco99](https://github.com/Enesco99)
 
 - [@Engrzainjaved](https://github.com/Engr-zainjaved)
-
 
 - [@Engurararazov](https://github.com/engurararazov)
 
@@ -4000,6 +4000,8 @@
 
 - [@Josefkohoutek](https://github.com/kohojo)
 
+- [@Abolfazl-Rezaei](https://github.com/Abolfazl-Rezaei)
+
 - [@Josekommisar](https://github.com/josekommisar)
 
 - [@Josemlf](https://github.com/josemlf)
@@ -4742,6 +4744,8 @@
 
 - [@Lenindelarosa](https://github.com/lenindelarosa)
 
+- [@JoseMGuerra](https://github.com/JoseMGuerra)
+
 - [@Lennydamiani](https://github.com/lenny-damiani)
 
 - [@Lenspira](https://github.com/lenspira)
@@ -5209,6 +5213,8 @@
 
 - [@Markost96](https://github.com/markost96)
 
+- [@Mikedev23](https://github.com/mikedev23)
+
 - [@Marktlite](https://github.com/MarkTLite)
 
 - [@Markubianis](https://github.com/markubianis)
@@ -5394,6 +5400,8 @@
 - [@Melissamitchell](https://github.com/mel-codingphoenix)
 
 - [@Melissaofficina](https://github.com/MelissaOfficina)
+
+- [@abeonweb](https://github.com/abeonweb)
 
 - [@Meltasy](https://github.com/Meltasy)
 
@@ -9995,6 +10003,8 @@
 
 - [@giorgiwebdev](https://github.com/giorgiwebdev)
 
+- [@Bosspro2728](https://github.com/Bosspro2728)
+
 - [@jovanplavsic](https://github.com/jovanplavsic)
 
 - [@EnayatullahHabibi](https://github.com/EnayatullahHabibi)
@@ -10009,6 +10019,8 @@
 
 - [@willy77229](https://github.com/willy77229)
 
+- [@Esra577](https://github.com/Esra577)
+
 - [@Pazyxx](https://github.com/Pazyxx)
 
 - [@Shajid](https://github.com/mshajid)
@@ -10021,6 +10033,8 @@
 
 - [@BenProgramming](https://github.com/BenProgramming)
 
+- [@squeakdesign](https://github.com/squeakdesign/)
+
 - [@Malurian-PHP](https://github.com/Malurian-PHP)
 
 - [@ghalebb](https://github.com/ghalebb)
@@ -10029,3 +10043,18 @@
 
 - [@NawafSuu](https://github.com/nawafsuu)
 
+- [@NawafSuu](https://github.com/nawafsuu)
+
+- [@Boanerges](https://github.com/callanrichardsmith)
+
+- [@Ojas13-git](https://github.com/Ojas13-git)
+
+- [@moha-mohajer](https://github.com/moha-mohajer)
+
+- [@Anianonymous](https://github.com/Anianonymous)
+
+- [@lucas-pmelo](https://github.com/lucas-pmelo)
+
+- [@maidxn](https://github.com/maidxn)
+
+- [@Mustafa05Raza](https://github.com/Mustafa05Raza)
