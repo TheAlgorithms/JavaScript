@@ -1,5 +1,6 @@
 * **Backtracking**
   * [AllCombinationsOfSizeK](Backtracking/AllCombinationsOfSizeK.js)
+  * [generateParentheses](Backtracking/generateParentheses.js)
   * [GeneratePermutations](Backtracking/GeneratePermutations.js)
   * [KnightTour](Backtracking/KnightTour.js)
   * [NQueens](Backtracking/NQueens.js)
@@ -18,12 +19,14 @@
   * [Memoize](Cache/Memoize.js)
 * **Cellular-Automata**
   * [ConwaysGameOfLife](Cellular-Automata/ConwaysGameOfLife.js)
+  * [Elementary](Cellular-Automata/Elementary.js)
 * **Ciphers**
   * [AffineCipher](Ciphers/AffineCipher.js)
   * [Atbash](Ciphers/Atbash.js)
   * [CaesarCipher](Ciphers/CaesarCipher.js)
   * [KeyFinder](Ciphers/KeyFinder.js)
   * [KeywordShiftedAlphabet](Ciphers/KeywordShiftedAlphabet.js)
+  * [MorseCode](Ciphers/MorseCode.js)
   * [ROT13](Ciphers/ROT13.js)
   * [VigenereCipher](Ciphers/VigenereCipher.js)
   * [XORCipher](Ciphers/XORCipher.js)
@@ -66,6 +69,7 @@
     * [Graph2](Data-Structures/Graph/Graph2.js)
     * [Graph3](Data-Structures/Graph/Graph3.js)
   * **Heap**
+    * [KeyPriorityQueue](Data-Structures/Heap/KeyPriorityQueue.js)
     * [MaxHeap](Data-Structures/Heap/MaxHeap.js)
     * [MinHeap](Data-Structures/Heap/MinHeap.js)
     * [MinPriorityQueue](Data-Structures/Heap/MinPriorityQueue.js)
@@ -112,7 +116,10 @@
   * [Shuf](Dynamic-Programming/Shuf.js)
   * [SieveOfEratosthenes](Dynamic-Programming/SieveOfEratosthenes.js)
   * **Sliding-Window**
+    * [HouseRobber](Dynamic-Programming/Sliding-Window/HouseRobber.js)
     * [LongestSubstringWithoutRepeatingCharacters](Dynamic-Programming/Sliding-Window/LongestSubstringWithoutRepeatingCharacters.js)
+    * [MaxConsecutiveOnes](Dynamic-Programming/Sliding-Window/MaxConsecutiveOnes.js)
+    * [MaxConsecutiveOnesIII](Dynamic-Programming/Sliding-Window/MaxConsecutiveOnesIII.js)
     * [PermutationinString](Dynamic-Programming/Sliding-Window/PermutationinString.js)
   * [SudokuSolver](Dynamic-Programming/SudokuSolver.js)
   * [TrappingRainWater](Dynamic-Programming/TrappingRainWater.js)
@@ -212,6 +219,7 @@
   * [ModularBinaryExponentiationRecursive](Maths/ModularBinaryExponentiationRecursive.js)
   * [NumberOfDigits](Maths/NumberOfDigits.js)
   * [Palindrome](Maths/Palindrome.js)
+  * [ParityOutlier](Maths/ParityOutlier.js)
   * [PascalTriangle](Maths/PascalTriangle.js)
   * [PerfectCube](Maths/PerfectCube.js)
   * [PerfectNumber](Maths/PerfectNumber.js)
@@ -365,7 +373,6 @@
   * [Upper](String/Upper.js)
   * [ValidateCreditCard](String/ValidateCreditCard.js)
   * [ValidateEmail](String/ValidateEmail.js)
-  * [ValidateUrl](String/ValidateUrl.js)
   * [ZFunction](String/ZFunction.js)
 * **Timing-Functions**
   * [GetMonthDays](Timing-Functions/GetMonthDays.js)
