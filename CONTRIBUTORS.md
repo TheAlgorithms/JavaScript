@@ -10045,4 +10045,6 @@
 
 - [@lucas-pmelo](https://github.com/lucas-pmelo)
 
+- [@maidxn](https://github.com/maidxn)
+
 -[@Mustafa05Raza](https://github.com/Mustafa05Raza)
