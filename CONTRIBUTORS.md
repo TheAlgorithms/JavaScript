@@ -10062,3 +10062,5 @@
 - [@ash543210](https://github.com/ash543210)
 
 - [@qraztec](https://github.com/qraztec)
+
+- [@kennyalmendral](https://github.com/kennyalmendral)
