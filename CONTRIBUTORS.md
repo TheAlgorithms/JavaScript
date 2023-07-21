@@ -8,6 +8,8 @@
 
 - [@imfrancorp](https://github.com/imfrancorp)
 
+- [@Lairdfire](https://github.com/Lairdfire)
+
 - [@izzatkarimov](https://github.com/izzatkarimov)
 
 - [@BenProgramming](https://github.com/BenProgramming)
