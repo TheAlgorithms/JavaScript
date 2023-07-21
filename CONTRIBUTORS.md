@@ -10,9 +10,9 @@
 
 - [@Lairdfire](https://github.com/Lairdfire)
 
-- [@Donoven-Lam] (https://github.com/Donoven-Lam)
+- [@Donoven-Lam](https://github.com/Donoven-Lam)
 
-- [@g0k4yy] (https://github.com/g0k4yy)
+- [@g0k4yy](https://github.com/g0k4yy)
 
 - [@izzatkarimov](https://github.com/izzatkarimov)
 
