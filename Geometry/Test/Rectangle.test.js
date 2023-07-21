@@ -14,6 +14,6 @@ test('The length of each diagonal in a rectangle with length equal to 4 and widt
   expect(parseFloat(rectangle.diagonalLength().toFixed(2))).toEqual(4.47)
 })
 
-test('A rectangle with length equal to 4 and width equal to 2 is sqaure ? : ', () => {
+test('A rectangle with length equal to 4 and width equal to 2 is square ? : ', () => {
   expect(rectangle.isSquare()).toEqual(false)
 })
