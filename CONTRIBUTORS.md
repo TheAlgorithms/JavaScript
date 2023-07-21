@@ -6,6 +6,8 @@
 
 - [@jngm8](https://github.com/jngm8)
 
+- [@izzatkarimov](https://github.com/izzatkarimov)
+
 - [@BenProgramming](https://github.com/BenProgramming)
 
 - [@sammanamgain](https://github.com/sammanamgain)
