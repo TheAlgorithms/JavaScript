@@ -6,7 +6,7 @@
 
 - [@jngm8](https://github.com/jngm8)
 
-- [imfrancorp](https://github.com/imfrancorp)
+- [@imfrancorp](https://github.com/imfrancorp)
 
 - [@izzatkarimov](https://github.com/izzatkarimov)
 
