@@ -34,6 +34,8 @@
 
 - [@02Fede02](https://github.com/02fede02)
 
+- [@tr15tan01](https://github.com/Tr15tan01)
+
 - [@Nbk-Juno](https://github.com/Nbk-Juno)
 
 - [@05Maelket](https://github.com/05Maelket)
@@ -10109,7 +10111,7 @@
 
 - [@Krenbot](https://github.com/Krenbot)
 
-- [@nad-garraz](https://github.com/nad-garraz) 
+- [@nad-garraz](https://github.com/nad-garraz)
 
 - [@mayureshthakur](https://github.com/mayureshthakur)
 
