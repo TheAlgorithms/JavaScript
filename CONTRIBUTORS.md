@@ -10119,7 +10119,8 @@
 
 - [@Krenbot](https://github.com/Krenbot)
 
-- [@model-donkey] (https://github.com/model-donkey)
+- [@model-donkey](https://github.com/model-donkey)
+
 - [@nad-garraz](https://github.com/nad-garraz)
 
 - [@mayureshthakur](https://github.com/mayureshthakur)
