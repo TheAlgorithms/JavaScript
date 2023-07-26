@@ -4110,6 +4110,8 @@
 
 - [@Juackomdz](https://github.com/juackomdz)
 
+- [@amanexe](https://github.com/amanexe)
+
 - [@Juanca99Col](https://github.com/JUANCA99COL)
 
 - [@Juandavid9909](https://github.com/Juandavid9909)
