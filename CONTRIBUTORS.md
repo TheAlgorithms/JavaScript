@@ -4,6 +4,8 @@
 
 - [@#PrakashYashwanth](https://github.com/PrakashYashwanth)
 
+- [@faolad](https://github.com/faolad)
+
 - [@DHROOV](https://github.com/dhroovarora)
 
 - [@mnamesujit](https://github.com/mnamesujit)
