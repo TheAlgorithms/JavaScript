@@ -52,6 +52,8 @@
 
 - [@0Xxerkan](https://github.com/0xXerkan/)
 
+- [@faraimajor](https://github.com/FaraiMajor)
+
 - [@0Xzonav](https://github.com/0xZonaV)
 
 - [@10Isha](https://github.com/10isha)
