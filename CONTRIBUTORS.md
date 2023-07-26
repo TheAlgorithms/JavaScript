@@ -5081,6 +5081,8 @@
 
 - [@Makiricode](https://github.com/Makiri-Code)
 
+- [@thecrasx](https://github.com/thecrasx)
+
 - [@Malandacs](https://github.com/MalandaCS)
 
 - [@Malicodes2](https://github.com/malicodes2)
