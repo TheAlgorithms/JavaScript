@@ -52,6 +52,8 @@
 
 - [@0Xxerkan](https://github.com/0xXerkan/)
 
+- [@faraimajor](https://github.com/FaraiMajor)
+
 - [@0Xzonav](https://github.com/0xZonaV)
 
 - [@10Isha](https://github.com/10isha)
@@ -1034,6 +1036,8 @@
 - [@Brianwhelandublin](https://github.com/BrianWhelanDublin)
 
 - [@Briendeau](https://github.com/briendeau)
+
+- [@BridgerBrown](https://github.com/bridgerbrown)
 
 - [@Britolliver](https://github.com/britolliver)
 
@@ -4105,6 +4109,8 @@
 - [@Jteitel10](https://github.com/jteitel10)
 
 - [@Juackomdz](https://github.com/juackomdz)
+
+- [@amanexe](https://github.com/amanexe)
 
 - [@Juanca99Col](https://github.com/JUANCA99COL)
 
@@ -10115,6 +10121,8 @@
 
 - [@Krenbot](https://github.com/Krenbot)
 
+- [@model-donkey](https://github.com/model-donkey)
+
 - [@nad-garraz](https://github.com/nad-garraz)
 
 - [@mayureshthakur](https://github.com/mayureshthakur)
@@ -10144,3 +10152,5 @@
 - [@amnaa01](https://github.com/amnaa01)
 
 - [@KingOdds](https://github.com/KingOdds)
+
+- [@Rafael-006](https://github.com/Rafael-006)
