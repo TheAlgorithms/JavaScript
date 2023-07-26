@@ -1035,6 +1035,8 @@
 
 - [@Briendeau](https://github.com/briendeau)
 
+- [@BridgerBrown](https://github.com/bridgerbrown)
+
 - [@Britolliver](https://github.com/britolliver)
 
 - [@Brudevtek](https://github.com/brudevtek/)
