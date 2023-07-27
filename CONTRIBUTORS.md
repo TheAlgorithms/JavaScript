@@ -4,7 +4,7 @@
 
 - [@#PrakashYashwanth](https://github.com/PrakashYashwanth)
 
--[@jasukaur] (https://github.com/jasukaur)
+- [@#jasukaur](https://github.com/jasukaur)
 
 - [@faolad](https://github.com/faolad)
 
