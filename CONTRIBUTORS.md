@@ -251,6 +251,8 @@
 
 - [@Adobbs](https://github.com/adobbs)
 
+- [@SirekFr](https://github.com/SirekFr)
+
 - [@Adpenrose](https://github.com/ADPenrose)
 
 - [@Adrathje](https://github.com/adrathje)
