@@ -5105,6 +5105,8 @@
 
 - [@Mallopython](https://github.com/MalloPython)
 
+- [@MrLaVisuals](https://github.com/MrLaVisuals)
+
 - [@Malz00](https://github.com/Malz00)
 
 - [@Mamounattaallah](https://github.com/MamounAttaallah)
