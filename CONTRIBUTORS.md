@@ -2018,6 +2018,8 @@
 - [@Divyeshrathod](https://github.com/divyesh-rathod)
 - [@DIWAKARKASHYAP](https://github.com/DIWAKARKASHYAP)
 
+- [@sgitwhyd](https://github.com/sgitwhyd)
+
 - [@Djaferimehmed](https://github.com/djaferimehmed)
 
 - [@Djordjevicv](https://github.com/djordjevicv)
@@ -10244,4 +10246,6 @@
 - [@erickelninoSwift](https://github.com/erickelninoSwift)
 
 - [@vanguyendev](https://github.com/vanguyendev/)
+
+- [@Yesod-star](https://github.com/Yesod-star)
 
