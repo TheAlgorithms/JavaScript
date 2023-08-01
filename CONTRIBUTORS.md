@@ -18,6 +18,8 @@
 
 - [@HamidSafdari7](https://github.com/HamidSafdari7)
 
+- [@Deadman621](https://github.com/Deadman621)
+
 - [@#Kthao21](https://github.com/kthao21)
 
 - [@#Mfazeel](https://github.com/m-fazeel)
