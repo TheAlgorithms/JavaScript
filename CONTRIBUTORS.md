@@ -3118,6 +3118,8 @@
 
 - [@Hash0021](https://github.com/HASH-0021)
 
+- [@8hassan](https://github.com/8hassan) 
+
 - [@Hassan28](https://github.com/Hassan-28)
 
 - [@Hassankarrach](https://github.com/hassankarrach)
@@ -10269,4 +10271,4 @@
 
 - [@Xros3x](https://github.com/Xros3x)
 
-
+- [@RipRed7](https://github.com/RipRed7)
