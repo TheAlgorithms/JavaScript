@@ -1,5 +1,5 @@
 # CONTRIBUTORS
--[@aqibkhan20](https://github.com/aqibkhan20)
+- [@aqibkhan20](https://github.com/aqibkhan20)
 
 - [@#Atef1995](https://github.com/atef1995)
 
@@ -10264,11 +10264,11 @@
 
 - [@alexcloudstar](https://github.com/alexcloudstar)
 
-- [@raoulzeno] (https://github.com/raoulzeno)
+- [@raoulzeno](https://github.com/raoulzeno)
 
-- [@TheCarGuru] (https://github.com/TheCarGuru)
+- [@TheCarGuru](https://github.com/TheCarGuru)
 
-- [@ayushv9] (https://github.com/ayushv9)
+- [@ayushv9](https://github.com/ayushv9)
 
 - [@Xros3x](https://github.com/Xros3x)
 
