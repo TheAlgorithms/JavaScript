@@ -2,6 +2,8 @@
 
 - [@aqibkhan20](https://github.com/aqibkhan20)
 
+- [@makhalifa](https://github.com/makhalifa)
+
 - [@#Atef1995](https://github.com/atef1995)
 
 - [@#PrakashYashwanth](https://github.com/PrakashYashwanth)
