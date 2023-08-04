@@ -2726,7 +2726,7 @@
 
 - [@Gabeifeoluwa](https://github.com/Gabeifeoluwa)
 
--[GabeMedeiros](https://github.com/GabeMedeiros)
+-[@GabeMedeiros](https://github.com/GabeMedeiros)
 
 - [@Gabevelasquez](https://github.com/Gabe-Velasquez)
 
