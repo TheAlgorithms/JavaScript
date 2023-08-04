@@ -6997,6 +6997,8 @@
 
 - [@Rajehmerhi](https://github.com/rajehmerhi)
 
+- [@megatron05](https://github.com/megatron05)
+
 - [@Rajesh2132](https://github.com/RAJESH2132)
 
 - [@Rajevercrazy](https://github.com/rajevercrazy)
@@ -10310,3 +10312,6 @@
 - [@dhruvkjain](https://github.com/dhruvkjain)
 
 - [@abecirovic](https://github.com/abecirovic)
+
+- [nmowens95](https://github.com/nmowens95)
+
