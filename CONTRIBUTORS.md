@@ -10324,4 +10324,7 @@
 - [@granthonaker](https://github.com/granthonaker)
 
 - [@aleks-123](https://github.com/aleks-123)
--[@Chris-AS7](https://github.com/Chris-AS7)
+
+- [@Chris-AS7](https://github.com/Chris-AS7)
+
+- [@JackMichell](https://github.com/JackMichell)
