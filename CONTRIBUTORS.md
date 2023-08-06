@@ -10307,7 +10307,7 @@
 
 - [@XanderClemens](https://github.com/XanderClemens)
 
--[@ar-darmawan](https://github.com/ar-darmawan)
+- [@ar-darmawan](https://github.com/ar-darmawan)
 
 - [@kumar-abhi001](https://github.com/kumar-abhi001)
 
@@ -10327,4 +10327,5 @@
 
 - [@aleks-123](https://github.com/aleks-123)
 
--[@ar-darmawan](https://github.com/ar-darmawan)
+- [@Chris-AS7](https://github.com/Chris-AS7)
+
