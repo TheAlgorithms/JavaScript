@@ -160,7 +160,7 @@
 
 - [@Abdi123](https://github.com/@abdi-123)
 
-- [@Yashita1512] (https://github.com/Yashita1512)
+- [@Yashita1512](https://github.com/Yashita1512)
 
 - [@Abdifatahsaid](https://github.com/Abdifatah-said)
 
@@ -457,7 +457,7 @@
 
 - [@Almopt](https://github.com/Almopt)
 
-- [@Mratthial] (https://github.com/Mratthial)
+- [@Mratthial](https://github.com/Mratthial)
 
 - [@Alperencngz](https://github.com/alperencngz)
 
@@ -2728,7 +2728,7 @@
 
 - [@Gabeifeoluwa](https://github.com/Gabeifeoluwa)
 
--[@GabeMedeiros](https://github.com/GabeMedeiros)
+- [@GabeMedeiros](https://github.com/GabeMedeiros)
 
 - [@Gabevelasquez](https://github.com/Gabe-Velasquez)
 
@@ -3284,7 +3284,7 @@
 
 - [@Hswootan](https://github.com/hswootan)
 
-- [@Https://Github.Com/Jimmybrandti](https://github.com/jimmybrandti)
+- [@Jimmybrandti](https://github.com/jimmybrandti)
 
 - [@Htuohz](https://github.com/htuohz)
 
@@ -5058,7 +5058,10 @@
 
 - [@Magdalenastachova](https://github.com/magdalenastachova)
 
-- [@Magedmohammed834](https://github.com/magedmohammed834) -[@Vigneshwaar](https://github.com/V6g1)
+- [@Magedmohammed834](https://github.com/magedmohammed834) 
+
+- [@Vigneshwaar](https://github.com/V6g1)
+
 - [@Maggiechudik](https://github.com/maggiechudik)
 
 - [@Magicgionson93](https://github.com/MagicGionson93)
@@ -5577,7 +5580,7 @@
 
 - [@Mikedev23](https://github.com/mikedev23)
 
-- [@ugnotbug] (https://github.com/ugnotbug)
+- [@ugnotbug](https://github.com/ugnotbug)
 
 - [@Mikeescro](https://github.com/mikeescro)
 
@@ -7723,7 +7726,7 @@
 
 - [@Schandroid243](https://github.com/Schandroid243)
 
--[@TiffanyClark](https://github.com/TiffanyClark)
+- [@TiffanyClark](https://github.com/TiffanyClark)
 
 - [@Schospel](https://github.com/schospel)
 
@@ -10331,4 +10334,4 @@
 
 - [@JackMichell](https://github.com/JackMichell)
 
-
+- [@GlobuloBianco](https://github.com/GlobuloBianco)
