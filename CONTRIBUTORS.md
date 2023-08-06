@@ -10340,6 +10340,3 @@
 - [@Andrewl920](https://github.com/Andrewl920)
 
 - [@torqitune](https://github.com/torqitune)
-
-- [@OmriCohen10](https://github.com/OmriCohen10)
-
