@@ -3180,6 +3180,8 @@
 
 - [@Helluv](https://github.com/HelLuv)
 
+- [@TillScholten](https://github.com/TillScholten)
+
 - [@Hemangkrish7](https://github.com/hemangkrish7)
 
 - [@Hemantsachdeva](https://github.com/HemantSachdeva)
@@ -4254,6 +4256,8 @@
 
 - [@Kajarosz](https://github.com/kajarosz)
 
+- [@yazanAlsioud](https://github.com/yazanAlsioud)
+
 - [@Kakomis](https://github.com/Kakomis)
 
 - [@Kalitanyi58](https://github.com/kalitanyi58)
@@ -4409,6 +4413,8 @@
 - [@Keithebbett](https://github.com/KeithEbbett)
 
 - [@Keitqr](https://github.com/keitqr)
+
+- [@mahmouddello](https://github.com/mahmouddello)
 
 - [@Kel](https://github.com/K-eL)
 
@@ -10335,3 +10341,16 @@
 - [@JackMichell](https://github.com/JackMichell)
 
 - [@GlobuloBianco](https://github.com/GlobuloBianco)
+
+- [@RATACIA](https://github.com/RATACIA)
+
+- [@Andrewl920](https://github.com/Andrewl920)
+
+- [@torqitune](https://github.com/torqitune)
+
+- [@OmriCohen10](https://github.com/OmriCohen10)
+
+- [@x0bd](https://github.com/x0bd)
+
+- [@pedrolimatorres](https://github.com/pedrolimatorres)
+
