@@ -121,6 +121,8 @@
 
 - [@=Davidsallusti](https://github.com/davidsallusti)
 
+- [@dmgasques](https://github.com/dmgasques)
+
 - [@Aaephraim](https://github.com/aaephraim)
 
 - [@essdoubleu](https://github.com/essdoubleu)
