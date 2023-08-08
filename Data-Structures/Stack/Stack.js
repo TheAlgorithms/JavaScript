@@ -12,7 +12,7 @@ const Stack = (function () {
   function Stack () {
     // The top of the Stack
     this.top = 0
-    // The array representation of the stack
+   // my comments 
     this.stack = []
   }
 
