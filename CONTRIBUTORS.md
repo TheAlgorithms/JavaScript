@@ -10370,3 +10370,5 @@
 - [@renzonv](https://github.com/renzonv)
 
 -[AkshaySharma-a](https://github.com/AkshaySharma-a/)
+
+-[@kaimajerus](https://github.com/kai-majerus/)
