@@ -10237,6 +10237,8 @@
 
 - [@alex-wd23](https://github.com/alex-wd23)
 
+- [@pranayadna](https://github.com/pranayadna)
+
 - [@madhav037](https://github.com/madhav037)
 
 - [@kesienajoel](https://github.com/kesienajoel)
@@ -10385,4 +10387,3 @@
 
 - [@TB20TB05TB](https://github.com/TB20TB05TB)
 
-- [@pranayadna](https://github.com/pranayadna)
