@@ -97,6 +97,8 @@
 
 - [@ajv55](https://github.com/ajv55)
 
+- [@zabihshaik](https://github.com/zabihshaik)
+
 - [@1Chrish1](https://github.com/1ChrisH1)
 
 - [@3Gruby](https://github.com/3GRuby)
