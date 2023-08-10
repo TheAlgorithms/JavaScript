@@ -16,6 +16,8 @@
 
 - [@DHROOV](https://github.com/dhroovarora)
 
+- [@aksh-ay06](https://github.com/aksh-ay06)
+
 - [@mnamesujit](https://github.com/mnamesujit)
 
 - [@zaidahmad25](https://github.com/zaidahmad25)
