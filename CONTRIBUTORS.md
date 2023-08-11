@@ -9,3 +9,5 @@
 - [@MiguelGiraldoG](https://github.com/MiguelGiraldoG)
 
 - [@malvinportner](https://github.com/malvinportner/)
+
+- [@Hoithak](https://github.com/Hoithak/)
