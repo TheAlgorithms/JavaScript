@@ -1,0 +1,808 @@
+<style>
+html {
+    background-color: var(--background);
+    margin: 16px;
+}
+body {
+    color: var(--foreground);
+    font-family: "Open Sans", "Helvetica Neue", "Segoe UI", Helvetica, Arial, sans-serif;
+}
+
+ul {
+    padding-left: 1.2rem;
+}
+li { margin: 2px; }
+li ul {
+    margin: 2px 0 4px;
+}
+ul.topic {
+    margin-top: 0;
+    padding-left: 1.5rem;
+}
+ul.topic ul {
+    margin: 0.2em 0;
+}
+
+h1 {
+    color: color(var(--foreground) l(- 10%));
+    font-size: 2.0rem;
+    margin: 0;
+}
+html.dark h1 {
+    color: color(var(--foreground) l(+ 10%));
+}
+h2 {
+    color: color(var(--foreground) a(0.9));
+    font-size: 1.4rem;
+    margin: 1em 0 0.1em 0;
+}
+a {
+    color: var(--bluish);
+}
+article { display: block; }
+.release-date, .forum-link {
+    font-size: 0.9rem;
+    font-style: italic;
+    color: color(var(--foreground) a(0.7));
+}
+tt {
+    font-size: 0.9em;
+    border-radius: 2px;
+    background-color: rgba(0, 0, 0, 0.08);
+    padding: 0 4px;
+}
+html.dark tt {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+</style>
+
+<h1>Stable Channel Changelog</h1>
+
+<article class="current">
+<h2>Build 4143</h2>
+<div class="release-date">11 November 2022</div>
+<ul>
+    <li>Fixed a performance regression in 4142 on color schemes with very complex selectors</li>
+    <li>Folded regions no longer include the trailing newline by default</li>
+    <li>Fixed selection jumping when clicking on a fold marker</li>
+</ul>
+</article>
+
+<article>
+<h2>Build 4142</h2>
+<div class="release-date">10 November 2022</div>
+<ul>
+    <li>Added syntax-based code folding</li>
+    <li>Various syntax highlighting improvements</li>
+    <li>Newly rewritten Haskell syntax highlighting thanks to <a href="https://github.com/deathaxe">deathaxe</a></li>
+    <li>The recent file list is now global instead of per window</li>
+    <li>Files opened in Sublime Text are now added to the system recent file list (See the <tt>"update_system_recent_files"</tt> setting)</li>
+    <li>Added commands for converting between common identifier cases (See <i>Edit > Convert Case</i>)</li>
+    <li>Added <tt>"hot_exit_projects"</tt> setting to control what data gets saved in workspace files</li>
+    <li>Added <tt>"minimap_horizontal_scrolling"</tt> setting</li>
+    <li>Added <tt>"open_tabs_after_current"</tt> setting for controlling where tabs are opened</li>
+    <li>Added <tt>"show_spelling_errors"</tt> and <tt>"show_line_column"</tt> settings</li>
+    <li>Added <tt>"goto_anything_exclude_gitignore"</tt> setting</li>
+    <li>Added <tt>"ruler_style"</tt> setting</li>
+    <li>Reworked comment toggling to better handle embedded languages</li>
+    <li>Sub-word separators are now configurable using the <tt>"sub_word_separators"</tt> setting</li>
+    <li>Added support for Nordic (Windows 865) encoding</li>
+    <li>Reopening a file now asks for confirmation when there are unsaved changes</li>
+    <li>Improved filesystem symbolic link detection</li>
+    <li>Improved performance while open folders are scanned for the side-bar</li>
+    <li>Improved regex performance for syntax highlighting</li>
+    <li>Find: Patterns taken from an open file are now escaped for regex searches</li>
+    <li>Find in Files: Improved binary file detection for find-in-files</li>
+    <li>Find in Files: Find-in-files now supports project-relative patterns starting with <tt>//</tt></li>
+    <li>Find in Files: Added the <tt>"find_in_files_max_file_size"</tt> setting</li>
+    <li>Syntax Highlighting: Context backtraces now link to their origin in sublime-syntax files</li>
+    <li>Syntax Highlighting: Fixed crash caused by starting a branch point at the end of a line</li>
+    <li>Syntax Highlighting: Fixed various syntax highlighting bugs related to backtracking</li>
+    <li>Rendering: Improved performance with large folded regions</li>
+    <li>Rendering: Fixed OpenGL issue related to the wrong context being active</li>
+    <li>Rendering: Fixed shadow related OpenGL rendering bug</li>
+    <li>Rendering: Fixed region rendering edge case</li>
+    <li>Rendering: Improved performance in files with large diffs</li>
+    <li>Rendering: Fixed various issues with faded labels in the sidebar</li>
+    <li>Rendering: Fixed text annotation underlines not drawing when combined with other font styles</li>
+    <li>Sort Lines no longer includes the newline at EOF when nothing is selected</li>
+    <li>Fixed very large unsaved files being lost on hot exit; a prompt is now shown to save them</li>
+    <li>Fixed extraneous window getting created at startup with hot exit disabled</li>
+    <li>Fixed case where multiple reload prompts could show simultaneously</li>
+    <li>Drag operations are no longer interrupted when reloading a file</li>
+    <li>Fixed case where text in command palette was incorrectly colored</li>
+    <li>Fixed side bar button theming issue in the Default theme</li>
+    <li>Fixed sometimes not being able to type a space after completing a snippet</li>
+    <li>Fixed wrong default extension being used in open file dialog</li>
+    <li>Fixed centered views jumping in some cases when whole content is replaced</li>
+    <li>Fixed scroll jumping when folding</li>
+    <li>Fixed <i>Reveal in Side Bar</i> not working in some cases</li>
+    <li>Fixed scroll bar sometimes showing when text is wrapped</li>
+    <li>Fixed sheets not being added to the current selection in some cases</li>
+    <li>Added missing theming attributes to update dialog</li>
+    <li>Linux: System scroll bar overlay settings are now followed</li>
+    <li>Linux: Fixed various issues caused by the C locale</li>
+    <li>Linux: Added safeguard around nested GTK main loops possibly causing data loss</li>
+    <li>Linux: Fixed case where dragging a tab to a window wasn't working</li>
+    <li>Linux: Fixed crash on startup for some desktop environments</li>
+    <li>Linux: Fixed not being able to grab the scrollbar in a maximized window when at the right edge of the screen</li>
+    <li>Windows: Adjusted for the new Windows 11 window border</li>
+    <li>Windows: <i>Open Containing Folder</i> and similar now respect file explorer replacements</li>
+    <li>Windows: Fixed GDI font glow glyph positioning</li>
+    <li>Mac: Fixed license being removed due to network MAC address changing</li>
+    <li>Mac: Fixed cursor getting stuck as a resize handle on Ventura</li>
+    <li>Mac: Recent files are now available without having a window open</li>
+    <li>Mac: Fixed various issues with the quick switch project dialog</li>
+    <li>Mac: Fixed issue where dialogs could be triggered during dialogs</li>
+    <li>Mac: Fixed case when opening an already open file would jump to the start</li>
+    <li>Mac: Added work around for broken modal loops</li>
+    <li>Mac: Fixed case where settings window couldn't be closed</li>
+    <li>Mac: Fixed open file dialog crash with some syntaxes</li>
+    <li>Mac: Fixed scrolling when command modifier key is pressed</li>
+    <li>Mac: Fixed Window/New Tab not working with the Adaptive theme</li>
+    <li>API: Added <tt>buffer</tt> variable to the console</li>
+    <li>API: A <tt>noop</tt> command can now be used for keybindings to block default behavior</li>
+    <li>API: <tt>"encoded_position": true</tt> may be passed to <tt>open_file</tt> command for the same behavior as <tt>sublime.ENCODED_POSITION</tt></li>
+    <li>API: <tt>View.context_backtrace</tt> can be used to get a stack trace from syntax highlighting</li>
+    <li>API: <tt>View.expand_to_scope</tt> now returns <tt>None</tt> when the text point doesn't match the selector</li>
+    <li>API: Added <tt>View.expand_to_scope</tt></li>
+    <li>API: Added <tt>Window.promote_sheet</tt></li>
+    <li>API: Fixed crash when running <tt>hide_panel</tt> command from <tt>EventListener.on_deactivated</tt></li>
+    <li>API: The <tt>toggle_comment</tt> command can now take a <tt>variant</tt> argument for languages with multiple comment variants</li>
+</ul>
+</article>
+
+<article>
+<h2>Build 4126</h2>
+<div class="release-date">21 December 2021</div>
+<ul>
+    <li>Improved OpenGL rendering performance by automatically batching together controls</li>
+    <li>Added support for Chinese standard GB18030 file encoding</li>
+    <li>Added support for CP862 file encoding</li>
+    <li>Resolved various issues tracking symlinks in the side-bar</li>
+    <li>Avoid session data corruption if a crash happens while saving the session</li>
+    <li><tt>subl -n</tt> will reuse an existing empty window if the application isn't running</li>
+    <li>Binary files now show as "Binary" syntax instead of "Plain Text" in the status bar</li>
+    <li>Fixed wildcards incorrectly matching subpaths (For settings like <tt>"folder_exclude_patterns"</tt>)</li>
+    <li>Made <tt>"find_in_files_max_result_size"</tt> not apply when replacing</li>
+    <li>Fixed crash when loading invalid grid layout from session</li>
+    <li>Fixed spell checker incorrectly marking some words as correct if they can't be encoded</li>
+    <li>Fixed rendering order of successive popups</li>
+    <li>Fixed package subfolders sometimes not being loaded when matching the <tt>"ignored_packages"</tt> setting</li>
+    <li>Fixed layout instability in side bar causing things to occasionally be rendered 1 pixel off</li>
+    <li>Added some missing glyphs to <tt>"draw_unicode_white_space": "all"</tt></li>
+    <li>Added <tt>"draw_unicode_bidi"</tt> setting for drawing unicode bidi characters</li>
+    <li>Added <tt>"select_across_groups"</tt> setting for opting into the old side bar selection behavior when selecting a single file</li>
+    <li>Fixed <tt>"close_windows_when_empty"</tt> setting not working</li>
+    <li>Fixed goto-definition preview not closing on escape</li>
+    <li>Fixed quick panel closing on enter when there are no matching entries</li>
+    <li>Syntax Highlighting: Fixed backtracking breaking when creating phantoms or doing a context backtrace</li>
+    <li>Syntax Highlighting: Fixed regression with some syntax definitions introduced in 4115</li>
+    <li>Linux: Added missing <tt>libcurl</tt> dependency for package managers</li>
+    <li>Linux: Fixed GTK overriding <tt>LC_NUMERIC</tt> environment variable breaking serialization</li>
+    <li>Windows: Fixed command line not taking focus after closing a waited on file</li>
+    <li>Windows: Fixed crash when OpenGL initialization fails</li>
+    <li>Mac: Aliases are now resolved when using drag and drop</li>
+    <li>Mac: Fixed window sometimes being restored on startup when <tt>"create_window_at_startup"</tt> is disabled</li>
+    <li>Mac: Fixed native tabs restoration resulting in odd behavior</li>
+    <li>Mac: Fixed <tt>subl -b</tt> not working</li>
+    <li>Mac: Fixed terminal not being focused after waiting on file</li>
+    <li>Mac: Fixed <i>Window > Merge All Windows</i> merging minimized windows</li>
+    <li>Mac: Fixed various inconsistencies when opening files from finder</li>
+    <li>API: The <tt>show_panel</tt> command for the find and find in files panels can now take <tt>"pattern"</tt> and <tt>"replace_pattern"</tt> arguments</li>
+    <li>API: <tt>ListInputHandler.preview</tt> is now called with <tt>None</tt> when no items match the current filter</li>
+    <li>API: Fixed case where <tt>Window.project_data()</tt> could return an invalid value</li>
+    <li>API: Opening a new pane moves currently selected sheets</li>
+    <li>API: Added <tt>Window.move_sheets_to_group</tt></li>
+    <li>API: The commands <tt>move_to</tt> and <tt>move_to_neighbouring</tt> now move currently selected sheets</li>
+</ul>
+</article>
+
+<article>
+<h2>Build 4121</h2>
+<div class="release-date">26 October 2021</div>
+<ul>
+    <li>New update dialog that shows versions, license status and links to the changelog</li>
+    <li>Various syntax highlighting improvements</li>
+    <li>Use goto-symbol to jump to specific files in find results</li>
+    <li>Improved color scheme/theme selection UI</li>
+    <li>Layout is no longer remembered when <tt>"hot_exit"</tt> is disabled. You can change this using <tt>"remember_layout"</tt></li>
+    <li>Right-delete now respects <tt>"use_tab_stops"</tt> setting</li>
+    <li>Various improvements to behavior of moving sheets during window layout changes</li>
+    <li>Improved mini-diff and white space rendering performance under OpenGL</li>
+    <li>Improved performance when reading large files from stdin</li>
+    <li>Fixed regex replace not working on last occurrence when using look-behind</li>
+    <li>Fixed <tt>"save_on_focus_lost"</tt> not working as expected with the reload dialog</li>
+    <li>Fixed open files not being added to recent file list when <tt>"hot_exit"</tt> is disabled</li>
+    <li>Fixed snippet completions not respecting word boundaries</li>
+    <li>Fixed extra blank window being opened at startup in some cases</li>
+    <li>Fixed not properly exiting after a prompt when <tt>"hot_exit"</tt> is disabled</li>
+    <li>Fixed window unexpectedly closing when project has no added folders and <tt>"close_windows_when_empty"</tt> is enabled</li>
+    <li>Fixed tab selection stack not being updated as expected in some cases</li>
+    <li>Fixed transient sheets persisting when exiting goto-anything</li>
+    <li>Fixed squiggle underline width not scaling properly</li>
+    <li>Fixed line highlighting not working when gutter is disabled</li>
+    <li>Fixed case where folders were being added to existing windows instead of opening in a new window</li>
+    <li>Fixed performance regression under Windows with non-integer DPI scaling</li>
+    <li>Fixed syntax highlighting backtracking-related performance problem</li>
+    <li>Undo stack is now cleared when reading from stdin</li>
+    <li>Added <i>Selection > Expand Selection to Block</i> which has the same behavior as <i>Expand Selection to Paragraph</i> had previously</li>
+    <li><tt>"open_files_in_new_window"</tt> is now respected when reading from stdin</li>
+    <li>Added <tt>"find_scroll_highlights_limit"</tt>, <tt>"find_highlight_matches_max_size"</tt> and <tt>"find_regex_highlight_matches_max_size"</tt> settings to allow configuring find limits</li>
+    <li>Added newline detection and normalization when changing settings programmatically</li>
+    <li>Sublime Merge menu items are hidden when <tt>"sublime_merge_path"</tt> is set to <tt>null</tt></li>
+    <li>Fixed wrong path sometimes being used when viewing file history in Sublime Merge</li>
+    <li>Fixed focus lost when selected group is closed whilst reducing the number of groups</li>
+    <li>File-specific indentation settings are now persisted across restarts</li>
+    <li>Fixed some edge cases related to <tt>"find_in_files_max_result_size"</tt></li>
+    <li>Fixed completions in input panel not utilizing available window space</li>
+    <li>Fixed expand selection to tag not working in XML</li>
+    <li>Fixed current transient sheet unexpectedly closing when using goto-anything</li>
+    <li>Fixed crash related to syntax backtracking and phantoms</li>
+    <li>Fixed being unable to open more than one new empty window</li>
+    <li>Linux: Make selection after middle-click paste consistent with other applications</li>
+    <li>Linux: Fixed race condition with multiple simultaneous command line invocations</li>
+    <li>Linux: Fixed custom title bar label color for some GTK themes</li>
+    <li>Windows: Fixed a case where session could be lost when upgrading</li>
+    <li>Windows: Fixed NTFS alternate data streams being deleted on save</li>
+    <li>Windows: Fixed slow window creation when using OpenGL</li>
+    <li>Windows: Fixed incorrect case being used when opening files from find-in-files with gitignore enabled</li>
+    <li>Windows: Fixed stdout/stderr output data race when building</li>
+    <li>Windows: Fixed hang on modal dialogs when context menu is open</li>
+    <li>Mac: Tweaked text drag-drop behavior to respect NSDragAndDropTextDelay</li>
+    <li>Mac: The setting <tt>"use_find_clipboard"</tt> can be used to disable global find clipboard integration</li>
+    <li>Mac: Fixed double click not working at the top of a window when in full screen with a custom title bar</li>
+    <li>Mac: Fixed incorrectly reporting successful key event when no command was found</li>
+    <li>Mac: Fixed windows not restoring properly with multi-monitor setups</li>
+    <li>Mac: Fixed window layout issue with native tabs when exiting full screen</li>
+    <li>Mac: Fixed title bar text not fading when out of focus</li>
+    <li>Mac: Fixed reading stdin not working when no windows are open</li>
+    <li>API: Fixed plugin popups sometimes having the wrong placement</li>
+    <li>API: Fixed plugins not loading when a <tt>.python-version</tt> file is in the User package</li>
+    <li>API: Added <tt>Buffer.clear_undo_stack()</tt></li>
+    <li>API: Fixed <tt>View.show</tt> and <tt>View.show_at_center</tt> not working from <tt>on_load</tt> callback</li>
+</ul>
+</article>
+
+<article>
+<h2>Build 4113</h2>
+<div class="release-date">14 July 2021</div>
+<ul>
+    <li>Improved performance when editing large files</li>
+    <li>Improved OpenGL rendering performance</li>
+    <li>Improved handling of deleted files</li>
+    <li>Various syntax highlighting improvements</li>
+    <li><tt>subl</tt> can now be used to edit stdin, eg: <tt>echo test | subl | cat</tt></li>
+    <li>Syntax and indentation detection is now done when editing stdin</li>
+    <li>Added <tt>syntax_detection_size_limit</tt> setting for controlling when syntax detection is skipped</li>
+    <li>Theme: Improved scroll puck visibility</li>
+    <li>Theme: Fixed adaptive theme not respecting themed_title_bar setting with light color schemes</li>
+    <li>Middle clicking in the Open Files section of then sidebar will close the clicked on file</li>
+    <li>Preserve Case now works with unicode characters</li>
+    <li>Added <tt>reveal_menu</tt> setting for disabling revealing the menu when alt is pressed on Linux and Windows</li>
+    <li>Safe Mode key binding can be disabled by creating a file named <tt>.Disable Safe Mode Shortcut</tt> in the data directory</li>
+    <li>Fixed Ruby syntax highlighting in the Monokai color scheme</li>
+    <li>Fixed a scenario where folders weren't being watched for changes</li>
+    <li>Fixed underlines being drawn behind line highlight</li>
+    <li>Fixed an infinite loop that could occur during syntax highlighting</li>
+    <li>Fixed the append command's <tt>scroll_to_end</tt> parameter sometimes not working</li>
+    <li>Fixed <i>Goto Symbol</i> sometimes being scrolled incorrectly</li>
+    <li>Fixed multi-select file limit applying to sidebar</li>
+    <li>Fixed auto-complete related hang in some large files</li>
+    <li>Linux: Fixed print sometimes not working</li>
+    <li>Linux: Fixed wrong order of yes/no buttons in GTK dialogs</li>
+    <li>Linux: Fixed letters sometimes being cut off</li>
+    <li>Windows: Always make a new window when launching main executable on Windows</li>
+    <li>Windows: Fixed window icon not scaling properly on Windows</li>
+    <li>Windows: Fixed globs not being expanded in some cases on Windows</li>
+    <li>Mac: Fixed auto theme not changing with OS auto theme on macOS</li>
+</ul>
+</article>
+
+<article>
+<h2>4 (Build 4107)</h2>
+<div class="release-date">20 May 2021</div>
+<div class="forum-link">See also the <a href="https://www.sublimetext.com/blog/articles/sublime-text-4">Announcement Post</a></div>
+
+<h3>Release Highlights</h3>
+<ul class="topic">
+    <li>Multi-select tabs to view them side-by-side</li>
+    <li>Context-aware auto complete by finding similar code elsewhere in the current project</li>
+    <li>Symbols have kind information that is shown for completions and navigation</li>
+    <li>Theme can follow system dark mode preference and title bars can be themed on all platforms</li>
+    <li>Syntax highlighting now supports back-tracking and inheritance</li>
+    <li>Many syntax highlighting improvements as well as builtin TypeScript, JSX and TSX support</li>
+    <li>GPU rendering for improved performance. Enabled by default on macOS</li>
+    <li>ARM64 support for Linux and macOS (Apple Silicon)</li>
+    <li>Many plugin API additions particularly to better support plugins like LSP</li>
+    <li>Python 3.8 support for plugins</li>
+</ul>
+
+<h3>GPU Rendering</h3>
+<ul class="topic">
+    <li>New <tt>hardware_acceleration</tt> setting will composite the UI on the GPU</li>
+    <li>By default, GPU rendering is enabled on Mac, and disabled on Windows and Linux</li>
+    <li>Details about the active GPU will be displayed in the Console</li>
+</ul>
+
+<h3>Context-aware Auto Complete</h3>
+<ul class="topic">
+    <li>The auto complete engine now suggests completions based on patterns in existing code</li>
+    <li>Uses the entire project as a source, instead of just the current view</li>
+    <li>Plugins may specify symbol kind info to be displayed in suggestions list</li>
+</ul>
+
+<h3>Tab Multi-Select</h3>
+<ul class="topic">
+    <li>Multiple tabs can be selected using <tt>ctrl/cmd</tt>, their contents will be shown side-by-side</li>
+    <li>Selecting multiple files from the sidebar will also preview them simultaneously</li>
+    <li>Included themes have a tab connector joining the active sheet and tab when using sheet multi-select</li>
+    <li>The sidebar can now select multiple files using <tt>alt</tt></li>
+    <li>Goto Anything allows opening tabs side-by-side using <tt>ctrl/cmd</tt></li>
+    <li>The Definition popup has a dedicated button for opening files side-by-side</li>
+    <li>Multiple tabs can also be selected from the tab dropdown</li>
+    <li>The menu <i>Selection/Tab Selection</i> contains various options for manipulating tab multi-select</li>
+    <li><i>File/New View into File</i> has been replaced by <i>File/Split View</i> using multi-select</li>
+</ul>
+
+<h3>Python 3.8 API</h3>
+<ul class="topic">
+    <li>Added a Python 3.8 API environment for plugins</li>
+    <li>Plugins can choose Python version via <tt>.python-version</tt> file in plugin folder</li>
+    <li>Existing plugins are fully supported via legacy Python 3.3 API</li>
+    <li>Many API improvements and additions - see API section for more details</li>
+</ul>
+
+<h3>Goto Symbol</h3>
+<ul class="topic">
+    <li>Goto Symbol in Project is now significantly faster on huge projects</li>
+    <li>Icons are now shown next to symbols, indicating the symbol kind</li>
+    <li>Symbols with 3 characters or less are now indexed</li>
+</ul>
+
+<h3>Syntax Definitions</h3>
+<ul class="topic">
+    <li>Added out of the box support for TypeScript, JSX and TSX - thanks to <a href="https://github.com/Thom1729">Thomas Smith</a></li>
+    <li>Added ability to "branch" within syntax definitions, for non-deterministic or multi-line constructs</li>
+    <li>Many syntax highlighting improvements, including significant improvements to:
+        <ul>
+            <li><i>Erlang</i>, with thanks to <a href="https://github.com/deathaxe">deathaxe</a></li>
+        </ul>
+    </li>
+    <li>Significantly improved load times, match times and reduced cache size on disk</li>
+    <li><tt>embed</tt> is now lazy loaded, resulting in much higher performance for syntaxes like markdown</li>
+    <li>Added <tt>branch</tt> and <tt>fail</tt> for non-deterministic parsing</li>
+    <li>Added <tt>version: 2</tt> to fix edge cases while retaining backwards compatibility</li>
+    <li>Added <tt>extends</tt> to inherit from another syntax definition. Multiple inheritance is supported, provided all parents have the same base syntax</li>
+    <li>Added <tt>hidden_extensions</tt></li>
+    <li>Allow using <tt>pop</tt> alongside <tt>push</tt>/<tt>set</tt>/<tt>embed</tt>/<tt>branch</tt></li>
+    <li>Fixed a performance issue with bounded repeats in regular expressions</li>
+    <li>Syntax tests can now assert that reindent is working as expected</li>
+    <li>Syntax tests can now assert that symbols are indexed</li>
+    <li>Prevent infinite include loops via with_prototype</li>
+    <li>Fixed a number of scope related bugs</li>
+    <li>Fixed some regex capture related bugs</li>
+    <li>Added more information to the <i>Show Scope Name</i> popup</li>
+</ul>
+
+<h3>OS Compatibility</h3>
+<ul class="topic">
+    <li>The following operating systems are no longer supported as a result of adding Python 3.8:
+        <ul style="list-style-type: circle;">
+            <li>OS X 10.7</li>
+            <li>OS X 10.8</li>
+            <li>Windows XP</li>
+            <li>Windows Vista</li>
+        </ul>
+    </li>
+</ul>
+
+<h3>Platform Integration</h3>
+<ul class="topic">
+    <li>Added automatic dark/light theme and color scheme switching, based on OS theme changes</li>
+    <li><tt>subl -</tt> can now be used to read from stdin on all platforms</li>
+    <li>Windows will remember their Virtual Desktop/Space/Workspace, controlled by the <tt>remember_workspace</tt> setting</li>
+    <li>Scroll bars now follow platform conventions when clicking on them. Configurable using <tt>Scroll Bar.sublime-mousemap</tt></li>
+    <li>Mac: Releases use universal binaries with Apple Silicon support</li>
+    <li>Mac: Updated icon to follow macOS 11 style</li>
+    <li>Mac: Windows will now stay maximized when using Mac window tabs</li>
+    <li>Mac: Fix various issues with the wrong cursor being used</li>
+    <li>Linux: ARM64 builds are now available</li>
+    <li>Linux: Text drag and drop is now supported</li>
+    <li>Linux: Added proper support for Wayland</li>
+    <li>Linux: Touch screen events are now handled</li>
+    <li>Linux: Better support for copy+paste with other applications that don't support utf8 text</li>
+    <li>Linux: Native file dialogs like those for KDE will be used when configured</li>
+    <li>Windows: IME preview and multi-select support</li>
+    <li>Windows, Linux: Added support for custom title bars</li>
+    <li>Windows, Linux: Use vsync for animations instead of a fixed 60hz</li>
+    <li>Mac, Linux: Improved compatibility with some keyboard layouts</li>
+</ul>
+
+<h3>Application Behavior</h3>
+<ul class="topic">
+    <li>Added <i>Safe Mode</i>, to simulate a clean install. Enabled by passing <tt>--safe-mode</tt> on the command line or holding <tt>shift+alt</tt>/<tt>option</tt> at startup on Windows/macOS respectively</li>
+    <li>Added <i>Help/Report a Bug</i> to link to our public issue tracker</li>
+    <li>Added options to <tt>hot_exit</tt> setting to control behavior when the last window is closed</li>
+    <li>Fixed a possible case where an update loses the current session</li>
+    <li>Settings containing a UTF-8 BOM will no longer fail to load</li>
+    <li>Added support for previewing TGA and PSD images</li>
+    <li>Added <tt>close_deleted_files</tt> setting to control behavior of session restoration when files have been deleted on disk</li>
+    <li>Popup windows now use virtual windows for improved performance</li>
+    <li>Improved performance when loading files with very long lines</li>
+    <li>Improved rendering performance on very long lines</li>
+    <li>Improved performance with large session files</li>
+    <li>Data directories have dropped the "3", though if a "3" directory still exists it will be used</li>
+    <li>Mac: <i>Quick Switch Project</i> now works without any windows open</li>
+    <li>Mac, Linux: The cache and index are now located in the proper location (<tt>~/.cache</tt> and <tt>~/Library/Caches</tt> respectively)</li>
+</ul>
+
+<h3>Auto Complete</h3>
+<ul class="topic">
+    <li>Typing the full tab trigger of a snippet will move it to the top of the results</li>
+    <li>Manually typing in the only available completion will hide the auto complete popup</li>
+    <li><tt>.sublime-completion</tt> files can now specify <tt>annotation</tt>, <tt>kind</tt> and <tt>details</tt></li>
+    <li>Ranking quality improvements</li>
+    <li>Improved behavior of completions starting with non-word characters</li>
+    <li><tt>auto_complete_trailing_symbols</tt> is now disabled by default</li>
+    <li><tt>cancelCompletion</tt> will no longer prevent manual invocation</li>
+    <li>Added the <tt>auto_complete_when_likely</tt> setting</li>
+    <li>Added <tt>auto_complete_preserve_order</tt> setting</li>
+    <li>Added <tt>auto_complete_include_snippets_when_typing</tt> setting</li>
+    <li>Added <tt>auto_complete_use_index</tt> setting</li>
+    <li>Added <tt>auto_complete_use_history</tt> setting to control if previous choices are automatically selected</li>
+    <li>Running the <tt>auto_complete</tt> command when auto complete is already showing will re-query plugins for results</li>
+    <li><tt>auto_complete_selector</tt> now applies to the position before the just-typed in character, matching <tt>auto_complete_triggers</tt></li>
+</ul>
+
+<h3>Input Handling</h3>
+<ul class="topic">
+    <li>Modifier key taps can now be used as part of a key binding. For example, <tt>["ctrl", "ctrl"]</tt> will trigger when <tt>Ctrl</tt> is pressed twice without pressing any other keys in between</li>
+    <li>Linux: <tt>AltGr</tt> can now be used in key bindings via <tt>altgr</tt></li>
+    <li>Linux: Added a workaround for a touchscreen driver bug, which would cause right click and mouse scrolling to stop working</li>
+    <li>Linux: When the menu is hidden, pressing alt will show it</li>
+    <li>Mac: Fix Pinyin input</li>
+    <li>Mac: Keypad keys can now be bound to as expected</li>
+    <li>Mac: Added key bindings for macOS application tabs</li>
+    <li>Windows, Linux: Hide mouse cursor when typing. Controlled via <tt>hide_pointer_while_typing</tt> setting</li>
+    <li>Windows, Linux: Fixed being unable to bind <tt>Ctrl+Break</tt></li>
+</ul>
+
+<h3>Editor Control</h3>
+<ul class="topic">
+    <li>Added <i>File/Print</i>, which prints via a browser</li>
+    <li>Added <i>Edit/Copy as HTML</i></li>
+    <li>Build systems now use new annotations functionality instead of phantoms, reducing re-flow</li>
+    <li>Undo history is preserved in the session</li>
+    <li>Comments and layout are preserved when programmatically editing preferences</li>
+    <li>Caret blinking is disabled by default. Set <tt>caret_style</tt> setting to <tt>smooth</tt> for previous behavior</li>
+    <li>Improved automatic indentation detection</li>
+    <li>Added relative line numbers, controlled by the <tt>relative_line_numbers</tt> setting</li>
+    <li>Added setting <tt>scroll_context_lines</tt></li>
+    <li>Added setting <tt>hide_pointer_while_typing</tt></li>
+    <li>Added setting <tt>control_character_style</tt></li>
+    <li>Added <i>Project/Recent/Remove Deleted</i></li>
+    <li>Added <tt>chain</tt> command to run multiple commands in series</li>
+    <li><tt>switch_file</tt> command now handles filenames with compound extensions</li>
+    <li>The <tt>scroll_past_end</tt> setting now supports customizing the scroll distance using numbers from <tt>0.0</tt> to <tt>1.0</tt></li>
+    <li>Double-clicking a semi-transient sheet's tab will now fully open the sheet</li>
+    <li><tt>trim_trailing_white_space_on_save</tt> can now be set to <tt>"not_on_caret"</tt></li>
+    <li><tt>trim_trailing_white_space_on_save</tt> now trims only newly inserted trailing whitespace by default. Controlled via <tt>trim_only_modified_white_space</tt> setting</li>
+    <li>Expanded <tt>draw_white_space</tt> setting, supporting leading and trailing white space</li>
+    <li>Unicode white space characters, such as the zero width no-break space, are now drawn as hex values. Controlled via <tt>draw_unicode_white_space</tt> setting</li>
+    <li>Fixed spelling correction to support languages with upper case characters after start of word</li>
+    <li>Added commands to simplify customizing the active theme or color scheme</li>
+    <li><i>Quick Switch Project</i> will open the selected project in a new window if <tt>Ctrl</tt> (<tt>Cmd</tt> on Mac) is held down</li>
+    <li>Added <tt>wrap_width_style</tt> preference</li>
+    <li>Added <tt>console_max_history_lines</tt></li>
+    <li>Added additional settings to control the status bar: <tt>show_sidebar_button</tt>, <tt>show_indentation</tt> and <tt>show_syntax</tt></li>
+    <li>Console now uses Python syntax highlighting by default</li>
+    <li>Added <i>Central European (Mac)</i> encoding support</li>
+    <li>Key Bindings: <i>Join Lines</i> is now on <tt>Ctrl+Shift+J</tt> / <tt>Cmd+Shift+J</tt></li>
+    <li>Key Bindings: <i>Expand Selection to Indentation</i> is no longer bound by default</li>
+    <li>Key Bindings: <tt>Ctrl+J</tt> / <tt>Cmd+J</tt> is now used as a prefix for sequential key bindings, similar to <tt>Ctrl+K</tt> / <tt>Cmd+K</tt></li>
+    <li>Code Folding: fixed some edge-case incorrect behaviors</li>
+    <li>Linux: Added support for alternate font weight names</li>
+    <li>Linux: Selection is no longer cleared when another application makes a selection</li>
+    <li>Linux: Added <tt>Ctrl+Space</tt> to trigger Auto Complete</li>
+    <li>Linux, Windows: Added <tt>Alt+Shift+Left Mouse Button</tt> as an alternative column selection binding</li>
+    <li>Linux, Windows: Added Shift+F10 key binding to open the context menu</li>
+</ul>
+
+<h3>Text Commands</h3>
+<ul class="topic">
+    <li>Macros now record Find commands</li>
+    <li>Reworked <i>Jump Back</i> and <i>Jump Forward</i> commands</li>
+    <li>Improved behavior of <i>Wrap Paragraph</i></li>
+    <li>Improved behavior of <i>Swap Lines</i></li>
+    <li>Added <i>Revert Diff Hunk</i></li>
+    <li>Added <i>Selection/Expand Selection</i> as a general mechanism to expand the selection</li>
+    <li><i>Selection/Split into Lines</i> will now split a selection into words if the selection doesn't contain any newlines</li>
+    <li>Show a sum in the status bar when there are multiple selections and all of them are numbers</li>
+    <li><tt>set_file_type</tt> command now accepts "scope:" prefixed syntax names</li>
+    <li>Fixed <tt>sort_lines</tt> replacing unicode newlines with regular ones</li>
+</ul>
+
+<h3>Snippets</h3>
+<ul class="topic">
+    <li>Added <tt>auto_complete_include_snippets</tt> setting, for disabling auto complete integration</li>
+    <li>Added <tt>ignored_snippets</tt> setting, for disabling default snippets</li>
+</ul>
+
+<h3>Indexing (Goto Definition)</h3>
+<ul class="topic">
+    <li>Files ignored by <tt>.gitignore</tt> are not indexed by default. Controlled via <tt>index_exclude_gitignore</tt> setting</li>
+    <li>Files without known extensions are no longer indexed by default. Controlled via <tt>index_skip_unknown_extensions</tt> setting</li>
+    <li>Improved behavior with constantly changing files</li>
+    <li>Significantly improved load times</li>
+</ul>
+
+<h3>Files and Folders</h3>
+<ul class="topic">
+    <li>Saving files is now asynchronous</li>
+    <li>Improved performance when adding directories with extreme amounts of files</li>
+    <li>When <tt>save_on_focus_lost</tt> is enabled, closing an unsaved file will save and close it, instead of prompting to save</li>
+    <li>Improved behavior of <tt>save_on_focus_lost</tt> in conjunction with administrator owned files</li>
+    <li>Added <tt>reload_file_on_change</tt> setting to control if files are automatically reloaded or not</li>
+    <li><tt>folder_exclude_patterns</tt> and <tt>folder_include_patterns</tt> now support project-relative paths, by starting the path with <tt>//</tt></li>
+    <li>Folders in the sidebar can be recursively expanded via alt+arrow key</li>
+    <li>Added <tt>preview_on_click</tt> setting to support only previewing files on left click</li>
+    <li>Windows: Fixed <i>Open Containing Folder</i> for UNC paths</li>
+    <li>Windows: Fixed Save dialog not showing for new files with control characters on the first line</li>
+    <li>Windows: Fixed <tt>Ctrl+Backspace</tt> inserting a <tt>DEL</tt> character when a dialog is open in the background</li>
+    <li>Linux: Fix recreated directories not working correctly with file change monitoring</li>
+    <li>Linux: Recursively expanding and collapsing sidebar folders now works with <tt>alt</tt> or <tt>super</tt></li>
+</ul>
+
+<h3>Find</h3>
+<ul class="topic">
+    <li>Find results are highlighted on the scroll bar, controlled by <tt>highlight_find_results_in_scrollbar</tt></li>
+    <li>Find in Selection now highlights the area that will be searched</li>
+    <li>Commands can now be run without the find panel having input focus</li>
+    <li>Fix keypad enter not working in find panel</li>
+    <li>Improved find history behavior</li>
+    <li>Find: Various performance improvements with large files using graceful degradation</li>
+    <li>Find: Fixed adjacent matches being skipped when find in selection is in use</li>
+    <li>Find: Fixed find in selection option not being cleared when changing tabs</li>
+    <li>Find: Selection will no longer be reset after <i>Find All</i> is used when finding in selection</li>
+    <li>Find: Results are now properly highlighted on <i>Find All</i> when <tt>close_find_after_find_all</tt> is turned off</li>
+    <li>Find in Files: Improved performance with large numbers of matches</li>
+    <li>Find in Files: Can now filter by <tt>.gitignore</tt></li>
+    <li>Find in Files: Added Preserve Case option for replacements</li>
+    <li>Find in Files: Fix not recursing into directories on networked file systems</li>
+    <li>Find in Files: Hide rulers by default in find results</li>
+    <li>Find in Files: Added <i>Find/Cancel Find in Files</i> menu item</li>
+    <li>Find in Files: Binary file patterns are applied when an explicit folder is given</li>
+    <li>Find in Files: Using  "Find in Folder…" from the sidebar context menu will apply project file filters</li>
+    <li>Find in Files: Added <tt>close_find_after_find_all</tt> preference</li>
+    <li>Find in Files: Added <tt>close_find_after_replace_all</tt> preference</li>
+</ul>
+
+<h3>UI</h3>
+<ul class="topic">
+    <li>Changed default color scheme to <i>Mariana</i></li>
+    <li>Added Default Dark theme</li>
+    <li>Added <tt>themed_title_bar</tt> setting</li>
+    <li>Changed file tab style, adding <tt>file_tab_style</tt> setting</li>
+    <li>Goto Symbol shows more information about symbols</li>
+    <li>Definitions hover popup shows more information about symbols</li>
+    <li>Sheets without input focus are now dimmed when using included themes</li>
+    <li>Added a New Tab button in the tab bar, and <tt>hide_new_tab_button</tt> setting</li>
+    <li>Added <tt>show_tab_close_buttons_on_left</tt> setting</li>
+    <li>Added <tt>highlight_gutter</tt> and <tt>highlight_line_number</tt> settings</li>
+    <li>Added the ability to auto hide the menu, tabs, and status bar when typing. See <tt>auto_hide_menu</tt> and related settings</li>
+    <li>Window title bar can be controlled by <tt>show_rel_path</tt> and <tt>show_project_first</tt> settings</li>
+    <li>Tab context menu now includes <i>Close Unmodified Files</i> and <i>Close Deleted Files</i> entries</li>
+    <li>Side bar row highlights now properly reflect the selected tabs</li>
+    <li>Color Schemes: Added <tt>glow</tt> font option</li>
+    <li>Color Schemes: Added support for the <tt>underline</tt> font style</li>
+    <li>Color Schemes: Added new property, <tt>inactive_selection_border</tt></li>
+    <li>Color Schemes: Slightly darkened the background of Mariana</li>
+    <li>Color Schemes: Added support for stippled_underline and squiggly_underline</li>
+    <li>Color Schemes: <tt>.hidden-tmTheme</tt> files are now supported by the <tt>.sublime-color-scheme</tt> convertor</li>
+    <li>Themes: Included themes use variables extensively, making customization simpler</li>
+    <li>Themes: Added <tt>style</tt> property for <tt>title_bar</tt> element, for better integration with OS "dark modes"</li>
+    <li>Themes: The <tt>tree_row</tt> for the file with input focus now gets the attribute <tt>highlighted</tt></li>
+    <li>Themes: The <tt>settings</tt> key now supports objects, with keys being settings and values being a boolean, string or array of strings</li>
+    <li>Themes: Added <tt>sheet_contents</tt> class to text, image and HTML sheets</li>
+    <li>Themes: Added the <tt>background_modifier</tt> property for <tt>sheet_contents</tt></li>
+    <li>Themes: Added a number of new attributes to <tt>tab_control</tt> for richer tab theming</li>
+    <li>Themes: The <tt>highlighted</tt> attribute is only applied to the most recently active sheet, rather that the most recently active sheet in each group</li>
+    <li>Themes: <tt>tab_control</tt> and <tt>sheet_contents</tt> classes now synchronize their <tt>highlighted</tt> and <tt>hover</tt> attributes</li>
+    <li>Themes: <tt>tooltip</tt> controls now support animations to their opacity</li>
+    <li>Linux: Show sequential key bindings in the menu</li>
+    <li>Linux: Fixed context menu position being slightly offset</li>
+</ul>
+
+<h3>Spell Checking</h3>
+<ul class="topic">
+    <li>Updated dictionaries</li>
+    <li>Added support for non-utf8 dictionaries</li>
+    <li>Updated Hunspell for improved suggestions</li>
+    <li>System dictionaries are now available on Linux</li>
+    <li>Dictionaries in <tt>~/Library/Spelling</tt> are now available on Mac</li>
+</ul>
+
+<h3>Rendering</h3>
+<ul class="topic">
+    <li>Properly query glyph extents in order to avoid cutting off large glyphs</li>
+    <li>Windows, Linux: Added support for per-display subpixel ordering</li>
+    <li>Mac: Improved window resize performance</li>
+    <li>Windows: Fixed rendering bug where other applications could cause persistent artifacts via window animations</li>
+    <li>Windows: Add support for color emoji</li>
+</ul>
+
+<h3>API</h3>
+<ul class="topic">
+    <li>Improved coverage of plugin profiling</li>
+    <li>The cProfile module is now included on Linux</li>
+    <li>Added HTML sheets, which can be created via <tt>window.new_html_sheet()</tt></li>
+    <li><tt>repr</tt> now works as expected</li>
+    <li>Updated OpenSSL to 1.1.1j</li>
+    <li><tt>.sublime-commands</tt> files now support filtering commands via the "platform" key</li>
+    <li>Minihtml now handles <tt>list-style-type</tt> CSS property - <tt>circle</tt>, <tt>square</tt> and <tt>disc</tt></li>
+    <li>Minihtml now processes <tt>subl:</tt> links, running them as commands</li>
+    <li>Minihtml now supports <tt>white-space: nowrap</tt></li>
+    <li>Improved minihtml rendering performance</li>
+    <li><tt>EventListener</tt> has many new features and bug fixes
+        <ul style="list-style-type: circle;">
+            <li>
+                <tt>on_query_completions()</tt> can now
+                <ul style="list-style-type: square;">
+                    <li>Return suggestions asynchronously</li>
+                    <li>Return command completions</li>
+                    <li>Include symbol kind information</li>
+                </ul>
+            </li>
+            <li>New: <tt>on_init()</tt> is called once with list of views opened before plugin was loaded</li>
+            <li>New: <tt>on_exit()</tt> is called immediately before <tt>plugin_host</tt> exits, after API is shut down</li>
+            <li>New: <tt>on_text_changed()</tt> and <tt>on_text_changed_async()</tt> provide detailed modification info</li>
+            <li>New methods:
+                <ul style="list-style-type: square;">
+                    <li><tt>on_reload()</tt></li>
+                    <li><tt>on_revert()</tt></li>
+                    <li><tt>on_new_window()</tt></li>
+                    <li><tt>on_new_window_async()</tt></li>
+                    <li><tt>on_pre_close_window()</tt></li>
+                    <li><tt>on_pre_move()</tt></li>
+                    <li><tt>on_post_move()</tt></li>
+                    <li><tt>on_post_move_async()</tt></li>
+                    <li><tt>on_new_project()</tt></li>
+                    <li><tt>on_new_project_async()</tt></li>
+                    <li><tt>on_load_project()</tt></li>
+                    <li><tt>on_load_project_async()</tt></li>
+                    <li><tt>on_pre_save_project()</tt></li>
+                    <li><tt>on_post_save_project()</tt></li>
+                    <li><tt>on_post_save_project_async()</tt></li>
+                    <li><tt>on_pre_close_project()</tt></li>
+                    <li><tt>on_associate_buffer()</tt></li>
+                </ul>
+            </li>
+            <li>Fixed <tt>on_selection_modified()</tt> to not be called twice when left clicking</li>
+            <li>Fixed <tt>on_selection_modified()</tt> begin called on non-selection state changes</li>
+        </ul>
+    </li>
+    <li>New <tt>TextChangeListener</tt> for getting callbacks when a text buffer is changed
+        <ul style="list-style-type: circle;">
+            <li>Can be dynamically bound to a <tt>Buffer</tt> using <tt>TextChangeListener.attach</tt> and <tt>TextChangeListener.detach</tt></li>
+            <li>Methods:
+                <ul style="list-style-type: square;">
+                    <li><tt>on_text_changed()</tt></li>
+                    <li><tt>on_text_changed_async()</tt></li>
+                    <li><tt>on_revert()</tt></li>
+                    <li><tt>on_revert_async()</tt></li>
+                    <li><tt>on_reload()</tt></li>
+                    <li><tt>on_reload_async()</tt></li>
+                </ul>
+            </li>
+        </ul>
+    </li>
+    <li><tt>Sheet</tt> has some new methods:
+        <ul style="list-style-type: circle;">
+                <li><tt>file_name()</tt></li>
+                <li><tt>group()</tt></li>
+                <li><tt>close()</tt></li>
+                <li><tt>is_semi_transient()</tt></li>
+                <li><tt>Sheet.is_transient</tt></li>
+        </ul>
+    </li>
+    <li><tt>View</tt> has a number of changes and improvements
+        <ul style="list-style-type: circle;">
+            <li>Fixed newly created views not having a valid viewport before being returned to the API</li>
+            <li><tt>add_regions()</tt> now has an <tt>annotations</tt> parameter, to allow adding a per-region annotation to the buffer. The <tt>exec</tt> command uses this API for build errors</li>
+            <li><tt>add_regions()</tt> calls that add an underline now have that underline applied to whitespace characters</li>
+            <li><tt>show()</tt> now takes <tt>keep_to_left</tt> and <tt>animate</tt> parameters</li>
+            <li><tt>text_point()</tt> and related functions now accept a <tt>clamp_column</tt> parameter</li>
+            <li>Added <tt>"glow"</tt> to <tt>style_for_scope()</tt></li>
+            <li>Added <tt>View.rowcol_utf8()</tt>, <tt>View.rowcol_utf16()</tt>, <tt>View.text_point_utf8()</tt> and <tt>View.text_point_utf16()</tt></li>
+            <li>Added <tt>sublime.KEEP_ON_SELECTION_MODIFIED</tt>, which can be passed to <tt>show_popup()</tt></li>
+            <li>New: <tt>element()</tt> returns a string describing widget views (find input, quick panel input, etc)</li>
+            <li>New: <tt>assign_syntax()</tt> sets the syntax used in a view, supports <tt>Syntax</tt> objects, paths and scope selectors</li>
+            <li>New: <tt>syntax()</tt> returns the currently set <tt>Syntax</tt></li>
+            <li>New: <tt>clones()</tt></li>
+            <li>New: <tt>sheet()</tt> and <tt>sheet_id()</tt></li>
+            <li>New: <tt>export_to_html()</tt></li>
+        </ul>
+    </li>
+    <li><tt>Window</tt> has some changes and improvements:
+        <ul style="list-style-type: circle;">
+            <li><tt>show_quick_panel</tt> now accepts placeholder text, via the <tt>placeholder</tt> argument</li>
+            <li>Added <tt>sublime.CLEAR_TO_RIGHT</tt> and <tt>sublime.SEMI_TRANSIENT</tt> for use with <tt>open_file()</tt></li>
+            <li>Added the flag <tt>sublime.REPLACE_MRU</tt> for use with <tt>open_file()</tt>. When multiple sheets are selected, this flag will cause the opened file to replace the most recently used sheet with the file being opened</li>
+            <li>Added the flag <tt>sublime.WANT_EVENT</tt> for use with <tt>show_quick_panel()</tt>. This will pass an event dict to the on_select callback. The dict will contain the key modifier_keys, which will be a dict that may contain zero or more of the keys: primary, ctrl, super, alt, altgr</li>
+            <li><tt>open_file</tt> now accepts <tt>sublime.ADD_TO_SELECTION</tt> as a flag</li>
+            <li>New: <tt>selected_sheets()</tt>, <tt>selected_sheets_in_group()</tt> and <tt>select_sheets()</tt></li>
+            <li>New: <tt>workspace_file_name()</tt></li>
+            <li>New: <tt>bring_to_front()</tt></li>
+
+        </ul>
+    </li>
+    <li><tt>sublime.ok_cancel_dialog()</tt> and <tt>sublime.yes_no_cancel_dialog()</tt> now accept an optional <tt>title</tt> parameter</li>
+    <li>Added <tt>sublime.open_dialog</tt>, <tt>sublime.save_dialog</tt> and <tt>sublime.select_folder_dialog</tt></li>
+    <li>Syntax definitions can be queried via <tt>sublime.list_syntaxes()</tt>, <tt>sublime.find_syntax()</tt>, <tt>sublime.syntax_from_path()</tt>, <tt>sublime.find_syntax_by_name()</tt>, <tt>sublime.find_syntax_by_scope()</tt>, and <tt>sublime.find_syntax_for_file()</tt>. They return <tt>Syntax</tt> objects</li>
+    <li>Improved <tt>sys.stdout</tt> to extend <tt>io.TextIOBase</tt></li>
+    <li><tt>sublime.executable_path()</tt>, <tt>sublime.packages_path()</tt>, <tt>sublime.installed_packages_path()</tt> and <tt>sublime.cache_path()</tt> may now be called at import time</li>
+    <li>Added <tt>sublime.SymbolRegion</tt> and <tt>sublime.SymbolLocation</tt> with corresponding methods on <tt>View</tt> and <tt>Window</tt></li>
+    <li>Fix a bug with popup being stuck open when a popup is shown in the hide event handler of another popup</li>
+    <li>Added <tt>open_project_or_workspace</tt> command</li>
+    <li><tt>append</tt> command has new, optional <tt>disable_tab_translation</tt> argument</li>
+    <li>Added <tt>modifier_keys</tt> to event dicts when commands are invoked via a menu</li>
+    <li>Added <tt>sublime.DYNAMIC_COMPLETIONS</tt>. <tt>on_query_completions()</tt> can return this flag to indicate that completion results should be re-queried as the user types</li>
+    <li>Added <tt>sublime.INHIBIT_REORDER</tt>. Returned by <tt>on_query_competions()</tt></li>
+    <li><tt>CompletionItem</tt> now accepts a <tt>details</tt> parameter, which can include basic HTML</li>
+    <li><tt>CommandInputHandler</tt> now has an <tt>initial_selection()</tt> method</li>
+    <li>Added <tt>Region.to_tuple</tt> and <tt>Phantom.to_tuple</tt></li>
+    <li>Fixed <tt>ViewEventListener.on_load_async()</tt> sometimes not being called</li>
+    <li>Added <tt>sublime.QuickPanelItem()</tt> with support for kind info, annotations and basic minihtml</li>
+    <li>Plugins may now add selections to the <i>Jump Back</i> history list via the <tt>add_jump_record</tt> command</li>
+    <li>Plugins may suppress selections from the <i>Jump Back</i> history list via the <tt>jump_ignore_selection</tt> region</li>
+    <li>Plugins may now disable the default HTML and CSS completions</li>
+    <li>Added <tt>Buffer.id()</tt> and <tt>Buffer.file_name()</tt></li>
+    <li>The <tt>TextInputHandler</tt> and <tt>ListInputHandler</tt> classes may define a method <tt>want_event()</tt> that returns <tt>True</tt> to receive an extra parameter, an event dict, when the <tt>validate()</tt> and <tt>confirm()</tt> methods are called. The dict will contain the key modifier_keys, which will be a dict that may contain zero or more of the keys: primary, ctrl, super, alt, altgr</li>
+    <li>Add <tt>sublime.ui_info()</tt> for high-level information about the UI</li>
+    <li>Popups will be properly positioned when displayed near the right-hand side of the editor</li>
+    <li>Popups near the right-hand side of the editor with wrapped lines will now be properly sized</li>
+    <li>Added <tt>ListInputItem</tt> so that <tt>ListInputHandler</tt> objects can provide kind info, annotations and details</li>
+    <li>Improvements to the API, applied to the new Python 3.8 environment only:
+        <ul style="list-style-type: circle;">
+            <li><tt>bool(sublime.Selection())</tt> will return <tt>False</tt> when <tt>len() == 0</tt></li>
+            <li><tt>sublime.load_binary_resource()</tt> now returns <tt>bytes</tt> instead of <tt>bytearray</tt></li>
+            <li>Added <tt>Selection.__iter__()</tt></li>
+            <li>Added <tt>Region.__iter__()</tt></li>
+            <li>Added <tt>Region.__contains__()</tt></li>
+            <li>Added <tt>Settings.to_dict()</tt></li>
+            <li><tt>Settings</tt> can now be treated like a <tt>dict</tt></li>
+            <li>Plugins starting with <tt>_</tt> will be ignored, <tt>__all__</tt> global will be respected</li>
+            <li>Events won't be reported until <tt>plugin_loaded()</tt> has been called</li>
+            <li><tt>.pyc</tt> files can now be imported when contained within <tt>.sublime-package</tt> files, although they will not be scanned for plugins</li>
+        </ul>
+    </li>
+    <li>The <tt>certifi</tt> Python package is preinstalled</li>
+    <li>Significant performance improvements when rapidly printing to the Console</li>
+    <li>Added <tt>sublime.log_control_tree()</tt>. When enabled, clicking with ctrl+alt will log the control tree under the mouse to the console</li>
+    <li>Added <tt>sublime.log_fps()</tt>. When enabled, the render times are tracked and logged</li>
+    <li>Added logging status functions:
+        <ul>
+            <li><tt>sublime.get_log_commands()</tt></li>
+            <li><tt>sublime.get_log_input()</tt></li>
+            <li><tt>sublime.get_log_build_systems()</tt></li>
+            <li><tt>sublime.get_log_result_regex()</tt></li>
+            <li><tt>sublime.get_log_indexing()</tt></li>
+            <li><tt>sublime.get_log_fps()</tt></li>
+            <li><tt>sublime.get_log_control_tree()</tt></li>
+        </ul>
+    </li>
+    <li>Logging functions are now toggle when no argument is passed:
+        <ul>
+            <li><tt>sublime.log_commands()</tt></li>
+            <li><tt>sublime.log_input()</tt></li>
+            <li><tt>sublime.log_build_systems()</tt></li>
+            <li><tt>sublime.log_result_regex()</tt></li>
+            <li><tt>sublime.log_indexing()</tt></li>
+            <li><tt>sublime.log_fps()</tt></li>
+            <li><tt>sublime.log_control_tree()</tt></li>
+        </ul>
+    </li>
+    <li>Backwards Compatibility Break: The event parameter passed to commands when a minihtml link is clicked changed from a two-element list to a dict with the keys x and y</li>
+</ul>
+</article>

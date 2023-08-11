@@ -1,0 +1,824 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>files</key>
+	<dict>
+		<key>Resources/Document.icns</key>
+		<data>
+		NgyW6j2y+kJFi7GYT2On+yrtpKY=
+		</data>
+		<key>Resources/Sublime Text.icns</key>
+		<data>
+		UCBR1UHR3b3zbviKtfcYYLP2wd0=
+		</data>
+	</dict>
+	<key>files2</key>
+	<dict>
+		<key>MacOS/Lib/python3.3.zip</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			JuqtPx+b1noeTUmjSxxkVLOk77I=
+			</data>
+			<key>requirement</key>
+			<string>identifier python3 and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = Z6D26JE4Y4</string>
+		</dict>
+		<key>MacOS/Lib/python3.8.zip</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			WhNGmCQC25dxocIN8Hg9t9QixkA=
+			</data>
+			<key>requirement</key>
+			<string>identifier python3 and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = Z6D26JE4Y4</string>
+		</dict>
+		<key>MacOS/Lib/python3/certifi/LICENSE</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			nGGYRf3wSyTmjnhjButi1UMki5k=
+			</data>
+			<key>requirement</key>
+			<string>identifier LICENSE and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = Z6D26JE4Y4</string>
+		</dict>
+		<key>MacOS/Lib/python3/certifi/__init__.py</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			nA6dlORi5bLUhap0aHuFvDu0n+U=
+			</data>
+			<key>requirement</key>
+			<string>identifier "__init__" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = Z6D26JE4Y4</string>
+		</dict>
+		<key>MacOS/Lib/python3/certifi/__main__.py</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			kntHfXzByCfBXTySgMOXDb1BL+M=
+			</data>
+			<key>requirement</key>
+			<string>identifier "__main__" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = Z6D26JE4Y4</string>
+		</dict>
+		<key>MacOS/Lib/python3/certifi/__pycache__/__init__.cpython-38.opt-1.pyc</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			vtY8Rn33MJznP8fV7+jPpEub6R8=
+			</data>
+			<key>requirement</key>
+			<string>identifier "__init__.cpython-38.opt-1" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = Z6D26JE4Y4</string>
+		</dict>
+		<key>MacOS/Lib/python3/certifi/__pycache__/core.cpython-38.opt-1.pyc</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			8JENN7LglyOlQX9huIJTKDfydLA=
+			</data>
+			<key>requirement</key>
+			<string>identifier "core.cpython-38.opt-1" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = Z6D26JE4Y4</string>
+		</dict>
+		<key>MacOS/Lib/python3/certifi/cacert.pem</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			ktP3MzoW38Yo7GcFqFkXWwA8egw=
+			</data>
+			<key>requirement</key>
+			<string>identifier cacert and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = Z6D26JE4Y4</string>
+		</dict>
+		<key>MacOS/Lib/python3/certifi/core.py</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			FlZT3TkBUsob/D5v8hu746zMSuY=
+			</data>
+			<key>requirement</key>
+			<string>identifier core and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = Z6D26JE4Y4</string>
+		</dict>
+		<key>MacOS/Lib/python33/sublime.py</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			zh8rNWN/waWGr28IBegSNmFDuwI=
+			</data>
+			<key>requirement</key>
+			<string>identifier sublime and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = Z6D26JE4Y4</string>
+		</dict>
+		<key>MacOS/Lib/python33/sublime_plugin.py</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			flbXDt0yVzMZ5nrtb0RHUL7j5KI=
+			</data>
+			<key>requirement</key>
+			<string>identifier "sublime_plugin" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = Z6D26JE4Y4</string>
+		</dict>
+		<key>MacOS/Lib/python38/sublime.py</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			EG8oNSpSxq9Qxkq0H888C+UY4to=
+			</data>
+			<key>requirement</key>
+			<string>identifier sublime and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = Z6D26JE4Y4</string>
+		</dict>
+		<key>MacOS/Lib/python38/sublime_plugin.py</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			xICfldeK41RkJp+I1pqK0IS3JxM=
+			</data>
+			<key>requirement</key>
+			<string>identifier "sublime_plugin" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = Z6D26JE4Y4</string>
+		</dict>
+		<key>MacOS/Lib/python38/sublime_types.py</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			1neDyFwe5gEbyMqd9PVVLxdB9mQ=
+			</data>
+			<key>requirement</key>
+			<string>identifier "sublime_types" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = Z6D26JE4Y4</string>
+		</dict>
+		<key>MacOS/Packages/ASP.sublime-package</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			McxGPXt8lUO5oX5miq//8rFy8zI=
+			</data>
+			<key>requirement</key>
+			<string>identifier ASP and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = Z6D26JE4Y4</string>
+		</dict>
+		<key>MacOS/Packages/ActionScript.sublime-package</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			aEie8JYMnFtMqi9ePetufWke+l4=
+			</data>
+			<key>requirement</key>
+			<string>identifier ActionScript and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = Z6D26JE4Y4</string>
+		</dict>
+		<key>MacOS/Packages/AppleScript.sublime-package</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			84Un2pglGJu2ZZGOCAp/ajlKKsE=
+			</data>
+			<key>requirement</key>
+			<string>identifier AppleScript and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = Z6D26JE4Y4</string>
+		</dict>
+		<key>MacOS/Packages/Batch File.sublime-package</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			MGDoMismpQHoKXgr+xb7KQJ+poU=
+			</data>
+			<key>requirement</key>
+			<string>identifier "Batch File" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = Z6D26JE4Y4</string>
+		</dict>
+		<key>MacOS/Packages/Binary.sublime-package</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			OhK1ISyLDggePqhHDR+5RK5pYyE=
+			</data>
+			<key>requirement</key>
+			<string>identifier Binary and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = Z6D26JE4Y4</string>
+		</dict>
+		<key>MacOS/Packages/C#.sublime-package</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			LDD6/EWHStvM2x8eXITNFqoeYeE=
+			</data>
+			<key>requirement</key>
+			<string>identifier "C#" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = Z6D26JE4Y4</string>
+		</dict>
+		<key>MacOS/Packages/C++.sublime-package</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			il2rWJSL3j2liiwd93LeFVpdl6g=
+			</data>
+			<key>requirement</key>
+			<string>identifier "C++" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = Z6D26JE4Y4</string>
+		</dict>
+		<key>MacOS/Packages/CSS.sublime-package</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			pc9eQIpIz6OeNbcpb+Htlkgc6dI=
+			</data>
+			<key>requirement</key>
+			<string>identifier CSS and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = Z6D26JE4Y4</string>
+		</dict>
+		<key>MacOS/Packages/Clojure.sublime-package</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			24/OqNh2Y+gLMZnjwqB3FNMJa7I=
+			</data>
+			<key>requirement</key>
+			<string>identifier Clojure and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = Z6D26JE4Y4</string>
+		</dict>
+		<key>MacOS/Packages/Color Scheme - Default.sublime-package</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			vP9pYD7KstFRsJ9AT4L7a+6hm6s=
+			</data>
+			<key>requirement</key>
+			<string>identifier "Color Scheme - Default" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = Z6D26JE4Y4</string>
+		</dict>
+		<key>MacOS/Packages/Color Scheme - Legacy.sublime-package</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			YCv262Md172ywFpv3F1tmlTHG6A=
+			</data>
+			<key>requirement</key>
+			<string>identifier "Color Scheme - Legacy" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = Z6D26JE4Y4</string>
+		</dict>
+		<key>MacOS/Packages/D.sublime-package</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			Bup7rSu5KzFVKwdePMgQwvvhMfw=
+			</data>
+			<key>requirement</key>
+			<string>identifier D and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = Z6D26JE4Y4</string>
+		</dict>
+		<key>MacOS/Packages/Default.sublime-package</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			fOafQQziIhGmFRO240Yev7vhtv4=
+			</data>
+			<key>requirement</key>
+			<string>identifier Default and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = Z6D26JE4Y4</string>
+		</dict>
+		<key>MacOS/Packages/Diff.sublime-package</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			letY/zEKoVIyymMU60LEn3JRiLI=
+			</data>
+			<key>requirement</key>
+			<string>identifier Diff and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = Z6D26JE4Y4</string>
+		</dict>
+		<key>MacOS/Packages/Erlang.sublime-package</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			VXhqDKuR+c4oe4LKnxeDvefJBNY=
+			</data>
+			<key>requirement</key>
+			<string>identifier Erlang and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = Z6D26JE4Y4</string>
+		</dict>
+		<key>MacOS/Packages/Git Formats.sublime-package</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			7BLfocj+5bBLajng7nYxrfInPeo=
+			</data>
+			<key>requirement</key>
+			<string>identifier "Git Formats" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = Z6D26JE4Y4</string>
+		</dict>
+		<key>MacOS/Packages/Go.sublime-package</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			AqzRTL1mn+Iwi1xGzPWWdnRZIn8=
+			</data>
+			<key>requirement</key>
+			<string>identifier Go and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = Z6D26JE4Y4</string>
+		</dict>
+		<key>MacOS/Packages/Graphviz.sublime-package</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			4Eop5iiaj2P9QEIDQa3U/WR2iR8=
+			</data>
+			<key>requirement</key>
+			<string>identifier Graphviz and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = Z6D26JE4Y4</string>
+		</dict>
+		<key>MacOS/Packages/Groovy.sublime-package</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			vk1ZpDc+DJb7D7SK4PtEEapsQz4=
+			</data>
+			<key>requirement</key>
+			<string>identifier Groovy and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = Z6D26JE4Y4</string>
+		</dict>
+		<key>MacOS/Packages/HTML.sublime-package</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			kOKGMt3Dzv8G/UjRQdSTTugt+sQ=
+			</data>
+			<key>requirement</key>
+			<string>identifier HTML and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = Z6D26JE4Y4</string>
+		</dict>
+		<key>MacOS/Packages/Haskell.sublime-package</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			NRD8nro6gP1TlhImznS0EOBh9RQ=
+			</data>
+			<key>requirement</key>
+			<string>identifier Haskell and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = Z6D26JE4Y4</string>
+		</dict>
+		<key>MacOS/Packages/JSON.sublime-package</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			k7Lar+WgBKLXXZ9VKl27JBKAilo=
+			</data>
+			<key>requirement</key>
+			<string>identifier JSON and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = Z6D26JE4Y4</string>
+		</dict>
+		<key>MacOS/Packages/Java.sublime-package</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			hxFCc9EXWTOiZ8Smua+z6wUeamo=
+			</data>
+			<key>requirement</key>
+			<string>identifier Java and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = Z6D26JE4Y4</string>
+		</dict>
+		<key>MacOS/Packages/JavaScript.sublime-package</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			jsqaniGlZyJagVwZkZ0mq+TuwJE=
+			</data>
+			<key>requirement</key>
+			<string>identifier JavaScript and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = Z6D26JE4Y4</string>
+		</dict>
+		<key>MacOS/Packages/LaTeX.sublime-package</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			OfZp3GdiUfVD3wPh+YYVMojLrNk=
+			</data>
+			<key>requirement</key>
+			<string>identifier LaTeX and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = Z6D26JE4Y4</string>
+		</dict>
+		<key>MacOS/Packages/Language - English.sublime-package</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			sqTQEX6G4z+xw2qdFo6kEuK6Rps=
+			</data>
+			<key>requirement</key>
+			<string>identifier "Language - English" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = Z6D26JE4Y4</string>
+		</dict>
+		<key>MacOS/Packages/Lisp.sublime-package</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			UhaQT57dTgpRi6MOWiOyNJdrhRw=
+			</data>
+			<key>requirement</key>
+			<string>identifier Lisp and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = Z6D26JE4Y4</string>
+		</dict>
+		<key>MacOS/Packages/Lua.sublime-package</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			VwqxfItjAGO0IA4/KOwYimuij+8=
+			</data>
+			<key>requirement</key>
+			<string>identifier Lua and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = Z6D26JE4Y4</string>
+		</dict>
+		<key>MacOS/Packages/Makefile.sublime-package</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			TsbMJPe62M8jqWFjcZQHwkPEzlw=
+			</data>
+			<key>requirement</key>
+			<string>identifier Makefile and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = Z6D26JE4Y4</string>
+		</dict>
+		<key>MacOS/Packages/Markdown.sublime-package</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			qsfnvuX19R/PrGerOEj/jHE1It8=
+			</data>
+			<key>requirement</key>
+			<string>identifier Markdown and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = Z6D26JE4Y4</string>
+		</dict>
+		<key>MacOS/Packages/Matlab.sublime-package</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			8rXy5U9aKlOjgTc73QGVO3MY8Es=
+			</data>
+			<key>requirement</key>
+			<string>identifier Matlab and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = Z6D26JE4Y4</string>
+		</dict>
+		<key>MacOS/Packages/OCaml.sublime-package</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			Qhsnxj0nFsHca5n1TxCEuWy5CVw=
+			</data>
+			<key>requirement</key>
+			<string>identifier OCaml and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = Z6D26JE4Y4</string>
+		</dict>
+		<key>MacOS/Packages/Objective-C.sublime-package</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			37A7fLg1Gz0NMlxTUDn/DfpPETc=
+			</data>
+			<key>requirement</key>
+			<string>identifier "Objective-C" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = Z6D26JE4Y4</string>
+		</dict>
+		<key>MacOS/Packages/PHP.sublime-package</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			kH1+8RuyYWu4PnQtij4ypmAUs9c=
+			</data>
+			<key>requirement</key>
+			<string>identifier PHP and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = Z6D26JE4Y4</string>
+		</dict>
+		<key>MacOS/Packages/Pascal.sublime-package</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			3OcJ0YicIaEvI3EGGRMk7z/yDCQ=
+			</data>
+			<key>requirement</key>
+			<string>identifier Pascal and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = Z6D26JE4Y4</string>
+		</dict>
+		<key>MacOS/Packages/Perl.sublime-package</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			ahPgqI0qQrTcHMe9sj/RrgZoiyY=
+			</data>
+			<key>requirement</key>
+			<string>identifier Perl and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = Z6D26JE4Y4</string>
+		</dict>
+		<key>MacOS/Packages/Python.sublime-package</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			lii8JqZLUxT6LQBYUx3Wvn1buMc=
+			</data>
+			<key>requirement</key>
+			<string>identifier Python and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = Z6D26JE4Y4</string>
+		</dict>
+		<key>MacOS/Packages/R.sublime-package</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			S6y1lQ42I/fg7AxdkCWBwFMl11A=
+			</data>
+			<key>requirement</key>
+			<string>identifier R and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = Z6D26JE4Y4</string>
+		</dict>
+		<key>MacOS/Packages/Rails.sublime-package</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			BRP9oe7gD7AnJd5HtOVI0eNJ35M=
+			</data>
+			<key>requirement</key>
+			<string>identifier Rails and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = Z6D26JE4Y4</string>
+		</dict>
+		<key>MacOS/Packages/Regular Expressions.sublime-package</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			oKtln6sLIg5xp61aeNRCfjTG5ls=
+			</data>
+			<key>requirement</key>
+			<string>identifier "Regular Expressions" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = Z6D26JE4Y4</string>
+		</dict>
+		<key>MacOS/Packages/RestructuredText.sublime-package</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			OvfSMYn2z0egQykvanO4QMq9Lks=
+			</data>
+			<key>requirement</key>
+			<string>identifier RestructuredText and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = Z6D26JE4Y4</string>
+		</dict>
+		<key>MacOS/Packages/Ruby.sublime-package</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			1/yH0TJpxxhHH6SCeIoWH3Iy+80=
+			</data>
+			<key>requirement</key>
+			<string>identifier Ruby and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = Z6D26JE4Y4</string>
+		</dict>
+		<key>MacOS/Packages/Rust.sublime-package</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			OPdI36hWg98DuXREGf9RBrdoTSI=
+			</data>
+			<key>requirement</key>
+			<string>identifier Rust and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = Z6D26JE4Y4</string>
+		</dict>
+		<key>MacOS/Packages/SQL.sublime-package</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			NLPr+DXfJFLhGZxzVQeNkVkoXyI=
+			</data>
+			<key>requirement</key>
+			<string>identifier SQL and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = Z6D26JE4Y4</string>
+		</dict>
+		<key>MacOS/Packages/Scala.sublime-package</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			wonRV6fH5j+RdLmXewYpdA9nefg=
+			</data>
+			<key>requirement</key>
+			<string>identifier Scala and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = Z6D26JE4Y4</string>
+		</dict>
+		<key>MacOS/Packages/ShellScript.sublime-package</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			pHwGHqLZjHbAdAJECCRPG6G+yCo=
+			</data>
+			<key>requirement</key>
+			<string>identifier ShellScript and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = Z6D26JE4Y4</string>
+		</dict>
+		<key>MacOS/Packages/TCL.sublime-package</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			63jK0JYBmx9s1ChJ7FbHiEKy8Ro=
+			</data>
+			<key>requirement</key>
+			<string>identifier TCL and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = Z6D26JE4Y4</string>
+		</dict>
+		<key>MacOS/Packages/Text.sublime-package</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			bjKqV3X2rc2AGyleuWkjdzWA0is=
+			</data>
+			<key>requirement</key>
+			<string>identifier Text and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = Z6D26JE4Y4</string>
+		</dict>
+		<key>MacOS/Packages/Textile.sublime-package</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			jIClLFZ3URRfPiiPvJ8akiLCvy4=
+			</data>
+			<key>requirement</key>
+			<string>identifier Textile and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = Z6D26JE4Y4</string>
+		</dict>
+		<key>MacOS/Packages/Theme - Default.sublime-package</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			ooNaQopPcYBnS/VnE2gBxtFGQ7c=
+			</data>
+			<key>requirement</key>
+			<string>identifier "Theme - Default" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = Z6D26JE4Y4</string>
+		</dict>
+		<key>MacOS/Packages/Vintage.sublime-package</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			gzPFbDRPj+z/LVjKO4dRNwm5wLY=
+			</data>
+			<key>requirement</key>
+			<string>identifier Vintage and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = Z6D26JE4Y4</string>
+		</dict>
+		<key>MacOS/Packages/XML.sublime-package</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			6csB+AYq03mQM16HAS9CmcffUqk=
+			</data>
+			<key>requirement</key>
+			<string>identifier XML and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = Z6D26JE4Y4</string>
+		</dict>
+		<key>MacOS/Packages/YAML.sublime-package</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			Bis/f3nsKdWUxfk7WhLXAng/Lmc=
+			</data>
+			<key>requirement</key>
+			<string>identifier YAML and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = Z6D26JE4Y4</string>
+		</dict>
+		<key>MacOS/changelog.txt</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			h1uqWaqYhtJXyTeyA3ztj9JMjas=
+			</data>
+			<key>requirement</key>
+			<string>identifier changelog and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = Z6D26JE4Y4</string>
+		</dict>
+		<key>MacOS/crash_reporter</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			uPYqkH15Xm+KE3uKQkFVVi0zK+8=
+			</data>
+			<key>requirement</key>
+			<string>identifier "crash_reporter" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = Z6D26JE4Y4</string>
+		</dict>
+		<key>MacOS/libcrypto.1.1.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			/6RLU1ycXkW2hzSvC86Xai1AOPk=
+			</data>
+			<key>requirement</key>
+			<string>identifier "libcrypto.1" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = Z6D26JE4Y4</string>
+		</dict>
+		<key>MacOS/libssl.1.1.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			/3GcDOVaJHQD9CR2J1fpb8I5jNo=
+			</data>
+			<key>requirement</key>
+			<string>identifier "libssl.1" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = Z6D26JE4Y4</string>
+		</dict>
+		<key>MacOS/plugin_host-3.3</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			PcuIMehiDqgdQTGQ/TG+IhHwL+s=
+			</data>
+			<key>requirement</key>
+			<string>identifier "plugin_host-3" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = Z6D26JE4Y4</string>
+		</dict>
+		<key>MacOS/plugin_host-3.8</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			EnCEtHiSpxiHCAuAw8sKTpbADFI=
+			</data>
+			<key>requirement</key>
+			<string>identifier "plugin_host-3" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = Z6D26JE4Y4</string>
+		</dict>
+		<key>MacOS/update_installer</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			kNeDc6Q3Wds1hP6ijmoCkj6XamM=
+			</data>
+			<key>requirement</key>
+			<string>identifier "update_installer" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = Z6D26JE4Y4</string>
+		</dict>
+		<key>Resources/Document.icns</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			NgyW6j2y+kJFi7GYT2On+yrtpKY=
+			</data>
+			<key>hash2</key>
+			<data>
+			3I5oZq71xUlo2uV2vLB8Pf8b51CeRCvvQekkudfxPJg=
+			</data>
+		</dict>
+		<key>Resources/Sublime Text.icns</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			UCBR1UHR3b3zbviKtfcYYLP2wd0=
+			</data>
+			<key>hash2</key>
+			<data>
+			uGfeFmi3v4jh/H7Ve/K4TG4TEay0fODwNLospapX+6w=
+			</data>
+		</dict>
+		<key>SharedSupport/bin/subl</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			vOLT0Qx5BBEpBOhoa6wRMlQ/4/A=
+			</data>
+			<key>hash2</key>
+			<data>
+			oVHYE15iPFhVVPHQDI1zEY4/3IgVKtBzDSvCjTdDBUw=
+			</data>
+		</dict>
+	</dict>
+	<key>rules</key>
+	<dict>
+		<key>^Resources/</key>
+		<true/>
+		<key>^Resources/.*\.lproj/</key>
+		<dict>
+			<key>optional</key>
+			<true/>
+			<key>weight</key>
+			<real>1000</real>
+		</dict>
+		<key>^Resources/.*\.lproj/locversion.plist$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>1100</real>
+		</dict>
+		<key>^Resources/Base\.lproj/</key>
+		<dict>
+			<key>weight</key>
+			<real>1010</real>
+		</dict>
+		<key>^version.plist$</key>
+		<true/>
+	</dict>
+	<key>rules2</key>
+	<dict>
+		<key>.*\.dSYM($|/)</key>
+		<dict>
+			<key>weight</key>
+			<real>11</real>
+		</dict>
+		<key>^(.*/)?\.DS_Store$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>2000</real>
+		</dict>
+		<key>^(Frameworks|SharedFrameworks|PlugIns|Plug-ins|XPCServices|Helpers|MacOS|Library/(Automator|Spotlight|LoginItems))/</key>
+		<dict>
+			<key>nested</key>
+			<true/>
+			<key>weight</key>
+			<real>10</real>
+		</dict>
+		<key>^.*</key>
+		<true/>
+		<key>^Info\.plist$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^PkgInfo$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^Resources/</key>
+		<dict>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^Resources/.*\.lproj/</key>
+		<dict>
+			<key>optional</key>
+			<true/>
+			<key>weight</key>
+			<real>1000</real>
+		</dict>
+		<key>^Resources/.*\.lproj/locversion.plist$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>1100</real>
+		</dict>
+		<key>^Resources/Base\.lproj/</key>
+		<dict>
+			<key>weight</key>
+			<real>1010</real>
+		</dict>
+		<key>^[^/]+$</key>
+		<dict>
+			<key>nested</key>
+			<true/>
+			<key>weight</key>
+			<real>10</real>
+		</dict>
+		<key>^embedded\.provisionprofile$</key>
+		<dict>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^version\.plist$</key>
+		<dict>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+	</dict>
+</dict>
+</plist>
