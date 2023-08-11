@@ -4805,6 +4805,8 @@
 
 - [@Lenao91](https://github.com/lenao91)
 
+- [@snapsCode](https://github.com/snapsCode)
+
 - [@Lenguyenhcm325](https://github.com/lenguyenhcm325)
 
 - [@Lenindelarosa](https://github.com/lenindelarosa)
