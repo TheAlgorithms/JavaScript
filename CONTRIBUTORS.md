@@ -43,6 +43,8 @@
 
 - [@#Roxana412](https://github.com/roxana412)
 
+- [@paulAlexSerban](https://github.com/paulAlexSerban)
+
 - [@Fogudo](https://github.com/Fogudo)
 
 - [@homaaa998](https://github.com/homaaa998)
