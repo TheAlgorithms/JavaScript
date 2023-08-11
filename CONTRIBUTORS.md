@@ -73,6 +73,8 @@
 
 - [@faraimajor](https://github.com/FaraiMajor)
 
+- [@dai5onda](https://github.com/Dai5onda)
+
 - [@0Xzonav](https://github.com/0xZonaV)
 
 - [@10Isha](https://github.com/10isha)
