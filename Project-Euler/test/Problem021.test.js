@@ -1,6 +1,6 @@
 import { problem21 } from '../Problem021.js'
 
-describe('checking nth prime number', () => {
+describe('check sum of amicable numbers under n', () => {
   test('should be invalid input if number is negative', () => {
     expect(() => problem21(-1)).toThrowError('Invalid Input')
   })
