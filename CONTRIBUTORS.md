@@ -12,6 +12,8 @@
 
 - [@cosbyhayes](https://github.com/cosbyhayes)
 
+- [@MariusHor](https://github.com/MariusHor)
+
 - [@malvinportner](https://github.com/malvinportner/)
 
 - [@Hoithak](https://github.com/Hoithak/)
