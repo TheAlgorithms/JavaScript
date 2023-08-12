@@ -10,11 +10,13 @@
 
 - [@MiguelGiraldoG](https://github.com/MiguelGiraldoG)
 
-- [@cosbyhayes](https://github.com/cosbyhayes)    
+- [@cosbyhayes](https://github.com/cosbyhayes)
 
 - [@malvinportner](https://github.com/malvinportner/)
 
 - [@Hoithak](https://github.com/Hoithak/)
+
+- [@brandenge](https://github.com/brandenge)
 
 -[@Developmental141](https://github.com/Developmental141/)
 
