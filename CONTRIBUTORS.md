@@ -10,6 +10,8 @@
 
 - [@MiguelGiraldoG](https://github.com/MiguelGiraldoG)
 
+- [@cosbyhayes](https://github.com/cosbyhayes)    
+
 - [@malvinportner](https://github.com/malvinportner/)
 
 - [@Hoithak](https://github.com/Hoithak/)
