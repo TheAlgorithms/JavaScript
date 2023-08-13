@@ -12,6 +12,8 @@
 
 - [@MiguelGiraldoG](https://github.com/MiguelGiraldoG)
 
+-[@faraimazhandu](https://github.com/faraimazh)
+
 - [@cosbyhayes](https://github.com/cosbyhayes)
 
 - [@MariusHor](https://github.com/MariusHor)
