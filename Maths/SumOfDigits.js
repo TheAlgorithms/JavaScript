@@ -8,12 +8,12 @@
 /*
   The given input is converted to a string, split into an array of characters.
   This array is reduced to a number using the method <Array>.reduce
-  NOTE: The final parseInt is just there in cases where 1 digit numbers are given, since without that it would result in a String output.
+  NOTE: The Unary Operator (+) is used here for converting String to Number since without that it would result in a String output.
 */
 function sumOfDigitsUsingString (number) {
   if (number < 0) number = -number
 
-  return Number.parseInt(number.toString().split('').reduce((a, b) => Number(a) + Number(b)))
+  return +(number.toString().split('').reduce((a, b) => (+a) + (+b)))
 }
 
 /*
