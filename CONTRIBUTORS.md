@@ -4,11 +4,15 @@
 
 - [@aqibkhan20](https://github.com/aqibkhan20)
 
+- [@batukeshwar](https://github.com/BatukeshwarVats)
+
 - [@makhalifa](https://github.com/makhalifa)
 
 - [@leerobertdyer](https://github.com/leerobertdyer)
 
 - [@MiguelGiraldoG](https://github.com/MiguelGiraldoG)
+
+-[@faraimazhandu](https://github.com/faraimazh)
 
 - [@cosbyhayes](https://github.com/cosbyhayes)
 
@@ -31,3 +35,11 @@
 -[@Avatar521999](https://github.com/Avatar521999/)
 
 -[@deygobinda](https://github.com/deygobinda)
+
+-[@felipeffranco](https://github.com/felipeffranco)
+
+-[@omar414](https://github.com/omar414)
+
+-[@itsvanshchavda](https://github.com/itsvanshchavda)
+
+-[@jeffabenoja](https://github.com/jeffabenoja)
