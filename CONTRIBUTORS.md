@@ -18,6 +18,8 @@
 
 - [@MariusHor](https://github.com/MariusHor)
 
+- [@Murat-Karakaya](https://github.com/Murat-Karakaya)
+
 - [@malvinportner](https://github.com/malvinportner/)
 
 - [@Mubarak1A](https://github.com/Mubarak1A)
@@ -45,3 +47,5 @@
 -[@jeffabenoja](https://github.com/jeffabenoja)
 
 -[@IsIDeveloper](https://github.com/IsIDeveloper)
+
+-[@remydev47](https://github.com/remydev47)
