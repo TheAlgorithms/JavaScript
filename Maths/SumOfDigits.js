@@ -8,7 +8,6 @@
 /*
   The given input is converted to a string, split into an array of characters.
   This array is reduced to a number using the method <Array>.reduce
-  NOTE: The Unary Operator (+) is used here for converting String to Number since without that it would result in a String output.
 */
 function sumOfDigitsUsingString (number) {
   if (number < 0) number = -number
