@@ -2,6 +2,8 @@
 
 - [@kotharii](https://github.com/kotharii)
 
+- [@harounted](https://github.com/Harounted)
+
 - [@aqibkhan20](https://github.com/aqibkhan20)
 
 - [@batukeshwar](https://github.com/BatukeshwarVats)
@@ -56,4 +58,3 @@
 
 -[@babistebi](https://github.com/babistebi)
 
--[@harounted](https://github.com/Harounted)
