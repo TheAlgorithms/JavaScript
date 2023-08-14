@@ -1,7 +1,7 @@
-# The Algorithms - JavaScript
+# Algoritmos - JavaScript
 
 <!-- Front Matter -->
-JavaScript Repository of TheAlgorithms, which implements various algorithms and data structures in JavaScript.
+Repositorio de JavaScript de TheAlgorithms, que implementa varios algoritmos y estructuras de datos en JavaScript.
 
 <div align="center">
 
@@ -20,22 +20,22 @@ JavaScript Repository of TheAlgorithms, which implements various algorithms and 
 <!-- Disclaimer -->
 
 <h4 align="center">
-  These implementations are for demonstrative purposes only. Dedicated implementations of these algorithms and data
-  structures are much better for performance and security reasons. We also do not provide any guarantee for api stability.
+  Estas implementaciones son solamente para propositos demostrativos. Implementaciones dedicadas de estos algoritmos y estructuras
+  de datos son mucho mejores por razones de funcionamiento y seguridad. Tampoco proveemos ninguna garantía de estabilidad de API.
 </h4>
 
 ---
 
 <!-- Body -->
 
-Before contributing to this repository, make sure to read our [Contribution Guidelines](CONTRIBUTING.md). You can look
-at other [TheAlgorithms Repositories][repositories] or the [issues with a "help wanted" label][help-wanted] for
-inspiration regarding what to implement. Our maintainers will guide you through how to make your contribution properly
-if you make any mistakes. The names of the maintainers of this repository are listed in the
-[CODEOWNERS file](.github/CODEOWNERS).
+Antes de contribuir a este repositorio, asegurate de leer la [Guía de Contribuciones](CONTRIBUTING.md). Puedes ver otros
+ [Repositorios de TheAlgorithms][repositories] o la [problemas con la etiqueta "help-wanted"][help-wanted] para
+inspiración acerca de qué implementar. Nuestros mantenedores te guiarán a través de cómo hacer tu contribución correctamente
+si cometes algún error. Los nombres de los mantenedores de este repositorio están listados en el
+[archivo CODEOWNERS](.github/CODEOWNERS).
 
-You can find a list of the algorithms currently in the repository in the [directory](DIRECTORY.md). Explanations of
-many of the algorithms can be found in the [wiki][explanation].
+Puedes encontrar una lista de los algoritmos actualmente en el repositorio  en la [guía](DIRECTORY.md). Explicaciones de
+muchos de los algoritmos pueden ser encontrados en la [wiki][explanation].
 
 ---
 
