@@ -32,6 +32,8 @@
 
 - [@brandenge](https://github.com/brandenge)
 
+- [@IssyPro101](https://github.com/IssyPro101)
+
 -[@uchedestiny](https://github.com/uchedestiny/)
 
 -[@Developmental141](https://github.com/Developmental141/)
