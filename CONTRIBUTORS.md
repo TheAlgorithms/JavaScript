@@ -18,6 +18,8 @@
 
 -[@faraimazhandu](https://github.com/faraimazh)
 
+- [@Niko-Yuan](https://github.com/Niko-Yuan)
+
 - [@cosbyhayes](https://github.com/cosbyhayes)
 
 - [@MariusHor](https://github.com/MariusHor)
