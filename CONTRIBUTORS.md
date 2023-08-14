@@ -16,7 +16,7 @@
 
 - [@MiguelGiraldoG](https://github.com/MiguelGiraldoG)
 
--[@faraimazhandu](https://github.com/faraimazh)
+- [@faraimazhandu](https://github.com/faraimazh)
 
 - [@Niko-Yuan](https://github.com/Niko-Yuan)
 
@@ -36,29 +36,29 @@
 
 - [@IssyPro101](https://github.com/IssyPro101)
 
--[@uchedestiny](https://github.com/uchedestiny/)
+- [@uchedestiny](https://github.com/uchedestiny/)
 
--[@Developmental141](https://github.com/Developmental141/)
+- [@Developmental141](https://github.com/Developmental141/)
 
--[@shubham1221](https://github.com/shubham1221/)
+- [@shubham1221](https://github.com/shubham1221/)
 
--[@HamzaTariq98](https://github.com/HamzaTariq98/)
+- [@HamzaTariq98](https://github.com/HamzaTariq98/)
 
--[@Avatar521999](https://github.com/Avatar521999/)
+- [@Avatar521999](https://github.com/Avatar521999/)
 
--[@deygobinda](https://github.com/deygobinda)
+- [@deygobinda](https://github.com/deygobinda)
 
--[@felipeffranco](https://github.com/felipeffranco)
+- [@felipeffranco](https://github.com/felipeffranco)
 
--[@omar414](https://github.com/omar414)
+- [@omar414](https://github.com/omar414)
 
--[@itsvanshchavda](https://github.com/itsvanshchavda)
+- [@itsvanshchavda](https://github.com/itsvanshchavda)
 
--[@jeffabenoja](https://github.com/jeffabenoja)
+- [@jeffabenoja](https://github.com/jeffabenoja)
 
--[@IsIDeveloper](https://github.com/IsIDeveloper)
+- [@IsIDeveloper](https://github.com/IsIDeveloper)
 
--[@remydev47](https://github.com/remydev47)
+- [@remydev47](https://github.com/remydev47)
 
--[@babistebi](https://github.com/babistebi)
+- [@babistebi](https://github.com/babistebi)
 
