@@ -10,6 +10,8 @@
 
 - [@leerobertdyer](https://github.com/leerobertdyer)
 
+- [@Ez1ck](https://github.com/Ez1ck)
+
 - [@MiguelGiraldoG](https://github.com/MiguelGiraldoG)
 
 -[@faraimazhandu](https://github.com/faraimazh)
