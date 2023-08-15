@@ -24,6 +24,8 @@
 
 - [@MariusHor](https://github.com/MariusHor)
 
+  [@Sophia-98](https://github.com/Sophia-98)
+
 - [@Murat-Karakaya](https://github.com/Murat-Karakaya)
 
 - [@malvinportner](https://github.com/malvinportner/)
