@@ -36,6 +36,8 @@
 
 - [@IssyPro101](https://github.com/IssyPro101)
 
+- [@NCTepper](https://github.com/NCTepper)
+
 - [@uchedestiny](https://github.com/uchedestiny/)
 
 - [@Developmental141](https://github.com/Developmental141/)
@@ -76,4 +78,3 @@
 
 -[@iGitmar](https://github.com/iGitmar)
 
--[@NCTepper](https://github.com/NCTepper)
