@@ -58,6 +58,8 @@
 
 - [@IsIDeveloper](https://github.com/IsIDeveloper)
 
+- [@wasiqs-classics](https://github.com/wasiqs-classics)
+
 - [@remydev47](https://github.com/remydev47)
 
 - [@Muhamadou74](https://github.com/Muhamadou74)
