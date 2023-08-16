@@ -44,6 +44,8 @@
 
 - [@Developmental141](https://github.com/Developmental141/)
 
+- [@Hussain-Javed-K213584](https://github.com/Hussain-Javed-K213584)
+
 - [@shubham1221](https://github.com/shubham1221/)
 
 - [@HamzaTariq98](https://github.com/HamzaTariq98/)
@@ -73,6 +75,8 @@
 - [@yashbansal82](https://github.com/yashbansal82)
 
 - [@misbahabroruddin](https://github.com/misbahabroruddin)
+  
+- [@frankaz](https://github.com/frankaz)
 
 - [@frankaz](https://github.com/frankaz)
 
@@ -80,4 +84,17 @@
 
 -[@AkshayaBalasubramani](https://github.com/AkshayaBalasubramani)
 
+-[@SriramaBhat](https://github.com/SriramaBhat)
+
+-[@neeshat060708](https://github.com/neeshat060708)
 -[@iGitmar](https://github.com/iGitmar)
+
+-[@Evisssa](https://github.com/Evisssa)
+ 
+-[@shamil2936](https://github.com/shamil2936)
+
+-[@jesuskid](https://github.com/Jesuskid)
+
+-[@Iospedro](https://github.com/Iospedro)
+
+-[@panosker](https://github.com/panosker)
