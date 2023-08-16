@@ -92,3 +92,5 @@
 -[@jesuskid](https://github.com/Jesuskid)
 
 -[@Iospedro](https://github.com/Iospedro)
+
+-[@panosker](https://github.com/panosker)
