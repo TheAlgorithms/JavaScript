@@ -24,7 +24,7 @@
 
 - [@MariusHor](https://github.com/MariusHor)
 
-  [@Sophia-98](https://github.com/Sophia-98)
+- [@Sophia-98](https://github.com/Sophia-98)
 
 - [@Murat-Karakaya](https://github.com/Murat-Karakaya)
 
@@ -86,40 +86,40 @@
 
 - [@frankaz](https://github.com/frankaz)
 
--[@ogahozy](https://github.com/ogahozy)
+- [@ogahozy](https://github.com/ogahozy)
 
--[@AkshayaBalasubramani](https://github.com/AkshayaBalasubramani)
+- [@AkshayaBalasubramani](https://github.com/AkshayaBalasubramani)
 
--[@SriramaBhat](https://github.com/SriramaBhat)
+- [@SriramaBhat](https://github.com/SriramaBhat)
 
--[@neeshat060708](https://github.com/neeshat060708) -[@iGitmar](https://github.com/iGitmar)
+- [@neeshat060708](https://github.com/neeshat060708) -[@iGitmar](https://github.com/iGitmar)
 
--[@Evisssa](https://github.com/Evisssa)
+- [@Evisssa](https://github.com/Evisssa)
 
--[@shamil2936](https://github.com/shamil2936)
+- [@shamil2936](https://github.com/shamil2936)
 
--[@jesuskid](https://github.com/Jesuskid)
+- [@jesuskid](https://github.com/Jesuskid)
 
--[@Iospedro](https://github.com/Iospedro)
+- [@Iospedro](https://github.com/Iospedro)
 
--[@panosker](https://github.com/panosker)
+- [@panosker](https://github.com/panosker)
 
--[@enricomarco26](https://github.com/enricomarco26)
+- [@enricomarco26](https://github.com/enricomarco26)
 
--[@ismailwafid](https://github.com/ismailwafid)
+- [@ismailwafid](https://github.com/ismailwafid)
 
--[@ushalil](https://github.com/ushalil)
+- [@ushalil](https://github.com/ushalil)
 
--[@LiquidSi1k](https://github.com/LiquidSi1k)
+- [@LiquidSi1k](https://github.com/LiquidSi1k)
 
--[@VivekEngima](https://github.com/VivekEngima/)
+- [@VivekEngima](https://github.com/VivekEngima/)
 
--[@enricomarco26](https://github.com/enricomarco26)
+- [@enricomarco26](https://github.com/enricomarco26)
 
--[@RohitRameshwaram](https://github.com/RohitRameshwara)
+- [@RohitRameshwaram](https://github.com/RohitRameshwara)
 
--[@harmon-tuazon](https://github.com/harmon-tuazon)
+- [@harmon-tuazon](https://github.com/harmon-tuazon)
 
--[@thisisdilmurod](https://github.com/thisisdilmurod)
+- [@thisisdilmurod](https://github.com/thisisdilmurod)
 
--[@maryamrahman](https://github.com/maryamrahman)
+- [@maryamrahman](https://github.com/maryamrahman)
