@@ -122,6 +122,8 @@
 
 - [@harmon-tuazon](https://github.com/harmon-tuazon)
 
+- [solutionkutibiz](https://github.com/solutionkutibiz)
+
 - [@thisisdilmurod](https://github.com/thisisdilmurod)
 
 - [@maryamrahman](https://github.com/maryamrahman)
