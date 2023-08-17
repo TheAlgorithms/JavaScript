@@ -76,6 +76,8 @@
 
 - [@babistebi](https://github.com/babistebi)
 
+- [@MrTadeu](https://github.com/MrTadeu)
+
 - [@yashbansal82](https://github.com/yashbansal82)
 
 - [@misbahabroruddin](https://github.com/misbahabroruddin)
