@@ -3,6 +3,7 @@
 *  And prints out the month's calendar.
 *  It uses an epoch of 1/1/1900, Monday.
 */
+import { isLeapYear } from '../Maths/LeapYear.js'
 
 class Month {
   constructor () {
@@ -51,10 +52,6 @@ class Month {
     return dateOb
   }
 
-  isLeapYear (year) {
-    return ((year % 400) === 0) || (((year % 100) !== 0) && ((year % 4) === 0))
-  }
-
   isGreater (startDate, endDate) {
     if (startDate.year > endDate.year) {
       return true
@@ -78,16 +75,16 @@ class Month {
     }
     let diff = 0
     while (startDate.year !== endDate.year) {
-      diff += (this.isLeapYear(startDate.year)) ? 366 : 365
+      diff += (isLeapYear(startDate.year)) ? 366 : 365
       startDate.year = startDate.year + 1
     }
     while (startDate.month !== endDate.month) {
       if (startDate.month < endDate.month) {
-        if (this.isLeapYear(startDate.year)) diff += this.monthDaysLeap[startDate.month]
+        if (isLeapYear(startDate.year)) diff += this.monthDaysLeap[startDate.month]
         else diff += this.monthDays[startDate.month]
         startDate.month = startDate.month + 1
       } else {
-        if (this.isLeapYear(startDate.year)) diff -= this.monthDaysLeap[startDate.month - 1]
+        if (isLeapYear(startDate.year)) diff -= this.monthDaysLeap[startDate.month - 1]
         else diff -= this.monthDays[startDate.month - 1]
         startDate.month = startDate.month - 1
       }
@@ -102,7 +99,7 @@ class Month {
     let Month2 = this.parseDate(date)
     day = (this.isGreater(Month2, this.epoch)) ? this.Days[difference] : this.BDays[difference]
     Month2 = this.parseDate(date)
-    if (this.isLeapYear(Month2.year)) this.printCal(this.monthDaysLeap[Month2.month], day)
+    if (isLeapYear(Month2.year)) this.printCal(this.monthDaysLeap[Month2.month], day)
     else this.printCal(this.monthDays[Month2.month], day)
   }
 }
