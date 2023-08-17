@@ -106,6 +106,8 @@
 
 -[@enricomarco26](https://github.com/enricomarco26)
 
+-[@ismailwafid](https://github.com/ismailwafid)
+
 -[@ushalil](https://github.com/ushalil)
 
 -[@LiquidSi1k](https://github.com/LiquidSi1k)
