@@ -105,4 +105,6 @@
 
 -[@enricomarco26](https://github.com/enricomarco26)
 
--[@RohitRameshwaram](https://github.com/RohitRameshwaram)
+-[@RohitRameshwaram](https://github.com/RohitRameshwara)
+
+-[@harmon-tuazon](https://github.com/harmon-tuazon)
