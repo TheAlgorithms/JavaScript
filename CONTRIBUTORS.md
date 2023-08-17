@@ -52,6 +52,8 @@
 
 - [@Avatar521999](https://github.com/Avatar521999/)
 
+- [@mijak82](https://github.com/mijak82/)
+
 - [@deygobinda](https://github.com/deygobinda)
 
 - [@felipeffranco](https://github.com/felipeffranco)
@@ -74,10 +76,12 @@
 
 - [@babistebi](https://github.com/babistebi)
 
+- [@MrTadeu](https://github.com/MrTadeu)
+
 - [@yashbansal82](https://github.com/yashbansal82)
 
 - [@misbahabroruddin](https://github.com/misbahabroruddin)
-  
+
 - [@frankaz](https://github.com/frankaz)
 
 - [@frankaz](https://github.com/frankaz)
@@ -88,11 +92,10 @@
 
 -[@SriramaBhat](https://github.com/SriramaBhat)
 
--[@neeshat060708](https://github.com/neeshat060708)
--[@iGitmar](https://github.com/iGitmar)
+-[@neeshat060708](https://github.com/neeshat060708) -[@iGitmar](https://github.com/iGitmar)
 
 -[@Evisssa](https://github.com/Evisssa)
- 
+
 -[@shamil2936](https://github.com/shamil2936)
 
 -[@jesuskid](https://github.com/Jesuskid)
@@ -104,3 +107,17 @@
 -[@enricomarco26](https://github.com/enricomarco26)
 
 -[@ushalil](https://github.com/ushalil)
+
+-[@LiquidSi1k](https://github.com/LiquidSi1k)
+
+-[@VivekEngima](https://github.com/VivekEngima/)
+
+-[@enricomarco26](https://github.com/enricomarco26)
+
+-[@RohitRameshwaram](https://github.com/RohitRameshwara)
+
+-[@harmon-tuazon](https://github.com/harmon-tuazon)
+
+-[@thisisdilmurod](https://github.com/thisisdilmurod)
+
+-[@maryamrahman](https://github.com/maryamrahman)
