@@ -41,7 +41,7 @@ function integralEvaluation (N, a, b, func) {
 
   // Calculate the integral
   let result = h
-  temp = pointsArray.reduce((acc, currValue) => acc + currValue, 0);
+  temp = pointsArray.reduce((acc, currValue) => acc + currValue, 0)
 
   result *= temp
 
