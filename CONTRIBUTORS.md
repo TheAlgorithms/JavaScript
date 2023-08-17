@@ -6,6 +6,8 @@
 
 - [@aqibkhan20](https://github.com/aqibkhan20)
 
+- [@Sylphritz](https://github.com/Sylphritz)
+
 - [@batukeshwar](https://github.com/BatukeshwarVats)
 
 - [@makhalifa](https://github.com/makhalifa)
