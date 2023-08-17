@@ -3,7 +3,7 @@
 *  And prints out the month's calendar.
 *  It uses an epoch of 1/1/1900, Monday.
 */
-import { isLeapYear } from '../Maths/LeapYear.js'
+import { isLeapYear } from '../Maths/LeapYear'
 
 class Month {
   constructor () {
