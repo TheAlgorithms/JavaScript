@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@zanivanusa](https://github.com/zanivanusa)
+
 - [@kotharii](https://github.com/kotharii)
 
 - [@harounted](https://github.com/Harounted)
