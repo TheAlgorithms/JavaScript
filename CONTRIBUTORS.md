@@ -70,6 +70,8 @@
 
 - [@IsIDeveloper](https://github.com/IsIDeveloper)
 
+- [@HugoSJuarez](https://github.com/HugoSJuarez)
+
 - [@wasiqs-classics](https://github.com/wasiqs-classics)
 
 - [@AY-Karma](https://github.com/AY-Karma)
