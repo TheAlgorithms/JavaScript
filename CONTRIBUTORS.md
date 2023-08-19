@@ -102,7 +102,9 @@
 
 - [@SriramaBhat](https://github.com/SriramaBhat)
 
-- [@neeshat060708](https://github.com/neeshat060708) -[@iGitmar](https://github.com/iGitmar)
+- [@neeshat060708](https://github.com/neeshat060708)
+
+- [@iGitmar](https://github.com/iGitmar)
 
 - [@Evisssa](https://github.com/Evisssa)
 
@@ -146,6 +148,11 @@
 
 - [@danisoftville](https://github.com/danisoftville)
 
--[@IagoMota](https://github.com/IagoMota)
+- [@IagoMota](https://github.com/IagoMota)
+
+- [@Draken42](https://github.com/Draken42)
+
+- [@harmon-tuazon](https://github.com/harmon-tuazon)
 
 - [@SD-729](https://github.com/SD-729)
+
