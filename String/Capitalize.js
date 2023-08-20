@@ -8,7 +8,7 @@
  */
 const capitalize = (str) => {
   if (typeof str !== 'string') {
-    throw new Error('Argument should be string')
+    throw new TypeError('Argument should be string')
   }
 
   return str[0].toLocaleUpperCase() + str.slice(1)
