@@ -179,3 +179,5 @@
 - [Flora-0707](https://github.com/Flora-0707)
 
 - [@Nerronic](https://github.com/Nerronic)
+
+- [@jjpete13](https://github.com/jjpete13)
