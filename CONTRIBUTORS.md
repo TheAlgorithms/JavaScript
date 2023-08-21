@@ -98,6 +98,8 @@
 
 - [@frankaz](https://github.com/frankaz)
 
+- [@KyleHek](https://github.com/KyleHek)
+
 - [@ogahozy](https://github.com/ogahozy)
 
 - [@mihajlos1041](https://github.com/mihajlos1041)
