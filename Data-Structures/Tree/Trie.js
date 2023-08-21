@@ -106,8 +106,8 @@ Trie.prototype.contains = function (word) {
   // find the node with given prefix
   const node = this.findPrefix(word)
   // No such word exists
-  if (node === null || node.count === 0) return false
-  return true
+
+  return node !== null && node.count !== 0
 }
 
 Trie.prototype.findOccurrences = function (word) {

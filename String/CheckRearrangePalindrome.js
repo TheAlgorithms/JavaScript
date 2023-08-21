@@ -12,7 +12,7 @@ export const palindromeRearranging = (str) => {
     return 'Not a string'
   }
   // Check if is a empty string
-  if (str.length === 0) {
+  if (!str) {
     return 'Empty string'
   }
 

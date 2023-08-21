@@ -54,8 +54,7 @@ function integralEvaluation (N, a, b, func) {
 
   // Calculate the integral
   let result = h / 3
-  temp = 0
-  for (let i = 0; i < pointsArray.length; i++) temp += pointsArray[i]
+  temp = pointsArray.reduce((acc, currValue) => acc + currValue, 0)
 
   result *= temp
 

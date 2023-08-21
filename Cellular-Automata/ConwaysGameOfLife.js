@@ -29,11 +29,12 @@ export function newGeneration (cells) {
 
       // Decide whether the cell is alive or dead
       const alive = cells[i][j] === 1
-      if ((alive && neighbourCount >= 2 && neighbourCount <= 3) || (!alive && neighbourCount === 3)) {
-        nextGenerationRow.push(1)
-      } else {
-        nextGenerationRow.push(0)
-      }
+
+      const cellIsAlive =
+        (alive && neighbourCount >= 2 && neighbourCount <= 3) ||
+        (!alive && neighbourCount === 3)
+
+      nextGenerationRow.push(cellIsAlive ? 1 : 0)
     }
     nextGeneration.push(nextGenerationRow)
   }

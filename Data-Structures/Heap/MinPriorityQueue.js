@@ -47,8 +47,7 @@ class MinPriorityQueue {
 
   // returns boolean value whether the heap is full or not
   isFull () {
-    if (this.size === this.capacity) return true
-    return false
+    return this.size === this.capacity
   }
 
   // prints the heap
