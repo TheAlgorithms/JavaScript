@@ -66,6 +66,8 @@
 
 - [@felipeffranco](https://github.com/felipeffranco)
 
+- [@OctavinG](https://github.com/OctavianG)
+
 - [@omar414](https://github.com/omar414)
 
 - [@sunayab](https://github.com/sunayab)
@@ -175,3 +177,5 @@
 - [@chanchunkiu](https://github.com/chanchunkiu)
 
 - [Flora-0707](https://github.com/Flora-0707)
+
+- [@Nerronic](https://github.com/Nerronic)
