@@ -20,6 +20,8 @@
 
 - [@Ez1ck](https://github.com/Ez1ck)
 
+-[@gajen9854](https://github.com/Gajen9854)
+
 - [@MiguelGiraldoG](https://github.com/MiguelGiraldoG)
 
 - [@faraimazhandu](https://github.com/faraimazh)
