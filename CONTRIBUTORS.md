@@ -66,6 +66,8 @@
 
 - [@felipeffranco](https://github.com/felipeffranco)
 
+- [@OctavinG](https://github.com/OctavianG)
+
 - [@omar414](https://github.com/omar414)
 
 - [@sunayab](https://github.com/sunayab)
