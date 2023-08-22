@@ -14,6 +14,8 @@
 
 - [@batukeshwar](https://github.com/BatukeshwarVats)
 
+- [@tyleradams2002](https://github.com/tyleradams2002)
+
 - [@makhalifa](https://github.com/makhalifa)
 
 - [@leerobertdyer](https://github.com/leerobertdyer)
