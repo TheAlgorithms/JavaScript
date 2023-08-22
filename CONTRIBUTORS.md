@@ -80,6 +80,8 @@
 
 - [@HugoSJuarez](https://github.com/HugoSJuarez)
 
+- [@Deba-del](https://github.com/Deba-del)
+
 - [@wasiqs-classics](https://github.com/wasiqs-classics)
 
 - [@AY-Karma](https://github.com/AY-Karma)
