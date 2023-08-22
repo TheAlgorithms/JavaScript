@@ -142,6 +142,8 @@
 
 - [@RohitRameshwaram](https://github.com/RohitRameshwara)
 
+- [@vkofler](https://github.com/vkofler)
+
 - [@harmon-tuazon](https://github.com/harmon-tuazon)
 
 - [solutionkutibiz](https://github.com/)
