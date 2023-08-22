@@ -116,6 +116,8 @@
 
 - [@iGitmar](https://github.com/iGitmar)
 
+- [@0sama-Mirza](https://github.com/0sama-Mirza)
+
 - [@Evisssa](https://github.com/Evisssa)
 
 - [@shamil2936](https://github.com/shamil2936)
