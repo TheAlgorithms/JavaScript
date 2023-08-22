@@ -48,6 +48,8 @@
 
 - [@NCTepper](https://github.com/NCTepper)
 
+- [@TBrid20](https://github.com/TBrid20/)
+
 - [@uchedestiny](https://github.com/uchedestiny/)
 
 - [@Developmental141](https://github.com/Developmental141/)
