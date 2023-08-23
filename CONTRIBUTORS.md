@@ -130,6 +130,8 @@
 
 - [@jesuskid](https://github.com/Jesuskid)
 
+- [@james-moseti](https://github.com/james-moseti)
+
 - [@Iospedro](https://github.com/Iospedro)
 
 - [@panosker](https://github.com/panosker)
