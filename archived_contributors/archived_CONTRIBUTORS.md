@@ -4,6 +4,8 @@
 
 - [@aqibkhan20](https://github.com/aqibkhan20)
 
+- [@tyleradams2002](https://github.com/tyleradams2002)
+
 - [@makhalifa](https://github.com/makhalifa)
 
 - [@#Atef1995](https://github.com/atef1995)
