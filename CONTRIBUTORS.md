@@ -18,6 +18,8 @@
 
 - [@makhalifa](https://github.com/makhalifa)
 
+- [@ClaytonSeager](https://github.com/ClaytonSeager)
+
 - [@leerobertdyer](https://github.com/leerobertdyer)
 
 - [@Ez1ck](https://github.com/Ez1ck)
