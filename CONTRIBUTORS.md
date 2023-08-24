@@ -28,11 +28,17 @@
 
 - [@MiguelGiraldoG](https://github.com/MiguelGiraldoG)
 
+- [@ilkeery](https://github.com/ilkeery)
+
 - [@faraimazhandu](https://github.com/faraimazh)
 
 - [@Niko-Yuan](https://github.com/Niko-Yuan)
 
+- [@RChursin](https://github.com/RCursin)
+
 - [@cosbyhayes](https://github.com/cosbyhayes)
+
+- [@harsh1509c](https://github.com/harsh1509c)
 
 - [@MariusHor](https://github.com/MariusHor)
 
@@ -96,6 +102,8 @@
 
 - [@Muhamadou74](https://github.com/Muhamadou74)
 
+- [@GianTheRios](https://github.com/GianTheRios)
+
 - [@babistebi](https://github.com/babistebi)
 
 - [@MrTadeu](https://github.com/MrTadeu)
@@ -143,6 +151,8 @@
 - [@ismailwafid](https://github.com/ismailwafid)
 
 - [@ushalil](https://github.com/ushalil)
+
+- [@KMomoharaPelous](https://github.com/KMomoharaPelous)
 
 - [@Chamiln17](https://github.com/Chamiln17)
 
@@ -212,6 +222,14 @@
 
 - [@kamalwan03](https://github.com/kamalwan03)
 
+- [@AlexandrosKaram](https://github.com/AlexandrosKaram)
 
+- [@alindaByamukama](https://github.com/alindaByamukama)
 
+- [@Sannabs](https://github.com/Sannabs/)
 
+- [@archeana](https://github.com/archeana)
+
+- [@daddypulido](https://github.com/daddypulido)
+
+- [@idkmanan](https://github.com/idkmanan)
