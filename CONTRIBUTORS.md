@@ -220,10 +220,8 @@
 
 - [@alindaByamukama](https://github.com/alindaByamukama)
 
-
-
-
-
 -[@Sannabs](https://github.com/Sannabs/)
 
 - [@archeana](https://github.com/archeana)
+
+-[@daddypulido](https://github.com/daddypulido)
