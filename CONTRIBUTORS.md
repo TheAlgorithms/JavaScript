@@ -225,3 +225,5 @@
 - [@archeana](https://github.com/archeana)
 
 -[@daddypulido](https://github.com/daddypulido)
+
+-[@idkmanan](https://github.com/idkmanan)
