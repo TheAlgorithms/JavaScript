@@ -220,14 +220,16 @@
 
 - [@Rohan-2](https://github.com/Rohan-2)
 
+- [@kamalwan03](https://github.com/kamalwan03)
+
 - [@AlexandrosKaram](https://github.com/AlexandrosKaram)
 
 - [@alindaByamukama](https://github.com/alindaByamukama)
 
--[@Sannabs](https://github.com/Sannabs/)
+- [@Sannabs](https://github.com/Sannabs/)
 
 - [@archeana](https://github.com/archeana)
 
--[@daddypulido](https://github.com/daddypulido)
+- [@daddypulido](https://github.com/daddypulido)
 
--[@idkmanan](https://github.com/idkmanan)
+- [@idkmanan](https://github.com/idkmanan)
