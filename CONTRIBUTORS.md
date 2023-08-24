@@ -38,6 +38,8 @@
 
 - [@cosbyhayes](https://github.com/cosbyhayes)
 
+- [@harsh1509c](https://github.com/harsh1509c)
+
 - [@MariusHor](https://github.com/MariusHor)
 
 - [@Sophia-98](https://github.com/Sophia-98)
