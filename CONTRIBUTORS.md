@@ -96,6 +96,8 @@
 
 - [@Muhamadou74](https://github.com/Muhamadou74)
 
+- [@GianTheRios](https://github.com/GianTheRios)
+
 - [@babistebi](https://github.com/babistebi)
 
 - [@MrTadeu](https://github.com/MrTadeu)
