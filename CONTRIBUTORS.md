@@ -32,6 +32,8 @@
 
 - [@Niko-Yuan](https://github.com/Niko-Yuan)
 
+- [@RChursin](https://github.com/RCursin)
+
 - [@cosbyhayes](https://github.com/cosbyhayes)
 
 - [@MariusHor](https://github.com/MariusHor)
