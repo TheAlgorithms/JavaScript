@@ -204,6 +204,8 @@
 
 - [@RadosavPanic](https://github.com/RadosavPanic)
 
+- [@thenameisajay](https://github.com/thenameisajay)
+
 - [@chanchunkiu](https://github.com/chanchunkiu)
 
 - [Flora-0707](https://github.com/Flora-0707)
