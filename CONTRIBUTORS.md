@@ -169,6 +169,8 @@
 - [@RohitRameshwaram](https://github.com/RohitRameshwara)
 
 - [@vkofler](https://github.com/vkofler)
+-
+- [@faresmohalhel](https://github.com/faresmohalhel)
 
 - [@harmon-tuazon](https://github.com/harmon-tuazon)
 
@@ -218,7 +220,7 @@
 
 - [@ksanketrao](https://github.com/ksanketrao)
 
-- [@harshninave04](https://github.com/Harshninave04) 
+- [@harshninave04](https://github.com/Harshninave04)
 
 - [@Rohan-2](https://github.com/Rohan-2)
 
@@ -239,3 +241,4 @@
 - [@noahlunot](https://github.com/noahlunot)
 
 - [@Nahida51](https://github.com/Nahida51)
+
