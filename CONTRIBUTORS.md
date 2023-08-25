@@ -26,6 +26,8 @@
 
 - [@gajen9854](https://github.com/Gajen9854)
 
+- [@RushatPatil] (https://github.com/RushatPatil)
+
 - [@MiguelGiraldoG](https://github.com/MiguelGiraldoG)
 
 - [@ilkeery](https://github.com/ilkeery)
@@ -167,6 +169,8 @@
 - [@RohitRameshwaram](https://github.com/RohitRameshwara)
 
 - [@vkofler](https://github.com/vkofler)
+-
+- [@faresmohalhel](https://github.com/faresmohalhel)
 
 - [@harmon-tuazon](https://github.com/harmon-tuazon)
 
@@ -220,16 +224,30 @@
 
 - [@Rohan-2](https://github.com/Rohan-2)
 
+- [@kamalwan03](https://github.com/kamalwan03)
+
 - [@AlexandrosKaram](https://github.com/AlexandrosKaram)
 
 - [@alindaByamukama](https://github.com/alindaByamukama)
 
--[@Sannabs](https://github.com/Sannabs/)
+- [@Sannabs](https://github.com/Sannabs/)
 
 - [@archeana](https://github.com/archeana)
 
--[@daddypulido](https://github.com/daddypulido)
+- [@daddypulido](https://github.com/daddypulido)
+
+- [@idkmanan](https://github.com/idkmanan)
+
+- [@noahlunot](https://github.com/noahlunot)
+
+- [@Nahida51](https://github.com/Nahida51)
+
+- [datagekko](https://github.com/datagekko)
+
+- [@StescuStefan](https://github.com/StescuStefan)
 
 -[@idkmanan](https://github.com/idkmanan)
 
 -[@iykechuks11](https://github.com/iykechuks11/)
+
+- [@rbcheung](https://github.com/rbcheung)
