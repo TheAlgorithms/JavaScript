@@ -26,6 +26,8 @@
 
 - [@gajen9854](https://github.com/Gajen9854)
 
+- [@RushatPatil] (https://github.com/RushatPatil)
+
 - [@MiguelGiraldoG](https://github.com/MiguelGiraldoG)
 
 - [@ilkeery](https://github.com/ilkeery)
@@ -167,6 +169,8 @@
 - [@RohitRameshwaram](https://github.com/RohitRameshwara)
 
 - [@vkofler](https://github.com/vkofler)
+-
+- [@faresmohalhel](https://github.com/faresmohalhel)
 
 - [@harmon-tuazon](https://github.com/harmon-tuazon)
 
@@ -235,3 +239,7 @@
 - [@idkmanan](https://github.com/idkmanan)
 
 - [@marlonmdev](https://github.com/marlonmdev)
+
+- [@noahlunot](https://github.com/noahlunot)
+
+- [@Nahida51](https://github.com/Nahida51)
