@@ -1,1 +1,1 @@
-console.log("Pasting pull request");
+console.log("Testing pull request");
