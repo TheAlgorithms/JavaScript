@@ -26,6 +26,8 @@
 
 - [@gajen9854](https://github.com/Gajen9854)
 
+- [@RushatPatil] (https://github.com/RushatPatil)
+
 - [@MiguelGiraldoG](https://github.com/MiguelGiraldoG)
 
 - [@ilkeery](https://github.com/ilkeery)
