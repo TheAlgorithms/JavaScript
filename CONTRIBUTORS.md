@@ -246,4 +246,8 @@
 
 - [@StescuStefan](https://github.com/StescuStefan)
 
+-[@idkmanan](https://github.com/idkmanan)
+
+-[@iykechuks11](https://github.com/iykechuks11/)
+
 - [@rbcheung](https://github.com/rbcheung)
