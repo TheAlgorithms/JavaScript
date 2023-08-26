@@ -74,6 +74,8 @@
 
 - [@Avatar521999](https://github.com/Avatar521999/)
 
+- [@baseeray](https://github.com/baseeray/)
+
 - [@mijak82](https://github.com/mijak82/)
 
 - [@deygobinda](https://github.com/deygobinda)
