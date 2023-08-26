@@ -118,6 +118,8 @@
 
 - [@frankaz](https://github.com/frankaz)
 
+- [@koushikromel](https://github.com/koushikromel)
+
 - [@KyleHek](https://github.com/KyleHek)
 
 - [@ogahozy](https://github.com/ogahozy)
