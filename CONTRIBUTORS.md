@@ -82,6 +82,8 @@
 
 - [@felipeffranco](https://github.com/felipeffranco)
 
+- [@michaeljamesrago](https://github.com/michaeljamesrago)
+
 - [@OctavinG](https://github.com/OctavianG)
 
 - [@omar414](https://github.com/omar414)
