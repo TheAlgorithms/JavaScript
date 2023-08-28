@@ -258,37 +258,36 @@
 
 - [@StescuStefan](https://github.com/StescuStefan)
 
--[@idkmanan](https://github.com/idkmanan)
+- [@idkmanan](https://github.com/idkmanan)
 
--[@iykechuks11](https://github.com/iykechuks11/)
+- [@iykechuks11](https://github.com/iykechuks11/)
 
 - [@rbcheung](https://github.com/rbcheung)
 
--[@Obedience223](https://github.com/Obedience223/)
+- [@Obedience223](https://github.com/Obedience223/)
 
--[@Bravo773](https://github.com/Bravo773/)
+- [@Bravo773](https://github.com/Bravo773/)
 
--[@strawhatrag](https://github.com/strawhatrag/)
+- [@strawhatrag](https://github.com/strawhatrag/)
 
--[@hajar6102](https://github.com/hajar6102/)
+- [@hajar6102](https://github.com/hajar6102/)
 
--[@Angelos-Tzortzis](https://github.com/Angelos-Tzortzis/)
+- [@Angelos-Tzortzis](https://github.com/Angelos-Tzortzis/)
 
--[@sharann18](https://github.com/sharann18/)
+- [@sharann18](https://github.com/sharann18/)
 
--[@ousainoubsj](https://github.com/ousainoubsj/)
+- [@ousainoubsj](https://github.com/ousainoubsj/)
 
--[@marvinsjsu](https://github.com/marvinsjsu/)
+- [@marvinsjsu](https://github.com/marvinsjsu/)
 
-<<<<<<< HEAD
--[@lored-zacellari](https://github.com/lored-zacellari/)
+- [@lored-zacellari](https://github.com/lored-zacellari/)
 
--[@kinsobi](https://github.com/kinsobi/)
+- [@kinsobi](https://github.com/kinsobi/)
 
--[@Skyairey](https://github.com/Skyairey/)
+- [@Skyairey](https://github.com/Skyairey/)
 
--[@lored-zacellari](https://github.com/lored-zacellari/)
+- [@lored-zacellari](https://github.com/lored-zacellari/)
 
--[@lored-zacellari](https://github.com/lored-zacellari/)
+- [@lored-zacellari](https://github.com/lored-zacellari/)
 
--[@PiyushChandra17](https://github.com/PiyushChandra17)
+- [@PiyushChandra17](https://github.com/PiyushChandra17)
