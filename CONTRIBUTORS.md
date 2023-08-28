@@ -279,3 +279,5 @@
 -[@marvinsjsu](https://github.com/marvinsjsu/)
 
 -[@lored-zacellari](https://github.com/lored-zacellari/)
+
+-[@kinsobi](https://github.com/kinsobi/)
