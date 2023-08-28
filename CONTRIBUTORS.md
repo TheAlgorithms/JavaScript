@@ -284,6 +284,8 @@
 
 - [@kinsobi](https://github.com/kinsobi/)
 
+- [@ryanrugh](https://github.com/ryanrugh)
+
 - [@Skyairey](https://github.com/Skyairey/)
 
 - [@lored-zacellari](https://github.com/lored-zacellari/)
