@@ -280,8 +280,15 @@
 
 -[@marvinsjsu](https://github.com/marvinsjsu/)
 
+<<<<<<< HEAD
 -[@lored-zacellari](https://github.com/lored-zacellari/)
 
 -[@kinsobi](https://github.com/kinsobi/)
 
 -[@Skyairey](https://github.com/Skyairey/)
+
+-[@lored-zacellari](https://github.com/lored-zacellari/)
+
+-[@lored-zacellari](https://github.com/lored-zacellari/)
+
+-[@PiyushChandra17](https://github.com/PiyushChandra17)
