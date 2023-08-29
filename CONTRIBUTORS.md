@@ -314,4 +314,4 @@
 
 - [@AlleksB](https://github.com/AlleksB)
 
-- [@Itsme223] (https://github.com/Itsme223/)
+- [@Itsme223](https://github.com/Itsme223/)
