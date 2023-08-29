@@ -305,3 +305,5 @@
 - [@saifali1234](https://github.com/SyedSaifAli1234)
 
 - [@mauricevalerio](https://github.com/mauricevalerio)
+
+- [JThurling](https://github.com/JThurling)
