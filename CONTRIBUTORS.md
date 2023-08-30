@@ -16,6 +16,8 @@
 
 - [@tyleradams2002](https://github.com/tyleradams2002)
 
+- [@adixadymak] (https://github.com/adixadymak)
+
 - [@makhalifa](https://github.com/makhalifa)
 
 - [@ClaytonSeager](https://github.com/ClaytonSeager)
