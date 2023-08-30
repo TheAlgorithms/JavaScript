@@ -12,6 +12,8 @@
 
 - [@Hemant](https://github.com/Hmaske88)
 
+- [@Sathyendhar](https://github.com/Sathyendhar)
+
 - [@batukeshwar](https://github.com/BatukeshwarVats)
 
 - [@tyleradams2002](https://github.com/tyleradams2002)
@@ -317,3 +319,9 @@
 - [@Razvan-Pop](https://github.com/Razvan-Pop/)
 
 - [@DonMiller9294](https://github.com/DonMiller9294)
+
+- [@vardanyanzaven](https://github.com/vardanyanzaven/)
+
+-[@DavidTausend](https://github.com/DavidTausend/)
+
+- [@Julio-le44](https://github.com/Julio-le44/)
