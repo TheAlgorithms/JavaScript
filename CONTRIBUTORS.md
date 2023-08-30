@@ -12,6 +12,8 @@
 
 - [@Hemant](https://github.com/Hmaske88)
 
+- [@Sathyendhar](https://github.com/Sathyendhar)
+
 - [@batukeshwar](https://github.com/BatukeshwarVats)
 
 - [@tyleradams2002](https://github.com/tyleradams2002)
