@@ -28,6 +28,8 @@
 
 - [@Ez1ck](https://github.com/Ez1ck)
 
+- [@battinleo](https://github.com/battinleo)
+
 - [@gajen9854](https://github.com/Gajen9854)
 
 - [@RushatPatil] (https://github.com/RushatPatil)
