@@ -342,4 +342,4 @@
 
 - [@Amminadab-db](https://github.com/Amminadab-db/)
 
-- [@ccksam_chan] (https://github.com/ccksam)
+- [@ccksam_chan](https://github.com/ccksam)
