@@ -350,4 +350,4 @@
 
 - [@diamondnique] (https://github.com/diamondnique)
 
-- [@KogecTech] (https://github.com/KogecTech)
+- [@KogecTech](https://github.com/KogecTech)
