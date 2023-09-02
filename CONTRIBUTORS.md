@@ -22,6 +22,8 @@
 
 - [@makhalifa](https://github.com/makhalifa)
 
+- [@Maninderthecoder](https://github.com/Maninderthecoder)
+
 - [@seamotaylor](https://github.com/seamotaylor)
 
 - [@ClaytonSeager](https://github.com/ClaytonSeager)
