@@ -361,3 +361,5 @@
 - [@diamondnique] (https://github.com/diamondnique)
 
 - [@KogecTech](https://github.com/KogecTech)
+
+- [@Seri2009](https://github.com/Seri2009)
