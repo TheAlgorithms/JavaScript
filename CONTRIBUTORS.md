@@ -298,6 +298,8 @@
 
 - [@marvinsjsu](https://github.com/marvinsjsu/)
 
+- [@Araneus84](https://github.com/Araneus84)
+
 - [@lored-zacellari](https://github.com/lored-zacellari/)
 
 - [@kinsobi](https://github.com/kinsobi/)
