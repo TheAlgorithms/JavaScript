@@ -18,7 +18,7 @@
 
 - [@tyleradams2002](https://github.com/tyleradams2002)
 
-- [@adixadymak] (https://github.com/adixadymak)
+- [@adixadymak](https://github.com/adixadymak)
 
 - [@makhalifa](https://github.com/makhalifa)
 
@@ -36,7 +36,7 @@
 
 - [@gajen9854](https://github.com/Gajen9854)
 
-- [@RushatPatil] (https://github.com/RushatPatil)
+- [@RushatPatil](https://github.com/RushatPatil)
 
 - [@MiguelGiraldoG](https://github.com/MiguelGiraldoG)
 
@@ -311,6 +311,7 @@
 - [@PiyushChandra17](https://github.com/PiyushChandra17)
 
 - [@nfluk](https://github.com/nfluk/)
+
 - [@Yapakazul](https://github.com/Yapakazul)
 
 - [@Subramaniam-dot](https://github.com/Subramaniam-dot)
@@ -335,13 +336,14 @@
 
 - [@vardanyanzaven](https://github.com/vardanyanzaven/)
 
--[@DavidTausend](https://github.com/DavidTausend/)
+- [@DavidTausend](https://github.com/DavidTausend/)
 
 - [@Julio-le44](https://github.com/Julio-le44/)
 
 - [@Quincy8801](https://github.com/Quincy8801/)
 
-- [@sharmista2shastry] (https://github.com/sharmista2shastry/)
+- [@sharmista2shastry](https://github.com/sharmista2shastry/)
+- 
 - [@jasy106](https://github.com/jasy106/)
 
 - [@MonicaPyEng92](https://github.com/MonicaPyEng92/)
@@ -352,14 +354,17 @@
 
 - [@Amminadab-db](https://github.com/Amminadab-db/)
 
-- [@ccksam_chan] (https://github.com/ccksam)
+- [@ccksam_chan](https://github.com/ccksam)
 
-- [@yuvrajsood] (https://github.com/yuvrajsood)
+- [@yuvrajsood](https://github.com/yuvrajsood)
 
-- [@Aru12345] (https://github.com/Aru12345)
+- [@Aru12345](https://github.com/Aru12345)
 
-- [@diamondnique] (https://github.com/diamondnique)
+- [@diamondnique](https://github.com/diamondnique)
+
+- [@diamondnique](https://github.com/diamondnique)
 
 - [@KogecTech](https://github.com/KogecTech)
 
 - [@Seri2009](https://github.com/Seri2009)
+
