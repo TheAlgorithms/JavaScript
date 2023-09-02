@@ -60,6 +60,8 @@
 
 - [@Mubarak1A](https://github.com/Mubarak1A)
 
+- [@Syed-Mohammed-Idris](https://github.com/Syed-Mohammed-Idris/)
+
 - [@Hoithak](https://github.com/Hoithak/)
 
 - [@brandenge](https://github.com/brandenge)
