@@ -260,6 +260,8 @@
 
 - [@kamalwan03](https://github.com/kamalwan03)
 
+- [@leolimaf](https://github.com/leolimaf)
+
 - [@AlexandrosKaram](https://github.com/AlexandrosKaram)
 
 - [@alindaByamukama](https://github.com/alindaByamukama)
