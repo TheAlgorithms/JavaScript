@@ -28,6 +28,8 @@
 
 - [@ClaytonSeager](https://github.com/ClaytonSeager)
 
+- [@grandeurkoe](https://github.com/grandeurkoe)
+
 - [@leerobertdyer](https://github.com/leerobertdyer)
 
 - [@Ez1ck](https://github.com/Ez1ck)
