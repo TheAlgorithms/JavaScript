@@ -383,3 +383,5 @@
 - [@EceSenaEtoglu] (https://github.com/EceSenaEtoglu)
 
 - [@Maorytzio](https://github.com/Maorytzio)
+
+- [@mallosoftware](https://github.com/mallosoftware)
