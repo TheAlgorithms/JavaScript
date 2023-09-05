@@ -34,4 +34,3 @@ test('Check 10 module 2', () => {
   const res = ModuleOfPowerOfTwo(10, 2)
   expect(res).toBe(0)
 })
-
