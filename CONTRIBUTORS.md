@@ -391,3 +391,5 @@
 - [@mallosoftware](https://github.com/mallosoftware)
 
 -[@ogiepulga](https://github.com/ogiepulga)
+
+- [@fedizarai](https://github.com/fedizarai)
