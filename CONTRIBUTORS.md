@@ -23,7 +23,6 @@
 - [@tyleradams2002](https://github.com/tyleradams2002)
 
 - [@adixadymak](https://github.com/adixadymak)
-  
 - [@Yahya-Achrane](https://github.com/Yahya-Achrane)
 
 - [@makhalifa](https://github.com/makhalifa)
@@ -233,6 +232,8 @@
 - [@harmon-tuazon](https://github.com/harmon-tuazon)
 
 - [@SD-729](https://github.com/SD-729)
+
+- [@Carson-Haskell](https://github.com/Carson-Haskell)
 
 - [@ajmccraw](https://github.com/ajmccraw)
 
