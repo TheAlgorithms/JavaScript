@@ -422,4 +422,8 @@
 
 - [@kmdshojib](https://github.com/kmdshojib)
 
+- [@kmdshojib](https://github.com/kmdshojib)
+
+- [@bpatault](https://github.com/bpatault)
+
 - [@roibenshoham](https://github.com/roibenshoham)
