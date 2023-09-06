@@ -10,6 +10,8 @@
 
 - [@Sylphritz](https://github.com/Sylphritz)
 
+- [@Arvona](https://github.com/Arvona)
+
 - [@Hemant](https://github.com/Hmaske88)
 
 - [@bhavy03](https://github.com/bhavy03)
@@ -397,6 +399,14 @@
 - [@mallosoftware](https://github.com/mallosoftware)
 
 -[@ogiepulga](https://github.com/ogiepulga)
+
+- [@fedizarai](https://github.com/fedizarai)
+
+- [@shahab548](https://github.com/shahab548)
+
+-[@MrAi0](https://github.com/MrAi0)
+
+-[@fedizarai](https://github.com/fedizarai)
 
 - [@fedizarai](https://github.com/fedizarai)
 
