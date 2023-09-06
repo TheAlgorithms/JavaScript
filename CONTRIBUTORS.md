@@ -400,6 +400,10 @@
 
 -[@ogiepulga](https://github.com/ogiepulga)
 
+- [@fedizarai](https://github.com/fedizarai)
+
+- [@shahab548](https://github.com/shahab548)
+
 -[@MrAi0](https://github.com/MrAi0)
 
 -[@fedizarai](https://github.com/fedizarai)
@@ -417,3 +421,4 @@
 - [@carv0066](https://github.com/carv0066)
 
 - [@kmdshojib](https://github.com/kmdshojib)
+
