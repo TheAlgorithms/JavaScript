@@ -14,6 +14,8 @@
 
 - [@Hemant](https://github.com/Hmaske88)
 
+- [@bhavy03](https://github.com/bhavy03)
+
 - [@Sathyendhar](https://github.com/Sathyendhar)
 
 - [@batukeshwar](https://github.com/BatukeshwarVats)
@@ -21,12 +23,16 @@
 - [@tyleradams2002](https://github.com/tyleradams2002)
 
 - [@adixadymak](https://github.com/adixadymak)
+``
+- [@Yahya-Achrane](https://github.com/Yahya-Achrane)
 
 - [@makhalifa](https://github.com/makhalifa)
 
 - [@Maninderthecoder](https://github.com/Maninderthecoder)
 
 - [@seamotaylor](https://github.com/seamotaylor)
+
+- [@unicorn1408](https://github.com/unicorn1408)
 
 - [@ClaytonSeager](https://github.com/ClaytonSeager)
 
@@ -256,6 +262,8 @@
 
 - [@kamalwan03](https://github.com/kamalwan03)
 
+- [@leolimaf](https://github.com/leolimaf)
+
 - [@AlexandrosKaram](https://github.com/AlexandrosKaram)
 
 - [@alindaByamukama](https://github.com/alindaByamukama)
@@ -350,6 +358,8 @@
 
 - [@Quincy8801](https://github.com/Quincy8801/)
 
+- [@alistairwilson22] (https://github.com/alistairwilson22)
+
 - [@sharmista2shastry](https://github.com/sharmista2shastry/)
 
 - [@jasy106](https://github.com/jasy106/)
@@ -387,3 +397,19 @@
 - [@Maorytzio](https://github.com/Maorytzio)
 
 - [@mallosoftware](https://github.com/mallosoftware)
+
+-[@ogiepulga](https://github.com/ogiepulga)
+
+- [@fedizarai](https://github.com/fedizarai)
+
+- [@shaheershakir] (https://github.com/shaheershakir)
+
+- [@Sajaalghoul](https://github.com/Sajaalghoul)
+
+- [@MobiusXXF](https://github.com/MobiusXXF)
+
+- [@Yosef-ft](https://github.com/Yosef-ft)
+
+- [@carv0066](https://github.com/carv0066)
+
+- [@kmdshojib](https://github.com/kmdshojib)
