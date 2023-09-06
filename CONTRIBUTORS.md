@@ -400,6 +400,10 @@
 
 -[@ogiepulga](https://github.com/ogiepulga)
 
+-[@MrAi0](https://github.com/MrAi0)
+
+-[@fedizarai](https://github.com/fedizarai)
+
 - [@fedizarai](https://github.com/fedizarai)
 
 - [@shaheershakir] (https://github.com/shaheershakir)
