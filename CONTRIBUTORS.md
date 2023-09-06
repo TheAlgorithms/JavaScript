@@ -218,6 +218,8 @@
 
 - [@usama-365](https://github.com/usama-365)
 
+- [@AceMido](https://github.com/AceMido)
+
 - [@sunnybeatsza](https://github.com/sunnybeatsza)
 
 - [@martindvs](https://github.com/martindvs)
