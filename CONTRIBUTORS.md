@@ -470,4 +470,6 @@
 
 - [@tocilae](https://github.com/tocilae)
 
+- [@SSipaque] (https://github.com/SSipaque)
+
 - [@dayvison2b](https://github.com/dayvison2b)
