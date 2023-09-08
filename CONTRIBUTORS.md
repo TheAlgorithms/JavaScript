@@ -1,4 +1,5 @@
 # CONTRIBUTORS
+- [@mmaksi](https://github.com/mmaksi)
 
 - [@zanivanusa](https://github.com/zanivanusa)
 
