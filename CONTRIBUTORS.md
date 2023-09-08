@@ -1,4 +1,7 @@
 # CONTRIBUTORS
+- [@mmaksi](https://github.com/mmaksi)
+
+- [@DilushaHesaranga](https://github.com/DilushaHesaranga)
 
 - [@zanivanusa](https://github.com/zanivanusa)
 
@@ -450,3 +453,25 @@
 - [Gokulkannan11](https://github.com/Gokulkannan11)
 
 - [@alaina12](https://github.com/alaina12)
+
+- [QaitkenQ](https://github.com/QaitkenQ)
+
+- [@brando161](https://github.com/brando161)
+
+- [@ongoklevi](https://github.com/ongoklevi)
+
+- [@Eliptik](https://github.com/eliptik1)
+
+- [@Muhamadou74](https://github.com/Muhamadou74)
+
+- [@luis-svnts](https://github.com/luis-svnts)
+
+- [@kmdshojib](https://github.com/kmdshojib)
+
+- [@kmdshojib](https://github.com/kmdshojib)
+
+- [@tocilae](https://github.com/tocilae)
+
+- [@SSipaque] (https://github.com/SSipaque)
+
+- [@dayvison2b](https://github.com/dayvison2b)
