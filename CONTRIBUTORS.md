@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@DilushaHesaranga](https://github.com/DilushaHesaranga)
+
 - [@zanivanusa](https://github.com/zanivanusa)
 
 - [@kotharii](https://github.com/kotharii)
