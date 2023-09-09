@@ -481,3 +481,5 @@
 - [@dsoumgit](https://github.com/dsoumgit)
 
 - [@Harishacuity](https://github.com/Harishacuity)
+
+- [@BernardGomes7](https://github.com/BernardGomes7)
