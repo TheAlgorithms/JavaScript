@@ -1,4 +1,6 @@
 # CONTRIBUTORS
+- [@egbadonjeffrey](https://github.com/egbadonjeffrey)
+  
 - [@mmaksi](https://github.com/mmaksi)
 
 - [@DilushaHesaranga](https://github.com/DilushaHesaranga)
