@@ -486,6 +486,10 @@
 
 - [@BernardGomes7](https://github.com/BernardGomes7)
 
+- [@morganyeh](https://github.com/morganyeh)
+
+- [@leonidasmich](https://github.com/leonidasmich)
+
 - [@niharika-kesarwani](https://github.com/niharika-kesarwani)
 
 - [@morganyeh](https://github.com/morganyeh)
@@ -497,3 +501,4 @@
 - [@PPTZZ](https://github.com/PPTZZ)
 
 - [@ohmikeyy](https://github.com/ohmikeyy)
+
