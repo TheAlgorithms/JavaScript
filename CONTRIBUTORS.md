@@ -418,7 +418,7 @@
 
 - [@fedizarai](https://github.com/fedizarai)
 
-- [@shaheershakir] (https://github.com/shaheershakir)
+- [@shaheershakir](https://github.com/shaheershakir)
 
 - [@Sajaalghoul](https://github.com/Sajaalghoul)
 
@@ -474,7 +474,7 @@
 
 - [@tocilae](https://github.com/tocilae)
 
-- [@SSipaque] (https://github.com/SSipaque)
+- [@SSipaque](https://github.com/SSipaque)
 
 - [@dayvison2b](https://github.com/dayvison2b)
 
@@ -489,3 +489,10 @@
 - [@niharika-kesarwani](https://github.com/niharika-kesarwani)
 
 - [@morganyeh](https://github.com/morganyeh)
+
+- [@morganyeh](https://github.com/morganyeh)
+
+- [@Harsh-hudekar](https://github.com/Harsh-hudekar)
+
+- [@ohmikeyy](https://github.com/ohmikeyy)
+
