@@ -480,6 +480,8 @@
 
 - [@dsoumgit](https://github.com/dsoumgit)
 
+- [@dsoumgit](https://github.com/dsoumgit)
+
 - [@Harishacuity](https://github.com/Harishacuity)
 
 - [@Tsconing](https://github.com/Tsconing)
@@ -489,3 +491,5 @@
 - [@morganyeh](https://github.com/morganyeh)
 
 - [@Harsh-hudekar](https://github.com/Harsh-hudekar)
+
+- [@ornitcg](https://github.com/ornitcg)
