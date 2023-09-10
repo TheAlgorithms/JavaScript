@@ -1,6 +1,6 @@
 # CONTRIBUTORS
+
 - [@egbadonjeffrey](https://github.com/egbadonjeffrey)
-  
 - [@mmaksi](https://github.com/mmaksi)
 
 - [@DilushaHesaranga](https://github.com/DilushaHesaranga)
@@ -487,3 +487,5 @@
 - [@BernardGomes7](https://github.com/BernardGomes7)
 
 - [@morganyeh](https://github.com/morganyeh)
+
+- [@leonidasmich](https://github.com/leonidasmich)
