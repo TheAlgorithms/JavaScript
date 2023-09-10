@@ -1,6 +1,8 @@
 # CONTRIBUTORS
 
-- [@]()
+- [@egbadonjeffrey](https://github.com/egbadonjeffrey)
+
+- [@mmaksi](https://github.com/mmaksi)
 
 - [@0Samamirza](https://github.com/0sama-Mirza)
 
@@ -8829,4 +8831,8 @@
 - [@Harsh-hudekar](https://github.com/Harsh-hudekar)
 
 - [@ornitcg](https://github.com/ornitcg)
+
+- [@Harsh-hudekar](https://github.com/Harsh-hudekar)
+
+- [@VovaRotterdam](https://github.com/VovaRotterdam)
 
