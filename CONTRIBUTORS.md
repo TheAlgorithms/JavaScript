@@ -644,6 +644,10 @@
 
 - [@Cdturizo15](https://github.com/cdturizo15)
 
+- [@dsoumgit](https://github.com/dsoumgit)
+
+- [@Harishacuity](https://github.com/Harishacuity)
+
 - [@Cdxawesome](https://github.com/cdxawesome)
 
 - [@Cebenermaake](https://github.com/cebener-maake)
@@ -8821,4 +8825,8 @@
 - [@Zzhou0922](https://github.com/zzhou0922)
 
 - [@🐬Gassims](https://github.com/gassims/)
+
+- [@Harsh-hudekar](https://github.com/Harsh-hudekar)
+
+- [@ornitcg](https://github.com/ornitcg)
 
