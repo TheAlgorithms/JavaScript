@@ -191,9 +191,7 @@ const sqrt5 = Math.sqrt(5)
 const phi = (1 + sqrt5) / 2
 const psi = (1 - sqrt5) / 2
 
-const FibonacciUsingFormula = (n) => {
-  return Math.round((phi ** n - psi ** n) / sqrt5)
-}
+const FibonacciUsingFormula = n => Math.round((phi ** n - psi ** n) / sqrt5)
 
 export { FibonacciDpWithoutRecursion }
 export { FibonacciIterative }
