@@ -193,8 +193,7 @@ const FibonacciUsingFormula = (n) => {
   const psi = (1 - sqrt5) / 2
 
   // x ** y states x to the power y.
-  const result = (phi ** n - psi ** n) / sqrt5
-  return Math.round(result)
+  return Math.round((phi ** n - psi ** n) / sqrt5)
 }
 
 export { FibonacciDpWithoutRecursion }
