@@ -192,7 +192,6 @@ const FibonacciUsingFormula = (n) => {
   const phi = (1 + sqrt5) / 2
   const psi = (1 - sqrt5) / 2
 
-  // x ** y states x to the power y.
   return Math.round((phi ** n - psi ** n) / sqrt5)
 }
 
