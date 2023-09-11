@@ -952,7 +952,7 @@
 
 - [@Craftpine](https://github.com/craftpine)
 
--[@ccraigv4](https://github.com/craigv4)
+- [@craigv4](https://github.com/craigv4)
 
 - [@Crazymint](https://github.com/CrazyMint)
 
