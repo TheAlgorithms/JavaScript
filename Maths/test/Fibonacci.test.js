@@ -96,15 +96,11 @@ describe('Fibonacci', () => {
     expect(FibonacciMatrixExpo(-5n)).toBe(5n)
     expect(FibonacciMatrixExpo(-6n)).toBe(-8n)
   })
-  it('should calculate the correct Fibonacci number for n = 0', () => {
-    expect(FibonacciUsingFormula(0)).toBe(0)
-  })
-
-  it('should calculate the correct Fibonacci number for n = 1', () => {
-    expect(FibonacciUsingFormula(1)).toBe(1)
-  })
-
-  it('should calculate the correct Fibonacci number for n = 15', () => {
-    expect(FibonacciUsingFormula(15)).toBe(610)
+  it.each([
+    [0, 0],
+    [1, 1],
+    [5, 610]
+  ])('should calculate the correct Fibonacci number for n = %i', (n, expected) => {
+    expect(FibonacciUsingFormula(n)).toBe(expected)
   })
 })
