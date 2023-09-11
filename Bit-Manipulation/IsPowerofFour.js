@@ -5,7 +5,7 @@
     number is a power of four or not.
 
     A number will be power of four if and only if there is a 1 in the binary
-    of the digit and it will be at the first position
+    of the digit and it will be at the first position and followed by even number of zeroes are there. 
 
     n   n-1%3==0   (n-1)bin  (n)bin
     1   0           0           1        - 4^0
