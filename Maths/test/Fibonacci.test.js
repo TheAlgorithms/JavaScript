@@ -4,7 +4,8 @@ import {
   FibonacciIterative,
   FibonacciGenerator,
   FibonacciRecursive,
-  FibonacciMatrixExpo
+  FibonacciMatrixExpo,
+  FibonacciUsingFormula
 } from '../Fibonacci'
 
 describe('Fibonacci', () => {
@@ -94,5 +95,16 @@ describe('Fibonacci', () => {
     expect(FibonacciMatrixExpo(-4n)).toBe(-3n)
     expect(FibonacciMatrixExpo(-5n)).toBe(5n)
     expect(FibonacciMatrixExpo(-6n)).toBe(-8n)
+  })
+  it('should calculate the correct Fibonacci number for n = 0', () => {
+    expect(FibonacciUsingFormula(0)).toBe(0)
+  })
+
+  it('should calculate the correct Fibonacci number for n = 1', () => {
+    expect(FibonacciUsingFormula(1)).toBe(1)
+  })
+
+  it('should calculate the correct Fibonacci number for n = 15', () => {
+    expect(FibonacciUsingFormula(15)).toBe(610)
   })
 })
