@@ -32,6 +32,8 @@
 
 - [@Aisafaith](https://github.com/aisafaith)
 
+- [@berengueradrian](https://github.com/berengueradrian)
+
 - [@Ajaysinghshekhawat](https://github.com/AjaySingh-Shekhawat)
 
 - [@Ajmccraw](https://github.com/ajmccraw)
