@@ -99,7 +99,7 @@ describe('Fibonacci', () => {
   it.each([
     [0, 0],
     [1, 1],
-    [5, 610]
+    [15, 610]
   ])('should calculate the correct Fibonacci number for n = %i', (n, expected) => {
     expect(FibonacciUsingFormula(n)).toBe(expected)
   })
