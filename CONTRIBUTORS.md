@@ -1,4 +1,5 @@
 # CONTRIBUTORS
+
 - [@albossmohammad83](https://github.com/albossmohammad83)
 
 - [@egbadonjeffrey](https://github.com/egbadonjeffrey)
@@ -3538,6 +3539,8 @@
 - [@Jxz3](https://github.com/jxz3)
 
 - [@Jykim11](https://github.com/jykim11)
+
+- [@varian1](https://github.com/varian1)
 
 - [@Jyothishmb](https://github.com/JyothishMB)
 
