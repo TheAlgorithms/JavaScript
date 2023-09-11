@@ -187,11 +187,11 @@ const FibonacciMatrixExpo = (num) => {
   return F[0][0] * (isNeg ? (-ONE) ** (num + ONE) : ONE)
 }
 
-const FibonacciUsingFormula = (n) => {
-  const sqrt5 = Math.sqrt(5)
-  const phi = (1 + sqrt5) / 2
-  const psi = (1 - sqrt5) / 2
+const sqrt5 = Math.sqrt(5)
+const phi = (1 + sqrt5) / 2
+const psi = (1 - sqrt5) / 2
 
+const FibonacciUsingFormula = (n) => {
   return Math.round((phi ** n - psi ** n) / sqrt5)
 }
 
