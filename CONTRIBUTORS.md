@@ -1112,6 +1112,8 @@
 
 - [@Danyventura](https://github.com/danyventura)
 
+- [@demonssvz](https://github.com/demonssvz)
+
 - [@Danzalone5](https://github.com/danzalone5)
 
 - [@Danzayas.](https://github.com/dan-zayas)
