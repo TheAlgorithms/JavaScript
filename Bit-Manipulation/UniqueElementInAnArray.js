@@ -5,7 +5,7 @@
 
     Question : https://leetcode.com/problems/unique-number-of-occurrences/
 
-    a) This algo works when interviewer asks if the all the element is repeating
+    a) This algo works if all the element is repeating
        twice except one element.
 
     Explanation :
