@@ -60,6 +60,8 @@
 
 - [@Alleksb](https://github.com/AlleksB)
 
+-[@Ashishpro](https://github.com/ashish-pro)
+
 - [@Am3Lia18](https://github.com/Am3lia-18)
 
 - [@Aminemhiri](https://github.com/Amine-Mhiri/)
