@@ -8885,4 +8885,6 @@
 - [@CredibleThought](https://github.com/CredibleThought)
 - [@SimardeepSingh-zsh](https://github.com/SimardeepSingh-zsh)
 
--[@Synt4xB4ndit](https://github.com/Synt4xB4ndit)
+- [@Synt4xB4ndit](https://github.com/Synt4xB4ndit)
+
+- [@siddharth00001](https://github.com/siddharth00001)
