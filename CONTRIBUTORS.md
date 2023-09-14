@@ -316,6 +316,8 @@
 
 - [@Benabbott](https://github.com/ben-abbott)
 
+- [Bennett] (https://github.com/bwilbert67) 
+
 - [@Bendamian](https://github.com/bendamian)
 
 - [@Benedictj](https://github.com/benedictj)
@@ -4578,6 +4580,8 @@
 
 - [@Markuzkuz](https://github.com/markuzkuz/)
 
+- [@Markymarc1227](https://github.com/markymarc1227)
+
 - [@Marlonmdev](https://github.com/marlonmdev)
 
 - [@Mars1138](https://github.com/mars1138)
@@ -5283,6 +5287,8 @@
 - [@Namechit](https://github.com/namechit)
 
 - [@Nancyfontanez](https://github.com/nancyfontanez)
+
+- [@zun3007work](https://github.com/zun3007work)
 
 - [@Nandhinipv](https://github.com/nandhinipv)
 
@@ -6428,6 +6434,8 @@
 
 - [@Rehant123](https://github.com/rehant123)
 
+- [@dmcdaniel90](https://github.com/dmcdaniel90)
+
 - [@Rel1Nce](https://github.com/rel1nce)
 
 - [@Relieyanhilman](https://github.com/relieyanhilman)
@@ -7019,6 +7027,8 @@
 - [@Seantait](https://github.com/sean-tait)
 
 - [@Searchs](https://github.com/searchs)
+
+- [@Sebastian4090](https://github.com/Sebastian4090)
 
 - [@Sebadm20](https://github.com/Sebadm20)
 
@@ -8880,6 +8890,8 @@
 
 - [@norbix](https://github.com/norbix)
 
+- [@3zer64](https://github.com/Demonda64)
+
 - [@farazzashraf](https://github.com/farazzashraf)
 
 - [@CredibleThought](https://github.com/CredibleThought)
@@ -8889,3 +8901,14 @@
 - [@Synt4xB4ndit](https://github.com/Synt4xB4ndit)
 
 - [@Daniel-Badura](https://github.com/Daniel-Badura/)
+
+- [@siddharth00001](https://github.com/siddharth00001)
+
+- [@johnpark144](https://github.com/johnpark144)
+
+- [@SonDo580](https://github.com/SonDo580)
+
+- [@johnathancc](https://github.com/johnathancc)
+
+- [@Monish](https://github.com/dev-monishsolanki)
+
