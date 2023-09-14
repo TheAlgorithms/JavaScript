@@ -8890,6 +8890,8 @@
 
 - [@norbix](https://github.com/norbix)
 
+- [@3zer64](https://github.com/Demonda64)
+
 - [@farazzashraf](https://github.com/farazzashraf)
 
 - [@CredibleThought](https://github.com/CredibleThought)
