@@ -8895,9 +8895,12 @@
 - [@farazzashraf](https://github.com/farazzashraf)
 
 - [@CredibleThought](https://github.com/CredibleThought)
+
 - [@SimardeepSingh-zsh](https://github.com/SimardeepSingh-zsh)
 
 - [@Synt4xB4ndit](https://github.com/Synt4xB4ndit)
+
+- [@Daniel-Badura](https://github.com/Daniel-Badura/)
 
 - [@siddharth00001](https://github.com/siddharth00001)
 
@@ -8907,4 +8910,5 @@
 
 - [@johnathancc](https://github.com/johnathancc)
 
--[@Monish](https://github.com/dev-monishsolanki)
+- [@Monish](https://github.com/dev-monishsolanki)
+
