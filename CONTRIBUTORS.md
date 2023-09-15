@@ -942,6 +942,8 @@
 
 - [@Cosm0](https://github.com/c-osm0/)
 
+- [@cosmogonicalAuthor](https://github.com/cosmogonicalAuthor/)
+
 - [@Coyo11](https://github.com/coyo11)
 
 - [@Cozmacoz](https://github.com/CozmaCoz)
