@@ -316,7 +316,7 @@
 
 - [@Benabbott](https://github.com/ben-abbott)
 
-- [Bennett] (https://github.com/bwilbert67) 
+- [Bennett] (https://github.com/bwilbert67)
 
 - [@Bendamian](https://github.com/bendamian)
 
@@ -8919,5 +8919,7 @@
 - [@jp631](https://github.com/jp631)
 
 - [@Hiroki-Sebata](https://github.com/Hiroki-Sebata)
+
+-[@rstallingsiii(https://github.com/rstallingsiii)]
 
 - [@urkensjp](https://github.com/urkensjp)
