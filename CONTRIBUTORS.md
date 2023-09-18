@@ -1768,6 +1768,8 @@
 
 - [@Emwiz](https://github.com/em-wiz)
 
+- [@Enacer](https://github.com/Enacer)
+
 - [@Enam007](https://github.com/enam007)
 
 - [@Endleaf](https://github.com/Endleaf)
@@ -8939,6 +8941,6 @@
 
 - [@xavierassad](https://github.com/xavierassad)
 
-- [@MarekSabol](https://github.com/MarekSabol) 
+- [@MarekSabol](https://github.com/MarekSabol)
 
 -[@mirab62807](https://github.com/mirab62807)
