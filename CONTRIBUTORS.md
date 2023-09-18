@@ -3841,6 +3841,7 @@
 - [@Kindredfp](https://github.com/kindredFP)
 
 - [@Kingcobrapy](https://github.com/KingCobraPy)
+- [@erangeals](https://github/com/erangeals)
 
 - [@Kingshuk97](https://github.com/Kingshuk97)
 
