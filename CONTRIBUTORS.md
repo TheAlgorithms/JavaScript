@@ -8939,7 +8939,7 @@
 
 - [@xavierassad](https://github.com/xavierassad)
 
-- [@MarekSabol](https://github.com/MarekSabol) 
+- [@MarekSabol](https://github.com/MarekSabol)
 
 -[@mirab62807](https://github.com/mirab62807)
 
@@ -8948,3 +8948,5 @@
 -[@Emmanuel-222](https://github.com/Emmanuel-222)
 
 -[@ianglover28](https://github.com/ianglover28)
+
+-[@BrinkOfSecondBailout](https://github.com/BrinkOfSecondBailout)
