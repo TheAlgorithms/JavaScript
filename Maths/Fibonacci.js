@@ -187,6 +187,10 @@ const FibonacciMatrixExpo = (num) => {
   return F[0][0] * (isNeg ? (-ONE) ** (num + ONE) : ONE)
 }
 
+/*
+  Resource : https://math.hmc.edu/funfacts/fibonacci-number-formula/
+*/
+
 const sqrt5 = Math.sqrt(5)
 const phi = (1 + sqrt5) / 2
 const psi = (1 - sqrt5) / 2
