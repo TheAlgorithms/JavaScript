@@ -8924,4 +8924,3 @@
 
 - [@urkensjp](https://github.com/urkensjp)
 
-- [@vinzenlee](https://github.com/vinzenlee)
