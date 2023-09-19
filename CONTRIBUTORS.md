@@ -1996,8 +1996,7 @@
 
 - [@Felipeffranco](https://github.com/felipeffranco)
 
-- [@Felixburton7](https://github.com/Felixburton7)
-
+- [@Felixburton7](https://github.com/Felixburton7) -[@eleanorgakii](https://github.com/eleanorgakii)
 - [@Femiscript](https://github.com/femiscript)
 
 - [@Fermat01](https://github.com/fermat01)
