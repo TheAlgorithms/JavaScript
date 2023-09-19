@@ -3,7 +3,7 @@
  *
  * Notes:
  * - works by using divide and conquer
- * - the function gets the array A with n Real numbers and returns the local max point index (if more than one exists return the first one)
+ * - the function gets the array A with n Real numbers and returns the index of local max point (if more than one exists return the first one)
  *
  * @complexity: O(log(n)) (on average )
  * @complexity: O(log(n)) (worst case)

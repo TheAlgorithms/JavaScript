@@ -42,7 +42,7 @@ class Graph {
 
     // iterate over the vertices
     for (const i of getKeys) {
-      // great the corresponding adjacency list
+      // get the corresponding adjacency list
       // for the vertex
       const getValues = this.AdjList.get(i)
       let conc = ''
