@@ -1748,6 +1748,8 @@
 
 - [@Emmanuelkech](https://github.com/emmanuelkech)
 
+- [@Emmanueloreri](https://github.com/Emmanueloreri)
+
 - [@Emmanueluriasl](https://github.com/EmmanuelUriasl)
 
 - [@Emmglezz](https://github.com/EmmGlezz)
@@ -4826,6 +4828,8 @@
 - [@Michaelboitmann](https://github.com/MichaelBoitmann)
 
 - [@Michaelclautice](https://github.com/MichaelClautice)
+
+- [@Kiev245](https://github.com/Kiev245)
 
 - [@Michaelfed](https://github.com/MichaelFED/)
 
@@ -8956,3 +8960,5 @@
 -[@ianglover28](https://github.com/ianglover28)
 
 -[@BrinkOfSecondBailout](https://github.com/BrinkOfSecondBailout)
+
+-[@ibaaddurrani](https://github.com/ibaaddurrani)
