@@ -8225,6 +8225,8 @@
 
 - [@Valadot](https://github.com/Valadot)
 
+- [@valendea](https://github.com/valendea)
+
 - [@Valentinlako](https://github.com/valentinlako)
 
 - [@Valentinragusa](https://github.com/ValentinRagusa)
