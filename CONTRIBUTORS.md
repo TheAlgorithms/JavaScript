@@ -1746,6 +1746,8 @@
 
 - [@Emmanuelkech](https://github.com/emmanuelkech)
 
+- [@Emmanueloreri](https://github.com/Emmanueloreri)
+
 - [@Emmanueluriasl](https://github.com/EmmanuelUriasl)
 
 - [@Emmglezz](https://github.com/EmmGlezz)
