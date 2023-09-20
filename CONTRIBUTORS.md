@@ -8992,3 +8992,5 @@
 - [@SparshVerencar](https://github.com/Sparsh-Verencar)
 
 - [@Umar43Umar](https://github.com/Umar43Umar)
+
+- [@PatrizioCotani](https://github.com/PatrizioCotani)
