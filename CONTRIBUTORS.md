@@ -24,6 +24,7 @@
 
 - [@Adeyemoemmanuel](https://github.com/adeyemoemmanuel)
 
+- [@Rahul-Bhati](https://github.com/Rahul-Bhati/)
 
 - [@Aditya7Grover](https://github.com/Aditya7-grover)
 
