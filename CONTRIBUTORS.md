@@ -14,6 +14,8 @@
 
 - [@Abdi123](https://github.com/@abdi-123/)
 
+- [@anku0512](https://github.com/anku0512/)
+
 - [@Abdifatahsaid](https://github.com/Abdifatah-said/)
 
 - [@Abhishekgoel](https://github.com/abhishek94goel)
