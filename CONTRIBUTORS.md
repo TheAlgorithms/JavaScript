@@ -2522,6 +2522,8 @@
 
 - [@Hatenhaten](https://github.com/hatenhaten)
 
+- [@domsmith343](https://github.com/domsmith343)
+
 - [@Haukar](https://github.com/Haukar)
 
 - [@Haya340](https://github.com/Haya340)
