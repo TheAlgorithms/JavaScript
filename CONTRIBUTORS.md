@@ -26,6 +26,8 @@
 
 - [@Adeyemoemmanuel](https://github.com/adeyemoemmanuel)
 
+-[@aakash-22ak](https://github.com/aakash-22ak)
+
 - [@Rahul-Bhati](https://github.com/Rahul-Bhati/)
 
 - [@Aditya7Grover](https://github.com/Aditya7-grover)
@@ -2002,7 +2004,7 @@
 
 - [@Felipeffranco](https://github.com/felipeffranco)
 
-- [@Felixburton7](https://github.com/Felixburton7) 
+- [@Felixburton7](https://github.com/Felixburton7)
 
 - [@eleanorgakii](https://github.com/eleanorgakii)
 
