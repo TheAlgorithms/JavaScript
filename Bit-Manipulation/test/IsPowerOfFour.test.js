@@ -1,4 +1,4 @@
-import { IsPowerOfFour } from '../IsPowerofFour'
+import { isPowerOfFour } from '../IsPowerofFour'
 
 describe('IsPowerOfFour', () => {
   it.each([
@@ -9,6 +9,6 @@ describe('IsPowerOfFour', () => {
     [64, true],
     [-64, false]
   ])('should return the number is power of four or not', (n, expected) => {
-    expect(IsPowerOfFour(n)).toBe(expected)
+    expect(isPowerOfFour(n)).toBe(expected)
   })
 })
