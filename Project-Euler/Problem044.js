@@ -8,37 +8,57 @@
  * It can be seen that P4 + P7 = 22 + 70 = 92 = P8. However, their difference, 70 − 22 = 48, is not pentagonal.
  * Find the pair of pentagonal numbers, Pj and Pk, for which their sum and difference are pentagonal and D = |Pk − Pj| is minimised; what is the value of D?
  *
- * @author ddaniel27
+ * @author utkarsh-shrivastav77
  */
 
-function problem44 (k) {
-  if (k < 1) {
+function getPentagonalNumber(n) {
+  return n * (3 * n - 1) / 2;
+}
+
+// The function takes a limit parameter that determines the maximum pentagonal number to consider. It first defines a getPentagonalNumber function to calculate the nth pentagonal number using the given formula.
+
+function findMinPentagonalDifference(limit) {
+
+  if (limit < 1) {
     throw new Error('Invalid Input')
   }
 
-  while (true) {
-    k++
-    const n = k * (3 * k - 1) / 2 // calculate Pk
+  // Then, it initializes two arrays: pentagonalNumbers to store the pentagonal numbers and pentagonalIndices to store their indices. We use a Set for pentagonalIndices to ensure that checking if a number is pentagonal is O(1) on average.
 
-    for (let j = k - 1; j > 0; j--) {
-      const m = j * (3 * j - 1) / 2 // calculate all Pj < Pk
-      if (isPentagonal(n - m) && isPentagonal(n + m)) { // Check sum and difference
-        return n - m // return D
+  const pentagonalNumbers = [];
+  const pentagonalIndices = new Set();
+
+  // The function then iterates over all pairs of indices in pentagonalNumbers and checks if their sum and difference are also pentagonal. If they are, it checks if the difference D is smaller than the current minimum difference minD. If it is, it updates minD to the new minimum value and minPair to the corresponding pair of pentagonal numbers.
+
+  for (let i = 1; i <= limit; i++) {
+    const pentagonalNumber = getPentagonalNumber(i);
+    pentagonalNumbers.push(pentagonalNumber);
+    pentagonalIndices.add(pentagonalNumber);
+  }
+
+  let minD = Infinity;
+  let minPair;
+
+  for (let j = 1; j < pentagonalNumbers.length; j++) {
+    for (let k = j + 1; k < pentagonalNumbers.length; k++) {
+      const sum = pentagonalNumbers[j] + pentagonalNumbers[k];
+      const diff = pentagonalNumbers[k] - pentagonalNumbers[j];
+      if (pentagonalIndices.has(sum) && pentagonalIndices.has(diff)) {
+        if (diff < minD) {
+          minD = diff;
+          minPair = [pentagonalNumbers[j], pentagonalNumbers[k]];
+        }
       }
     }
   }
+
+  return minD;
 }
 
-/**
- * Function to check if a number is pentagonal or not
- * This function solves n
- * applying the solution for a quadratic function
- * @see {@link https://en.wikipedia.org/wiki/Quadratic_function}
- */
+// You can call the function like this to find the minimum difference between a pair of pentagonal numbers whose sum and difference are also pentagonal up to the pentagonal number limit of 10000
 
-function isPentagonal (n) {
-  const pent = (Math.sqrt(24 * n + 1) + 1) / 6
-  return pent === Math.floor(pent)
-}
 
-export { problem44 }
+export { findMinPentagonalDifference }
+
+
+
