@@ -26,4 +26,20 @@ const ReverseNumber = (number) => {
   return reverseNumber
 }
 
-export { ReverseNumber }
+/**
+ * @author dev-madhurendra
+ * Reverses a number by converting it to a string.
+ *
+ * @param {number} n - The number to reverse.
+ * @returns {number} The reversed number.
+ *
+ * @example
+ * const reversed = reverseNumber(12345); // Returns 54321
+ */
+
+// This callback function is used to convert number to string and then reversing it and again converting it to number.
+const callback = (n) => parseInt(n.toString().split('').reverse().join(''), 10)
+
+const reverseNumberUsingString = (n) => n >= 0 ? callback(n) : -callback(n)
+
+export { ReverseNumber, reverseNumberUsingString }
