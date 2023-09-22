@@ -1,5 +1,4 @@
-// Import the functions to be tested
-import { ReverseNumber, reverseNumberUsingString } from '../ReverseNumber' // Replace 'your-module' with the actual module path
+import { ReverseNumber, reverseNumberUsingString } from '../ReverseNumber'
 
 describe('ReverseNumber function', () => {
   it.each([
