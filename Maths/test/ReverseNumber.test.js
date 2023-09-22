@@ -1,4 +1,4 @@
-import { ReverseNumber, reverseNumberUsingString } from '../ReverseNumber'
+import { ReverseNumber, reverseUnsigned } from '../ReverseNumber'
 
 describe('ReverseNumber function', () => {
   it.each([
@@ -12,10 +12,9 @@ describe('ReverseNumber function', () => {
 
   it.each([
     [12345, 54321],
-    [-9876, -6789],
-    [0, 0],
-    [7, 7]
+    [9876, 6789],
+    [0, 0]
   ])('should reverse a positive number', (value, expected) => {
-    expect(reverseNumberUsingString(value)).toBe(expected)
+    expect(reverseUnsigned(value)).toBe(expected)
   })
 })
