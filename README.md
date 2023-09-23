@@ -12,7 +12,6 @@ JavaScript Repository of TheAlgorithms, which implements various algorithms and 
   [![standard.js][standard-logo]][standard-js]
   [![Discord chat][chat]][discord-server]
 
-  
 </div>
 
 ---
@@ -47,7 +46,6 @@ many of the algorithms can be found in the [wiki][explanation].
 [chat]: https://img.shields.io/discord/808045925556682782.svg?logo=discord&colorB=7289DA
 [welcome]: https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3
 [checks]: https://img.shields.io/github/actions/workflow/status/TheAlgorithms/JavaScript/Ci.yml?branch=master&label=checks
-[grade]: https://img.shields.io/lgtm/grade/javascript/g/TheAlgorithms/JavaScript.svg?logo=lgtm&logoWidth=18
 
 <!-- External Links -->
 [standard-js]: https://standardjs.com/
@@ -56,3 +54,9 @@ many of the algorithms can be found in the [wiki][explanation].
 [explanation]: https://github.com/TheAlgorithms/JavaScript/wiki
 [repositories]: https://github.com/orgs/TheAlgorithms/repositories
 [help-wanted]: https://github.com/TheAlgorithms/JavaScript/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22
+
+## Thanks to all the contributors ❤️
+
+<a href = "https://github.com/TheAlgorithms/JavaScript/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo=TheAlgorithms/JavaScript"/>
+</a>
