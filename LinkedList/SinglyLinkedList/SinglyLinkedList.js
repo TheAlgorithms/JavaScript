@@ -1,5 +1,5 @@
 /**
- * Linkedlist Implementation using javascript
+ * Linked list Implementation using javascript
  * ------------------------------------------
  * Implementing the LinkedList element structure in Javascript.
  * LinkedList is the dynamic element structure, as we can add or remove elements at ease, and iterator can even grow as needed. Just like arrays, linked lists store elements sequentially, but don’t store the elements contiguously like an array.
@@ -7,7 +7,7 @@
  */
 
 /**
- * Initilizing Node for linkedList
+ * Initializing Node for linkedList
  */
 class Node {
   constructor (element) {
@@ -37,17 +37,17 @@ export class LinkedList {
   insert (node) {
     const listNode = new Node(node)
 
-    let currententNode
+    let currentNode
 
     if (this.head === null) {
       this.head = listNode
       return
     } else {
-      currententNode = this.head
-      while (currententNode.next) {
-        currententNode = currententNode.next
+      currentNode = this.head
+      while (currentNode.next) {
+        currentNode = currentNode.next
       }
-      currententNode.next = node
+      currentNode.next = node
     }
 
     this.size++
@@ -55,14 +55,14 @@ export class LinkedList {
 
   /**
    *
-   * @param {*} postion
+   * @param {*} position
    * @param {*} node
    *
    * Function to insert node in linkedList at specific position
    */
 
-  insertAt (postion, node) {
-    if (postion < 0 || postion > this.size) {
+  insertAt (position, node) {
+    if (position < 0 || position > this.size) {
       throw new Error('Invalid position for insertion')
     } else {
       // creates a new node
@@ -72,14 +72,14 @@ export class LinkedList {
       current = this.head
 
       // add the node to the first index
-      if (postion === 0) {
+      if (position === 0) {
         listNode.next = this.head
         this.head = listNode
       } else {
         current = this.head
         let iterator = 0
 
-        while (iterator < postion) {
+        while (iterator < position) {
           iterator++
           previous = current
           current = current.next
@@ -94,13 +94,13 @@ export class LinkedList {
 
   /**
    *
-   * @param {*} postion
+   * @param {*} position
    *
    * Function to remove node from specific position from linkedList
    */
-  removeByIndex (postion) {
+  removeByIndex (position) {
     // check for invalid position
-    if (postion < 0 || postion >= this.size) { throw new Error('Invalid position for deletion') } else {
+    if (position < 0 || position >= this.size) { throw new Error('Invalid position for deletion') } else {
       let previous = 0
       let iterator = 0
       let current = 0
@@ -109,10 +109,10 @@ export class LinkedList {
 
       // deleting first node if position = 0
 
-      if (postion === 0) {
+      if (position === 0) {
         this.head = current.next
       } else {
-        while (iterator < postion) {
+        while (iterator < position) {
           iterator++
           previous = current.next
         }
@@ -136,7 +136,7 @@ export class LinkedList {
 
     /**
      * Performing simple linear search technique for searching node value
-     * Reason : Singly LinkedList not have capablities of maintaining both previous and next reference
+     * Reason : Singly LinkedList not have capabilities of maintaining both previous and next reference
      */
     while (currentNode !== null) {
       if (currentNode.element === nodeElement) {
@@ -173,16 +173,16 @@ export class LinkedList {
     return this.size === 0
   }
 
-  postionOfNode (node) {
+  positionOfNode (node) {
     let countOfNodes = 0
-    let currententNode = this.head
+    let currentNode = this.head
 
-    while (currententNode !== null) {
-      if (currententNode.element === node) {
+    while (currentNode !== null) {
+      if (currentNode.element === node) {
         return countOfNodes
       }
       countOfNodes++
-      currententNode = currententNode.next
+      currentNode = currentNode.next
     }
 
     return -1 // if node value not found
