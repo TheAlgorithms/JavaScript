@@ -10,6 +10,8 @@
 
 - [@11Aghayan](https://github.com/11aghayan)
 
+- [@manjillama](https://github.com/manjillama)
+
 - [@Aayushnr](https://github.com/aayushnr)
 
 - [@Abdi123](https://github.com/@abdi-123/)
