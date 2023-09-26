@@ -518,6 +518,8 @@
 
 - [@Brunolota](https://github.com/brunolota/)
 
+- [@Zareck521](https://github.com/Zareck521)
+
 - [@Bryan](https://github.com/HeyaIe)
 
 - [@Bryan11](https://github.com/namocbryan11)
