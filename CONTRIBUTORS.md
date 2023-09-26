@@ -3636,6 +3636,8 @@
 
 - [@Kaizokustrawhat](https://github.com/KaizokuStrawHat)
 
+- [@Kaizhu94](https://github.com/kaizhu94)
+
 - [@Kajarosz](https://github.com/kajarosz)
 
 - [@Kakomis](https://github.com/Kakomis)
@@ -9069,5 +9071,4 @@
 - [@devanshi00](https://github.com/devanshi00/)
 
 - [@fi4n-cozydev](https://github.com/fi4n-cozydev/)
-
 
