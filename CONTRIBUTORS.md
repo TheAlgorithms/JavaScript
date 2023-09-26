@@ -8973,7 +8973,7 @@
 
 - [@Hiroki-Sebata](https://github.com/Hiroki-Sebata)
 
-- [@rstallingsiii(https://github.com/rstallingsiii)]
+- [@rstallingsiii](https://github.com/rstallingsiii)]
 
 - [@urkensjp](https://github.com/urkensjp)
 
@@ -9033,7 +9033,7 @@
 
 - [@Arraj2611](https://github.com/Arraj2611)
 
--[@liamhackett](https://github.com/liamhackett)
+- [@liamhackett](https://github.com/liamhackett)
 
 - [@yellmass](https://github.com/yellmass)
 
@@ -9043,11 +9043,16 @@
 
 - [@Vikram-353][https://github.com/Vikram-353]
 
-- [@mfontenlamiro] (https://github.com/mfontenlamiro)
+- [@mfontenlamiro](https://github.com/mfontenlamiro)
 
 - [@DenisaHazakova](https://github.com/DenisaHazakova)
 
+- [@baafbass](https://github.com/baafbass)
+
+- [@mbadawysw](https://github.com/mbadawysw)
+
 -[@baafbass](https://github.com/baafbass) -[@mbadawysw](https://github.com/mbadawysw)
+
 
 - [@MrARawal](https://github.com/MrARawal/)
 
@@ -9055,9 +9060,14 @@
 
 - [@ilsinho180](https://github.com/ilsinho180)
 
+- [AfricaJr](https://github.com/AfricaJr)
+
+- [@George627](https://github.com/George627)
+
 - [@ashokak47](https://github.com/ashokak47/)
 
 - [@devanshi00](https://github.com/devanshi00/)
 
 - [@fi4n-cozydev](https://github.com/fi4n-cozydev/)
+
 
