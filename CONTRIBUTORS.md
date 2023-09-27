@@ -2608,6 +2608,8 @@
 
 - [@Henryotieno](https://github.com/henryotieno)
 
+- [@IsoPawel](https://github.com/IsoPawel)
+
 - [@Heplayskeys](https://github.com/heplayskeys)
 
 - [@Heracles404](https://github.com/Heracles404)
