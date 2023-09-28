@@ -9092,4 +9092,6 @@
 
 - [@makrenko-dev](https://github.com/makrenko-dev/)
 
--[CDay-87](https://github.com/cday-87/)
+-[@CDay-87](https://github.com/cday-87/)
+
+-[@brianestraduh](https://github.com/brianestraduh/)
