@@ -138,6 +138,8 @@
 
 - [@Arun069Gupta](https://github.com/Arun069gupta)
 
+- [@mklawa](https://github.com/mklawa)
+
 - [@Arunbohra12](https://github.com/ArunBohra12)
 
 - [@Aruseilinda](https://github.com/aruseilinda/)
@@ -9095,3 +9097,7 @@
 -[CDay-87](https://github.com/cday-87/)
 
 - [@dsauce817](https://github.com/dsauce817/)
+
+-[@brianestraduh](https://github.com/brianestraduh/)
+
+-[@rishita1333](https://github.com/rishita1333/)
