@@ -16,6 +16,8 @@
 
 - [@manjillama](https://github.com/manjillama)
 
+- [@Jeet-Debnath](https://github.com/jxxt)
+
 - [@Aayushnr](https://github.com/aayushnr)
 
 - [@Abdi123](https://github.com/@abdi-123/)
