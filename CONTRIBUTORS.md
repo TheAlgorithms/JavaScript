@@ -3126,6 +3126,8 @@
 
 - [@Jasontranpk](https://github.com/jasontranpk)
 
+- [@jasonholm81](https://github.com/jasonholm81)
+
 - [@Jasoonmurraay](https://github.com/jasoonmurraay)
 
 - [@Jaspriyakaur](https://github.com/Jaspriyakaur)
@@ -8932,7 +8934,7 @@
 
 - [@Zocum](https://github.com/Zocum)
 
-   - [@Elviskazerwa](https://github.com/Elviskazerwa)
+  - [@Elviskazerwa](https://github.com/Elviskazerwa)
 
 - [@Zohair001](https://github.com/zohair001)
 
