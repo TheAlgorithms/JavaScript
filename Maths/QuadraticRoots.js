@@ -3,6 +3,7 @@
  * Author - Dibya Debayan Dash
  * Date: - 30/09/2023
  * Calculates the roots of a quadratic equation of the form ax^2 + bx + c = 0.
+ * link: https://www.cuemath.com/algebra/roots-of-quadratic-equation/
  *
  * @param {number} a - Coefficient of x^2.
  * @param {number} b - Coefficient of x.
