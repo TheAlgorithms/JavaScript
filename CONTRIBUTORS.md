@@ -9188,4 +9188,8 @@
 
 - [@Hrishit-B](https://github.com/Hrishit-B)
 
+-[@mazorvion](https://github.com/mazorvion)
+
+-[@mbraje](https://github.com/mbraje/)
+
 - [@gdpp](https://github.com/gdpp)
