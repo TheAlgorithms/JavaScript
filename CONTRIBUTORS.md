@@ -9096,6 +9096,8 @@
 
 - [@jnovak5](https://github.com/jnovak5)
 
+- [@Tanisha-Verma](https://github.com/Tanisha-Verma-16)
+
 - [@caleb](https://github.com/calebush)
 
 - [@chipoj](https://github.com/chipoj/)
@@ -9131,5 +9133,3 @@
 -[@gdpp](https://github.com/gdpp)
 
 -[@anu-techie](https://github.com/anu-techie)
-
--[@Tanisha-Verma](https://github.com/Tanisha-Verma-16)
