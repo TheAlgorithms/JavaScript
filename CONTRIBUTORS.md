@@ -9115,10 +9115,6 @@
 
 - [@makrenko-dev](https://github.com/makrenko-dev/)
 
-- [@chipoj](https://github.com/chipoj/)
-
-- [@makrenko-dev](https://github.com/makrenko-dev/)
-
 - [@CDay-87](https://github.com/cday-87/)
 
 - [@brianestraduh](https://github.com/brianestraduh/)
@@ -9126,6 +9122,8 @@
 - [@rishita1333](https://github.com/rishita1333/)
 
 - [@bingo9813](https://github.com/bingo9813/:)
+
+-[@rishita1333](https://github.com/rishita1333/)
 
 - [@TheNubianCoder](https://github.com/TheNubianCoder/)
 
@@ -9156,7 +9154,5 @@
 - [@bingo9813](https://github.com/bingo9813/)
 
 - [@bktpp](https://github.com/bktpp)
-
-- [@YiTing623](https://github.com/YiTing623)
 
 -[@Jeffruiz1502003](https://github.com/Jeffruiz1502003)
