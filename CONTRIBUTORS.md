@@ -1736,6 +1736,8 @@
 
 - [@Eliptik](https://github.com/eliptik1)
 
+-[@EHollingerFllStk](https://github.com/EHollingerFllStk)
+
 - [@Elisacch](https://github.com/EliSacch)
 
 - [@Elitecipher](https://github.com/eliteCipher)
@@ -9160,6 +9162,8 @@
 -[@Dyson1664](https://github.com/Dyson1664/)
 
 -[@lszatmary](https://github.com/lszatmary/)
+
+-[@DjokiTheKing](https://github.com/DjokiTheKing/)
 
 -[@olaleye](https://github.com/Junnygram/)
 
