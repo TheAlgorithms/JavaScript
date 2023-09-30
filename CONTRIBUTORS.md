@@ -1736,7 +1736,7 @@
 
 - [@Eliptik](https://github.com/eliptik1)
 
--[@EHollingerFllStk](https://github.com/EHollingerFllStk)
+- [@EHollingerFllStk](https://github.com/EHollingerFllStk)
 
 - [@Elisacch](https://github.com/EliSacch)
 
@@ -3897,11 +3897,14 @@
 - [@Kindredfp](https://github.com/kindredFP)
 
 - [@Kingcobrapy](https://github.com/KingCobraPy)
+-
 - [@erangeals](https://github/com/erangeals)
 
 - [@Kingshuk97](https://github.com/Kingshuk97)
 
 - [@Kinsobi](https://github.com/kinsobi/)
+
+- [@NodirAmonov](https://github.com/NodirAmonov)
 
 - [@Kippulainen04](https://github.com/kippulainen04)
 
@@ -9083,13 +9086,8 @@
 
 - [@mbadawysw](https://github.com/mbadawysw)
 
-<<<<<<< HEAD
 - [@baafbass](https://github.com/baafbass)
 
-||||||| merged common ancestors
-
-=======
->>>>>>> 92d731d8e7f1931bf9825a0d50acb687e8953985
 - [@MrARawal](https://github.com/MrARawal/)
 
 - [@sportivearavind](https://github.com/sportivearavind)
@@ -9132,13 +9130,13 @@
 
 - [@bingo9813](https://github.com/bingo9813/:)
 
--[@rishita1333](https://github.com/rishita1333/)
+- [@rishita1333](https://github.com/rishita1333/)
 
 - [@TheNubianCoder](https://github.com/TheNubianCoder/)
 
-- [@kennyjramos11](- [https://github.com/kennyjramos11/)
+- [@kennyjramos11]([https://github.com/kennyjramos11/)
 
-- [@DOSDX19](- [https://github.com/DOSDX19/)
+- [@DOSDX19]([https://github.com/DOSDX19/)
 
 - [@crankyinmv](https://github.com/crankyinmv/)
 
@@ -9164,22 +9162,18 @@
 
 - [@bktpp](https://github.com/bktpp)
 
--[@Dyson1664](https://github.com/Dyson1664/)
+- [@Dyson1664](https://github.com/Dyson1664/)
 
--[@lszatmary](https://github.com/lszatmary/)
+- [@lszatmary](https://github.com/lszatmary/)
 
--[@DjokiTheKing](https://github.com/DjokiTheKing/)
+- [@DjokiTheKing](https://github.com/DjokiTheKing/)
 
-<<<<<<< HEAD
--[@olaleye](https://github.com/Junnygram/)
+- [@olaleye](https://github.com/Junnygram/)
 
--[@alexsatalan](https://github.com/alexsatalan/)
+- [@alexsatalan](https://github.com/alexsatalan/)
 
--[@Jeffruiz1502003](https://github.com/Jeffruiz1502003)
-||||||| merged common ancestors
--[@gdpp](https://github.com/gdpp)
-=======
--[@gdpp](https://github.com/gdpp)
+- [@Jeffruiz1502003](https://github.com/Jeffruiz1502003)
 
--[@createdbynoah](https://github.com/createdbynoah)
->>>>>>> 92d731d8e7f1931bf9825a0d50acb687e8953985
+- [@createdbynoah](https://github.com/createdbynoah)
+
+- [@gdpp](https://github.com/gdpp)
