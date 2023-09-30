@@ -14,20 +14,20 @@
 
 const quadraticRoots = (a, b, c) => {
   // Calculate the discriminant
-  let discriminant = b * b - 4 * a * c
+  const discriminant = b * b - 4 * a * c
 
   // Check if roots are real
   if (discriminant < 0) {
     return 'No real roots'
   } else if (discriminant === 0) {
     // One real root
-    let root = -b / (2 * a)
+    const root = -b / (2 * a)
     return [root]
   } else {
     // Two real roots
-    let sqrtDiscriminant = Math.sqrt(discriminant)
-    let root1 = (-b + sqrtDiscriminant) / (2 * a)
-    let root2 = (-b - sqrtDiscriminant) / (2 * a)
+    const sqrtDiscriminant = Math.sqrt(discriminant)
+    const root1 = (-b + sqrtDiscriminant) / (2 * a)
+    const root2 = (-b - sqrtDiscriminant) / (2 * a)
     return [root1, root2]
   }
 }
