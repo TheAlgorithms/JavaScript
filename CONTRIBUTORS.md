@@ -9086,8 +9086,6 @@
 
 - [@mbadawysw](https://github.com/mbadawysw)
 
-- [@mbadawysw](https://github.com/mbadawysw)
-
 - [@baafbass](https://github.com/baafbass)
 
 - [@MrARawal](https://github.com/MrARawal/)
@@ -9178,7 +9176,12 @@
 
 - [@createdbynoah](https://github.com/createdbynoah)
 
-- [@anu-techie](https://github.com/anu-techie)
+- [@DjokiTheKing](https://github.com/DjokiTheKing/)
+
+- [@OlgaMinaievaWebDev](https://github.com/OlgaMinaievaWebDev/)
 
 - [@gdpp](https://github.com/gdpp)
 
+- [@anu-techie](https://github.com/anu-techie)
+
+- [@gdpp](https://github.com/gdpp)
