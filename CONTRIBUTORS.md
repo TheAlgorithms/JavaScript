@@ -5181,15 +5181,9 @@
 
 - [@Movicat](https://github.com/movicat)
 
-<<<<<<< HEAD
 - [@Lukadimnik](https://github.com/lukadimnik)
 
 - [@Moyebamiji98](https://github.com/Moyebamiji98)
-||||||| merged common ancestors
-- [@Moyebamiji98](https://github.com/Moyebamiji98)
-=======
-- [@Moyebamiji98](https://github.com/Moyebamiji98)
->>>>>>> be53b7c056a9ca1dde52d214d8432d9f0fcce020
 
 - [@Moyu597](https://github.com/moyu597)
 
@@ -6083,15 +6077,9 @@
 
 - [@Prajwalj27](https://github.com/prajwalj27)
 
-<<<<<<< HEAD
 - [@Possenalain](https://github.com/possenalain)
 
 - [@Prakashkolisetty](https://github.com/PrakashKolisetty)
-||||||| merged common ancestors
-- [@Prakashkolisetty](https://github.com/PrakashKolisetty)
-=======
-- [@Prakashkolisetty](https://github.com/PrakashKolisetty)
->>>>>>> be53b7c056a9ca1dde52d214d8432d9f0fcce020
 
 - [@Prakhardubey2002](https://github.com/prakhardubey2002)
 
@@ -9168,3 +9156,7 @@
 - [@bingo9813](https://github.com/bingo9813/)
 
 - [@bktpp](https://github.com/bktpp)
+
+- [@YiTing623](https://github.com/YiTing623)
+
+-[@Jeffruiz1502003](https://github.com/Jeffruiz1502003)
