@@ -30,6 +30,8 @@
 
 - [@Abubakr](https://github.com/abubakr030109)
 
+- [@czarjulius](https://github.com/czarjulius)
+
 - [@Acemido](https://github.com/AceMido)
 
 - [@Adeyemoemmanuel](https://github.com/adeyemoemmanuel)
@@ -9176,4 +9178,7 @@
 
 - [@createdbynoah](https://github.com/createdbynoah)
 
+- [@anu-techie](https://github.com/anu-techie)
+
 - [@gdpp](https://github.com/gdpp)
+
