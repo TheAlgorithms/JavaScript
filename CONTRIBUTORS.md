@@ -6,7 +6,7 @@
 
 - [@mmaksi](https://github.com/mmaksi)
 
--[@Akash_Jambulkar](https://github.com/Akash-Jambulkar)
+- [@Akash_Jambulkar](https://github.com/Akash-Jambulkar)
 
 - [@0Samamirza](https://github.com/0sama-Mirza)
 
@@ -34,7 +34,7 @@
 
 - [@Adeyemoemmanuel](https://github.com/adeyemoemmanuel)
 
--[@aakash-22ak](https://github.com/aakash-22ak)
+- [@aakash-22ak](https://github.com/aakash-22ak)
 
 - [@Rahul-Bhati](https://github.com/Rahul-Bhati/)
 
@@ -80,7 +80,7 @@
 
 - [@Alleksb](https://github.com/AlleksB)
 
--[@Ashishpro](https://github.com/ashish-pro)
+- [@Ashishpro](https://github.com/ashish-pro)
 
 - [@Am3Lia18](https://github.com/Am3lia-18)
 
@@ -2724,7 +2724,7 @@
 
 - [@Hunking9797](https://github.com/Hunking9797)
 
-- [@cheta-nyadav] (https://github.com/cheta-nyadav)
+- [@cheta-nyadav] (https://github.com/cheta-nyad
 
 - [@Huseyinoztas](https://github.com/huseyinoztas)
 
@@ -3026,7 +3026,7 @@
 
 - [@Jackpacktv](https://github.com/jackpacktv/)
 
--[@marcssierra](https://github.com/marcssierra)
+- [@marcssierra](https://github.com/marcssierra)
 
 - [@Jacksaunders93](https://github.com/JackSaunders93)
 
@@ -5181,9 +5181,15 @@
 
 - [@Movicat](https://github.com/movicat)
 
+<<<<<<< HEAD
 - [@Lukadimnik](https://github.com/lukadimnik)
 
 - [@Moyebamiji98](https://github.com/Moyebamiji98)
+||||||| merged common ancestors
+- [@Moyebamiji98](https://github.com/Moyebamiji98)
+=======
+- [@Moyebamiji98](https://github.com/Moyebamiji98)
+>>>>>>> be53b7c056a9ca1dde52d214d8432d9f0fcce020
 
 - [@Moyu597](https://github.com/moyu597)
 
@@ -6077,9 +6083,15 @@
 
 - [@Prajwalj27](https://github.com/prajwalj27)
 
+<<<<<<< HEAD
 - [@Possenalain](https://github.com/possenalain)
 
 - [@Prakashkolisetty](https://github.com/PrakashKolisetty)
+||||||| merged common ancestors
+- [@Prakashkolisetty](https://github.com/PrakashKolisetty)
+=======
+- [@Prakashkolisetty](https://github.com/PrakashKolisetty)
+>>>>>>> be53b7c056a9ca1dde52d214d8432d9f0fcce020
 
 - [@Prakhardubey2002](https://github.com/prakhardubey2002)
 
@@ -8925,7 +8937,7 @@
 
 - [@Zocum](https://github.com/Zocum)
 
-  -[@Elviskazerwa](https://github.com/Elviskazerwa)
+   - [@Elviskazerwa](https://github.com/Elviskazerwa)
 
 - [@Zohair001](https://github.com/zohair001)
 
@@ -9023,8 +9035,6 @@
 
 - [@mirab62807](https://github.com/mirab62807)
 
-- [@mirab62807](https://github.com/mirab62807)
-
 - [@Lylepurd](https://github.com/Lylepurd)
 
 - [@Emmanuel-222](https://github.com/Emmanuel-222)
@@ -9081,7 +9091,7 @@
 
 - [@mbadawysw](https://github.com/mbadawysw)
 
--[@baafbass](https://github.com/baafbass) -[@mbadawysw](https://github.com/mbadawysw)
+- [@baafbass](https://github.com/baafbass)
 
 - [@MrARawal](https://github.com/MrARawal/)
 
@@ -9117,6 +9127,10 @@
 
 - [@makrenko-dev](https://github.com/makrenko-dev/)
 
+- [@chipoj](https://github.com/chipoj/)
+
+- [@makrenko-dev](https://github.com/makrenko-dev/)
+
 - [@CDay-87](https://github.com/cday-87/)
 
 - [@brianestraduh](https://github.com/brianestraduh/)
@@ -9127,9 +9141,9 @@
 
 - [@TheNubianCoder](https://github.com/TheNubianCoder/)
 
-- [@kennyjramos11](-[https://github.com/kennyjramos11/)
+- [@kennyjramos11](- [https://github.com/kennyjramos11/)
 
-- [@DOSDX19](-[https://github.com/DOSDX19/)
+- [@DOSDX19](- [https://github.com/DOSDX19/)
 
 - [@crankyinmv](https://github.com/crankyinmv/)
 
@@ -9151,4 +9165,6 @@
 
 - [@YiTing623](https://github.com/YiTing623)
 
-- [@YiTing623](https://github.com/YiTing623)
+- [@bingo9813](https://github.com/bingo9813/)
+
+- [@bktpp](https://github.com/bktpp)
