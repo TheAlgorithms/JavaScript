@@ -2446,6 +2446,8 @@
 
 - [@Haimhamiel](https://github.com/HaimHamiel)
 
+- [@Haneesh000](https://github.com/Haneesh000)
+
 - [@Hajar6102](https://github.com/hajar6102/)
 
 - [@Hakedo](https://github.com/hakedo)
@@ -9197,5 +9199,3 @@
 -[@mbraje](https://github.com/mbraje/)
 
 - [@gdpp](https://github.com/gdpp)
-
--[@Haneesh000](https://github.com/Haneesh000)
