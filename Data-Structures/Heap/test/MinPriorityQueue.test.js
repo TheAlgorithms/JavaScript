@@ -7,11 +7,11 @@ describe('MinPriorityQueue', () => {
 
   beforeEach(() => {
     queue = new MinPriorityQueue(capacity)
-    values.forEach(v => queue.insert(v))
+    values.forEach((v) => queue.insert(v))
   })
 
   it('Check heap ordering', () => {
-    const mockFn = jest.fn()
+    const mockFn = vi.fn()
     queue.print(mockFn)
 
     expect(mockFn.mock.calls.length).toBe(1) // Expect one call
@@ -24,7 +24,7 @@ describe('MinPriorityQueue', () => {
 
   it('heapSort() expected to reverse the heap ordering', () => {
     queue.heapReverse()
-    const mockFn = jest.fn()
+    const mockFn = vi.fn()
     queue.print(mockFn)
 
     expect(mockFn.mock.calls.length).toBe(1)

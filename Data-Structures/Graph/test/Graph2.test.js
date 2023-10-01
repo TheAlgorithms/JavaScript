@@ -18,7 +18,7 @@ describe('Test Graph2', () => {
   graph.addEdge('C', 'F')
 
   it('Check adjacency lists', () => {
-    const mockFn = jest.fn()
+    const mockFn = vi.fn()
     graph.printGraph(mockFn)
 
     // Expect one call per vertex
@@ -27,13 +27,6 @@ describe('Test Graph2', () => {
     // Collect adjacency lists from output (call args)
     const adjListArr = mockFn.mock.calls.map((v) => v[0])
 
-    expect(adjListArr).toEqual([
-      'A -> B D E ',
-      'B -> A C ',
-      'C -> B E F ',
-      'D -> A E ',
-      'E -> A D F C ',
-      'F -> E C '
-    ])
+    expect(adjListArr).toEqual(['A -> B D E ', 'B -> A C ', 'C -> B E F ', 'D -> A E ', 'E -> A D F C ', 'F -> E C '])
   })
 })
