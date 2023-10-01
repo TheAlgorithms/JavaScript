@@ -1,17 +1,19 @@
 /**
- *
- * Author - Dibya Debayan Dash
- * Date: - 30/09/2023
+ * @see https://www.cuemath.com/algebra/roots-of-quadratic-equation/
+ * @author Dibya Debayan Dash
  * Calculates the roots of a quadratic equation of the form ax^2 + bx + c = 0.
- * link: https://www.cuemath.com/algebra/roots-of-quadratic-equation/
  *
  * @param {number} a - Coefficient of x^2.
  * @param {number} b - Coefficient of x.
  * @param {number} c - Constant term.
  * @returns {number[]|string} - An array containing the roots if they are real,
  *                              or a string indicating no real roots.
+ *
+ * @example
+ * // Find the roots of the quadratic equation: 2x^2 - 4x + 2 = 0
+ * const roots = quadraticRoots(2, -4, 2);
+ * // Expected output: [1, 1]
  */
-
 const quadraticRoots = (a, b, c) => {
   // Calculate the discriminant
   const discriminant = b * b - 4 * a * c
@@ -21,21 +23,15 @@ const quadraticRoots = (a, b, c) => {
     return 'No real roots'
   } else if (discriminant === 0) {
     // One real root
-    const root = -b / (2 * a)
-    return [root]
+    return [-b / (2 * a)]
   } else {
     // Two real roots
     const sqrtDiscriminant = Math.sqrt(discriminant)
-    const root1 = (-b + sqrtDiscriminant) / (2 * a)
-    const root2 = (-b - sqrtDiscriminant) / (2 * a)
-    return [root1, root2]
+    return [
+      (-b + sqrtDiscriminant) / (2 * a),
+      (-b - sqrtDiscriminant) / (2 * a)
+    ]
   }
 }
+
 export { quadraticRoots }
-
-// Example usage
-// let a = 1
-// let b = -3
-// let c = 2
-
-// let roots = quadraticRoots(a, b, c)   [2,1]
