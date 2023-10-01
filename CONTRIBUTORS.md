@@ -9230,3 +9230,10 @@
 - [@kazuma313](https://github.com/kazuma313)
 
 - [@mendesahdivio](https://github.com/mendesahdivio)
+ 
+- [@CesarTheAwesome](https://github.com/CesarTheAwesome)
+
+- [@barryhanna](https://github.com/barryhanna)
+
+- [@trayshmhirk](https://github.com/Trayshmhirk)
+
