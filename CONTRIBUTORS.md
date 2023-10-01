@@ -280,6 +280,8 @@
 
 - [@Azurize](https://github.com/azurize)
 
+- [Azizqamar7](https://github.com/azizqamar7)
+
 - [@Babistebi](https://github.com/babistebi)
 
 - [@Bacoburn93](https://github.com/BACoburn93)
@@ -5497,7 +5499,7 @@
 - [@Nicolagenovese](https://github.com/nicolaGenovese)
 
 - [@BiplabMazumder2024]
-https://github.com/BiplabMazumder2024
+  https://github.com/BiplabMazumder2024
 
 - [@Nicolas2111](https://github.com/Nicolas2111)
 
@@ -6926,7 +6928,6 @@ https://github.com/BiplabMazumder2024
 - [@Salmanseediq](https://github.com/salmanseediq)
 
 - [@Salmaradni](https://github.com/samialmaradni97)
-  
 - [@supermarios77](https://github.com/supermarios77)
 
 - [@Salvo9107](https://github.com/Salvo9107)
