@@ -9228,3 +9228,5 @@
 - [@jayvyper](https://github.com/Jayvyper)
 
 - [@kazuma313](https://github.com/kazuma313)
+
+- [@barryhanna](https://github.com/barryhanna)
