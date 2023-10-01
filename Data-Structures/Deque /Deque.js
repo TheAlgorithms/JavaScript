@@ -7,6 +7,7 @@
  * a time complexity of O(1), indicating they are efficient regardless
  * of the data structure's size.
  * This implementation following the linked list structure.
+ * concept : [Wikipedia](https://en.wikipedia.org/wiki/Double-ended_queue)
  */
 
 class DequeNode {
