@@ -6,8 +6,8 @@
  * @param {number} a - Coefficient of x^2.
  * @param {number} b - Coefficient of x.
  * @param {number} c - Constant term.
- * @returns {number[]|string} - An array containing the roots if they are real,
- *                              or a string indicating no real roots.
+ * @returns {number[]} - An array containing the roots if they are real,
+ *                      or an empty array indicating no real roots.
  *
  * @example
  * // Find the roots of the quadratic equation: 2x^2 - 4x + 2 = 0
@@ -20,7 +20,7 @@ const quadraticRoots = (a, b, c) => {
 
   // Check if roots are real
   if (discriminant < 0) {
-    return 'No real roots'
+    return []
   } else if (discriminant === 0) {
     // One real root
     return [-b / (2 * a)]

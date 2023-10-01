@@ -11,6 +11,6 @@ test('returns an array with one real root when the discriminant is zero', () => 
 })
 
 // Test case 3: No real roots
-test('returns a message indicating no real roots when the discriminant is negative', () => {
-  expect(quadraticRoots(1, 2, 5)).toEqual('No real roots')
+test('returns an empty array indicating no real roots when the discriminant is negative', () => {
+  expect(quadraticRoots(1, 2, 5)).toEqual([])
 })
