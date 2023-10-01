@@ -28,4 +28,15 @@ const findHCF = (x, y) => {
   return Math.min(x, y)
 }
 
-export { findHCF }
+/**
+ * @author : dev-madhurendra
+ * Finds the Highest Common Factor (HCF) or Greatest Common Divisor (GCD) of two numbers.
+ *
+ * @param {number} x - The first integer.
+ * @param {number} y - The second integer.
+ * @returns {number} The HCF/GCD of the two input numbers.
+ *
+ */
+const findHCFUsingEuclidAlgorithm = (x, y) => y === 0 ? x : findHCFUsingEuclidAlgorithm(y, x % y)
+
+export { findHCF, findHCFUsingEuclidAlgorithm }

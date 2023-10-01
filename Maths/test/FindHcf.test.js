@@ -1,4 +1,4 @@
-import { findHCF } from '../FindHcf'
+import { findHCF, findHCFUsingEuclidAlgorithm } from '../FindHcf'
 
 describe('findHCF', () => {
   it('should throw a statement for values less than 1', () => {
@@ -16,5 +16,14 @@ describe('findHCF', () => {
 
   it('should return the HCF of two given integers', () => {
     expect(findHCF(27, 36)).toBe(9)
+  })
+
+  it.each([
+    [[10, 15], 5],
+    [[14, 2], 2],
+    [[21, 14], 7],
+    [[17, 5], 1]
+  ])('should return the correct GCD for positive integers', (expected, value) => {
+    expect(findHCFUsingEuclidAlgorithm(expected[0], expected[1])).toBe(value)
   })
 })
