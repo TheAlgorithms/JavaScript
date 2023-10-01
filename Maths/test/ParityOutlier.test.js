@@ -9,17 +9,14 @@ describe('Testing parityOutlier function', () => {
     expect(parityOutlier([177, 5, 76, 1919])).toBe(76)
   })
 
-  it('should, if the given array has only one integer element, return the integer itself', () => {
-    expect(parityOutlier([83])).toBe(83)
-    expect(parityOutlier([54])).toBe(54)
-  })
-
   it('should, if the given array has only an odd and an even number, return the odd outlier', () => {
     expect(parityOutlier([1, 2])).toBe(1)
     expect(parityOutlier([4, 3])).toBe(3)
   })
 
   it('should return null if the given array is empty, contains only one integer, contains non-interger elements or does not have a parity outlier', () => {
+    expect(parityOutlier([83])).toBe(null)
+    expect(parityOutlier([54])).toBe(null)
     expect(parityOutlier([])).toBe(null)
     expect(parityOutlier([2])).toBe(null)
     expect(parityOutlier([2, {}, 5, 'GitHub'])).toBe(null)
