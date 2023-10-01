@@ -3120,6 +3120,8 @@
 
 - [@Jasminetam](https://github.com/jasminetam/)
 
+- [@Jsonsinger](https://github.com/jsonsinger)
+
 - [@Jasonjamesmoore](https://github.com/jasonjamesmoore)
 
 - [@Jasonpn](https://github.com/jasonpn)
