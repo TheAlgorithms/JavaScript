@@ -9194,8 +9194,13 @@
 
 - [@Hrishit-B](https://github.com/Hrishit-B)
 
--[@mazorvion](https://github.com/mazorvion)
+- [@mazorvion](https://github.com/mazorvion)
 
--[@mbraje](https://github.com/mbraje/)
+- [@mbraje](https://github.com/mbraje/)
 
 - [@gdpp](https://github.com/gdpp)
+
+- [@Haneesh000](https://github.com/Haneesh000)
+
+- [@KaranRaval123](https://github.com/KaranRaval123/dev)
+
