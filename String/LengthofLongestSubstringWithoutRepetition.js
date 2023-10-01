@@ -1,10 +1,10 @@
-/**
- * @function lengthOfLongestSubstring
- * @description Finds the length of the longest substring in a given string without repeating characters
+/*
+ * @description : Given a string, the function finds the length of the longest substring without any repeating characters
  * @param {String} str - The input string
  * @returns {Number} The Length of the longest substring in a given string without repeating characters
- * @example lower("abcabcbb") => 3
- * @example lower("bbbbb") => 1
+ * @example lengthOfLongestSubstring("abcabcbb") => 3
+ * @example lengthOfLongestSubstring("bbbbb") => 1
+ * More Info: https://leetcode.com/problems/longest-substring-without-repeating-characters/
  */
 
 const lengthOfLongestSubstring = (s) => {
