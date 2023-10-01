@@ -5554,6 +5554,8 @@
 
 - [@Ninosh05](https://github.com/Ninosh05)
 
+- [@fyardlest](https://github.com/fyardlest1)
+
 - [@Niquue](https://github.com/niquue)
 
 - [@Nirbhayparmar](https://github.com/Nirbhayparmar/)
@@ -9228,3 +9230,7 @@
 - [@kazuma313](https://github.com/kazuma313)
 
 - [@CesarTheAwesome](https://github.com/CesarTheAwesome)
+
+- [@barryhanna](https://github.com/barryhanna)
+
+- [@trayshmhirk](https://github.com/Trayshmhirk)
