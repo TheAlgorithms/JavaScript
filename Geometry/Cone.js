@@ -6,7 +6,7 @@
  * @param {number} height - The height of the cone
  */
 export default class Cone {
-  constructor (baseRadius, height) {
+  constructor(baseRadius, height) {
     this.baseRadius = baseRadius
     this.height = height
   }
@@ -16,10 +16,12 @@ export default class Cone {
   }
 
   volume = () => {
-    return this.baseArea() * this.height * 1 / 3
+    return (this.baseArea() * this.height * 1) / 3
   }
 
   surfaceArea = () => {
-    return this.baseArea() + Math.PI * this.baseRadius * Math.sqrt(Math.pow(this.baseRadius, 2) + Math.pow(this.height, 2))
+    return (
+      this.baseArea() + Math.PI * this.baseRadius * Math.sqrt(Math.pow(this.baseRadius, 2) + Math.pow(this.height, 2))
+    )
   }
 }

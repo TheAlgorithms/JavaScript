@@ -9,14 +9,9 @@ describe('Testing checkAnagramRegex', () => {
     ${'abcd'}             | ${123456}
     ${'abcd'}             | ${[1, 2, 3, 4, 5, 6]}
     ${'abcd'}             | ${{ test: 'test' }}
-  `(
-    'expects to throw the type Error given values $inputOne and $inputTwo',
-    ({ inputOne, inputTwo }) => {
-      expect(
-        () => checkAnagramRegex(inputOne, inputTwo)
-      ).toThrowError()
-    }
-  )
+  `('expects to throw the type Error given values $inputOne and $inputTwo', ({ inputOne, inputTwo }) => {
+    expect(() => checkAnagramRegex(inputOne, inputTwo)).toThrowError()
+  })
 
   it('expects to return false if the arguments have different lengths', () => {
     const SUT = checkAnagramRegex('abs', 'abds')
@@ -99,14 +94,9 @@ describe('Testing checkAnagramMap', () => {
     ${'abcd'}             | ${123456}
     ${'abcd'}             | ${[1, 2, 3, 4, 5, 6]}
     ${'abcd'}             | ${{ test: 'test' }}
-  `(
-    'expects to throw the type Error given values $inputOne and $inputTwo',
-    ({ inputOne, inputTwo }) => {
-      expect(
-        () => checkAnagramMap(inputOne, inputTwo)
-      ).toThrowError()
-    }
-  )
+  `('expects to throw the type Error given values $inputOne and $inputTwo', ({ inputOne, inputTwo }) => {
+    expect(() => checkAnagramMap(inputOne, inputTwo)).toThrowError()
+  })
 
   it('expects to return false if the arguments have different lengths', () => {
     const SUT = checkAnagramMap('abs', 'abds')

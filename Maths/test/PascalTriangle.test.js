@@ -13,8 +13,6 @@ describe('Pascals Triangle', () => {
   })
   it('should return an array of arrays', () => {
     const pascalsTriangle = generate(3)
-    expect(pascalsTriangle).toEqual(
-      expect.arrayContaining([[1], [1, 1], [1, 2, 1]])
-    )
+    expect(pascalsTriangle).toEqual(expect.arrayContaining([[1], [1, 1], [1, 2, 1]]))
   })
 })

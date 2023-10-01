@@ -1,4 +1,4 @@
-function decimalToBinary (num) {
+function decimalToBinary(num) {
   const bin = []
   while (num > 0) {
     bin.unshift(num % 2)

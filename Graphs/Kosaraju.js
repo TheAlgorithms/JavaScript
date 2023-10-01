@@ -9,7 +9,7 @@
  */
 
 class Kosaraju {
-  constructor (graph) {
+  constructor(graph) {
     this.connections = {}
     this.reverseConnections = {}
     this.stronglyConnectedComponents = []
@@ -20,14 +20,14 @@ class Kosaraju {
     return this.kosaraju()
   }
 
-  addNode (node) {
+  addNode(node) {
     // Function to add a node to the graph (connection represented by set)
     this.connections[node] = new Set()
     this.reverseConnections[node] = new Set()
     this.topoSorted = []
   }
 
-  addEdge (node1, node2) {
+  addEdge(node1, node2) {
     // Function to add an edge (adds the node too if they are not present in the graph)
     if (!(node1 in this.connections) || !(node1 in this.reverseConnections)) {
       this.addNode(node1)
@@ -39,7 +39,7 @@ class Kosaraju {
     this.reverseConnections[node2].add(node1)
   }
 
-  dfsTopoSort (node, visited) {
+  dfsTopoSort(node, visited) {
     visited.add(node)
     for (const child of this.connections[node]) {
       if (!visited.has(child)) this.dfsTopoSort(child, visited)
@@ -47,7 +47,7 @@ class Kosaraju {
     this.topoSorted.push(node)
   }
 
-  topoSort () {
+  topoSort() {
     // Function to perform topological sorting
     const visited = new Set()
     const nodes = Object.keys(this.connections).map((key) => Number(key))
@@ -56,17 +56,15 @@ class Kosaraju {
     }
   }
 
-  dfsKosaraju (node, visited) {
+  dfsKosaraju(node, visited) {
     visited.add(node)
-    this.stronglyConnectedComponents[
-      this.stronglyConnectedComponents.length - 1
-    ].push(node)
+    this.stronglyConnectedComponents[this.stronglyConnectedComponents.length - 1].push(node)
     for (const child of this.reverseConnections[node]) {
       if (!visited.has(child)) this.dfsKosaraju(child, visited)
     }
   }
 
-  kosaraju () {
+  kosaraju() {
     // Function to perform Kosaraju Algorithm
     const visited = new Set()
     while (this.topoSorted.length > 0) {
@@ -80,7 +78,7 @@ class Kosaraju {
   }
 }
 
-function kosaraju (graph) {
+function kosaraju(graph) {
   const stronglyConnectedComponents = new Kosaraju(graph)
   return stronglyConnectedComponents
 }

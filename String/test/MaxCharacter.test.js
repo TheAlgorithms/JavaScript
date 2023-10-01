@@ -7,7 +7,7 @@ describe('Testing the maxCharacter function', () => {
   })
 
   it('Check the max character in string', () => {
-    const theString = 'I can\'t do that'
+    const theString = "I can't do that"
     const maxCharInAllCount = maxCharacter(theString)
     const maxChar = maxCharacter(theString, /\s/)
 

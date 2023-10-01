@@ -1,6 +1,10 @@
 import { liouvilleFunction } from '../LiouvilleFunction'
 
-const expectedValuesArray = [1, -1, -1, 1, -1, 1, -1, -1, 1, 1, -1, -1, -1, 1, 1, 1, -1, -1, -1, -1, 1, 1, -1, 1, 1, 1, -1, -1, -1, -1, -1, -1, 1, 1, 1, 1, -1, 1, 1, 1, -1, -1, -1, -1, -1, 1, -1, -1, 1, -1, 1, -1, -1, 1, 1, 1, 1, 1, -1, 1, -1, 1, -1, 1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, -1, 1, -1, -1, -1, 1, 1, -1, 1, 1, 1, 1, 1, -1, 1, 1, -1, 1, 1, 1, 1, -1, -1, -1, 1]
+const expectedValuesArray = [
+  1, -1, -1, 1, -1, 1, -1, -1, 1, 1, -1, -1, -1, 1, 1, 1, -1, -1, -1, -1, 1, 1, -1, 1, 1, 1, -1, -1, -1, -1, -1, -1, 1,
+  1, 1, 1, -1, 1, 1, 1, -1, -1, -1, -1, -1, 1, -1, -1, 1, -1, 1, -1, -1, 1, 1, 1, 1, 1, -1, 1, -1, 1, -1, 1, 1, -1, -1,
+  -1, 1, -1, -1, -1, -1, 1, -1, -1, 1, -1, -1, -1, 1, 1, -1, 1, 1, 1, 1, 1, -1, 1, 1, -1, 1, 1, 1, 1, -1, -1, -1, 1
+]
 
 describe('Testing liouville function', () => {
   for (let i = 1; i <= 100; i++) {
@@ -10,10 +14,14 @@ describe('Testing liouville function', () => {
   }
 
   it('should throw error when supplied negative numbers', () => {
-    expect(() => { liouvilleFunction(-1) }).toThrow(Error)
+    expect(() => {
+      liouvilleFunction(-1)
+    }).toThrow(Error)
   })
 
   it('should throw error when supplied zero', () => {
-    expect(() => { liouvilleFunction(0) }).toThrow(Error)
+    expect(() => {
+      liouvilleFunction(0)
+    }).toThrow(Error)
   })
 })

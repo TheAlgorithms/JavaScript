@@ -21,73 +21,111 @@ describe('Elementary Cellular Automata', () => {
 
   describe('Rule 54 Iterations', () => {
     it('Generation 1', () => {
-      expect(getNextElementaryGeneration([0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0], 54)).toEqual([0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0])
+      expect(getNextElementaryGeneration([0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0], 54)).toEqual([
+        0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0
+      ])
     })
     it('Generation 2', () => {
-      expect(getNextElementaryGeneration([0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0], 54)).toEqual([0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0])
+      expect(getNextElementaryGeneration([0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0], 54)).toEqual([
+        0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0
+      ])
     })
     it('Generation 3', () => {
-      expect(getNextElementaryGeneration([0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0], 54)).toEqual([0, 0, 1, 1, 1, 0, 1, 1, 1, 0, 0])
+      expect(getNextElementaryGeneration([0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0], 54)).toEqual([
+        0, 0, 1, 1, 1, 0, 1, 1, 1, 0, 0
+      ])
     })
     it('Generation 4', () => {
-      expect(getNextElementaryGeneration([0, 0, 1, 1, 1, 0, 1, 1, 1, 0, 0], 54)).toEqual([0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0])
+      expect(getNextElementaryGeneration([0, 0, 1, 1, 1, 0, 1, 1, 1, 0, 0], 54)).toEqual([
+        0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0
+      ])
     })
   })
 
   describe('Rule 222 Iterations', () => {
     it('Generation 1', () => {
-      expect(getNextElementaryGeneration([0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0], 222)).toEqual([0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0])
+      expect(getNextElementaryGeneration([0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0], 222)).toEqual([
+        0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0
+      ])
     })
     it('Generation 2', () => {
-      expect(getNextElementaryGeneration([0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0], 222)).toEqual([0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0])
+      expect(getNextElementaryGeneration([0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0], 222)).toEqual([
+        0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0
+      ])
     })
     it('Generation 3', () => {
-      expect(getNextElementaryGeneration([0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0], 222)).toEqual([0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0])
+      expect(getNextElementaryGeneration([0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0], 222)).toEqual([
+        0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0
+      ])
     })
     it('Generation 4', () => {
-      expect(getNextElementaryGeneration([0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0], 222)).toEqual([0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0])
+      expect(getNextElementaryGeneration([0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0], 222)).toEqual([
+        0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0
+      ])
     })
   })
 
   describe('Rule 60 Iterations', () => {
     it('Generation 1', () => {
-      expect(getNextElementaryGeneration([0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0], 60)).toEqual([0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0])
+      expect(getNextElementaryGeneration([0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0], 60)).toEqual([
+        0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0
+      ])
     })
     it('Generation 2', () => {
-      expect(getNextElementaryGeneration([0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0], 60)).toEqual([0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0])
+      expect(getNextElementaryGeneration([0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0], 60)).toEqual([
+        0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0
+      ])
     })
     it('Generation 3', () => {
-      expect(getNextElementaryGeneration([0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0], 60)).toEqual([0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0])
+      expect(getNextElementaryGeneration([0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0], 60)).toEqual([
+        0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0
+      ])
     })
     it('Generation 4', () => {
-      expect(getNextElementaryGeneration([0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0], 60)).toEqual([0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0])
+      expect(getNextElementaryGeneration([0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0], 60)).toEqual([
+        0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0
+      ])
     })
   })
 
   describe('Rule 90 Iterations', () => {
     it('Generation 1', () => {
-      expect(getNextElementaryGeneration([0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0], 90)).toEqual([0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0])
+      expect(getNextElementaryGeneration([0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0], 90)).toEqual([
+        0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0
+      ])
     })
     it('Generation 2', () => {
-      expect(getNextElementaryGeneration([0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0], 90)).toEqual([0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0])
+      expect(getNextElementaryGeneration([0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0], 90)).toEqual([
+        0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0
+      ])
     })
     it('Generation 3', () => {
-      expect(getNextElementaryGeneration([0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0], 90)).toEqual([0, 0, 1, 0, 1, 0, 1, 0, 1, 0, 0])
+      expect(getNextElementaryGeneration([0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0], 90)).toEqual([
+        0, 0, 1, 0, 1, 0, 1, 0, 1, 0, 0
+      ])
     })
     it('Generation 4', () => {
-      expect(getNextElementaryGeneration([0, 0, 1, 0, 1, 0, 1, 0, 1, 0, 0], 90)).toEqual([0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0])
+      expect(getNextElementaryGeneration([0, 0, 1, 0, 1, 0, 1, 0, 1, 0, 0], 90)).toEqual([
+        0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0
+      ])
     })
   })
 
   describe('Rule 30 Iterations', () => {
     it('Generation 1', () => {
-      expect(getNextElementaryGeneration([0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0], 30)).toEqual([0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0])
+      expect(getNextElementaryGeneration([0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0], 30)).toEqual([
+        0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0
+      ])
     })
     it('Generation 2', () => {
-      expect(getNextElementaryGeneration([0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0], 30)).toEqual([0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0])
+      expect(getNextElementaryGeneration([0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0], 30)).toEqual([
+        0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0
+      ])
     })
     it('Generation 3', () => {
-      expect(getNextElementaryGeneration([0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0], 30)).toEqual([0, 0, 1, 1, 0, 1, 1, 1, 1, 0, 0])
+      expect(getNextElementaryGeneration([0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0], 30)).toEqual([
+        0, 0, 1, 1, 0, 1, 1, 1, 1, 0, 0
+      ])
     })
   })
 })

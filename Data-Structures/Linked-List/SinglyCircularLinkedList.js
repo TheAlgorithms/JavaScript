@@ -2,7 +2,7 @@
 import { Node } from './SinglyLinkedList.js'
 
 class SinglyCircularLinkedList {
-  constructor () {
+  constructor() {
     this.headNode = null
     this.length = 0
   }
@@ -15,12 +15,12 @@ class SinglyCircularLinkedList {
   isEmpty = () => this.length === 0
 
   // initiate the node and index
-  initiateNodeAndIndex () {
+  initiateNodeAndIndex() {
     return { currentNode: this.headNode, currentIndex: 0 }
   }
 
   // get the data specific to an index
-  getElementAt (index) {
+  getElementAt(index) {
     if (this.length !== 0 && index >= 0 && index <= this.length) {
       let { currentNode } = this.initiateNodeAndIndex()
       for (let i = 0; i < index && currentNode !== null; i++) {
@@ -32,7 +32,7 @@ class SinglyCircularLinkedList {
   }
 
   // Add the element in the first position
-  addAtFirst (data) {
+  addAtFirst(data) {
     const node = new Node(data)
     node.next = this.headNode
     this.headNode = node
@@ -41,8 +41,10 @@ class SinglyCircularLinkedList {
   }
 
   // Add any data to the end of the linkedList
-  add (data) {
-    if (!this.headNode) { return this.addAtFirst(data) }
+  add(data) {
+    if (!this.headNode) {
+      return this.addAtFirst(data)
+    }
     const node = new Node(data)
     // Getting the last node
     const currentNode = this.getElementAt(this.length - 1)
@@ -53,7 +55,7 @@ class SinglyCircularLinkedList {
   }
 
   // insert data at a specific position
-  insertAt (index, data) {
+  insertAt(index, data) {
     if (index === 0) return this.addAtFirst(data)
     if (index === this.length) return this.add(data)
     if (index < 0 || index > this.length) throw new RangeError(`Index is out of range max ${this.length}`)
@@ -66,7 +68,7 @@ class SinglyCircularLinkedList {
   }
 
   // find the first index of the data
-  indexOf (data) {
+  indexOf(data) {
     let { currentNode } = this.initiateNodeAndIndex()
     // initializing currentIndex as -1
     let currentIndex = -1
@@ -81,7 +83,7 @@ class SinglyCircularLinkedList {
   }
 
   // remove the data from the end of the list
-  remove () {
+  remove() {
     if (this.isEmpty()) return null
     const secondLastNode = this.getElementAt(this.length - 2)
     const removedNode = secondLastNode.next
@@ -91,7 +93,7 @@ class SinglyCircularLinkedList {
   }
 
   // remove the data from the first of the list
-  removeFirst () {
+  removeFirst() {
     if (this.isEmpty()) return null
     const removedNode = this.headNode
     if (this.length === 1) {
@@ -106,7 +108,7 @@ class SinglyCircularLinkedList {
   }
 
   // remove the data from the index
-  removeAt (index) {
+  removeAt(index) {
     if (this.isEmpty()) return null
     if (index === 0) return this.removeFirst()
     if (index === this.length) return this.remove()
@@ -119,14 +121,14 @@ class SinglyCircularLinkedList {
   }
 
   // remove if the data is present
-  removeData (data) {
+  removeData(data) {
     if (this.isEmpty()) return null
     const index = this.indexOf(data)
     return this.removeAt(index)
   }
 
   // logs the data
-  printData (output = value => console.log(value)) {
+  printData(output = (value) => console.log(value)) {
     let { currentIndex, currentNode } = this.initiateNodeAndIndex()
 
     while (currentNode !== null && currentIndex < this.length) {
@@ -137,7 +139,7 @@ class SinglyCircularLinkedList {
   }
 
   // get the data from the linkedList
-  get () {
+  get() {
     let { currentIndex, currentNode } = this.initiateNodeAndIndex()
     const list = []
     while (currentNode !== null && currentIndex < this.length) {
@@ -148,7 +150,7 @@ class SinglyCircularLinkedList {
     return list
   }
 
-  clear () {
+  clear() {
     this.headNode = null
     this.length = 0
   }

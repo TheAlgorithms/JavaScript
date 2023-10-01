@@ -15,35 +15,17 @@ describe('Test findMaxRecursion function', () => {
 
   it('Testing with positive arrays', () => {
     expect(findMaxRecursion(positiveArray, 0, positiveArray.length - 1)).toBe(5)
-    expect(findMaxRecursion(positiveArray1, 0, positiveArray1.length - 1)).toBe(
-      100
-    )
+    expect(findMaxRecursion(positiveArray1, 0, positiveArray1.length - 1)).toBe(100)
   })
 
   it('Testing with negative arrays', () => {
-    expect(findMaxRecursion(negativeArray, 0, negativeArray.length - 1)).toBe(
-      -1
-    )
-    expect(findMaxRecursion(negativeArray1, 0, negativeArray1.length - 1)).toBe(
-      -10
-    )
+    expect(findMaxRecursion(negativeArray, 0, negativeArray.length - 1)).toBe(-1)
+    expect(findMaxRecursion(negativeArray1, 0, negativeArray1.length - 1)).toBe(-10)
   })
 
   it('Testing with positive and negative arrays', () => {
-    expect(
-      findMaxRecursion(
-        positiveAndNegativeArray,
-        0,
-        positiveAndNegativeArray.length - 1
-      )
-    ).toBe(5)
-    expect(
-      findMaxRecursion(
-        positiveAndNegativeArray1,
-        0,
-        positiveAndNegativeArray1.length - 1
-      )
-    ).toBe(100)
+    expect(findMaxRecursion(positiveAndNegativeArray, 0, positiveAndNegativeArray.length - 1)).toBe(5)
+    expect(findMaxRecursion(positiveAndNegativeArray1, 0, positiveAndNegativeArray1.length - 1)).toBe(100)
   })
 
   it('Testing with zero arrays', () => {
@@ -51,8 +33,6 @@ describe('Test findMaxRecursion function', () => {
   })
 
   it('Testing with empty arrays', () => {
-    expect(findMaxRecursion(emptyArray, 0, emptyArray.length - 1)).toBe(
-      undefined
-    )
+    expect(findMaxRecursion(emptyArray, 0, emptyArray.length - 1)).toBe(undefined)
   })
 })

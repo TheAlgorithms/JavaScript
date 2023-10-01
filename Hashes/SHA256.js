@@ -9,14 +9,13 @@
 const CHAR_SIZE = 8
 
 const K = [
-  0x428a2f98, 0x71374491, 0xb5c0fbcf, 0xe9b5dba5, 0x3956c25b, 0x59f111f1, 0x923f82a4, 0xab1c5ed5,
-  0xd807aa98, 0x12835b01, 0x243185be, 0x550c7dc3, 0x72be5d74, 0x80deb1fe, 0x9bdc06a7, 0xc19bf174,
-  0xe49b69c1, 0xefbe4786, 0x0fc19dc6, 0x240ca1cc, 0x2de92c6f, 0x4a7484aa, 0x5cb0a9dc, 0x76f988da,
-  0x983e5152, 0xa831c66d, 0xb00327c8, 0xbf597fc7, 0xc6e00bf3, 0xd5a79147, 0x06ca6351, 0x14292967,
-  0x27b70a85, 0x2e1b2138, 0x4d2c6dfc, 0x53380d13, 0x650a7354, 0x766a0abb, 0x81c2c92e, 0x92722c85,
-  0xa2bfe8a1, 0xa81a664b, 0xc24b8b70, 0xc76c51a3, 0xd192e819, 0xd6990624, 0xf40e3585, 0x106aa070,
-  0x19a4c116, 0x1e376c08, 0x2748774c, 0x34b0bcb5, 0x391c0cb3, 0x4ed8aa4a, 0x5b9cca4f, 0x682e6ff3,
-  0x748f82ee, 0x78a5636f, 0x84c87814, 0x8cc70208, 0x90befffa, 0xa4506ceb, 0xbef9a3f7, 0xc67178f2
+  0x428a2f98, 0x71374491, 0xb5c0fbcf, 0xe9b5dba5, 0x3956c25b, 0x59f111f1, 0x923f82a4, 0xab1c5ed5, 0xd807aa98,
+  0x12835b01, 0x243185be, 0x550c7dc3, 0x72be5d74, 0x80deb1fe, 0x9bdc06a7, 0xc19bf174, 0xe49b69c1, 0xefbe4786,
+  0x0fc19dc6, 0x240ca1cc, 0x2de92c6f, 0x4a7484aa, 0x5cb0a9dc, 0x76f988da, 0x983e5152, 0xa831c66d, 0xb00327c8,
+  0xbf597fc7, 0xc6e00bf3, 0xd5a79147, 0x06ca6351, 0x14292967, 0x27b70a85, 0x2e1b2138, 0x4d2c6dfc, 0x53380d13,
+  0x650a7354, 0x766a0abb, 0x81c2c92e, 0x92722c85, 0xa2bfe8a1, 0xa81a664b, 0xc24b8b70, 0xc76c51a3, 0xd192e819,
+  0xd6990624, 0xf40e3585, 0x106aa070, 0x19a4c116, 0x1e376c08, 0x2748774c, 0x34b0bcb5, 0x391c0cb3, 0x4ed8aa4a,
+  0x5b9cca4f, 0x682e6ff3, 0x748f82ee, 0x78a5636f, 0x84c87814, 0x8cc70208, 0x90befffa, 0xa4506ceb, 0xbef9a3f7, 0xc67178f2
 ]
 
 /**
@@ -29,7 +28,7 @@ const K = [
  * @example
  *      pad("10011", 8); // "00010011"
  */
-function pad (str, bits) {
+function pad(str, bits) {
   let res = str
   while (res.length % bits !== 0) {
     res = '0' + res
@@ -47,7 +46,7 @@ function pad (str, bits) {
  * @example
  *      chunkify("this is a test", 2)
  */
-function chunkify (str, size) {
+function chunkify(str, size) {
   const chunks = []
   for (let i = 0; i < str.length; i += size) {
     chunks.push(str.slice(i, i + size))
@@ -65,7 +64,7 @@ function chunkify (str, size) {
  * @example
  *      rotateLeft("1011", 3); // "1101"
  */
-function rotateRight (bits, turns) {
+function rotateRight(bits, turns) {
   return bits.substr(bits.length - turns) + bits.substr(0, bits.length - turns)
 }
 
@@ -75,14 +74,16 @@ function rotateRight (bits, turns) {
  * @param {string} message - message to pre-process
  * @return {string} - processed message
  */
-function preProcess (message) {
+function preProcess(message) {
   // convert message to binary representation padded to
   // 8 bits, and add 1
-  let m = message.split('')
-    .map(e => e.charCodeAt(0))
-    .map(e => e.toString(2))
-    .map(e => pad(e, 8))
-    .join('') + '1'
+  let m =
+    message
+      .split('')
+      .map((e) => e.charCodeAt(0))
+      .map((e) => e.toString(2))
+      .map((e) => pad(e, 8))
+      .join('') + '1'
 
   // extend message by adding empty bits (0)
   while (m.length % 512 !== 448) {
@@ -104,7 +105,7 @@ function preProcess (message) {
  * @param {string} message - message to hash
  * @return {string} - message digest (hash value)
  */
-function SHA256 (message) {
+function SHA256(message) {
   // initial hash variables
   let H0 = 0x6a09e667
   let H1 = 0xbb67ae85
@@ -141,16 +142,18 @@ function SHA256 (message) {
     let [a, b, c, d, e, f, g, h] = [H0, H1, H2, H3, H4, H5, H6, H7]
 
     for (let i = 0; i < 64; i++) {
-      const S1 = [6, 11, 25]
-        .map(turns => rotateRight(pad(e.toString(2), 32), turns))
-        .map(bitstring => parseInt(bitstring, 2))
-        .reduce((acc, curr) => acc ^ curr, 0) >>> 0
+      const S1 =
+        [6, 11, 25]
+          .map((turns) => rotateRight(pad(e.toString(2), 32), turns))
+          .map((bitstring) => parseInt(bitstring, 2))
+          .reduce((acc, curr) => acc ^ curr, 0) >>> 0
       const CH = ((e & f) ^ (~e & g)) >>> 0
       const temp1 = (h + S1 + CH + K[i] + parseInt(words[i], 2)) >>> 0
-      const S0 = [2, 13, 22]
-        .map(turns => rotateRight(pad(a.toString(2), 32), turns))
-        .map(bitstring => parseInt(bitstring, 2))
-        .reduce((acc, curr) => acc ^ curr, 0) >>> 0
+      const S0 =
+        [2, 13, 22]
+          .map((turns) => rotateRight(pad(a.toString(2), 32), turns))
+          .map((bitstring) => parseInt(bitstring, 2))
+          .reduce((acc, curr) => acc ^ curr, 0) >>> 0
       const maj = ((a & b) ^ (a & c) ^ (b & c)) >>> 0
       const temp2 = (S0 + maj) >>> 0
 
@@ -177,8 +180,8 @@ function SHA256 (message) {
 
   // combine hash values of main hash variables and return
   const HH = [H0, H1, H2, H3, H4, H5, H6, H7]
-    .map(e => e.toString(16))
-    .map(e => pad(e, 8))
+    .map((e) => e.toString(16))
+    .map((e) => pad(e, 8))
     .join('')
 
   return HH

@@ -1,6 +1,6 @@
 class DisjointSetTreeNode {
   // Disjoint Set Node to store the parent and rank
-  constructor (key) {
+  constructor(key) {
     this.key = key
     this.parent = this
     this.rank = 0
@@ -9,17 +9,17 @@ class DisjointSetTreeNode {
 
 class DisjointSetTree {
   // Disjoint Set DataStructure
-  constructor () {
+  constructor() {
     // map to from node name to the node object
     this.map = {}
   }
 
-  makeSet (x) {
+  makeSet(x) {
     // Function to create a new set with x as its member
     this.map[x] = new DisjointSetTreeNode(x)
   }
 
-  findSet (x) {
+  findSet(x) {
     // Function to find the set x belongs to (with path-compression)
     if (this.map[x] !== this.map[x].parent) {
       this.map[x].parent = this.findSet(this.map[x].parent.key)
@@ -27,12 +27,12 @@ class DisjointSetTree {
     return this.map[x].parent
   }
 
-  union (x, y) {
+  union(x, y) {
     // Function to merge 2 disjoint sets
     this.link(this.findSet(x), this.findSet(y))
   }
 
-  link (x, y) {
+  link(x, y) {
     // Helper function for union operation
     if (x.rank > y.rank) {
       y.parent = x
@@ -47,26 +47,30 @@ class DisjointSetTree {
 
 class GraphWeightedUndirectedAdjacencyList {
   // Weighted Undirected Graph class
-  constructor () {
+  constructor() {
     this.connections = {}
     this.nodes = 0
   }
 
-  addNode (node) {
+  addNode(node) {
     // Function to add a node to the graph (connection represented by set)
     this.connections[node] = {}
     this.nodes += 1
   }
 
-  addEdge (node1, node2, weight) {
+  addEdge(node1, node2, weight) {
     // Function to add an edge (adds the node too if they are not present in the graph)
-    if (!(node1 in this.connections)) { this.addNode(node1) }
-    if (!(node2 in this.connections)) { this.addNode(node2) }
+    if (!(node1 in this.connections)) {
+      this.addNode(node1)
+    }
+    if (!(node2 in this.connections)) {
+      this.addNode(node2)
+    }
     this.connections[node1][node2] = weight
     this.connections[node2][node1] = weight
   }
 
-  KruskalMST () {
+  KruskalMST() {
     // Kruskal's Algorithm to generate a Minimum Spanning Tree (MST) of a graph
     // Details: https://en.wikipedia.org/wiki/Kruskal%27s_algorithm
     // getting the edges in ascending order of weights
@@ -83,7 +87,7 @@ class GraphWeightedUndirectedAdjacencyList {
     edges.sort((a, b) => a[2] - b[2])
     // creating the disjoint set
     const disjointSet = new DisjointSetTree()
-    Object.keys(this.connections).forEach(node => disjointSet.makeSet(node))
+    Object.keys(this.connections).forEach((node) => disjointSet.makeSet(node))
     // MST generation
     const graph = new GraphWeightedUndirectedAdjacencyList()
     let numEdges = 0

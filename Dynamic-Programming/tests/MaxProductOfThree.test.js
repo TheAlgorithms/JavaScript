@@ -21,7 +21,7 @@ describe('MaxProductOfThree', () => {
 describe('MaxProductOfThree, random arrays of size 3 to 5', () => {
   // Slower function that operates in O(n^3), where n is the length of the input array.
   // Calculates all possible products of 3 numbers in the array and returns the largest
-  function completeMaxThree (array) {
+  function completeMaxThree(array) {
     let maximumProduct = null
     for (let i = 0; i < array.length - 2; i++) {
       for (let j = i + 1; j < array.length - 1; j++) {

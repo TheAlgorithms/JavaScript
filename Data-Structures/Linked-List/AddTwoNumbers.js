@@ -14,11 +14,11 @@ Link for the Problem: https://leetcode.com/problems/add-two-numbers/
 */
 
 class AddTwoNumbers {
-  constructor () {
+  constructor() {
     this.dummyNode = new Node(0)
   }
 
-  solution (firstList, secondList) {
+  solution(firstList, secondList) {
     let firstRunner = firstList
     let secondRunner = secondList
     let tail = this.dummyNode
@@ -44,7 +44,7 @@ class AddTwoNumbers {
     return this.dummyNode.next
   }
 
-  solutionToArray () {
+  solutionToArray() {
     const list = []
     let currentNode = this.dummyNode.next
     while (currentNode) {

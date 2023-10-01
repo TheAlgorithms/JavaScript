@@ -11,14 +11,14 @@ const permutate = (aString) => {
     permutations = calculateCurrentCharacterPermutation(permutations, currentCharacter)
   }
   return permutations
-    .map(character => character.join(''))
-    .filter((item, index, self) => (self.indexOf(item) === index))
+    .map((character) => character.join(''))
+    .filter((item, index, self) => self.indexOf(item) === index)
     .sort()
 }
 
 const calculateCurrentCharacterPermutation = (allPermutations, currentCharacter) => {
   const currentPermutations = []
-  allPermutations.forEach(permutation => {
+  allPermutations.forEach((permutation) => {
     let index = 0
     while (index <= permutation.length) {
       const tmp = [...permutation]

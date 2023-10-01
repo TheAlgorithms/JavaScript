@@ -1,7 +1,7 @@
 /**
  * A short example showing how to reverse a string.
  */
-function ReverseStringIterative (string) {
+function ReverseStringIterative(string) {
   if (typeof string !== 'string') {
     throw new TypeError('The given value is not a string')
   }

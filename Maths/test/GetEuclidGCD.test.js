@@ -1,6 +1,6 @@
 import { GetEuclidGCD } from '../GetEuclidGCD'
 
-function testEuclidGCD (n, m, expected) {
+function testEuclidGCD(n, m, expected) {
   test('Testing on ' + n + ' and ' + m + '!', () => {
     expect(GetEuclidGCD(n, m)).toBe(expected)
   })

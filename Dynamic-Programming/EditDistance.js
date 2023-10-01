@@ -15,7 +15,7 @@ space complexity - O(n*m)
 const minimumEditDistance = (word1, word2) => {
   const n = word1.length
   const m = word2.length
-  const dp = new Array(m + 1).fill(0).map(item => [])
+  const dp = new Array(m + 1).fill(0).map((item) => [])
 
   /*
     fill dp matrix with default values -

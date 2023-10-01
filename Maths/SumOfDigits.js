@@ -9,17 +9,20 @@
   The given input is converted to a string, split into an array of characters.
   This array is reduced to a number using the method <Array>.reduce
 */
-function sumOfDigitsUsingString (number) {
+function sumOfDigitsUsingString(number) {
   if (number < 0) number = -number
 
-  return +(number.toString().split('').reduce((a, b) => (+a) + (+b)))
+  return +number
+    .toString()
+    .split('')
+    .reduce((a, b) => +a + +b)
 }
 
 /*
   The input is divided by 10 in each iteration, till the input is equal to 0
   The sum of all the digits is returned (The res variable acts as a collector, taking the remainders on each iteration)
 */
-function sumOfDigitsUsingLoop (number) {
+function sumOfDigitsUsingLoop(number) {
   if (number < 0) number = -number
   let res = 0
 
@@ -34,7 +37,7 @@ function sumOfDigitsUsingLoop (number) {
 /*
   We use the fact that the sum of the digits of a one digit number is itself, and check whether the number is less than 10. If so, then we return the number. Else, we take the number divided by 10 and floored, and recursively call the function, while adding it with the number mod 10
 */
-function sumOfDigitsUsingRecursion (number) {
+function sumOfDigitsUsingRecursion(number) {
   if (number < 0) number = -number
 
   if (number < 10) return number

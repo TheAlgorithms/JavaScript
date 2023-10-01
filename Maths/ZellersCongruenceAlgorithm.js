@@ -11,16 +11,13 @@ export const zellersCongruenceAlgorithm = (day, month, year) => {
     y -= 1
   }
   day =
-      (q + Math.floor(26 * (m + 1) / 10) + (y % 100) + Math.floor((y % 100) / 4) + Math.floor(Math.floor(y / 100) / 4) + (5 * Math.floor(y / 100))) %
-          7
-  const days = [
-    'Saturday',
-    'Sunday',
-    'Monday',
-    'Tuesday',
-    'Wednesday',
-    'Thursday',
-    'Friday'
-  ]
+    (q +
+      Math.floor((26 * (m + 1)) / 10) +
+      (y % 100) +
+      Math.floor((y % 100) / 4) +
+      Math.floor(Math.floor(y / 100) / 4) +
+      5 * Math.floor(y / 100)) %
+    7
+  const days = ['Saturday', 'Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday']
   return days[day]
 }

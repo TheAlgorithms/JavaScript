@@ -9,7 +9,7 @@ import Queue from '../Data-Structures/Queue/Queue'
  * (description adapted from https://en.wikipedia.org/wiki/Breadth-first_search)
  * @see https://www.koderdojo.com/blog/breadth-first-search-and-shortest-path-in-csharp-and-net-core
  */
-export function breadthFirstSearch (graph, startingNode) {
+export function breadthFirstSearch(graph, startingNode) {
   // visited keeps track of all nodes visited
   const visited = new Set()
 

@@ -5,7 +5,7 @@
  * @param {String} str - string to be decrypted
  * @return {String} decrypted string
  */
-function ROT13 (str) {
+function ROT13(str) {
   if (typeof str !== 'string') {
     throw new TypeError('Argument should be string')
   }

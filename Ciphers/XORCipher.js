@@ -14,9 +14,7 @@ const XORCipher = (str, key) => {
     throw new TypeError('Arguments type are invalid')
   }
 
-  return str.replace(
-    /./g, (char) => String.fromCharCode(char.charCodeAt() ^ key)
-  )
+  return str.replace(/./g, (char) => String.fromCharCode(char.charCodeAt() ^ key))
 }
 
 export default XORCipher

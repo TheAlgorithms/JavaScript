@@ -14,7 +14,7 @@
 'use strict'
 
 const calcRange = (num) => {
-  return [...Array(num).keys()].map(i => i + 1)
+  return [...Array(num).keys()].map((i) => i + 1)
 }
 
 const calcFactorial = (num) => {

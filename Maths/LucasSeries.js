@@ -13,7 +13,7 @@
 /**
  * @param {Number} index The position of the number you want to get from the Lucas Series
  */
-function lucas (index) {
+function lucas(index) {
   // index can't be negative
   if (index < 0) throw new TypeError('Index cannot be Negative')
 

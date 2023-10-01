@@ -1,6 +1,6 @@
 import { titleCaseConversion } from '../TitleCaseConversion'
 
-describe(('Tests for the titleCaseConversion function'), () => {
+describe('Tests for the titleCaseConversion function', () => {
   it('should return an empty string when the input is an empty string', () => {
     expect(titleCaseConversion('')).toEqual('')
   })

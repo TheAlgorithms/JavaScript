@@ -1,5 +1,5 @@
 class Node {
-  constructor (element) {
+  constructor(element) {
     this.element = element
     this.next = null
     this.prev = null
@@ -7,14 +7,14 @@ class Node {
 }
 
 class DoubleLinkedList {
-  constructor () {
+  constructor() {
     this.length = 0
     this.head = null
     this.tail = null
   }
 
   // Add new element
-  append (element) {
+  append(element) {
     const node = new Node(element)
 
     if (!this.head) {
@@ -30,7 +30,7 @@ class DoubleLinkedList {
   }
 
   // Add element
-  insert (position, element) {
+  insert(position, element) {
     // Check of out-of-bound values
     if (position >= 0 && position <= this.length) {
       const node = new Node(element)
@@ -74,7 +74,7 @@ class DoubleLinkedList {
   }
 
   // Remove element at any position
-  removeAt (position) {
+  removeAt(position) {
     // look for out-of-bounds value
     if (position > -1 && position < this.length) {
       let current = this.head
@@ -114,7 +114,7 @@ class DoubleLinkedList {
   }
 
   // Get the indexOf item
-  indexOf (elm) {
+  indexOf(elm) {
     let current = this.head
     let index = -1
 
@@ -133,27 +133,27 @@ class DoubleLinkedList {
   }
 
   // Find the item in the list
-  isPresent (elm) {
+  isPresent(elm) {
     return this.indexOf(elm) !== -1
   }
 
   // Delete an item from the list
-  delete (elm) {
+  delete(elm) {
     return this.removeAt(this.indexOf(elm))
   }
 
   // Delete first item from the list
-  deleteHead () {
+  deleteHead() {
     this.removeAt(0)
   }
 
   // Delete last item from the list
-  deleteTail () {
+  deleteTail() {
     this.removeAt(this.length - 1)
   }
 
   // Print item of the string
-  toString () {
+  toString() {
     let current = this.head
     let string = ''
 
@@ -166,7 +166,7 @@ class DoubleLinkedList {
   }
 
   // Convert list to array
-  toArray () {
+  toArray() {
     const arr = []
     let current = this.head
 
@@ -179,31 +179,31 @@ class DoubleLinkedList {
   }
 
   // Check if list is empty
-  isEmpty () {
+  isEmpty() {
     return this.length === 0
   }
 
   // Get the size of the list
-  size () {
+  size() {
     return this.length
   }
 
   // Get the this.head
-  getHead () {
+  getHead() {
     return this.head
   }
 
   // Get the this.tail
-  getTail () {
+  getTail() {
     return this.tail
   }
 
   // Method to iterate over the LinkedList
-  iterator () {
+  iterator() {
     let currentNode = this.getHead()
     if (currentNode === null) return -1
 
-    const iterate = function * () {
+    const iterate = function* () {
       while (currentNode) {
         yield currentNode.element
         currentNode = currentNode.next
@@ -214,7 +214,7 @@ class DoubleLinkedList {
 
   // Method to log the LinkedList, for debugging
   // it' a circular structure, so can't use stringify to debug the whole structure
-  log () {
+  log() {
     let currentNode = this.getHead()
     while (currentNode) {
       console.log(currentNode.element)

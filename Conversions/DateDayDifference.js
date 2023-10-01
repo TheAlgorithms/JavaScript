@@ -14,7 +14,15 @@ const isLeap = (year) => {
   else return false
 }
 const DateToDay = (dd, mm, yyyy) => {
-  return Math.floor((365 * (yyyy - 1)) + ((yyyy - 1) / 4) - ((yyyy - 1) / 100) + ((yyyy - 1) / 400) + dd + (((367 * mm) - 362) / 12) + (mm <= 2 ? 0 : isLeap(yyyy) ? -1 : -2))
+  return Math.floor(
+    365 * (yyyy - 1) +
+      (yyyy - 1) / 4 -
+      (yyyy - 1) / 100 +
+      (yyyy - 1) / 400 +
+      dd +
+      (367 * mm - 362) / 12 +
+      (mm <= 2 ? 0 : isLeap(yyyy) ? -1 : -2)
+  )
 }
 
 const DateDayDifference = (date1, date2) => {
@@ -27,13 +35,21 @@ const DateDayDifference = (date1, date2) => {
   // extract the second date
   const [secondDateDay, secondDateMonth, secondDateYear] = date2.split('/').map((ele) => Number(ele))
   // check the both data are valid or not.
-  if (firstDateDay < 0 || firstDateDay > 31 ||
-        firstDateMonth > 12 || firstDateMonth < 0 ||
-        secondDateDay < 0 || secondDateDay > 31 ||
-        secondDateMonth > 12 || secondDateMonth < 0) {
+  if (
+    firstDateDay < 0 ||
+    firstDateDay > 31 ||
+    firstDateMonth > 12 ||
+    firstDateMonth < 0 ||
+    secondDateDay < 0 ||
+    secondDateDay > 31 ||
+    secondDateMonth > 12 ||
+    secondDateMonth < 0
+  ) {
     return new TypeError('Date is not valid.')
   }
-  return Math.abs(DateToDay(secondDateDay, secondDateMonth, secondDateYear) - DateToDay(firstDateDay, firstDateMonth, firstDateYear))
+  return Math.abs(
+    DateToDay(secondDateDay, secondDateMonth, secondDateYear) - DateToDay(firstDateDay, firstDateMonth, firstDateYear)
+  )
 }
 
 // Example : DateDayDifference('17/08/2002', '10/10/2020') => 6630

@@ -6,7 +6,7 @@
  * time complexity : O(log_10(N))
  * space complexity : O(1)
  */
-export function isPalindromeIntegerNumber (x) {
+export function isPalindromeIntegerNumber(x) {
   if (typeof x !== 'number') {
     throw new TypeError('Input must be a integer number')
   }

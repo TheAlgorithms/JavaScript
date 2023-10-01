@@ -15,11 +15,13 @@
  */
 const memoize = (func, cache = new Map()) => {
   const jsonReplacer = (_, value) => {
-    if (value instanceof Set) { // if the value is Set it's converted to Array cause JSON.stringify can't convert Set
+    if (value instanceof Set) {
+      // if the value is Set it's converted to Array cause JSON.stringify can't convert Set
       return [...value]
     }
 
-    if (value instanceof Map) { // if the value is Map it's converted to Object cause JSON.stringify can't convert Map
+    if (value instanceof Map) {
+      // if the value is Map it's converted to Object cause JSON.stringify can't convert Map
       return Object.fromEntries(value)
     }
 

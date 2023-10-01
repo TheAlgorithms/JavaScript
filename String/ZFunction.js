@@ -8,7 +8,7 @@
  * @return {Array} Returns an array whose i-th index is the value of Z Function for text at index i
  */
 
-function zFunction (text) {
+function zFunction(text) {
   const length = text.length
   const zArray = Array(length).fill(0)
   // Initializing left and right variable to zero
@@ -22,10 +22,7 @@ function zFunction (text) {
     }
 
     // After zArray[index] is initialized, we see if we can increase its value by trivially comparing character by character
-    while (
-      index + zArray[index] < length &&
-      text[zArray[index]] === text[index + zArray[index]]
-    ) {
+    while (index + zArray[index] < length && text[zArray[index]] === text[index + zArray[index]]) {
       zArray[index]++
     }
 

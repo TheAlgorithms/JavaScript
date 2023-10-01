@@ -5,7 +5,7 @@
  * @param {string} b64 A base64 string
  * @returns {ArrayBuffer} An ArrayBuffer representing the bytes encoded by the base64 string
  */
-function base64ToBuffer (b64) {
+function base64ToBuffer(b64) {
   // The base64 encoding uses the following set of characters to encode any binary data as text
   const base64Table = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/'
   // Find the index of char '=' first occurrence

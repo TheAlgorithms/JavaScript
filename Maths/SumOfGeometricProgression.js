@@ -16,7 +16,7 @@
  * @param {Number} commonRatio The common ratio of the geometric progression
  * @param {Number} numOfTerms The number of terms in the progression
  */
-function sumOfGeometricProgression (firstTerm, commonRatio, numOfTerms) {
+function sumOfGeometricProgression(firstTerm, commonRatio, numOfTerms) {
   if (!Number.isFinite(numOfTerms)) {
     /*
       If the number of Terms is Infinity, the common ratio needs to be less than 1 to be a convergent geometric progression

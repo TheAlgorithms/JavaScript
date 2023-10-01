@@ -25,7 +25,7 @@ Reference:
  * @param dest Destination node
  * @returns Shortest distance from source to destination
  */
-function BellmanFord (graph, V, E, src, dest) {
+function BellmanFord(graph, V, E, src, dest) {
   // Initialize distance of all vertices as infinite.
   const dis = Array(V).fill(Infinity)
   // initialize distance of source as 0
@@ -36,7 +36,9 @@ function BellmanFord (graph, V, E, src, dest) {
   // vertex can have at-most |V| - 1 edges
   for (let i = 0; i < V - 1; i++) {
     for (let j = 0; j < E; j++) {
-      if ((dis[graph[j][0]] + graph[j][2]) < dis[graph[j][1]]) { dis[graph[j][1]] = dis[graph[j][0]] + graph[j][2] }
+      if (dis[graph[j][0]] + graph[j][2] < dis[graph[j][1]]) {
+        dis[graph[j][1]] = dis[graph[j][0]] + graph[j][2]
+      }
     }
   }
   // check for negative-weight cycles.
@@ -44,7 +46,7 @@ function BellmanFord (graph, V, E, src, dest) {
     const x = graph[i][0]
     const y = graph[i][1]
     const weight = graph[i][2]
-    if ((dis[x] !== Infinity) && (dis[x] + weight < dis[y])) {
+    if (dis[x] !== Infinity && dis[x] + weight < dis[y]) {
       return null
     }
   }

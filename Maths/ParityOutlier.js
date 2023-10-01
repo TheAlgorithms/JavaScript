@@ -12,13 +12,16 @@ const parityOutlier = (integers) => {
   let odd, even
 
   for (const e of integers) {
-    if (!Number.isInteger(e)) { // detect non-integer elements
+    if (!Number.isInteger(e)) {
+      // detect non-integer elements
       return null
     }
-    if (e % 2 === 0) { // an even number
+    if (e % 2 === 0) {
+      // an even number
       even = e
       evensCount++
-    } else { // an odd number
+    } else {
+      // an odd number
       odd = e
       oddsCount++
     }

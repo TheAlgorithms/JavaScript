@@ -1,6 +1,6 @@
 import { upperCaseConversion } from '../UpperCaseConversion'
 
-describe(('Test the upperCaseConversion function'), () => {
+describe('Test the upperCaseConversion function', () => {
   it('should return an empty string when the input is an empty string', () => {
     expect(upperCaseConversion('')).toEqual('')
   })

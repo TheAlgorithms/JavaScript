@@ -43,10 +43,10 @@ const validateCreditCard = (creditCardString) => {
     throw new TypeError(errorMessage + 'it has nonnumerical characters.')
   }
   const creditCardStringLength = creditCardString.length
-  if (!((creditCardStringLength >= 13) && (creditCardStringLength <= 16))) {
+  if (!(creditCardStringLength >= 13 && creditCardStringLength <= 16)) {
     throw new Error(errorMessage + 'of its length.')
   }
-  if (!validStartSubString.some(subString => creditCardString.startsWith(subString))) {
+  if (!validStartSubString.some((subString) => creditCardString.startsWith(subString))) {
     throw new Error(errorMessage + 'of its first two digits.')
   }
   if (!luhnValidation(creditCardString)) {

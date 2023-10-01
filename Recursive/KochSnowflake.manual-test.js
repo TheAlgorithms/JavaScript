@@ -7,7 +7,7 @@ import { Vector2, iterate } from './KochSnowflake'
  * @param steps The number of iterations.
  * @returns The canvas of the rendered Koch snowflake.
  */
-function getKochSnowflake (canvasWidth = 600, steps = 5) {
+function getKochSnowflake(canvasWidth = 600, steps = 5) {
   if (canvasWidth <= 0) {
     throw new Error('canvasWidth should be greater than zero')
   }
@@ -34,7 +34,7 @@ function getKochSnowflake (canvasWidth = 600, steps = 5) {
  * @param canvasHeight The height of the canvas.
  * @returns The canvas of the rendered edges.
  */
-function drawToCanvas (vectors, canvasWidth, canvasHeight) {
+function drawToCanvas(vectors, canvasWidth, canvasHeight) {
   const canvas = document.createElement('canvas')
   canvas.width = canvasWidth
   canvas.height = canvasHeight

@@ -1,7 +1,11 @@
 import { countNumberWordLength } from '../Problem017.js'
 
 describe('Number letter count', () => {
-  test.each([[5, 19], [100, 864], [1000, 21124]])('Number letter count from 1 to %i', (n, expected) => {
+  test.each([
+    [5, 19],
+    [100, 864],
+    [1000, 21124]
+  ])('Number letter count from 1 to %i', (n, expected) => {
     expect(countNumberWordLength(n)).toBe(expected)
   })
 

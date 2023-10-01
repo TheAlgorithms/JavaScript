@@ -45,13 +45,7 @@ const sumOfSubset = (set, subset, setindex, sum, targetSum) => {
     const nextSum = sum + num
 
     // Call recursively the sumOfSubset for the nextSubset
-    const subsetResult = sumOfSubset(
-      set,
-      nextSubset,
-      nextSetIndex,
-      nextSum,
-      targetSum
-    )
+    const subsetResult = sumOfSubset(set, nextSubset, nextSetIndex, nextSum, targetSum)
 
     // Concat the recursive result with current result array
     results = [...results, ...subsetResult]

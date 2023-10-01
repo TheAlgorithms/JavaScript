@@ -6,7 +6,7 @@ const largestAdjacentNumber = (grid, consecutive) => {
   let largestProd = 0
 
   for (const row in splitGrid) {
-    const currentRow = splitGrid[row].split('').map(x => Number(x))
+    const currentRow = splitGrid[row].split('').map((x) => Number(x))
 
     for (let i = 0; i < currentRow.length - consecutive; i++) {
       const combine = currentRow.slice(i, i + consecutive)

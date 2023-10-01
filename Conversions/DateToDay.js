@@ -53,7 +53,14 @@ const DateToDay = (date) => {
   Without the adaption, the formula yields `weekDay = -6` for the date 2/3/2014;
   With the adaption, it yields the positive result `weekDay = 7 - 6 = 1` (Sunday), which is what we need to index the array
   */
-  const weekDay = (day + Math.floor((month + 1) * 2.6) + yearDigits + Math.floor(yearDigits / 4) + Math.floor(century / 4) + 5 * century) % 7
+  const weekDay =
+    (day +
+      Math.floor((month + 1) * 2.6) +
+      yearDigits +
+      Math.floor(yearDigits / 4) +
+      Math.floor(century / 4) +
+      5 * century) %
+    7
   return daysNameArr[weekDay] // name of the weekday
 }
 

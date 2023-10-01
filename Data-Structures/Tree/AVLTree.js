@@ -13,9 +13,9 @@
  * RETURN > 0 if a > b
  * MUST RETURN 0 if a == b
  */
-let utils;
-(function (_utils) {
-  function comparator () {
+let utils
+;(function (_utils) {
+  function comparator() {
     return function (v1, v2) {
       if (v1 < v2) return -1
       if (v2 < v1) return 1
@@ -32,7 +32,7 @@ let utils;
  * If no argument is sent it uses utils.comparator
  */
 const AVLTree = (function () {
-  function _avl (comp) {
+  function _avl(comp) {
     /** @public comparator function */
     this._comp = undefined
     this._comp = comp !== undefined ? comp : utils.comparator()
@@ -53,7 +53,9 @@ const AVLTree = (function () {
 
   // get height of a node
   const getHeight = function (node) {
-    if (node == null) { return 0 }
+    if (node == null) {
+      return 0
+    }
     return node._height
   }
 
@@ -64,7 +66,9 @@ const AVLTree = (function () {
 
   // update height of a node based on children's heights
   const updateHeight = function (node) {
-    if (node == null) { return }
+    if (node == null) {
+      return
+    }
     node._height = Math.max(getHeight(node._left), getHeight(node._right)) + 1
   }
 
@@ -145,8 +149,11 @@ const AVLTree = (function () {
 
   // delete am element
   const deleteElement = function (root, _val, tree) {
-    if (root == null) { return root }
-    if (tree._comp(root._val, _val) === 0) { // key found case
+    if (root == null) {
+      return root
+    }
+    if (tree._comp(root._val, _val) === 0) {
+      // key found case
       if (root._left === null && root._right === null) {
         root = null
         tree.size--
@@ -177,7 +184,9 @@ const AVLTree = (function () {
   }
   // search tree for a element
   const searchAVLTree = function (root, val, tree) {
-    if (root == null) { return null }
+    if (root == null) {
+      return null
+    }
     if (tree._comp(root._val, val) === 0) {
       return root
     }
@@ -222,7 +231,7 @@ const AVLTree = (function () {
     return prevSize !== this.size
   }
   return _avl
-}())
+})()
 
 /**
  * A Code for Testing the AVLTree

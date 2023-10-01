@@ -47,7 +47,7 @@ const findLcmWithHcf = (num1, num2) => {
     throw Error('Numbers must be whole.')
   }
 
-  return num1 * num2 / findHCF(num1, num2)
+  return (num1 * num2) / findHCF(num1, num2)
 }
 
 export { findLcm, findLcmWithHcf }

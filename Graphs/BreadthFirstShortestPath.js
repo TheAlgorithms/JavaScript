@@ -8,7 +8,7 @@ import Queue from '../Data-Structures/Queue/Queue'
  * @see https://en.wikipedia.org/wiki/Breadth-first_search
  * @see https://www.koderdojo.com/blog/breadth-first-search-and-shortest-path-in-csharp-and-net-core
  */
-export function breadthFirstShortestPath (graph, startNode, targetNode) {
+export function breadthFirstShortestPath(graph, startNode, targetNode) {
   // check if startNode & targetNode are identical
   if (startNode === targetNode) {
     return [startNode]

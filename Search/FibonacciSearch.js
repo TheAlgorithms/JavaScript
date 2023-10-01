@@ -57,7 +57,7 @@ export const fibonacciSearch = (arr, x, n) => {
       fib1 = fib1 - fib2
       fib2 = fibK - fib1
     } else {
-    //  return index for found element
+      //  return index for found element
       return i
     }
   }

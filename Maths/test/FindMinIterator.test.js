@@ -20,12 +20,13 @@ describe('FindMinIterator', () => {
   })
 
   test('given empty generator then min is undefined', () => {
-    const src = function* () { } // eslint-disable-line
+    const src = function* () {} // eslint-disable-line
     expect(FindMinIterator(src())).toBeUndefined()
   })
 
   test('given generator then min is found', () => {
-    const src = function* () { // eslint-disable-line
+    const src = function* () {
+      // eslint-disable-line
       yield 1
       yield -1
       yield 0
@@ -34,12 +35,13 @@ describe('FindMinIterator', () => {
   })
 
   test('given string generator then min string length is found', () => {
-    const src = function* () { // eslint-disable-line
+    const src = function* () {
+      // eslint-disable-line
       yield 'abc'
       yield 'de'
       yield 'qwerty'
     }
-    expect(FindMinIterator(src(), _x => _x.length)).toBe(2)
+    expect(FindMinIterator(src(), (_x) => _x.length)).toBe(2)
   })
 
   test('given array of objects then min accessor is found', () => {
@@ -48,7 +50,7 @@ describe('FindMinIterator', () => {
       { name: 'Item #2', price: 0.0 },
       { name: 'Item #3', price: -1.0 }
     ]
-    expect(FindMinIterator(array, _x => _x.price)).toBe(-1)
-    expect(FindMinIterator(array, _x => _x.name)).toBe('Item #1')
+    expect(FindMinIterator(array, (_x) => _x.price)).toBe(-1)
+    expect(FindMinIterator(array, (_x) => _x.name)).toBe('Item #1')
   })
 })

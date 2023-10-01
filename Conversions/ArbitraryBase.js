@@ -1,9 +1,9 @@
 /**
-* Divide two numbers and get the result of floor division and remainder
-* @param {number} dividend
-* @param {number} divisor
-* @returns {[result: number, remainder: number]}
-*/
+ * Divide two numbers and get the result of floor division and remainder
+ * @param {number} dividend
+ * @param {number} divisor
+ * @returns {[result: number, remainder: number]}
+ */
 const floorDiv = (dividend, divisor) => {
   const remainder = dividend % divisor
   const result = Math.floor(dividend / divisor)
@@ -12,14 +12,18 @@ const floorDiv = (dividend, divisor) => {
 }
 
 /**
-* Converts a string from one base to other. Loses accuracy above the value of `Number.MAX_SAFE_INTEGER`.
-* @param {string} stringInBaseOne String in input base
-* @param {string} baseOneCharacters Character set for the input base
-* @param {string} baseTwoCharacters Character set for the output base
-* @returns {string}
-*/
+ * Converts a string from one base to other. Loses accuracy above the value of `Number.MAX_SAFE_INTEGER`.
+ * @param {string} stringInBaseOne String in input base
+ * @param {string} baseOneCharacters Character set for the input base
+ * @param {string} baseTwoCharacters Character set for the output base
+ * @returns {string}
+ */
 const convertArbitraryBase = (stringInBaseOne, baseOneCharacterString, baseTwoCharacterString) => {
-  if ([stringInBaseOne, baseOneCharacterString, baseTwoCharacterString].map(arg => typeof arg).some(type => type !== 'string')) {
+  if (
+    [stringInBaseOne, baseOneCharacterString, baseTwoCharacterString]
+      .map((arg) => typeof arg)
+      .some((type) => type !== 'string')
+  ) {
     throw new TypeError('Only string arguments are allowed')
   }
 
@@ -40,7 +44,7 @@ const convertArbitraryBase = (stringInBaseOne, baseOneCharacterString, baseTwoCh
     if (digitNumber === -1) {
       throw new TypeError(`Not a valid character: ${digit}`)
     }
-    value += (digitNumber * placeValue)
+    value += digitNumber * placeValue
     placeValue *= stringOneBase
   }
   const outputChars = []
@@ -54,14 +58,18 @@ const convertArbitraryBase = (stringInBaseOne, baseOneCharacterString, baseTwoCh
 }
 
 /**
-* Converts a arbitrary-length string from one base to other. Doesn't lose accuracy.
-* @param {string} stringInBaseOne String in input base
-* @param {string} baseOneCharacters Character set for the input base
-* @param {string} baseTwoCharacters Character set for the output base
-* @returns {string}
-*/
+ * Converts a arbitrary-length string from one base to other. Doesn't lose accuracy.
+ * @param {string} stringInBaseOne String in input base
+ * @param {string} baseOneCharacters Character set for the input base
+ * @param {string} baseTwoCharacters Character set for the output base
+ * @returns {string}
+ */
 const convertArbitraryBaseBigIntVersion = (stringInBaseOne, baseOneCharacterString, baseTwoCharacterString) => {
-  if ([stringInBaseOne, baseOneCharacterString, baseTwoCharacterString].map(arg => typeof arg).some(type => type !== 'string')) {
+  if (
+    [stringInBaseOne, baseOneCharacterString, baseTwoCharacterString]
+      .map((arg) => typeof arg)
+      .some((type) => type !== 'string')
+  ) {
     throw new TypeError('Only string arguments are allowed')
   }
 
@@ -82,7 +90,7 @@ const convertArbitraryBaseBigIntVersion = (stringInBaseOne, baseOneCharacterStri
     if (digitNumber === -1n) {
       throw new TypeError(`Not a valid character: ${digit}`)
     }
-    value += (digitNumber * placeValue)
+    value += digitNumber * placeValue
     placeValue *= stringOneBase
   }
   const outputChars = []

@@ -7,7 +7,9 @@ describe('Testing morse function', () => {
   })
 
   it('should leave symbols that does not have its corresponding morse representation', () => {
-    expect(morse('© 2023 GitHub, Inc.')).toBe('©   **--- ----- **--- ***--   --* ** - **** **- -*** --**--   ** -* -*-* *-*-*-')
+    expect(morse('© 2023 GitHub, Inc.')).toBe(
+      '©   **--- ----- **--- ***--   --* ** - **** **- -*** --**--   ** -* -*-* *-*-*-'
+    )
   })
 
   it('should be able to accept custom morse code symbols', () => {

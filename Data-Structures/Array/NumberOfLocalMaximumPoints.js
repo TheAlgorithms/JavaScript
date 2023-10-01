@@ -33,8 +33,9 @@ const CountLocalMaximumPoints = (array, startIndex, endIndex) => {
 
   // handle the two halves
   const middleIndex = parseInt((startIndex + endIndex) / 2)
-  return CountLocalMaximumPoints(array, startIndex, middleIndex) +
-    CountLocalMaximumPoints(array, middleIndex + 1, endIndex)
+  return (
+    CountLocalMaximumPoints(array, startIndex, middleIndex) + CountLocalMaximumPoints(array, middleIndex + 1, endIndex)
+  )
 }
 
 const NumberOfLocalMaximumPoints = (A) => CountLocalMaximumPoints(A, 0, A.length - 1)

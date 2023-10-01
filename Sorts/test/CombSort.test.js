@@ -51,7 +51,7 @@ describe('combSort function', () => {
     })
 
     it('should correctly sort an input list that contains only a mix of whole and decimal', () => {
-      expect(combSort([32.40, 12.42, 56, 45, 12, 3])).toEqual([3, 12, 12.42, 32.40, 45, 56])
+      expect(combSort([32.4, 12.42, 56, 45, 12, 3])).toEqual([3, 12, 12.42, 32.4, 45, 56])
     })
 
     it('should correctly sort an input list that contains only fractional numbers', () => {

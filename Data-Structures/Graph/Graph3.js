@@ -1,27 +1,23 @@
 class Graph {
-  constructor () {
+  constructor() {
     this.adjacencyObject = {}
   }
 
-  addVertex (vertex) {
+  addVertex(vertex) {
     if (!this.adjacencyObject[vertex]) this.adjacencyObject[vertex] = []
   }
 
-  addEdge (vertex1, vertex2) {
+  addEdge(vertex1, vertex2) {
     this.adjacencyObject[vertex1].push(vertex2)
     this.adjacencyObject[vertex2].push(vertex1)
   }
 
-  removeEdge (vertex1, vertex2) {
-    this.adjacencyObject[vertex1] = this.adjacencyObject[vertex1].filter(
-      (v) => v !== vertex2
-    )
-    this.adjacencyObject[vertex2] = this.adjacencyObject[vertex2].filter(
-      (v) => v !== vertex1
-    )
+  removeEdge(vertex1, vertex2) {
+    this.adjacencyObject[vertex1] = this.adjacencyObject[vertex1].filter((v) => v !== vertex2)
+    this.adjacencyObject[vertex2] = this.adjacencyObject[vertex2].filter((v) => v !== vertex1)
   }
 
-  removeVertex (vertex) {
+  removeVertex(vertex) {
     while (this.adjacencyObject[vertex].length) {
       const adjacentVertex = this.adjacencyObject[vertex].pop()
       this.removeEdge(vertex, adjacentVertex)
@@ -31,14 +27,14 @@ class Graph {
   /**
    * Return DFS (Depth First Search) List Using Recursive Method
    */
-  DFS (start) {
+  DFS(start) {
     if (!start) return null
 
     const result = []
     const visited = {}
     const adjacencyObject = this.adjacencyObject
 
-    function dfs (vertex) {
+    function dfs(vertex) {
       if (!vertex) return null
       visited[vertex] = true
       result.push(vertex)
@@ -56,7 +52,7 @@ class Graph {
   /**
    * Return DFS(Depth First Search) List Using Iteration
    */
-  DFSIterative (start) {
+  DFSIterative(start) {
     if (!start) return null
 
     const stack = [start]
@@ -80,7 +76,7 @@ class Graph {
     return result
   }
 
-  BFS (start) {
+  BFS(start) {
     if (!start) return null
 
     const queue = [start]

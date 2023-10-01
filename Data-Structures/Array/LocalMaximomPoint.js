@@ -14,14 +14,16 @@ const findMaxPointIndex = (array, rangeStartIndex, rangeEndIndex, originalLength
   const middleIndex = rangeStartIndex + parseInt((rangeEndIndex - rangeStartIndex) / 2)
 
   // handle array bounds
-  if ((middleIndex === 0 || array[middleIndex - 1] <= array[middleIndex]) &&
-        (middleIndex === originalLength - 1 || array[middleIndex + 1] <= array[middleIndex])) {
+  if (
+    (middleIndex === 0 || array[middleIndex - 1] <= array[middleIndex]) &&
+    (middleIndex === originalLength - 1 || array[middleIndex + 1] <= array[middleIndex])
+  ) {
     return middleIndex
   } else if (middleIndex > 0 && array[middleIndex - 1] > array[middleIndex]) {
-    return findMaxPointIndex(array, rangeStartIndex, (middleIndex - 1), originalLength)
+    return findMaxPointIndex(array, rangeStartIndex, middleIndex - 1, originalLength)
   } else {
     // regular local max
-    return findMaxPointIndex(array, (middleIndex + 1), rangeEndIndex, originalLength)
+    return findMaxPointIndex(array, middleIndex + 1, rangeEndIndex, originalLength)
   }
 }
 
