@@ -29,3 +29,7 @@ target
 out
 out
 gen
+
+#MISC
+ .env
+ hacktoberfest23.MD
