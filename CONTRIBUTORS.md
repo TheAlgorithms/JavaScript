@@ -14,6 +14,8 @@
 
 - [@innovinitylabs](https://github.com/innovinitylabs)
 
+- [@deepak](https://github.com/deepak)
+
 - [@manjillama](https://github.com/manjillama)
 
 - [@Jeet-Debnath](https://github.com/jxxt)
