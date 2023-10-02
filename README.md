@@ -60,3 +60,9 @@ many of the algorithms can be found in the [wiki][explanation].
 <a href = "https://github.com/TheAlgorithms/JavaScript/graphs/contributors">
   <img src = "https://contrib.rocks/image?repo=TheAlgorithms/JavaScript"/>
 </a>
+
+<div align="center">
+
+[Scroll Up ⬆️](#)
+
+</div>
