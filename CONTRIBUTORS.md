@@ -3330,6 +3330,8 @@
 
 - [@Jippy89](https://github.com/jippy89)
 
+- [@TheDataDudeDE](https://github.com/TheDataDudeDE)
+
 - [@Jirasaki](https://github.com/Jira-saki/)
 
 - [@Jisanmia](https://github.com/Jisan-mia)
