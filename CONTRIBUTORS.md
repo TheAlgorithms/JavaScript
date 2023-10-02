@@ -52,6 +52,8 @@
 
 - [@Afreenhussain](https://github.com/Afreen02)
 
+- [@LucasAlmeida-jpg](https://github.com/LucasAlmeida-jpg)
+
 - [@Aisafaith](https://github.com/aisafaith)
 
 - [@berengueradrian](https://github.com/berengueradrian)
