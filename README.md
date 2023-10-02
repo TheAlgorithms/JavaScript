@@ -1,3 +1,4 @@
+<a name="top"></a>
 # The Algorithms - JavaScript
 
 <!-- Front Matter -->
@@ -46,6 +47,7 @@ many of the algorithms can be found in the [wiki][explanation].
 [chat]: https://img.shields.io/discord/808045925556682782.svg?logo=discord&colorB=7289DA
 [welcome]: https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3
 [checks]: https://img.shields.io/github/actions/workflow/status/TheAlgorithms/JavaScript/Ci.yml?branch=master&label=checks
+[back-to-top]: https://img.shields.io/badge/Back%20to%20Top-↑-blue
 
 <!-- External Links -->
 [standard-js]: https://standardjs.com/
@@ -60,3 +62,11 @@ many of the algorithms can be found in the [wiki][explanation].
 <a href = "https://github.com/TheAlgorithms/JavaScript/graphs/contributors">
   <img src = "https://contrib.rocks/image?repo=TheAlgorithms/JavaScript"/>
 </a>
+
+---
+
+<div align="center">
+
+[![back-to-top]](#top)
+
+</div>
