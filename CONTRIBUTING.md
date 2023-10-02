@@ -132,17 +132,12 @@ This will run all tests and watch source and test files for changes. When a chan
 
 #### Coding Style
 
-To maximize the readability and correctness of our code, we require that new submissions follow the
-[JavaScript Standard Style](https://standardjs.com/).
-
-Before committing, please run:
+For consistency and readability, we require that new submissions follow the [Prettier Style](https://prettier.io/).
+Before committing, please format your code automatically using Prettier by running the following command:
 
 ```bash
 npm run style
 ```
-
-In order to apply the coding style (where it can be done automatically). If an error is shown, please figure out what's
-wrong, fix it and run standard again.
 
 A few (but not all) of the things to keep in mind:
 
