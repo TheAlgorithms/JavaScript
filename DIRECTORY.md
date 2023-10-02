@@ -9,10 +9,12 @@
   * [SumOfSubset](Backtracking/SumOfSubset.js)
 * **Bit-Manipulation**
   * [BinaryCountSetBits](Bit-Manipulation/BinaryCountSetBits.js)
+  * [IsPowerofFour](Bit-Manipulation/IsPowerofFour.js)
   * [IsPowerOfTwo](Bit-Manipulation/IsPowerOfTwo.js)
   * [LogTwo](Bit-Manipulation/LogTwo.js)
   * [NextPowerOfTwo](Bit-Manipulation/NextPowerOfTwo.js)
   * [SetBit](Bit-Manipulation/SetBit.js)
+  * [UniqueElementInAnArray](Bit-Manipulation/UniqueElementInAnArray.js)
 * **Cache**
   * [LFUCache](Cache/LFUCache.js)
   * [LRUCache](Cache/LRUCache.js)
@@ -270,6 +272,7 @@
   * [Problem017](Project-Euler/Problem017.js)
   * [Problem018](Project-Euler/Problem018.js)
   * [Problem020](Project-Euler/Problem020.js)
+  * [Problem021](Project-Euler/Problem021.js)
   * [Problem023](Project-Euler/Problem023.js)
   * [Problem025](Project-Euler/Problem025.js)
   * [Problem028](Project-Euler/Problem028.js)
