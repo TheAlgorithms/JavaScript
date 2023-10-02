@@ -11,6 +11,8 @@
 - [@0Samamirza](https://github.com/0sama-Mirza)
 
 - [@11Aghayan](https://github.com/11aghayan)
+  
+- [@Nivedita021](https://github.com/Nivedita021)
 
 - [@innovinitylabs](https://github.com/innovinitylabs)
 
@@ -85,6 +87,8 @@
 - [@Alindabyamukama](https://github.com/alindaByamukama)
 
 - [@Alistairwilson22](https://github.com/alistairwilson22)
+
+- [@Aniketkhalate](https://github.com/Aniketkhalate)
 
 - [@Alleksb](https://github.com/AlleksB)
 
@@ -3329,6 +3333,8 @@
 - [@Jinyoung5497](https://github.com/jinyoung5497/)
 
 - [@Jippy89](https://github.com/jippy89)
+
+- [@TheDataDudeDE](https://github.com/TheDataDudeDE)
 
 - [@Jirasaki](https://github.com/Jira-saki/)
 
@@ -7013,6 +7019,8 @@
 
 - [@Santoshsingh](https://github.com/superssingh)
 
+- [@Sanusisusi](https://github.com/sanusisusi)
+
 - [@Sanyamvatta](https://github.com/sanyamvatta)
 
 - [@Sapphireyed](https://github.com/Sapphireyed)
@@ -9089,6 +9097,8 @@
 
 - [@Arraj2611](https://github.com/Arraj2611)
 
+- [@LujiAnna](https://github.com/LujiAnna)
+
 - [@liamhackett](https://github.com/liamhackett)
 
 - [@yellmass](https://github.com/yellmass)
@@ -9124,6 +9134,8 @@
 - [@ashokak47](https://github.com/ashokak47/)
 
 - [@devanshi00](https://github.com/devanshi00/)
+
+-[@Myk-benot](https://github.com/Myk-benot)
 
 - [@SavvasAvi](https://github.com/SavvasAvi/)
 
@@ -9251,9 +9263,12 @@
 
 -[@edurzss](https://github.com/edurzss)
 
+-[@umair986](https://github.com/umair986)
+
 -[@williamstophef](https://github.com/williamstophef)
 
 -[@lucifer510](https://github.com/lucifer510)
 
 -[@SsejjengoEdward8576](https://github.com/SsejjengoEdward8576/)
 
+- [@Dhanveeryadav](https://github.com/Dhanveeryadav)
