@@ -88,6 +88,8 @@
 
 - [@Alistairwilson22](https://github.com/alistairwilson22)
 
+- [@Aniketkhalate](https://github.com/Aniketkhalate)
+
 - [@Alleksb](https://github.com/AlleksB)
 
 - [@Ashishpro](https://github.com/ashish-pro)
