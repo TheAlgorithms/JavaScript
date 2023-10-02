@@ -17,14 +17,14 @@ function ReverseStringIterative(string) {
 
 /**
  *
-* @author dev-madhurendra
-* Reverses a number by converting it to a string.
-*
-* @param {string} str - The number to reverse.
-* @returns {string} The reversed number.
-*
-* @example
-* const reversed = reverseString("hello"); // Returns olleh
+ * @author dev-madhurendra
+ * Reverses a number by converting it to a string.
+ *
+ * @param {string} str - The number to reverse.
+ * @returns {string} The reversed number.
+ *
+ * @example
+ * const reversed = reverseString("hello"); // Returns olleh
  */
 
 const ReverseStringIterativeInplace = (str) => [...str].reverse().join('')
