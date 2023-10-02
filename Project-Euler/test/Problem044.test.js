@@ -12,8 +12,8 @@ describe('checking nth prime number', () => {
     expect(problem44(1)).toBe(5482660)
   })
   // Project Euler Second Value for Condition Check
-  // FIXME skip this test for now because it runs very long and clogs up the CI & pre-commit hook
-  test('if the number is greater or equal to 2167', () => {
+  // Skipping this by default as it makes CI runs take way too long
+  test.skip('if the number is greater or equal to 2167', () => {
     expect(problem44(2167)).toBe(8476206790)
   })
 })
