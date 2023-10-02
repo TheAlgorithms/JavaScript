@@ -1,3 +1,5 @@
+<a name="top"></a>
+
 * **Backtracking**
   * [AllCombinationsOfSizeK](Backtracking/AllCombinationsOfSizeK.js)
   * [generateParentheses](Backtracking/generateParentheses.js)
@@ -381,3 +383,17 @@
   * [BreadthFirstTreeTraversal](Trees/BreadthFirstTreeTraversal.js)
   * [DepthFirstSearch](Trees/DepthFirstSearch.js)
   * [FenwickTree](Trees/FenwickTree.js)
+
+<div style="
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  padding: 15px;"
+>
+
+  [![back-to-top]](#top)
+
+</div>
+
+<!-- Badge Links -->
+[back-to-top]: https://img.shields.io/badge/Back%20to%20Top-↑-blue
