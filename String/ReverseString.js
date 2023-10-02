@@ -36,4 +36,18 @@ function ReverseStringIterativeInplace (string) {
   return _string.join('')
 }
 
-export { ReverseStringIterative, ReverseStringIterativeInplace }
+/**
+ * @author dev-madhurendra
+ * Reverses a number by converting it to a string.
+ *
+ * @param {string} str - The number to reverse.
+ * @returns {string} The reversed number.
+ *
+ * @example
+ * const reversed = reverseString("hello"); // Returns olleh
+ */
+
+const reverseString = (str) => str.split('').reverse().join('')
+
+
+export { ReverseStringIterative, ReverseStringIterativeInplace, reverseString }

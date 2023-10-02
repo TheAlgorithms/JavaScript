@@ -1,4 +1,4 @@
-import { ReverseStringIterative, ReverseStringIterativeInplace } from '../ReverseString'
+import { ReverseStringIterative, ReverseStringIterativeInplace, reverseString } from '../ReverseString'
 
 describe('ReverseStringIterative', () => {
   it('expects to reverse a simple string', () => {
@@ -62,4 +62,13 @@ describe('ReverseStringIterativeInplace', () => {
       expect(() => ReverseStringIterativeInplace(input)).toThrow('The given value is not a string')
     }
   )
+})
+
+describe('ReverseStringUsingFunction', () => { 
+  it.each([
+    ["hello", "olleh"],
+    ["word", "drow"],
+  ])('should reverse a positive number', (value, expected) => {
+    expect(reverseString(value)).toBe(expected)
+  })
 })
