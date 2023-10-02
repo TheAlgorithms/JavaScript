@@ -64,10 +64,10 @@ describe('ReverseStringIterativeInplace', () => {
   )
 })
 
-describe('ReverseStringUsingFunction', () => { 
+describe('ReverseStringUsingFunction', () => {
   it.each([
-    ["hello", "olleh"],
-    ["word", "drow"],
+    ['hello', 'olleh'],
+    ['word', 'drow']
   ])('should reverse a positive number', (value, expected) => {
     expect(reverseString(value)).toBe(expected)
   })

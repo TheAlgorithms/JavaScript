@@ -9,6 +9,4 @@ describe('ReverseNumber function', () => {
   ])('should reverse a positive number', (value, expected) => {
     expect(ReverseNumber(value)).toBe(expected)
   })
-
-
 })

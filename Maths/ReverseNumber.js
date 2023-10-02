@@ -26,5 +26,4 @@ const ReverseNumber = (number) => {
   return reverseNumber
 }
 
-
 export { ReverseNumber }
