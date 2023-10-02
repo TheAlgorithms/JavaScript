@@ -11,7 +11,6 @@
 - [@0Samamirza](https://github.com/0sama-Mirza)
 
 - [@11Aghayan](https://github.com/11aghayan)
-  
 - [@Nivedita021](https://github.com/Nivedita021)
 
 - [@innovinitylabs](https://github.com/innovinitylabs)
@@ -9188,6 +9187,8 @@
 - [@anu-techie](https://github.com/anu-techie)
 
 - [@mazorvion](https://github.com/mazorvion)
+
+- [@richardhartleydev](https://github.com/richardhartleydev)
 
 - [@Rongg5](https://github.com/Rongg5)
 
