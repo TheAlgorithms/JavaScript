@@ -9245,6 +9245,8 @@
 
 -[@Loukas4](https://github.com/Loukas4)
 
+-[@hanisntsolo](https://github.com/hanisntsolo)
+
 -[@Baku452](https://github.com/Baku452)
 
 -[@edurzss](https://github.com/edurzss)
@@ -9254,3 +9256,4 @@
 -[@lucifer510](https://github.com/lucifer510)
 
 -[@SsejjengoEdward8576](https://github.com/SsejjengoEdward8576/)
+
