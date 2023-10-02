@@ -10,15 +10,19 @@
  * @param 'ListNode' list2
  * @return 'ListNode'
  */
-const mergeTwoLists = function(list1, list2) {
-  let result = new ListNode()
+function ListNode (val, next) {
+  this.val = (val===undefined ? 0 : val)
+  this.next = (next===undefined ? null : next)
+}
+const mergeTwoLists = function (list1, list2) {
+  const result = new ListNode()
 
-  let vl1 = list1?.val
-  let vl2 = list2?.val
+  const vl1 = list1?.val
+  const vl2 = list2?.val
 
   if (vl1 === undefined && vl2 === undefined) return list1
 
-  function recursiveNode(node) {
+  function recursiveNode (node) {
     if (node.next) {
       return recursiveNode(node.next)
     }
@@ -28,10 +32,10 @@ const mergeTwoLists = function(list1, list2) {
   while(true) {
     if (!list1 && !list2) break
 
-    let v1 = (list1?.val ?? Infinity)
-    let v2 = (list2?.val ?? Infinity)
+    const v1 = (list1?.val ?? Infinity)
+    const v2 = (list2?.val ?? Infinity)
 
-    let deepNode = recursiveNode(result)
+    const deepNode = recursiveNode(result)
 
     if (v1 <= v2) {
       deepNode.val = v1
