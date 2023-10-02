@@ -12,7 +12,7 @@ describe('LengthOfLongestSubstring', () => {
     expect(lengthOfLongestSubstring('bbbbb')).toBe(1)
     expect(lengthOfLongestSubstring('pwwkew')).toBe(3)
     expect(lengthOfLongestSubstring(' ')).toBe(1)
-    expect(lengthOfLongestSubstring('abcdefghijklmnaaaaa')).toBe(13)
+    expect(lengthOfLongestSubstring('abcdefghijklmnaaaaa')).toBe(14)
   })
 
   it('should give zero for empty strings', () => {
@@ -20,7 +20,7 @@ describe('LengthOfLongestSubstring', () => {
   })
 
   it('should be case-sensitive', () => {
-    expect(lengthOfLongestSubstring('AaBbCc')).toBe(3)
+    expect(lengthOfLongestSubstring('AaBbCc')).toBe(6)
     expect(lengthOfLongestSubstring('AbCdEf')).toBe(6)
   })
 })
