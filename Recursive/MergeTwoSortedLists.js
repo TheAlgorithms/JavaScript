@@ -11,8 +11,8 @@
  * @return 'ListNode'
  */
 function ListNode (val, next) {
-  this.val = (val===undefined ? 0 : val)
-  this.next = (next===undefined ? null : next)
+  this.val = (val === undefined ? 0 : val)
+  this.next = (next === undefined ? null : next)
 }
 const mergeTwoLists = function (list1, list2) {
   const result = new ListNode()
@@ -29,7 +29,7 @@ const mergeTwoLists = function (list1, list2) {
     return node
   }
 
-  while(true) {
+  while (true) {
     if (!list1 && !list2) break
 
     const v1 = (list1?.val ?? Infinity)
