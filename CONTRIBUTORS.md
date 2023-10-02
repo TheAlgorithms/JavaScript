@@ -11,7 +11,6 @@
 - [@0Samamirza](https://github.com/0sama-Mirza)
 
 - [@11Aghayan](https://github.com/11aghayan)
-  
 - [@Nivedita021](https://github.com/Nivedita021)
 
 - [@innovinitylabs](https://github.com/innovinitylabs)
@@ -8376,6 +8375,8 @@
 - [@Venomoushamster](https://github.com/VenomousHamster)
 
 - [@Ventiphresh](https://github.com/Ventiphresh)
+
+- [@MishC](https://github.com/MishC)
 
 - [@Verdant](https://github.com/NVergil)
 
