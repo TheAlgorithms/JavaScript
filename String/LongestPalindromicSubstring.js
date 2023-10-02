@@ -6,8 +6,8 @@ const longestPalindrome = function (s) {
   let subStr = ""
   let subStrLen = 0
   
-  for (let i = 0 i < s.length i++) {
-    for (let j = 0 j <= 1 j++) {
+  for (let i = 0; i < s.length; i++) {
+    for (let j = 0; j <= 1; j++) {
       let left = i
       let right = i + j
   
