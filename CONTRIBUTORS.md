@@ -9190,6 +9190,8 @@
 
 - [@mazorvion](https://github.com/mazorvion)
 
+- [@richardhartleydev](https://github.com/richardhartleydev)
+
 - [@Rongg5](https://github.com/Rongg5)
 
 - [@YiTing623](https://github.com/YiTing623)
