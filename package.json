@@ -14,8 +14,7 @@
   "dependencies": {
     "@babel/core": "^7.19.3",
     "@babel/plugin-transform-runtime": "^7.19.1",
-    "@babel/preset-env": "^7.19.4",
-    "axios": "^1.5.1"
+    "@babel/preset-env": "^7.19.4"
   },
   "devDependencies": {
     "@babel/eslint-parser": "^7.19.1",
