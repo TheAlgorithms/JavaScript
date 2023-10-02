@@ -4,7 +4,7 @@
  * @returns {Number} The Length of the longest substring in a given string without repeating characters
  * @example lengthOfLongestSubstring("abcabcbb") => 3
  * @example lengthOfLongestSubstring("bbbbb") => 1
- * More Info: https://leetcode.com/problems/longest-substring-without-repeating-characters/
+ * @see https://leetcode.com/problems/longest-substring-without-repeating-characters/
  */
 
 const lengthOfLongestSubstring = (s) => {
