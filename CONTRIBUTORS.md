@@ -1,4 +1,4 @@
-# CONTRIBUTORS
+﻿# CONTRIBUTORS
 
 - [@albossmohammad83](https://github.com/albossmohammad83)
 
@@ -858,6 +858,8 @@
 - [@Cjusticeprime](https://github.com/justiceprime)
 
 - [@Cklf537](https://github.com/cklf537/)
+
+- [@SnowingThunder](https://github.com/SnowingThunder/)
 
 - [@Ckosa](https://github.com/ckosa)
 
