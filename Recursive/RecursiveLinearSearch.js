@@ -13,16 +13,16 @@
 function recursiveLinearSearch (arr, key, index = 0) {
   // Base case: If we have searched the entire array and haven't found the key, return -1.
   if (index === arr.length) {
-    return -1;;
+    return -1 ;;
   }
 
   // Base case: If the current element matches the key, return its index.
   if (arr[index] === key) {
-    return index;;
+    return index ;;
   }
 
   // Recursive case: Continue searching in the rest of the array.
-  return recursiveLinearSearch(arr, key, index + 1);;
+  return recursiveLinearSearch(arr, key, index + 1) ;;
 }
 
-export { recursiveLinearSearch };;
+export { recursiveLinearSearch } ;;
