@@ -25,6 +25,7 @@
 * **Ciphers**
   * [AffineCipher](Ciphers/AffineCipher.js)
   * [Atbash](Ciphers/Atbash.js)
+  * [BaconianCipher](Ciphers/BaconianCipher.js)
   * [CaesarCipher](Ciphers/CaesarCipher.js)
   * [KeyFinder](Ciphers/KeyFinder.js)
   * [KeywordShiftedAlphabet](Ciphers/KeywordShiftedAlphabet.js)
@@ -47,6 +48,7 @@
   * [HexToBinary](Conversions/HexToBinary.js)
   * [HexToDecimal](Conversions/HexToDecimal.js)
   * [HexToRGB](Conversions/HexToRGB.js)
+  * [LengthConversion](Conversions/LengthConversion.js)
   * [LitersToImperialGallons](Conversions/LitersToImperialGallons.js)
   * [LitersToUSGallons](Conversions/LitersToUSGallons.js)
   * [LowerCaseConversion](Conversions/LowerCaseConversion.js)
@@ -233,6 +235,7 @@
   * [PowLogarithmic](Maths/PowLogarithmic.js)
   * [PrimeCheck](Maths/PrimeCheck.js)
   * [PrimeFactors](Maths/PrimeFactors.js)
+  * [QuadraticRoots](Maths/QuadraticRoots.js)
   * [RadianToDegree](Maths/RadianToDegree.js)
   * [ReverseNumber](Maths/ReverseNumber.js)
   * [ReversePolishNotation](Maths/ReversePolishNotation.js)
