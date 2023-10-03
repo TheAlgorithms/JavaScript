@@ -1,7 +1,11 @@
 // Explanation:- https://www.javatpoint.com/circular-doubly-linked-list
 
 class Node {
-  constructor (element) {
+  /**
+   * Creates a new Node with the given element.
+   * @param {*} element - The element to be stored in the node.
+   */
+  constructor(element) {
     this.element = element
     this.next = null
     this.prev = null
@@ -9,14 +13,20 @@ class Node {
 }
 
 class CircularDoublyLinkedList {
-  constructor () {
+  /**
+   * Creates an empty Circular Doubly Linked List.
+   */
+  constructor() {
     this.length = 0
     this.head = null
     this.tail = null
   }
 
-  // Add new element
-  append (element) {
+  /**
+   * Appends an element to the end of the list.
+   * @param {*} element - The element to be appended.
+   */
+  append(element) {
     const node = new Node(element)
 
     if (!this.head) {
@@ -35,8 +45,13 @@ class CircularDoublyLinkedList {
     this.length++
   }
 
-  // Insert element at a specific position
-  insert (position, element) {
+  /**
+   * Inserts an element at the specified position in the list.
+   * @param {number} position - The position at which to insert the element.
+   * @param {*} element - The element to be inserted.
+   * @returns {boolean} - True if the insertion was successful, false otherwise.
+   */
+  insert(position, element) {
     if (position >= 0 && position <= this.length) {
       const node = new Node(element)
       let current = this.head
@@ -71,8 +86,12 @@ class CircularDoublyLinkedList {
     }
   }
 
-  // Remove element at a specific position
-  removeAt (position) {
+  /**
+   * Removes and returns the element at the specified position.
+   * @param {number} position - The position of the element to be removed.
+   * @returns {*} - The removed element, or null if the position is invalid.
+   */
+  removeAt(position) {
     if (position >= 0 && position < this.length) {
       let current = this.head
       let previous = null
@@ -105,32 +124,26 @@ class CircularDoublyLinkedList {
     }
   }
 
-  // Print the list
-  print () {
+  /**
+   * Converts the list to an array.
+   * @returns {Array} - An array containing the elements of the list.
+   */
+  toArray() {
     const elements = []
     let currentNode = this.head
-    if (!currentNode) return
+    if (!currentNode) return elements
     do {
       elements.push(currentNode.element)
       currentNode = currentNode.next
     } while (currentNode !== this.head)
-    console.log(elements.join(' <-> '))
+    return elements
   }
 
-  // Convert the list to a string
-  toString () {
-    const elements = []
-    let currentNode = this.head
-    if (!currentNode) return ''
-    do {
-      elements.push(currentNode.element)
-      currentNode = currentNode.next
-    } while (currentNode !== this.head)
-    return elements.join(' <-> ')
-  }
-
-  // Check if the list is empty
-  isEmpty () {
+  /**
+   * Checks if the list is empty.
+   * @returns {boolean} - True if the list is empty, false otherwise.
+   */
+  isEmpty() {
     return this.length === 0
   }
 }
