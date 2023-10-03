@@ -2688,10 +2688,11 @@
 - [@Gannamatiiko](https://github.com/GannaMatiiko)
 
 <<<<<<< HEAD
-- [@ionut](https://github.com/ionut)
-=======
+
+- # [@ionut](https://github.com/ionut)
 - [@Garghimani98](https://github.com/garghimani98)
->>>>>>> 7344dc5f688d255ab0aec0b9927fc81303405d03
+
+  > > > > > > > 7344dc5f688d255ab0aec0b9927fc81303405d03
 
 - [@Garrettf24](https://github.com/GarrettF24)
 
@@ -3274,10 +3275,11 @@
 - [@Iamrahul8](https://github.com/iamrahul8/)
 
 <<<<<<< HEAD
-- [@paulgellatly](https://github.com/paulgellatly)
-=======
+
+- # [@paulgellatly](https://github.com/paulgellatly)
 - [@Iamrindersingh](https://github.com/IAmrinderSingh)
->>>>>>> 7344dc5f688d255ab0aec0b9927fc81303405d03
+
+  > > > > > > > 7344dc5f688d255ab0aec0b9927fc81303405d03
 
 - [@Iamsella](https://github.com/iAmSella)
 
@@ -3602,10 +3604,11 @@
 - [@Japusnelson](https://github.com/Japus-Nelson)
 
 <<<<<<< HEAD
-- [@shubhamgoel90](https://github.com/shubhamgoel90)
-=======
+
+- # [@shubhamgoel90](https://github.com/shubhamgoel90)
 - [@Jaredaustin813](https://github.com/Jaredaustin813)
->>>>>>> 7344dc5f688d255ab0aec0b9927fc81303405d03
+
+  > > > > > > > 7344dc5f688d255ab0aec0b9927fc81303405d03
 
 - [@Jareddyck](https://github.com/jareddyck)
 
@@ -3778,10 +3781,11 @@
 - [@Jggsus88](https://github.com/jggsus88)
 
 <<<<<<< HEAD
-- [@thebluedev](https://github.com/thebluedev)
-=======
+
+- # [@thebluedev](https://github.com/thebluedev)
 - [@Jgonz19](https://github.com/jgonz19)
->>>>>>> 7344dc5f688d255ab0aec0b9927fc81303405d03
+
+  > > > > > > > 7344dc5f688d255ab0aec0b9927fc81303405d03
 
 - [@Jhar](https://github.com/jharStadistics)
 
@@ -4030,12 +4034,11 @@
 - [@Joydas123](https://github.com/joydas-123)
 
 - [@Jp88Programmer](https://github.com/Jp88Programmer)
-
-<<<<<<< HEAD
+-
 - [@pubudu20](https://github.com/pubudu20)
 
 - [@rajan](https://github.com/rajan4405)
-=======
+
 - [@Jpaten](https://github.com/J-Paten)
 
 - [@Jrarzadon](https://github.com/jrarzadon)
@@ -9835,7 +9838,7 @@
 
 - [@RavnZi](https://github.com/rbnmgr)
 
-- [@adoniscbatista]	(https://github.com/adoniscbatista)
+- [@adoniscbatista] (https://github.com/adoniscbatista)
 
 - [@gururaj] (https://github.com/Gururajraibagi)
 
@@ -9856,4 +9859,3 @@
 - [@mitinull](https://github.com/mitinull)
 - [@rajan4405](https://github.com/rajan4405)
 - [Idrees9321] (https://github.com/Idrees9321)
->>>>>>> 7344dc5f688d255ab0aec0b9927fc81303405d03
