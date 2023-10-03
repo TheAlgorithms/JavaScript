@@ -8,6 +8,9 @@
    you can achieve a maximum value of 12 by selecting two instances of the item with weight 4.
  */
 
+  //  * Reference to know more about Unbounded Knapsack :
+  //  * - https://en.wikipedia.org/wiki/List_of_knapsack_problems
+
 class UnboundedKnapsack {
     /**
      * @constructor
