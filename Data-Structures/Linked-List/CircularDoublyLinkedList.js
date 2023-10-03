@@ -15,7 +15,7 @@ class CircularDoublyLinkedList {
 
   // Add new element
   append (element) {
-    const node = new Node (element)
+    const node = new Node(element)
 
     if (!this.head) {
       this.head = node
@@ -104,8 +104,8 @@ class CircularDoublyLinkedList {
   }
 
   // Print the list
-  print() {
-    const elements = []
+  print () {
+    const elements = [];
     let currentNode = this.head
     if (!currentNode) return
     do {
@@ -113,6 +113,23 @@ class CircularDoublyLinkedList {
       currentNode = currentNode.next
     } while (currentNode !== this.head)
     console.log(elements.join(' <-> '))
+  }
+
+  // Convert the list to a string
+  toString () {
+    const elements = []
+    let currentNode = this.head
+    if (!currentNode) return ''
+    do {
+      elements.push(currentNode.element)
+      currentNode = currentNode.next
+    } while (currentNode !== this.head)
+    return elements.join(' <-> ')
+  }
+
+  // Check if the list is empty
+  isEmpty () {
+    return this.length === 0
   }
 }
 
