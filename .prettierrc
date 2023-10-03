@@ -1,7 +1,7 @@
 {
   "arrowParens": "always",
   "bracketSpacing": true,
-  "endOfLine": "auto",
+  "endOfLine": "lf",
   "insertPragma": false,
   "printWidth": 80,
   "proseWrap": "preserve",
