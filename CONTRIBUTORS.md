@@ -1297,6 +1297,8 @@
 
 - [@Dees121](https://github.com/AdeeS121)
 
+- [@deifiedfrost](https://github.com/deifiedfrost)
+
 - [@Deividasjuska](https://github.com/DeividasJuska)
 
 - [@Dejv64](https://github.com/dejv64)
