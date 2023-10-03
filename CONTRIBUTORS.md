@@ -2211,6 +2211,8 @@
 
 - [@Gannamatiiko](https://github.com/GannaMatiiko)
 
+- [@Garghimani98](https://github.com/garghimani98)
+
 - [@Garrettf24](https://github.com/GarrettF24)
 
 - [@Garybleasdale](https://github.com/GaryBleasdale)
@@ -2745,7 +2747,7 @@
 
 - [@Hunking9797](https://github.com/Hunking9797)
 
-- [@cheta-nyadav] (https://github.com/cheta-nyad
+- [@cheta-nyadav](https://github.com/cheta-nyad)
 
 - [@Huseyinoztas](https://github.com/huseyinoztas)
 
@@ -3129,7 +3131,12 @@
 
 - [@Japusnelson](https://github.com/Japus-Nelson)
 
+<<<<<<< HEAD
+
+- # [@shubhamgoel90](https://github.com/shubhamgoel90)
 - [@Jaredaustin813](https://github.com/Jaredaustin813)
+
+  > > > > > > > 7344dc5f688d255ab0aec0b9927fc81303405d03
 
 - [@Jareddyck](https://github.com/jareddyck)
 
@@ -3307,7 +3314,18 @@
 
 - [@Jggsus88](https://github.com/jggsus88)
 
+<<<<<<< HEAD
 - [@Jgonz19](https://github.com/jgonz19/)
+||||||| merged common ancestors
+- [@Jgonz19](https://github.com/jgonz19)
+=======
+<<<<<<< HEAD
+
+- # [@thebluedev](https://github.com/thebluedev)
+- [@Jgonz19](https://github.com/jgonz19)
+>>>>>>> b96727358d28e87e1149a493f4be833125fbb028
+
+  > > > > > > > 7344dc5f688d255ab0aec0b9927fc81303405d03
 
 - [@Jhar](https://github.com/jharStadistics)
 
@@ -3542,6 +3560,10 @@
 - [@Jovans55](https://github.com/Jovans55)
 
 - [@Jp88Programmer](https://github.com/Jp88Programmer)
+-
+- [@pubudu20](https://github.com/pubudu20)
+
+- [@rajan](https://github.com/rajan4405)
 
 - [@Jpaten](https://github.com/J-Paten)
 
@@ -9300,6 +9322,8 @@
 
 - [@richardkilea](https://github.com/richardkilea/)
 
+- [@adoniscbatista](https://github.com/adoniscbatista)
+
 - [@hozdaman](https://github.com/hozdaman)
 
 - [BasmaElhoseny01](https://github.com/BasmaElhoseny01)
@@ -9319,4 +9343,8 @@
 - [@gwatkinsii](https://github.com/gwatkinsii)
 
 - [@ZainabIftikhar1204](https://github.com/ZainabIftikhar1204)
+
 - [dkouela](https://github.com/dKouela)
+
+- [Idrees9321](https://github.com/Idrees9321)
+
