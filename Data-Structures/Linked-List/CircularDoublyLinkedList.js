@@ -5,7 +5,7 @@ class Node {
    * Creates a new Node with the given element.
    * @param {*} element - The element to be stored in the node.
    */
-  constructor(element) {
+  constructor (element) {
     this.element = element
     this.next = null
     this.prev = null
@@ -16,7 +16,7 @@ class CircularDoublyLinkedList {
   /**
    * Creates an empty Circular Doubly Linked List.
    */
-  constructor() {
+  constructor () {
     this.length = 0
     this.head = null
     this.tail = null
@@ -26,7 +26,7 @@ class CircularDoublyLinkedList {
    * Appends an element to the end of the list.
    * @param {*} element - The element to be appended.
    */
-  append(element) {
+  append (element) {
     const node = new Node(element)
 
     if (!this.head) {
@@ -51,7 +51,7 @@ class CircularDoublyLinkedList {
    * @param {*} element - The element to be inserted.
    * @returns {boolean} - True if the insertion was successful, false otherwise.
    */
-  insert(position, element) {
+  insert (position, element) {
     if (position >= 0 && position <= this.length) {
       const node = new Node(element)
       let current = this.head
@@ -91,7 +91,7 @@ class CircularDoublyLinkedList {
    * @param {number} position - The position of the element to be removed.
    * @returns {*} - The removed element, or null if the position is invalid.
    */
-  removeAt(position) {
+  removeAt (position) {
     if (position >= 0 && position < this.length) {
       let current = this.head
       let previous = null
@@ -128,7 +128,7 @@ class CircularDoublyLinkedList {
    * Converts the list to an array.
    * @returns {Array} - An array containing the elements of the list.
    */
-  toArray() {
+  toArray () {
     const elements = []
     let currentNode = this.head
     if (!currentNode) return elements
@@ -143,7 +143,7 @@ class CircularDoublyLinkedList {
    * Checks if the list is empty.
    * @returns {boolean} - True if the list is empty, false otherwise.
    */
-  isEmpty() {
+  isEmpty () {
     return this.length === 0
   }
 }
