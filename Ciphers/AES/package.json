@@ -1,0 +1,15 @@
+{
+  "name": "enryption-and-decryption",
+  "version": "1.0.0",
+  "description": "",
+  "main": "decryption.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Your_Name",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.1.1"
+  }
+}
