@@ -1,3 +1,5 @@
+// Ecplanation:- https://www.geeksforgeeks.org/recursive-c-program-linearly-search-element-given-array/
+
 /**
  * Recursive Linear Search
  *
