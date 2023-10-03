@@ -50,7 +50,7 @@ describe('CircularDoublyLinkedList', () => {
     const list = createAndAppend([10, 20, 30])
     const iterator = list.createIterator()
     const elements = []
-    for (let element of iterator) {
+    for (const element of iterator) {
       elements.push(element)
     }
     expect(elements).toEqual([10, 20, 30])
