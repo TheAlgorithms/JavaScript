@@ -1,7 +1,7 @@
 import { CircularDoublyLinkedList } from '../CircularDoublyLinkedList' // Adjust the import path as needed
 
-describe ('CircularDoublyLinkedList', () => {
-  it ('Check append', () => {
+describe('CircularDoublyLinkedList', () => {
+  it('Check append', () => {
     const list = new CircularDoublyLinkedList()
 
     list.append(1)
@@ -11,7 +11,7 @@ describe ('CircularDoublyLinkedList', () => {
     expect(list.toString()).toEqual('1 <-> 2')
   })
 
-  it ('Check insert', () => {
+  it('Check insert', () => {
     const list = new CircularDoublyLinkedList()
 
     list.insert(0, 1)
@@ -21,7 +21,7 @@ describe ('CircularDoublyLinkedList', () => {
     expect(list.toString()).toEqual('1 <-> 20')
   })
 
-  it ('Check removeAt', () => {
+  it('Check removeAt', () => {
     const list = new CircularDoublyLinkedList()
 
     list.append(10)
@@ -35,7 +35,7 @@ describe ('CircularDoublyLinkedList', () => {
     expect(list.toString()).toEqual('40')
   })
 
-  it ('Check print', () => {
+  it('Check print', () => {
     const list = new CircularDoublyLinkedList()
 
     list.append(20)
@@ -44,7 +44,7 @@ describe ('CircularDoublyLinkedList', () => {
     }).not.toThrow()
   })
 
-  it ('Check isEmpty', () => {
+  it('Check isEmpty', () => {
     const list = new CircularDoublyLinkedList()
 
     expect(list.isEmpty()).toEqual(true)
