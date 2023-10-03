@@ -14,6 +14,8 @@ describe('NQueens', () => {
   })
 
   it('should throw RangeError for negative size board', () => {
-    expect(() => { return new NQueens(-1) }).toThrow(RangeError)
+    expect(() => {
+      return new NQueens(-1)
+    }).toThrow(RangeError)
   })
 })

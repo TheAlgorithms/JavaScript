@@ -38,7 +38,7 @@ const orders = [
   'I'
 ]
 
-function decimalToRoman (num) {
+function decimalToRoman(num) {
   let roman = ''
   for (const symbol of orders) {
     while (num >= values[symbol]) {

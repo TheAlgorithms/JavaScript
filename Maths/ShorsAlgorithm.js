@@ -22,7 +22,7 @@
  * are a multiple of N, either g^(p/2) + 1 or g^(p/2) - 1 must share a
  * factor with N, which can then be found using Euclid's GCD algorithm.
  */
-function ShorsAlgorithm (num) {
+function ShorsAlgorithm(num) {
   const N = BigInt(num)
 
   while (true) {
@@ -61,7 +61,7 @@ function ShorsAlgorithm (num) {
  * @param {BigInt} B
  * @returns The value p.
  */
-function findP (A, B) {
+function findP(A, B) {
   let p = 1n
   while (!isValidP(A, B, p)) p++
   return p
@@ -75,7 +75,7 @@ function findP (A, B) {
  * @param {BigInt} p
  * @returns Whether A, B, and p fulfill A^p = mB + 1.
  */
-function isValidP (A, B, p) {
+function isValidP(A, B, p) {
   // A^p = mB + 1 => A^p - 1 = 0 (mod B)
   return (A ** p - 1n) % B === 0n
 }
@@ -87,9 +87,9 @@ function isValidP (A, B, p) {
  * @param {BigInt} B
  * @returns Greatest Common Divisor between A and B.
  */
-function gcd (A, B) {
+function gcd(A, B) {
   while (B !== 0n) {
-    [A, B] = [B, A % B]
+    ;[A, B] = [B, A % B]
   }
 
   return Number(A)

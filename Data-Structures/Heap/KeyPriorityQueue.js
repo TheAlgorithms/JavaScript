@@ -19,12 +19,12 @@
  */
 
 // Priority Queue Helper functions
-const getParentPosition = position => Math.floor((position - 1) / 2)
-const getChildrenPositions = position => [2 * position + 1, 2 * position + 2]
+const getParentPosition = (position) => Math.floor((position - 1) / 2)
+const getChildrenPositions = (position) => [2 * position + 1, 2 * position + 2]
 
 class KeyPriorityQueue {
   // Priority Queue class using Minimum Binary Heap
-  constructor () {
+  constructor() {
     this._heap = []
     this.priorities = new Map()
   }
@@ -33,7 +33,7 @@ class KeyPriorityQueue {
    * Checks if the heap is empty
    * @returns boolean
    */
-  isEmpty () {
+  isEmpty() {
     return this._heap.length === 0
   }
 
@@ -42,7 +42,7 @@ class KeyPriorityQueue {
    * @param {*} key
    * @param {number} priority
    */
-  push (key, priority) {
+  push(key, priority) {
     this._heap.push(key)
     this.priorities.set(key, priority)
     this._shiftUp(this._heap.length - 1)
@@ -52,7 +52,7 @@ class KeyPriorityQueue {
    * Removes the element with least priority
    * @returns the key of the element with least priority
    */
-  pop () {
+  pop() {
     this._swap(0, this._heap.length - 1)
     const key = this._heap.pop()
     this.priorities.delete(key)
@@ -65,7 +65,7 @@ class KeyPriorityQueue {
    * @param {*} key
    * @returns boolean
    */
-  contains (key) {
+  contains(key) {
     return this.priorities.has(key)
   }
 
@@ -75,7 +75,7 @@ class KeyPriorityQueue {
    * @param {*} key the element to change
    * @param {number} priority new priority of the element
    */
-  update (key, priority) {
+  update(key, priority) {
     const currPos = this._heap.indexOf(key)
     // if the key does not exist yet, add it
     if (currPos === -1) return this.push(key, priority)
@@ -95,13 +95,14 @@ class KeyPriorityQueue {
     }
   }
 
-  _getPriorityOrInfinite (position) {
+  _getPriorityOrInfinite(position) {
     // Helper function, returns priority of the node, or Infinite if no node corresponds to this position
-    if (position >= 0 && position < this._heap.length) return this.priorities.get(this._heap[position])
+    if (position >= 0 && position < this._heap.length)
+      return this.priorities.get(this._heap[position])
     else return Infinity
   }
 
-  _shiftUp (position) {
+  _shiftUp(position) {
     // Helper function to shift up a node to proper position (equivalent to bubbleUp)
     let currPos = position
     let parentPos = getParentPosition(currPos)
@@ -117,7 +118,7 @@ class KeyPriorityQueue {
     }
   }
 
-  _shiftDown (position) {
+  _shiftDown(position) {
     // Helper function to shift down a node to proper position (equivalent to bubbleDown)
     let currPos = position
     let [child1Pos, child2Pos] = getChildrenPositions(currPos)
@@ -137,16 +138,19 @@ class KeyPriorityQueue {
         this._swap(child2Pos, currPos)
         currPos = child2Pos
       }
-      [child1Pos, child2Pos] = getChildrenPositions(currPos)
+      ;[child1Pos, child2Pos] = getChildrenPositions(currPos)
       child1Priority = this._getPriorityOrInfinite(child1Pos)
       child2Priority = this._getPriorityOrInfinite(child2Pos)
       currPriority = this._getPriorityOrInfinite(currPos)
     }
   }
 
-  _swap (position1, position2) {
+  _swap(position1, position2) {
     // Helper function to swap 2 nodes
-    [this._heap[position1], this._heap[position2]] = [this._heap[position2], this._heap[position1]]
+    ;[this._heap[position1], this._heap[position2]] = [
+      this._heap[position2],
+      this._heap[position1]
+    ]
   }
 }
 

@@ -8,7 +8,7 @@
  * @return {Array} Returns an array whose i-th index is the value of Z Function for text at index i
  */
 
-function zFunction (text) {
+function zFunction(text) {
   const length = text.length
   const zArray = Array(length).fill(0)
   // Initializing left and right variable to zero

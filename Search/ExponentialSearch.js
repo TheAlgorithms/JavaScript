@@ -9,7 +9,7 @@
  *
  */
 
-function binarySearch (arr, value, floor, ceiling) {
+function binarySearch(arr, value, floor, ceiling) {
   // Middle index
   const mid = Math.floor((floor + ceiling) / 2)
 
@@ -31,7 +31,7 @@ function binarySearch (arr, value, floor, ceiling) {
   }
 }
 
-function exponentialSearch (arr, length, value) {
+function exponentialSearch(arr, length, value) {
   // If value is the first element of the array return this position
   if (arr[0] === value) {
     return 0

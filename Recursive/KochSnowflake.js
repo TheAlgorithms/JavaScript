@@ -15,7 +15,7 @@
 
 /** Class to handle the vector calculations. */
 export class Vector2 {
-  constructor (x, y) {
+  constructor(x, y) {
     this.x = x
     this.y = y
   }
@@ -26,7 +26,7 @@ export class Vector2 {
    * @param vector The vector to be added.
    * @returns The sum-vector.
    */
-  add (vector) {
+  add(vector) {
     const x = this.x + vector.x
     const y = this.y + vector.y
     return new Vector2(x, y)
@@ -38,7 +38,7 @@ export class Vector2 {
    * @param vector The vector to be subtracted.
    * @returns The difference-vector.
    */
-  subtract (vector) {
+  subtract(vector) {
     const x = this.x - vector.x
     const y = this.y - vector.y
     return new Vector2(x, y)
@@ -50,7 +50,7 @@ export class Vector2 {
    * @param scalar The factor by which to multiply the vector.
    * @returns The scaled vector.
    */
-  multiply (scalar) {
+  multiply(scalar) {
     const x = this.x * scalar
     const y = this.y * scalar
     return new Vector2(x, y)
@@ -62,8 +62,8 @@ export class Vector2 {
    * @param angleInDegrees The angle by which to rotate the vector.
    * @returns The rotated vector.
    */
-  rotate (angleInDegrees) {
-    const radians = angleInDegrees * Math.PI / 180
+  rotate(angleInDegrees) {
+    const radians = (angleInDegrees * Math.PI) / 180
     const ca = Math.cos(radians)
     const sa = Math.sin(radians)
     const x = ca * this.x - sa * this.y
@@ -81,7 +81,7 @@ export class Vector2 {
  * @param steps The number of iterations.
  * @returns The transformed vectors after the iteration-steps.
  */
-export function iterate (initialVectors, steps) {
+export function iterate(initialVectors, steps) {
   let vectors = initialVectors
   for (let i = 0; i < steps; i++) {
     vectors = iterationStep(vectors)
@@ -99,7 +99,7 @@ export function iterate (initialVectors, steps) {
  * @param vectors The vectors composing the shape to which the algorithm is applied.
  * @returns The transformed vectors after the iteration-step.
  */
-function iterationStep (vectors) {
+function iterationStep(vectors) {
   const newVectors = []
   for (let i = 0; i < vectors.length - 1; i++) {
     const startVector = vectors[i]
@@ -107,7 +107,9 @@ function iterationStep (vectors) {
     newVectors.push(startVector)
     const differenceVector = endVector.subtract(startVector).multiply(1 / 3)
     newVectors.push(startVector.add(differenceVector))
-    newVectors.push(startVector.add(differenceVector).add(differenceVector.rotate(60)))
+    newVectors.push(
+      startVector.add(differenceVector).add(differenceVector.rotate(60))
+    )
     newVectors.push(startVector.add(differenceVector.multiply(2)))
   }
 

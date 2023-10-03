@@ -1,14 +1,14 @@
 /**
-  *  @function Timsort is a hybrid stable sorting algorithm, derived from merge sort and insertion sort,
-  *  designed to perform well on many kinds of real-world data.
-  *  It was implemented by Tim Peters in 2002 for use in the Python programming language.
-  *  It is also used to sort arrays of non-primitive type in Java SE 7,
-  *  on the Android platform, in GNU Octave, on V8, Swift and Rust.
-  *  1) It sorts small partitions using Insertion Sort.
-  *  2) Merges the partition using Merge Sort.
-  *  @see [Timsort](https://en.wikipedia.org/wiki/Timsort)
-  *  @param {Array} array
-  */
+ *  @function Timsort is a hybrid stable sorting algorithm, derived from merge sort and insertion sort,
+ *  designed to perform well on many kinds of real-world data.
+ *  It was implemented by Tim Peters in 2002 for use in the Python programming language.
+ *  It is also used to sort arrays of non-primitive type in Java SE 7,
+ *  on the Android platform, in GNU Octave, on V8, Swift and Rust.
+ *  1) It sorts small partitions using Insertion Sort.
+ *  2) Merges the partition using Merge Sort.
+ *  @see [Timsort](https://en.wikipedia.org/wiki/Timsort)
+ *  @param {Array} array
+ */
 
 const Timsort = (array) => {
   // Default size of a partition
@@ -67,7 +67,9 @@ const Merge = (array, left, mid, right) => {
   for (let i = 0; i < len2; i++) {
     rarr[i] = array[mid + 1 + i]
   }
-  let i = 0; let j = 0; let k = left
+  let i = 0
+  let j = 0
+  let k = left
   while (i < larr.length && j < rarr.length) {
     if (larr[i] < rarr[j]) {
       array[k++] = larr[i++]

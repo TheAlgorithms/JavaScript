@@ -1,6 +1,6 @@
 import { factorialize } from '../WhileLoopFactorial'
 
-function testFactorial (n, expected) {
+function testFactorial(n, expected) {
   test('Testing on ' + n + '!', () => {
     expect(factorialize(n)).toBe(expected)
   })

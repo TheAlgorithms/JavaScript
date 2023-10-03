@@ -6,7 +6,7 @@
  * It uses graph data structure.
  */
 
-function createGraph (V, E) {
+function createGraph(V, E) {
   // V - Number of vertices in graph
   // E - Number of edges in graph (u,v,w)
   const adjList = [] // Adjacency list
@@ -20,7 +20,7 @@ function createGraph (V, E) {
   return adjList
 }
 
-function djikstra (graph, V, src) {
+function djikstra(graph, V, src) {
   const vis = Array(V).fill(0)
   const dist = []
   for (let i = 0; i < V; i++) dist.push([10000, -1])

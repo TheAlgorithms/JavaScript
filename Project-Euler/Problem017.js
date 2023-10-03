@@ -51,7 +51,7 @@ const numberToWordLength = (n) => {
    */
   if (n >= 20 && n < 100) {
     const unit = n % 10
-    return tens[Math.floor(n / 10 - 2)] + ((unit !== 0) ? ones[unit] : 0)
+    return tens[Math.floor(n / 10 - 2)] + (unit !== 0 ? ones[unit] : 0)
   }
 
   // Find thousand, hundred and sub part

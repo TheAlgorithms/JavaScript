@@ -1,6 +1,6 @@
 import { eulerFull } from '../EulerMethod'
 
-function plotLine (label, points, width, height) {
+function plotLine(label, points, width, height) {
   // utility function to plot the results
 
   // container needed to control the size of the canvas
@@ -14,17 +14,20 @@ function plotLine (label, points, width, height) {
   container.append(canvas)
 
   // Chart-class from chartjs
-  const chart = new Chart(canvas, { // eslint-disable-line
+  const chart = new Chart(canvas, {
+    // eslint-disable-line
     type: 'scatter',
     data: {
-      datasets: [{
-        label,
-        data: points,
-        showLine: true,
-        fill: false,
-        tension: 0,
-        borderColor: 'black'
-      }]
+      datasets: [
+        {
+          label,
+          data: points,
+          showLine: true,
+          fill: false,
+          tension: 0,
+          borderColor: 'black'
+        }
+      ]
     },
     options: {
       maintainAspectRatio: false,
@@ -33,17 +36,17 @@ function plotLine (label, points, width, height) {
   })
 }
 
-function exampleEquation1 (x, y) {
+function exampleEquation1(x, y) {
   return x
 }
 
 // example from https://en.wikipedia.org/wiki/Euler_method
-function exampleEquation2 (x, y) {
+function exampleEquation2(x, y) {
   return y
 }
 
 // example from https://www.geeksforgeeks.org/euler-method-solving-differential-equation/
-function exampleEquation3 (x, y) {
+function exampleEquation3(x, y) {
   return x + y + x * y
 }
 

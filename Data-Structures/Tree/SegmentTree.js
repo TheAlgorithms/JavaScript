@@ -13,7 +13,7 @@
 class SegmentTree {
   size
   tree
-  constructor (arr) {
+  constructor(arr) {
     // we define tree like this
     // tree[1] : root node of tree
     // tree[i] : i'th node
@@ -28,7 +28,7 @@ class SegmentTree {
   }
 
   // function to build the tree
-  build (arr) {
+  build(arr) {
     const { size, tree } = this
     // insert leaf nodes in tree
     // leaf nodes will start from index N
@@ -45,7 +45,7 @@ class SegmentTree {
     }
   }
 
-  update (index, value) {
+  update(index, value) {
     const { size, tree } = this
 
     // only update values in the parents of the given node being changed.
@@ -65,7 +65,7 @@ class SegmentTree {
   }
 
   // interval [L,R) with left index(L) included and right (R) excluded.
-  query (left, right) {
+  query(left, right) {
     const { size, tree } = this
     // cause R is excluded, increase right for convenient
     right++

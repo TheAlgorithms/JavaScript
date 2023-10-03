@@ -43,11 +43,7 @@ describe('Testing Memoize', () => {
 
   it('expects the union function to use the cache on the second call', () => {
     const memoUnion = memoize(union)
-    const inputs = [
-      new Set([1, 2, 3]),
-      new Set([4, 3, 2]),
-      new Set([5, 3, 6])
-    ]
+    const inputs = [new Set([1, 2, 3]), new Set([4, 3, 2]), new Set([5, 3, 6])]
 
     expect(memoUnion(...inputs)).toEqual(new Set([1, 2, 3, 4, 5, 6]))
     expect(memoUnion(...inputs)).toEqual(union(...inputs))

@@ -5,7 +5,7 @@ More at : https://en.wikipedia.org/wiki/Permutation
 */
 
 const createPermutations = (str) => {
-// convert string to array
+  // convert string to array
   const arr = str.split('')
 
   // get array length
@@ -18,7 +18,9 @@ const createPermutations = (str) => {
   let next
 
   // if strLen is zero, return the same string
-  if (strLen === 0) { return [str] }
+  if (strLen === 0) {
+    return [str]
+  }
   // loop to the length to get all permutations
   for (let i = 0; i < strLen; i++) {
     rest = Object.create(arr)

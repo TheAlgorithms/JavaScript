@@ -22,7 +22,10 @@ const AlternativeStringArrange = (str1, str2) => {
   // get second string length.
   const secondStringLength = str2.length
   // absolute length for operation.
-  const absLength = firstStringLength > secondStringLength ? firstStringLength : secondStringLength
+  const absLength =
+    firstStringLength > secondStringLength
+      ? firstStringLength
+      : secondStringLength
 
   // Iterate the character count until the absolute count is reached.
   for (let charCount = 0; charCount < absLength; charCount++) {

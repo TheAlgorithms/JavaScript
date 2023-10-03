@@ -9,7 +9,9 @@
 export const longestPalindromeSubsequence = function (s) {
   const n = s.length
 
-  const dp = new Array(n).fill(0).map(item => new Array(n).fill(0).map(item => 0))
+  const dp = new Array(n)
+    .fill(0)
+    .map((item) => new Array(n).fill(0).map((item) => 0))
 
   // fill predefined for single character
   for (let i = 0; i < n; i++) {

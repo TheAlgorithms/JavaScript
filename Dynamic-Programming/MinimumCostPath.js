@@ -20,7 +20,9 @@ const minCostPath = (matrix) => {
   for (let i = 1; i < n; i++) moves[i][0] = moves[i - 1][0] + matrix[i][0]
 
   for (let i = 1; i < n; i++) {
-    for (let j = 1; j < m; j++) { moves[i][j] = Math.min(moves[i - 1][j], moves[i][j - 1]) + matrix[i][j] }
+    for (let j = 1; j < m; j++) {
+      moves[i][j] = Math.min(moves[i - 1][j], moves[i][j - 1]) + matrix[i][j]
+    }
   }
 
   return moves[n - 1][m - 1]

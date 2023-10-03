@@ -11,7 +11,7 @@
  *
  * [Reference](http://en.wikipedia.org/wiki/Quickselect)
  */
-export function quickSelectSearch (array, k) {
+export function quickSelectSearch(array, k) {
   if (!array || array.length <= k) {
     throw new Error('Invalid arguments')
   }

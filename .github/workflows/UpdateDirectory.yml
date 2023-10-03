@@ -11,16 +11,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+
       - uses: actions/setup-node@v3
         with:
-          node-version: 16
+          node-version: 20
           cache: npm
 
       - name: 📦 Install dependencies
         run: npm ci
 
       - name: 🗄️ Create Directory from JS files
-        run: node .github/workflows/UpdateDirectory.mjs
+        run: node .github/workflows/UpdateDirectory.js
 
       - name: Configure Github Action
         run: |

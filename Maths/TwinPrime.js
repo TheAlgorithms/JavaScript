@@ -11,8 +11,8 @@ import { PrimeCheck } from './PrimeCheck'
  *
  * @example twinPrime(5) = 7
  * @example twinPrime(4) = -1
-*/
-function twinPrime (n) {
+ */
+function twinPrime(n) {
   const prime = PrimeCheck(n)
 
   if (!prime) {

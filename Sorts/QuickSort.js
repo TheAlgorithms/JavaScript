@@ -5,7 +5,7 @@
  * @return {Integer[]} - Sorted array.
  * @see [QuickSort](https://en.wikipedia.org/wiki/Quicksort)
  */
-function quickSort (items) {
+function quickSort(items) {
   const length = items.length
 
   if (length <= 1) {

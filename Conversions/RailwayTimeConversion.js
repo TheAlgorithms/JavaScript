@@ -23,12 +23,23 @@ const RailwayTimeConversion = (timeString) => {
   // split the string by ':' character.
   const [hour, minute, secondWithShift] = timeString.split(':')
   // split second and shift value.
-  const [second, shift] = [secondWithShift.substr(0, 2), secondWithShift.substr(2)]
+  const [second, shift] = [
+    secondWithShift.substr(0, 2),
+    secondWithShift.substr(2)
+  ]
   // convert shifted time to not-shift time(Railway time) by using the above explanation.
   if (shift === 'PM') {
-    if (parseInt(hour) === 12) { return `${hour}:${minute}:${second}` } else { return `${parseInt(hour) + 12}:${minute}:${second}` }
+    if (parseInt(hour) === 12) {
+      return `${hour}:${minute}:${second}`
+    } else {
+      return `${parseInt(hour) + 12}:${minute}:${second}`
+    }
   } else {
-    if (parseInt(hour) === 12) { return `00:${minute}:${second}` } else { return `${hour}:${minute}:${second}` }
+    if (parseInt(hour) === 12) {
+      return `00:${minute}:${second}`
+    } else {
+      return `${hour}:${minute}:${second}`
+    }
   }
 }
 

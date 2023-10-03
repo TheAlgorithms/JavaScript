@@ -50,7 +50,7 @@ const morse = (msg, dot = '*', dash = '-') => {
     ',': '--**--',
     '?': '**--**',
     '!': '-*-*--',
-    '\'': '*----*',
+    "'": '*----*',
     '"': '*-**-*',
     '(': '-*--*',
     ')': '-*--*-',
@@ -68,16 +68,21 @@ const morse = (msg, dot = '*', dash = '-') => {
 
   let newMsg = ''
 
-  msg.toString().split('').forEach((e) => {
-    if (/[a-zA-Z]/.test(e)) {
-      newMsg += key[e.toUpperCase()].replaceAll('*', dot).replaceAll('-', dash)
-    } else if (Object.keys(key).includes(e)) {
-      newMsg += key[e].replaceAll('*', dot).replaceAll('-', dash)
-    } else {
-      newMsg += e
-    }
-    newMsg += ' '
-  })
+  msg
+    .toString()
+    .split('')
+    .forEach((e) => {
+      if (/[a-zA-Z]/.test(e)) {
+        newMsg += key[e.toUpperCase()]
+          .replaceAll('*', dot)
+          .replaceAll('-', dash)
+      } else if (Object.keys(key).includes(e)) {
+        newMsg += key[e].replaceAll('*', dot).replaceAll('-', dash)
+      } else {
+        newMsg += e
+      }
+      newMsg += ' '
+    })
 
   return newMsg.trim()
 }

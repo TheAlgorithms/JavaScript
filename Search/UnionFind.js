@@ -14,7 +14,7 @@
  *
  * you can learn more on disjoint-set / union–find data structure at https://en.wikipedia.org/wiki/Disjoint-set_data_structure
  */
-function UnionFind (n, key) {
+function UnionFind(n, key) {
   if (!(this instanceof UnionFind)) return new UnionFind(n)
   if (key && typeof key !== 'function') {
     throw new Error('key has to be a function or else left undefined')
@@ -22,7 +22,11 @@ function UnionFind (n, key) {
   let cnt, length
   // init Union Find with number of distinct groups. Each group will be referred to as index of the array of size 'size' starting at 0.
   // Provide an optional key function that maps these indices. I.e. for the groups starting with 1 provide function(a){return a-1;}. The default value is function(a){return a;}.
-  key = key || function (a) { return a }
+  key =
+    key ||
+    function (a) {
+      return a
+    }
   cnt = length = n
   const id = new Array(n)
   const sz = new Array(n)
@@ -63,16 +67,21 @@ function UnionFind (n, key) {
     const j = this.find(q)
     if (i === j) return
     if (sz[i] < sz[j]) {
-      id[i] = j; sz[j] += sz[i]
+      id[i] = j
+      sz[j] += sz[i]
     } else {
-      id[j] = i; sz[i] += sz[j]
+      id[j] = i
+      sz[i] += sz[j]
     }
     cnt--
   }
-  function ensureIndexWithinBounds (args) {
+  function ensureIndexWithinBounds(args) {
     for (let i = arguments.length - 1; i >= 0; i--) {
       const p = arguments[i]
-      if (p >= length) throw new Error('Index out of bounds. The maximum index can be length-1')
+      if (p >= length)
+        throw new Error(
+          'Index out of bounds. The maximum index can be length-1'
+        )
     }
   }
 }

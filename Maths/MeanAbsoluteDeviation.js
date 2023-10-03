@@ -6,7 +6,7 @@ import { mean } from './AverageMean.js'
  * @returns meanAbsoluteDeviation([2,34,5,0,-2]) = 10.480
  * @url https://en.wikipedia.org/wiki/Average_absolute_deviation
  */
-function meanAbsoluteDeviation (data) {
+function meanAbsoluteDeviation(data) {
   if (!Array.isArray(data)) {
     throw new TypeError('Invalid Input')
   }
@@ -18,6 +18,4 @@ function meanAbsoluteDeviation (data) {
   return absoluteSum / data.length
 }
 
-export {
-  meanAbsoluteDeviation
-}
+export { meanAbsoluteDeviation }

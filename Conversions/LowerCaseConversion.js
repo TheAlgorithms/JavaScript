@@ -17,7 +17,7 @@
  */
 const LowerCaseConversion = (inputString) => {
   // Take a string and split it into characters.
-  const newString = inputString.split('').map(char => {
+  const newString = inputString.split('').map((char) => {
     // Get a character code by the use charCodeAt method.
     const presentCharCode = char.charCodeAt()
     // If the character code lies between 65 to 90 it means they are in the upper case so convert it.

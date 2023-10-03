@@ -100,7 +100,10 @@ describe('Fibonacci', () => {
     [0, 0],
     [1, 1],
     [15, 610]
-  ])('should calculate the correct Fibonacci number for n = %i', (n, expected) => {
-    expect(FibonacciUsingFormula(n)).toBe(expected)
-  })
+  ])(
+    'should calculate the correct Fibonacci number for n = %i',
+    (n, expected) => {
+      expect(FibonacciUsingFormula(n)).toBe(expected)
+    }
+  )
 })

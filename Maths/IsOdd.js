@@ -39,7 +39,7 @@ const isOdd = (number) => Boolean(number % 2) // 1 -> true, 0 -> false
  * @see https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Bitwise_AND
  * @param {number} number
  * @returns {boolean}
-*/
+ */
 const isOddBitwise = (number) => Boolean(number & 1) // 1 -> true, 0 -> false
 
 export { isOdd, isOddBitwise }

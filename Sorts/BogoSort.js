@@ -1,7 +1,7 @@
 /**
  * Checks whether the given array is sorted in ascending order.
  */
-export function isSorted (array) {
+export function isSorted(array) {
   const length = array.length
   for (let i = 0; i < length - 1; i++) {
     if (array[i] > array[i + 1]) {
@@ -14,7 +14,7 @@ export function isSorted (array) {
 /**
  * Shuffles the given array randomly in place.
  */
-function shuffle (array) {
+function shuffle(array) {
   for (let i = array.length - 1; i; i--) {
     const m = Math.floor(Math.random() * i)
     const n = array[i - 1]
@@ -30,7 +30,7 @@ function shuffle (array) {
  *
  * For more information see: https://en.wikipedia.org/wiki/Bogosort
  */
-export function bogoSort (items) {
+export function bogoSort(items) {
   while (!isSorted(items)) {
     shuffle(items)
   }

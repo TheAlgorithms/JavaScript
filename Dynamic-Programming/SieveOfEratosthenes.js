@@ -5,7 +5,7 @@
  * @return {Number[]} List of Primes till n.
  * @see [Sieve_of_Eratosthenes](https://www.geeksforgeeks.org/sieve-of-eratosthenes/)
  */
-function sieveOfEratosthenes (n) {
+function sieveOfEratosthenes(n) {
   if (n <= 1) return []
   const primes = new Array(n + 1).fill(true) // set all as true initially
   primes[0] = primes[1] = false // Handling case for 0 and 1

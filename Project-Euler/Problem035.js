@@ -11,18 +11,22 @@
  */
 import { sieveOfEratosthenes } from '../Maths/SieveOfEratosthenesIntArray'
 
-function problem35 (n) {
+function problem35(n) {
   if (n < 2) {
     throw new Error('Invalid input')
   }
   // Get a list of primes without 0, 2, 4, 5, 6, 8; this discards the circular primes 2 & 5
-  const list = sieveOfEratosthenes(n).filter(prime => !prime.toString().match(/[024568]/))
+  const list = sieveOfEratosthenes(n).filter(
+    (prime) => !prime.toString().match(/[024568]/)
+  )
 
   const result = list.filter((number, _idx, arr) => {
     const str = String(number)
-    for (let i = 0; i < str.length; i++) { // Get all rotations of the number
+    for (let i = 0; i < str.length; i++) {
+      // Get all rotations of the number
       const rotation = str.slice(i) + str.slice(0, i)
-      if (!arr.includes(Number(rotation))) { // Check if the rotation is prime
+      if (!arr.includes(Number(rotation))) {
+        // Check if the rotation is prime
         return false
       }
     }

@@ -2,11 +2,11 @@ import { lengthConversion } from '../LengthConversion.js'
 
 describe('LengthConversion', () => {
   it.each`
-    length | fromUnit | toUnit   | expected
-    ${10}  | ${'km'}  | ${'m'}   | ${10000}
-    ${100} | ${'m'}   | ${'km'}  | ${0.1}
-    ${5}   | ${'cm'}  | ${'mm'}  | ${50}
-    ${12}  | ${'ft'}  | ${'inch'}| ${144.00000000000003}
+    length | fromUnit | toUnit    | expected
+    ${10}  | ${'km'}  | ${'m'}    | ${10000}
+    ${100} | ${'m'}   | ${'km'}   | ${0.1}
+    ${5}   | ${'cm'}  | ${'mm'}   | ${50}
+    ${12}  | ${'ft'}  | ${'inch'} | ${144.00000000000003}
   `(
     'converts $length $fromUnit to $toUnit',
     ({ length, fromUnit, toUnit, expected }) => {
@@ -20,10 +20,10 @@ describe('LengthConversion', () => {
   )
 
   it.each`
-    length | fromUnit | toUnit   | expected
-    ${10}  | ${'m'}   | ${'km'}  | ${0.01}
-    ${1000}| ${'mm'}  | ${'cm'}  | ${100}
-    ${1}   | ${'inch'}| ${'ft'}  | ${0.08333333333}
+    length  | fromUnit  | toUnit  | expected
+    ${10}   | ${'m'}    | ${'km'} | ${0.01}
+    ${1000} | ${'mm'}   | ${'cm'} | ${100}
+    ${1}    | ${'inch'} | ${'ft'} | ${0.08333333333}
   `(
     'converts $length $fromUnit to $toUnit (vice versa)',
     ({ length, fromUnit, toUnit, expected }) => {
@@ -37,9 +37,9 @@ describe('LengthConversion', () => {
   )
 
   it.each`
-    length | fromUnit | toUnit     | expectedError
-    ${10}  | ${'km'}  | ${'invalid'} | ${'Invalid units'}
-    ${5}   | ${'invalid'} | ${'m'}    | ${'Invalid units'}
+    length | fromUnit     | toUnit       | expectedError
+    ${10}  | ${'km'}      | ${'invalid'} | ${'Invalid units'}
+    ${5}   | ${'invalid'} | ${'m'}       | ${'Invalid units'}
   `(
     'returns error message for invalid units: $fromUnit to $toUnit',
     ({ length, fromUnit, toUnit, expectedError }) => {

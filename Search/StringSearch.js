@@ -2,7 +2,7 @@
  * String Search
  */
 
-function makeTable (str) {
+function makeTable(str) {
   // create a table of size equal to the length of `str`
   // table[i] will store the prefix of the longest prefix of the substring str[0..i]
   const table = new Array(str.length)
@@ -35,7 +35,7 @@ function makeTable (str) {
 }
 
 // Find all the words that matches in a given string `str`
-export function stringSearch (str, word) {
+export function stringSearch(str, word) {
   // find the prefix table in O(n)
   const prefixes = makeTable(word)
   const matches = []

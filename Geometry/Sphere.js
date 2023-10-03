@@ -5,12 +5,12 @@
  * @see https://en.wikipedia.org/wiki/Sphere
  */
 export default class Sphere {
-  constructor (radius) {
+  constructor(radius) {
     this.radius = radius
   }
 
   volume = () => {
-    return Math.pow(this.radius, 3) * Math.PI * 4 / 3
+    return (Math.pow(this.radius, 3) * Math.PI * 4) / 3
   }
 
   surfaceArea = () => {

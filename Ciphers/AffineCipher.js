@@ -13,7 +13,7 @@ const key = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
  * @param {Number} m - Modulos value
  * @return {Number} Return n mod m
  */
-function mod (n, m) {
+function mod(n, m) {
   return ((n % m) + m) % m
 }
 
@@ -23,7 +23,7 @@ function mod (n, m) {
  * @param {Number} m - Modulos value
  * @return {Number} Return modular multiplicative inverse of coefficient a and modulos m
  */
-function inverseMod (a, m) {
+function inverseMod(a, m) {
   for (let x = 1; x < m; x++) {
     if (mod(a * x, m) === 1) return x
   }
@@ -36,7 +36,7 @@ function inverseMod (a, m) {
  * @param {Number} b - B coefficient to be checked
  * @return {Boolean} Result of the checking
  */
-function isCorrectFormat (str, a, b) {
+function isCorrectFormat(str, a, b) {
   if (typeof a !== 'number' || typeof b !== 'number') {
     throw new TypeError('Coefficient a, b should be number')
   }
@@ -57,8 +57,8 @@ function isCorrectFormat (str, a, b) {
  * @param {String} char - Character index to be found
  * @return {Boolean} Character index
  */
-function findCharIndex (char) {
-  return char.toUpperCase().charCodeAt(0) - ('A').charCodeAt(0)
+function findCharIndex(char) {
+  return char.toUpperCase().charCodeAt(0) - 'A'.charCodeAt(0)
 }
 
 /**
@@ -69,7 +69,7 @@ function findCharIndex (char) {
  * @return {String} result - Encrypted string
  */
 
-function encrypt (str, a, b) {
+function encrypt(str, a, b) {
   let result = ''
   if (isCorrectFormat(str, a, b)) {
     for (let x = 0; x < str.length; x++) {
@@ -88,7 +88,7 @@ function encrypt (str, a, b) {
  * @param {Number} b - B coefficient
  * @return {String} result - Decrypted string
  */
-function decrypt (str, a, b) {
+function decrypt(str, a, b) {
   let result = ''
   if (isCorrectFormat(str, a, b)) {
     str = str.split(' ')

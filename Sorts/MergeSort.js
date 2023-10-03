@@ -15,7 +15,7 @@
  * @param {Array} list2 Sublist to break down.
  * @return {Array} The merged list.
  */
-export function merge (list1, list2) {
+export function merge(list1, list2) {
   const results = []
   let i = 0
   let j = 0
@@ -37,7 +37,7 @@ export function merge (list1, list2) {
  * @param {Array} list List to be sorted.
  * @return {Array} The sorted list.
  */
-export function mergeSort (list) {
+export function mergeSort(list) {
   if (list.length < 2) return list
 
   const listHalf = Math.floor(list.length / 2)

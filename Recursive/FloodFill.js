@@ -9,7 +9,16 @@
  * @see https://www.techiedelight.com/flood-fill-algorithm/
  */
 
-const neighbors = [[-1, -1], [-1, 0], [-1, 1], [0, -1], [0, 1], [1, -1], [1, 0], [1, 1]]
+const neighbors = [
+  [-1, -1],
+  [-1, 0],
+  [-1, 1],
+  [0, -1],
+  [0, 1],
+  [1, -1],
+  [1, 0],
+  [1, 1]
+]
 
 /**
  * Implements the flood fill algorithm through a breadth-first approach using a queue.
@@ -19,11 +28,18 @@ const neighbors = [[-1, -1], [-1, 0], [-1, 1], [0, -1], [0, 1], [1, -1], [1, 0],
  * @param targetColor The old color to be replaced.
  * @param replacementColor The new color to replace the old one.
  */
-export function breadthFirstSearch (rgbData, location, targetColor, replacementColor) {
-  if (location[0] < 0 ||
+export function breadthFirstSearch(
+  rgbData,
+  location,
+  targetColor,
+  replacementColor
+) {
+  if (
+    location[0] < 0 ||
     location[0] >= rgbData.length ||
     location[1] < 0 ||
-    location[1] >= rgbData[0].length) {
+    location[1] >= rgbData[0].length
+  ) {
     throw new Error('location should point to a pixel within the rgbData')
   }
 
@@ -43,11 +59,18 @@ export function breadthFirstSearch (rgbData, location, targetColor, replacementC
  * @param targetColor The old color to be replaced.
  * @param replacementColor The new color to replace the old one.
  */
-export function depthFirstSearch (rgbData, location, targetColor, replacementColor) {
-  if (location[0] < 0 ||
+export function depthFirstSearch(
+  rgbData,
+  location,
+  targetColor,
+  replacementColor
+) {
+  if (
+    location[0] < 0 ||
     location[0] >= rgbData.length ||
     location[1] < 0 ||
-    location[1] >= rgbData[0].length) {
+    location[1] >= rgbData[0].length
+  ) {
     throw new Error('location should point to a pixel within the rgbData')
   }
 
@@ -63,7 +86,13 @@ export function depthFirstSearch (rgbData, location, targetColor, replacementCol
  * @param replacementColor The new color to replace the old one.
  * @param queue The locations that still need to be visited.
  */
-function breadthFirstFill (rgbData, location, targetColor, replacementColor, queue) {
+function breadthFirstFill(
+  rgbData,
+  location,
+  targetColor,
+  replacementColor,
+  queue
+) {
   const currentLocation = queue[0]
   queue.shift()
 
@@ -88,7 +117,7 @@ function breadthFirstFill (rgbData, location, targetColor, replacementColor, que
  * @param targetColor The old color to be replaced.
  * @param replacementColor The new color to replace the old one.
  */
-function depthFirstFill (rgbData, location, targetColor, replacementColor) {
+function depthFirstFill(rgbData, location, targetColor, replacementColor) {
   if (rgbData[location[0]][location[1]] === targetColor) {
     rgbData[location[0]][location[1]] = replacementColor
 

@@ -4,7 +4,7 @@
  * more information: https://en.wikipedia.org/wiki/Stooge_sort
  *
  */
-export function stoogeSort (items, leftEnd, rightEnd) {
+export function stoogeSort(items, leftEnd, rightEnd) {
   if (items[rightEnd - 1] < items[leftEnd]) {
     const temp = items[leftEnd]
     items[leftEnd] = items[rightEnd - 1]

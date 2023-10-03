@@ -21,8 +21,19 @@ describe('BreadthFirstSearch', () => {
   */
 
   it('should return the visited nodes', () => {
-    expect(Array.from(breadthFirstSearch(graph, 'C'))).toEqual(['C', 'D', 'A', 'B', 'E'])
-    expect(Array.from(breadthFirstSearch(graph, 'A'))).toEqual(['A', 'B', 'D', 'E'])
+    expect(Array.from(breadthFirstSearch(graph, 'C'))).toEqual([
+      'C',
+      'D',
+      'A',
+      'B',
+      'E'
+    ])
+    expect(Array.from(breadthFirstSearch(graph, 'A'))).toEqual([
+      'A',
+      'B',
+      'D',
+      'E'
+    ])
     expect(Array.from(breadthFirstSearch(graph, 'F'))).toEqual(['F', 'G'])
   })
 })

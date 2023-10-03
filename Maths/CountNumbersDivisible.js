@@ -19,13 +19,19 @@
  * @returns {number} count of total number of divisibles
  */
 const countNumbersDivisible = (num1, num2, divider) => {
-  if (typeof num1 !== 'number' || typeof num2 !== 'number' || typeof divider !== 'number') {
+  if (
+    typeof num1 !== 'number' ||
+    typeof num2 !== 'number' ||
+    typeof divider !== 'number'
+  ) {
     throw new Error('Invalid input, please pass only numbers')
   }
 
   // Valid number range is num1 < num2, otherwise throw error
   if (num1 > num2) {
-    throw new Error('Invalid number range, please provide numbers such that num1 < num2')
+    throw new Error(
+      'Invalid number range, please provide numbers such that num1 < num2'
+    )
   }
 
   // if divider is out of range then return 0

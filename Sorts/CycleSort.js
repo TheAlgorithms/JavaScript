@@ -14,7 +14,7 @@
  * @param {number[]} list An array of numbers to be sorted.
  * @return {number[]} An array of numbers sorted in increasing order.
  */
-function cycleSort (list) {
+function cycleSort(list) {
   for (let cycleStart = 0; cycleStart < list.length; cycleStart++) {
     let value = list[cycleStart]
     let position = cycleStart

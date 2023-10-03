@@ -20,14 +20,30 @@ describe('rgbToHsv', () => {
   // "approximatelyEqualHsv" needed because of small deviations due to rounding for the RGB-values
   it('should calculate the correct HSV values', () => {
     expect(approximatelyEqualHsv(rgbToHsv(0, 0, 0), [0, 0, 0])).toEqual(true)
-    expect(approximatelyEqualHsv(rgbToHsv(255, 255, 255), [0, 0, 1])).toEqual(true)
+    expect(approximatelyEqualHsv(rgbToHsv(255, 255, 255), [0, 0, 1])).toEqual(
+      true
+    )
     expect(approximatelyEqualHsv(rgbToHsv(255, 0, 0), [0, 1, 1])).toEqual(true)
-    expect(approximatelyEqualHsv(rgbToHsv(255, 255, 0), [60, 1, 1])).toEqual(true)
-    expect(approximatelyEqualHsv(rgbToHsv(0, 255, 0), [120, 1, 1])).toEqual(true)
-    expect(approximatelyEqualHsv(rgbToHsv(0, 0, 255), [240, 1, 1])).toEqual(true)
-    expect(approximatelyEqualHsv(rgbToHsv(255, 0, 255), [300, 1, 1])).toEqual(true)
-    expect(approximatelyEqualHsv(rgbToHsv(64, 128, 128), [180, 0.5, 0.5])).toEqual(true)
-    expect(approximatelyEqualHsv(rgbToHsv(193, 196, 224), [234, 0.14, 0.88])).toEqual(true)
-    expect(approximatelyEqualHsv(rgbToHsv(128, 32, 80), [330, 0.75, 0.5])).toEqual(true)
+    expect(approximatelyEqualHsv(rgbToHsv(255, 255, 0), [60, 1, 1])).toEqual(
+      true
+    )
+    expect(approximatelyEqualHsv(rgbToHsv(0, 255, 0), [120, 1, 1])).toEqual(
+      true
+    )
+    expect(approximatelyEqualHsv(rgbToHsv(0, 0, 255), [240, 1, 1])).toEqual(
+      true
+    )
+    expect(approximatelyEqualHsv(rgbToHsv(255, 0, 255), [300, 1, 1])).toEqual(
+      true
+    )
+    expect(
+      approximatelyEqualHsv(rgbToHsv(64, 128, 128), [180, 0.5, 0.5])
+    ).toEqual(true)
+    expect(
+      approximatelyEqualHsv(rgbToHsv(193, 196, 224), [234, 0.14, 0.88])
+    ).toEqual(true)
+    expect(
+      approximatelyEqualHsv(rgbToHsv(128, 32, 80), [330, 0.75, 0.5])
+    ).toEqual(true)
   })
 })

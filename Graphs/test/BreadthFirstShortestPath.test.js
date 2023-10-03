@@ -21,8 +21,19 @@ describe('BreadthFirstShortestPath', () => {
   */
 
   it('should return the visited nodes', () => {
-    expect(breadthFirstShortestPath(graph, 'C', 'E')).toEqual(['C', 'D', 'A', 'B', 'E'])
-    expect(breadthFirstShortestPath(graph, 'E', 'B')).toEqual(['E', 'D', 'A', 'B'])
+    expect(breadthFirstShortestPath(graph, 'C', 'E')).toEqual([
+      'C',
+      'D',
+      'A',
+      'B',
+      'E'
+    ])
+    expect(breadthFirstShortestPath(graph, 'E', 'B')).toEqual([
+      'E',
+      'D',
+      'A',
+      'B'
+    ])
     expect(breadthFirstShortestPath(graph, 'F', 'G')).toEqual(['F', 'G'])
     expect(breadthFirstShortestPath(graph, 'A', 'G')).toEqual([])
   })

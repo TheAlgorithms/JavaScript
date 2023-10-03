@@ -1,11 +1,16 @@
-import { ReverseStringIterative, ReverseStringIterativeInplace } from '../ReverseString'
+import {
+  ReverseStringIterative,
+  ReverseStringIterativeInplace
+} from '../ReverseString'
 
 describe('ReverseStringIterative', () => {
   it('expects to reverse a simple string', () => {
     expect(ReverseStringIterative('reverse')).toEqual('esrever')
     expect(ReverseStringIterative('some')).toEqual('emos')
     expect(ReverseStringIterative('string')).toEqual('gnirts')
-    expect(ReverseStringIterative('The Algorithms Javascript')).toEqual('tpircsavaJ smhtiroglA ehT')
+    expect(ReverseStringIterative('The Algorithms Javascript')).toEqual(
+      'tpircsavaJ smhtiroglA ehT'
+    )
   })
 
   it('expects to reverse a string with spaces in between', () => {
@@ -25,7 +30,9 @@ describe('ReverseStringIterative', () => {
   `(
     'expects to throw a type error given a value that is $input',
     ({ input }) => {
-      expect(() => ReverseStringIterative(input)).toThrow('The given value is not a string')
+      expect(() => ReverseStringIterative(input)).toThrow(
+        'The given value is not a string'
+      )
     }
   )
 

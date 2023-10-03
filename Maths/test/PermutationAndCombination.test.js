@@ -1,4 +1,8 @@
-import { factorial, permutation, combination } from '../PermutationAndCombination'
+import {
+  factorial,
+  permutation,
+  combination
+} from '../PermutationAndCombination'
 
 describe('Factorial', () => {
   it('factorial(5)', () => {

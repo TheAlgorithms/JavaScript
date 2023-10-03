@@ -6,7 +6,7 @@
  */
 
 class Vector2 {
-  constructor (x, y) {
+  constructor(x, y) {
     this.x = x
     this.y = y
   }
@@ -17,7 +17,7 @@ class Vector2 {
    * @param vector The vector to compare to.
    * @returns Whether they are exactly equal or not.
    */
-  equalsExactly (vector) {
+  equalsExactly(vector) {
     return this.x === vector.x && this.y === vector.y
   }
 
@@ -28,8 +28,11 @@ class Vector2 {
    * @param epsilon The allowed discrepancy for the x-values and the y-values.
    * @returns Whether they are approximately equal or not.
    */
-  equalsApproximately (vector, epsilon) {
-    return (Math.abs(this.x - vector.x) < epsilon && Math.abs(this.y - vector.y) < epsilon)
+  equalsApproximately(vector, epsilon) {
+    return (
+      Math.abs(this.x - vector.x) < epsilon &&
+      Math.abs(this.y - vector.y) < epsilon
+    )
   }
 
   /**
@@ -37,7 +40,7 @@ class Vector2 {
    *
    * @returns The length of the vector.
    */
-  length () {
+  length() {
     return Math.sqrt(this.x * this.x + this.y * this.y)
   }
 
@@ -46,7 +49,7 @@ class Vector2 {
    *
    * @returns The normalized vector.
    */
-  normalize () {
+  normalize() {
     const length = this.length()
     if (length === 0) {
       throw new Error('Cannot normalize vectors of length 0')
@@ -60,7 +63,7 @@ class Vector2 {
    * @param vector The vector to be added.
    * @returns The sum-vector.
    */
-  add (vector) {
+  add(vector) {
     const x = this.x + vector.x
     const y = this.y + vector.y
     return new Vector2(x, y)
@@ -72,7 +75,7 @@ class Vector2 {
    * @param vector The vector to be subtracted.
    * @returns The difference-vector.
    */
-  subtract (vector) {
+  subtract(vector) {
     const x = this.x - vector.x
     const y = this.y - vector.y
     return new Vector2(x, y)
@@ -84,7 +87,7 @@ class Vector2 {
    * @param scalar The factor by which to multiply the vector.
    * @returns The scaled vector.
    */
-  multiply (scalar) {
+  multiply(scalar) {
     const x = this.x * scalar
     const y = this.y * scalar
     return new Vector2(x, y)
@@ -96,7 +99,7 @@ class Vector2 {
    * @param vector The vector to which to calculate the distance.
    * @returns The distance.
    */
-  distance (vector) {
+  distance(vector) {
     const difference = vector.subtract(this)
     return difference.length()
   }
@@ -107,7 +110,7 @@ class Vector2 {
    * @param vector The vector used for the multiplication.
    * @returns The resulting dot product.
    */
-  dotProduct (vector) {
+  dotProduct(vector) {
     return this.x * vector.x + this.y * vector.y
   }
 
@@ -117,7 +120,7 @@ class Vector2 {
    * @param angleInRadians The angle in radians by which to rotate the vector.
    * @returns The rotated vector.
    */
-  rotate (angleInRadians) {
+  rotate(angleInRadians) {
     const ca = Math.cos(angleInRadians)
     const sa = Math.sin(angleInRadians)
     const x = ca * this.x - sa * this.y
@@ -131,7 +134,7 @@ class Vector2 {
    * @param vector The 2nd vector for the measurement.
    * @returns The angle in radians.
    */
-  angleBetween (vector) {
+  angleBetween(vector) {
     return Math.atan2(vector.y, vector.x) - Math.atan2(this.y, this.x)
   }
 }

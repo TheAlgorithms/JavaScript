@@ -9,14 +9,14 @@
 import { BinaryLifting } from './BinaryLifting'
 
 class LCABinaryLifting extends BinaryLifting {
-  constructor (root, tree) {
+  constructor(root, tree) {
     super(root, tree)
     this.depth = new Map() // depth[node] stores the depth of node from root
     this.depth.set(root, 1)
     this.dfsDepth(root, root)
   }
 
-  dfsDepth (node, parent) {
+  dfsDepth(node, parent) {
     // DFS to find depth of every node in the tree
     for (const child of this.connections.get(node)) {
       if (child !== parent) {
@@ -26,10 +26,10 @@ class LCABinaryLifting extends BinaryLifting {
     }
   }
 
-  getLCA (node1, node2) {
+  getLCA(node1, node2) {
     // We make sure that node1 is the deeper node among node1 and node2
     if (this.depth.get(node1) < this.depth.get(node2)) {
-      [node1, node2] = [node2, node1]
+      ;[node1, node2] = [node2, node1]
     }
     // We check if node1 is the ancestor of node2, and if so, then return node1
     const k = this.depth.get(node1) - this.depth.get(node2)
@@ -48,7 +48,7 @@ class LCABinaryLifting extends BinaryLifting {
   }
 }
 
-function lcaBinaryLifting (root, tree, queries) {
+function lcaBinaryLifting(root, tree, queries) {
   const graphObject = new LCABinaryLifting(root, tree)
   const lowestCommonAncestors = []
   for (const [node1, node2] of queries) {

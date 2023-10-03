@@ -14,6 +14,8 @@ describe('BinaryToHex', () => {
   })
 
   it('expects to return correct hexadecimal value, matching (num).toString(16)', () => {
-    expect(binaryToHex('1111')).toBe(parseInt('1111', 2).toString(16).toUpperCase())
+    expect(binaryToHex('1111')).toBe(
+      parseInt('1111', 2).toString(16).toUpperCase()
+    )
   })
 })
