@@ -10,8 +10,8 @@
  * const maxi = max(5,3) // Returns max number i.e. 5
  * const mini = min(5,3); // Returns min number i.e. 3
  */
-const max = (x, y) => x ^ ((x ^ y) & -(x < y ? 1 : 0));
+const max = (x, y) => x ^ ((x ^ y) & -(x < y ? 1 : 0))
 
-const min = (x, y) => y ^ ((x ^ y) & -(x < y ? 1 : 0));
+const min = (x, y) => y ^ ((x ^ y) & -(x < y ? 1 : 0))
 
-export { min, max };
+export { min, max }
