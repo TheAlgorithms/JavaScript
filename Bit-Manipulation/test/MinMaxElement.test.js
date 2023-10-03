@@ -5,5 +5,5 @@ test('Find max element from 5 and 3 :', () => {
 })
 
 test('Find min element from 5 and 3 :', () => {
-  expect(min(5,3).toBe(3)
+  expect(min(5,3)).toBe(3)
 })
