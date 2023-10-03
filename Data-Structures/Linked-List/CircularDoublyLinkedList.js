@@ -107,7 +107,7 @@ class CircularDoublyLinkedList {
 
   // Print the list
   print () {
-    const elements = [];
+    const elements = []
     let currentNode = this.head
     if (!currentNode) return
     do {
