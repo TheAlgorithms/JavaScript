@@ -6,7 +6,7 @@ describe('CircularDoublyLinkedList', () => {
    * @param {Array} elements - The elements to append.
    * @returns {CircularDoublyLinkedList} - The created list.
    */
-  function createAndAppend(elements) {
+  function createAndAppend (elements) {
     const list = new CircularDoublyLinkedList()
     elements.forEach((element) => list.append(element))
     return list
@@ -43,19 +43,16 @@ describe('CircularDoublyLinkedList', () => {
 
   it('Check toArray', () => {
     const list = createAndAppend([20])
-    
     expect(list.toArray()).toEqual([20])
   })
 
   it('Check createIterator', () => {
     const list = createAndAppend([10, 20, 30])
     const iterator = list.createIterator()
-    
-    const elements = [];
+    const elements = []
     for (let element of iterator) {
       elements.push(element)
     }
-    
     expect(elements).toEqual([10, 20, 30])
   })
 
