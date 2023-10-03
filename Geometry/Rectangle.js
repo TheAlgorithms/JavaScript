@@ -1,5 +1,6 @@
 /**
  * Represents a Rectangle with specified length and width.
+ * Explanation:- https://en.wikipedia.org/wiki/Rectangle
  */
 export default class Rectangle {
   /**
