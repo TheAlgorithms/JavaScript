@@ -1,6 +1,10 @@
 // Zeller's Congruence Algorithm finds the day of the week from the Gregorian Date. Wikipedia: https://en.wikipedia.org/wiki/Zeller%27s_congruence
 export const zellersCongruenceAlgorithm = (day, month, year) => {
-  if (typeof day !== 'number' || typeof month !== 'number' || typeof year !== 'number') {
+  if (
+    typeof day !== 'number' ||
+    typeof month !== 'number' ||
+    typeof year !== 'number'
+  ) {
     throw new TypeError('Arguments are not all numbers.')
   }
   const q = day
@@ -18,6 +22,14 @@ export const zellersCongruenceAlgorithm = (day, month, year) => {
       Math.floor(Math.floor(y / 100) / 4) +
       5 * Math.floor(y / 100)) %
     7
-  const days = ['Saturday', 'Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday']
+  const days = [
+    'Saturday',
+    'Sunday',
+    'Monday',
+    'Tuesday',
+    'Wednesday',
+    'Thursday',
+    'Friday'
+  ]
   return days[day]
 }

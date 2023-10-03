@@ -11,9 +11,14 @@ const caesarCipher = (str, rotation) => {
     throw new TypeError('Arguments are invalid')
   }
 
-  const alphabets = new Array(26).fill().map((_, index) => String.fromCharCode(97 + index)) // generate all lower alphabets array a-z
+  const alphabets = new Array(26)
+    .fill()
+    .map((_, index) => String.fromCharCode(97 + index)) // generate all lower alphabets array a-z
 
-  const cipherMap = alphabets.reduce((map, char, index) => map.set(char, alphabets[(rotation + index) % 26]), new Map())
+  const cipherMap = alphabets.reduce(
+    (map, char, index) => map.set(char, alphabets[(rotation + index) % 26]),
+    new Map()
+  )
 
   return str.replace(/[a-z]/gi, (char) => {
     if (/[A-Z]/.test(char)) {

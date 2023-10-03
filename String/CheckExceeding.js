@@ -20,7 +20,9 @@ const checkExceeding = (str) => {
     const { [i]: char, [i + 1]: adjacentChar } = upperChars
 
     if (char !== adjacentChar) {
-      adjacentDiffList.push(Math.abs(char.charCodeAt() - adjacentChar.charCodeAt()))
+      adjacentDiffList.push(
+        Math.abs(char.charCodeAt() - adjacentChar.charCodeAt())
+      )
     }
   }
 

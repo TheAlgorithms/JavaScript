@@ -10,7 +10,11 @@ const getMonthDays = (monthNumber, year) => {
   const the31DaysMonths = [1, 3, 5, 7, 8, 10, 12]
   const the30DaysMonths = [4, 6, 9, 11]
 
-  if (!the31DaysMonths.includes(monthNumber) && !the30DaysMonths.includes(monthNumber) && monthNumber !== 2) {
+  if (
+    !the31DaysMonths.includes(monthNumber) &&
+    !the30DaysMonths.includes(monthNumber) &&
+    monthNumber !== 2
+  ) {
     throw new TypeError('Invalid Month Number.')
   }
 

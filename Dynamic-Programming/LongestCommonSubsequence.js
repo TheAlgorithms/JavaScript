@@ -28,7 +28,9 @@ References:
  * @returns {number} Length of the longest common subsequence
  */
 function longestCommonSubsequence(str1, str2) {
-  const memo = new Array(str1.length + 1).fill(null).map(() => new Array(str2.length + 1).fill(null))
+  const memo = new Array(str1.length + 1)
+    .fill(null)
+    .map(() => new Array(str2.length + 1).fill(null))
 
   function recursive(end1, end2) {
     if (end1 === -1 || end2 === -1) {
@@ -43,7 +45,10 @@ function longestCommonSubsequence(str1, str2) {
       memo[end1][end2] = 1 + recursive(end1 - 1, end2 - 1)
       return memo[end1][end2]
     } else {
-      memo[end1][end2] = Math.max(recursive(end1 - 1, end2), recursive(end1, end2 - 1))
+      memo[end1][end2] = Math.max(
+        recursive(end1 - 1, end2),
+        recursive(end1, end2 - 1)
+      )
       return memo[end1][end2]
     }
   }

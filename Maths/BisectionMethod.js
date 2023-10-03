@@ -26,7 +26,9 @@ const findRoot = (a, b, func, numberOfIterations) => {
     return func(a) * func(b) < 0
   }
   if (hasRoot(a, b, func) === false) {
-    throw Error('Product f(a)*f(b) has to be negative so that Bolzano theorem is applied')
+    throw Error(
+      'Product f(a)*f(b) has to be negative so that Bolzano theorem is applied'
+    )
   }
 
   // Declare m
@@ -44,7 +46,8 @@ const findRoot = (a, b, func, numberOfIterations) => {
 
   // Depending on the sign of the products above, decide which position will m fill (a's or b's)
   if (prod1 > 0 && prod2 < 0) return findRoot(m, b, func, --numberOfIterations)
-  else if (prod1 < 0 && prod2 > 0) return findRoot(a, m, func, --numberOfIterations)
+  else if (prod1 < 0 && prod2 > 0)
+    return findRoot(a, m, func, --numberOfIterations)
   else throw Error('Unexpected behavior')
 }
 

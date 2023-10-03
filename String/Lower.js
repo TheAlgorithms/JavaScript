@@ -12,7 +12,9 @@ const lower = (str) => {
     throw new TypeError('Invalid Input Type')
   }
 
-  return str.replace(/[A-Z]/g, (char) => String.fromCharCode(char.charCodeAt() + 32))
+  return str.replace(/[A-Z]/g, (char) =>
+    String.fromCharCode(char.charCodeAt() + 32)
+  )
 }
 
 export default lower

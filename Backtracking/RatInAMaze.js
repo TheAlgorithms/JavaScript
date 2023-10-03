@@ -22,15 +22,19 @@
  * @throws TypeError When the given grid is invalid.
  */
 function validateGrid(grid) {
-  if (!Array.isArray(grid) || grid.length === 0) throw new TypeError('Grid must be a non-empty array')
+  if (!Array.isArray(grid) || grid.length === 0)
+    throw new TypeError('Grid must be a non-empty array')
 
-  const allRowsHaveCorrectLength = grid.every((row) => row.length === grid.length)
+  const allRowsHaveCorrectLength = grid.every(
+    (row) => row.length === grid.length
+  )
   if (!allRowsHaveCorrectLength) throw new TypeError('Grid must be a square')
 
   const allCellsHaveValidValues = grid.every((row) => {
     return row.every((cell) => cell === 0 || cell === 1)
   })
-  if (!allCellsHaveValidValues) throw new TypeError('Grid must only contain 0s and 1s')
+  if (!allCellsHaveValidValues)
+    throw new TypeError('Grid must only contain 0s and 1s')
 }
 
 function isSafe(grid, x, y) {

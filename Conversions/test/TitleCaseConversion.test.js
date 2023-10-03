@@ -6,7 +6,9 @@ describe('Tests for the titleCaseConversion function', () => {
   })
 
   it('should return the input string when the input string is a title case string', () => {
-    expect(titleCaseConversion('A Proper Title Case String')).toEqual('A Proper Title Case String')
+    expect(titleCaseConversion('A Proper Title Case String')).toEqual(
+      'A Proper Title Case String'
+    )
   })
 
   it('should return a title case string when input is an all-uppercase string', () => {
@@ -34,7 +36,9 @@ describe('Tests for the titleCaseConversion function', () => {
   })
 
   it('should return a title case string when input is an all-lowercase string with punctuation', () => {
-    expect(titleCaseConversion('lower, case, input.')).toEqual('Lower, Case, Input.')
+    expect(titleCaseConversion('lower, case, input.')).toEqual(
+      'Lower, Case, Input.'
+    )
   })
 
   it('should return a title case string when input is an mixed-case string', () => {
@@ -46,6 +50,8 @@ describe('Tests for the titleCaseConversion function', () => {
   })
 
   it('should return a title case string when input is an mixed-case string with punctuation', () => {
-    expect(titleCaseConversion('mixeD, CaSe, INPuT!')).toEqual('Mixed, Case, Input!')
+    expect(titleCaseConversion('mixeD, CaSe, INPuT!')).toEqual(
+      'Mixed, Case, Input!'
+    )
   })
 })

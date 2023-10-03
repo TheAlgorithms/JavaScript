@@ -19,7 +19,9 @@ class OpenKnightTour {
       [i - 1, j + 2]
     ]
 
-    return moves.filter(([y, x]) => y >= 0 && y < this.size && x >= 0 && x < this.size)
+    return moves.filter(
+      ([y, x]) => y >= 0 && y < this.size && x >= 0 && x < this.size
+    )
   }
 
   isComplete() {

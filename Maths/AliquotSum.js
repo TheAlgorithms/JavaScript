@@ -16,7 +16,8 @@ function aliquotSum(input) {
   if (input < 0) throw new TypeError('Input cannot be Negative')
 
   // input can't be a decimal
-  if (Math.floor(input) !== input) throw new TypeError('Input cannot be a Decimal')
+  if (Math.floor(input) !== input)
+    throw new TypeError('Input cannot be a Decimal')
 
   // Dealing with 1, which isn't a prime
   if (input === 1) return 0

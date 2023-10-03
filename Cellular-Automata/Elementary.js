@@ -70,13 +70,19 @@ export function getNextElementaryGeneration(generation, rule) {
   const MAX_RULE = 255
 
   if (!Number.isInteger(rule)) {
-    throw new Error(`Rule must be an integer between the values 0 and 255 (got ${rule})`)
+    throw new Error(
+      `Rule must be an integer between the values 0 and 255 (got ${rule})`
+    )
   }
   if (rule < MIN_RULE || rule > MAX_RULE) {
-    throw new RangeError(`Rule must be an integer between the values 0 and 255 (got ${rule})`)
+    throw new RangeError(
+      `Rule must be an integer between the values 0 and 255 (got ${rule})`
+    )
   }
 
-  const binaryRule = rule.toString(2).padStart(NUM_ELEMENTARY_NEIGHBORHOOD_STATES, '0')
+  const binaryRule = rule
+    .toString(2)
+    .padStart(NUM_ELEMENTARY_NEIGHBORHOOD_STATES, '0')
   const ruleData = binaryRule.split('').map((bit) => Number.parseInt(bit)) // note that ruleData[0] represents "all alive" while ruleData[7] represents "all dead"
   const output = new Array(generation.length)
   const LEFT_DEAD = 4 // 100 in binary

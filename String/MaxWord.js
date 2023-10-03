@@ -23,7 +23,8 @@ const maxWord = (sentence = '') => {
 
   const occurrences = {}
   words.forEach((word) => {
-    occurrences[word.toLocaleLowerCase()] = occurrences[word.toLocaleLowerCase()] + 1 || 1
+    occurrences[word.toLocaleLowerCase()] =
+      occurrences[word.toLocaleLowerCase()] + 1 || 1
   })
 
   const max = Object.keys(occurrences).reduce(

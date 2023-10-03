@@ -15,6 +15,8 @@ describe('Testing ROT13 function', () => {
     expect(ROT13('ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz')).toBe(
       'NOPQRSTUVWXYZABCDEFGHIJKLMnopqrstuvwxyzabcdefghijklm'
     )
-    expect(ROT13('The quick brown fox jumps over the lazy dog')).toBe('Gur dhvpx oebja sbk whzcf bire gur ynml qbt')
+    expect(ROT13('The quick brown fox jumps over the lazy dog')).toBe(
+      'Gur dhvpx oebja sbk whzcf bire gur ynml qbt'
+    )
   })
 })

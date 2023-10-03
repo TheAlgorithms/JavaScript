@@ -67,7 +67,9 @@ function integralEvaluation(N, a, b, func) {
   result *= temp
 
   if (Number.isNaN(result)) {
-    throw Error("Result is NaN. The input interval doesn't belong to the functions domain")
+    throw Error(
+      "Result is NaN. The input interval doesn't belong to the functions domain"
+    )
   }
 
   return result

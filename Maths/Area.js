@@ -85,14 +85,20 @@ const areaTriangleWithAllThreeSides = (side1, side2, side3) => {
   validateNumericParam(side1, 'side1')
   validateNumericParam(side2, 'side2')
   validateNumericParam(side3, 'side3')
-  if (side1 + side2 <= side3 || side1 + side3 <= side2 || side2 + side3 <= side1) {
+  if (
+    side1 + side2 <= side3 ||
+    side1 + side3 <= side2 ||
+    side2 + side3 <= side1
+  ) {
     throw new TypeError('Invalid Triangle sides.')
   }
   // Finding Semi perimeter of the triangle using formula
   const semi = (side1 + side2 + side3) / 2
 
   // Calculating the area of the triangle
-  const area = Math.sqrt(semi * (semi - side1) * (semi - side2) * (semi - side3))
+  const area = Math.sqrt(
+    semi * (semi - side1) * (semi - side2) * (semi - side3)
+  )
   return Number(area.toFixed(2))
 }
 

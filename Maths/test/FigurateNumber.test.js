@@ -1,4 +1,9 @@
-import { isTriangular, isTetrahedral, isPentatope, checkAll } from '../FigurateNumber'
+import {
+  isTriangular,
+  isTetrahedral,
+  isPentatope,
+  checkAll
+} from '../FigurateNumber'
 
 describe('FigurateNumber', () => {
   it('Triangular : should return true', () => {

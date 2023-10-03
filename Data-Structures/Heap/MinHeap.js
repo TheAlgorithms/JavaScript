@@ -58,7 +58,10 @@ class MinHeap {
 
     while (childOneIdx <= endIdx) {
       const childTwoIdx = childOneIdx + 1 <= endIdx ? childOneIdx + 1 : -1
-      const swapIdx = childTwoIdx !== -1 && heap[childTwoIdx] < heap[childOneIdx] ? childTwoIdx : childOneIdx
+      const swapIdx =
+        childTwoIdx !== -1 && heap[childTwoIdx] < heap[childOneIdx]
+          ? childTwoIdx
+          : childOneIdx
 
       if (heap[swapIdx] < heap[currIdx]) {
         this.swap(currIdx, swapIdx, heap)

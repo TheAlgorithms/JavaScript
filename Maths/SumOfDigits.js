@@ -45,4 +45,8 @@ function sumOfDigitsUsingRecursion(number) {
   return (number % 10) + sumOfDigitsUsingRecursion(Math.floor(number / 10))
 }
 
-export { sumOfDigitsUsingRecursion, sumOfDigitsUsingLoop, sumOfDigitsUsingString }
+export {
+  sumOfDigitsUsingRecursion,
+  sumOfDigitsUsingLoop,
+  sumOfDigitsUsingString
+}

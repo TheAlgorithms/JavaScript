@@ -97,7 +97,8 @@ class KeyPriorityQueue {
 
   _getPriorityOrInfinite(position) {
     // Helper function, returns priority of the node, or Infinite if no node corresponds to this position
-    if (position >= 0 && position < this._heap.length) return this.priorities.get(this._heap[position])
+    if (position >= 0 && position < this._heap.length)
+      return this.priorities.get(this._heap[position])
     else return Infinity
   }
 
@@ -146,7 +147,10 @@ class KeyPriorityQueue {
 
   _swap(position1, position2) {
     // Helper function to swap 2 nodes
-    ;[this._heap[position1], this._heap[position2]] = [this._heap[position2], this._heap[position1]]
+    ;[this._heap[position1], this._heap[position2]] = [
+      this._heap[position2],
+      this._heap[position1]
+    ]
   }
 }
 

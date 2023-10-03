@@ -46,7 +46,11 @@ const validateCreditCard = (creditCardString) => {
   if (!(creditCardStringLength >= 13 && creditCardStringLength <= 16)) {
     throw new Error(errorMessage + 'of its length.')
   }
-  if (!validStartSubString.some((subString) => creditCardString.startsWith(subString))) {
+  if (
+    !validStartSubString.some((subString) =>
+      creditCardString.startsWith(subString)
+    )
+  ) {
     throw new Error(errorMessage + 'of its first two digits.')
   }
   if (!luhnValidation(creditCardString)) {

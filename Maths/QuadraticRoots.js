@@ -27,7 +27,10 @@ const quadraticRoots = (a, b, c) => {
   } else {
     // Two real roots
     const sqrtDiscriminant = Math.sqrt(discriminant)
-    return [(-b + sqrtDiscriminant) / (2 * a), (-b - sqrtDiscriminant) / (2 * a)]
+    return [
+      (-b + sqrtDiscriminant) / (2 * a),
+      (-b - sqrtDiscriminant) / (2 * a)
+    ]
   }
 }
 

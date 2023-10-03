@@ -57,12 +57,15 @@ export function getRGBData(
     for (let imageY = 0; imageY < imageHeight; imageY++) {
       // determine the figure-coordinates based on the image-coordinates
       const figureX = figureCenterX + (imageX / imageWidth - 0.5) * figureWidth
-      const figureY = figureCenterY + (imageY / imageHeight - 0.5) * figureHeight
+      const figureY =
+        figureCenterY + (imageY / imageHeight - 0.5) * figureHeight
 
       const distance = getDistance(figureX, figureY, maxStep)
 
       // color the corresponding pixel based on the selected coloring-function
-      rgbData[imageX][imageY] = useDistanceColorCoding ? colorCodedColorMap(distance) : blackAndWhiteColorMap(distance)
+      rgbData[imageX][imageY] = useDistanceColorCoding
+        ? colorCodedColorMap(distance)
+        : blackAndWhiteColorMap(distance)
     }
   }
 

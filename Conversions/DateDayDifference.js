@@ -31,9 +31,13 @@ const DateDayDifference = (date1, date2) => {
     return new TypeError('Argument is not a string.')
   }
   // extract the first date
-  const [firstDateDay, firstDateMonth, firstDateYear] = date1.split('/').map((ele) => Number(ele))
+  const [firstDateDay, firstDateMonth, firstDateYear] = date1
+    .split('/')
+    .map((ele) => Number(ele))
   // extract the second date
-  const [secondDateDay, secondDateMonth, secondDateYear] = date2.split('/').map((ele) => Number(ele))
+  const [secondDateDay, secondDateMonth, secondDateYear] = date2
+    .split('/')
+    .map((ele) => Number(ele))
   // check the both data are valid or not.
   if (
     firstDateDay < 0 ||
@@ -48,7 +52,8 @@ const DateDayDifference = (date1, date2) => {
     return new TypeError('Date is not valid.')
   }
   return Math.abs(
-    DateToDay(secondDateDay, secondDateMonth, secondDateYear) - DateToDay(firstDateDay, firstDateMonth, firstDateYear)
+    DateToDay(secondDateDay, secondDateMonth, secondDateYear) -
+      DateToDay(firstDateDay, firstDateMonth, firstDateYear)
   )
 }
 

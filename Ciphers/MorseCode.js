@@ -73,7 +73,9 @@ const morse = (msg, dot = '*', dash = '-') => {
     .split('')
     .forEach((e) => {
       if (/[a-zA-Z]/.test(e)) {
-        newMsg += key[e.toUpperCase()].replaceAll('*', dot).replaceAll('-', dash)
+        newMsg += key[e.toUpperCase()]
+          .replaceAll('*', dot)
+          .replaceAll('-', dash)
       } else if (Object.keys(key).includes(e)) {
         newMsg += key[e].replaceAll('*', dot).replaceAll('-', dash)
       } else {

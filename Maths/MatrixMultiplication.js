@@ -27,7 +27,9 @@ const twoMatricesCheck = (first, second) => {
   ]
 
   // These matrices do not have a common side
-  return firstRowLength === secondColLength && secondRowLength === firstColLength
+  return (
+    firstRowLength === secondColLength && secondRowLength === firstColLength
+  )
 }
 
 // returns an empty array that has the same number of rows as the left matrix being multiplied.

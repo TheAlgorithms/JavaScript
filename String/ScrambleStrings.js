@@ -33,8 +33,10 @@ const helper = function (dp, s1, s2) {
 
   for (let i = 1; i < s1.length; i++) {
     if (
-      (helper(dp, s1.substr(0, i), s2.substr(0, i)) && helper(dp, s1.substr(i), s2.substr(i))) ||
-      (helper(dp, s1.substr(0, i), s2.substr(s2.length - i)) && helper(dp, s1.substr(i), s2.substr(0, s2.length - i)))
+      (helper(dp, s1.substr(0, i), s2.substr(0, i)) &&
+        helper(dp, s1.substr(i), s2.substr(i))) ||
+      (helper(dp, s1.substr(0, i), s2.substr(s2.length - i)) &&
+        helper(dp, s1.substr(i), s2.substr(0, s2.length - i)))
     ) {
       dp[s1 + s2] = true
       return true

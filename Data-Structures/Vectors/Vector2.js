@@ -29,7 +29,10 @@ class Vector2 {
    * @returns Whether they are approximately equal or not.
    */
   equalsApproximately(vector, epsilon) {
-    return Math.abs(this.x - vector.x) < epsilon && Math.abs(this.y - vector.y) < epsilon
+    return (
+      Math.abs(this.x - vector.x) < epsilon &&
+      Math.abs(this.y - vector.y) < epsilon
+    )
   }
 
   /**

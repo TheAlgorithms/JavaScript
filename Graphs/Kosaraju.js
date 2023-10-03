@@ -58,7 +58,9 @@ class Kosaraju {
 
   dfsKosaraju(node, visited) {
     visited.add(node)
-    this.stronglyConnectedComponents[this.stronglyConnectedComponents.length - 1].push(node)
+    this.stronglyConnectedComponents[
+      this.stronglyConnectedComponents.length - 1
+    ].push(node)
     for (const child of this.reverseConnections[node]) {
       if (!visited.has(child)) this.dfsKosaraju(child, visited)
     }

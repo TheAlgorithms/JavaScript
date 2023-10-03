@@ -13,7 +13,15 @@
 */
 
 // Array holding name of the day: Saturday - Sunday - Friday => 0 - 1 - 6
-const daysNameArr = ['Saturday', 'Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday']
+const daysNameArr = [
+  'Saturday',
+  'Sunday',
+  'Monday',
+  'Tuesday',
+  'Wednesday',
+  'Thursday',
+  'Friday'
+]
 
 const DateToDay = (date) => {
   // firstly, check that input is a string or not.

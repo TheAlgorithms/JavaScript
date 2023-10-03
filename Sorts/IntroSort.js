@@ -218,10 +218,16 @@ function introsort(array, compare) {
         max = cur
         lt = 2 * max + 1
         rt = 2 * max + 2
-        if (lt < size && comparator(array[start + max], array[start + lt]) < 0) {
+        if (
+          lt < size &&
+          comparator(array[start + max], array[start + lt]) < 0
+        ) {
           max = lt
         }
-        if (rt < size && comparator(array[start + max], array[start + rt]) < 0) {
+        if (
+          rt < size &&
+          comparator(array[start + max], array[start + rt]) < 0
+        ) {
           max = rt
         }
         if (max !== cur) {

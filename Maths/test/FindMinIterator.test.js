@@ -16,7 +16,9 @@ describe('FindMinIterator', () => {
     expect(FindMinIterator([-1, 10])).toBe(-1)
     expect(FindMinIterator([0, 100])).toBe(0)
     expect(FindMinIterator([100, 0])).toBe(0)
-    expect(FindMinIterator([100, 50, 20, 0, -100, 0, 2, 30, 45, 99, 104, 23])).toBe(-100)
+    expect(
+      FindMinIterator([100, 50, 20, 0, -100, 0, 2, 30, 45, 99, 104, 23])
+    ).toBe(-100)
   })
 
   test('given empty generator then min is undefined', () => {

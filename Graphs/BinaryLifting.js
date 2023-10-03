@@ -44,7 +44,9 @@ export class BinaryLifting {
     this.up.set(node, new Map())
     this.up.get(node).set(0, parent)
     for (let i = 1; i < this.log; i++) {
-      this.up.get(node).set(i, this.up.get(this.up.get(node).get(i - 1)).get(i - 1))
+      this.up
+        .get(node)
+        .set(i, this.up.get(this.up.get(node).get(i - 1)).get(i - 1))
     }
     for (const child of this.connections.get(node)) {
       if (child !== parent) this.dfs(child, node)

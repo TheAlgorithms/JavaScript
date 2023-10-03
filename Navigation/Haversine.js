@@ -8,7 +8,12 @@
  * @return {Integer} Haversine Distance.
  * @see [Haversine_Distance](https://pt.wikipedia.org/wiki/F%C3%B3rmula_de_Haversine)
  */
-const haversineDistance = (latitude1 = 0, longitude1 = 0, latitude2 = 0, longitude2 = 0) => {
+const haversineDistance = (
+  latitude1 = 0,
+  longitude1 = 0,
+  latitude2 = 0,
+  longitude2 = 0
+) => {
   validateLatOrLong(latitude1)
   validateLatOrLong(latitude2)
   validateLatOrLong(longitude1)
@@ -22,7 +27,10 @@ const haversineDistance = (latitude1 = 0, longitude1 = 0, latitude2 = 0, longitu
 
   const alpha =
     Math.sin(deltaLatitude / 2) * Math.sin(deltaLatitude / 2) +
-    Math.cos(cos1) * Math.cos(cos2) * Math.sin(deltaLongitude / 2) * Math.sin(deltaLongitude / 2)
+    Math.cos(cos1) *
+      Math.cos(cos2) *
+      Math.sin(deltaLongitude / 2) *
+      Math.sin(deltaLongitude / 2)
   const constant = 2 * Math.atan2(Math.sqrt(alpha), Math.sqrt(1 - alpha))
   return earthRadius * constant
 }

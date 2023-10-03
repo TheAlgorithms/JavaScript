@@ -10,8 +10,12 @@ import {
 
 describe('Fibonacci', () => {
   it('should return an array of numbers for FibonacciIterative', () => {
-    expect(FibonacciIterative(6)).toEqual(expect.arrayContaining([0, 1, 1, 2, 3, 5, 8]))
-    expect(FibonacciIterative(-6)).toEqual(expect.arrayContaining([0, 1, -1, 2, -3, 5, -8]))
+    expect(FibonacciIterative(6)).toEqual(
+      expect.arrayContaining([0, 1, 1, 2, 3, 5, 8])
+    )
+    expect(FibonacciIterative(-6)).toEqual(
+      expect.arrayContaining([0, 1, -1, 2, -3, 5, -8])
+    )
   })
 
   it('should return number for FibonacciGenerator', () => {
@@ -35,8 +39,12 @@ describe('Fibonacci', () => {
   })
 
   it('should return an array of numbers for FibonacciRecursive', () => {
-    expect(FibonacciRecursive(6)).toEqual(expect.arrayContaining([0, 1, 1, 2, 3, 5, 8]))
-    expect(FibonacciRecursive(-6)).toEqual(expect.arrayContaining([-0, 1, -1, 2, -3, 5, -8]))
+    expect(FibonacciRecursive(6)).toEqual(
+      expect.arrayContaining([0, 1, 1, 2, 3, 5, 8])
+    )
+    expect(FibonacciRecursive(-6)).toEqual(
+      expect.arrayContaining([-0, 1, -1, 2, -3, 5, -8])
+    )
   })
 
   it('should return number for FibonacciRecursiveDP', () => {
@@ -45,8 +53,12 @@ describe('Fibonacci', () => {
   })
 
   it('should return an array of numbers for FibonacciDpWithoutRecursion', () => {
-    expect(FibonacciDpWithoutRecursion(6)).toEqual(expect.arrayContaining([0, 1, 1, 2, 3, 5, 8]))
-    expect(FibonacciDpWithoutRecursion(-6)).toEqual(expect.arrayContaining([0, 1, -1, 2, -3, 5, -8]))
+    expect(FibonacciDpWithoutRecursion(6)).toEqual(
+      expect.arrayContaining([0, 1, 1, 2, 3, 5, 8])
+    )
+    expect(FibonacciDpWithoutRecursion(-6)).toEqual(
+      expect.arrayContaining([0, 1, -1, 2, -3, 5, -8])
+    )
   })
 
   it('should return number for FibonacciMatrixExpo', () => {
@@ -88,7 +100,10 @@ describe('Fibonacci', () => {
     [0, 0],
     [1, 1],
     [15, 610]
-  ])('should calculate the correct Fibonacci number for n = %i', (n, expected) => {
-    expect(FibonacciUsingFormula(n)).toBe(expected)
-  })
+  ])(
+    'should calculate the correct Fibonacci number for n = %i',
+    (n, expected) => {
+      expect(FibonacciUsingFormula(n)).toBe(expected)
+    }
+  )
 })

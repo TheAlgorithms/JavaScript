@@ -25,7 +25,9 @@ const calcFactorial = (num) => {
     throw Error('Sorry, factorial does not exist for negative numbers.')
   }
   if (!num) {
-    throw Error('Sorry, factorial does not exist for null or undefined numbers.')
+    throw Error(
+      'Sorry, factorial does not exist for null or undefined numbers.'
+    )
   }
   if (num > 0) {
     const range = calcRange(num)

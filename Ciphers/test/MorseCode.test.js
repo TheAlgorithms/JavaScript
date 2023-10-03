@@ -2,7 +2,9 @@ import { morse } from '../MorseCode'
 
 describe('Testing morse function', () => {
   it('should return an enciphered string with a given input string', () => {
-    expect(morse('Hello World!')).toBe('**** * *-** *-** ---   *-- --- *-* *-** -** -*-*--')
+    expect(morse('Hello World!')).toBe(
+      '**** * *-** *-** ---   *-- --- *-* *-** -** -*-*--'
+    )
     expect(morse('1+1=2')).toBe('*---- *-*-* *---- -***- **---')
   })
 

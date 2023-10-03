@@ -62,7 +62,10 @@ class MinPriorityQueue {
     const heapSort = []
     while (this.size > 0) {
       // swap first element with last element
-      ;[this.heap[1], this.heap[this.size]] = [this.heap[this.size], this.heap[1]]
+      ;[this.heap[1], this.heap[this.size]] = [
+        this.heap[this.size],
+        this.heap[1]
+      ]
       heapSort.push(this.heap.pop())
       this.size--
       this.sink()
@@ -88,7 +91,10 @@ class MinPriorityQueue {
       if (2 * k + 1 > this.size) {
         minIndex = this.heap[2 * k] < this.heap[k] ? 2 * k : k
       } else {
-        if (this.heap[k] > this.heap[2 * k] || this.heap[k] > this.heap[2 * k + 1]) {
+        if (
+          this.heap[k] > this.heap[2 * k] ||
+          this.heap[k] > this.heap[2 * k + 1]
+        ) {
           minIndex = this.heap[2 * k] < this.heap[2 * k + 1] ? 2 * k : 2 * k + 1
         } else {
           minIndex = k

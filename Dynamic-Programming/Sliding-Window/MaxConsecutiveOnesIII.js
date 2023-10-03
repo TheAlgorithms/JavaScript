@@ -11,7 +11,11 @@ export const maxConsecutiveOnesIII = (nums, k) => {
 
   let result = 0
 
-  for (let slowPointer = 0, fastPointer = 0; fastPointer < nums.length; fastPointer++) {
+  for (
+    let slowPointer = 0, fastPointer = 0;
+    fastPointer < nums.length;
+    fastPointer++
+  ) {
     if (nums[fastPointer] === 0) {
       k--
     }

@@ -66,7 +66,13 @@ class Sudoku {
       if (i % 3 === 0 && i !== 0) {
         output('- - - - - - - - - - - -')
       }
-      output(...this.getSection(i, [0, 3]), ' | ', ...this.getSection(i, [3, 6]), ' | ', ...this.getSection(i, [6, 9]))
+      output(
+        ...this.getSection(i, [0, 3]),
+        ' | ',
+        ...this.getSection(i, [3, 6]),
+        ' | ',
+        ...this.getSection(i, [6, 9])
+      )
     }
   }
 }

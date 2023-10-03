@@ -52,7 +52,10 @@ const checkAnagramMap = (str1, str2) => {
   const str1List = Array.from(str1.toUpperCase()) // str1 to array
 
   // get the occurrences of str1 characters by using HashMap
-  const str1Occurs = str1List.reduce((map, char) => map.set(char, map.get(char) + 1 || 1), new Map())
+  const str1Occurs = str1List.reduce(
+    (map, char) => map.set(char, map.get(char) + 1 || 1),
+    new Map()
+  )
 
   for (const char of str2.toUpperCase()) {
     // if char has not exist to the map it's return false

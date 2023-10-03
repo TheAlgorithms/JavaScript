@@ -21,7 +21,10 @@ export default class Cone {
 
   surfaceArea = () => {
     return (
-      this.baseArea() + Math.PI * this.baseRadius * Math.sqrt(Math.pow(this.baseRadius, 2) + Math.pow(this.height, 2))
+      this.baseArea() +
+      Math.PI *
+        this.baseRadius *
+        Math.sqrt(Math.pow(this.baseRadius, 2) + Math.pow(this.height, 2))
     )
   }
 }

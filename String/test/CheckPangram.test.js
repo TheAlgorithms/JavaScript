@@ -2,11 +2,15 @@ import { checkPangramRegex, checkPangramSet } from '../CheckPangram'
 
 describe('Testing checkPangramRegex function', () => {
   it('"The quick brown fox jumps over the lazy dog" is a pangram', () => {
-    expect(checkPangramRegex('The quick brown fox jumps over the lazy dog')).toBe(true)
+    expect(
+      checkPangramRegex('The quick brown fox jumps over the lazy dog')
+    ).toBe(true)
   })
 
   it('"Waltz, bad nymph, for quick jigs vex." is a pangram', () => {
-    expect(checkPangramRegex('Waltz, bad nymph, for quick jigs vex.')).toBe(true)
+    expect(checkPangramRegex('Waltz, bad nymph, for quick jigs vex.')).toBe(
+      true
+    )
   })
 
   it('"Jived fox nymph grabs quick waltz." is a pangram', () => {
@@ -18,7 +22,9 @@ describe('Testing checkPangramRegex function', () => {
   })
 
   it('"The quick brown fox jumps over the la_y dog" is NOT a pangram', () => {
-    expect(checkPangramRegex('The quick brown fox jumps over the la_y dog')).toBe(false)
+    expect(
+      checkPangramRegex('The quick brown fox jumps over the la_y dog')
+    ).toBe(false)
   })
 
   it('Throws an error if given param is not a string', () => {
@@ -30,7 +36,9 @@ describe('Testing checkPangramRegex function', () => {
 
 describe('Testing checkPangramSet function', () => {
   it('"The quick brown fox jumps over the lazy dog" is a pangram', () => {
-    expect(checkPangramSet('The quick brown fox jumps over the lazy dog')).toBe(true)
+    expect(checkPangramSet('The quick brown fox jumps over the lazy dog')).toBe(
+      true
+    )
   })
 
   it('"Waltz, bad nymph, for quick jigs vex." is a pangram', () => {
@@ -46,7 +54,9 @@ describe('Testing checkPangramSet function', () => {
   })
 
   it('"The quick brown fox jumps over the la_y dog" is NOT a pangram', () => {
-    expect(checkPangramSet('The quick brown fox jumps over the la_y dog')).toBe(false)
+    expect(checkPangramSet('The quick brown fox jumps over the la_y dog')).toBe(
+      false
+    )
   })
 
   it('Throws an error if given param is not a string', () => {

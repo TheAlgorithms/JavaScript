@@ -18,7 +18,11 @@ const floorDiv = (dividend, divisor) => {
  * @param {string} baseTwoCharacters Character set for the output base
  * @returns {string}
  */
-const convertArbitraryBase = (stringInBaseOne, baseOneCharacterString, baseTwoCharacterString) => {
+const convertArbitraryBase = (
+  stringInBaseOne,
+  baseOneCharacterString,
+  baseTwoCharacterString
+) => {
   if (
     [stringInBaseOne, baseOneCharacterString, baseTwoCharacterString]
       .map((arg) => typeof arg)
@@ -32,7 +36,9 @@ const convertArbitraryBase = (stringInBaseOne, baseOneCharacterString, baseTwoCh
 
   for (const charactersInBase of [baseOneCharacters, baseTwoCharacters]) {
     if (charactersInBase.length !== new Set(charactersInBase).size) {
-      throw new TypeError('Duplicate characters in character set are not allowed')
+      throw new TypeError(
+        'Duplicate characters in character set are not allowed'
+      )
     }
   }
   const reversedStringOneChars = [...stringInBaseOne].reverse()
@@ -64,7 +70,11 @@ const convertArbitraryBase = (stringInBaseOne, baseOneCharacterString, baseTwoCh
  * @param {string} baseTwoCharacters Character set for the output base
  * @returns {string}
  */
-const convertArbitraryBaseBigIntVersion = (stringInBaseOne, baseOneCharacterString, baseTwoCharacterString) => {
+const convertArbitraryBaseBigIntVersion = (
+  stringInBaseOne,
+  baseOneCharacterString,
+  baseTwoCharacterString
+) => {
   if (
     [stringInBaseOne, baseOneCharacterString, baseTwoCharacterString]
       .map((arg) => typeof arg)
@@ -78,7 +88,9 @@ const convertArbitraryBaseBigIntVersion = (stringInBaseOne, baseOneCharacterStri
 
   for (const charactersInBase of [baseOneCharacters, baseTwoCharacters]) {
     if (charactersInBase.length !== new Set(charactersInBase).size) {
-      throw new TypeError('Duplicate characters in character set are not allowed')
+      throw new TypeError(
+        'Duplicate characters in character set are not allowed'
+      )
     }
   }
   const reversedStringOneChars = [...stringInBaseOne].reverse()

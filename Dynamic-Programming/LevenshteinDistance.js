@@ -36,7 +36,8 @@ function calculateLevenshteinDp(x, y) {
         dp[i][j] = i
       } else {
         dp[i][j] = minimum(
-          dp[i - 1][j - 1] + costOfSubstitution(x.charAt(i - 1), y.charAt(j - 1)),
+          dp[i - 1][j - 1] +
+            costOfSubstitution(x.charAt(i - 1), y.charAt(j - 1)),
           dp[i - 1][j] + 1,
           dp[i][j - 1] + 1
         )

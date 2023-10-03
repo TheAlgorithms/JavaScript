@@ -28,8 +28,18 @@ const neighbors = [
  * @param targetColor The old color to be replaced.
  * @param replacementColor The new color to replace the old one.
  */
-export function breadthFirstSearch(rgbData, location, targetColor, replacementColor) {
-  if (location[0] < 0 || location[0] >= rgbData.length || location[1] < 0 || location[1] >= rgbData[0].length) {
+export function breadthFirstSearch(
+  rgbData,
+  location,
+  targetColor,
+  replacementColor
+) {
+  if (
+    location[0] < 0 ||
+    location[0] >= rgbData.length ||
+    location[1] < 0 ||
+    location[1] >= rgbData[0].length
+  ) {
     throw new Error('location should point to a pixel within the rgbData')
   }
 
@@ -49,8 +59,18 @@ export function breadthFirstSearch(rgbData, location, targetColor, replacementCo
  * @param targetColor The old color to be replaced.
  * @param replacementColor The new color to replace the old one.
  */
-export function depthFirstSearch(rgbData, location, targetColor, replacementColor) {
-  if (location[0] < 0 || location[0] >= rgbData.length || location[1] < 0 || location[1] >= rgbData[0].length) {
+export function depthFirstSearch(
+  rgbData,
+  location,
+  targetColor,
+  replacementColor
+) {
+  if (
+    location[0] < 0 ||
+    location[0] >= rgbData.length ||
+    location[1] < 0 ||
+    location[1] >= rgbData[0].length
+  ) {
     throw new Error('location should point to a pixel within the rgbData')
   }
 
@@ -66,7 +86,13 @@ export function depthFirstSearch(rgbData, location, targetColor, replacementColo
  * @param replacementColor The new color to replace the old one.
  * @param queue The locations that still need to be visited.
  */
-function breadthFirstFill(rgbData, location, targetColor, replacementColor, queue) {
+function breadthFirstFill(
+  rgbData,
+  location,
+  targetColor,
+  replacementColor,
+  queue
+) {
   const currentLocation = queue[0]
   queue.shift()
 

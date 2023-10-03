@@ -3,7 +3,9 @@ import { validateCreditCard } from '../ValidateCreditCard'
 describe('Validate credit card number', () => {
   it('should throw error if card number is boolean', () => {
     const invalidCC = true
-    expect(() => validateCreditCard(invalidCC)).toThrow('The given value is not a string')
+    expect(() => validateCreditCard(invalidCC)).toThrow(
+      'The given value is not a string'
+    )
   })
   it('returns true if the credit card number is valid', () => {
     const validCreditCard = '4111111111111111'
@@ -14,7 +16,8 @@ describe('Validate credit card number', () => {
     const nonNumericCCNumbers = ['123ABCDEF', 'ABCDKDKD', 'ADS232']
     nonNumericCCNumbers.forEach((nonNumericCC) =>
       expect(() => validateCreditCard(nonNumericCC)).toThrow(
-        `${nonNumericCC} is an invalid credit card number because ` + 'it has nonnumerical characters.'
+        `${nonNumericCC} is an invalid credit card number because ` +
+          'it has nonnumerical characters.'
       )
     )
   })
@@ -22,7 +25,8 @@ describe('Validate credit card number', () => {
     const ccWithInvalidLength = ['41111', '4111111111111111111111']
     ccWithInvalidLength.forEach((invalidCC) =>
       expect(() => validateCreditCard(invalidCC)).toThrow(
-        `${invalidCC} is an invalid credit card number because ` + 'of its length.'
+        `${invalidCC} is an invalid credit card number because ` +
+          'of its length.'
       )
     )
   })
@@ -40,7 +44,8 @@ describe('Validate credit card number', () => {
     ]
     ccWithInvalidStartSubstring.forEach((invalidCC) =>
       expect(() => validateCreditCard(invalidCC)).toThrow(
-        `${invalidCC} is an invalid credit card number because ` + 'of its first two digits.'
+        `${invalidCC} is an invalid credit card number because ` +
+          'of its first two digits.'
       )
     )
   })
@@ -48,7 +53,8 @@ describe('Validate credit card number', () => {
     const invalidCCs = ['411111111111111', '371211111111111', '49999999999999']
     invalidCCs.forEach((invalidCC) =>
       expect(() => validateCreditCard(invalidCC)).toThrow(
-        `${invalidCC} is an invalid credit card number because ` + 'it fails the Luhn check.'
+        `${invalidCC} is an invalid credit card number because ` +
+          'it fails the Luhn check.'
       )
     )
   })

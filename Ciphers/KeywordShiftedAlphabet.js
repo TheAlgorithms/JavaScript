@@ -69,8 +69,11 @@ function translate(sourceAlphabet, targetAlphabet, message) {
   return message.split('').reduce((encryptedMessage, char) => {
     const isUpperCase = char === char.toUpperCase()
     const encryptedCharIndex = sourceAlphabet.indexOf(char.toLowerCase())
-    const encryptedChar = encryptedCharIndex !== -1 ? targetAlphabet[encryptedCharIndex] : char
-    encryptedMessage += isUpperCase ? encryptedChar.toUpperCase() : encryptedChar
+    const encryptedChar =
+      encryptedCharIndex !== -1 ? targetAlphabet[encryptedCharIndex] : char
+    encryptedMessage += isUpperCase
+      ? encryptedChar.toUpperCase()
+      : encryptedChar
     return encryptedMessage
   }, '')
 }
@@ -87,12 +90,20 @@ function checkInputs(keyword, message) {
 
 function encrypt(keyword, message) {
   checkInputs(keyword, message)
-  return translate(alphabet, getEncryptedAlphabet(keyword.toLowerCase()), message)
+  return translate(
+    alphabet,
+    getEncryptedAlphabet(keyword.toLowerCase()),
+    message
+  )
 }
 
 function decrypt(keyword, message) {
   checkInputs(keyword, message)
-  return translate(getEncryptedAlphabet(keyword.toLowerCase()), alphabet, message)
+  return translate(
+    getEncryptedAlphabet(keyword.toLowerCase()),
+    alphabet,
+    message
+  )
 }
 
 export { encrypt, decrypt }

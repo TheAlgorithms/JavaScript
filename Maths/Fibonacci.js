@@ -8,7 +8,9 @@ const FibonacciIterative = (num) => {
   if (num >= 2) sequence.push(isNeg ? -1 : 1)
 
   for (let i = 2; i < num; i++) {
-    sequence.push(isNeg ? sequence[i - 1] - sequence[i] : sequence[i] + sequence[i - 1])
+    sequence.push(
+      isNeg ? sequence[i - 1] - sequence[i] : sequence[i] + sequence[i - 1]
+    )
   }
 
   return sequence
@@ -53,9 +55,11 @@ const FibonacciRecursiveDP = (stairs) => {
   if (stairs <= 1) return stairs
 
   // Memoize stair count
-  if (dict.has(stairs)) return (isNeg ? (-1) ** (stairs + 1) : 1) * dict.get(stairs)
+  if (dict.has(stairs))
+    return (isNeg ? (-1) ** (stairs + 1) : 1) * dict.get(stairs)
 
-  const res = FibonacciRecursiveDP(stairs - 1) + FibonacciRecursiveDP(stairs - 2)
+  const res =
+    FibonacciRecursiveDP(stairs - 1) + FibonacciRecursiveDP(stairs - 2)
 
   dict.set(stairs, res)
 

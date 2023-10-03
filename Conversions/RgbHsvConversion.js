@@ -89,7 +89,12 @@ export function approximatelyEqualHsv(hsv1, hsv2) {
   return bHue && bSaturation && bValue
 }
 
-function getRgbBySection(hueSection, chroma, matchValue, secondLargestComponent) {
+function getRgbBySection(
+  hueSection,
+  chroma,
+  matchValue,
+  secondLargestComponent
+) {
   function convertToInt(input) {
     return Math.round(255 * input)
   }

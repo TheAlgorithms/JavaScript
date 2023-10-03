@@ -8,7 +8,10 @@ const permutate = (aString) => {
   let permutations = [[characters.shift()]]
   while (characters.length) {
     const currentCharacter = characters.shift()
-    permutations = calculateCurrentCharacterPermutation(permutations, currentCharacter)
+    permutations = calculateCurrentCharacterPermutation(
+      permutations,
+      currentCharacter
+    )
   }
   return permutations
     .map((character) => character.join(''))
@@ -16,7 +19,10 @@ const permutate = (aString) => {
     .sort()
 }
 
-const calculateCurrentCharacterPermutation = (allPermutations, currentCharacter) => {
+const calculateCurrentCharacterPermutation = (
+  allPermutations,
+  currentCharacter
+) => {
   const currentPermutations = []
   allPermutations.forEach((permutation) => {
     let index = 0

@@ -20,6 +20,10 @@ export default class Pyramid {
   }
 
   surfaceArea = () => {
-    return this.baseArea() + ((this.bsl * 4) / 2) * Math.sqrt(Math.pow(this.bsl / 2, 2) + Math.pow(this.height, 2))
+    return (
+      this.baseArea() +
+      ((this.bsl * 4) / 2) *
+        Math.sqrt(Math.pow(this.bsl / 2, 2) + Math.pow(this.height, 2))
+    )
   }
 }

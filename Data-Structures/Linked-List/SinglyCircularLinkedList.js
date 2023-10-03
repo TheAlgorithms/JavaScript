@@ -58,7 +58,8 @@ class SinglyCircularLinkedList {
   insertAt(index, data) {
     if (index === 0) return this.addAtFirst(data)
     if (index === this.length) return this.add(data)
-    if (index < 0 || index > this.length) throw new RangeError(`Index is out of range max ${this.length}`)
+    if (index < 0 || index > this.length)
+      throw new RangeError(`Index is out of range max ${this.length}`)
     const node = new Node(data)
     const previousNode = this.getElementAt(index - 1)
     node.next = previousNode.next

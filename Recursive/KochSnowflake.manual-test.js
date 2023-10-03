@@ -15,7 +15,10 @@ function getKochSnowflake(canvasWidth = 600, steps = 5) {
   const offsetX = canvasWidth / 10.0
   const offsetY = canvasWidth / 3.7
   const vector1 = new Vector2(offsetX, offsetY)
-  const vector2 = new Vector2(canvasWidth / 2, Math.sin(Math.PI / 3) * canvasWidth * 0.8 + offsetY)
+  const vector2 = new Vector2(
+    canvasWidth / 2,
+    Math.sin(Math.PI / 3) * canvasWidth * 0.8 + offsetY
+  )
   const vector3 = new Vector2(canvasWidth - offsetX, offsetY)
   const initialVectors = []
   initialVectors.push(vector1)

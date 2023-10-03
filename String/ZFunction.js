@@ -22,7 +22,10 @@ function zFunction(text) {
     }
 
     // After zArray[index] is initialized, we see if we can increase its value by trivially comparing character by character
-    while (index + zArray[index] < length && text[zArray[index]] === text[index + zArray[index]]) {
+    while (
+      index + zArray[index] < length &&
+      text[zArray[index]] === text[index + zArray[index]]
+    ) {
       zArray[index]++
     }
 

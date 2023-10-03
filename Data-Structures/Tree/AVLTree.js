@@ -73,7 +73,8 @@ const AVLTree = (function () {
   }
 
   // Helper: To check if the balanceFactor is valid
-  const isValidBalanceFactor = (balanceFactor) => [0, 1, -1].includes(balanceFactor)
+  const isValidBalanceFactor = (balanceFactor) =>
+    [0, 1, -1].includes(balanceFactor)
 
   // rotations of AVL Tree
   const leftRotate = function (node) {
@@ -144,7 +145,9 @@ const AVLTree = (function () {
     }
     updateHeight(root)
     const balanceFactor = getHeightDifference(root)
-    return isValidBalanceFactor(balanceFactor) ? root : insertBalance(root, val, balanceFactor, tree)
+    return isValidBalanceFactor(balanceFactor)
+      ? root
+      : insertBalance(root, val, balanceFactor, tree)
   }
 
   // delete am element

@@ -11,7 +11,9 @@ const upper = (str) => {
     throw new TypeError('Argument should be string')
   }
 
-  return str.replace(/[a-z]/g, (char) => String.fromCharCode(char.charCodeAt() - 32))
+  return str.replace(/[a-z]/g, (char) =>
+    String.fromCharCode(char.charCodeAt() - 32)
+  )
 }
 
 export default upper

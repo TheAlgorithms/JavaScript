@@ -13,7 +13,13 @@ export function eulerStep(xCurrent, stepSize, yCurrent, differentialEquation) {
   return yCurrent + stepSize * differentialEquation(xCurrent, yCurrent)
 }
 
-export function eulerFull(xStart, xEnd, stepSize, yStart, differentialEquation) {
+export function eulerFull(
+  xStart,
+  xEnd,
+  stepSize,
+  yStart,
+  differentialEquation
+) {
   // loops through all the steps until xEnd is reached, adds a point for each step and then returns all the points
   const points = [{ x: xStart, y: yStart }]
   let yCurrent = yStart

@@ -18,7 +18,10 @@ export function TopologicalSorter() {
     finishingTimeList = []
 
     for (const node in graph) {
-      if (Object.prototype.hasOwnProperty.call(graph, node) && !isVisitedNode[node]) {
+      if (
+        Object.prototype.hasOwnProperty.call(graph, node) &&
+        !isVisitedNode[node]
+      ) {
         dfsTraverse(node)
       }
     }

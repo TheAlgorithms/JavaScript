@@ -46,7 +46,14 @@ function convexHull(points) {
     if (i === pointsLen - 1 || orientation(p1, points[i], p2) !== -1) {
       let upLen = upperPoints.length
 
-      while (upLen >= 2 && orientation(upperPoints[upLen - 2], upperPoints[upLen - 1], points[i]) === -1) {
+      while (
+        upLen >= 2 &&
+        orientation(
+          upperPoints[upLen - 2],
+          upperPoints[upLen - 1],
+          points[i]
+        ) === -1
+      ) {
         upperPoints.pop()
         upLen = upperPoints.length
       }
@@ -54,7 +61,14 @@ function convexHull(points) {
     }
     if (i === pointsLen - 1 || orientation(p1, points[i], p2) !== 1) {
       let lowLen = lowerPoints.length
-      while (lowLen >= 2 && orientation(lowerPoints[lowLen - 2], lowerPoints[lowLen - 1], points[i]) === 1) {
+      while (
+        lowLen >= 2 &&
+        orientation(
+          lowerPoints[lowLen - 2],
+          lowerPoints[lowLen - 1],
+          points[i]
+        ) === 1
+      ) {
         lowerPoints.pop()
         lowLen = lowerPoints.length
       }

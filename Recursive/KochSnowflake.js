@@ -107,7 +107,9 @@ function iterationStep(vectors) {
     newVectors.push(startVector)
     const differenceVector = endVector.subtract(startVector).multiply(1 / 3)
     newVectors.push(startVector.add(differenceVector))
-    newVectors.push(startVector.add(differenceVector).add(differenceVector.rotate(60)))
+    newVectors.push(
+      startVector.add(differenceVector).add(differenceVector.rotate(60))
+    )
     newVectors.push(startVector.add(differenceVector.multiply(2)))
   }
 

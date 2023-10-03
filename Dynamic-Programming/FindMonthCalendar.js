@@ -83,11 +83,13 @@ class Month {
     }
     while (startDate.month !== endDate.month) {
       if (startDate.month < endDate.month) {
-        if (isLeapYear(startDate.year)) diff += this.monthDaysLeap[startDate.month]
+        if (isLeapYear(startDate.year))
+          diff += this.monthDaysLeap[startDate.month]
         else diff += this.monthDays[startDate.month]
         startDate.month = startDate.month + 1
       } else {
-        if (isLeapYear(startDate.year)) diff -= this.monthDaysLeap[startDate.month - 1]
+        if (isLeapYear(startDate.year))
+          diff -= this.monthDaysLeap[startDate.month - 1]
         else diff -= this.monthDays[startDate.month - 1]
         startDate.month = startDate.month - 1
       }
@@ -101,9 +103,12 @@ class Month {
     let difference = this.getDayDiff(this.epoch, Month)
     difference = difference % 7
     let Month2 = this.parseDate(date)
-    day = this.isGreater(Month2, this.epoch) ? this.Days[difference] : this.BDays[difference]
+    day = this.isGreater(Month2, this.epoch)
+      ? this.Days[difference]
+      : this.BDays[difference]
     Month2 = this.parseDate(date)
-    if (isLeapYear(Month2.year)) this.printCal(this.monthDaysLeap[Month2.month], day)
+    if (isLeapYear(Month2.year))
+      this.printCal(this.monthDaysLeap[Month2.month], day)
     else this.printCal(this.monthDays[Month2.month], day)
   }
 }

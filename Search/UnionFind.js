@@ -78,7 +78,10 @@ function UnionFind(n, key) {
   function ensureIndexWithinBounds(args) {
     for (let i = arguments.length - 1; i >= 0; i--) {
       const p = arguments[i]
-      if (p >= length) throw new Error('Index out of bounds. The maximum index can be length-1')
+      if (p >= length)
+        throw new Error(
+          'Index out of bounds. The maximum index can be length-1'
+        )
     }
   }
 }

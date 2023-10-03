@@ -59,7 +59,10 @@ class CircularQueue {
 
   // Checks if max capacity of queue has been reached or not
   checkOverflow() {
-    if ((this.front === 1 && this.rear === this.maxLength) || this.front === this.rear + 1) {
+    if (
+      (this.front === 1 && this.rear === this.maxLength) ||
+      this.front === this.rear + 1
+    ) {
       // CIRCULAR QUEUE OVERFLOW
       return true
     }

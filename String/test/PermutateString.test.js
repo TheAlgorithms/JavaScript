@@ -13,8 +13,19 @@ describe('Permutate a string', () => {
     expect(['esy', 'eys', 'sey', 'sye', 'yes', 'yse']).toEqual(permutate('yes'))
   })
   it('expects to permute "good" into [dgoo dogo doog gdoo godo good odgo odog ogdo ogod oodg oogd ]', () => {
-    expect(['dgoo', 'dogo', 'doog', 'gdoo', 'godo', 'good', 'odgo', 'odog', 'ogdo', 'ogod', 'oodg', 'oogd']).toEqual(
-      permutate('good')
-    )
+    expect([
+      'dgoo',
+      'dogo',
+      'doog',
+      'gdoo',
+      'godo',
+      'good',
+      'odgo',
+      'odog',
+      'ogdo',
+      'ogod',
+      'oodg',
+      'oogd'
+    ]).toEqual(permutate('good'))
   })
 })

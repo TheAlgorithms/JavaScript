@@ -16,7 +16,9 @@ function problem35(n) {
     throw new Error('Invalid input')
   }
   // Get a list of primes without 0, 2, 4, 5, 6, 8; this discards the circular primes 2 & 5
-  const list = sieveOfEratosthenes(n).filter((prime) => !prime.toString().match(/[024568]/))
+  const list = sieveOfEratosthenes(n).filter(
+    (prime) => !prime.toString().match(/[024568]/)
+  )
 
   const result = list.filter((number, _idx, arr) => {
     const str = String(number)

@@ -47,7 +47,9 @@ describe('MaxProductOfThree, random arrays of size 3 to 5', () => {
   for (let i = 0; i < numberOfRandomTests; i++) {
     const arr = []
     // Randomize the length of the array in the current test
-    const length = Math.floor(Math.random() * (maxLength - minLength) + minLength)
+    const length = Math.floor(
+      Math.random() * (maxLength - minLength) + minLength
+    )
 
     // Fill the array with random values in the specified range
     for (let j = 0; j < length + 1; j++) {
@@ -58,13 +60,19 @@ describe('MaxProductOfThree, random arrays of size 3 to 5', () => {
     const expectedProduct = completeMaxThree(arr)
 
     // Set up the expectation
-    it('Expect the array ' + arr.toString() + ' to return the maximum three product of ' + expectedProduct, () => {
-      // Calculate the max three product using the function being tested
-      const actualProduct = maxProductOfThree(arr)
+    it(
+      'Expect the array ' +
+        arr.toString() +
+        ' to return the maximum three product of ' +
+        expectedProduct,
+      () => {
+        // Calculate the max three product using the function being tested
+        const actualProduct = maxProductOfThree(arr)
 
-      // Was unable to use expect().toBe(), since it sometimes compared 0 to -0, and that would not pass
-      // At the same time, standardjs forbid me from checking for === -0 to convert to 0
-      expect(actualProduct === expectedProduct).toBeTruthy()
-    })
+        // Was unable to use expect().toBe(), since it sometimes compared 0 to -0, and that would not pass
+        // At the same time, standardjs forbid me from checking for === -0 to convert to 0
+        expect(actualProduct === expectedProduct).toBeTruthy()
+      }
+    )
   }
 })

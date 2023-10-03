@@ -40,9 +40,11 @@ class GraphWeightedUndirectedAdjacencyList {
       Object.keys(this.connections[node]).forEach((neighbour) => {
         if (
           priorityQueue.contains(neighbour) &&
-          distance[node] + this.connections[node][neighbour] < distance[neighbour]
+          distance[node] + this.connections[node][neighbour] <
+            distance[neighbour]
         ) {
-          distance[neighbour] = distance[node] + this.connections[node][neighbour]
+          distance[neighbour] =
+            distance[node] + this.connections[node][neighbour]
           parent[neighbour] = node
           priorityQueue.update(neighbour, distance[neighbour])
         }
