@@ -9305,3 +9305,5 @@
 - [@EricWoll](https://github.com/EricWoll)
 
 - [@ichanman](https://github.com/ichanman)
+
+- [@sydneychikezie](https://github.com/sydneychikezie)
