@@ -1,55 +1,69 @@
 import { CircularDoublyLinkedList } from '../CircularDoublyLinkedList' // Adjust the import path as needed
 
 describe('CircularDoublyLinkedList', () => {
-  it('Check append', () => {
+  /**
+   * Creates a new CircularDoublyLinkedList and appends elements to it.
+   * @param {Array} elements - The elements to append.
+   * @returns {CircularDoublyLinkedList} - The created list.
+   */
+  function createAndAppend(elements) {
     const list = new CircularDoublyLinkedList()
+    elements.forEach((element) => list.append(element))
+    return list
+  }
 
-    list.append(1)
-    expect(list.toString()).toEqual('1')
+  it('Check append', () => {
+    const list = createAndAppend([1])
+
+    expect(list.toArray()).toEqual([1])
 
     list.append(2)
-    expect(list.toString()).toEqual('1 <-> 2')
+    expect(list.toArray()).toEqual([1, 2])
   })
 
   it('Check insert', () => {
-    const list = new CircularDoublyLinkedList()
+    const list = createAndAppend([1])
 
-    list.insert(0, 1)
-    expect(list.toString()).toEqual('1')
+    list.insert(0, 20)
+    expect(list.toArray()).toEqual([20, 1])
 
-    list.insert(1, 20)
-    expect(list.toString()).toEqual('1 <-> 20')
+    list.insert(1, 30)
+    expect(list.toArray()).toEqual([20, 30, 1])
   })
 
   it('Check removeAt', () => {
-    const list = new CircularDoublyLinkedList()
-
-    list.append(10)
-    list.append(40)
-    list.append(30)
+    const list = createAndAppend([10, 40, 30])
 
     list.removeAt(0)
-    expect(list.toString()).toEqual('40 <-> 30')
+    expect(list.toArray()).toEqual([40, 30])
 
     list.removeAt(1)
-    expect(list.toString()).toEqual('40')
+    expect(list.toArray()).toEqual([40])
   })
 
-  it('Check print', () => {
-    const list = new CircularDoublyLinkedList()
+  it('Check toArray', () => {
+    const list = createAndAppend([20])
+    
+    expect(list.toArray()).toEqual([20])
+  })
 
-    list.append(20)
-    expect(() => {
-      list.print()
-    }).not.toThrow()
+  it('Check createIterator', () => {
+    const list = createAndAppend([10, 20, 30])
+    const iterator = list.createIterator()
+    
+    const elements = [];
+    for (let element of iterator) {
+      elements.push(element)
+    }
+    
+    expect(elements).toEqual([10, 20, 30])
   })
 
   it('Check isEmpty', () => {
-    const list = new CircularDoublyLinkedList()
+    const emptyList = new CircularDoublyLinkedList()
+    expect(emptyList.isEmpty()).toEqual(true)
 
-    expect(list.isEmpty()).toEqual(true)
-
-    list.append('Hello')
-    expect(list.isEmpty()).toEqual(false)
+    const nonEmptyList = createAndAppend(['Hello'])
+    expect(nonEmptyList.isEmpty()).toEqual(false)
   })
 })
