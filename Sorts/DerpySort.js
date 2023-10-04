@@ -1,4 +1,16 @@
-// This sorting function called derpy randomly removes and re-adds elements in order
+/* Derpy Sort is an algorithm to randomly sort an array. It
+ * randomly removes and re-adds elements in an array.
+
+ * The big O on the Derpy Sort is O(N).
+ * 
+ * In the Derpy Sort, we iterate through the length of the array and select a random 
+ * index. We then remove the element associated with that index and re-add it to the
+ * end of the array. After the length of the array has been iterated through, the 
+ * function then returns the resulting array.
+ * 
+ * This sorting function is impractical and does not provide any purpose other than 
+ * creating a jumbled mess.
+*/
 
 function derpySort(arr) {
 
