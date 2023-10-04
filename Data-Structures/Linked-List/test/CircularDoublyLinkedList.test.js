@@ -1,4 +1,4 @@
-import { CircularDoublyLinkedList } from '../CircularDoublyLinkedList' // Adjust the import path as needed
+import { CircularDoublyLinkedList } from '../CircularDoublyLinkedList'
 
 describe('CircularDoublyLinkedList', () => {
   /**
@@ -12,7 +12,7 @@ describe('CircularDoublyLinkedList', () => {
     return list
   }
 
-  it('Check append', () => {
+  it('append', () => {
     const list = createAndAppend([1])
 
     expect(list.toArray()).toEqual([1])
@@ -31,7 +31,7 @@ describe('CircularDoublyLinkedList', () => {
     expect(list.toArray()).toEqual([20, 30, 1])
   })
 
-  it('Check removeAt', () => {
+  it('removeAt', () => {
     const list = createAndAppend([10, 40, 30])
 
     list.removeAt(0)
@@ -41,22 +41,17 @@ describe('CircularDoublyLinkedList', () => {
     expect(list.toArray()).toEqual([40])
   })
 
-  it('Check toArray', () => {
+  it('toArray', () => {
     const list = createAndAppend([20])
     expect(list.toArray()).toEqual([20])
   })
 
-  it('Check createIterator', () => {
+  it('createIterator', () => {
     const list = createAndAppend([10, 20, 30])
-    const iterator = list.createIterator()
-    const elements = []
-    for (const element of iterator) {
-      elements.push(element)
-    }
-    expect(elements).toEqual([10, 20, 30])
+    expect([...list.createIterator()]).toEqual([10, 20, 30])
   })
 
-  it('Check isEmpty', () => {
+  it('isEmpty', () => {
     const emptyList = new CircularDoublyLinkedList()
     expect(emptyList.isEmpty()).toEqual(true)
 
