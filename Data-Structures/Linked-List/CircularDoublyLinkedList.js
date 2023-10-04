@@ -125,18 +125,15 @@ class CircularDoublyLinkedList {
   }
 
   /**
-   * Converts the list to an array.
-   * @returns {Array} - An array containing the elements of the list.
+   * Iterator over the elements in the list.
    */
-  toArray () {
-    const elements = []
+  *elements() {
     let currentNode = this.head
-    if (!currentNode) return elements
+    if (!currentNode) return
     do {
-      elements.push(currentNode.element)
+      yield currentNode.element
       currentNode = currentNode.next
     } while (currentNode !== this.head)
-    return elements
   }
 
   /**
