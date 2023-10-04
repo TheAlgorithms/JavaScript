@@ -11,26 +11,27 @@ describe("limit", () => {
     expect(limit(1, Math.sin)).toBeCloseTo(0.84147);
   });
   it("should return 0", () => {
-    expect(limit(Infinity, (x) => Math.sin(x) / x)).toBe(0);
+    expect(limit(0, (x) => Math.sin(x) / x)).toBe(1);
   });
   it("should return 1", () => {
-    expect(limit(Infinity, (x) => Math.cos(x) / x)).toBe(1);
+    expect(limit(0, (x) => Math.cos(x) / x)).toBe(0);
   });
   it("should throw error", () => {
-    expect(() => limit("10", (x) => Math.cos(x) / x)).toThrow(TypeError);
+    expect(limit("10", (x) => Math.cos(x) / x)).toThrow(TypeError);
   });
   it("should throw error", () => {
-    expect(() => limit(10, "x")).toThrow(SyntaxError);
+    expect(limit(10, "x")).toThrow(SyntaxError);
   });
   it("should throw error", () => {
-    expect(() => limit(10, (x) => Math.cos(x) / x, 12)).toThrow(TypeError);
+    expect(limit(10, (x) => Math.cos(x) / x, 12)).toThrow(TypeError);
   });
   it("should throw error", () => {
-    expect(() => limit(10, (x) => Math.cos(x) / x, 0)).toThrow(TypeError);
+    expect(limit(10, (x) => Math.cos(x) / x, 0)).toThrow(TypeError);
   });
   it("should throw error", () => {
-    expect(() =>
+    expect(
       limit(10, (x) => {
+        console.log(x);
         return "abc";
       })
     ).toThrow(TypeError);
