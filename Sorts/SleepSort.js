@@ -31,22 +31,10 @@ async function sleepSort(arr) {
     throw new Error('Input must be an array.');
   }
 
-  const sortedArray = [];
-  const promises = [];
+  const promises = arr.map(num => sleep(num).then(() => num));
+  const sortedArray = await Promise.all(promises);
 
-  for (const num of arr) {
-    promises.push(new Promise(resolve => {
-      setTimeout(async () => {
-        sortedArray.push(num);
-        resolve();
-      }, num);
-    }));
-  }
-
-  await Promise.all(promises);
   return sortedArray.sort((a, b) => a - b);
 }
 
 export default sleepSort;
-
-
