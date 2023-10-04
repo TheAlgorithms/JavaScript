@@ -1,19 +1,19 @@
-import { generateGrayCodes } from '../GrayCodes.js' 
+import { generateGrayCodes } from '../GrayCodes.js'
 
-/**
- * Test cases for the generateGrayCodes function.
- */
-const testCases = [
-  { n: 0, expected: [0] },
-  { n: 1, expected: [0, 1] },
-  { n: 2, expected: [0, 1, 3, 2] },
-  { n: 3, expected: [0, 1, 3, 2, 6, 7, 5, 4] },
-  { n: 4, expected: [0, 1, 3, 2, 6, 7, 5, 4, 12, 13, 15, 14, 10, 11, 9, 8] },
-];
-
-testCases.forEach(({ n, expected }) => {
-  test(`Generate Gray codes for n=${n}`, () => {
-    const grayCodes = generateGrayCodes(n);
-    expect(grayCodes).toEqual(expected);
-  });
-});
+describe('Gray codes', () => {
+  test.each([
+    [0, [0b0]],
+    [1, [0b0, 0b1]],
+    [2, [0b00, 0b01, 0b11, 0b10]],
+    [3, [0b000, 0b001, 0b011, 0b010, 0b110, 0b111, 0b101, 0b100]],
+    [
+      4,
+      [
+        0b0000, 0b0001, 0b0011, 0b0010, 0b0110, 0b0111, 0b0101, 0b0100, 0b1100,
+        0b1101, 0b1111, 0b1110, 0b1010, 0b1011, 0b1001, 0b1000
+      ]
+    ]
+  ])('n = %i -> %j', (n, expected) => {
+    expect(generateGrayCodes(n)).toEqual(expected)
+  })
+})
