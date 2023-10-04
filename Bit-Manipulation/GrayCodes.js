@@ -1,7 +1,7 @@
 /**
  * Generates a Gray code sequence for the given number of bits.
  * @param {number} n - The number of bits in the Gray code sequence.
- * @returns {string[]} - An array of Gray codes in binary format.
+ * @returns {number[]} - An array of Gray codes in binary format.
  */
 function generateGrayCodes(n) {
   if (n <= 0) {
