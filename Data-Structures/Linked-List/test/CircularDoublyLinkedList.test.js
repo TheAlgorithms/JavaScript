@@ -12,33 +12,35 @@ describe('CircularDoublyLinkedList', () => {
     return list
   }
 
+  const expectList = (list, expected) => expect([...list.elements()]).toEqual(expected)
+
   it('append', () => {
     const list = createAndAppend([1])
 
-    expect(list.toArray()).toEqual([1])
+    expectList(list, [1])
 
     list.append(2)
-    expect(list.toArray()).toEqual([1, 2])
+    expectList(list, [1, 2])
   })
 
   it('insert', () => {
     const list = createAndAppend([1])
 
     list.insert(0, 20)
-    expect(list.toArray()).toEqual([20, 1])
+    expectList(list, [20, 1])
 
     list.insert(1, 30)
-    expect(list.toArray()).toEqual([20, 30, 1])
+    expectList(list, [20, 30, 1])
   })
 
   it('removeAt', () => {
     const list = createAndAppend([10, 40, 30])
 
     list.removeAt(0)
-    expect(list.toArray()).toEqual([40, 30])
+    expectList(list, [40, 30])
 
     list.removeAt(1)
-    expect(list.toArray()).toEqual([40])
+    expectList(list, [40])
   })
 
   it('elements', () => {
