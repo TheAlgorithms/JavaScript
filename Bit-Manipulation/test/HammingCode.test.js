@@ -9,6 +9,6 @@ describe.each([
   { inputVal:parseInt(1101110,2), expectedVal: 5 }
 ])('Resulting hamming code conversion from $inputVal', ({inputVal, expectedVal}) => {
   test(`returns bit count = ${expectedVal}`, () => {
-    expect(inputVal).toBe(expectedVal)
+    expect(HammingCode(inputVal)).toBe(expectedVal)
   })
 })
