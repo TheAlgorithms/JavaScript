@@ -2727,6 +2727,8 @@
 
 - [@Hrishikeshnikam2000](https://github.com/hrishikeshnikam2000)
 
+- [@Hrithik-C-A](https://github.com/Hrithik-C-A)
+
 - [@Hrithiksanthosh](https://github.com/hrithiksanthosh)
 
 - [@Hrushikeshmandekar](https://github.com/HrushikeshMandekar)
