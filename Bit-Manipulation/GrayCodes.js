@@ -1,4 +1,8 @@
-// To generate Gray codes using bit manipulation in JavaScript, we can create a function that takes an integer n as input and returns an array of Gray codes up to 2^n - 1
+/**
+ * Generates a Gray code sequence for the given number of bits.
+ * @param {number} n - The number of bits in the Gray code sequence.
+ * @returns {string[]} - An array of Gray codes in binary format.
+ */
 function generateGrayCodes(n) {
   if (n <= 0) {
     return [0]
@@ -16,4 +20,4 @@ function generateGrayCodes(n) {
   return grayCodes
 }
 
-export { generateGrayCodes } // Export the function for testing
+export { generateGrayCodes }
