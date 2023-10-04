@@ -1,6 +1,8 @@
 /**
  * Given a square matrix, find its determinant.
  *
+ * For more info: https://en.wikipedia.org/wiki/Determinant
+ *
  * @param {number[[]]} matrix - Two dimensional array of integers.
  * @returns {number} - An integer equal to the determinant.
  *
