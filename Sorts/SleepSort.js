@@ -21,24 +21,32 @@
  * - Additional space is required for the result array, which has n elements.
  * - The space complexity is O(n).
  */
-export function sleepSort(arr) {
-    // Helper function to sleep for a given duration (in milliseconds)
-    function sleep(duration) {
-      return new Promise((resolve) => setTimeout(resolve, duration));
-    }
-  
-    // Function to perform the sleep sort
-    async function performSleepSort() {
-      const result = [];
-      for (const num of arr) {
-        // Sleep for a duration proportional to the element's value
-        await sleep(num);
-        result.push(num);
-      }
-      return result;
-    }
-  
-    return performSleepSort();
+
+async function sleep(ms) {
+  return new Promise(resolve => setTimeout(resolve, ms));
+}
+
+async function sleepSort(arr) {
+  if (!Array.isArray(arr)) {
+    throw new Error('Input must be an array.');
   }
 
-  
+  const sortedArray = [];
+  const promises = [];
+
+  for (const num of arr) {
+    promises.push(new Promise(resolve => {
+      setTimeout(async () => {
+        sortedArray.push(num);
+        resolve();
+      }, num);
+    }));
+  }
+
+  await Promise.all(promises);
+  return sortedArray.sort((a, b) => a - b);
+}
+
+export default sleepSort;
+
+
