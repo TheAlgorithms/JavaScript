@@ -9,7 +9,9 @@
  * function then returns the resulting array.
  * 
  * This sorting function is impractical and does not provide any purpose other than 
- * creating a jumbled mess.
+ * creating a jumbled mess. It is closest related to the Bogosort.
+ * 
+ * https://en.wikipedia.org/wiki/Bogosort
 */
 
 function derpySort(arr) {
