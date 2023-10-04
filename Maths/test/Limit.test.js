@@ -24,7 +24,7 @@ describe("limit", () => {
   });
   it("should return 875", () => {
     expect(
-      limit(1, (x) => {
+      limit(5, (x) => {
         return (x ** (7 / 2) - 5 ** (7 / 2)) / (Math.sqrt(x) - Math.sqrt(5));
       })
     ).toBe(875);
