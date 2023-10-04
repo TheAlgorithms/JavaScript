@@ -54,7 +54,7 @@ function limit(tendsTo, func, accuracy = 4) {
       throw new TypeError(
         "please provide a valid number in accuracy parameter"
       );
-    else console.error("Somthing went wrong in limit function");
+    else console.error("Something went wrong in limit function");
   }
 }
 export {limit}
