@@ -1,5 +1,5 @@
 /**
- * Wikipedia: https://en.wikipedia.org/wiki/Euclidean_distance
+ * @see [Wikipedia](https://en.wikipedia.org/wiki/Euclidean_distance)
  * Calculate the Euclidean distance between two vectors.
  * @param {number[]} vector1 - The first vector.
  * @param {number[]} vector2 - The second vector.
