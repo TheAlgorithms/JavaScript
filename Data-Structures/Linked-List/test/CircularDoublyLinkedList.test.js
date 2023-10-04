@@ -6,7 +6,7 @@ describe('CircularDoublyLinkedList', () => {
    * @param {Array} elements - The elements to append.
    * @returns {CircularDoublyLinkedList} - The created list.
    */
-  function createAndAppend (elements) {
+  function createAndAppend(elements) {
     const list = new CircularDoublyLinkedList()
     elements.forEach((element) => list.append(element))
     return list
@@ -21,7 +21,7 @@ describe('CircularDoublyLinkedList', () => {
     expect(list.toArray()).toEqual([1, 2])
   })
 
-  it('Check insert', () => {
+  it('insert', () => {
     const list = createAndAppend([1])
 
     list.insert(0, 20)
