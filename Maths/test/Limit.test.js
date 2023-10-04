@@ -1,4 +1,4 @@
-import { limit } from "../limit.js";
+import { limit } from "../Limit.js";
 
 let a1 = limit(2, (x) => x ** 2); //returns 4
 let a2 = limit(Infinity, (x) => (2 * x - 1) / x); // returns 2
