@@ -41,11 +41,6 @@ describe('CircularDoublyLinkedList', () => {
     expect(list.toArray()).toEqual([40])
   })
 
-  it('toArray', () => {
-    const list = createAndAppend([20])
-    expect(list.toArray()).toEqual([20])
-  })
-
   it('elements', () => {
     const list = createAndAppend([10, 20, 30])
     expect([...list.elements()]).toEqual([10, 20, 30])
