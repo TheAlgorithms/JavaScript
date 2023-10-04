@@ -57,3 +57,4 @@ function limit(tendsTo, func, accuracy = 4) {
     else console.error("Somthing went wrong in limit function");
   }
 }
+export {limit}
