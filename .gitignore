@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # dependencies
 /node_modules
 
@@ -14,3 +15,36 @@ yarn-error.log*
 
 # intelliJ workspace folder
 .idea
+=======
+# IDE files
+.DS_Store
+.vscode
+.idea
+.iml
+.history
+
+# dependencies
+node_modules
+start-here-guidelines
+start
+
+# Log file
+.log
+
+# Package Files
+.zip
+.gzip
+.tar.gz
+.rar
+
+# Compiled class file
+.class
+
+#Other folders
+lib
+logs
+target
+out
+out
+gen
+>>>>>>> 55d459e5d7d9df814bd526d8c0454b92b3f31d6f
