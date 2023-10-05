@@ -1,4 +1,4 @@
-const HashTable = require('./HashTable');
+import HashTable from "../HashTableSearch";
 
 test('Inserting and searching for values in the hashtable', () => {
   const hashtable = new HashTable();
