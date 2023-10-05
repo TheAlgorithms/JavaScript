@@ -1,6 +1,6 @@
-import { Polynomial, PolynomialTerm } from '../PolynomialAddition'; // Adjust the import paths accordingly
+import { Polynomial, PolynomialTerm } from '../PolynomialAddition';
 
-describe('Polynomial Addition', () => {
+describe('Polynomial', () => {
   it('should add two polynomials correctly', () => {
     // Create the first polynomial: 3x^2 + 4x^1 + 5x^0
     const poly1 = new Polynomial();
