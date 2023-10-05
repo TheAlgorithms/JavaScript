@@ -66,7 +66,7 @@ const determinant = (matrix) => {
   if (numCols === 1) {
     return matrix[0][0]
   }
-  let result = null
+  let result = 0
   let setIndex = 0
   for (let i = 0; i < numCols; i++) {
     result +=
