@@ -1,4 +1,4 @@
-import { evaluateExpression } from '../evaluateExpression.js';
+import { evaluateExpression } from '../EvaluateExpression.js';
 
 describe('evaluateExpression', () => {
   it('should evaluate a valid expression', () => {
