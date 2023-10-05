@@ -1,4 +1,4 @@
-import { Polynomial, PolynomialTerm } from './PolynomialAddition'; // Adjust the import paths accordingly
+import { Polynomial, PolynomialTerm } from '../PolynomialAddition'; // Adjust the import paths accordingly
 
 describe('Polynomial Addition', () => {
   it('should add two polynomials correctly', () => {
