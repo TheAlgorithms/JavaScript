@@ -2,9 +2,9 @@ import { evaluateExpression } from '../EvaluateExpression.js';
 
 describe('evaluateExpression', () => {
   it('should evaluate a valid expression', () => {
-    const expression = '3 4 * 2 / 5 +'; // (3 * 4) / 2 + 5 = 7
+    const expression = '3 4 * 2 / 5 +'; // (3 * 4) / 2 + 5 = 11
     const result = evaluateExpression(expression);
-    expect(result).toBe(7);
+    expect(result).toBe(11);
   });
 
   it('should handle division by zero', () => {
