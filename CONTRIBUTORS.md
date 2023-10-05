@@ -12,6 +12,7 @@
 
 - [@11Aghayan](https://github.com/11aghayan)
 - [@Nivedita021](https://github.com/Nivedita021)
+- [@AkshayCodeLab](https://github.com/AkshayCodeLab)
 
 - [@innovinitylabs](https://github.com/innovinitylabs)
 
