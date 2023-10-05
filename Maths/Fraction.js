@@ -4,7 +4,8 @@
  * @param {number} num - a float type number is expected, but an integer will also work.
  * @param {number} accuracy - the accuracy of the fraction, the default is 6.
  * @return {Array} - an array containing the numerator and denominator of the fraction.
- * @see https://en.wikipedia.org/wiki/Repeating_decimal and @see https://en.wikipedia.org/wiki/Decimal#Decimal_fractions
+ * @see https://en.wikipedia.org/wiki/Repeating_decimal and 
+ * @see https://en.wikipedia.org/wiki/Decimal#Decimal_fractions
  * @example fraction(0.5) // [1, 2]
  * @example fraction(0.3333333333333333) // [1, 3]
  * @example fraction(0.25) // [1, 4]
