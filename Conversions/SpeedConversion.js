@@ -1,6 +1,14 @@
 /**
  * Speed conversion
  *
+ * This function converts speed units including kilometers per hour (km/h),
+ * meters per second (m/s), miles per hour (mph), and knots (knot).
+ *
+ * https://en.wikipedia.org/wiki/Kilometres_per_hour
+ * https://en.wikipedia.org/wiki/Miles_per_hour
+ * https://en.wikipedia.org/wiki/Metre_per_second
+ * https://en.wikipedia.org/wiki/Knot_(unit)
+ *
  * chart for unit conversions.
  *
  * @constant {Object} speedChart
@@ -45,7 +53,7 @@ const convertSpeed = (speed, inputUnit, outputUnit) => {
   if (!(outputUnit in speedChart) || !(inputUnit in speedChartInverse)) {
     const validUnits = Object.keys(speedChartInverse).join(', ')
     throw new Error(
-      `Incorrect 'inputUnit' or 'outputUnit' value: ${inputUnit}, ${outputUnit}\nValid values are: ${validUnits}`
+      `Incorrect 'inputUnit' or 'outputUnit' value: ${inputUnit}, ${outputUnit}\n Valid values are: ${validUnits}`
     )
   }
 
