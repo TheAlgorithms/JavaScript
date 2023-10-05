@@ -414,6 +414,8 @@
 
 - [@Bhavant](https://github.com/bhavant)
 
+- [@TaniaZaitouny](https://github.com/TaniaZaitouny)
+
 - [@Bhavy03](https://github.com/bhavy03)
 
 - [@Bhavyamehta287](https://github.com/bhavyamehta287)
