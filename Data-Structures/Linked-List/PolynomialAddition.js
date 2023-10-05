@@ -97,3 +97,5 @@ class PolynomialTerm {
       return result;
     }
   }
+
+  export {Polynomial, PolynomialTerm}
