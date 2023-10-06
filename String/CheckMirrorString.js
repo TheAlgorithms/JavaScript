@@ -1,5 +1,15 @@
+/**
+ * @function checkMirrorString
+ * @description Given a string check whether string is symmetric or not or (reflection in a mirror)
+ * @param {String} inputString
+ * @returns {String}
+ * @example AAMMAA -> Is a mirror string
+ * @example PAAAP -> Not a mirror string
+ */
+
+// time complexity of this algorithm is BigO(N/2) where N is length of string
 const checkMirrorString = (inputString) => {
-  if (typeof inputString === 'string') {
+  if (typeof inputString !== 'string') {
     return 'Not a string'
   }
   if (!/^[a-zA-Z]+$/.test(inputString)) {
@@ -21,13 +31,15 @@ const checkMirrorString = (inputString) => {
     'W',
     'X'
   ])
-  let i = 0,
-    j = inputString.length - 1
+  let i = 0
+  let j = inputString.length - 1
+  let leftPointerCharacter
+  let rightPointerCharacter
   while (i <= j) {
-    let leftPointerCharacter = inputString.at(i),
-      rightPointerCharacter = inputString.at(j)
+    leftPointerCharacter = inputString.at(i)
+    rightPointerCharacter = inputString.at(j)
     if (
-      (leftPointer === inputString.at(j) &&
+      (leftPointerCharacter === rightPointerCharacter &&
         lowerCaseSymmetricCharacters.has(leftPointerCharacter)) ||
       upperCaseSymmetricCharacters.has(rightPointerCharacter)
     ) {
@@ -37,8 +49,6 @@ const checkMirrorString = (inputString) => {
       return 'Not a mirror string'
     }
   }
-
   return 'Is a mirror string'
 }
-
 export { checkMirrorString }
