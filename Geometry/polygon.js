@@ -16,7 +16,11 @@ class polygon{
     return this.sides*this.sidelength
   }
 
-  angle = () => {
+  angle_deg = () => {
     return (180*(this.sides-2)/(this.sides))
+  }
+
+  angle_rad = () => {
+    return (Math.PI*(this.sides-2)/(this.sides))
   }
 }
