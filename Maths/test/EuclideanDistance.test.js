@@ -2,17 +2,11 @@ import { EuclideanDistance } from '../EuclideanDistance.js'
 
 describe('EuclideanDistance', () => {
   it('should calculate the distance correctly for 2D vectors', () => {
-    expect(EuclideanDistance([0, 0], [2, 2])).toBeCloseTo(
-      2.8284271247461903,
-      10
-    )
+    expect(EuclideanDistance([0, 0], [2, 2])).toBeCloseTo(2.8284271247461903, 10)
   })
 
   it('should calculate the distance correctly for 3D vectors', () => {
-    expect(EuclideanDistance([0, 0, 0], [2, 2, 2])).toBeCloseTo(
-      3.4641016151377544,
-      10
-    )
+    expect(EuclideanDistance([0, 0, 0], [2, 2, 2])).toBeCloseTo(3.4641016151377544, 10)
   })
 
   it('should calculate the distance correctly for 4D vectors', () => {
