@@ -4,7 +4,7 @@
 */
 
 class Node {
-  constructor (data) {
+  constructor(data) {
     this.data = data
     this.left = null
     this.right = null
@@ -12,11 +12,11 @@ class Node {
 }
 
 class BinaryTree {
-  constructor () {
+  constructor() {
     this.root = null
   }
 
-  breadthFirstIterative () {
+  breadthFirstIterative() {
     const traversal = []
     if (this.root) {
       traversal.push(this.root)
@@ -34,7 +34,7 @@ class BinaryTree {
     return traversal
   }
 
-  breadthFirstRecursive () {
+  breadthFirstRecursive() {
     const traversal = []
     const h = this.getHeight(this.root)
     for (let i = 0; i !== h; i++) {
@@ -44,7 +44,7 @@ class BinaryTree {
   }
 
   // Computing the height of the tree
-  getHeight (node) {
+  getHeight(node) {
     if (node === null) {
       return 0
     }
@@ -53,7 +53,7 @@ class BinaryTree {
     return lheight > rheight ? lheight + 1 : rheight + 1
   }
 
-  traverseLevel (node, levelRemaining, traversal) {
+  traverseLevel(node, levelRemaining, traversal) {
     if (node === null) {
       return
     }

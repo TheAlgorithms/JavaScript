@@ -14,7 +14,10 @@ describe('NumberOfDigits', () => {
     [123423232, 9],
     [-123423232, 9],
     [9999, 4]
-  ])('should return the correct number of digits in an integer', (value, expected) => {
-    expect(numberOfDigitsUsingLog(value)).toBe(expected)
-  })
+  ])(
+    'should return the correct number of digits in an integer',
+    (value, expected) => {
+      expect(numberOfDigitsUsingLog(value)).toBe(expected)
+    }
+  )
 })

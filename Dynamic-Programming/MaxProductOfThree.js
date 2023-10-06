@@ -5,7 +5,7 @@
  * @param {number[]} arrayItems
  * @returns number
  */
-export function maxProductOfThree (arrayItems) {
+export function maxProductOfThree(arrayItems) {
   // if size is less than 3, no triplet exists
   const n = arrayItems.length
   if (n < 3) throw new Error('Triplet cannot exist with the given array')

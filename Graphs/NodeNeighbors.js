@@ -2,11 +2,11 @@
 
 class Graph {
   // Generic graph: the algorithm works regardless of direction or weight
-  constructor () {
+  constructor() {
     this.edges = []
   }
 
-  addEdge (node1, node2) {
+  addEdge(node1, node2) {
     // Adding edges to the graph
     this.edges.push({
       node1,
@@ -14,15 +14,15 @@ class Graph {
     })
   }
 
-  nodeNeighbors (node) {
+  nodeNeighbors(node) {
     // Returns an array with all of the node neighbors
     const neighbors = new Set()
     for (const edge of this.edges) {
       // Checks if they have an edge between them and if the neighbor is not
       // already in the neighbors array
-      if (edge.node1 === node && !(neighbors.has(edge.node2))) {
+      if (edge.node1 === node && !neighbors.has(edge.node2)) {
         neighbors.add(edge.node2)
-      } else if (edge.node2 === node && !(neighbors.has(edge.node1))) {
+      } else if (edge.node2 === node && !neighbors.has(edge.node1)) {
         neighbors.add(edge.node1)
       }
     }

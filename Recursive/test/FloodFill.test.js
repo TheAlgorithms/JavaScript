@@ -30,7 +30,12 @@ describe('FloodFill', () => {
  * @param testLocation The location of the color to be checked.
  * @return The color at testLocation.
  */
-function testBreadthFirst (fillLocation, targetColor, replacementColor, testLocation) {
+function testBreadthFirst(
+  fillLocation,
+  targetColor,
+  replacementColor,
+  testLocation
+) {
   const rgbData = generateTestRgbData()
   breadthFirstSearch(rgbData, fillLocation, targetColor, replacementColor)
   return rgbData[testLocation[0]][testLocation[1]]
@@ -45,7 +50,13 @@ function testBreadthFirst (fillLocation, targetColor, replacementColor, testLoca
  * @param testLocation The location of the color to be checked.
  * @return The color at testLocation.
  */
-function testDepthFirst (fillLocation, targetColor, replacementColor, testLocation) {// eslint-disable-line
+function testDepthFirst(
+  fillLocation,
+  targetColor,
+  replacementColor,
+  testLocation
+) {
+  // eslint-disable-line
   const rgbData = generateTestRgbData()
   depthFirstSearch(rgbData, fillLocation, targetColor, replacementColor)
   return rgbData[testLocation[0]][testLocation[1]]
@@ -56,7 +67,7 @@ function testDepthFirst (fillLocation, targetColor, replacementColor, testLocati
  *
  * @return example rgbData-matrix.
  */
-function generateTestRgbData () {
+function generateTestRgbData() {
   const layout = [
     [violet, violet, green, green, black, green, green],
     [violet, green, green, black, green, green, green],

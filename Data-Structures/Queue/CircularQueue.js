@@ -4,7 +4,7 @@
 // Doesn’t use dynamic memory so No memory leaks
 
 class CircularQueue {
-  constructor (maxLength) {
+  constructor(maxLength) {
     this.queue = []
     this.front = 0
     this.rear = 0
@@ -12,7 +12,7 @@ class CircularQueue {
   }
 
   // ADD ELEMENTS TO QUEUE
-  enqueue (value) {
+  enqueue(value) {
     if (this.checkOverflow()) return
     if (this.checkEmpty()) {
       this.front += 1
@@ -26,7 +26,7 @@ class CircularQueue {
   }
 
   // REMOVES ELEMENTS
-  dequeue () {
+  dequeue() {
     if (this.checkEmpty()) {
       // UNDERFLOW
       return
@@ -44,13 +44,13 @@ class CircularQueue {
   }
 
   // checks if the queue is empty or not
-  checkEmpty () {
+  checkEmpty() {
     if (this.front === 0 && this.rear === 0) {
       return true
     }
   }
 
-  checkSingleelement () {
+  checkSingleelement() {
     if (this.front === this.rear && this.rear !== 0) {
       this.front = this.rear = 0
       return true
@@ -58,27 +58,30 @@ class CircularQueue {
   }
 
   // Checks if max capacity of queue has been reached or not
-  checkOverflow () {
-    if ((this.front === 1 && this.rear === this.maxLength) || (this.front === this.rear + 1)) {
+  checkOverflow() {
+    if (
+      (this.front === 1 && this.rear === this.maxLength) ||
+      this.front === this.rear + 1
+    ) {
       // CIRCULAR QUEUE OVERFLOW
       return true
     }
   }
 
   // Prints the entire array ('*' represents blank space)
-  display (output = value => console.log(value)) {
+  display(output = (value) => console.log(value)) {
     for (let index = 1; index < this.queue.length; index++) {
       output(this.queue[index])
     }
   }
 
   // Displays the length of queue
-  length () {
+  length() {
     return this.queue.length - 1
   }
 
   // Display the top most value of queue
-  peek () {
+  peek() {
     return this.queue[this.front]
   }
 }

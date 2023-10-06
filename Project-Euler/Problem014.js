@@ -24,7 +24,7 @@ const getCollatzSequenceLength = (num, seqLength) => {
     if (num % 2 === 0) {
       newElement = num / 2
     } else {
-      newElement = (3 * num) + 1
+      newElement = 3 * num + 1
     }
     seqLength++
     return getCollatzSequenceLength(newElement, seqLength)

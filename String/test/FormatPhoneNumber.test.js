@@ -3,7 +3,9 @@ import formatPhoneNumber from '../FormatPhoneNumber'
 describe('Testing the formatPhoneNumber functions', () => {
   it('expects to throw a type error', () => {
     expect(() => formatPhoneNumber('1234567')).toThrow('Invalid phone number!')
-    expect(() => formatPhoneNumber('123456text')).toThrow('Invalid phone number!')
+    expect(() => formatPhoneNumber('123456text')).toThrow(
+      'Invalid phone number!'
+    )
     expect(() => formatPhoneNumber(12345)).toThrow('Invalid phone number!')
   })
 

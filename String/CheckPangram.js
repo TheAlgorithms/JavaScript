@@ -24,7 +24,7 @@ const checkPangramRegex = (string) => {
    * Dot - . -> Matches any character except linebreaks. Equivalent to
    * Star - * -> Matches 0 or more of the preceding token.
    * Numeric reference - \{$n} -> Matches the results of a capture group. E.g. - \1  matches the results of the first capture group & \3 matches the third.
- */
+   */
   return string.match(/([a-z])(?!.*\1)/gi).length === 26
 }
 

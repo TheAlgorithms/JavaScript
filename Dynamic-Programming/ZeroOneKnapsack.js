@@ -12,7 +12,10 @@ const zeroOneKnapsack = (arr, n, cap, cache) => {
     return cache[n][cap]
   }
   if (arr[n - 1][0] <= cap) {
-    cache[n][cap] = Math.max(arr[n - 1][1] + zeroOneKnapsack(arr, n - 1, cap - arr[n - 1][0], cache), zeroOneKnapsack(arr, n - 1, cap, cache))
+    cache[n][cap] = Math.max(
+      arr[n - 1][1] + zeroOneKnapsack(arr, n - 1, cap - arr[n - 1][0], cache),
+      zeroOneKnapsack(arr, n - 1, cap, cache)
+    )
     return cache[n][cap]
   } else {
     cache[n][cap] = zeroOneKnapsack(arr, n - 1, cap, cache)
@@ -52,9 +55,7 @@ const example = () => {
       arr.push(input[j])
       j++
     }
-    const newArr = arr.map(e =>
-      e.trim().split(' ').map(Number)
-    )
+    const newArr = arr.map((e) => e.trim().split(' ').map(Number))
     const cache = []
     for (let i = 0; i <= currlen; i++) {
       const temp = []

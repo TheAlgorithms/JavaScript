@@ -8,7 +8,7 @@
  *
  * Wikipedia: https://en.wikipedia.org/wiki/Bead_sort
  */
-export function beadSort (sequence) {
+export function beadSort(sequence) {
   /* Let's ensure our sequence has only Positive Integers */
   if (sequence.some((integer) => integer < 0)) {
     throw RangeError('Sequence must be a list of Positive integers Only!')
@@ -18,7 +18,7 @@ export function beadSort (sequence) {
   const max = Math.max(...sequence)
 
   // Set initial Grid
-  const grid = sequence.map(number => {
+  const grid = sequence.map((number) => {
     const maxArr = new Array(max)
 
     for (let i = 0; i < number; i++) {
@@ -50,7 +50,7 @@ export function beadSort (sequence) {
 
   /* Finally, let's turn our Bead rows into their Respective Numbers */
   return grid.map((beadArray) => {
-    const beadsArray = beadArray.filter(bead => bead === '*')
+    const beadsArray = beadArray.filter((bead) => bead === '*')
     return beadsArray.length
   })
 }

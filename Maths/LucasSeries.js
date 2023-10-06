@@ -13,12 +13,13 @@
 /**
  * @param {Number} index The position of the number you want to get from the Lucas Series
  */
-function lucas (index) {
+function lucas(index) {
   // index can't be negative
   if (index < 0) throw new TypeError('Index cannot be Negative')
 
   // index can't be a decimal
-  if (Math.floor(index) !== index) throw new TypeError('Index cannot be a Decimal')
+  if (Math.floor(index) !== index)
+    throw new TypeError('Index cannot be a Decimal')
 
   let a = 2
   let b = 1

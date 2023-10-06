@@ -1,4 +1,4 @@
-function hexStringToRGB (hexString) {
+function hexStringToRGB(hexString) {
   let r = hexString.substring(0, 2)
   let g = hexString.substring(2, 4)
   let b = hexString.substring(4, 6)

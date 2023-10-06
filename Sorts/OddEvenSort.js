@@ -7,13 +7,13 @@
 */
 
 // Helper function to swap array items
-function swap (arr, i, j) {
+function swap(arr, i, j) {
   const tmp = arr[i]
   arr[i] = arr[j]
   arr[j] = tmp
 }
 
-export function oddEvenSort (arr) {
+export function oddEvenSort(arr) {
   let sorted = false
   while (!sorted) {
     sorted = true

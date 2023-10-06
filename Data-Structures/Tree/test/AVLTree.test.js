@@ -12,14 +12,14 @@ describe('AVLTree Implementation: ', () => {
   const emptyTree = new AVLTree(collator.compare)
 
   beforeAll(() => {
-    demoData.forEach(item => {
+    demoData.forEach((item) => {
       if (avlTree.add(item)) {
         dataList.push(item)
       }
     })
 
     avlStringTree._comp = collator.compare
-    stringData.forEach(item => avlStringTree.add(item))
+    stringData.forEach((item) => avlStringTree.add(item))
   })
 
   it('delete and search from empty tree', () => {
@@ -33,10 +33,10 @@ describe('AVLTree Implementation: ', () => {
   })
 
   it('search if inserted element is present', () => {
-    demoData.forEach(data => {
+    demoData.forEach((data) => {
       expect(avlTree.find(data)).toBeTruthy()
     })
-    stringData.forEach(data => {
+    stringData.forEach((data) => {
       expect(avlStringTree.find(data)).toBeTruthy()
     })
   })

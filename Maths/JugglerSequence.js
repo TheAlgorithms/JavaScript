@@ -10,7 +10,7 @@
  * jugglerSequence(15) // returns [15, 58, 7, 18, 4, 2, 1]
  */
 
-function jugglerSequence (n) {
+function jugglerSequence(n) {
   const sequence = []
   sequence.push(n)
   // Calculate terms until last term is not 1

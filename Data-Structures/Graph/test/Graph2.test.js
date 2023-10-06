@@ -18,7 +18,7 @@ describe('Test Graph2', () => {
   graph.addEdge('C', 'F')
 
   it('Check adjacency lists', () => {
-    const mockFn = jest.fn()
+    const mockFn = vi.fn()
     graph.printGraph(mockFn)
 
     // Expect one call per vertex

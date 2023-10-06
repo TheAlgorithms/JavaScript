@@ -10,18 +10,24 @@ export const FriendlyNumbers = (firstNumber, secondNumber) => {
   // output: true if the two integers are friendly numbers, false if they are not friendly numbers
 
   // First, check that the parameters are valid
-  if (!Number.isInteger(firstNumber) || !Number.isInteger(secondNumber) || firstNumber === 0 || secondNumber === 0 || firstNumber === secondNumber) {
+  if (
+    !Number.isInteger(firstNumber) ||
+    !Number.isInteger(secondNumber) ||
+    firstNumber === 0 ||
+    secondNumber === 0 ||
+    firstNumber === secondNumber
+  ) {
     throw new Error('The two parameters must be distinct, non-null integers')
   }
 
   return abundancyIndex(firstNumber) === abundancyIndex(secondNumber)
 }
 
-function abundancyIndex (number) {
+function abundancyIndex(number) {
   return sumDivisors(number) / number
 }
 
-function sumDivisors (number) {
+function sumDivisors(number) {
   let runningSumDivisors = number
   for (let i = 0; i < number / 2; i++) {
     if (Number.isInteger(number / i)) {

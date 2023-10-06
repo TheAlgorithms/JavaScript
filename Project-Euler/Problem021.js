@@ -14,7 +14,7 @@ import { aliquotSum } from '../Maths/AliquotSum.js'
  * @author PraneethJain
  */
 
-function problem21 (n) {
+function problem21(n) {
   if (n < 2) {
     throw new Error('Invalid Input')
   }

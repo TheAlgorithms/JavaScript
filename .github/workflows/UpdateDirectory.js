@@ -63,7 +63,7 @@ globby([
   "!**/test/**/*",
   '!**/*.test.js',
   '!**/*.manual-test.js',
-  '!babel.config.js'
+  '!vitest.config.ts'
 ])
   // create markdown content
   .then(pathsToMarkdown)

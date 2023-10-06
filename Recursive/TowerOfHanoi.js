@@ -1,7 +1,7 @@
 // wiki - https://en.wikipedia.org/wiki/Tower_of_Hanoi
 // Recursive Javascript function to solve tower of hanoi
 
-export function TowerOfHanoi (n, from, to, aux, output = []) {
+export function TowerOfHanoi(n, from, to, aux, output = []) {
   if (n === 1) {
     output.push(`Move disk 1 from rod ${from} to rod ${to}`)
     return output

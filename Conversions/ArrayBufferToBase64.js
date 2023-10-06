@@ -5,9 +5,10 @@
  * @param {ArrayBuffer} binaryData An ArrayBuffer which represents an array of bytes
  * @returns {string} A string containing the base64 encoding of `binaryData`
  */
-function bufferToBase64 (binaryData) {
+function bufferToBase64(binaryData) {
   // The base64 encoding uses the following set of characters to encode any binary data as text
-  const base64Table = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/'
+  const base64Table =
+    'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/'
   // Every 3 bytes translates to 4 base64 characters, if we have less than 3 bytes we must append '=' chars as padding
   const padding = 3 - (binaryData.byteLength % 3)
   // Create an instance of Uint8Array, to read from the binaryData array buffer
@@ -23,15 +24,16 @@ function bufferToBase64 (binaryData) {
     const char4 = byteView[i + 2] & 63
 
     result +=
-        base64Table[char1] +
-        base64Table[char2] +
-        base64Table[char3] +
-        base64Table[char4]
+      base64Table[char1] +
+      base64Table[char2] +
+      base64Table[char3] +
+      base64Table[char4]
   }
 
   // Add padding '=' chars if needed
   if (padding !== 3) {
-    const paddedResult = result.slice(0, result.length - padding) + '='.repeat(padding)
+    const paddedResult =
+      result.slice(0, result.length - padding) + '='.repeat(padding)
     return paddedResult
   }
 

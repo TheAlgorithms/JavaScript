@@ -19,15 +19,15 @@
  */
 
 class MinHeap {
-  constructor (array) {
+  constructor(array) {
     this.heap = this.initializeHeap(array)
   }
 
   /**
    *   startingParent represents the parent of the last index (=== array.length-1)
    *   and iterates towards 0 with all index values below sorted to meet heap conditions
-  */
-  initializeHeap (array) {
+   */
+  initializeHeap(array) {
     const startingParent = Math.floor((array.length - 2) / 2)
 
     for (let currIdx = startingParent; currIdx >= 0; currIdx--) {
@@ -52,15 +52,16 @@ class MinHeap {
    *   update currIdx and recalculate the new childOneIdx to check heap conditions again.
    *
    *   if there is no swap, it means the children indices and the parent index satisfy heap conditions and can exit the function.
-  */
-  sinkDown (currIdx, endIdx, heap) {
+   */
+  sinkDown(currIdx, endIdx, heap) {
     let childOneIdx = currIdx * 2 + 1
 
     while (childOneIdx <= endIdx) {
       const childTwoIdx = childOneIdx + 1 <= endIdx ? childOneIdx + 1 : -1
-      const swapIdx = childTwoIdx !== -1 && heap[childTwoIdx] < heap[childOneIdx]
-        ? childTwoIdx
-        : childOneIdx
+      const swapIdx =
+        childTwoIdx !== -1 && heap[childTwoIdx] < heap[childOneIdx]
+          ? childTwoIdx
+          : childOneIdx
 
       if (heap[swapIdx] < heap[currIdx]) {
         this.swap(currIdx, swapIdx, heap)
@@ -79,8 +80,8 @@ class MinHeap {
    *   update currIdx and recalculate the new parentIdx to check heap condition again.
    *
    *   iteration does not end while a valid currIdx has a value smaller than its parentIdx's value
-  */
-  bubbleUp (currIdx) {
+   */
+  bubbleUp(currIdx) {
     let parentIdx = Math.floor((currIdx - 1) / 2)
 
     while (currIdx > 0 && this.heap[currIdx] < this.heap[parentIdx]) {
@@ -90,7 +91,7 @@ class MinHeap {
     }
   }
 
-  peek () {
+  peek() {
     return this.heap[0]
   }
 
@@ -101,8 +102,8 @@ class MinHeap {
    *   the resulting min heap value now resides at heap[heap.length-1] which is popped and later returned.
    *
    *   the remaining values in the heap are re-sorted
-  */
-  extractMin () {
+   */
+  extractMin() {
     this.swap(0, this.heap.length - 1, this.heap)
     const min = this.heap.pop()
     this.sinkDown(0, this.heap.length - 1, this.heap)
@@ -110,13 +111,13 @@ class MinHeap {
   }
 
   // a new value is pushed to the end of the heap and sorted up
-  insert (value) {
+  insert(value) {
     this.heap.push(value)
     this.bubbleUp(this.heap.length - 1)
   }
 
   // index-swapping helper method
-  swap (idx1, idx2, heap) {
+  swap(idx1, idx2, heap) {
     const temp = heap[idx1]
     heap[idx1] = heap[idx2]
     heap[idx2] = temp

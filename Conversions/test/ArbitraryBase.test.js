@@ -1,4 +1,7 @@
-import { convertArbitraryBase, convertArbitraryBaseBigIntVersion } from '../ArbitraryBase'
+import {
+  convertArbitraryBase,
+  convertArbitraryBaseBigIntVersion
+} from '../ArbitraryBase'
 
 test('Check the answer of convertArbitraryBase(98, 0123456789, 01234567) is 142', () => {
   const res = convertArbitraryBase('98', '0123456789', '01234567')

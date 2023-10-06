@@ -22,14 +22,14 @@
 */
 
 class Combinations {
-  constructor (n, k) {
+  constructor(n, k) {
     this.n = n
     this.k = k
     this.current = [] // will be used for storing current combination
     this.combinations = []
   }
 
-  findCombinations (high = this.n, total = this.k, low = 1) {
+  findCombinations(high = this.n, total = this.k, low = 1) {
     if (total === 0) {
       this.combinations.push([...this.current])
       return this.combinations

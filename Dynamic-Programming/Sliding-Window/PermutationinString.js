@@ -12,7 +12,7 @@
  * @return {boolean} - Returns true if s2 contains a permutation of s1, or false otherwise.
  */
 
-export function PermutationinString (s1, s2) {
+export function PermutationinString(s1, s2) {
   if (s1.length > s2.length) return false
   let start = 0
   let end = s1.length - 1
@@ -35,11 +35,11 @@ export function PermutationinString (s1, s2) {
   }
   return false
 }
-function equals (a, b) {
+function equals(a, b) {
   return JSON.stringify(a) === JSON.stringify(b)
 }
 
-function SetHash () {
+function SetHash() {
   const set = new Set()
   const alphabets = 'abcdefghijklmnopqrstuvwxyz'
   for (let i = 0; i < alphabets.length; i++) {

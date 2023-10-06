@@ -33,6 +33,4 @@ const lengthConversion = (length, fromUnit, toUnit) => {
   return convertedLength
 }
 
-export {
-  lengthConversion
-}
+export { lengthConversion }

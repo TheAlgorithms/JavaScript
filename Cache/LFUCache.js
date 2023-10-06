@@ -1,5 +1,5 @@
 class CacheNode {
-  constructor (key, value, frequency) {
+  constructor(key, value, frequency) {
     this.key = key
     this.value = value
     this.frequency = frequency
@@ -10,15 +10,19 @@ class CacheNode {
 
 // This frequency map class will act like javascript Map DS with more two custom method refresh & insert
 class FrequencyMap extends Map {
-  static get [Symbol.species] () { return Map } // for using Symbol.species we can access Map constructor  @see -> https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map/@@species
-  get [Symbol.toStringTag] () { return '' }
+  static get [Symbol.species]() {
+    return Map
+  } // for using Symbol.species we can access Map constructor  @see -> https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map/@@species
+  get [Symbol.toStringTag]() {
+    return ''
+  }
 
   /**
-  * @method refresh
-  * @description - It's revive a CacheNode, increment of this nodes frequency and refresh the frequencyMap via new incremented nodes frequency
-  * @param {CacheNode} node
-  */
-  refresh (node) {
+   * @method refresh
+   * @description - It's revive a CacheNode, increment of this nodes frequency and refresh the frequencyMap via new incremented nodes frequency
+   * @param {CacheNode} node
+   */
+  refresh(node) {
     const { frequency } = node
     const freqSet = this.get(frequency)
     freqSet.delete(node)
@@ -33,7 +37,7 @@ class FrequencyMap extends Map {
    * @description - Add new CacheNode into HashSet by the frequency
    * @param {CacheNode} node
    */
-  insert (node) {
+  insert(node) {
     const { frequency } = node
 
     if (!this.has(frequency)) {
@@ -49,10 +53,10 @@ class LFUCache {
   #frequencyMap
 
   /**
-     * @param {number} capacity - The range of LFUCache
-     * @returns {LFUCache} - sealed
-     */
-  constructor (capacity) {
+   * @param {number} capacity - The range of LFUCache
+   * @returns {LFUCache} - sealed
+   */
+  constructor(capacity) {
     this.#capacity = capacity
     this.#frequencyMap = new FrequencyMap()
     this.misses = 0
@@ -66,7 +70,7 @@ class LFUCache {
    * Get the capacity of the LFUCache
    * @returns {number}
    */
-  get capacity () {
+  get capacity() {
     return this.#capacity
   }
 
@@ -74,14 +78,14 @@ class LFUCache {
    * Get the current size of LFUCache
    * @returns {number}
    */
-  get size () {
+  get size() {
     return this.cache.size
   }
 
   /**
-     * Set the capacity of the LFUCache if you decrease the capacity its removed CacheNodes following the LFU - least frequency used
-     */
-  set capacity (newCapacity) {
+   * Set the capacity of the LFUCache if you decrease the capacity its removed CacheNodes following the LFU - least frequency used
+   */
+  set capacity(newCapacity) {
     if (this.#capacity > newCapacity) {
       let diff = this.#capacity - newCapacity // get the decrement number of capacity
 
@@ -95,7 +99,7 @@ class LFUCache {
     this.#capacity = newCapacity
   }
 
-  get info () {
+  get info() {
     return Object.freeze({
       misses: this.misses,
       hits: this.hits,
@@ -105,7 +109,7 @@ class LFUCache {
     })
   }
 
-  get leastFrequency () {
+  get leastFrequency() {
     const freqCacheIterator = this.#frequencyMap.keys()
     let leastFrequency = freqCacheIterator.next().value || null
 
@@ -117,7 +121,7 @@ class LFUCache {
     return leastFrequency
   }
 
-  #removeCacheNode () {
+  #removeCacheNode() {
     const leastFreqSet = this.#frequencyMap.get(this.leastFrequency)
     // Select the least recently used node from the least Frequency set
     const LFUNode = leastFreqSet.values().next().value
@@ -131,19 +135,19 @@ class LFUCache {
    * @param {any} key
    * @returns {boolean}
    */
-  has (key) {
+  has(key) {
     key = String(key) // converted to string
 
     return this.cache.has(key)
   }
 
   /**
-     * @method get
-     * @description - This method return the value of key & refresh the frequencyMap by the oldNode
-     * @param {string} key
-     * @returns {any}
-     */
-  get (key) {
+   * @method get
+   * @description - This method return the value of key & refresh the frequencyMap by the oldNode
+   * @param {string} key
+   * @returns {any}
+   */
+  get(key) {
     key = String(key) // converted to string
 
     if (this.cache.has(key)) {
@@ -160,14 +164,14 @@ class LFUCache {
   }
 
   /**
-     * @method set
-     * @description - This method stored the value by key & add frequency if it doesn't exist
-     * @param {string} key
-     * @param {any} value
-     * @param {number} frequency
-     * @returns {LFUCache}
-     */
-  set (key, value, frequency = 1) {
+   * @method set
+   * @description - This method stored the value by key & add frequency if it doesn't exist
+   * @param {string} key
+   * @param {any} value
+   * @param {number} frequency
+   * @returns {LFUCache}
+   */
+  set(key, value, frequency = 1) {
     key = String(key) // converted to string
 
     if (this.#capacity === 0) {
@@ -197,12 +201,12 @@ class LFUCache {
   }
 
   /**
-     * @method parse
-     * @description - This method receive a valid LFUCache JSON & run JSON.prase() method and merge with existing LFUCache
-     * @param {JSON} json
-     * @returns {LFUCache} - merged
-     */
-  parse (json) {
+   * @method parse
+   * @description - This method receive a valid LFUCache JSON & run JSON.prase() method and merge with existing LFUCache
+   * @param {JSON} json
+   * @returns {LFUCache} - merged
+   */
+  parse(json) {
     const { misses, hits, cache } = JSON.parse(json)
 
     this.misses += misses ?? 0
@@ -217,11 +221,11 @@ class LFUCache {
   }
 
   /**
-     * @method clear
-     * @description - This method cleared the whole LFUCache
-     * @returns {LFUCache}
-     */
-  clear () {
+   * @method clear
+   * @description - This method cleared the whole LFUCache
+   * @returns {LFUCache}
+   */
+  clear() {
     this.cache.clear()
     this.#frequencyMap.clear()
 
@@ -229,12 +233,12 @@ class LFUCache {
   }
 
   /**
-     * @method toString
-     * @description - This method generate a JSON format of LFUCache & return it.
-     * @param {number} indent
-     * @returns {string} - JSON
-     */
-  toString (indent) {
+   * @method toString
+   * @description - This method generate a JSON format of LFUCache & return it.
+   * @param {number} indent
+   * @returns {string} - JSON
+   */
+  toString(indent) {
     const replacer = (_, value) => {
       if (value instanceof Set) {
         return [...value]

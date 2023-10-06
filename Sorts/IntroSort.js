@@ -15,7 +15,7 @@
  * @see [Introsort](https://en.wikipedia.org/wiki/Introsort)
  * @author [Lakhan Nad](https://github.com/Lakhan-Nad)
  */
-function introsort (array, compare) {
+function introsort(array, compare) {
   /**
    * @function Default Comparison Function
    * This function is same as implemented by
@@ -125,7 +125,7 @@ function introsort (array, compare) {
      * @param {Number} last  one more than the last index of array segment
      * @param {Number} depth this measures how many recursive calls are done
      */
-    function quickSort (start, last, depth) {
+    function quickSort(start, last, depth) {
       if (last - start <= THRESHOLD) {
         insertionSort(start, last)
         return
@@ -145,7 +145,7 @@ function introsort (array, compare) {
      * @param {Number} pivot the index of pivot to be used
      * @returns {Number} the index of pivot after partition
      */
-    function partition (start, last, pivot) {
+    function partition(start, last, pivot) {
       swap(start, pivot)
       pivot = start
       let lo = start
@@ -174,7 +174,7 @@ function introsort (array, compare) {
      * @param {Number} start the first index of array segment to be sorted
      * @param {Number} last  one more than last index of array to be sorted
      */
-    function insertionSort (start, last) {
+    function insertionSort(start, last) {
       let i, j
       for (i = start + 1; i < last; i++) {
         j = i - 1
@@ -191,7 +191,7 @@ function introsort (array, compare) {
      * @param {Number} start the first index of array segment to be sorted
      * @param {Number} last  one more than last index of array to be sorted
      */
-    function heapSort (start, last) {
+    function heapSort(start, last) {
       let x = (last + start) >> 1
       while (x - start >= 0) {
         heapify(x, start, last)
@@ -210,7 +210,7 @@ function introsort (array, compare) {
      * @param {Number} start the start index of array segment that cur belongs to
      * @param {Number} last  one more than last index of segment that cur belongs to
      */
-    function heapify (cur, start, last) {
+    function heapify(cur, start, last) {
       const size = last - start
       let max, lt, rt
       cur = cur - start
@@ -247,7 +247,7 @@ function introsort (array, compare) {
  * Returns 'RIGHT:)' if the sort routine worked as expected,
  *         'WRONG!!' otherwise
  */
-function demo1 () {
+function demo1() {
   const data = []
   const size = 1000000
   let i = 0
@@ -279,7 +279,7 @@ function demo1 () {
  * using the default compare function and
  * comparing the results with Array.sort
  */
-function demo2 () {
+function demo2() {
   const data = []
   const data2 = []
   const size = 1000000

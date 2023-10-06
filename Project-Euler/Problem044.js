@@ -11,18 +11,19 @@
  * @author ddaniel27
  */
 
-function problem44 (k) {
+function problem44(k) {
   if (k < 1) {
     throw new Error('Invalid Input')
   }
 
   while (true) {
     k++
-    const n = k * (3 * k - 1) / 2 // calculate Pk
+    const n = (k * (3 * k - 1)) / 2 // calculate Pk
 
     for (let j = k - 1; j > 0; j--) {
-      const m = j * (3 * j - 1) / 2 // calculate all Pj < Pk
-      if (isPentagonal(n - m) && isPentagonal(n + m)) { // Check sum and difference
+      const m = (j * (3 * j - 1)) / 2 // calculate all Pj < Pk
+      if (isPentagonal(n - m) && isPentagonal(n + m)) {
+        // Check sum and difference
         return n - m // return D
       }
     }
@@ -36,7 +37,7 @@ function problem44 (k) {
  * @see {@link https://en.wikipedia.org/wiki/Quadratic_function}
  */
 
-function isPentagonal (n) {
+function isPentagonal(n) {
   const pent = (Math.sqrt(24 * n + 1) + 1) / 6
   return pent === Math.floor(pent)
 }
