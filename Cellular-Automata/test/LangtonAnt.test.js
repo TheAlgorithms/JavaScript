@@ -1,4 +1,4 @@
-import { simulateLangtonAnt } from './LangtonAnt';
+import { simulateLangtonAnt } from './LangtonAnt.test';
 
 describe('LangtonAnt', () => {
   it('Simulates LangtonAnt for 1 step', () => {
