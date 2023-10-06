@@ -1,6 +1,9 @@
 /*
 This program calculates the area, perimeter, and interior angle of a regular n-gon
 given the side length and the number of sides.
+* @constructor
+* @param {number} sideLength - The side length of the polygon.
+* @param {number} sides - The number of sides in the polygon.
 */
 
 class Polygon{
