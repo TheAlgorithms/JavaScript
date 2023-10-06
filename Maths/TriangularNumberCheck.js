@@ -16,7 +16,7 @@
  *   
  **/
 
-function IsTriangularNumber(n) {
+function TriangularNumberCheck(n) {
   // Ensure the input n is a non-negative integer, retrurn -1 to indicate error.
   if (!Number.isInteger(n) || n < 0) {
     return -1;
@@ -36,4 +36,4 @@ function IsTriangularNumber(n) {
   }
 }
 
-export { IsTriangularNumber }
+export { TriangularNumberCheck }
