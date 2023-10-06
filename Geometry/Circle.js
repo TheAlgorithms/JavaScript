@@ -32,8 +32,8 @@ export default class Circle {
     }
     this.radius = newRadius
   }
-  // Function That Calculates the lenght of an arc
-  lenghtOfArc = (angle) => {
+  // Function That Calculates the length of an arc
+  lengthOfArc = (angle) => {
     if (angle <= 0) {
       throw new RangeError('Angle should be a positive number')
     }

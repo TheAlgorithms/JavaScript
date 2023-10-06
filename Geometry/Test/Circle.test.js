@@ -24,6 +24,6 @@ test('Change radius and check if it reflects in calculations', () => {
   expect(parseFloat(circle.area().toFixed(2))).toEqual(50.27)
 })
 
-test('The Lenght of arc in radian of the circle', () => {
-  expect(parseFloat(circle.lenghtOfArc(2.1).toFixed(2))).toEqual(8.4)
+test('The Length of arc in radian of the circle', () => {
+  expect(parseFloat(circle.lengthOfArc(2.1).toFixed(2))).toEqual(8.4)
 })
