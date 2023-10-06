@@ -1,4 +1,22 @@
-import { simulateLangtonAnt } from './LangtonAnt.test';
+// LangtonAnt.js
+export function simulateLangtonAnt(steps, gridSize) {
+  // Implement the Langton's Ant simulation logic here
+  // Initialize the grid and ant's position
+  const grid = [...Array(gridSize)].map(() => Array(gridSize).fill(0));
+  let antX = Math.floor(gridSize / 2);
+  let antY = Math.floor(gridSize / 2);
+  let antDirection = 'up'; // Initial direction
+
+  for (let step = 0; step < steps; step++) {
+    // Implement the Langton's Ant rules for each step here
+    // Update grid and ant's position and direction accordingly
+  }
+
+  return grid;
+}
+
+// LangtonAnt.test.js
+import { simulateLangtonAnt } from './LangtonAnt';
 
 describe('LangtonAnt', () => {
   it('Simulates LangtonAnt for 1 step', () => {
