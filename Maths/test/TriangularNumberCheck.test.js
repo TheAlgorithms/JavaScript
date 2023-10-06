@@ -1,4 +1,4 @@
-import { IsTriangularNumber } from '../IsTriangularNumber'
+import { TriangularNumberCheck } from '../TriangularNumberCheck'
 
 describe.each([
   { inputVal:55, expectedVal:10 },
@@ -11,7 +11,7 @@ describe.each([
   { inputVal:1, expectedVal:1 },
 ])('If the number of $inputVal is triangular', ({inputVal, expectedVal}) => {
   test(`should return ${expectedVal}`, () => {
-    expect(IsTriangularNumber(inputVal)).toBe(expectedVal)
+    expect(TriangularNumberCheck(inputVal)).toBe(expectedVal)
   })
 })
 
@@ -23,7 +23,7 @@ describe.each([
   { inputVal:"fizz", expectedVal:-1 }, 
 ])('If the number of $inputVal is completely wrong or negative', ({inputVal, expectedVal}) => {
   test(`should return ${expectedVal}`, () => {
-    expect(IsTriangularNumber(inputVal)).not.toBeLessThan(-1)
+    expect(TriangularNumberCheck(inputVal)).not.toBeLessThan(-1)
   })
 })
 
@@ -34,6 +34,6 @@ describe.each([
   { inputVal:23, expectedVal:0 }
 ])('If the number of $inputVal is NOT triangular', ({inputVal, expectedVal}) => {
   test(`should return ${expectedVal}`, () => {
-    expect(IsTriangularNumber(inputVal)).toBe(0)
+    expect(TriangularNumberCheck(inputVal)).toBe(0)
   })
 })
