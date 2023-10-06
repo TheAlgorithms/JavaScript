@@ -1,26 +1,27 @@
 /*
-This program calculates the area, perimeter, and interior angle of a regular n-gon given the side length.
+This program calculates the area, perimeter, and interior angle of a regular n-gon
+given the side length and the number of sides.
 */
 
-class polygon{
-  constructor(sidelength, sides) {
-    this.sidelength = sidelength
+class Polygon{
+  constructor(sideLength, sides) {
+    this.sideLength = sideLength
     this.sides = sides
   }
 
   area = () => {
-    return (this.sides*this.sidelength*this.sidelength*Math.tan(Math.PI*(this.sides-2)/(2*this.sides)))/4
+    return (this.sides*this.sideLength*this.sideLength*Math.tan(Math.PI*(this.sides-2)/(2*this.sides)))/4
   }
 
   perimeter = () => {
-    return this.sides*this.sidelength
+    return this.sides*this.sideLength
   }
 
-  angle_deg = () => {
+  angleDeg = () => {
     return (180*(this.sides-2)/(this.sides))
   }
 
-  angle_rad = () => {
+  angleRad = () => {
     return (Math.PI*(this.sides-2)/(this.sides))
   }
 }
