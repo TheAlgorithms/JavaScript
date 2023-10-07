@@ -12,7 +12,7 @@
 const abs = (num) => {
   const result = Math.abs(num)
 
-  if(Number.isNaN(result))
+  if (Number.isNaN(result))
     throw new TypeError('Argument is NaN - Not a Number.')
 
   return result
