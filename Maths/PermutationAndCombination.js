@@ -25,12 +25,10 @@ const factorial = (n) => {
 
 /**
  * @brief Calculates the number of Permutations from the given data.
- * n: integer -> number of items.
- * r: integer -> number of times n is taken.
+ * @param n {number} -> number of items.
+ * @param r {number} -> number of times n is taken.
  * @returns {number}: The number of permutations.
  NaN: if negative number is provided.
- * @param n
- * @param r
  */
 const permutation = (n, r) => {
   return factorial(n) / factorial(n - r)
@@ -38,12 +36,10 @@ const permutation = (n, r) => {
 
 /**
  * @brief Calculates the number of Combinations from the given data.
- * n -> number of items.
- * r -> number of times n is taken.
+ * @param {number} n -> number of items.
+ * @param {number} r -> number of times n is taken.
  * @returns {number}: The number of combinations.
  NaN: if negative number is provided.
- * @param n
- * @param r
  */
 const combination = (n, r) => {
   return factorial(n) / (factorial(r) * factorial(n - r))
