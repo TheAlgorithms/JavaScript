@@ -5,6 +5,7 @@ describe('Testing abs function', () => {
     expect(() => abs('234a')).toThrow()
     expect(() => abs({})).toThrow()
     expect(() => abs([12, -32, -60])).toThrow()
+    expect(() => abs([])).toThrow() // gets coerced to 0
   })
 
   it('Testing for number of string type', () => {
