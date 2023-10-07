@@ -12,8 +12,8 @@
  * @description -> This method returns λ(n) of given number n
  * returns 1 when number has even number of prime factors
  * returns -1 when number has odd number of prime factors
- * @param {Integer} number
- * @returns {Integer} 1|-1
+ * @param {Number} number
+ * @returns {Number} 1|-1
  */
 
 import { PrimeFactors } from './PrimeFactors.js'

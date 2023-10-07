@@ -1,7 +1,7 @@
 /**
  * Function to get all prime numbers below a given number
  * This function returns an array of prime numbers
- * @see {@link https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes}
+ * @see https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes
  */
 
 function sieveOfEratosthenes(max) {

@@ -15,8 +15,8 @@
  * or number has even number of prime factors
  * returns 0 when number has repeated prime factor
  * returns -1 when number has odd number of prime factors
- * @param {Integer} number
- * @returns {Integer}
+ * @param {Number} number
+ * @returns {Number}
  */
 
 import { PrimeFactors } from './PrimeFactors.js'

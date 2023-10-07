@@ -3,7 +3,7 @@
 // This algorithm has multiple functions that ultimately check if the inputs are actually matrices and if two Matrices (that can be different sizes) can be multiplied together.
 // matrices that are of the same size [2x2]x[2x2], and the second is the multiplication of two matrices that are not the same size [2x3]x[3x2].
 
-// MatrixCheck tests to see if all of the rows of the matrix inputted have similar size columns
+// MatrixCheck tests to see if all the rows of the matrix inputted have similar size columns
 const matrixCheck = (matrix) => {
   let columnNumb
   for (let index = 0; index < matrix.length; index++) {

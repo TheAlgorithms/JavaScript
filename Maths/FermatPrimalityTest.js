@@ -7,7 +7,7 @@
  *
  *     a^(p - 1) % p = 1
  *
- * However, there are certain numbers (so called Fermat Liars) that screw things up;
+ * However, there are certain numbers (so-called Fermat Liars) that screw things up;
  * if a is one of these liars the equation will hold even though p is composite.
  *
  * But not everything is lost! It's been proven that at least half of all integers
@@ -24,7 +24,7 @@
  * infallible program is around 1.4 * 10^-15. An order of magnitude below!
  *
  * But because nothing is perfect, there's a major flaw to this algorithm, and
- * the cause are the so called Carmichael Numbers. These are composite numbers n
+ * the cause are the so-called Carmichael Numbers. These are composite numbers n
  * that hold the equality from Fermat's Little Theorem for every a < n (excluding
  * is factors). In other words, if we are trying to determine if a Carmichael Number
  * is prime or not, the chances of getting a wrong answer are pretty high! Because

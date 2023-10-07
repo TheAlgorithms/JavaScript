@@ -10,10 +10,10 @@
  * @function isEven
  * @description - Checking if number is even using divisibility by 2
  *
- * If number is divisible by 2 i.e remainder = 0, then it is even
+ * If number is divisible by 2 i.e. remainder = 0, then it is even
  * therefore, the function will return true
  *
- * If number is not divisible by 2 i.e remainder != 0, then it is not even i.e odd
+ * If number is not divisible by 2 i.e. remainder != 0, then it is not even i.e odd
  * therefore, the function will return false
  * @param {number} number
  * @return {boolean}

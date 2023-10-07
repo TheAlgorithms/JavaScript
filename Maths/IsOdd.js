@@ -8,10 +8,10 @@
 /**
  * @function isOdd
  * @description -> Checking if number is odd using not divisibility by 2
- * If number is not divisible by 2 i.e remainder = 1, then it is odd
+ * If number is not divisible by 2 i.e. remainder = 1, then it is odd
  * therefore, the function will return true
  *
- * If number is divisible by 2 i.e remainder != 1, then it is even
+ * If number is divisible by 2 i.e. remainder != 1, then it is even
  * therefore, the function will return false
  * @param {number} number
  * @returns {boolean}

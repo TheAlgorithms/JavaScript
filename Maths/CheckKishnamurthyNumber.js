@@ -1,7 +1,7 @@
 /*
     Problem statement and Explanation : https://www.geeksforgeeks.org/check-if-a-number-is-a-krishnamurthy-number-or-not-2/
 
-    krishnamurthy number is a number the sum of the all factorial of the all dights is equal to the number itself.
+    krishnamurthy number is a number the sum of the all factorial of the all digits is equal to the number itself.
     145 => 1! + 4! + 5! = 1  + 24 + 120 = 145
 */
 

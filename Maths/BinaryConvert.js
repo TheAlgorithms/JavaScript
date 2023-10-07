@@ -1,8 +1,8 @@
 /**
  * @function BinaryConvert
  * @description Convert the decimal to binary.
- * @param {Integer} num - The input integer
- * @return {Integer} - Binary of num.
+ * @param {Number} num - The input integer
+ * @return {Number} - Binary of num.
  * @see [BinaryConvert](https://www.programiz.com/javascript/examples/decimal-binary)
  * @example BinaryConvert(12) = 1100
  * @example BinaryConvert(12 + 2) = 1110

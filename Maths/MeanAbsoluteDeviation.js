@@ -2,8 +2,9 @@ import { mean } from './AverageMean.js'
 /**
  *@function meanAbsoluteDeviation
  *@description Calculates the mean absolute deviation of list of numbers
- * @param {Integer} data
- * @returns meanAbsoluteDeviation([2,34,5,0,-2]) = 10.480
+ * @param {Number} data
+ * @returns { Number }
+ *  // meanAbsoluteDeviation([2,34,5,0,-2]) = 10.480
  * @url https://en.wikipedia.org/wiki/Average_absolute_deviation
  */
 function meanAbsoluteDeviation(data) {

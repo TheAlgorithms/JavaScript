@@ -1,8 +1,8 @@
 /**
  * @function ShorsAlgorithm
  * @description Classical implementation of Shor's Algorithm.
- * @param {Integer} num - Find a non-trivial factor of this number.
- * @returns {Integer} - A non-trivial factor of num.
+ * @param {Number} num - Find a non-trivial factor of this number.
+ * @returns {Number} - A non-trivial factor of num.
  * @see https://en.wikipedia.org/wiki/Shor%27s_algorithm
  * @see https://www.youtube.com/watch?v=lvTqbM5Dq4Q
  *

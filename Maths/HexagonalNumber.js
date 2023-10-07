@@ -9,8 +9,8 @@
 /**
  * @function hexagonalNumber
  * @description -> returns nth hexagonal number
- * @param {Integer} number
- * @returns {Integer} nth hexagonal number
+ * @param {Number} number
+ * @returns {Number} nth hexagonal number
  */
 
 export const hexagonalNumber = (number) => {

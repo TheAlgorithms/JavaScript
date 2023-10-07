@@ -4,7 +4,7 @@
 
 /**
  * ReverseNumber return the reversed value of the given number.
- * @param {Number} n any digit number.
+ * @param {Number} number any digit number.
  * @returns `Number` n reverse in reverse.
  */
 const ReverseNumber = (number) => {

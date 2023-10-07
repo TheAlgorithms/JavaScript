@@ -1,7 +1,7 @@
 /**
  * GetEuclidGCD Euclidean algorithm to determine the GCD of two numbers
- * @param {Number} a integer (may be negative)
- * @param {Number} b integer (may be negative)
+ * @param {Number} a integer (maybe negative)
+ * @param {Number} b integer (maybe negative)
  * @returns {Number} Greatest Common Divisor gcd(a, b)
  */
 export function GetEuclidGCD(a, b) {

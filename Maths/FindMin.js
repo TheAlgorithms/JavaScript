@@ -1,8 +1,8 @@
 /**
  * @function FindMin
- * @description Function to find the minimum number given in an array of integers.
- * @param {Integer[]} nums - Array of Integers
- * @return {Integer} - The minimum number of the array.
+ * @description Function to find the minimum number given in an array of Numbers.
+ * @param {Number[]} nums - Array of Numbers
+ * @return {Number} - The minimum number of the array.
  */
 
 const findMin = (...nums) => {

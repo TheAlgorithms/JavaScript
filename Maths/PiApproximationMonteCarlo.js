@@ -14,8 +14,7 @@ const piEstimation = (iterations = 100000) => {
   }
 
   // formula for pi = (ratio of number inside circle and total iteration) x 4
-  const pi = (circleCounter / iterations) * 4
-  return pi
+  return (circleCounter / iterations) * 4
 }
 
 export { piEstimation }

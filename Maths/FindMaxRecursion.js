@@ -2,11 +2,11 @@
  * @function findMaxRecursion
  * @description This algorithm will find the maximum value of a array of numbers.
  *
- * @param {Integer[]} arr Array of numbers
- * @param {Integer} left Index of the first element
- * @param {Integer} right Index of the last element
+ * @param {Number[]} arr Array of numbers
+ * @param {Number} left Index of the first element
+ * @param {Number} right Index of the last element
  *
- * @return {Integer} Maximum value of the array
+ * @return {Number} Maximum value of the array
  *
  * @see [Maximum value](https://en.wikipedia.org/wiki/Maximum_value)
  *

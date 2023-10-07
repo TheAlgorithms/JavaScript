@@ -1,9 +1,10 @@
 /**
  * @function exponentialFunction
  * @description Calculates the n+1 th order Taylor series approximation of exponential function e^x given n
- * @param {Integer} power
- * @param {Integer} order - 1
- * @returns exponentialFunction(2,20) = 7.3890560989301735
+ * @param {Number} power
+ * @param {Number} n - 1
+ * @returns {Number}
+ *  // exponentialFunction(2,20) = 7.3890560989301735
  * @url https://en.wikipedia.org/wiki/Exponential_function
  */
 function exponentialFunction(power, n) {

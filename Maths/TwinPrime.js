@@ -4,8 +4,8 @@ import { PrimeCheck } from './PrimeCheck'
  * @function twinPrime
  * Gets the 'twin prime' of a prime number.
  *
- * @param {Integer} n The number to find the twin prime of.
- * @returns {Integer} Either the twin, or -1 if n or n + 2 is not prime.
+ * @param {Number} n The number to find the twin prime of.
+ * @returns {Number} Either the twin, or -1 if n or n + 2 is not prime.
  *
  * @see https://en.wikipedia.org/wiki/Twin_prime
  *

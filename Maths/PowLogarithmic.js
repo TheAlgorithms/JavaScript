@@ -9,9 +9,9 @@ import { isEven } from './IsEven'
  *
  * @function PowLogarithmic
  * @description Given two integers x and n, return x^n in logarithmic complexity.
- * @param {Integer} x - The input integer
- * @param {Integer} n - The input integer
- * @return {Integer} - Returns x^n.
+ * @param {Number} x - The input integer
+ * @param {Number} n - The input integer
+ * @return {Number} - Returns x^n.
  * @see [Pow-Logarithmic](https://www.geeksforgeeks.org/write-a-c-program-to-calculate-powxn/)
  */
 const powLogarithmic = (x, n) => {
