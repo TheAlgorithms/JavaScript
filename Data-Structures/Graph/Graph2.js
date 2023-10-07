@@ -2,9 +2,9 @@
 class Graph {
   // defining vertex array and
   // adjacent list
-  constructor(noOfVertices) {
-    this.noOfVertices = noOfVertices
-    this.AdjList = new Map()
+  constructor(numberOfVertices) {
+    this.numberOfVertices = numberOfVertices
+    this.adjacencyList = new Map()
   }
 
   // functions to be implemented
@@ -21,42 +21,45 @@ class Graph {
     // initialize the adjacent list with a
     // null array
 
-    this.AdjList.set(v, [])
+    this.adjacencyList.set(v, [])
   }
 
   // add edge to the graph
-  addEdge(v, w) {
-    // get the list for vertex v and put the
-    // vertex w denoting edge between v and w
-    this.AdjList.get(v).push(w)
+  addEdge(vertex1, vertex2) {
+    // get the list for vertex1 and push the
+    // vertex2 denoting edge between vertex1 and vertex2
+    this.adjacencyList.get(vertex1).push(vertex2)
 
     // Since graph is undirected,
-    // add an edge from w to v also
-    this.AdjList.get(w).push(v)
+    // add an edge from vertext2 to vertex1 as well
+    this.adjacencyList.get(vertex2).push(vertex1)
   }
 
-  // Prints the vertex and adjacency list
-  printGraph(output = (value) => console.log(value)) {
+  // Prints the graph's adjacency list
+  printGraph(outputFn = (value) => console.log(value)) {
     // get all the vertices
-    const getKeys = this.AdjList.keys()
+    const vertices = this.adjacencyList.keys()
 
     // iterate over the vertices
-    for (const i of getKeys) {
+    for (const vertex of vertices) {
       // get the corresponding adjacency list
       // for the vertex
-      const getValues = this.AdjList.get(i)
-      let conc = ''
-
-      // iterate over the adjacency list
-      // concatenate the values into a string
-      for (const j of getValues) {
-        conc += j + ' '
-      }
+      const neighbors = this.adjacencyList.get(vertex)
+      const concatenatedNeighbors = neighbors.join(' ')
 
       // print the vertex and its adjacency list
-      output(i + ' -> ' + conc)
+      outputFn(`${vertex} -> ${concatenatedNeighbors}`)
     }
   }
 }
 
 export { Graph }
+
+// Example of usage:
+const graph = new Graph(5);
+graph.addVertex("A");
+graph.addVertex("B");
+graph.addVertex("C");
+graph.addEdge("A", "B");
+graph.addEdge("A", "C");
+graph.printGraph();
