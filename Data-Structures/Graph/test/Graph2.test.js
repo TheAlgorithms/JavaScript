@@ -28,12 +28,12 @@ describe('Test Graph2', () => {
     const adjListArr = mockFn.mock.calls.map((v) => v[0])
 
     expect(adjListArr).toEqual([
-      'A -> B D E ',
-      'B -> A C ',
-      'C -> B E F ',
-      'D -> A E ',
-      'E -> A D F C ',
-      'F -> E C '
+      'A -> B D E',
+      'B -> A C',
+      'C -> B E F',
+      'D -> A E',
+      'E -> A D F C',
+      'F -> E C'
     ])
   })
 })
