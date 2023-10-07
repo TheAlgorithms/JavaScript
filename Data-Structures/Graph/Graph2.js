@@ -63,3 +63,7 @@ graph.addVertex("C");
 graph.addEdge("A", "B");
 graph.addEdge("A", "C");
 graph.printGraph();
+// output console output
+// A -> B C
+// B -> A
+// C -> A
