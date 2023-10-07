@@ -12,7 +12,7 @@
 const abs = (num) => {
   const validNumber = +num // converted to number, also can use - Number(num)
 
-  if (Number.isNaN(validNumber) || typeof num !== "number") {
+  if (Number.isNaN(validNumber) || typeof num === 'object') {
     throw new TypeError('Argument is NaN - Not a Number')
   }
 
