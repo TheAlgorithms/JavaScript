@@ -8,7 +8,7 @@
 function evaluatePostfixExpression(expression) {
   const stack = [];
 
-  // Helper function to perform an operation and push the result to the stack
+  // Helper function to perform an operation and push the result to the stack. Returns success.
   function performOperation(operator) {
     const rightOp = stack.pop(); // Right operand is the top of the stack
     const leftOp = stack.pop(); // Left operand is the next item on the stack
@@ -33,9 +33,9 @@ function evaluatePostfixExpression(expression) {
         stack.push(leftOp / rightOp);
         break;
       default:
-        break;
+        return false; // Unknown operator
     }
-
+    return true;
   }
 
   const tokens = expression.split(/\s+/);
@@ -46,8 +46,7 @@ function evaluatePostfixExpression(expression) {
       stack.push(parseFloat(token));
     } else {
       // If the token is an operator, perform the operation
-      const result = performOperation(token);
-      if (result === false) {
+      if (!performOperation(token)) {
         return null; // Invalid expression
       }
     }
