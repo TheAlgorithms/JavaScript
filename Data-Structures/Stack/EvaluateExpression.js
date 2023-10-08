@@ -1,8 +1,7 @@
 /**
  * Evaluate a numeric operations string in postfix notation using a stack.
  * Supports basic arithmetic operations: +, -, *, /
- * Literature reference: https://www.geeksforgeeks.org/evaluation-of-postfix-expression/
- *
+ * @see https://www.geeksforgeeks.org/evaluation-of-postfix-expression/
  * @param {string} expression - Numeric operations expression to evaluate.
  * @returns {number|null} - Result of the expression evaluation, or null if the expression is invalid.
  */
