@@ -1,5 +1,6 @@
 /**
- * Given a square matrix, find its determinant.
+ * Given a square matrix, find its determinant using Laplace Expansion.
+ * Time Complexity : O(n!)
  *
  * For more info: https://en.wikipedia.org/wiki/Determinant
  *
@@ -27,15 +28,13 @@ const subMatrix = (matrix, i, j) => {
   for (let x = 0; x < matrixSize; x++) {
     if (x === i) {
       continue
-    } else {
-      subMatrix.push([])
-      for (let y = 0; y < matrixSize; y++) {
-        if (y === j) {
-          continue
-        } else {
-          subMatrix[subMatrix.length - 1].push(matrix[x][y])
-        }
+    }
+    subMatrix.push([])
+    for (let y = 0; y < matrixSize; y++) {
+      if (y === j) {
+        continue
       }
+      subMatrix[subMatrix.length - 1].push(matrix[x][y])
     }
   }
   return subMatrix
@@ -57,10 +56,10 @@ const determinant = (matrix) => {
     matrix.length === 0 ||
     !Array.isArray(matrix[0])
   ) {
-    return 'Input is not a valid 2D matrix.'
+    throw new Error('Input is not a valid 2D matrix.')
   }
-  if (isMatrixSquare(matrix) === false) {
-    return 'Square matrix is required.'
+  if (!isMatrixSquare(matrix)) {
+    throw new Error('Square matrix is required.')
   }
   let numCols = matrix[0].length
   if (numCols === 1) {
