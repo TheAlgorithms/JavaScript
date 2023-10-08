@@ -112,6 +112,17 @@ const volHemisphere = (radius) => {
   return (2.0 * Math.PI * radius ** 3) / 3.0
 }
 
+/**
+ * Calculate the volume for a Torus
+ * Reference: https://www.mathsisfun.com/geometry/torus.html
+ * return 2 * (Math.PI^2) * R * (r^2)
+ */
+const volTorus = (R, r) => {
+  isNumber(R, 'Major radius')
+  isNumber(r, 'Minor radius')
+  return 2 * Math.PI * Math.PI * R * r * r
+}
+
 const isNumber = (number, noName = 'number') => {
   if (typeof number !== 'number') {
     throw new TypeError('The ' + noName + ' should be Number type')
@@ -129,5 +140,6 @@ export {
   volTriangularPrism,
   volPentagonalPrism,
   volSphere,
-  volHemisphere
+  volHemisphere,
+  volTorus
 }
