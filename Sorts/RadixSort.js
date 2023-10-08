@@ -1,10 +1,10 @@
 /*
-* Radix sorts an integer array without comparing the integers.
-* It groups the integers by their digits which share the same
-* significant position.
-* For more information see: https://en.wikipedia.org/wiki/Radix_sort
-*/
-export function radixSort (items, RADIX) {
+ * Radix sorts an integer array without comparing the integers.
+ * It groups the integers by their digits which share the same
+ * significant position.
+ * For more information see: https://en.wikipedia.org/wiki/Radix_sort
+ */
+export function radixSort(items, RADIX) {
   // default radix is then because we usually count to base 10
   if (RADIX === undefined || RADIX < 1) {
     RADIX = 10

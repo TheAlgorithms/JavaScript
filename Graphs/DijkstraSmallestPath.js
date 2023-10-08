@@ -1,5 +1,5 @@
 // starting at s
-function solve (graph, s) {
+function solve(graph, s) {
   const solutions = {}
   solutions[s] = []
   solutions[s].dist = 0
@@ -10,12 +10,16 @@ function solve (graph, s) {
     let dist = Infinity
 
     for (const n in solutions) {
-      if (!solutions[n]) { continue }
+      if (!solutions[n]) {
+        continue
+      }
       const ndist = solutions[n].dist
       const adj = graph[n]
 
       for (const a in adj) {
-        if (solutions[a]) { continue }
+        if (solutions[a]) {
+          continue
+        }
 
         const d = adj[a] + ndist
         if (d < dist) {

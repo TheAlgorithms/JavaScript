@@ -1,6 +1,6 @@
 import { zellersCongruenceAlgorithm } from '../ZellersCongruenceAlgorithm'
 
-function testZeller (day, month, year, expected) {
+function testZeller(day, month, year, expected) {
   test('Testing on ' + day + '/' + month + '/' + year, () => {
     expect(zellersCongruenceAlgorithm(day, month, year)).toBe(expected)
   })

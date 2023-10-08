@@ -18,6 +18,8 @@ describe('MergeSort', () => {
     expect(mergeSort([5, 4])).toEqual([4, 5])
     expect(mergeSort([8, 4, 10, 15, 9])).toEqual([4, 8, 9, 10, 15])
     expect(mergeSort([1, 2, 3])).toEqual([1, 2, 3])
-    expect(mergeSort([10, 5, 3, 8, 2, 6, 4, 7, 9, 1])).toEqual([1, 2, 3, 4, 5, 6, 7, 8, 9, 10])
+    expect(mergeSort([10, 5, 3, 8, 2, 6, 4, 7, 9, 1])).toEqual([
+      1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+    ])
   })
 })

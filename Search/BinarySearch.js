@@ -7,7 +7,7 @@
  * value is found or the interval is empty.
  */
 
-function binarySearchRecursive (arr, x, low = 0, high = arr.length - 1) {
+function binarySearchRecursive(arr, x, low = 0, high = arr.length - 1) {
   const mid = Math.floor(low + (high - low) / 2)
 
   if (high >= low) {
@@ -28,7 +28,7 @@ function binarySearchRecursive (arr, x, low = 0, high = arr.length - 1) {
     return -1
   }
 }
-function binarySearchIterative (arr, x, low = 0, high = arr.length - 1) {
+function binarySearchIterative(arr, x, low = 0, high = arr.length - 1) {
   while (high >= low) {
     const mid = Math.floor(low + (high - low) / 2)
 

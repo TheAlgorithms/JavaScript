@@ -1,12 +1,12 @@
 // Wikipedia: https://en.wikipedia.org/wiki/Knight%27s_tour
 
 class OpenKnightTour {
-  constructor (size) {
+  constructor(size) {
     this.board = new Array(size).fill(0).map(() => new Array(size).fill(0))
     this.size = size
   }
 
-  getMoves ([i, j]) {
+  getMoves([i, j]) {
     // helper function to get the valid moves of the knight from the current position
     const moves = [
       [i + 2, j - 1],
@@ -19,15 +19,17 @@ class OpenKnightTour {
       [i - 1, j + 2]
     ]
 
-    return moves.filter(([y, x]) => y >= 0 && y < this.size && x >= 0 && x < this.size)
+    return moves.filter(
+      ([y, x]) => y >= 0 && y < this.size && x >= 0 && x < this.size
+    )
   }
 
-  isComplete () {
+  isComplete() {
     // helper function to check if the board is complete
-    return !this.board.map(row => row.includes(0)).includes(true)
+    return !this.board.map((row) => row.includes(0)).includes(true)
   }
 
-  solve () {
+  solve() {
     // function to find the solution for the given board
     for (let i = 0; i < this.size; i++) {
       for (let j = 0; j < this.size; j++) {
@@ -37,7 +39,7 @@ class OpenKnightTour {
     return false
   }
 
-  solveHelper ([i, j], curr) {
+  solveHelper([i, j], curr) {
     // helper function for the main computation
     if (this.isComplete()) return true
 
@@ -52,7 +54,7 @@ class OpenKnightTour {
     return false
   }
 
-  printBoard (output = value => console.log(value)) {
+  printBoard(output = (value) => console.log(value)) {
     // utility function to display the board
     for (const row of this.board) {
       let string = ''

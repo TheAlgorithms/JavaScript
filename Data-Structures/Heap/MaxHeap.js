@@ -4,25 +4,25 @@
  */
 
 class BinaryHeap {
-  constructor () {
+  constructor() {
     this.heap = []
   }
 
-  insert (value) {
+  insert(value) {
     this.heap.push(value)
     this.heapify()
   }
 
-  size () {
+  size() {
     return this.heap.length
   }
 
-  empty () {
+  empty() {
     return this.size() === 0
   }
 
   // using iterative approach to reorder the heap after insertion
-  heapify () {
+  heapify() {
     let index = this.size() - 1
 
     while (index > 0) {
@@ -38,7 +38,7 @@ class BinaryHeap {
   }
 
   // Extracting the maximum element from the Heap
-  extractMax () {
+  extractMax() {
     const max = this.heap[0]
     const tmp = this.heap.pop()
     if (!this.empty()) {
@@ -49,7 +49,7 @@ class BinaryHeap {
   }
 
   // To restore the balance of the heap after extraction.
-  sinkDown (index) {
+  sinkDown(index) {
     const left = 2 * index + 1
     const right = 2 * index + 2
     let largest = index

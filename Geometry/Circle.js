@@ -5,7 +5,7 @@
  * @param {number} radius - The radius of the circle.
  */
 export default class Circle {
-  constructor (radius) {
+  constructor(radius) {
     this.radius = radius
   }
 

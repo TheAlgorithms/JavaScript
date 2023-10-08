@@ -94,8 +94,8 @@ Be confident that your code works. When was the last time you committed a code c
 your app stopped working? Mine was last week. Writing tests for our Algorithms will help us ensure the implementations
 are airtight even after multiple fixes and code changes.
 
-We use [Jest](https://jestjs.io/) to run unit tests on our algorithms. It provides a very readable and expressive way to
-structure your test code.
+We use [Vitest](https://vitest.dev/) to run unit tests on our algorithms. It provides a very readable and expressive
+way to structure your test code.
 
 It is advised that the algorithm file (module) does not contain any "live" code but rather just exports the function(s)
 needed to execute the algorithm. Your test code can import those function(s), call them with the appropriate parameters
@@ -122,33 +122,22 @@ If you want to save some time and just run a specific test:
 npm test -- koch
 ```
 
-You can also start Jest in "watch" mode:
+You can also start Vitest in "watch" mode:
 
 ```bash
-npm test -- --watchAll
-```
-
-We also prepared a helper script that runs tests only for changed files:
-
-```bash
-npm run test-changed
+npm test-watch
 ```
 
 This will run all tests and watch source and test files for changes. When a change is made, the tests will run again.
 
 #### Coding Style
 
-To maximize the readability and correctness of our code, we require that new submissions follow the
-[JavaScript Standard Style](https://standardjs.com/).
-
-Before committing, please run:
+For consistency and readability, we require that new submissions follow the [Prettier Style](https://prettier.io/).
+Before committing, please format your code automatically using Prettier by running the following command:
 
 ```bash
 npm run style
 ```
-
-In order to apply the coding style (where it can be done automatically). If an error is shown, please figure out what's
-wrong, fix it and run standard again.
 
 A few (but not all) of the things to keep in mind:
 

@@ -2,7 +2,9 @@ import { checkExceeding } from '../CheckExceeding'
 
 describe('Testing CheckExceeding function', () => {
   it('Testing the invalid types', () => {
-    expect(() => checkExceeding(Math.random())).toThrow('Argument is not a string')
+    expect(() => checkExceeding(Math.random())).toThrow(
+      'Argument is not a string'
+    )
     expect(() => checkExceeding(null)).toThrow('Argument is not a string')
     expect(() => checkExceeding(false)).toThrow('Argument is not a string')
     expect(() => checkExceeding(false)).toThrow('Argument is not a string')

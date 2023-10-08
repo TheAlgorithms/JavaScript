@@ -20,9 +20,17 @@ describe('alphaNumericalComparer', () => {
   })
 
   test('correct sort with long numbers', () => {
-    const src = ['abc999999999999999999999999999999999cba', 'abc999999999999999999999999999999990cba', 'ab']
+    const src = [
+      'abc999999999999999999999999999999999cba',
+      'abc999999999999999999999999999999990cba',
+      'ab'
+    ]
     src.sort(alphaNumericalSort)
-    expect(src).toEqual(['ab', 'abc999999999999999999999999999999990cba', 'abc999999999999999999999999999999999cba'])
+    expect(src).toEqual([
+      'ab',
+      'abc999999999999999999999999999999990cba',
+      'abc999999999999999999999999999999999cba'
+    ])
   })
 
   test('correct sort with z prefix', () => {

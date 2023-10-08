@@ -3,7 +3,7 @@ Given a data set of an unknown size,
 Get a random sample in a random order
 It's used in data analytics, often as a way to get a small random sample from a data lake or warehouse, or from a large CSV file
 */
-function shuf (datasetSource, sampleSize) {
+function shuf(datasetSource, sampleSize) {
   const output = fillBaseSample(datasetSource, sampleSize)
 
   return randomizeOutputFromDataset(datasetSource, output)
@@ -16,7 +16,7 @@ function shuf (datasetSource, sampleSize) {
  * @returns {Array.<T>} The random sample, as an array
  * @template T
  */
-function fillBaseSample (datasetSource, sampleSize) {
+function fillBaseSample(datasetSource, sampleSize) {
   let filledIndexes = []
   let output = new Array(sampleSize)
 
@@ -58,7 +58,7 @@ function fillBaseSample (datasetSource, sampleSize) {
  * @returns {Array.<T>} The random sample, as an array
  * @template T
  */
-function randomizeOutputFromDataset (datasetSource, output) {
+function randomizeOutputFromDataset(datasetSource, output) {
   const newOutput = [...output]
   let readSoFar = output.length
 
@@ -82,8 +82,8 @@ function randomizeOutputFromDataset (datasetSource, output) {
  * Generates a random range of data, with values between 0 and 2^31 - 1
  * @param {number} length The number of data items to generate
  * @returns {Iterable<number>} Random iterable data
-*/
-function * generateRandomData (length) {
+ */
+function* generateRandomData(length) {
   const maxValue = Math.pow(2, 31) - 1
   for (let i = 0; i < length; i++) {
     yield Math.floor(Math.random() * maxValue)

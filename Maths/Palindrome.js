@@ -56,6 +56,7 @@ const PalindromeIterative = (string) => {
  * const isPalindrome = checkPalindrome('racecar'); // Returns true
  * const isNotPalindrome = checkPalindrome('hello');  // Returns false
  */
-const checkPalindrome = (str) => str.replace(/\s/g, '') === str.replace(/\s/g, '').split('').reverse().join('')
+const checkPalindrome = (str) =>
+  str.replace(/\s/g, '') === str.replace(/\s/g, '').split('').reverse().join('')
 
 export { PalindromeIterative, PalindromeRecursive, checkPalindrome }

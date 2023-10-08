@@ -13,7 +13,7 @@ export const agm = (a, g) => {
   if (a === g) return a // avoid rounding errors, and increase efficiency
   let x // temp var
   do {
-    [a, g, x] = [(a + g) / 2, Math.sqrt(a * g), a]
+    ;[a, g, x] = [(a + g) / 2, Math.sqrt(a * g), a]
   } while (a !== x && !isNaN(a))
   /*
   `x !== a` ensures the return value has full precision,

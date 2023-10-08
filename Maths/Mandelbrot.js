@@ -27,14 +27,15 @@
  * @param {boolean} useDistanceColorCoding Render in color or black and white.
  * @return {object} The RGB-data of the rendered Mandelbrot set.
  */
-export function getRGBData (
+export function getRGBData(
   imageWidth = 800,
   imageHeight = 600,
   figureCenterX = -0.6,
   figureCenterY = 0,
   figureWidth = 3.2,
   maxStep = 50,
-  useDistanceColorCoding = true) {
+  useDistanceColorCoding = true
+) {
   if (imageWidth <= 0) {
     throw new Error('imageWidth should be greater than zero')
   }
@@ -48,7 +49,7 @@ export function getRGBData (
   }
 
   const rgbData = []
-  const figureHeight = figureWidth / imageWidth * imageHeight
+  const figureHeight = (figureWidth / imageWidth) * imageHeight
 
   // loop through the image-coordinates
   for (let imageX = 0; imageX < imageWidth; imageX++) {
@@ -56,15 +57,15 @@ export function getRGBData (
     for (let imageY = 0; imageY < imageHeight; imageY++) {
       // determine the figure-coordinates based on the image-coordinates
       const figureX = figureCenterX + (imageX / imageWidth - 0.5) * figureWidth
-      const figureY = figureCenterY + (imageY / imageHeight - 0.5) * figureHeight
+      const figureY =
+        figureCenterY + (imageY / imageHeight - 0.5) * figureHeight
 
       const distance = getDistance(figureX, figureY, maxStep)
 
       // color the corresponding pixel based on the selected coloring-function
-      rgbData[imageX][imageY] =
-        useDistanceColorCoding
-          ? colorCodedColorMap(distance)
-          : blackAndWhiteColorMap(distance)
+      rgbData[imageX][imageY] = useDistanceColorCoding
+        ? colorCodedColorMap(distance)
+        : blackAndWhiteColorMap(distance)
     }
   }
 
@@ -79,7 +80,7 @@ export function getRGBData (
  * @param {number} distance Distance until divergence threshold
  * @return {object} The RGB-value corresponding to the distance.
  */
-function blackAndWhiteColorMap (distance) {
+function blackAndWhiteColorMap(distance) {
   return distance >= 1 ? [0, 0, 0] : [255, 255, 255]
 }
 
@@ -91,7 +92,7 @@ function blackAndWhiteColorMap (distance) {
  * @param {number} distance Distance until divergence threshold
  * @return {object} The RGB-value corresponding to the distance.
  */
-function colorCodedColorMap (distance) {
+function colorCodedColorMap(distance) {
   if (distance >= 1) {
     return [0, 0, 0]
   } else {
@@ -100,7 +101,7 @@ function colorCodedColorMap (distance) {
     const hue = 360 * distance
     const saturation = 1
     const val = 255
-    const hi = (Math.floor(hue / 60)) % 6
+    const hi = Math.floor(hue / 60) % 6
     const f = hue / 60 - Math.floor(hue / 60)
 
     const v = val
@@ -136,7 +137,7 @@ function colorCodedColorMap (distance) {
  * @param {number} maxStep Maximum number of steps to check for divergent behavior.
  * @return {number} The relative distance as the ratio of steps taken to maxStep.
  */
-function getDistance (figureX, figureY, maxStep) {
+function getDistance(figureX, figureY, maxStep) {
   let a = figureX
   let b = figureY
   let currentStep = 0

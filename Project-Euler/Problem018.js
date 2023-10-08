@@ -100,7 +100,10 @@ export const maxPathSum = function (grid = triangle) {
    * sub-problems in a recursive manner, this is called Dynamic Programming.
    */
 
-  grid = grid.split(/\r\n|\n/).filter(l => l).map(r => r.split(' ').map(n => +n))
+  grid = grid
+    .split(/\r\n|\n/)
+    .filter((l) => l)
+    .map((r) => r.split(' ').map((n) => +n))
 
   for (let i = grid.length - 2; i >= 0; i--) {
     for (let j = 0; j < grid[i].length; j++) {

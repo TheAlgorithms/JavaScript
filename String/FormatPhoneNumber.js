@@ -4,7 +4,7 @@
  * @returns {string} - Format to (XXX) XXX-XXXX pattern
  */
 const formatPhoneNumber = (phoneNumber) => {
-  if ((phoneNumber.length !== 10) || isNaN(phoneNumber)) {
+  if (phoneNumber.length !== 10 || isNaN(phoneNumber)) {
     // return "Invalid phone number."
     throw new TypeError('Invalid phone number!')
   }

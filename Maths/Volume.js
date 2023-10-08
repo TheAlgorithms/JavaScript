@@ -21,7 +21,7 @@ const volCuboid = (width, length, height) => {
   isNumber(width, 'Width')
   isNumber(length, 'Length')
   isNumber(height, 'Height')
-  return (width * length * height)
+  return width * length * height
 }
 
 /*
@@ -31,7 +31,7 @@ const volCuboid = (width, length, height) => {
 */
 const volCube = (length) => {
   isNumber(length, 'Length')
-  return (length ** 3)
+  return length ** 3
 }
 
 /*
@@ -42,7 +42,7 @@ const volCube = (length) => {
 const volCone = (radius, height) => {
   isNumber(radius, 'Radius')
   isNumber(height, 'Height')
-  return (Math.PI * radius ** 2 * height / 3.0)
+  return (Math.PI * radius ** 2 * height) / 3.0
 }
 
 /*
@@ -65,7 +65,7 @@ const volPyramid = (baseLength, baseWidth, height) => {
 const volCylinder = (radius, height) => {
   isNumber(radius, 'Radius')
   isNumber(height, 'Height')
-  return (Math.PI * radius ** 2 * height)
+  return Math.PI * radius ** 2 * height
 }
 
 /*
@@ -77,7 +77,7 @@ const volTriangularPrism = (baseLengthTriangle, heightTriangle, height) => {
   isNumber(baseLengthTriangle, 'BaseLengthTriangle')
   isNumber(heightTriangle, 'HeightTriangle')
   isNumber(height, 'Height')
-  return (1 / 2 * baseLengthTriangle * heightTriangle * height)
+  return (1 / 2) * baseLengthTriangle * heightTriangle * height
 }
 
 /*
@@ -89,7 +89,7 @@ const volPentagonalPrism = (pentagonalLength, pentagonalBaseLength, height) => {
   isNumber(pentagonalLength, 'PentagonalLength')
   isNumber(pentagonalBaseLength, 'PentagonalBaseLength')
   isNumber(height, 'Height')
-  return (5 / 2 * pentagonalLength * pentagonalBaseLength * height)
+  return (5 / 2) * pentagonalLength * pentagonalBaseLength * height
 }
 
 /*
@@ -99,7 +99,7 @@ const volPentagonalPrism = (pentagonalLength, pentagonalBaseLength, height) => {
 */
 const volSphere = (radius) => {
   isNumber(radius, 'Radius')
-  return (4 / 3 * Math.PI * radius ** 3)
+  return (4 / 3) * Math.PI * radius ** 3
 }
 
 /*
@@ -115,9 +115,19 @@ const volHemisphere = (radius) => {
 const isNumber = (number, noName = 'number') => {
   if (typeof number !== 'number') {
     throw new TypeError('The ' + noName + ' should be Number type')
-  } else if (number < 0 || (!Number.isFinite(number))) {
+  } else if (number < 0 || !Number.isFinite(number)) {
     throw new Error('The ' + noName + ' only accepts positive values')
   }
 }
 
-export { volCuboid, volCube, volCone, volPyramid, volCylinder, volTriangularPrism, volPentagonalPrism, volSphere, volHemisphere }
+export {
+  volCuboid,
+  volCube,
+  volCone,
+  volPyramid,
+  volCylinder,
+  volTriangularPrism,
+  volPentagonalPrism,
+  volSphere,
+  volHemisphere
+}

@@ -12,9 +12,7 @@ describe('Testing checkAnagramRegex', () => {
   `(
     'expects to throw the type Error given values $inputOne and $inputTwo',
     ({ inputOne, inputTwo }) => {
-      expect(
-        () => checkAnagramRegex(inputOne, inputTwo)
-      ).toThrowError()
+      expect(() => checkAnagramRegex(inputOne, inputTwo)).toThrowError()
     }
   )
 
@@ -102,9 +100,7 @@ describe('Testing checkAnagramMap', () => {
   `(
     'expects to throw the type Error given values $inputOne and $inputTwo',
     ({ inputOne, inputTwo }) => {
-      expect(
-        () => checkAnagramMap(inputOne, inputTwo)
-      ).toThrowError()
+      expect(() => checkAnagramMap(inputOne, inputTwo)).toThrowError()
     }
   )
 

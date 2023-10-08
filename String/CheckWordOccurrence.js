@@ -18,13 +18,10 @@ const checkWordOccurrence = (str, isCaseSensitive = false) => {
 
   return modifiedStr
     .split(/\s+/) // remove all spaces and distribute all word in List
-    .reduce(
-      (occurrence, word) => {
-        occurrence[word] = occurrence[word] + 1 || 1
-        return occurrence
-      },
-      {}
-    )
+    .reduce((occurrence, word) => {
+      occurrence[word] = occurrence[word] + 1 || 1
+      return occurrence
+    }, {})
 }
 
 export { checkWordOccurrence }

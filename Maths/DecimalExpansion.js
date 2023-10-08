@@ -20,7 +20,7 @@
  * @param {number} [base=10]
  * @returns {array}
  */
-export function decExp (a, b, base = 10, exp = [], d = {}, dlen = 0) {
+export function decExp(a, b, base = 10, exp = [], d = {}, dlen = 0) {
   if (base < 2 || base > 10) {
     throw new RangeError('Unsupported base. Must be in range [2, 10]')
   }

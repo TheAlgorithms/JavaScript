@@ -26,7 +26,11 @@ describe('LongestCommonSubsequence', () => {
   })
 
   it('expects to return the longest common subsequence, medium-length inputs', () => {
-    expect(longestCommonSubsequence('bsbininm', 'jmjkbkjkv')).toEqual('b'.length)
-    expect(longestCommonSubsequence('oxcpqrsvwf', 'shmtulqrypy')).toEqual('qr'.length)
+    expect(longestCommonSubsequence('bsbininm', 'jmjkbkjkv')).toEqual(
+      'b'.length
+    )
+    expect(longestCommonSubsequence('oxcpqrsvwf', 'shmtulqrypy')).toEqual(
+      'qr'.length
+    )
   })
 })

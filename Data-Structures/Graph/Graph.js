@@ -1,24 +1,24 @@
 class Graph {
-  constructor () {
+  constructor() {
     this.adjacencyMap = {}
   }
 
-  addVertex (vertex) {
+  addVertex(vertex) {
     this.adjacencyMap[vertex] = []
   }
 
-  containsVertex (vertex) {
-    return typeof (this.adjacencyMap[vertex]) !== 'undefined'
+  containsVertex(vertex) {
+    return typeof this.adjacencyMap[vertex] !== 'undefined'
   }
 
-  addEdge (vertex1, vertex2) {
+  addEdge(vertex1, vertex2) {
     if (this.containsVertex(vertex1) && this.containsVertex(vertex2)) {
       this.adjacencyMap[vertex1].push(vertex2)
       this.adjacencyMap[vertex2].push(vertex1)
     }
   }
 
-  printGraph (output = value => console.log(value)) {
+  printGraph(output = (value) => console.log(value)) {
     const keys = Object.keys(this.adjacencyMap)
     for (const i of keys) {
       const values = this.adjacencyMap[i]
@@ -34,13 +34,14 @@ class Graph {
    * Prints the Breadth first traversal of the graph from source.
    * @param {number} source The source vertex to start BFS.
    */
-  bfs (source, output = value => console.log(value)) {
+  bfs(source, output = (value) => console.log(value)) {
     const queue = [[source, 0]] // level of source is 0
     const visited = new Set()
 
     while (queue.length) {
       const [node, level] = queue.shift() // remove the front of the queue
-      if (visited.has(node)) { // visited
+      if (visited.has(node)) {
+        // visited
         continue
       }
 
@@ -56,8 +57,9 @@ class Graph {
    * Prints the Depth first traversal of the graph from source.
    * @param {number} source The source vertex to start DFS.
    */
-  dfs (source, visited = new Set(), output = value => console.log(value)) {
-    if (visited.has(source)) { // visited
+  dfs(source, visited = new Set(), output = (value) => console.log(value)) {
+    if (visited.has(source)) {
+      // visited
       return
     }
 

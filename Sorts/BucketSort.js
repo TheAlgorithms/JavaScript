@@ -17,7 +17,7 @@
  * @param {number} size The size of the buckets used. If not provided, size will be 5.
  * @return {number[]} An array of numbers sorted in increasing order.
  */
-export function bucketSort (list, size) {
+export function bucketSort(list, size) {
   if (undefined === size) {
     size = 5
   }

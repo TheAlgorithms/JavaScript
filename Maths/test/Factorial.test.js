@@ -6,12 +6,18 @@ describe('calcFactorial', () => {
   })
 
   it('should throw error for "null" and "undefined"', () => {
-    expect(() => { calcFactorial(null) }).toThrow(Error)
-    expect(() => { calcFactorial(undefined) }).toThrow(Error)
+    expect(() => {
+      calcFactorial(null)
+    }).toThrow(Error)
+    expect(() => {
+      calcFactorial(undefined)
+    }).toThrow(Error)
   })
 
   it('should throw error for negative numbers', () => {
-    expect(() => { calcFactorial(-1) }).toThrow(Error)
+    expect(() => {
+      calcFactorial(-1)
+    }).toThrow(Error)
   })
 
   it('should return the factorial of a positive number', () => {

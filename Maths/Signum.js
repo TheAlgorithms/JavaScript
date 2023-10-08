@@ -14,7 +14,7 @@
  * @param {Number} input
  * @returns {-1 | 0 | 1 | NaN} sign of input (and NaN if the input is not a number)
  */
-function signum (input) {
+function signum(input) {
   if (input === 0) return 0
   if (input > 0) return 1
   if (input < 0) return -1

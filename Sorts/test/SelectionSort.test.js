@@ -17,6 +17,8 @@ describe('selectionSort', () => {
   })
 
   it('expects to throw if one of the elements in the array is not a number', () => {
-    expect(() => selectionSort([1, 'x', 2])).toThrow('One of the items in your array is not a number')
+    expect(() => selectionSort([1, 'x', 2])).toThrow(
+      'One of the items in your array is not a number'
+    )
   })
 })

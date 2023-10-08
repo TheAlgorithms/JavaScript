@@ -39,7 +39,9 @@ describe('combSort function', () => {
     })
 
     it('should correctly sort an input list that contains only a mix of positive and negative numbers', () => {
-      expect(combSort([-40, 42, 56, -45, 12, -3])).toEqual([-45, -40, -3, 12, 42, 56])
+      expect(combSort([-40, 42, 56, -45, 12, -3])).toEqual([
+        -45, -40, -3, 12, 42, 56
+      ])
     })
 
     it('should correctly sort an input list that contains only whole numbers', () => {
@@ -47,19 +49,27 @@ describe('combSort function', () => {
     })
 
     it('should correctly sort an input list that contains only decimal numbers', () => {
-      expect(combSort([1.0, 1.42, 2.56, 33.45, 13.12, 2.3])).toEqual([1.0, 1.42, 2.3, 2.56, 13.12, 33.45])
+      expect(combSort([1.0, 1.42, 2.56, 33.45, 13.12, 2.3])).toEqual([
+        1.0, 1.42, 2.3, 2.56, 13.12, 33.45
+      ])
     })
 
     it('should correctly sort an input list that contains only a mix of whole and decimal', () => {
-      expect(combSort([32.40, 12.42, 56, 45, 12, 3])).toEqual([3, 12, 12.42, 32.40, 45, 56])
+      expect(combSort([32.4, 12.42, 56, 45, 12, 3])).toEqual([
+        3, 12, 12.42, 32.4, 45, 56
+      ])
     })
 
     it('should correctly sort an input list that contains only fractional numbers', () => {
-      expect(combSort([0.98, 0.4259, 0.56, -0.456, -0.12, 0.322])).toEqual([-0.456, -0.12, 0.322, 0.4259, 0.56, 0.98])
+      expect(combSort([0.98, 0.4259, 0.56, -0.456, -0.12, 0.322])).toEqual([
+        -0.456, -0.12, 0.322, 0.4259, 0.56, 0.98
+      ])
     })
 
     it('should correctly sort an input list that contains only a mix of whole, decimal, and fractional', () => {
-      expect(combSort([-40, -0.222, 5.6, -4.5, 12, 0.333])).toEqual([-40, -4.5, -0.222, 0.333, 5.6, 12])
+      expect(combSort([-40, -0.222, 5.6, -4.5, 12, 0.333])).toEqual([
+        -40, -4.5, -0.222, 0.333, 5.6, 12
+      ])
     })
 
     it('should correctly sort an input list that contains duplicates', () => {

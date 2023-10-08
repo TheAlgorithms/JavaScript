@@ -1,21 +1,22 @@
-const binLookup = (key) => ({
-  0: '0000',
-  1: '0001',
-  2: '0010',
-  3: '0011',
-  4: '0100',
-  5: '0101',
-  6: '0110',
-  7: '0111',
-  8: '1000',
-  9: '1001',
-  a: '1010',
-  b: '1011',
-  c: '1100',
-  d: '1101',
-  e: '1110',
-  f: '1111'
-}[key.toLowerCase()]) // select the binary number by valid hex key with the help javascript object
+const binLookup = (key) =>
+  ({
+    0: '0000',
+    1: '0001',
+    2: '0010',
+    3: '0011',
+    4: '0100',
+    5: '0101',
+    6: '0110',
+    7: '0111',
+    8: '1000',
+    9: '1001',
+    a: '1010',
+    b: '1011',
+    c: '1100',
+    d: '1101',
+    e: '1110',
+    f: '1111'
+  })[key.toLowerCase()] // select the binary number by valid hex key with the help javascript object
 
 const hexToBinary = (hexString) => {
   if (typeof hexString !== 'string') {
@@ -32,10 +33,7 @@ const hexToBinary = (hexString) => {
     2. Conversion goes by searching in the lookup table
   */
 
-  return hexString.replace(
-    /[0-9a-f]/gi,
-    lexeme => binLookup(lexeme)
-  )
+  return hexString.replace(/[0-9a-f]/gi, (lexeme) => binLookup(lexeme))
 }
 
 export default hexToBinary

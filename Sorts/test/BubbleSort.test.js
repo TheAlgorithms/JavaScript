@@ -5,7 +5,9 @@ describe('bubbleSort', () => {
     expect(bubbleSort([5, 4, 1, 2, 3])).toEqual([1, 2, 3, 4, 5])
     expect(bubbleSort([])).toEqual([])
     expect(bubbleSort([1, 2, 3])).toEqual([1, 2, 3])
-    expect(bubbleSort([5, 6, 7, 8, 1, 2, 12, 14])).toEqual([1, 2, 5, 6, 7, 8, 12, 14])
+    expect(bubbleSort([5, 6, 7, 8, 1, 2, 12, 14])).toEqual([
+      1, 2, 5, 6, 7, 8, 12, 14
+    ])
     expect(bubbleSort([5, 6, 7, 8, 9, 4])).toEqual([4, 5, 6, 7, 8, 9])
     expect(bubbleSort([20, 30, 40])).toEqual([20, 30, 40])
     expect(bubbleSort([2, 1, 3])).toEqual([1, 2, 3])
@@ -22,6 +24,8 @@ describe('alternativeBubbleSort', () => {
     expect(alternativeBubbleSort([5, 4, 1, 2, 3])).toEqual([1, 2, 3, 4, 5])
     expect(alternativeBubbleSort([])).toEqual([])
     expect(alternativeBubbleSort([1, 2, 3])).toEqual([1, 2, 3])
-    expect(alternativeBubbleSort([5, 6, 7, 8, 1, 2, 12, 14])).toEqual([1, 2, 5, 6, 7, 8, 12, 14])
+    expect(alternativeBubbleSort([5, 6, 7, 8, 1, 2, 12, 14])).toEqual([
+      1, 2, 5, 6, 7, 8, 12, 14
+    ])
   })
 })

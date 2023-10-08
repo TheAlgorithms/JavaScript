@@ -11,9 +11,7 @@ const checkExceeding = (str) => {
     throw new TypeError('Argument is not a string')
   }
 
-  const upperChars = str
-    .toUpperCase()
-    .replace(/[^A-Z]/g, '') // remove all from str except A to Z alphabets
+  const upperChars = str.toUpperCase().replace(/[^A-Z]/g, '') // remove all from str except A to Z alphabets
 
   const adjacentDiffList = []
 

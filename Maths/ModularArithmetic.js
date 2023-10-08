@@ -8,7 +8,7 @@ import { extendedEuclideanGCD } from './ExtendedEuclideanGCD'
  */
 
 export class ModRing {
-  constructor (MOD) {
+  constructor(MOD) {
     this.MOD = MOD
   }
 
@@ -23,7 +23,7 @@ export class ModRing {
   /**
    * Modulus is Distributive property,
    * As a result, we separate it into numbers in order to keep it within MOD's range
-  */
+   */
 
   add = (arg1, arg2) => {
     this.isInputValid(arg1, arg2)
