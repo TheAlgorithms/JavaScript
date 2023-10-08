@@ -1,3 +1,4 @@
+import { expect } from 'vitest'
 import { determinant } from '../Determinant'
 describe('Determinant', () => {
   const testCases = [
@@ -50,7 +51,11 @@ describe('Determinant', () => {
   test.each(testCases)(
     'Should return the determinant of the square matrix.',
     (matrix, expected) => {
-      expect(determinant(matrix)).toEqual(expected)
+      try {
+        expect(determinant(matrix)).toEqual(expected)
+      } catch (err) {
+        expect(err.message).toEqual(expected)
+      }
     }
   )
 })
