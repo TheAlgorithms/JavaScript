@@ -9,7 +9,7 @@
  */
 
 const averageMedian = (sourceArrayOfNumbers) => {
-  const numbers = [...sourceArrayOfNumbers].sort(sortNumbers)
+  const numbers = [...sourceArrayOfNumbers].sort((a, b) => sortNumbers(a, b))
   const numLength = numbers.length
 
   return numLength % 2 === 0
