@@ -1,7 +1,7 @@
 import { expect } from 'vitest'
 import { determinant } from '../Determinant'
 describe('Determinant', () => {
-  const testCases = [
+  const validTestCases = [
     [
       [
         [8, 1, 6],
@@ -36,7 +36,10 @@ describe('Determinant', () => {
       ],
       2476
     ],
-    [[[23]], 23],
+    [[[23]], 23]
+  ]
+
+  const errorTestCases = [
     [
       [
         [1, 6],
@@ -48,8 +51,19 @@ describe('Determinant', () => {
     [[1, 3, 2, [5, 8, 6], 3], 'Input is not a valid 2D matrix.']
   ]
 
-  test.each(testCases)(
+  test.each(validTestCases)(
     'Should return the determinant of the square matrix.',
+    (matrix, expected) => {
+      try {
+        expect(determinant(matrix)).toEqual(expected)
+      } catch (err) {
+        expect(err.message).toEqual(expected)
+      }
+    }
+  )
+
+  test.each(errorTestCases)(
+    'Should return the error message.',
     (matrix, expected) => {
       try {
         expect(determinant(matrix)).toEqual(expected)
