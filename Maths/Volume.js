@@ -115,7 +115,7 @@ const volHemisphere = (radius) => {
 /**
  * Calculate the volume for a Torus
  * Reference: https://www.mathsisfun.com/geometry/torus.html
- * return 2 * (Math.PI^2) * R * (r^2)
+ * return 2 * (PI^2) * R * (r^2)
  */
 const volTorus = (R, r) => {
   isNumber(R, 'Major radius')

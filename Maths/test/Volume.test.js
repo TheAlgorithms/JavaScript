@@ -47,6 +47,5 @@ test('Testing on volHemisphere', () => {
 
 test('Testing on volTorus', () => {
   const volTorus = volume.volTorus(10.0, 5.0)
-  console.log(volTorus)
   expect(volTorus).toBeCloseTo(4934.8022, 4)
 })
