@@ -1,4 +1,3 @@
-// Import the function to be tested
 import { feetToMeters } from "../FeetToMeters";
 
 // Describe block to group related tests
