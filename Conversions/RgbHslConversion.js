@@ -15,12 +15,12 @@
  * // result = [193, 66, 28]
  */
 
-const checkRgbFormat = (colorRgb) => colorRgb.every(c => c >= 0 && c <= 255);
+const checkRgbFormat = (colorRgb) => colorRgb.every((c) => c >= 0 && c <= 255)
 
 const rgbToHsl = (colorRgb) => {
   if (!checkRgbFormat(colorRgb)) {
-    throw new Error('Input is not a valid RGB color.');
-  }  
+    throw new Error('Input is not a valid RGB color.')
+  }
 
   let colorHsl = colorRgb
 

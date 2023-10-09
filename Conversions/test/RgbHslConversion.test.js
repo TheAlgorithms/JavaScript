@@ -29,21 +29,15 @@ describe('RgbHslConversion', () => {
       [255, 255, 255],
       [0, 0, 100]
     ]
-  ])(
-    'Should return the color in HSL format.',
-    (colorRgb, expected) => {
-      expect(rgbToHsl(colorRgb)).toEqual(expected)
-    }
-  )
+  ])('Should return the color in HSL format.', (colorRgb, expected) => {
+    expect(rgbToHsl(colorRgb)).toEqual(expected)
+  })
 
   test.each([
     [[256, 180, 9], 'Input is not a valid RGB color.'],
     [[-90, 46, 8], 'Input is not a valid RGB color.'],
     [[1, 39, 900], 'Input is not a valid RGB color.']
-  ])(
-    'Should return the error message.',
-    (colorRgb, expected) => {
-      expect(() => rgbToHsl(colorRgb)).toThrowError(expected)
-    }
-  )
+  ])('Should return the error message.', (colorRgb, expected) => {
+    expect(() => rgbToHsl(colorRgb)).toThrowError(expected)
+  })
 })
