@@ -37,5 +37,4 @@ describe('Feet to Meters Conversion', () => {
     expect(meters).toBeCloseTo(1.524, 4);
   });
 
-  // Add more test cases as needed
 });
