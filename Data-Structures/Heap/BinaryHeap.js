@@ -4,8 +4,6 @@
  * Binary heaps are binary trees that are filled level by level and from left to right inside each level.
  * They have the property that any parent node has a smaller (for Min Heap) or greater (for Max Heap) priority
  * than its children, ensuring that the root of the tree always holds the extremal value.
- *
- * @class
  */
 class BinaryHeap {
   /**
