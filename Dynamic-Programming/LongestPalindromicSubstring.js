@@ -5,6 +5,11 @@
   You may assume that the maximum length of s is 1000.
 
 */
+/**
+ * Finds the longest palindromic substring
+ * @param {string} s Input string 
+ * @returns {string} Longest Palindromic Substring
+ */
 function longestPalindrome(s) {
     const n = s.length;
     const dp = new Array(n + 1).fill(0).map(() => new Array(n + 1).fill(0));
