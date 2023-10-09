@@ -1,5 +1,5 @@
 /*
-The process to convert feet to meters is quite simple. To convert feet to meters, you must multiply the unit by 0.304.
+The process to convert feet to meters is quite simple. To convert feet to meters, you must multiply the unit by 0.3048.
 
 Reference:
 https://www.metric-conversions.org/length/feet-to-meters.htm
