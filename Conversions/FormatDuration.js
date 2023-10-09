@@ -26,7 +26,7 @@ const FormatDuration = (ms) => {
  * @returns {string} A formatted string representing the duration in hours:minutes:seconds format.
  * @throws {Error} If the input duration is negative.
  */
-function msToDuration(ms) {
+const msToDuration = (ms) => {
   if (ms < 0) return 'Duration must be non-negative'
   const seconds = Math.floor(ms / 1000)
   const hours = Math.floor(seconds / 3600)
