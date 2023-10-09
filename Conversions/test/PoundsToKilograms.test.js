@@ -1,5 +1,5 @@
 // Import the function to be tested
-import { poundsToKilograms } from './poundsToKilograms';
+import { poundsToKilograms } from "../PoundsToKilograms";
 
 // Describe the test suite
 describe('poundsToKilograms', () => {
