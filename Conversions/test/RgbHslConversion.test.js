@@ -1,6 +1,6 @@
 import { rgbToHsl } from '../RgbHslConversion'
 describe('RgbHslConversion', () => {
-  const validTestCases = [
+  test.each([
     [
       [215, 19, 180],
       [311, 84, 46]
@@ -29,23 +29,18 @@ describe('RgbHslConversion', () => {
       [255, 255, 255],
       [0, 0, 100]
     ]
-  ]
-
-  const errorTestCases = [
-    [[256, 180, 9], 'Input is not a valid RGB color.'],
-    [[-90, 46, 8], 'Input is not a valid RGB color.'],
-    [[1, 39, 900], 'Input is not a valid RGB color.']
-  ]
-
-
-  test.each(validTestCases)(
+  ])(
     'Should return the color in HSL format.',
     (colorRgb, expected) => {
       expect(rgbToHsl(colorRgb)).toEqual(expected)
     }
   )
 
-  test.each(errorTestCases)(
+  test.each([
+    [[256, 180, 9], 'Input is not a valid RGB color.'],
+    [[-90, 46, 8], 'Input is not a valid RGB color.'],
+    [[1, 39, 900], 'Input is not a valid RGB color.']
+  ])(
     'Should return the error message.',
     (colorRgb, expected) => {
       expect(() => rgbToHsl(colorRgb)).toThrowError(expected)
