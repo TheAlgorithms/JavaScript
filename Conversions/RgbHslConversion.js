@@ -18,9 +18,9 @@
 const checkRgbFormat = (colorRgb) => colorRgb.every(c => c >= 0 && c <= 255);
 
 const rgbToHsl = (colorRgb) => {
-  if (checkRgbFormat(colorRgb) === false) {
-    return 'Input is not a valid RGB color.'
-  }
+  if (!checkRgbFormat(colorRgb)) {
+    throw new Error('Input is not a valid RGB color.');
+  }  
 
   let colorHsl = colorRgb
 
