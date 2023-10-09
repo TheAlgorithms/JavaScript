@@ -1,4 +1,4 @@
-import { BinaryHeap, minHeapComparator} from '../BinaryHeap'
+import { BinaryHeap, minHeapComparator } from '../BinaryHeap'
 
 describe('BinaryHeap', () => {
   describe('MinHeap', () => {
@@ -36,6 +36,7 @@ describe('BinaryHeap', () => {
     it('should handle insertion of duplicate values', () => {
       // Check if the heap handles duplicate values correctly
       minHeap.insert(2)
+      console.log(minHeap.heap);
       expect(minHeap.heap).toEqual([1, 3, 2, 4, 8, 6, 2])
     })
 
@@ -54,19 +55,18 @@ describe('BinaryHeap', () => {
       }
       expect(extractedValues).toEqual([1, 2, 3, 4, 6, 8])
     })
-    
+
     it('should insert elements in ascending order', () => {
       // Check if elements are inserted in ascending order
-      const ascendingHeap = new BinaryHeap(minHeapComparator);
-      ascendingHeap.insert(4);
-      ascendingHeap.insert(3);
-      ascendingHeap.insert(2);
-      ascendingHeap.insert(1);
-      expect(ascendingHeap.extractTop()).toEqual(1);
-      expect(ascendingHeap.extractTop()).toEqual(2);
-      expect(ascendingHeap.extractTop()).toEqual(3);
-      expect(ascendingHeap.extractTop()).toEqual(4);
+      const ascendingHeap = new BinaryHeap(minHeapComparator)
+      ascendingHeap.insert(4)
+      ascendingHeap.insert(3)
+      ascendingHeap.insert(2)
+      ascendingHeap.insert(1)
+      expect(ascendingHeap.extractTop()).toEqual(1)
+      expect(ascendingHeap.extractTop()).toEqual(2)
+      expect(ascendingHeap.extractTop()).toEqual(3)
+      expect(ascendingHeap.extractTop()).toEqual(4)
     })
   })
-
 })
