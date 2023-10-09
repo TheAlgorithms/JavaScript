@@ -1,5 +1,5 @@
 // Import the function we want to test
-import { fahrenheitToCelsius } from '../fahrenheitToCelsius';
+import { fahrenheitToCelsius } from "../FahrenheitToCelcius";
 
 // Describe block to group related test cases
 describe('Fahrenheit to Celsius conversion', () => {
