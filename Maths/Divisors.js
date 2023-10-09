@@ -2,7 +2,7 @@
  * @function getDivisors
  * @description Generate all unique divisors of a number.
  * @param {Integer} num
- * @return{Vector} divisors
+ * @return{[]Integer} divisors
  * @example{10-1,2,5,10}
  */
 function getDivisors(num) {
