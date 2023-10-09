@@ -5,6 +5,6 @@
  * @returns {number} The Sigmoid value of the input.
  */
 
-const sigmoid = x =>  1 / (1 + Math.exp(-x))
+const sigmoid = (x) => 1 / (1 + Math.exp(-x))
 
 export { sigmoid }
