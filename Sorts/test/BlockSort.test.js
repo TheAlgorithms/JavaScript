@@ -1,4 +1,4 @@
-import BlockSort from './blockSort';
+import BlockSort from "../BlockSort";
 
 describe('BlockSort', () => {
   it('should sort an empty array', () => {
