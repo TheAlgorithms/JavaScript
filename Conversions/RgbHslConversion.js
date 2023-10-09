@@ -15,16 +15,7 @@
  * // result = [193, 66, 28]
  */
 
-const checkRgbFormat = (colorRgb) => {
-  if (colorRgb[0] <= 255 && colorRgb[0] >= 0) {
-    if (colorRgb[1] <= 255 && colorRgb[1] >= 0) {
-      if (colorRgb[2] <= 255 && colorRgb[2] >= 0) {
-        return true
-      }
-    }
-  }
-  return false
-}
+const checkRgbFormat = (colorRgb) => colorRgb.every(c => c >= 0 && c <= 255);
 
 const rgbToHsl = (colorRgb) => {
   if (checkRgbFormat(colorRgb) === false) {
