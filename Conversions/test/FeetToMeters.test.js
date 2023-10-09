@@ -1,5 +1,5 @@
 // Import the function to be tested
-import { feetToMeters } from './feetToMeters';
+import { feetToMeters } from "../FeetToMeters";
 
 // Describe block to group related tests
 describe('Feet to Meters Conversion', () => {
