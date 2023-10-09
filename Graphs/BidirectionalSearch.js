@@ -1,8 +1,8 @@
 /*
 Bidirectional search is a graph search algorithm that finds a shortest path from an initial vertex to a goal vertex in a directed graph. 
 It runs two simultaneous searches: one forward from the initial state, and one backward from the goal, stopping when the two meet. 
-The reason for this approach is that in many cases it is faster: for instance, in a simplified model of search problem complexity in which both searches expand a tree with branching factor b, and the distance from start to goal is d, each of the two searches has complexity O(b^(d/2)) and O(b^d), 
-and the sum of these two search times is much less than the O(bd) complexity that would result from a single search from the beginning to the goal.
+The reason for this approach is that in many cases it is faster: for instance, in a simplified model of search problem complexity in which both searches expand a tree with branching factor b, and the distance from start to goal is d, each of the two searches has complexity O(b^(d/2)), 
+and the sum of these two search times is much less than the O(b^d) complexity that would result from a single search from the beginning to the goal.
 
 Reference:
 https://en.wikipedia.org/wiki/Bidirectional_search
