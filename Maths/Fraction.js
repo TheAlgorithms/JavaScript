@@ -14,10 +14,11 @@
  * @example fraction(0.33,2) // [10, 3] 
  */
 function fraction(number, accuracy = 6) {
+    let returnVal = [];
     let inp = typeof number === "number" ? number : () => {throw new TypeError("Invalid number, a number type value expected");};
     let acc = typeof accuracy === "number" && accuracy >= 1 && accuracy <= 16 ? accuracy : () => {throw new TypeError("Invalid accuracy, a integer type value expected between 1 - 16");}
       if (Number.isInteger(inp)) {
-        return [inp, 1];
+        returnVal = [inp, 1];
       } else {
         inp = inp.toString();
         let len;
@@ -53,8 +54,9 @@ function fraction(number, accuracy = 6) {
             d = false;
           }
         }
-        return [inp, len];
+        returnVal= [inp, len];
       }
+    return returnVal;
   }
   
   export { fraction };
