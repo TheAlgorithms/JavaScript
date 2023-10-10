@@ -2,7 +2,7 @@
 
 export const largestPrime = (num = 600851475143) => {
   let newnum = num
-  let largestFact = 0
+  let largestFactor = 0
   let counter = 2
   while (counter * counter <= newnum) {
     if (newnum % counter === 0) {
@@ -12,7 +12,7 @@ export const largestPrime = (num = 600851475143) => {
     }
   }
   if (newnum > largestFact) {
-    largestFact = newnum
+    largestFactor = newnum;
   }
-  return largestFact
+  return largestFactor;
 }
