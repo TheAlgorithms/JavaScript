@@ -10,16 +10,16 @@ const longestCommonPrefix = (strs) => {
       return "";
     }
   
-    // Sort the array to ensure that the shortest and longest strings are at the extremes.
-    strs.sort((a, b) => a.length - b.length);
-  
-    const shortestStr = strs[0];
-    const longestStr = strs[strs.length - 1];
+    // Find the shortest string in the array
+    const shortestStr = strs.reduce((shortest, current) => {
+      return current.length < shortest.length ? current : shortest;
+    }, strs[0]);
   
     let prefix = "";
     for (let i = 0; i < shortestStr.length; i++) {
-      if (shortestStr[i] === longestStr[i]) {
-        prefix += shortestStr[i];
+      const char = shortestStr[i];
+      if (strs.every((str) => str[i] === char)) {
+        prefix += char;
       } else {
         break;
       }
@@ -29,3 +29,4 @@ const longestCommonPrefix = (strs) => {
   };
   
   export default longestCommonPrefix;
+  
