@@ -26,6 +26,8 @@
  * //             ]
  */
 
+const tolerance = 0.000001
+
 const isMatrixValid = (matrix) => {
   let numRows = matrix.length
   let numCols = matrix[0].length
@@ -47,7 +49,7 @@ const isMatrixValid = (matrix) => {
 const checkNonZero = (currentRow, currentCol, matrix) => {
   let numRows = matrix.length
   for (let i = currentRow; i < numRows; i++) {
-    if (matrix[i][currentCol] !== 0) {
+    if (!isTolerant(0,matrix[i][currentCol], tolerance)) {
       return true
     }
   }
@@ -88,20 +90,14 @@ const subtractRow = (currentRow, fromRow, matrix) => {
   }
 }
 
-const formatResult = (matrix) => {
-  let precision = 5
-  let numRows = matrix.length
-  let numCols = matrix[0].length
-  for (let i = 0; i < numRows; i++) {
-    for (let j = 0; j < numCols; j++) {
-      matrix[i][j] = parseFloat(matrix[i][j].toFixed(precision))
-    }
-  }
+const isTolerant = (a, b, tolerance) => {
+  const absoluteDifference = Math.abs(a - b);
+  return (absoluteDifference <= tolerance);
 }
 
 const rowEchelon = (matrix) => {
-  if (isMatrixValid(matrix) === false) {
-    return 'Input is not a valid 2D matrix.'
+  if (!isMatrixValid(matrix)) {
+    throw new Error('Input is not a valid 2D matrix.')
   }
 
   let numRows = matrix.length
@@ -109,7 +105,7 @@ const rowEchelon = (matrix) => {
   let result = matrix
 
   for (let i = 0, j = 0; i < numRows && j < numCols; ) {
-    if (checkNonZero(i, j, result) === false) {
+    if (!checkNonZero(i, j, result)) {
       j++
       continue
     }
@@ -121,7 +117,7 @@ const rowEchelon = (matrix) => {
     //..............make bottom elements zero...............
     for (let x = i + 1; x < numRows; x++) {
       factor = result[x][j]
-      if (factor === 0) {
+      if (isTolerant(0,factor,tolerance)) {
         continue
       }
       scalarMultiplication(i, factor, result)
@@ -129,7 +125,6 @@ const rowEchelon = (matrix) => {
       factor = 1 / factor
       scalarMultiplication(i, factor, result)
     }
-    formatResult(result)
     i++
   }
   return result
