@@ -14,6 +14,7 @@ describe('findLongestCommonSuffix', () => {
     expect(findLongestCommonSuffix(['running', 'swimming', 'jogging'])).toBe('g');
     expect(findLongestCommonSuffix(['car', 'bar', 'far'])).toBe('ar');
   });
+  
 
   it('should handle different lengths of strings', () => {
     expect(findLongestCommonSuffix(['apple', 'app', 'ap'])).toBe('ap');
