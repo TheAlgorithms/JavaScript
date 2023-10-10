@@ -1,0 +1,24 @@
+export const largestPrime = (num = 600851475143) => {
+  let largestFactor = 0;
+  
+  // Find and remove all factors of 2
+  while (num % 2 === 0) {
+    largestFactor = 2;
+    num /= 2;
+  }
+  
+  // Check for other prime factors
+  for (let i = 3; i <= Math.sqrt(num); i += 2) {
+    while (num % i === 0) {
+      largestFactor = i;
+      num /= i;
+    }
+  }
+  
+  // If the remaining number is greater than 1, it's a prime factor
+  if (num > 1) {
+    largestFactor = num;
+  }
+  
+  return largestFactor;
+}
