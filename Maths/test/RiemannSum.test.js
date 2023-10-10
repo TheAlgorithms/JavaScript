@@ -1,7 +1,13 @@
 import riemannSum from "../RiemannSum";
 
-// Test cases for the riemannSum function.
-describe('riemannSum', () => {
+// Define a custom assertion function for comparing floating-point numbers.
+function expectAlmostEqual(actual, expected, threshold = 0.005) {
+    const difference = Math.abs(actual - expected);
+    expect(difference).toBeLessThanOrEqual(threshold);
+  }
+  
+  // Test cases for the riemannSum function.
+  describe('riemannSum', () => {
     // Test case 1: Integration of a simple linear function.
     it('calculates the integral of a linear function correctly', () => {
       const linearFunction = (x) => 2 * x; // f(x) = 2x
@@ -9,7 +15,7 @@ describe('riemannSum', () => {
       const b = 5;
       const n = 100;
       const result = riemannSum(linearFunction, a, b, n);
-      expect(result).toBeCloseTo(25, 2); // Adjusted precision to 2 decimal places.
+      expectAlmostEqual(result, 25); 
     });
   
     // Test case 2: Integration of a quadratic function.
@@ -19,6 +25,7 @@ describe('riemannSum', () => {
       const b = 3;
       const n = 1000;
       const result = riemannSum(quadraticFunction, a, b, n);
-      expect(result).toBeCloseTo(9, 2); // Adjusted precision to 2 decimal places.
+      expectAlmostEqual(result, 9); 
     });
   });
+  
