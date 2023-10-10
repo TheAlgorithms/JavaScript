@@ -1,64 +1,45 @@
-import { Node } from './SinglyLinkedList.js'
+import { LinkedList } from './SinglyLinkedList.js'
 /**
  * A LinkedList-based solution for merging two sorted linked lists into one sorted list.
  *
- * @param {Node} list1 - The head of the first sorted linked list.
- * @param {Node} list2 - The head of the second sorted linked list.
- * @returns {Node} - The head of the merged sorted linked list.
+ * @param {LinkedList} list1 - The the first sorted linked list.
+ * @param {LinkedList} list2 - The second sorted linked list.
+ * @returns {LinkedList} - The merged sorted linked list.
  *
  * @example
- * const list1 = new ListNode(1);
- * list1.next = new ListNode(2);
- * list1.next.next = new ListNode(4);
+ * const list1 = new LinkedList([1,2,4]);
  *
- * const list2 = new ListNode(1);
- * list2.next = new ListNode(3);
- * list2.next.next = new ListNode(4);
+ * const list2 = new LinkedList([1,3,4]);
  *
- * const result = mergeLists(list1, list2);
- * // Returns the head of a linked list representing 1 -> 1 -> 2 -> 3 -> 4 -> 4
+ * const result = mergeLinkedLists(list1, list2);
+ * // Returns the merged linked list representing 1 -> 1 -> 2 -> 3 -> 4 -> 4
  */
 
-class MergeTwoSortedLinkedLists {
-  mergeLists(list1, list2) {
-    let dummy = new Node(-1)
-    let current = dummy
+function mergeLinkedLists(list1, list2) {
+  const mergedList = new LinkedList()
 
-    while (list1 && list2) {
-      if (list1.val < list2.val) {
-        current.next = list1
-        list1 = list1.next
+  let current1 = list1.headNode
+  let current2 = list2.headNode
+
+  while (current1 || current2) {
+    if (!current1) {
+      mergedList.addLast(current2.data)
+      current2 = current2.next
+    } else if (!current2) {
+      mergedList.addLast(current1.data)
+      current1 = current1.next
+    } else {
+      if (current1.data < current2.data) {
+        mergedList.addLast(current1.data)
+        current1 = current1.next
       } else {
-        current.next = list2
-        list2 = list2.next
+        mergedList.addLast(current2.data)
+        current2 = current2.next
       }
-      current = current.next
     }
-
-    // If one of the lists is not empty, append it to the result
-    if (list1) {
-      current.next = list1
-    } else if (list2) {
-      current.next = list2
-    }
-
-    return dummy.next
   }
 
-  /**
-   * Converts a linked list to an array.
-   *
-   * @param {Node} head - The head of the linked list.
-   * @returns {number[]} - An array representing the linked list values.
-   */
-  linkedListToArray(head) {
-    const resultArray = []
-    while (head) {
-      resultArray.push(head.val)
-      head = head.next
-    }
-    return resultArray
-  }
+  return mergedList
 }
 
-export { MergeTwoSortedLinkedLists }
+export { mergeLinkedLists }
