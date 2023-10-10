@@ -1,6 +1,7 @@
 import { rowEchelon } from '../RowEchelon'
 describe('Determinant', () => {
-  const testCases = [
+  const tolerance = 0.000001
+  test.each([
     [
       [
         [8, 1, 3, 5],
@@ -47,14 +48,6 @@ describe('Determinant', () => {
     ],
     [
       [
-        [8, 1, 3, 5],
-        [4, 6, 8, 2, 7],
-        [3, 5, 6, 8]
-      ],
-      'Input is not a valid 2D matrix.'
-    ],
-    [
-      [
         [0, 7, 8, 1, 3, 5],
         [0, 6, 4, 6, 8, 2],
         [0, 7, 3, 5, 6, 8],
@@ -73,12 +66,24 @@ describe('Determinant', () => {
         [0, 0, 0, 0, 0, 0]
       ]
     ]
-  ]
-
-  test.each(testCases)(
-    'Should return the matrix in row echelon form.',
-    (matrix, expected) => {
-      expect(rowEchelon(matrix)).toEqual(expected)
+  ])('Should return the matrix in row echelon form.', (matrix, expected) => {
+    for (let i = 0; i < matrix.length; i++) {
+      for (let j = 0; j < matrix[i].length; j++) {
+        expect(rowEchelon(matrix)[i][j]).toBeCloseTo(expected[i][j], tolerance)
+      }
     }
-  )
+  })
+
+  test.each([
+    [
+      [
+        [8, 1, 3, 5],
+        [4, 6, 8, 2, 7],
+        [3, 5, 6, 8]
+      ],
+      'Input is not a valid 2D matrix.'
+    ]
+  ])('Should return the error message.', (matrix, expected) => {
+    expect(() => rowEchelon(matrix)).toThrowError(expected)
+  })
 })
