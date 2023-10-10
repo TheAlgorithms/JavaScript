@@ -16,12 +16,10 @@ const riemannSum = (f, a, b, n) => {
   
     for (let i = 0; i < n; i++) {
       const x_i = a + i * delta_x;
-      sum += f(x_i) * delta_x;
+      sum += f(x_i);
     }
   
-    return sum;
+    return sum * delta_x;
   };
   
-  // Export the riemannSum function for use in other modules.
   export default riemannSum;
-  
