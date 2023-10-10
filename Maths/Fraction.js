@@ -11,7 +11,7 @@
  * @example fraction(0.25) // [1, 4]
  * @example fraction(5.56) // [139, 25]
  * @example fraction(0.33) // [33, 100]
- * @exapmle fraction(0.33,2) // [10, 3] 
+ * @example fraction(0.33,2) // [10, 3] 
  */
 function fraction(number, accuracy = 6) {
     let inp = typeof number === "number" ? number : () => {throw new TypeError("Invalid number, a number type value expected");};
