@@ -49,7 +49,7 @@ const isMatrixValid = (matrix) => {
 const checkNonZero = (currentRow, currentCol, matrix) => {
   let numRows = matrix.length
   for (let i = currentRow; i < numRows; i++) {
-    if (!isTolerant(0,matrix[i][currentCol], tolerance)) {
+    if (!isTolerant(0, matrix[i][currentCol], tolerance)) {
       return true
     }
   }
@@ -91,8 +91,8 @@ const subtractRow = (currentRow, fromRow, matrix) => {
 }
 
 const isTolerant = (a, b, tolerance) => {
-  const absoluteDifference = Math.abs(a - b);
-  return (absoluteDifference <= tolerance);
+  const absoluteDifference = Math.abs(a - b)
+  return absoluteDifference <= tolerance
 }
 
 const rowEchelon = (matrix) => {
@@ -117,7 +117,7 @@ const rowEchelon = (matrix) => {
     //..............make bottom elements zero...............
     for (let x = i + 1; x < numRows; x++) {
       factor = result[x][j]
-      if (isTolerant(0,factor,tolerance)) {
+      if (isTolerant(0, factor, tolerance)) {
         continue
       }
       scalarMultiplication(i, factor, result)
