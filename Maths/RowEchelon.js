@@ -26,8 +26,10 @@
  * //             ]
  */
 
+// Set a tolerance value for floating-point comparisons
 const tolerance = 0.000001
 
+// Check if all the rows have same length of elements
 const isMatrixValid = (matrix) => {
   let numRows = matrix.length
   let numCols = matrix[0].length
@@ -36,6 +38,8 @@ const isMatrixValid = (matrix) => {
       return false
     }
   }
+
+  // Check for input other than a 2D matrix
   if (
     !Array.isArray(matrix) ||
     matrix.length === 0 ||
@@ -49,6 +53,7 @@ const isMatrixValid = (matrix) => {
 const checkNonZero = (currentRow, currentCol, matrix) => {
   let numRows = matrix.length
   for (let i = currentRow; i < numRows; i++) {
+    // Checks if the current element is not very near to zero.
     if (!isTolerant(0, matrix[i][currentCol], tolerance)) {
       return true
     }
@@ -66,6 +71,9 @@ const swapRows = (currentRow, withRow, matrix) => {
   }
 }
 
+// Select a pivot element in the current column to facilitate row operations.
+// Pivot element is the first non-zero element found from the current row
+// down to the last row.
 const selectPivot = (currentRow, currentCol, matrix) => {
   let numRows = matrix.length
   for (let i = currentRow; i < numRows; i++) {
@@ -76,6 +84,7 @@ const selectPivot = (currentRow, currentCol, matrix) => {
   }
 }
 
+// Multiply each element of the given row with a factor.
 const scalarMultiplication = (currentRow, factor, matrix) => {
   let numCols = matrix[0].length
   for (let j = 0; j < numCols; j++) {
@@ -83,6 +92,7 @@ const scalarMultiplication = (currentRow, factor, matrix) => {
   }
 }
 
+// Subtract one row from another row
 const subtractRow = (currentRow, fromRow, matrix) => {
   let numCols = matrix[0].length
   for (let j = 0; j < numCols; j++) {
@@ -90,12 +100,14 @@ const subtractRow = (currentRow, fromRow, matrix) => {
   }
 }
 
+// Check if two numbers are equal within a given tolerance
 const isTolerant = (a, b, tolerance) => {
   const absoluteDifference = Math.abs(a - b)
   return absoluteDifference <= tolerance
 }
 
 const rowEchelon = (matrix) => {
+  // Check if the input matrix is valid; if not, throw an error.
   if (!isMatrixValid(matrix)) {
     throw new Error('Input is not a valid 2D matrix.')
   }
@@ -104,17 +116,22 @@ const rowEchelon = (matrix) => {
   let numCols = matrix[0].length
   let result = matrix
 
+  // Iterate through the rows (i) and columns (j) of the matrix.
   for (let i = 0, j = 0; i < numRows && j < numCols; ) {
+    // If the current column has all zero elements below the current row,
+    // move to the next column.
     if (!checkNonZero(i, j, result)) {
       j++
       continue
     }
 
+    // Select a pivot element and normalize the current row.
     selectPivot(i, j, result)
     let factor = 1 / result[i][j]
     scalarMultiplication(i, factor, result)
 
-    //..............make bottom elements zero...............
+    // Make elements below the pivot element zero by performing
+    // row operations on subsequent rows.
     for (let x = i + 1; x < numRows; x++) {
       factor = result[x][j]
       if (isTolerant(0, factor, tolerance)) {
