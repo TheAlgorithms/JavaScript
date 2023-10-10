@@ -9,7 +9,7 @@ describe('riemannSum', () => {
       const b = 5;
       const n = 100;
       const result = riemannSum(linearFunction, a, b, n);
-      expect(result).toBeCloseTo(25, 1); // Adjusted precision to 1 decimal place.
+      expect(result).toBeCloseTo(25, 2); // Adjusted precision to 2 decimal places.
     });
   
     // Test case 2: Integration of a quadratic function.
@@ -19,6 +19,6 @@ describe('riemannSum', () => {
       const b = 3;
       const n = 1000;
       const result = riemannSum(quadraticFunction, a, b, n);
-      expect(result).toBeCloseTo(9, 1); // Adjusted precision to 1 decimal place.
+      expect(result).toBeCloseTo(9, 2); // Adjusted precision to 2 decimal places.
     });
   });
