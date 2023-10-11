@@ -7,28 +7,22 @@ describe('AutomorphicNumber', () => {
   it('should throw Error when n is floating point', () => {
     expect(() => isAutomorphic(13.6)).toThrow()
   })
-  it('should return false when n is negetive', () => {
-    expect(isAutomorphic(-3)).toBeFalsy()
+
+  test.each([
+    { n: -3 , expected: false },
+    { n: -25 , expected: false },
+  ])('should return false when n is negetive', ({ n, expected }) => {
+    expect(isAutomorphic(n)).toBe(false)
   })
-  it('should return false when n is negetive', () => {
-    expect(isAutomorphic(-25)).toBeFalsy()
-  })
-  it('should return false when n is 7', () => {
-    expect(isAutomorphic(7)).toBeFalsy()
-  })
-  it('should return false when n is 83', () => {
-    expect(isAutomorphic(83)).toBeFalsy()
-  })
-  it('should return true when n is 0', () => {
-    expect(isAutomorphic(0)).toBeTruthy()
-  })
-  it('should return true when n is 1', () => {
-    expect(isAutomorphic(1)).toBeTruthy()
-  })
-  it('should return true when n is 376', () => {
-    expect(isAutomorphic(376)).toBeTruthy()
-  })
-  it('should return true when n is 90625', () => {
-    expect(isAutomorphic(90625)).toBeTruthy()
+
+  test.each([
+    { n: 7 , expected: false },
+    { n: 83 , expected: false },
+    { n: 0 , expected: true },
+    { n: 1 , expected: true },
+    { n: 376 , expected: true },
+    { n: 90625 , expected: true },
+  ])('should return $expected when n is $n', ({ n, expected }) => {
+    expect(isAutomorphic(n)).toBe(expected)
   })
 })
