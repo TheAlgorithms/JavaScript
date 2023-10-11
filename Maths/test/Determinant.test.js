@@ -54,10 +54,7 @@ describe('Determinant', () => {
       'Square matrix is required.'
     ],
     [[1, 3, 2, [5, 8, 6], 3], 'Input is not a valid 2D matrix.']
-  ])(
-    'Should return the error message.',
-    (matrix, expected) => {
-      expect(() => determinant(matrix)).toThrowError(expected)
-    }
-  )
+  ])('Should return the error message.', (matrix, expected) => {
+    expect(() => determinant(matrix)).toThrowError(expected)
+  })
 })
