@@ -11,14 +11,14 @@ It can be seen that n=6 produces a maximum n/phi(n) for n <= 10
 Find the value of n <= 1000000 for which n/phi(n) is a maximum.
 
  */
-export const answer = (maxval) => {
-  //To maximize n/phi(n), phi(n) must be minimized, so phi(n) must have the most unique prime factors, and n must be equal to the product of primes each to the first power, so it equals to 2*3*5*7*...
-  var productsofar = 1;
+export const answer = (maxVal) => {
+  //To minimize n/phi(n), phi(n) must have the most unique prime factors, n must be equal to the product of primes each to the first power, so it equals to 2*3*5*7*...
+  var productSoFar = 1;
   var primes = [2,3,5,7,11,13,17,19,23,29,31,37,41,43,47,53,57];
   for (var idx=0;idx<primes.length;idx++){
-    if (productsofar*primes[idx] > maxval){
-      return productsofar
+    if (productSoFar*primes[idx] > maxVal){
+      return productSoFar
     }
-    productsofar *= primes[idx]
+    productSoFar *= primes[idx]
   }
 }
