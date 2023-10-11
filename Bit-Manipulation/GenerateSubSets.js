@@ -5,7 +5,7 @@
  * @example [1,2] -> [[],[1],[2],[1,2]]
  */
 
-// The time complexity of thhis algorithm is BigO(2^n) where n is the length of array
+// The time complexity of this algorithm is BigO(2^n) where n is the length of array
 function generateSubSets(inputArray) {
   if (!Array.isArray(inputArray)) {
     return 'Input is not an array'
