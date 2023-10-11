@@ -9,6 +9,7 @@
   * [SumOfSubset](Backtracking/SumOfSubset.js)
 * **Bit-Manipulation**
   * [BinaryCountSetBits](Bit-Manipulation/BinaryCountSetBits.js)
+  * [GrayCodes](Bit-Manipulation/GrayCodes.js)
   * [IsPowerofFour](Bit-Manipulation/IsPowerofFour.js)
   * [IsPowerOfTwo](Bit-Manipulation/IsPowerOfTwo.js)
   * [LogTwo](Bit-Manipulation/LogTwo.js)
@@ -55,6 +56,7 @@
   * [OctToDecimal](Conversions/OctToDecimal.js)
   * [OuncesToKilograms](Conversions/OuncesToKilograms.js)
   * [RailwayTimeConversion](Conversions/RailwayTimeConversion.js)
+  * [RgbHslConversion](Conversions/RgbHslConversion.js)
   * [RgbHsvConversion](Conversions/RgbHsvConversion.js)
   * [RGBToHex](Conversions/RGBToHex.js)
   * [RomanToDecimal](Conversions/RomanToDecimal.js)
@@ -72,14 +74,14 @@
     * [Graph2](Data-Structures/Graph/Graph2.js)
     * [Graph3](Data-Structures/Graph/Graph3.js)
   * **Heap**
+    * [BinaryHeap](Data-Structures/Heap/BinaryHeap.js)
     * [KeyPriorityQueue](Data-Structures/Heap/KeyPriorityQueue.js)
-    * [MaxHeap](Data-Structures/Heap/MaxHeap.js)
-    * [MinHeap](Data-Structures/Heap/MinHeap.js)
     * [MinPriorityQueue](Data-Structures/Heap/MinPriorityQueue.js)
   * **Linked-List**
     * [AddTwoNumbers](Data-Structures/Linked-List/AddTwoNumbers.js)
     * [CycleDetection](Data-Structures/Linked-List/CycleDetection.js)
     * [DoublyLinkedList](Data-Structures/Linked-List/DoublyLinkedList.js)
+    * [MergeTwoSortedLinkedLists](Data-Structures/Linked-List/MergeTwoSortedLinkedLists.js)
     * [ReverseSinglyLinkedList](Data-Structures/Linked-List/ReverseSinglyLinkedList.js)
     * [SinglyCircularLinkedList](Data-Structures/Linked-List/SinglyCircularLinkedList.js)
     * [SinglyLinkedList](Data-Structures/Linked-List/SinglyLinkedList.js)
@@ -88,6 +90,7 @@
     * [Queue](Data-Structures/Queue/Queue.js)
     * [QueueUsing2Stacks](Data-Structures/Queue/QueueUsing2Stacks.js)
   * **Stack**
+    * [EvaluateExpression](Data-Structures/Stack/EvaluateExpression.js)
     * [Stack](Data-Structures/Stack/Stack.js)
     * [StackES6](Data-Structures/Stack/StackES6.js)
   * **Tree**
@@ -179,6 +182,7 @@
   * [DecimalExpansion](Maths/DecimalExpansion.js)
   * [DecimalIsolate](Maths/DecimalIsolate.js)
   * [DegreeToRadian](Maths/DegreeToRadian.js)
+  * [Determinant](Maths/Determinant.js)
   * [EuclideanDistance](Maths/EuclideanDistance.js)
   * [EulerMethod](Maths/EulerMethod.js)
   * [EulersTotient](Maths/EulersTotient.js)
@@ -239,6 +243,7 @@
   * [RadianToDegree](Maths/RadianToDegree.js)
   * [ReverseNumber](Maths/ReverseNumber.js)
   * [ReversePolishNotation](Maths/ReversePolishNotation.js)
+  * [RowEchelon](Maths/RowEchelon.js)
   * [ShorsAlgorithm](Maths/ShorsAlgorithm.js)
   * [SieveOfEratosthenes](Maths/SieveOfEratosthenes.js)
   * [SieveOfEratosthenesIntArray](Maths/SieveOfEratosthenesIntArray.js)
