@@ -1,4 +1,4 @@
-import { generateSubSets } from '../generateSubSets'
+import { generateSubSets } from '../GenerateSubSets'
 
 describe('subSets', () => {
   it('find the subsets', () => {
