@@ -1,4 +1,3 @@
-
 /**
  * Huffman Coding is a lossless data compression algorithm that uses variable-length codes to represent characters.
  *
@@ -18,15 +17,14 @@
  * @returns {Object} - The frequency table.
  */
 function buildFrequencyTable(data) {
-    const freqTable = {}
+  const freqTable = {}
 
-    for (const char of data) {
-        freqTable[char] = (freqTable[char] || 0) + 1
-    }
+  for (const char of data) {
+    freqTable[char] = (freqTable[char] || 0) + 1
+  }
 
-    return freqTable
+  return freqTable
 }
-
 
 /**
  * A Huffman Node is a node in a Huffman tree.
@@ -37,35 +35,35 @@ function buildFrequencyTable(data) {
  * @property {HuffmanNode} right - The right child of the node.
  */
 class HuffmanNode {
-    constructor(char, freq) {
-        this.char = char
-        this.freq = freq
-        this.left = null
-        this.right = null
-    }
+  constructor(char, freq) {
+    this.char = char
+    this.freq = freq
+    this.left = null
+    this.right = null
+  }
 }
 
 /**
- * Builds a Huffman tree from a frequency table.    
+ * Builds a Huffman tree from a frequency table.
  * @param {Object} freqTable - The frequency table to use for building the tree.
  * @returns {HuffmanNode} - The root node of the Huffman tree.
  */
 function buildHuffmanTree(freqTable) {
-    const nodes = Object.keys(freqTable).map(
-        (char) => new HuffmanNode(char, freqTable[char])
-    )
+  const nodes = Object.keys(freqTable).map(
+    (char) => new HuffmanNode(char, freqTable[char])
+  )
 
-    while (nodes.length > 1) {
-        nodes.sort((a, b) => a.freq - b.freq)
-        const left = nodes.shift()
-        const right = nodes.shift()
-        const parent = new HuffmanNode(null, left.freq + right.freq)
-        parent.left = left
-        parent.right = right
-        nodes.push(parent)
-    }
+  while (nodes.length > 1) {
+    nodes.sort((a, b) => a.freq - b.freq)
+    const left = nodes.shift()
+    const right = nodes.shift()
+    const parent = new HuffmanNode(null, left.freq + right.freq)
+    parent.left = left
+    parent.right = right
+    nodes.push(parent)
+  }
 
-    return nodes[0]
+  return nodes[0]
 }
 
 /**
@@ -76,14 +74,14 @@ function buildHuffmanTree(freqTable) {
  * @returns {Object} - The Huffman code table.
  */
 function buildHuffmanCodes(root, prefix = '', codes = {}) {
-    if (root) {
-        if (root.char) {
-            codes[root.char] = prefix
-        }
-        buildHuffmanCodes(root.left, prefix + '0', codes)
-        buildHuffmanCodes(root.right, prefix + '1', codes)
+  if (root) {
+    if (root.char) {
+      codes[root.char] = prefix
     }
-    return codes
+    buildHuffmanCodes(root.left, prefix + '0', codes)
+    buildHuffmanCodes(root.right, prefix + '1', codes)
+  }
+  return codes
 }
 
 /**
@@ -93,15 +91,15 @@ function buildHuffmanCodes(root, prefix = '', codes = {}) {
  * @returns {string} - The encoded string.
  */
 function encodeHuffman(data, freqTable) {
-    const root = buildHuffmanTree(freqTable)
-    const codes = buildHuffmanCodes(root)
+  const root = buildHuffmanTree(freqTable)
+  const codes = buildHuffmanCodes(root)
 
-    let encodedData = ''
-    for (let char of data) {
-        encodedData += codes[char]
-    }
+  let encodedData = ''
+  for (let char of data) {
+    encodedData += codes[char]
+  }
 
-    return encodedData
+  return encodedData
 }
 
 /**
@@ -111,22 +109,22 @@ function encodeHuffman(data, freqTable) {
  * @returns {string} - The decoded string.
  */
 function decodeHuffman(encodedData, root) {
-    let decodedData = ''
-    let currentNode = root
-    for (let bit of encodedData) {
-        if (bit === '0') {
-            currentNode = currentNode.left
-        } else {
-            currentNode = currentNode.right
-        }
-
-        if (currentNode.char) {
-            decodedData += currentNode.char
-            currentNode = root
-        }
+  let decodedData = ''
+  let currentNode = root
+  for (let bit of encodedData) {
+    if (bit === '0') {
+      currentNode = currentNode.left
+    } else {
+      currentNode = currentNode.right
     }
 
-    return decodedData
+    if (currentNode.char) {
+      decodedData += currentNode.char
+      currentNode = root
+    }
+  }
+
+  return decodedData
 }
 
 // Example usage
@@ -140,9 +138,9 @@ const decodedData = decodeHuffman(encodedData, root)
 console.log('Decoded Data:', decodedData)
 
 export {
-    buildHuffmanCodes,
-    buildHuffmanTree,
-    encodeHuffman,
-    decodeHuffman,
-    buildFrequencyTable
+  buildHuffmanCodes,
+  buildHuffmanTree,
+  encodeHuffman,
+  decodeHuffman,
+  buildFrequencyTable
 }
