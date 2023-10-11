@@ -17,8 +17,8 @@ export const answer = (maxVal) => {
   var primes = [2,3,5,7,11,13,17,19,23,29,31,37,41,43,47,53,57];
   for (var idx=0;idx<primes.length;idx++){
     if (productSoFar*primes[idx] > maxVal){
-      return productSoFar
+      return productSoFar;
     }
-    productSoFar *= primes[idx]
+    productSoFar *= primes[idx];
   }
 }
