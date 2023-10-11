@@ -36,7 +36,7 @@ describe('BinaryHeap', () => {
     it('should handle insertion of duplicate values', () => {
       // Check if the heap handles duplicate values correctly
       minHeap.insert(2)
-      console.log(minHeap.heap);
+      console.log(minHeap.heap)
       expect(minHeap.heap).toEqual([1, 3, 2, 4, 8, 6, 2])
     })
 
