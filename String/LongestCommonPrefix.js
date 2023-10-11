@@ -25,7 +25,7 @@ const longestCommonPrefix = (strs) => {
     }
   }
 
-  return shortestStr.substring(0, maxCommonIndex + 1);
+  return shortestStr.slice(0, maxCommonIndex + 1);
 };
 
 export default longestCommonPrefix;
