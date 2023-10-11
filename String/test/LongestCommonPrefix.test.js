@@ -2,7 +2,7 @@ import longestCommonPrefix from "../LongestCommonPrefix";
 
 describe('longestCommonPrefix', () => {
   it('should return the longest common prefix for an array of strings', () => {
-    const strings = ['flower', 'flour', 'flourish'];
+    const strings = ['flower', 'flour', 'floud'];
     expect(longestCommonPrefix(strings)).toBe('flo');
 
     const strings2 = ['car', 'race', 'cat'];
