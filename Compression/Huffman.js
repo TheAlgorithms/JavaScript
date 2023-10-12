@@ -53,10 +53,11 @@ function buildHuffmanTree(freqTable) {
     (char) => new HuffmanNode(char, freqTable[char])
   )
 
+
   while (nodes.length > 1) {
-    nodes.sort((a, b) => a.freq - b.freq)
-    const left = nodes.shift()
-    const right = nodes.shift()
+    nodes.sort((a, b) => b.freq - a.freq)
+    const right = nodes.pop()
+    const left = nodes.pop()
     const parent = new HuffmanNode(null, left.freq + right.freq)
     parent.left = left
     parent.right = right
@@ -126,16 +127,6 @@ function decodeHuffman(encodedData, root) {
 
   return decodedData
 }
-
-// Example usage
-const data = 'this is an example for huffman encoding'
-const freqTable = buildFrequencyTable(data)
-const root = buildHuffmanTree(freqTable)
-const encodedData = encodeHuffman(data, freqTable)
-console.log('Encoded Data:', encodedData)
-
-const decodedData = decodeHuffman(encodedData, root)
-console.log('Decoded Data:', decodedData)
 
 export {
   buildHuffmanCodes,
