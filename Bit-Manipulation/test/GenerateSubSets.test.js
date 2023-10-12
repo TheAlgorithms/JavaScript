@@ -1,3 +1,4 @@
+import { expect } from 'vitest'
 import { generateSubSets } from '../GenerateSubSets'
 
 describe('subSets', () => {

@@ -8,7 +8,10 @@
 // The time complexity of this algorithm is BigO(2^n) where n is the length of array
 function generateSubSets(inputArray) {
   if (!Array.isArray(inputArray)) {
-    return 'Input is not an array'
+    throw new TypeError('Provided input is not an array')
+  }
+  if (inputArray.length > 32) {
+    throw new RangeError('Error size should be less than equal to 32')
   }
   let arrayLength = inputArray.length
   let subSets = []
