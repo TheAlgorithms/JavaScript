@@ -145,6 +145,9 @@ function preProcess(message) {
 /**
  * Hashes message using MD5 Cryptographic Hash Function
  *
+ * @see
+ * For more info: https://en.wikipedia.org/wiki/MD5
+ * 
  * @param {string} message - message to hash
  * @return {string} - message digest (hash value)
  */
