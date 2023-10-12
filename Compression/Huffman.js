@@ -53,7 +53,6 @@ function buildHuffmanTree(freqTable) {
     (char) => new HuffmanNode(char, freqTable[char])
   )
 
-
   while (nodes.length > 1) {
     nodes.sort((a, b) => b.freq - a.freq)
     const right = nodes.pop()
