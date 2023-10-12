@@ -6,53 +6,53 @@
  * @returns {number|null} - Result of the expression evaluation, or null if the expression is invalid.
  */
 function evaluatePostfixExpression(expression) {
-  const stack = [];
+  const stack = []
 
   // Helper function to perform an operation and push the result to the stack. Returns success.
   function performOperation(operator) {
-    const rightOp = stack.pop(); // Right operand is the top of the stack
-    const leftOp = stack.pop(); // Left operand is the next item on the stack
+    const rightOp = stack.pop() // Right operand is the top of the stack
+    const leftOp = stack.pop() // Left operand is the next item on the stack
 
     if (leftOp === undefined || rightOp === undefined) {
-      return false; // Invalid expression
+      return false // Invalid expression
     }
     switch (operator) {
       case '+':
-        stack.push(leftOp + rightOp);
-        break;
+        stack.push(leftOp + rightOp)
+        break
       case '-':
-        stack.push(leftOp - rightOp);
-        break;
+        stack.push(leftOp - rightOp)
+        break
       case '*':
-        stack.push(leftOp * rightOp);
-        break;
+        stack.push(leftOp * rightOp)
+        break
       case '/':
         if (rightOp === 0) {
-          return false;
+          return false
         }
-        stack.push(leftOp / rightOp);
-        break;
+        stack.push(leftOp / rightOp)
+        break
       default:
-        return false; // Unknown operator
+        return false // Unknown operator
     }
-    return true;
+    return true
   }
 
-  const tokens = expression.split(/\s+/);
+  const tokens = expression.split(/\s+/)
 
   for (const token of tokens) {
     if (!isNaN(parseFloat(token))) {
       // If the token is a number, push it to the stack
-      stack.push(parseFloat(token));
+      stack.push(parseFloat(token))
     } else {
       // If the token is an operator, perform the operation
       if (!performOperation(token)) {
-        return null; // Invalid expression
+        return null // Invalid expression
       }
     }
   }
 
-  return (stack.length === 1) ? stack[0] : null;
+  return stack.length === 1 ? stack[0] : null
 }
 
-export { evaluatePostfixExpression };
+export { evaluatePostfixExpression }
