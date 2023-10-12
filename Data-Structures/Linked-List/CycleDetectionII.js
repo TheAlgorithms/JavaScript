@@ -5,9 +5,9 @@
 
 function detectCycleNode(head) {
   /*
-    Problem Statement:
-    Given the head of a linked list, return the node where the cycle begins. If there is no cycle, return null.
-    Link for the Problem: https://leetcode.com/problems/linked-list-cycle-ii/
+  Problem Statement:
+  Given the head of a linked list, return the node where the cycle begins. If there is no cycle, return null.
+  Link for the Problem: https://leetcode.com/problems/linked-list-cycle-ii/
   */
 
   let length = 0
