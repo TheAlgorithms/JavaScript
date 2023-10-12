@@ -18,7 +18,7 @@ function detectCycleNode(head) {
     fast = fast.next.next
     slow = slow.next
     if (fast === slow) {
-    // Calculate length of the cycle
+      // Calculate length of the cycle
       length = lengthCycle(slow)
       break
     }
@@ -29,7 +29,7 @@ function detectCycleNode(head) {
     return null
   }
 
-  //Point the nodes at head 
+  //Point the nodes at head
   fast = head
   slow = head
   // Move slow pointer ahead by 'length' of cycle times
