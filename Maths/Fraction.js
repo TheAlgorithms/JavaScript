@@ -25,7 +25,7 @@ function fraction(number, accuracy = 6) {
         // if number is a 0 then it will return [0, 1]
         if (number === 0) return [0, 1];
         if (Number.isInteger(number)) return [neg * number, 1];
-        // if number is a not an integer then follwing code will run
+        // if number is a not an integer then following code will run
         number = number.toString();
         let len;
         let reg = number.match(/(\d+?)\1+$/);
