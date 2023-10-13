@@ -17,19 +17,19 @@ function fraction(number, accuracy = 6) {
     if (typeof number === "number" && Number.isNaN(number) && Number.isFinite(number)
         && typeof accuracy === "number" && Number.isNaN(accuracy) && accuracy >= 1 && accuracy <= 16) {
         let neg = 1;
-        // if number is negative then following code will run
+        // if number is a negative then following code will run
         if (number < 0) {
             neg = -1;
             number = Math.abs(number);
         }
-        // if number is 0 then it will return [0, 1]
+        // if number is a 0 then it will return [0, 1]
         if (number === 0) return [0, 1];
         if (Number.isInteger(number)) return [neg * number, 1];
-        // if number is not an integer then follwing code will run
+        // if number is a not an integer then follwing code will run
         number = number.toString();
         let len;
         let reg = number.match(/(\d+?)\1+$/);
-        // if number is repeating decimal then following code will run
+        // if number is a repeating decimal then following code will run
         if (reg && reg[0].length > accuracy) {
             let pos = number.split(".");
             number = number.replace(reg[0], reg[1]);
@@ -39,12 +39,12 @@ function fraction(number, accuracy = 6) {
                 "9".repeat(reg[1].length) + "0".repeat(rec.length - pos[0].length)
             );
         } else {
-            // if number is not repeating decimal then following code will run
+            // if number is not a repeating decimal then following code will run
             number = number.replace(".", "");
             len = 10 ** (number.length - 1);
             number = Number(number);
         }
-        // it will findout the gcd of number and len to reduce the fraction nomitor and denominator like 4/8 will be 1/2
+        // it will find out the gcd of the number and the len to reduce the fraction nomitor and denominator like 4/8 will be 1/2
         let div = gcd(number, len);
         number /= div;
         len /= div;
