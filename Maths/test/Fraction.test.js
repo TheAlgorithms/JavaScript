@@ -10,6 +10,9 @@ describe('Fraction', () => {
     it('should return [1, 4] for 0.25', () => {
         expect(fraction(0.25)).toEqual([1, 4]);
     });
+    it('should return [0, 1] for 0', () => {
+        expect(fraction(0)).toEqual([0, 1]);
+    });
     it('should return [139, 25] for 5.56', () => {
         expect(fraction(5.56)).toEqual([139, 25]);
     });
