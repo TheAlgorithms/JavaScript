@@ -14,49 +14,54 @@
  * @example fraction(0.33,2) // [10, 3] 
  */
 function fraction(number, accuracy = 6) {
-    let returnVal = [];
-    let inp = typeof number === "number" ? number : () => {throw new TypeError("Invalid number, a number type value expected");};
-    let acc = typeof accuracy === "number" && accuracy >= 1 && accuracy <= 16 ? accuracy : () => {throw new TypeError("Invalid accuracy, a integer type value expected between 1 - 16");}
-      if (Number.isInteger(inp)) {
-        returnVal = [inp, 1];
-      } else {
-        inp = inp.toString();
+    if (typeof number === "number" && Number.isNaN(number) && Number.isFinite(number)
+        && typeof accuracy === "number" && Number.isNaN(accuracy) && accuracy >= 1 && accuracy <= 16) {
+        let neg = 1;
+        // if number is negative then following code will run
+        if (number < 0) {
+            neg = -1;
+            number = Math.abs(number);
+        }
+        // if number is 0 then it will return [0, 1]
+        if (number === 0) return [0, 1];
+        if (Number.isInteger(number)) return [neg * number, 1];
+        // if number is not an integer then follwing code will run
+        number = number.toString();
         let len;
-        let reg = inp.match(/(\d+?)\1+$/);
-        if (reg && reg[0].length > acc) {
-          let pos = inp.split(".");
-          inp = inp.replace(reg[0], reg[1]);
-          let rec = pos[0] + pos[1].replace(reg[0], "");
-          inp = Number(rec + reg[1]) - Number(rec);
-          len = Number(
-            "9".repeat(reg[1].length) + "0".repeat(rec.length - pos[0].length)
-          );
+        let reg = number.match(/(\d+?)\1+$/);
+        // if number is repeating decimal then following code will run
+        if (reg && reg[0].length > accuracy) {
+            let pos = number.split(".");
+            number = number.replace(reg[0], reg[1]);
+            let rec = pos[0] + pos[1].replace(reg[0], "");
+            number = Number(rec + reg[1]) - Number(rec);
+            len = Number(
+                "9".repeat(reg[1].length) + "0".repeat(rec.length - pos[0].length)
+            );
         } else {
-          inp = inp.replace(".", "");
-          len = 10 ** (inp.length - 1);
-          inp = Number(inp);
+            // if number is not repeating decimal then following code will run
+            number = number.replace(".", "");
+            len = 10 ** (number.length - 1);
+            number = Number(number);
         }
-        let d = true;
-        while (d) {
-          if (inp % 5 == 0 && len % 5 == 0) {
-            inp /= 5;
-            len /= 5;
-          } else if (inp % 2 == 0 && len % 2 == 0) {
-            inp /= 2;
-            len /= 2;
-          } else if (inp % 3 == 0 && len % 3 == 0) {
-            inp /= 3;
-            len /= 3;
-          } else if (inp % 7 == 0 && len % 7 == 0) {
-            inp /= 7;
-            len /= 7;
-          } else {
-            d = false;
-          }
-        }
-        returnVal= [inp, len];
-      }
-    return returnVal;
-  }
-  
-  export { fraction };
+        // it will findout the gcd of number and len to reduce the fraction nomitor and denominator like 4/8 will be 1/2
+        let div = gcd(number, len);
+        number /= div;
+        len /= div;
+        return [neg * number, len];
+    } else {
+        if (typeof number !== "number") throw new TypeError("Invalid number, a number type value expected");
+        if (typeof accuracy !== "number") throw new TypeError("Invalid accuracy, a number type value expected");
+        if (Number.isNaN(number)) throw new TypeError("Invalid number, a number type value expected");
+        if (Number.isNaN(accuracy)) throw new TypeError("Invalid accuracy, a number type value expected");
+        if (!Number.isFinite(number)) throw new RangeError("Invalid number, a finite number expected");
+        if (accuracy < 1 || accuracy > 16) throw new RangeError("Invalid accuracy, a integer type value expected between 1 and 16");
+    }
+}
+
+function gcd(a, b) {
+    if (b == 0) return a;
+    return gcd(b, a % b);
+}
+
+export { fraction };
