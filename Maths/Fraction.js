@@ -14,8 +14,8 @@
  * @example fraction(0.33,2) // [10, 3] 
  */
 function fraction(number, accuracy = 6) {
-    if (typeof number === "number" && Number.isNaN(number) && Number.isFinite(number)
-        && typeof accuracy === "number" && Number.isNaN(accuracy) && accuracy >= 1 && accuracy <= 16) {
+    if (typeof number === "number" && !Number.isNaN(number) && Number.isFinite(number)
+        && typeof accuracy === "number" && !Number.isNaN(accuracy) && accuracy >= 1 && accuracy <= 16) {
         let neg = 1;
         // if number is a negative then following code will run
         if (number < 0) {
