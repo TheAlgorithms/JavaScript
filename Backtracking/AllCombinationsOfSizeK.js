@@ -27,18 +27,21 @@ class Combinations {
     this.k = k
     this.current = [] // will be used for storing current combination
     this.combinations = []
+    this.i = 1
   }
 
-  findCombinations(high = this.n, total = this.k, low = 1) {
-    if (total === 0) {
-      this.combinations.push([...this.current])
-      return this.combinations
-    }
-    for (let i = low; i <= high; i++) {
-      this.current.push(i)
-      this.findCombinations(high, total - 1, i + 1)
-      this.current.pop()
-    }
+  findCombinations() {
+   if (this.current.length == this.k) { //will add the array of size k to combinations array
+        this.combinations.push([...this.current])
+        return
+      }
+    if (this.i > this.n) //check for exceeding range
+        return
+    this.current.push(this.i++)
+    this.findCombinations()
+    this.current.pop()
+    this.findCombinations()
+    this.i--
     return this.combinations
   }
 }
