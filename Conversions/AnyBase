@@ -6,14 +6,14 @@ class AnyBase {
 
   convert(num) {
     const microConvert = (base1, base2, n) => {
-      let ans = 0;
+      let converted = 0;
       let multiplier = 1;
       while (n) {
-        ans += (n % base2) * multiplier;
+        converted += (n % base2) * multiplier;
         multiplier *= base1;
         n = Math.floor(n / base2);
       }
-      return ans;
+      return converted;
     }
     return microConvert(10, this.base2, microConvert(this.base1, 10, num));
   }
