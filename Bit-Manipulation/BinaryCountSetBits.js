@@ -14,8 +14,13 @@ function BinaryCountSetBits(a) {
 
   if (!Number.isInteger(a)) throw new TypeError('Argument not an Integer')
 
-  // convert number into binary representation and return number of set bits in binary representation
-  return a.toString(2).split('1').length - 1
+  var count = 0
+  while (a) {
+    a &= (a - 1)
+    count++
+  }
+
+  return count;
 }
 
 export { BinaryCountSetBits }
