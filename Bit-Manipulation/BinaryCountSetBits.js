@@ -14,13 +14,13 @@ function BinaryCountSetBits(a) {
 
   if (!Number.isInteger(a)) throw new TypeError('Argument not an Integer')
 
-  var count = 0
+  let count = 0
   while (a) {
     a &= (a - 1)
     count++
   }
 
-  return count;
+  return count
 }
 
 export { BinaryCountSetBits }
