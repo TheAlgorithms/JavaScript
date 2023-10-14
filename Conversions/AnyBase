@@ -1,0 +1,22 @@
+class AnyBase {
+  constructor(base1, base2) {
+    this.base1 = base1;
+    this.base2 = base2;
+  }
+
+  convert(num) {
+    const microConvert = (base1, base2, n) => {
+      let ans = 0;
+      let multiplier = 1;
+      while (n) {
+        ans += (n % base2) * multiplier;
+        multiplier *= base1;
+        n = Math.floor(n / base2);
+      }
+      return ans;
+    }
+    return microConvert(10, this.base2, microConvert(this.base1, 10, num));
+  }
+}
+
+export { AnyBase }
