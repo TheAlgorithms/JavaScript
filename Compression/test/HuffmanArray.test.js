@@ -25,11 +25,6 @@ describe('Huffman Coding', () => {
   it('should build Huffman codes correctly', () => {
     const codes = buildHuffmanCodes(root)
 
-    console.log(codes['t'])
-    console.log(codes['h'])
-    console.log(codes['i'])
-    console.log(codes['s'])
-
     expect(codes['t']).toEqual('01101')
     expect(codes['h']).toEqual('0111')
     expect(codes['i']).toEqual('0100')
