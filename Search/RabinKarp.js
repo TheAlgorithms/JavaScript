@@ -1,3 +1,18 @@
+/*
+* Implements the Rabin-Karp algorithm for pattern searching.
+*
+* The Rabin-Karp algorithm is a string searching algorithm that uses hashing to find patterns in strings.
+* It is faster than naive string matching algorithms because it avoids comparing every character in the text.
+*
+* This implementation uses a rolling hash function to efficiently compute the hash values of substrings.
+* It also uses a modulo operator to reduce the size of the hash values, which helps to prevent hash collisions.
+*
+* The algorithm returns an array of indices where the pattern is found in the text. If the pattern is not
+* found, the algorithm returns an empty array.
+*
+* [Reference](https://en.wikipedia.org/wiki/Rabin%E2%80%93Karp_algorithm)
+*/
+
 function hash(str, length) {
   let hashValue = 0
   for (let i = 0; i < length; i++) {
