@@ -35,6 +35,6 @@ export const isAutomorphic = (n) => {
     n = Math.floor(n / 10)
     n_sq = Math.floor(n_sq / 10)
   }
-  
+
   return true
 }
