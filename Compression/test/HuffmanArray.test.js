@@ -4,7 +4,7 @@ import {
   encodeHuffman,
   decodeHuffman,
   buildFrequencyTable
-} from '../Huffman'
+} from '../HuffmanArray'
 
 describe('Huffman Coding', () => {
   let data, freqTable, root
