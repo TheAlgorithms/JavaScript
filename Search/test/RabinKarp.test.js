@@ -22,7 +22,7 @@ describe('Rabin-Karp Search', function () {
   it('should handle pattern not found', function () {
     const text = 'ABCD'
     const pattern = 'XYZ'
-    const expected = [-1]
+    const expected = []
 
     const result = rabinKarpSearch(text, pattern)
     expect(result).to.deep.equal(expected)

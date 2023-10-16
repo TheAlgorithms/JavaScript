@@ -13,17 +13,10 @@
  * [Reference](https://en.wikipedia.org/wiki/Rabin%E2%80%93Karp_algorithm)
  */
 
-function hash(str, length) {
-  let hashValue = 0
-  for (let i = 0; i < length; i++) {
-    hashValue = (hashValue * 256 + str.charCodeAt(i)) % 997
-  }
-  return hashValue
-}
+const BASE = 256 // The number of characters in the alphabet
+const MOD = 997 // A prime number used for the hash function
 
 function rabinKarpSearch(text, pattern) {
-  const BASE = 256 // The number of characters in the alphabet
-  const MOD = 997 // A prime number used for the hash function
   const patternLength = pattern.length
   const textLength = text.length
   const hashPattern = hash(pattern, patternLength)
@@ -57,7 +50,15 @@ function rabinKarpSearch(text, pattern) {
     }
   }
 
-  return indices.length > 0 ? indices : [-1] // Return an array of indices where the pattern is found or [-1] if not found
+  return indices.length > 0 ? indices : [] // Return an array of indices where the pattern is found or empty array if not found
+}
+
+function hash(str, length) {
+  let hashValue = 0
+  for (let i = 0; i < length; i++) {
+    hashValue = (hashValue * BASE + str.charCodeAt(i)) % MOD
+  }
+  return hashValue
 }
 
 export { rabinKarpSearch }
