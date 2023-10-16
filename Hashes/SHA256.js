@@ -59,14 +59,14 @@ function chunkify(str, size) {
 }
 
 /**
- * Rotates string representation of bits to th left
+ * Rotates string representation of bits to the right
  *
  * @param {string} bits - string representation of bits
  * @param {int} turns - number of rotations to make
  * @return {string} - string representation of bits after rotation
  *
  * @example
- *      rotateLeft("1011", 3); // "1101"
+ *      rotateRight("1011", 3); // "1101"
  */
 function rotateRight(bits, turns) {
   return bits.substr(bits.length - turns) + bits.substr(0, bits.length - turns)
