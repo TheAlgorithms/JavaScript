@@ -11,8 +11,8 @@ test('should return the mode of an array of numbers:', () => {
 })
 
 test('should return the mode of an array of numbers:', () => {
-  const mode = averageMode(["x", "x" , "y", "y", "z"])
-  expect(mode).toEqual(["x", "y"])
+  const mode = averageMode(['x', 'x' , 'y', 'y', 'z'])
+  expect(mode).toEqual(['x', 'y'])
 })
 
 test('should return the mode of an array of numbers:', () => {
