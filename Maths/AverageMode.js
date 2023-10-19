@@ -1,7 +1,7 @@
 /*
   A program to get the mode of the given array of data.
 
-  In statistics, mode is the most often occuring value in a set of data values,
+  In statistics, mode is the most often occurring value in a set of data values,
   it may or may not have the same numerical value as mean or median in a normal distribution, depending on how skewed the distribution is.
   Mode is not necessarily unique, since two values may appear the same number of times in a set of values, in which case, both shall be considered to be modes.
 
