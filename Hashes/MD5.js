@@ -122,9 +122,7 @@ function preProcess(message) {
       .join('') + '1'
 
   // extend message by adding empty bits (0)
-  while (m.length % 512 !== 448) {
-    m += '0'
-  }
+  m += '0'.repeat(448 - m.length % 512)
 
   m = chunkify(m, 32)
     .map((e) => toLittleEndian(e))
