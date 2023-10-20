@@ -1,9 +1,5 @@
-//= ===============================================================
-// MD5.js
-//
 // Module that replicates the MD5 Cryptographic Hash
 // function in Javascript.
-//= ===============================================================
 
 // main variables
 const CHAR_SIZE = 8
