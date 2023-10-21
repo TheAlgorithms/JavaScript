@@ -2,8 +2,6 @@
 // function in Javascript.
 
 // main variables
-const CHAR_SIZE = 8
-
 const S = [
   7, 12, 17, 22, 7, 12, 17, 22, 7, 12, 17, 22, 7, 12, 17, 22, 5, 9, 14, 20, 5,
   9, 14, 20, 5, 9, 14, 20, 5, 9, 14, 20, 4, 11, 16, 23, 4, 11, 16, 23, 4, 11,
@@ -135,10 +133,7 @@ function preProcess(message) {
  */
 function MD5(message) {
   // Initialize variables:
-  const [a0, b0, c0, d0] = [0, 1, 2, 3]
-  const hashes = Uint32Array.from([
-    0x67452301, 0xefcdab89, 0x98badcfe, 0x10325476
-  ])
+  let [a0, b0, c0, d0] = [0x67452301, 0xefcdab89, 0x98badcfe, 0x10325476]
 
   // pre-process message and split into 512 bit chunks
   const words = Array.from(preProcess(message))
@@ -146,47 +141,40 @@ function MD5(message) {
 
   chunks.forEach(function (chunk, _) {
     // initialize variables for this chunk
-    const [A, B, C, D] = [0, 1, 2, 3]
-    const abcd = Uint32Array.from([
-      hashes[a0],
-      hashes[b0],
-      hashes[c0],
-      hashes[d0]
-    ])
+    let [A, B, C, D] = [a0, b0, c0, d0]
 
     for (let i = 0; i < 64; i++) {
-      const [F, g] = [0, 1]
-      const fg = Uint32Array.from([0, 0])
+      let [F, g] = [0, 0]
 
       if (i <= 15) {
-        fg[F] = (abcd[B] & abcd[C]) | (~abcd[B] & abcd[D])
-        fg[g] = i
+        F = (B & C) | (~B & D)
+        g = i
       } else if (i <= 31) {
-        fg[F] = (abcd[D] & abcd[B]) | (~abcd[D] & abcd[C])
-        fg[g] = (5 * i + 1) % 16
+        F = (D & B) | (~D & C)
+        g = (5 * i + 1) % 16
       } else if (i <= 47) {
-        fg[F] = abcd[B] ^ abcd[C] ^ abcd[D]
-        fg[g] = (3 * i + 5) % 16
+        F = B ^ C ^ D
+        g = (3 * i + 5) % 16
       } else {
-        fg[F] = abcd[C] ^ (abcd[B] | ~abcd[D])
-        fg[g] = (7 * i) % 16
+        F = C ^ (B | ~D)
+        g = (7 * i) % 16
       }
 
-      fg[F] = fg[F] + abcd[A] + K[i] + chunk[fg[g]]
-      abcd[A] = abcd[D]
-      abcd[D] = abcd[C]
-      abcd[C] = abcd[B]
-      abcd[B] = abcd[B] + rotateLeft(fg[F], S[i])
+      F = F + A + K[i] + chunk[g]
+      A = D
+      D = C
+      C = B
+      B = (B + (rotateLeft(F, S[i]) % 0xFFFFFFFF)) >>> 0
     }
 
     // add values for this chunk to main hash variables (unsigned)
-    hashes[a0] = hashes[a0] + abcd[A]
-    hashes[b0] = hashes[b0] + abcd[B]
-    hashes[c0] = hashes[c0] + abcd[C]
-    hashes[d0] = hashes[d0] + abcd[D]
+    a0 = a0 + A
+    b0 = b0 + B
+    c0 = c0 + C
+    d0 = d0 + D
   })
 
-  return hashes
+  return [a0, b0, c0, d0]
 }
 
 // export MD5 function
