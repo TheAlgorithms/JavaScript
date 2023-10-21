@@ -132,8 +132,9 @@ function preProcess(message) {
   // to a 64 bit representation
   let ml = (message.length * CHAR_SIZE).toString(2)
   ml = pad(ml, 64)
+  ml = ml.slice(32) + ml.slice(0, 32)
 
-  return m + ml.slice(32) + ml.slice(0, 32)
+  return m + ml
 }
 
 /**
@@ -143,7 +144,7 @@ function preProcess(message) {
  * For more info: https://en.wikipedia.org/wiki/MD5
  * 
  * @param {string} message - message to hash
- * @return {string} - message digest (hash value)
+ * @return {Uint32Array} - message digest (hash value)
  */
 function MD5(message) {
   // Initialize variables:
@@ -203,12 +204,7 @@ function MD5(message) {
     hashes[d0] = hashes[d0] + abcd[D]
   })
 
-  // combine hash values of main hash variables and return
-  const HH = [hashes[a0], hashes[b0], hashes[c0], hashes[d0]]
-    .map((e) => toHex(e))
-    .join('')
-
-  return HH
+  return hashes
 }
 
 // export MD5 function
