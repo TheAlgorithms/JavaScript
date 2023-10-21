@@ -7,7 +7,7 @@
 const MatrixSearch = (key, matrix) => {
   for (let i = 0; i < matrix.length; i++) {
     for (let j = 0; j < matrix[i].length; j++) {
-      if (matrix[i][j] === key)   return [i, j] // Found the element, return its coordinates
+      if (matrix[i][j] === key) return [i, j] // Found the element, return its coordinates
     }
   }
   return [-1, -1] // Element not found in the matrix
