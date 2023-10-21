@@ -105,36 +105,70 @@ function rotateLeft(bits, turns) {
 }
 
 /**
+ * Converts Uint8Array to Uint32Array
+ *
+ * @param {Uint8Array} u8Array Uint8Array to convert
+ * @returns {Uint32Array} - Required Uint32Array
+ */
+function u8ToU32(u8Array) {
+  const uint32Array = new Uint32Array(u8Array.length / 4)
+
+  for (let i = 0; i < u8Array.length; i += 4) {
+    uint32Array[i / 4] =
+      (u8Array[i] |
+        (u8Array[i + 1] << 8) |
+        (u8Array[i + 2] << 16) |
+        (u8Array[i + 3] << 24)) >>>
+      0
+  }
+
+  return uint32Array
+}
+
+/**
+ * Adds padding to the end of the given array
+ *
+ * @param {Uint8Array} u8Array Array to pad
+ * @param {Number} size Resulting size of the array
+ */
+function padEnd(u8Array, size) {
+  const result = new Uint8Array(size)
+  result.set(u8Array)
+  result.fill(0, u8Array.length)
+
+  return result
+}
+
+/**
  * Pre-processes message to feed the algorithm loop
  *
- * @param {string} message - message to pre-process
- * @return {string} - processed message
+ * @param {Uint8Array} message - message to pre-process
+ * @return {Uint32Array} - processed message
  */
 function preProcess(message) {
-  // convert message to binary representation padded to
-  // 8 bits, and add 1
-  let m =
-    message
-      .split('')
-      .map((e) => e.charCodeAt(0))
-      .map((e) => e.toString(2))
-      .map((e) => pad(e, 8))
-      .join('') + '1'
+  // Extend message by adding '0'
+  //
+  // message.length + 1 is for adding '1' bit
+  // 56 - (length % 64) is for padding with '0's
+  // 8 is for appending 64 bit message length
+  let m = padEnd(
+    message,
+    message.length + 1 + (56 - ((message.length + 1) % 64)) + 8
+  )
 
-  // extend message by adding empty bits (0)
-  m += '0'.repeat(448 - m.length % 512)
+  // Add '1' bit at the end of the message
+  m[message.length] = 1 << 7
 
-  m = chunkify(m, 32)
-    .map((e) => toLittleEndian(e))
-    .join('')
+  // convert message to 32 bit uint array
+  m = u8ToU32(m)
 
-  // length of message in binary, padded, and extended
-  // to a 64 bit representation
-  let ml = (message.length * CHAR_SIZE).toString(2)
-  ml = pad(ml, 64)
-  ml = ml.slice(32) + ml.slice(0, 32)
+  // Append the length of the message to the end
+  // (ml / 0x100000000) | 0 is equivalent to (ml >> 32) & 0xffffffff) in other languages
+  let ml = message.length * 8
+  m[m.length - 2] = ml & 0xffffffff
+  m[m.length - 1] = (ml / 0x100000000) | 0
 
-  return m + ml
+  return m
 }
 
 /**
@@ -142,8 +176,8 @@ function preProcess(message) {
  *
  * @see
  * For more info: https://en.wikipedia.org/wiki/MD5
- * 
- * @param {string} message - message to hash
+ *
+ * @param {Uint8Array} message - message to hash
  * @return {Uint32Array} - message digest (hash value)
  */
 function MD5(message) {
@@ -154,7 +188,10 @@ function MD5(message) {
   ])
 
   // pre-process message and split into 512 bit chunks
-  const bits = preProcess(message)
+  const bits = Array.from(preProcess(message))
+    .map((e) => e.toString(2))
+    .map((e) => pad(e, 32))
+    .join('')
   const chunks = chunkify(bits, 512)
 
   chunks.forEach(function (chunk, _) {
