@@ -26,53 +26,6 @@ const K = [
 ]
 
 /**
- * Converts the string to little endian in groups of 8
- *
- * @param {string} str - 32 character string representation (binary)
- * @returns {string} - little endian string
- *
- * @example
- *      toLittleEndian("11111111111110100011100101000010"); // "01000010001110011111101011111111"
- */
-function toLittleEndian(str) {
-  return (
-    str.slice(24, 32) + str.slice(16, 24) + str.slice(8, 16) + str.slice(0, 8)
-  )
-}
-
-/**
- * Converts a positive integer to a hexadecimal string representation
- *
- * @param {number} num - A 32 bit positive integer
- * @returns {string} - hex representation of the number
- *
- * @example
- *      toHex(255); // "ff000000"
- */
-function toHex(num) {
-  let str = pad(num.toString(16), 8)
-  return str.slice(6, 8) + str.slice(4, 6) + str.slice(2, 4) + str.slice(0, 2)
-}
-
-/**
- * Adds padding to binary/hex string representation
- *
- * @param {string} str - string representation (binary/hex)
- * @param {int} bits - total number of bits wanted
- * @return {string} - string representation padding with empty (0) bits
- *
- * @example
- *      pad("10011", 8); // "00010011"
- */
-function pad(str, bits) {
-  let res = str
-  while (res.length % bits !== 0) {
-    res = '0' + res
-  }
-  return res
-}
-
-/**
  * Separates an array into equal sized chunks
  *
  * @param {Array} array - array to separate into chunks
