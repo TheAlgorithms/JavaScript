@@ -73,19 +73,19 @@ function pad(str, bits) {
 }
 
 /**
- * Separates string into chunks of the same size
+ * Separates an array into equal sized chunks
  *
- * @param {string} str - string to separate into chunks
- * @param {int} size - number of characters wanted in each chunk
- * @return {array} - array of original string split into chunks
+ * @param {Array} array - array to separate into chunks
+ * @param {int} size - number of elements wanted in each chunk
+ * @return {array} - array of original array split into chunks
  *
  * @example
  *      chunkify("this is a test", 2)
  */
-function chunkify(str, size) {
+function chunkify(array, size) {
   const chunks = []
-  for (let i = 0; i < str.length; i += size) {
-    chunks.push(str.slice(i, i + size))
+  for (let i = 0; i < array.length; i += size) {
+    chunks.push(array.slice(i, i + size))
   }
   return chunks
 }
@@ -188,18 +188,10 @@ function MD5(message) {
   ])
 
   // pre-process message and split into 512 bit chunks
-  const bits = Array.from(preProcess(message))
-    .map((e) => e.toString(2))
-    .map((e) => pad(e, 32))
-    .join('')
-  const chunks = chunkify(bits, 512)
+  const words = Array.from(preProcess(message))
+  const chunks = chunkify(words, 16)
 
   chunks.forEach(function (chunk, _) {
-    // break each chunk into 16 32-bit words
-    const words = Uint32Array.from(
-      chunkify(chunk, 32).map((e) => parseInt(e, 2))
-    )
-
     // initialize variables for this chunk
     const [A, B, C, D] = [0, 1, 2, 3]
     const abcd = Uint32Array.from([
@@ -227,7 +219,7 @@ function MD5(message) {
         fg[g] = (7 * i) % 16
       }
 
-      fg[F] = fg[F] + abcd[A] + K[i] + words[fg[g]]
+      fg[F] = fg[F] + abcd[A] + K[i] + chunk[fg[g]]
       abcd[A] = abcd[D]
       abcd[D] = abcd[C]
       abcd[C] = abcd[B]
