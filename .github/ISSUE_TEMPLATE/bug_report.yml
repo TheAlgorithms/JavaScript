@@ -1,0 +1,48 @@
+name: Bug report
+description: 'Create a report to help us improve'
+title: '[BUG]: '
+labels: ['bug']
+body:
+  - type: markdown
+    attributes:
+      value: '### Before you open an issue, please verify if a similar one already exists or has been closed before. More details about the process of contributing can be found in [CONTRIBUTING.md](https://github.com/TheAlgorithms/JavaScript/blob/master/CONTRIBUTING.md).'
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Explain what the problem is.
+    validations:
+      required: true
+  - type: textarea
+    id: expectedbhv
+    attributes:
+      label: Expected Behavior
+      description: Describe what was the expected behavior.
+    validations:
+      required: true
+  - type: textarea
+    id: actualbhv
+    attributes:
+      label: Actual Behavior
+      description: Describe what actually happens.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce (if applicable)
+      description: List steps to reproduce the behavior.
+      placeholder: |
+        1. 
+        2. 
+        3. 
+        4.
+    validations:
+      required: false
+  - type: textarea
+    id: extra_information
+    attributes:
+      label: Additional information
+      description: Is there anything else we should know about this bug report?
+    validations:
+      required: false

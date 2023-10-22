@@ -6,7 +6,12 @@ describe('Testing euclideanDistance calculations', () => {
     expect(euclideanDistance).toBe(15)
   })
   it('Should not give any output given non-numeric argument', () => {
-    const euclideanDistance = coordinate.euclideanDistance('ABC', '123', '', '###')
+    const euclideanDistance = coordinate.euclideanDistance(
+      'ABC',
+      '123',
+      '',
+      '###'
+    )
     expect(euclideanDistance).toBeNaN()
   })
   it('Should not give any output given any number of numeric arguments less than 4', () => {
@@ -27,7 +32,12 @@ describe('Testing manhattanDistance calculations', () => {
     expect(manhattanDistance).toBe(21)
   })
   it('Should not give any output given non-numeric argument', () => {
-    const manhattanDistance = coordinate.manhattanDistance('ABC', '123', '', '###')
+    const manhattanDistance = coordinate.manhattanDistance(
+      'ABC',
+      '123',
+      '',
+      '###'
+    )
     expect(manhattanDistance).toBeNaN()
   })
   it('Should not give any output given any number of numeric arguments less than 4', () => {

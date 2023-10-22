@@ -27,11 +27,12 @@ References:
  * @param {string} str2 Input string #2
  * @returns {number} Length of the longest common subsequence
  */
-function longestCommonSubsequence (str1, str2) {
-  const memo = new Array(str1.length + 1).fill(null)
+function longestCommonSubsequence(str1, str2) {
+  const memo = new Array(str1.length + 1)
+    .fill(null)
     .map(() => new Array(str2.length + 1).fill(null))
 
-  function recursive (end1, end2) {
+  function recursive(end1, end2) {
     if (end1 === -1 || end2 === -1) {
       return 0
     }

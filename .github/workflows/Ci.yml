@@ -12,16 +12,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+
       - uses: actions/setup-node@v3
         with:
-          node-version: 16
+          node-version: 20
           cache: npm
 
       - name: 📦 Install dependencies
         run: npm ci
 
-      - name: 🧪 Run tests
-        run: npm test
+      - name: 🧪 Run all tests
+        run: npm run test
 
       - name: 💄 Code style
         run: npm run style

@@ -6,7 +6,7 @@ class LRUCache {
    * @param {number} capacity - the capacity of LRUCache
    * @returns {LRUCache} - sealed
    */
-  constructor (capacity) {
+  constructor(capacity) {
     if (!Number.isInteger(capacity) || capacity < 0) {
       throw new TypeError('Invalid capacity')
     }
@@ -19,7 +19,7 @@ class LRUCache {
     return Object.seal(this)
   }
 
-  get info () {
+  get info() {
     return Object.freeze({
       misses: this.misses,
       hits: this.hits,
@@ -28,15 +28,15 @@ class LRUCache {
     })
   }
 
-  get size () {
+  get size() {
     return this.cache.size
   }
 
-  get capacity () {
+  get capacity() {
     return this.#capacity
   }
 
-  set capacity (newCapacity) {
+  set capacity(newCapacity) {
     if (newCapacity < 0) {
       throw new RangeError('Capacity should be greater than 0')
     }
@@ -53,9 +53,9 @@ class LRUCache {
   }
 
   /**
- * delete oldest key existing in map by the help of iterator
- */
-  #removeLeastRecentlyUsed () {
+   * delete oldest key existing in map by the help of iterator
+   */
+  #removeLeastRecentlyUsed() {
     this.cache.delete(this.cache.keys().next().value)
   }
 
@@ -63,7 +63,7 @@ class LRUCache {
    * @param {string} key
    * @returns {*}
    */
-  has (key) {
+  has(key) {
     key = String(key)
 
     return this.cache.has(key)
@@ -73,7 +73,7 @@ class LRUCache {
    * @param {string} key
    * @param {*} value
    */
-  set (key, value) {
+  set(key, value) {
     key = String(key)
     // Sets the value for the input key and if the key exists it updates the existing key
     if (this.size === this.capacity) {
@@ -87,7 +87,7 @@ class LRUCache {
    * @param {string} key
    * @returns {*}
    */
-  get (key) {
+  get(key) {
     key = String(key)
     // Returns the value for the input key. Returns null if key is not present in cache
     if (this.cache.has(key)) {
@@ -109,7 +109,7 @@ class LRUCache {
    * @param {JSON} json
    * @returns {LRUCache}
    */
-  parse (json) {
+  parse(json) {
     const { misses, hits, cache } = JSON.parse(json)
 
     this.misses += misses ?? 0
@@ -126,7 +126,7 @@ class LRUCache {
    * @param {number} indent
    * @returns {JSON} - string
    */
-  toString (indent) {
+  toString(indent) {
     const replacer = (_, value) => {
       if (value instanceof Set) {
         return [...value]

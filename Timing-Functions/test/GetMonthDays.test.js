@@ -14,6 +14,8 @@ describe('Get the Days of a Month', () => {
   })
 
   it('expects to throw a type error', () => {
-    expect(() => { getMonthDays(13, 2020) }).toThrow('Invalid Month Number.')
+    expect(() => {
+      getMonthDays(13, 2020)
+    }).toThrow('Invalid Month Number.')
   })
 })

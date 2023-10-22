@@ -21,19 +21,23 @@
  * @param grid The grid to check.
  * @throws TypeError When the given grid is invalid.
  */
-function validateGrid (grid) {
-  if (!Array.isArray(grid) || grid.length === 0) throw new TypeError('Grid must be a non-empty array')
+function validateGrid(grid) {
+  if (!Array.isArray(grid) || grid.length === 0)
+    throw new TypeError('Grid must be a non-empty array')
 
-  const allRowsHaveCorrectLength = grid.every(row => row.length === grid.length)
+  const allRowsHaveCorrectLength = grid.every(
+    (row) => row.length === grid.length
+  )
   if (!allRowsHaveCorrectLength) throw new TypeError('Grid must be a square')
 
-  const allCellsHaveValidValues = grid.every(row => {
-    return row.every(cell => cell === 0 || cell === 1)
+  const allCellsHaveValidValues = grid.every((row) => {
+    return row.every((cell) => cell === 0 || cell === 1)
   })
-  if (!allCellsHaveValidValues) throw new TypeError('Grid must only contain 0s and 1s')
+  if (!allCellsHaveValidValues)
+    throw new TypeError('Grid must only contain 0s and 1s')
 }
 
-function isSafe (grid, x, y) {
+function isSafe(grid, x, y) {
   const n = grid.length
   return x >= 0 && x < n && y >= 0 && y < n && grid[y][x] === 1
 }
@@ -48,7 +52,7 @@ function isSafe (grid, x, y) {
  * @param path The path we took to get from the source cell to the current location.
  * @returns {string|boolean} Either the path to the target cell or false.
  */
-function getPathPart (grid, x, y, solution, path) {
+function getPathPart(grid, x, y, solution, path) {
   const n = grid.length
 
   // are we there yet?
@@ -89,7 +93,7 @@ function getPathPart (grid, x, y, solution, path) {
   return false
 }
 
-function getPath (grid) {
+function getPath(grid) {
   // grid dimensions
   const n = grid.length
 
@@ -108,7 +112,7 @@ function getPath (grid) {
  * Creates an instance of the "rat in a maze" based on a given grid (maze).
  */
 export class RatInAMaze {
-  constructor (grid) {
+  constructor(grid) {
     // first, let's do some error checking on the input
     validateGrid(grid)
 

@@ -1,7 +1,7 @@
 /**
  * Problem statement and explanation: https://en.wikipedia.org/wiki/Extended_Euclidean_algorithm
  *
- * This algorithm plays an important role for modular arithmetic, and by extension for cyptography algorithms
+ * This algorithm plays an important role for modular arithmetic, and by extension for cryptography algorithms
  *
  * Basic explanation:
  * The Extended Euclidean algorithm is a modification of the standard Euclidean GCD algorithm.
@@ -25,7 +25,8 @@
  * @returns Array with GCD and first and second Bézout coefficients
  */
 const extendedEuclideanGCD = (arg1, arg2) => {
-  if (typeof arg1 !== 'number' || typeof arg2 !== 'number') throw new TypeError('Not a Number')
+  if (typeof arg1 !== 'number' || typeof arg2 !== 'number')
+    throw new TypeError('Not a Number')
   if (arg1 < 1 || arg2 < 1) throw new TypeError('Must be positive numbers')
 
   // Make the order of coefficients correct, as the algorithm assumes r0 > r1

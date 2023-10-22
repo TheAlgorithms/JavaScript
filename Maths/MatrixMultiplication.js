@@ -19,13 +19,17 @@ const matrixCheck = (matrix) => {
 
 // tests to see if the matrices have a like side, i.e. the row length on the first matrix matches the column length on the second matrix, or vice versa.
 const twoMatricesCheck = (first, second) => {
-  const [firstRowLength, secondRowLength, firstColLength, secondColLength] = [first.length, second.length, matrixCheck(first), matrixCheck(second)]
-  if (firstRowLength !== secondColLength || secondRowLength !== firstColLength) {
-    // These matrices do not have a common side
-    return false
-  } else {
-    return true
-  }
+  const [firstRowLength, secondRowLength, firstColLength, secondColLength] = [
+    first.length,
+    second.length,
+    matrixCheck(first),
+    matrixCheck(second)
+  ]
+
+  // These matrices do not have a common side
+  return (
+    firstRowLength === secondColLength && secondRowLength === firstColLength
+  )
 }
 
 // returns an empty array that has the same number of rows as the left matrix being multiplied.

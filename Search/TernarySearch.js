@@ -11,7 +11,7 @@
  * Reference: https://www.geeksforgeeks.org/ternary-search/
  */
 
-function ternarySearchRecursive (arr, key, low = 0, high = arr.length - 1) {
+function ternarySearchRecursive(arr, key, low = 0, high = arr.length - 1) {
   if (high >= low) {
     // find the mid1 and mid2
     const mid1 = Math.floor(low + (high - low) / 3)
@@ -47,7 +47,7 @@ function ternarySearchRecursive (arr, key, low = 0, high = arr.length - 1) {
   }
 }
 
-function ternarySearchIterative (arr, key, low = 0, high = arr.length - 1) {
+function ternarySearchIterative(arr, key, low = 0, high = arr.length - 1) {
   while (high >= low) {
     // find the mid1 and mid2
     const mid1 = Math.floor(low + (high - low) / 3)

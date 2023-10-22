@@ -4,7 +4,7 @@
  */
 
 // Return the length of the Longest Increasing Subsequence, given array x
-function longestIncreasingSubsequence (x) {
+function longestIncreasingSubsequence(x) {
   const length = x.length
   const dp = Array(length).fill(1)
 

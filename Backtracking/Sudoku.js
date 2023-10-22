@@ -1,10 +1,10 @@
 class Sudoku {
   // Sudoku Class to hold the board and related functions
-  constructor (board) {
+  constructor(board) {
     this.board = board
   }
 
-  findEmptyCell () {
+  findEmptyCell() {
     // Find a empty cell in the board (returns [-1, -1] if all cells are filled)
     for (let i = 0; i < 9; i++) {
       for (let j = 0; j < 9; j++) {
@@ -14,7 +14,7 @@ class Sudoku {
     return [-1, -1]
   }
 
-  check ([y, x], value) {
+  check([y, x], value) {
     // checks if the value to be added in the board is an acceptable value for the cell
 
     // checking through the row
@@ -29,8 +29,8 @@ class Sudoku {
     // checking through the 3x3 block of the cell
     const secRow = Math.floor(y / 3)
     const secCol = Math.floor(x / 3)
-    for (let i = (secRow * 3); i < ((secRow * 3) + 3); i++) {
-      for (let j = (secCol * 3); j < ((secCol * 3) + 3); j++) {
+    for (let i = secRow * 3; i < secRow * 3 + 3; i++) {
+      for (let j = secCol * 3; j < secCol * 3 + 3; j++) {
         if (y !== i && x !== j && this.board[i][j] === value) return false
       }
     }
@@ -38,7 +38,7 @@ class Sudoku {
     return true
   }
 
-  solve () {
+  solve() {
     const [y, x] = this.findEmptyCell()
 
     // checking if the board is complete
@@ -56,20 +56,23 @@ class Sudoku {
     return false
   }
 
-  getSection (row, [start, end]) {
+  getSection(row, [start, end]) {
     return this.board[row].slice(start, end)
   }
 
-  printBoard (output = (...v) => console.log(...v)) {
+  printBoard(output = (...v) => console.log(...v)) {
     // helper function to display board
     for (let i = 0; i < 9; i++) {
       if (i % 3 === 0 && i !== 0) {
         output('- - - - - - - - - - - -')
       }
       output(
-        ...this.getSection(i, [0, 3]), ' | ',
-        ...this.getSection(i, [3, 6]), ' | ',
-        ...this.getSection(i, [6, 9]))
+        ...this.getSection(i, [0, 3]),
+        ' | ',
+        ...this.getSection(i, [3, 6]),
+        ' | ',
+        ...this.getSection(i, [6, 9])
+      )
     }
   }
 }

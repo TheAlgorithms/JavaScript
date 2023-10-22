@@ -45,4 +45,18 @@ const PalindromeIterative = (string) => {
   return true
 }
 
-export { PalindromeIterative, PalindromeRecursive }
+/**
+ *
+ * Checks if a string is a palindrome.
+ * @author dev-madhurendra
+ * @param {string} str - The string to check.
+ * @returns {boolean} True if the string is a palindrome, false otherwise.
+ *
+ * @example
+ * const isPalindrome = checkPalindrome('racecar'); // Returns true
+ * const isNotPalindrome = checkPalindrome('hello');  // Returns false
+ */
+const checkPalindrome = (str) =>
+  str.replace(/\s/g, '') === str.replace(/\s/g, '').split('').reverse().join('')
+
+export { PalindromeIterative, PalindromeRecursive, checkPalindrome }

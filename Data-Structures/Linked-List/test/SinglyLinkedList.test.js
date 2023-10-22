@@ -148,6 +148,28 @@ describe('SinglyLinkedList', () => {
 
     list.addFirst(30)
     expect(list.head()).toBe(30)
+
+    // check for a falsy head data
+    list.addFirst(false)
+    expect(list.head()).toBe(false)
+  })
+
+  it('Check tail', () => {
+    const list = new LinkedList()
+    expect(list.tail()).toBe(null)
+
+    list.addLast(10)
+    expect(list.tail()).toBe(10)
+
+    list.addLast(20)
+    expect(list.tail()).toBe(20)
+
+    list.addFirst(30)
+    expect(list.tail()).toBe(20)
+
+    // check for a falsy tail data
+    list.addLast(false)
+    expect(list.tail()).toBe(false)
   })
 
   it('Check size', () => {
@@ -246,5 +268,11 @@ describe('SinglyLinkedList', () => {
     // Case 4: when k = length of the list = 5 => List should be unaffected
     headNode.rotateListRight(5)
     expect(headNode.get()).toEqual([20, 30, 40, 50, 10])
+  })
+
+  it('Reverse a Linked List', () => {
+    const list = new LinkedList([4, 3, 1])
+    list.reverse()
+    expect(list.get()).toEqual([1, 3, 4])
   })
 })

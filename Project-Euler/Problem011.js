@@ -1,4 +1,3 @@
-
 /*
  *
  * In the 20×20 grid below, four numbers along a diagonal line have been marked in red.
@@ -28,9 +27,9 @@
  *
  * What is the greatest product of four adjacent numbers in the
  * same direction (up, down, left, right, or diagonally) in the 20×20 grid?
-*/
+ */
 
-export function largestProductInAGrid (arr) {
+export function largestProductInAGrid(arr) {
   let max = 0
   const k = 4
 
@@ -51,7 +50,7 @@ export function largestProductInAGrid (arr) {
   return max
 }
 
-function get (arr, y, x) {
+function get(arr, y, x) {
   if (y >= 0 && y < arr.length && x >= 0 && x < arr[y].length) {
     return arr[y][x]
   }

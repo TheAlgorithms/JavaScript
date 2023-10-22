@@ -5,7 +5,8 @@
  * @param {RegExp} ignorePattern - ignore the char in str that is not required
  * @returns {string} - char
  */
-const maxCharacter = (str, ignorePattern) => { // initially it's count only alphabets
+const maxCharacter = (str, ignorePattern) => {
+  // initially it's count only alphabets
   if (typeof str !== 'string') {
     throw new TypeError('Argument should be a string')
   } else if (!str) {

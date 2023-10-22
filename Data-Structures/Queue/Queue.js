@@ -1,15 +1,15 @@
 /* Queue
-* A Queue is a data structure that allows you to add an element to the end of
-* a list and remove the item at the front. A queue follows a FIFO (First In First Out)
-* system, where the first item to enter the queue is the first to be removed,
-* All these operation complexities are O(1).
-* This implementation following the linked list structure.
-*/
+ * A Queue is a data structure that allows you to add an element to the end of
+ * a list and remove the item at the front. A queue follows a FIFO (First In First Out)
+ * system, where the first item to enter the queue is the first to be removed,
+ * All these operation complexities are O(1).
+ * This implementation following the linked list structure.
+ */
 
 class Queue {
   #size
 
-  constructor () {
+  constructor() {
     this.head = null
     this.tail = null
     this.#size = 0
@@ -17,7 +17,7 @@ class Queue {
     return Object.seal(this)
   }
 
-  get length () {
+  get length() {
     return this.#size
   }
 
@@ -26,7 +26,7 @@ class Queue {
    * @param {*} data
    * @returns {number} - The current size of queue
    */
-  enqueue (data) {
+  enqueue(data) {
     const node = { data, next: null }
 
     if (!this.head && !this.tail) {
@@ -44,7 +44,7 @@ class Queue {
    * @description - Removes the value at the front of the queue
    * @returns {*} - The first data of the queue
    */
-  dequeue () {
+  dequeue() {
     if (this.isEmpty()) {
       throw new Error('Queue is Empty')
     }
@@ -66,7 +66,7 @@ class Queue {
    * @description - Return the item at the front of the queue
    * @returns {*}
    */
-  peekFirst () {
+  peekFirst() {
     if (this.isEmpty()) {
       throw new Error('Queue is Empty')
     }
@@ -78,7 +78,7 @@ class Queue {
    * @description - Return the item at the tail of the queue
    * @returns {*}
    */
-  peekLast () {
+  peekLast() {
     if (this.isEmpty()) {
       throw new Error('Queue is Empty')
     }
@@ -90,7 +90,7 @@ class Queue {
    * @description - Return the array of Queue
    * @returns {Array<*>}
    */
-  toArray () {
+  toArray() {
     const array = []
     let node = this.head
 
@@ -103,10 +103,10 @@ class Queue {
   }
 
   /**
-  * @description - Return is queue empty or not
-  * @returns {boolean}
-  */
-  isEmpty () {
+   * @description - Return is queue empty or not
+   * @returns {boolean}
+   */
+  isEmpty() {
     return this.length === 0
   }
 }

@@ -1,0 +1,38 @@
+name: Feature request
+description: 'Suggest features, propose improvements, discuss new ideas'
+title: '[FEATURE]: '
+labels: ['enhancement']
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## This issue template is not for requesting new algorithms. For new algorithms, PRs should be opened directly.
+        ## Make sure your issue isn't a duplicate and you follow our [contributing guidelines](https://github.com/TheAlgorithms/JavaScript/blob/master/CONTRIBUTING.md)
+  - type: textarea
+    id: description
+    attributes:
+      label: Motivation
+      description: Describe what is the motivation behind this feature.
+    validations:
+      required: true
+  - type: textarea
+    id: examples
+    attributes:
+      label: Examples
+      description: If possible, provide examples of how this feature can be used.
+    validations:
+      required: false
+  - type: textarea
+    id: workarounds
+    attributes:
+      label: Possible workarounds
+      description: If possible, describes possible workarounds to this feature.
+    validations:
+      required: false
+  - type: textarea
+    id: extra_information
+    attributes:
+      label: Additional information
+      description: Is there anything else we should know about this feature request?
+    validations:
+      required: false

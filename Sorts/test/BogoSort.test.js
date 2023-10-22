@@ -20,6 +20,8 @@ describe('isSorted', () => {
 
 describe('bogoSort', () => {
   it('should (eventually) sort the array', () => {
-    expect(bogoSort([5, 6, 7, 8, 1, 2, 12, 14])).toEqual([1, 2, 5, 6, 7, 8, 12, 14])
+    expect(bogoSort([5, 6, 7, 8, 1, 2, 12, 14])).toEqual([
+      1, 2, 5, 6, 7, 8, 12, 14
+    ])
   })
 })

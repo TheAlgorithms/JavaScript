@@ -1,5 +1,4 @@
-
-export function TopologicalSorter () {
+export function TopologicalSorter() {
   const graph = {}
   let isVisitedNode
   let finishTimeCount
@@ -19,7 +18,10 @@ export function TopologicalSorter () {
     finishingTimeList = []
 
     for (const node in graph) {
-      if (Object.prototype.hasOwnProperty.call(graph, node) && !isVisitedNode[node]) {
+      if (
+        Object.prototype.hasOwnProperty.call(graph, node) &&
+        !isVisitedNode[node]
+      ) {
         dfsTraverse(node)
       }
     }
@@ -28,10 +30,12 @@ export function TopologicalSorter () {
       return item1.finishTime > item2.finishTime ? -1 : 1
     })
 
-    return finishingTimeList.map(function (value) { return value.node })
+    return finishingTimeList.map(function (value) {
+      return value.node
+    })
   }
 
-  function dfsTraverse (node) {
+  function dfsTraverse(node) {
     isVisitedNode[node] = true
     if (graph[node]) {
       for (let i = 0; i < graph[node].length; i++) {

@@ -31,7 +31,5 @@ export const fibonacciCache = (n, cache = null) => {
  * @return {new Set}
  */
 export const union = (...sets) => {
-  return new Set(
-    sets.reduce((flatArray, set) => [...flatArray, ...set], [])
-  )
+  return new Set(sets.reduce((flatArray, set) => [...flatArray, ...set], []))
 }

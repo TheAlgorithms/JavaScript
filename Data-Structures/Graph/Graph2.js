@@ -2,7 +2,7 @@
 class Graph {
   // defining vertex array and
   // adjacent list
-  constructor (noOfVertices) {
+  constructor(noOfVertices) {
     this.noOfVertices = noOfVertices
     this.AdjList = new Map()
   }
@@ -17,7 +17,7 @@ class Graph {
   // dfs(v)
 
   // add vertex to the graph
-  addVertex (v) {
+  addVertex(v) {
     // initialize the adjacent list with a
     // null array
 
@@ -25,7 +25,7 @@ class Graph {
   }
 
   // add edge to the graph
-  addEdge (v, w) {
+  addEdge(v, w) {
     // get the list for vertex v and put the
     // vertex w denoting edge between v and w
     this.AdjList.get(v).push(w)
@@ -36,13 +36,13 @@ class Graph {
   }
 
   // Prints the vertex and adjacency list
-  printGraph (output = value => console.log(value)) {
+  printGraph(output = (value) => console.log(value)) {
     // get all the vertices
     const getKeys = this.AdjList.keys()
 
     // iterate over the vertices
     for (const i of getKeys) {
-      // great the corresponding adjacency list
+      // get the corresponding adjacency list
       // for the vertex
       const getValues = this.AdjList.get(i)
       let conc = ''

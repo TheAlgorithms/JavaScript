@@ -18,7 +18,7 @@
  * @param {Number} end end index position of array
  * @return {Number} Position of the key element
  */
-function binarySearch (array, key, start, end) {
+function binarySearch(array, key, start, end) {
   if (start === end) {
     if (array[start] > key) {
       return start
@@ -48,7 +48,7 @@ function binarySearch (array, key, start, end) {
  * @param {Array} list List to be sorted.
  * @return {Array} The sorted list.
  */
-export function binaryInsertionSort (array) {
+export function binaryInsertionSort(array) {
   const totalLength = array.length
   for (let i = 1; i < totalLength; i += 1) {
     const key = array[i]

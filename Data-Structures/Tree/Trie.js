@@ -1,4 +1,4 @@
-const TrieNode = function TrieNode (key, parent) {
+const TrieNode = function TrieNode(key, parent) {
   this.key = key
   this.count = 0
   this.children = Object.create(null)
@@ -9,7 +9,7 @@ const TrieNode = function TrieNode (key, parent) {
   }
 }
 
-function Trie () {
+function Trie() {
   // create only root with null key and parent
   this.root = new TrieNode(null, null)
 }
@@ -18,7 +18,9 @@ function Trie () {
 Trie.findAllWords = function (root, word, output) {
   if (root === null) return
   if (root.count > 0) {
-    if (typeof output === 'object') { output.push({ word, count: root.count }) }
+    if (typeof output === 'object') {
+      output.push({ word, count: root.count })
+    }
   }
   let key
   for (key in root.children) {
@@ -38,7 +40,9 @@ Trie.prototype.insert = function (word) {
   const len = word.length
   let i
   for (i = 0; i < len; i++) {
-    if (node.children[word.charAt(i)] === undefined) { node.children[word.charAt(i)] = new TrieNode(word.charAt(i), node) }
+    if (node.children[word.charAt(i)] === undefined) {
+      node.children[word.charAt(i)] = new TrieNode(word.charAt(i), node)
+    }
     node = node.children[word.charAt(i)]
   }
   node.count += 1
@@ -83,11 +87,15 @@ Trie.prototype.remove = function (word, count) {
   if (child.count >= count) child.count -= count
   else child.count = 0
 
-  // If some occurrences are left we dont delete it or else
-  // if the object forms some other objects prefix we dont delete it
+  // If some occurrences are left we don't delete it or else
+  // if the object forms some other objects prefix we don't delete it
   // For checking an empty object
   // https://stackoverflow.com/questions/679915/how-do-i-test-for-an-empty-javascript-object
-  if (child.count <= 0 && (Object.keys(child.children).length && child.children.constructor === Object)) {
+  if (
+    child.count <= 0 &&
+    Object.keys(child.children).length &&
+    child.children.constructor === Object
+  ) {
     child.parent.children[child.key] = undefined
   }
 }
@@ -106,11 +114,11 @@ Trie.prototype.contains = function (word) {
   // find the node with given prefix
   const node = this.findPrefix(word)
   // No such word exists
-  if (node === null || node.count === 0) return false
-  return true
+
+  return node !== null && node.count !== 0
 }
 
-Trie.prototype.findOccurences = function (word) {
+Trie.prototype.findOccurrences = function (word) {
   // find the node with given prefix
   const node = this.findPrefix(word)
   // No such word exists

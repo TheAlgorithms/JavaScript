@@ -1,3 +1,4 @@
+import Queue from '../Data-Structures/Queue/Queue'
 /**
  * Breadth-first approach can be applied to determine the shortest path between two nodes in an equi-weighted graph.
  *
@@ -7,7 +8,7 @@
  * @see https://en.wikipedia.org/wiki/Breadth-first_search
  * @see https://www.koderdojo.com/blog/breadth-first-search-and-shortest-path-in-csharp-and-net-core
  */
-export function breadthFirstShortestPath (graph, startNode, targetNode) {
+export function breadthFirstShortestPath(graph, startNode, targetNode) {
   // check if startNode & targetNode are identical
   if (startNode === targetNode) {
     return [startNode]
@@ -18,11 +19,12 @@ export function breadthFirstShortestPath (graph, startNode, targetNode) {
 
   // queue contains the paths to be explored in the future
   const initialPath = [startNode]
-  const queue = [initialPath]
+  const queue = new Queue()
+  queue.enqueue(initialPath)
 
-  while (queue.length > 0) {
+  while (!queue.isEmpty()) {
     // start with the queue's first path
-    const path = queue.shift()
+    const path = queue.dequeue()
     const node = path[path.length - 1]
 
     // explore this node if it hasn't been visited yet
@@ -42,7 +44,7 @@ export function breadthFirstShortestPath (graph, startNode, targetNode) {
         }
 
         // queue the new path
-        queue.push(newPath)
+        queue.enqueue(newPath)
       }
     }
   }

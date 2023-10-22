@@ -7,7 +7,7 @@
 
 /**
  * @function findBinomialCoefficient
- * @description -> this function returns bonimial coefficient
+ * @description -> this function returns binomial coefficient
  * of two numbers n & k given by n!/((n-k)!k!)
  * @param {number} n
  * @param {number} k
@@ -17,7 +17,7 @@
 import { calcFactorial } from './Factorial'
 
 export const findBinomialCoefficient = (n, k) => {
-  if ((typeof n !== 'number') || (typeof k !== 'number')) {
+  if (typeof n !== 'number' || typeof k !== 'number') {
     throw Error('Type of arguments must be number.')
   }
   if (n < 0 || k < 0) {

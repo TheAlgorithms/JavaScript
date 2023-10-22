@@ -12,11 +12,11 @@
 const abs = (num) => {
   const validNumber = +num // converted to number, also can use - Number(num)
 
-  if (Number.isNaN(validNumber)) {
+  if (Number.isNaN(validNumber) || typeof num === 'object') {
     throw new TypeError('Argument is NaN - Not a Number')
   }
 
-  return validNumber < 0 ? -validNumber : validNumber // if number is less then zero mean negative then it converted to positive. i.e -> n = -2 = -(-2) = 2
+  return validNumber < 0 ? -validNumber : validNumber // if number is less than zero mean negative then it converted to positive. i.e -> n = -2 = -(-2) = 2
 }
 
 export { abs }

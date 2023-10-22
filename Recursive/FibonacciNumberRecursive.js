@@ -1,4 +1,3 @@
-
 /**
  * @function Fibonacci
  * @description Function to return the N-th Fibonacci number.

@@ -18,7 +18,7 @@ const CHAR_SIZE = 8
  * @example
  *      pad("10011", 8); // "00010011"
  */
-function pad (str, bits) {
+function pad(str, bits) {
   let res = str
   while (res.length % bits !== 0) {
     res = '0' + res
@@ -36,7 +36,7 @@ function pad (str, bits) {
  * @example
  *      chunkify("this is a test", 2)
  */
-function chunkify (str, size) {
+function chunkify(str, size) {
   const chunks = []
   for (let i = 0; i < str.length; i += size) {
     chunks.push(str.slice(i, i + size))
@@ -54,7 +54,7 @@ function chunkify (str, size) {
  * @example
  *      rotateLeft("1011", 3); // "1101"
  */
-function rotateLeft (bits, turns) {
+function rotateLeft(bits, turns) {
   return bits.substr(turns) + bits.substr(0, turns)
 }
 
@@ -64,14 +64,16 @@ function rotateLeft (bits, turns) {
  * @param {string} message - message to pre-process
  * @return {string} - processed message
  */
-function preProcess (message) {
+function preProcess(message) {
   // convert message to binary representation padded to
   // 8 bits, and add 1
-  let m = message.split('')
-    .map(e => e.charCodeAt(0))
-    .map(e => e.toString(2))
-    .map(e => pad(e, 8))
-    .join('') + '1'
+  let m =
+    message
+      .split('')
+      .map((e) => e.charCodeAt(0))
+      .map((e) => e.toString(2))
+      .map((e) => pad(e, 8))
+      .join('') + '1'
 
   // extend message by adding empty bits (0)
   while (m.length % 512 !== 448) {
@@ -93,13 +95,13 @@ function preProcess (message) {
  * @param {string} message - message to hash
  * @return {string} - message digest (hash value)
  */
-function SHA1 (message) {
+function SHA1(message) {
   // main variables
   let H0 = 0x67452301
-  let H1 = 0xEFCDAB89
-  let H2 = 0x98BADCFE
+  let H1 = 0xefcdab89
+  let H2 = 0x98badcfe
   let H3 = 0x10325476
-  let H4 = 0xC3D2E1F0
+  let H4 = 0xc3d2e1f0
 
   // pre-process message and split into 512 bit chunks
   const bits = preProcess(message)
@@ -112,7 +114,7 @@ function SHA1 (message) {
     // extend 16 32-bit words to 80 32-bit words
     for (let i = 16; i < 80; i++) {
       const val = [words[i - 3], words[i - 8], words[i - 14], words[i - 16]]
-        .map(e => parseInt(e, 2))
+        .map((e) => parseInt(e, 2))
         .reduce((acc, curr) => curr ^ acc, 0)
       const bin = (val >>> 0).toString(2)
       const paddedBin = pad(bin, 32)
@@ -127,16 +129,16 @@ function SHA1 (message) {
       let f, k
       if (i < 20) {
         f = (b & c) | (~b & d)
-        k = 0x5A827999
+        k = 0x5a827999
       } else if (i < 40) {
         f = b ^ c ^ d
-        k = 0x6ED9EBA1
+        k = 0x6ed9eba1
       } else if (i < 60) {
         f = (b & c) | (b & d) | (c & d)
-        k = 0x8F1BBCDC
+        k = 0x8f1bbcdc
       } else {
         f = b ^ c ^ d
-        k = 0xCA62C1D6
+        k = 0xca62c1d6
       }
       // make sure f is unsigned
       f >>>= 0
@@ -163,8 +165,8 @@ function SHA1 (message) {
 
   // combine hash values of main hash variables and return
   const HH = [H0, H1, H2, H3, H4]
-    .map(e => e.toString(16))
-    .map(e => pad(e, 8))
+    .map((e) => e.toString(16))
+    .map((e) => pad(e, 8))
     .join('')
 
   return HH

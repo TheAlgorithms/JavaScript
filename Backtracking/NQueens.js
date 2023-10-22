@@ -1,5 +1,5 @@
 class NQueens {
-  constructor (size) {
+  constructor(size) {
     if (size < 0) {
       throw RangeError('Invalid board size')
     }
@@ -8,7 +8,7 @@ class NQueens {
     this.solutionCount = 0
   }
 
-  isValid ([row, col]) {
+  isValid([row, col]) {
     // function to check if the placement of the queen in the given location is valid
 
     // checking the left of the current row
@@ -29,15 +29,15 @@ class NQueens {
     return true
   }
 
-  placeQueen (row, col) {
+  placeQueen(row, col) {
     this.board[row][col] = 'Q'
   }
 
-  removeQueen (row, col) {
+  removeQueen(row, col) {
     this.board[row][col] = '.'
   }
 
-  solve (col = 0) {
+  solve(col = 0) {
     if (col >= this.size) {
       this.solutionCount++
       return true
@@ -54,7 +54,7 @@ class NQueens {
     return false
   }
 
-  printBoard (output = value => console.log(value)) {
+  printBoard(output = (value) => console.log(value)) {
     if (!output._isMockFunction) {
       output('\n')
     }

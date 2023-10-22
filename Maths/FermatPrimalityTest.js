@@ -21,7 +21,7 @@
  *     1 / 2^50 = 8.8 * 10^-16 (a pretty small number)
  *
  * For comparison, the probability of a cosmic ray causing an error to your
- * infalible program is around 1.4 * 10^-15. An order of magnitude below!
+ * infallible program is around 1.4 * 10^-15. An order of magnitude below!
  *
  * But because nothing is perfect, there's a major flaw to this algorithm, and
  * the cause are the so called Carmichael Numbers. These are composite numbers n

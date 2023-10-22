@@ -14,7 +14,7 @@
  * @example findMaxRecursion([10, 40, 100, 20]) = 100
  * @example findMaxRecursion([-1, -2, -4, -5]) = -1
  */
-function findMaxRecursion (arr, left, right) {
+function findMaxRecursion(arr, left, right) {
   const len = arr.length
 
   if (len === 0 || !arr) {

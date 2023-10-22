@@ -10,7 +10,8 @@ There exists exactly one Pythagorean triplet for which a + b + c = 1000.
 Find the product abc.
 */
 
-const isPythagoreanTriplet = (a, b, c) => Math.pow(a, 2) + Math.pow(b, 2) === Math.pow(c, 2)
+const isPythagoreanTriplet = (a, b, c) =>
+  Math.pow(a, 2) + Math.pow(b, 2) === Math.pow(c, 2)
 
 export const findSpecialPythagoreanTriplet = () => {
   for (let a = 0; a < 1000; a++) {

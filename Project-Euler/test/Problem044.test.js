@@ -1,10 +1,10 @@
 import { problem44 } from '../Problem044.js'
 
 describe('checking nth prime number', () => {
-  it('should be invalid input if number is negative', () => {
+  test('should be invalid input if number is negative', () => {
     expect(() => problem44(-3)).toThrowError('Invalid Input')
   })
-  it('should be invalid input if number is 0', () => {
+  test('should be invalid input if number is 0', () => {
     expect(() => problem44(0)).toThrowError('Invalid Input')
   })
   // Project Euler Condition Check

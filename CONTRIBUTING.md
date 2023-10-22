@@ -2,9 +2,9 @@
 
 ## Before contributing
 
-Welcome to [TheAlgorithms/Javascript](https://github.com/TheAlgorithms/Javascript)! Before sending your pull requests,
-make sure that you **read the whole guidelines**. If you have any doubt on the contributing guide, please feel free to
-[state it clearly in an issue](https://github.com/TheAlgorithms/Javascript/issues/new).
+Welcome to [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript)! Before sending your pull requests,
+make sure that you **read the whole guidelines**. If you have any doubts about the contributing guide, please feel free to
+[state them clearly in an issue](https://github.com/TheAlgorithms/JavaScript/issues/new) or by joining our [Discord community](https://the-algorithms.com/discord).
 
 ## Contributing
 
@@ -15,11 +15,11 @@ referenced and used by learners from around the globe. Being one of our contribu
 
 - You did your work - plagiarism is not allowed.
   - Any plagiarized work will not be merged.
-- Your work will be distributed under [GNU License](LICENSE) once your pull request is merged.
+- Your work will be distributed under the [GNU GPLv3.0](https://github.com/TheAlgorithms/JavaScript/blob/master/LICENSE) once your pull request is merged.
 - Your submitted work must fulfill our styles and standards.
 
-**New implementation** is welcome! For example, new solutions to a problem, different representations of a graph data
-structure or algorithm designs with different complexity.
+**New implementations** are welcome! For example, new solutions to a problem, different representations of a graph data
+structure, or algorithm designs with different complexity.
 
 **Improving comments** and **writing proper tests** are also highly welcome.
 
@@ -52,18 +52,39 @@ Algorithms should:
 Algorithms in this repo should not be how-to examples for existing JavaScript packages. Instead, they should perform
 internal calculations or manipulations to convert input values into different output values. Those calculations or
 manipulations can use data types, classes, or functions of existing JavaScript packages but each algorithm in this repo
-should add unique value.
+should add a unique value.
+
+#### Commit guidelines
+
+- Follow [**Conventional Commits**](https://www.conventionalcommits.org/en/v1.0.0/) guidelines at all times.
+- Use one of the following prefixes (there might be other miscellaneous prefixes, though).
+  - fix: A bug fix in an algorithm, workflow, configuration/settings, etc..
+  - feat: A new feature, such as new algorithms, new workflows, etc..
+  - docs: Documentation changes or fixes, like improving the contributing guidelines, fixing a typo, etc..
+  - test: Correct existing tests or add new ones.
+  - chore: Miscellaneous changes that do not match any of the above.
+
+Examples of best commit messages.
+
+```txt
+fix: fixed error in XYZ algorithm
+feat: re-work the CI workflow
+docs: improve the contributing guidelines
+test: add self-tests for XYZ algorithm
+chore: update readme badges
+```
 
 #### File Naming Convention
 
-- filenames should use the UpperCamelCase (PascalCase) style.
+- Filenames should use the UpperCamelCase (PascalCase) style.
 - There should be no spaces in filenames.
 - **Example:** `UserProfile.js` is allowed but `userprofile.js`,`Userprofile.js`,`user-Profile.js`,`userProfile.js` are
   not.
 
 #### Module System
 
-We use the [ES Module](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/) system, which bring an official, standardized module system to JavaScript.
+We use the [ES Module](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/) system, which brings an
+official, standardized module system to JavaScript.
 
 It roughly means you will need to use `export` and `import` statements instead of `module.exports` and `require()`.
 
@@ -71,10 +92,10 @@ It roughly means you will need to use `export` and `import` statements instead o
 
 Be confident that your code works. When was the last time you committed a code change, your build failed, and half of
 your app stopped working? Mine was last week. Writing tests for our Algorithms will help us ensure the implementations
-are air tight even after multiple fixes and code changes.
+are airtight even after multiple fixes and code changes.
 
-We use [Jest](https://jestjs.io/) to run unit tests on our algorithms. It provides a very readable and expressive way to
-structure your test code.
+We use [Vitest](https://vitest.dev/) to run unit tests on our algorithms. It provides a very readable and expressive
+way to structure your test code.
 
 It is advised that the algorithm file (module) does not contain any "live" code but rather just exports the function(s)
 needed to execute the algorithm. Your test code can import those function(s), call them with the appropriate parameters
@@ -82,52 +103,47 @@ and inspect the outcome. Example: [RatInAMaze.test.js](Backtracking/tests/RatInA
 
 Please refrain from using `console` in your implementation AND test code.
 
-First you should install all dependencies using:
+First, you should install all dependencies using:
 
-```shell
+```bash
 npm install
 ```
 
 You can (and should!) run all tests locally before committing your changes:
 
-```shell
+```bash
 npm test
 ```
 
-If you want save some time and just run a specific test:
+If you want to save some time and just run a specific test:
 
-```shell
+```bash
 # This will run any test file where the filename contains "koch" (no need to specify folder path)
 npm test -- koch
 ```
 
-You can also start Jest in "watch" mode:
+You can also start Vitest in "watch" mode:
 
-```shell
-npm test -- --watchAll
+```bash
+npm test-watch
 ```
 
 This will run all tests and watch source and test files for changes. When a change is made, the tests will run again.
 
 #### Coding Style
 
-To maximize the readability and correctness of our code, we require that new submissions follow the
-[JavaScript Standard Style](https://standardjs.com/).
+For consistency and readability, we require that new submissions follow the [Prettier Style](https://prettier.io/).
+Before committing, please format your code automatically using Prettier by running the following command:
 
-Before committing, please run
-
-```shell
+```bash
 npm run style
 ```
-
-In order to apply the coding style (where it can be done automatically). If an error is shown, please figure out what's
-wrong, fix it and run standard again.
 
 A few (but not all) of the things to keep in mind:
 
 - Use camelCase with the leading character as lowercase for identifier names (variables and functions).
 - Names start with a letter.
-- Follow code indentation: Always use 2 spaces for indentation of code blocks.
+- Follow code indentation: Always use 2 spaces for code-block indentation.
 
 ```js
 function sumOfArray(arrayOfNumbers) {
@@ -151,4 +167,4 @@ function sumOfArray(arrayOfNumbers) {
   - **Be consistent in the use of these guidelines when submitting.**
   - Happy coding!
 
-Writer [@itsvinayak](https://github.com/itsvinayak), May 2020.
+Writer [@itsvinayak](https://github.com/itsvinayak) and contributors, May 2020.

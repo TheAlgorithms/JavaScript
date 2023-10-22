@@ -1,4 +1,4 @@
-function euclideanGCDRecursive (first, second) {
+function euclideanGCDRecursive(first, second) {
   /*
     Calculates GCD of two numbers using Euclidean Recursive Algorithm
     :param first: First number
@@ -8,11 +8,11 @@ function euclideanGCDRecursive (first, second) {
   if (second === 0) {
     return first
   } else {
-    return euclideanGCDRecursive(second, (first % second))
+    return euclideanGCDRecursive(second, first % second)
   }
 }
 
-function euclideanGCDIterative (first, second) {
+function euclideanGCDIterative(first, second) {
   /*
     Calculates GCD of two numbers using Euclidean Iterative Algorithm
     :param first: First number

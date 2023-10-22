@@ -37,7 +37,7 @@ const CheckKishnamurthyNumber = (number) => {
     sumOfAllDigitFactorial += factorial(lastDigit)
     newNumber = Math.floor(newNumber / 10)
   }
-  // if the sumOftheFactorial is equal to the given number it means the number is a Krishnamurthy number.
+  // if the sumOfAllDigitFactorial is equal to the given number it means the number is a Krishnamurthy number.
   return sumOfAllDigitFactorial === number
 }
 

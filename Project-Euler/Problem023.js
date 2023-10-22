@@ -14,12 +14,12 @@
  */
 
 /**
- * collect the abundant numbers, generate and store their sums with each other, and check for numbers not in the llst of sums, adds them and returns their sum.
+ * collect the abundant numbers, generate and store their sums with each other, and check for numbers not in the list of sums, adds them and returns their sum.
  * @param {number} [n = 28123]
  * @returns {number}
  */
 
-function sumOfNonAbundantNumbers (n = 28123) {
+function sumOfNonAbundantNumbers(n = 28123) {
   const abundantNumbers = [] // array to store the abundant numbers
   const sumOfAbundantNumbers = {} // instead of an array, checking an object takes way less time. sets may be used as well.
   let sum = 0
@@ -27,7 +27,8 @@ function sumOfNonAbundantNumbers (n = 28123) {
   for (let i = 1; i <= n; i++) {
     if (isAbundant(i)) {
       abundantNumbers.push(i) // collect the abundant numbers
-      abundantNumbers.forEach(num => { // collect their sums
+      abundantNumbers.forEach((num) => {
+        // collect their sums
         const sum = num + i
         sumOfAbundantNumbers[sum] = true
       })
@@ -35,7 +36,8 @@ function sumOfNonAbundantNumbers (n = 28123) {
   }
 
   for (let i = 1; i <= n; i++) {
-    if (!sumOfAbundantNumbers[i]) { // if the number is not found in the list of sums, then it is added
+    if (!sumOfAbundantNumbers[i]) {
+      // if the number is not found in the list of sums, then it is added
       sum += i
     }
   }
@@ -49,10 +51,11 @@ function sumOfNonAbundantNumbers (n = 28123) {
  * @returns {bool}
  */
 
-function isAbundant (number) {
+function isAbundant(number) {
   let sum = 0
   for (let i = 1; i <= number / 2; i++) {
-    if (number % i === 0) { // generate divisors
+    if (number % i === 0) {
+      // generate divisors
       sum += i // calculate their sums
     }
   }

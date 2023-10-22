@@ -2,11 +2,11 @@
 
 const largestAdjacentNumber = (grid, consecutive) => {
   grid = grid.split('\n').join('')
-  const splitedGrid = grid.split('\n')
+  const splitGrid = grid.split('\n')
   let largestProd = 0
 
-  for (const row in splitedGrid) {
-    const currentRow = splitedGrid[row].split('').map(x => Number(x))
+  for (const row in splitGrid) {
+    const currentRow = splitGrid[row].split('').map((x) => Number(x))
 
     for (let i = 0; i < currentRow.length - consecutive; i++) {
       const combine = currentRow.slice(i, i + consecutive)

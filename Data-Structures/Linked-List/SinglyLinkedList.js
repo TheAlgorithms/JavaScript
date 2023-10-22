@@ -1,23 +1,24 @@
 /* SinglyLinkedList!!
-* A linked list is similar to an array, it holds a list of values.
-* However, links in a linked list do not have indexes. With
-* a linked list you do not need to predetermine its size as
-* it grows and shrinks as it is edited. This is an example of
-* a singly linked list.
-*/
+ * A linked list is similar to an array, it holds a list of values.
+ * However, links in a linked list do not have indexes. With
+ * a linked list you do not need to predetermine its size as
+ * it grows and shrinks as it is edited. This is an example of
+ * a singly linked list.
+ */
 
 // Methods - size, head, addLast, addFirst, addAt, removeFirst, removeLast, remove, removeAt, indexOf, isEmpty,  elementAt, findMiddle, get, clean, rotateListRight
 
 class Node {
-  constructor (data) {
+  constructor(data) {
     this.data = data
     this.next = null
   }
 }
 
 class LinkedList {
-  constructor (listOfValues) {
+  constructor(listOfValues) {
     this.headNode = null
+    this.tailNode = null
     this.length = 0
 
     if (listOfValues instanceof Array) {
@@ -28,48 +29,52 @@ class LinkedList {
   }
 
   // initiates the currentNode and currentIndex and return as an object
-  initiateNodeAndIndex () {
+  initiateNodeAndIndex() {
     return { currentNode: this.headNode, currentIndex: 0 }
   }
 
   // Returns length
-  size () {
+  size() {
     return this.length
   }
 
   // Returns the head
-  head () {
-    return this.headNode?.data || null
+  head() {
+    return this.headNode?.data ?? null
+  }
+
+  // Returns the tail
+  tail() {
+    return this.tailNode?.data ?? null
   }
 
   // Return if the list is empty
-  isEmpty () {
+  isEmpty() {
     return this.length === 0
   }
 
   // add a node at last it to linklist
-  addLast (element) {
+  addLast(element) {
     // Check if its the first element
     if (this.headNode === null) {
       return this.addFirst(element)
     }
-    let { currentNode } = this.initiateNodeAndIndex()
-
-    // Loop till there is a node present in the list
-    while (currentNode.next) {
-      currentNode = currentNode.next
-    }
-
     const node = new Node(element)
     // Adding node at the end of the list and increase the length
-    currentNode.next = node
+    this.tailNode.next = node
+    this.tailNode = node
     this.length++
     return this.size()
   }
 
   // add a node at first it to linklist
-  addFirst (element) {
+  addFirst(element) {
     const node = new Node(element)
+    // Check if its the first element
+    if (this.headNode === null) {
+      this.tailNode = node
+    }
+    // Adding node at the start of the list and increase the length
     node.next = this.headNode
     this.headNode = node
     this.length++
@@ -77,34 +82,43 @@ class LinkedList {
   }
 
   // remove the first from the linklist
-  removeFirst () {
+  removeFirst() {
+    // Check if head is null
+    if (this.headNode === null) {
+      return null
+    }
+    // Removing node at the start of the list and decrease the length
     const removedNode = this.headNode
-    if (this.length > 0) {
-      this.headNode = this.headNode.next
-      this.length--
+    this.headNode = this.headNode.next
+    this.length--
+    // Check if the list is empty
+    if (this.isEmpty()) {
+      this.tailNode = null
     }
     return removedNode?.data
   }
 
   // remove the last from the linklist
-  removeLast () {
+  removeLast() {
     if (this.isEmpty()) return null
+    // Check if there is only one element
     if (this.length === 1) {
       return this.removeFirst()
     }
-    let { currentIndex, currentNode } = this.initiateNodeAndIndex()
-    while (currentIndex !== this.length - 2) {
-      currentIndex++
+    // Removing node at the end of the list and decrease the length
+    const removedNode = this.tailNode
+    let { currentNode } = this.initiateNodeAndIndex()
+    while (currentNode.next.next) {
       currentNode = currentNode.next
     }
-    const removedNode = currentNode.next
     currentNode.next = null
+    this.tailNode = currentNode
     this.length--
     return removedNode.data
   }
 
   // Removes the node with the value as param
-  remove (element) {
+  remove(element) {
     if (this.isEmpty()) return null
     let { currentNode } = this.initiateNodeAndIndex()
     let removedNode = null
@@ -112,13 +126,17 @@ class LinkedList {
     if (currentNode.data === element) {
       return this.removeFirst()
     }
+    // Check if the tail node is the element to remove
+    if (this.tailNode.data === element) {
+      return this.removeLast()
+    }
     // Check which node is the node to remove
-    while (currentNode?.next) {
+    while (currentNode.next) {
       if (currentNode.next.data === element) {
         removedNode = currentNode.next
         currentNode.next = currentNode.next.next
         this.length--
-        break
+        return removedNode.data
       }
       currentNode = currentNode.next
     }
@@ -126,11 +144,10 @@ class LinkedList {
   }
 
   // Returns the index of the element passed as param otherwise -1
-  indexOf (element) {
-    let { currentIndex, currentNode } = this.initiateNodeAndIndex()
-
+  indexOf(element) {
+    if (this.isEmpty()) return -1
+    let { currentNode, currentIndex } = this.initiateNodeAndIndex()
     while (currentNode) {
-      // Checking if the node is the element we are searching for
       if (currentNode.data === element) {
         return currentIndex
       }
@@ -141,7 +158,7 @@ class LinkedList {
   }
 
   // Returns the element at an index
-  elementAt (index) {
+  elementAt(index) {
     if (index >= this.length || index < 0) {
       throw new RangeError('Out of Range index')
     }
@@ -154,7 +171,7 @@ class LinkedList {
   }
 
   // Adds the element at specified index
-  addAt (index, element) {
+  addAt(index, element) {
     // Check if index is out of bounds of list
     if (index > this.length || index < 0) {
       throw new RangeError('Out of Range index')
@@ -179,13 +196,13 @@ class LinkedList {
   }
 
   // Removes the node at specified index
-  removeAt (index) {
+  removeAt(index) {
     // Check if index is present in list
     if (index < 0 || index >= this.length) {
       throw new RangeError('Out of Range index')
     }
     if (index === 0) return this.removeFirst()
-    if (index === this.length) return this.removeLast()
+    if (index === this.length - 1) return this.removeLast()
 
     let { currentIndex, currentNode } = this.initiateNodeAndIndex()
     while (currentIndex !== index - 1) {
@@ -194,13 +211,12 @@ class LinkedList {
     }
     const removedNode = currentNode.next
     currentNode.next = currentNode.next.next
-    // Decrementing the length
     this.length--
     return removedNode.data
   }
 
   // Returns a reference to middle node of linked list
-  findMiddle () {
+  findMiddle() {
     // If there are two middle nodes, return the second middle node.
     let fast = this.headNode
     let slow = this.headNode
@@ -213,55 +229,50 @@ class LinkedList {
   }
 
   // make the linkedList Empty
-  clean () {
+  clean() {
     this.headNode = null
+    this.tailNode = null
     this.length = 0
   }
 
   // Method to get the LinkedList
-  get () {
+  get() {
     const list = []
     let { currentNode } = this.initiateNodeAndIndex()
     while (currentNode) {
       list.push(currentNode.data)
       currentNode = currentNode.next
     }
-
     return list
   }
 
   // Method for Rotating a List to the right by k places
-  rotateListRight (k) {
-    let i = 0
+  rotateListRight(k) {
+    if (!this.headNode) return
     let current = this.headNode
-    while (current) {
-      i++
+    let tail = this.tailNode
+    let count = 1
+    while (current.next) {
+      count++
       current = current.next
     }
-    k %= i
-    current = this.headNode
-    let prev = null
-    while (k--) {
-      if (!current || !current.next) {
-        return current
-      } else {
-        while (current.next) {
-          prev = current
-          current = current.next
-        }
-        prev.next = current.next
-        current.next = this.headNode
-        this.headNode = current
-      }
+    current.next = this.headNode
+    tail = current
+    k %= count
+    while (count - k > 0) {
+      tail = tail.next
+      count--
     }
+    this.headNode = tail.next
+    tail.next = null
   }
 
   // Method to iterate over the LinkedList
-  iterator () {
+  iterator() {
     let { currentNode } = this.initiateNodeAndIndex()
     if (currentNode === null) return -1
 
-    const iterate = function * () {
+    const iterate = function* () {
       while (currentNode) {
         yield currentNode.data
         currentNode = currentNode.next
@@ -271,8 +282,23 @@ class LinkedList {
   }
 
   // Method to log the LinkedList
-  log () {
+  log() {
     console.log(JSON.stringify(this.headNode, null, 2))
+  }
+
+  // Method to reverse the LinkedList
+  reverse() {
+    let head = this.headNode
+    let prev = null
+    let next = null
+    while (head) {
+      next = head.next
+      head.next = prev
+      prev = head
+      head = next
+    }
+    this.tailNode = this.headNode
+    this.headNode = prev
   }
 }
 

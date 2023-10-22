@@ -1,6 +1,6 @@
 import { upperCaseConversion } from '../UpperCaseConversion'
 
-describe(('Test the upperCaseConversion function'), () => {
+describe('Test the upperCaseConversion function', () => {
   it('should return an empty string when the input is an empty string', () => {
     expect(upperCaseConversion('')).toEqual('')
   })
@@ -26,7 +26,9 @@ describe(('Test the upperCaseConversion function'), () => {
   })
 
   it('should return an all-uppercase string when input is an all-lowercase string with punctuation', () => {
-    expect(upperCaseConversion('lower-case, input.')).toEqual('LOWER-CASE, INPUT.')
+    expect(upperCaseConversion('lower-case, input.')).toEqual(
+      'LOWER-CASE, INPUT.'
+    )
   })
 
   it('should return an all-uppercase string when input is an mixed-case string', () => {
@@ -38,6 +40,8 @@ describe(('Test the upperCaseConversion function'), () => {
   })
 
   it('should return an all-uppercase string when input is an mixed-case string with punctuation', () => {
-    expect(upperCaseConversion('mixeD-CaSe INPuT!')).toEqual('MIXED-CASE INPUT!')
+    expect(upperCaseConversion('mixeD-CaSe INPuT!')).toEqual(
+      'MIXED-CASE INPUT!'
+    )
   })
 })

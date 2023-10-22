@@ -48,11 +48,17 @@ const partition = (partitionList, low, high) => {
   for (let index = low; index <= high - 1; index++) {
     if (partitionList[index] < pivot) {
       // swap variables using array destructuring
-      [partitionList[index], partitionList[pIndex]] = [partitionList[pIndex], partitionList[index]]
+      ;[partitionList[index], partitionList[pIndex]] = [
+        partitionList[pIndex],
+        partitionList[index]
+      ]
       pIndex += 1
     }
   }
-  [partitionList[pIndex], partitionList[high]] = [partitionList[high], partitionList[pIndex]]
+  ;[partitionList[pIndex], partitionList[high]] = [
+    partitionList[high],
+    partitionList[pIndex]
+  ]
   return pIndex
 }
 

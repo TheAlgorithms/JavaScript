@@ -36,7 +36,8 @@ describe('Testing LFUCache class', () => {
       leastFrequency: 2
     })
 
-    const json = '{"misses":3,"hits":6,"cache":{"2":{"key":"2","value":2,"frequency":4},"4":{"key":"4","value":4,"frequency":2}}}'
+    const json =
+      '{"misses":3,"hits":6,"cache":{"2":{"key":"2","value":2,"frequency":4},"4":{"key":"4","value":4,"frequency":2}}}'
     expect(cache.toString()).toBe(json)
 
     const cacheInstance = cache.parse(json) // again merge the json
@@ -45,7 +46,8 @@ describe('Testing LFUCache class', () => {
 
     cache.capacity = 1 // decrease the capacity
 
-    expect(cache.info).toEqual({ // after merging the info
+    expect(cache.info).toEqual({
+      // after merging the info
       misses: 6,
       hits: 12,
       capacity: 1,

@@ -9,7 +9,7 @@
  * The members of array are coefficients and their indexes as exponents.
  */
 class Polynomial {
-  constructor (array) {
+  constructor(array) {
     this.coefficientArray = array // array of coefficients
     this.polynomial = '' // in terms of x e.g. (2x) + (1)
     this.construct()
@@ -18,7 +18,7 @@ class Polynomial {
   /**
    * Function to construct the polynomial in terms of x using the coefficientArray
    */
-  construct () {
+  construct() {
     this.polynomial = this.coefficientArray
       .map((coefficient, exponent) => {
         if (coefficient === 0) {
@@ -32,9 +32,7 @@ class Polynomial {
           return `(${coefficient}x^${exponent})`
         }
       })
-      .filter((x) =>
-        x !== '0'
-      )
+      .filter((x) => x !== '0')
       .reverse()
       .join(' + ')
   }
@@ -43,7 +41,7 @@ class Polynomial {
    * Function to display polynomial in terms of x
    * @returns {String} of polynomial representation in terms of x
    */
-  display () {
+  display() {
     return this.polynomial
   }
 
@@ -51,7 +49,7 @@ class Polynomial {
    * Function to calculate the value of the polynomial by substituting variable x
    * @param {Number} value
    */
-  evaluate (value) {
+  evaluate(value) {
     return this.coefficientArray.reduce((result, coefficient, exponent) => {
       return result + coefficient * Math.pow(value, exponent)
     }, 0)

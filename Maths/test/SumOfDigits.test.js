@@ -1,4 +1,8 @@
-import { sumOfDigitsUsingLoop, sumOfDigitsUsingRecursion, sumOfDigitsUsingString } from '../SumOfDigits'
+import {
+  sumOfDigitsUsingLoop,
+  sumOfDigitsUsingRecursion,
+  sumOfDigitsUsingString
+} from '../SumOfDigits'
 
 test('Testing on sumOfDigitsUsingLoop', () => {
   const sum = sumOfDigitsUsingLoop(123)

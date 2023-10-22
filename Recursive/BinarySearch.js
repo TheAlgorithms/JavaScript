@@ -1,4 +1,3 @@
-
 /**
  * @function BinarySearch
  * @description Search the integer inside the sorted integers array using Binary Search Algorithm.

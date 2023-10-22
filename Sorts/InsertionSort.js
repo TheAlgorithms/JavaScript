@@ -5,13 +5,13 @@
  * the correct position and expand sorted part one element at a time.
  */
 
-export function insertionSort (unsortedList) {
+export function insertionSort(unsortedList) {
   const len = unsortedList.length
   for (let i = 1; i < len; i++) {
     let j
     const tmp = unsortedList[i] // Copy of the current element.
     /* Check through the sorted part and compare with the number in tmp. If large, shift the number */
-    for (j = i - 1; j >= 0 && (unsortedList[j] > tmp); j--) {
+    for (j = i - 1; j >= 0 && unsortedList[j] > tmp; j--) {
       // Shift the number
       unsortedList[j + 1] = unsortedList[j]
     }
@@ -38,7 +38,7 @@ export function insertionSort (unsortedList) {
         - O(1)
 */
 
-export function insertionSortAlternativeImplementation (array) {
+export function insertionSortAlternativeImplementation(array) {
   const length = array.length
   if (length < 2) return array
 

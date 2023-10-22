@@ -8,7 +8,7 @@
 // Time complexity: O(m + n), m and n being the sizes of string A and string B
 
 // Find the bistrings of a string and return a hashmap (key => bistring, value => count)
-function mapBigrams (string) {
+function mapBigrams(string) {
   const bigrams = new Map()
   for (let i = 0; i < string.length - 1; i++) {
     const bigram = string.substring(i, i + 2)
@@ -20,7 +20,7 @@ function mapBigrams (string) {
 
 // Calculate the number of common bigrams between a map of bigrams and a string
 
-function countCommonBigrams (bigrams, string) {
+function countCommonBigrams(bigrams, string) {
   let count = 0
   for (let i = 0; i < string.length - 1; i++) {
     const bigram = string.substring(i, i + 2)
@@ -30,7 +30,7 @@ function countCommonBigrams (bigrams, string) {
 }
 
 // Calculate Dice coeff of 2 strings
-function diceCoefficient (stringA, stringB) {
+function diceCoefficient(stringA, stringB) {
   if (stringA === stringB) return 1
   else if (stringA.length < 2 || stringB.length < 2) return 0
 
