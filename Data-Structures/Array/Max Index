@@ -1,0 +1,53 @@
+<script>
+
+	// Javascript program to implement
+	// the above approach
+	
+	// For a given array []arr,
+	// calculates the maximum j – i
+	// such that arr[j] > arr[i]
+	
+	let v = [34, 8, 10, 3, 2, 80, 30, 33, 1];
+	let n = v.length;
+	let maxFromEnd = new Array(n + 1);
+
+	for (let i = 0; i < maxFromEnd.length; i++)
+	maxFromEnd[i] = Number.MIN_VALUE;
+
+	// Create an array maxfromEnd
+	for (let i = v.length - 1; i >= 0; i--)
+	{
+	maxFromEnd[i] = Math.max(maxFromEnd[i + 1], v[i]);
+	}
+
+	let result = 0;
+
+	for (let i = 0; i < v.length; i++)
+	{
+	let low = i + 1, high = v.length - 1, ans = i;
+
+	while (low <= high)
+	{
+		let mid = parseInt((low + high) / 2, 10);
+
+		if (v[i] <= maxFromEnd[mid])
+		{
+		// We store this as current
+		// answer and look for further
+		// larger number to the right side
+		ans = Math.max(ans, mid);
+		low = mid + 1;
+		}
+		else
+		{
+		high = mid - 1;
+		}
+	}
+
+	// Keeping a track of the
+	// maximum difference in indices
+	result = Math.max(result, ans - i);
+	}
+	document.write(result);
+
+</script>
