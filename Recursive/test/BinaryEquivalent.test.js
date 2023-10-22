@@ -19,9 +19,9 @@ const tests = [
     }
 ]
 
-describe("Binary Equivalent Tests", () => {
+describe("Binary Equivalent", () => {
     test.each(tests)(
-        "Binary Equivalent of $test should be $expectedValue",
+        "of $test should be $expectedValue",
         ({test, expectedValue}) => {
             expect(binaryEquivalent(test)).toBe(expectedValue);
         }
