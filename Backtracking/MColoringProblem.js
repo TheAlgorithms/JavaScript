@@ -1,10 +1,10 @@
-//https://en.wikipedia.org/wiki/Edge_coloring
-
-// M Coloring Problem
-// Given an adjacency matrix representation of a graph and a number M, 
-// determine if the graph can be colored with up to M colors such that 
-// no two adjacent vertices share the same color.
-
+/**
+ * Colors a graph using up to m colors such that no two adjacent vertices share the same color.
+ * @param {number[][]} graph - Adjacency matrix of the graph, using 0 for no edge.
+ * @param {number} m - The number of colors to use.
+ * @returns {?Array.<number>} A valid M-coloring of the graph using colors 1 to m, or null if none exists.
+ * @see https://en.wikipedia.org/wiki/Graph_coloring
+ */
 function mColoring(graph, m) {
   const colors = new Array(graph.length).fill(0);
 
