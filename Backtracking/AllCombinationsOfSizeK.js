@@ -21,29 +21,31 @@
   - Once we get all combinations of that element, pop it and do same for next element
 */
 
-class Combinations {
-  constructor(n, k) {
-    this.n = n
-    this.k = k
-    this.current = [] // will be used for storing current combination
-    this.combinations = []
-    this.i = 1
+function generateCombinations(n, k) {
+  let currentCombination = [] 
+  let allCombinations = [] // will be used for storing all combinations
+  let currentValue = 1
+
+  function findCombinations() {
+    if (currentCombination.length === k) {
+      // Add the array of size k to the allCombinations array
+      allCombinations.push([...currentCombination])
+      return
+    }
+    if (currentValue > n) {
+      // Check for exceeding the range
+      return
+    }
+    currentCombination.push(currentValue++)
+    findCombinations()
+    currentCombination.pop()
+    findCombinations()
+    currentValue--
   }
 
-  findCombinations() {
-   if (this.current.length == this.k) { //will add the array of size k to combinations array
-        this.combinations.push([...this.current])
-        return
-      }
-    if (this.i > this.n) //check for exceeding range
-        return
-    this.current.push(this.i++)
-    this.findCombinations()
-    this.current.pop()
-    this.findCombinations()
-    this.i--
-    return this.combinations
-  }
+  findCombinations()
+
+  return allCombinations
 }
 
-export { Combinations }
+export { generateCombinations }
