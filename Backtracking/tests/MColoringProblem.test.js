@@ -1,4 +1,4 @@
-import { MColoring } from '../MColoringProblem';
+import { mColoring } from '../MColoringProblem';
 
 describe('MColoringProblem', () => {
   it('should color a triangle with 3 colors', () => {
@@ -7,9 +7,8 @@ describe('MColoringProblem', () => {
       [1, 0, 1],
       [1, 1, 0]
     ];
-    const test1 = new MColoring(graph, 3);
-    const solution = test1.getSolution();
-    expect(solution).not.toEqual([]);
+    const solution = mColoring(graph, 3);
+    expect(solution).not.toBeNull();
   });
 
   it('should not color a triangle with 2 colors', () => {
@@ -18,8 +17,7 @@ describe('MColoringProblem', () => {
       [1, 0, 1],
       [1, 1, 0]
     ];
-    const test2 = new MColoring(graph, 2);
-    const solution = test2.getSolution();
-    expect(solution).toEqual([]);
+    const solution = mColoring(graph, 2);
+    expect(solution).toBeNull();
   });
 });
