@@ -3,7 +3,7 @@
 // Problem statement - https://www.codingninjas.com/studio/problems/selling-stock_630282?
 //************* Brute Force Approach *************
 
-function maximumProfit(prices){
+export function maximumProfit(prices){
    
     let profit=0;
     for(let i=0;i<prices.length;i++){
@@ -18,17 +18,12 @@ function maximumProfit(prices){
     return profit;
    
 }
-// For user to give input
-let prices=prompt("Enter the prices:").split(" ");
 
-const our_profit=maximumProfit(prices);
-// To view the output
-document.write(our_profit);
  // Time Complexity-O(N^2)
 //  Space Complexity -O(1)
 
 //**************** Optimal Approach**********
-function maximumProfit(prices1){
+export function maximumProfit(prices1){
    
     let profit1=0;
     let min=prices1[0];
@@ -45,10 +40,7 @@ function maximumProfit(prices1){
     
 }
 
-let prices1=prompt("Enter the prices:").split(" ");
 
-const our_profit1=maximumProfit(prices);
-document.write(our_profit1);
 
 // Time Complexity-O(N)
 //  Space Complexity -O(1)
