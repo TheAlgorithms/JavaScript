@@ -3,24 +3,34 @@
  * https://en.wikipedia.org/wiki/Knapsack_problem
  */
 
+// Memoization Approach (Top Down) for calculating Zero One Knapsack
+// Time Complexity: O(n*cap)
+// Space Complexity: O(n*cap)
 const zeroOneKnapsack = (arr, n, cap, cache) => {
+  // Base Case ()
   if (cap === 0 || n === 0) {
     cache[n][cap] = 0
     return cache[n][cap]
   }
+
+  // Lookup (value already calculated)
   if (cache[n][cap] !== -1) {
     return cache[n][cap]
   }
+
+  // Exclude the nth item
+  let notPick = zeroOneKnapsack(arr, n - 1, cap, cache)
+
+  // Include the nth item
+  let pick = 0
   if (arr[n - 1][0] <= cap) {
-    cache[n][cap] = Math.max(
-      arr[n - 1][1] + zeroOneKnapsack(arr, n - 1, cap - arr[n - 1][0], cache),
-      zeroOneKnapsack(arr, n - 1, cap, cache)
-    )
-    return cache[n][cap]
-  } else {
-    cache[n][cap] = zeroOneKnapsack(arr, n - 1, cap, cache)
-    return cache[n][cap]
+    // If weight of the nth item is within the capacity
+    pick =
+      arr[n - 1][1] + zeroOneKnapsack(arr, n - 1, cap - arr[n - 1][0], cache)
   }
+
+  cache[n][cap] = Math.max(pick, notPick)
+  return cache[n][cap]
 }
 
 const example = () => {
