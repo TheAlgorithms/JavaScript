@@ -166,6 +166,7 @@
   * [Area](Maths/Area.js)
   * [ArithmeticGeometricMean](Maths/ArithmeticGeometricMean.js)
   * [ArmstrongNumber](Maths/ArmstrongNumber.js)
+  * [AutomorphicNumber](Maths/AutomorphicNumber.js)
   * [AverageMean](Maths/AverageMean.js)
   * [AverageMedian](Maths/AverageMedian.js)
   * [BinaryConvert](Maths/BinaryConvert.js)
