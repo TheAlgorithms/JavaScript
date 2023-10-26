@@ -1,0 +1,23 @@
+function bitwiseOperations(num1, num2) {
+    const andResult = num1 & num2;
+    const orResult = num1 | num2;
+    const xorResult = num1 ^ num2;
+    const notResult = ~num1;
+
+    return {
+        "Bitwise AND": andResult,
+        "Bitwise OR": orResult,
+        "Bitwise XOR": xorResult,
+        "Bitwise NOT": notResult,
+    };
+}
+
+const num1 = 5; // Binary: 0101
+const num2 = 3; // Binary: 0011
+
+const results = bitwiseOperations(num1, num2);
+
+console.log(`Bitwise AND: ${results["Bitwise AND"]}`);
+console.log(`Bitwise OR: ${results["Bitwise OR"]}`);
+console.log(`Bitwise XOR: ${results["Bitwise XOR"]}`);
+console.log(`Bitwise NOT (num1): ${results["Bitwise NOT"]}`);
