@@ -1,6 +1,7 @@
+// https://www.geeksforgeeks.org/tug-of-war/
+
 // Given an array of n integers, we need to divide them into two subsets such that 
 // the difference between their sums is minimized.
-
 
 /**
  * @param {number[]} arr - The array of integers.
