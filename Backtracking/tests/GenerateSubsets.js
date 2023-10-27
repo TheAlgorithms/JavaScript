@@ -1,3 +1,5 @@
+// we define a generateSubsets function that uses backtracking to generate all possible subsets of a given set (array of numbers). The backtrack function is a recursive function that explores all possible subsets by considering or excluding each element.
+
 import { generateSubsets } from '../GenerateSubsets'
 
 describe('generateSubsets', () => {
