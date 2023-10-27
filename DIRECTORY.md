@@ -10,6 +10,7 @@
   * [SumOfSubset](Backtracking/SumOfSubset.js)
 * **Bit-Manipulation**
   * [BinaryCountSetBits](Bit-Manipulation/BinaryCountSetBits.js)
+  * [GenerateSubSets](Bit-Manipulation/GenerateSubSets.js)
   * [GrayCodes](Bit-Manipulation/GrayCodes.js)
   * [IsPowerofFour](Bit-Manipulation/IsPowerofFour.js)
   * [IsPowerOfTwo](Bit-Manipulation/IsPowerOfTwo.js)
