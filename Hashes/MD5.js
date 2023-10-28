@@ -77,6 +77,25 @@ function u8ToU32(u8Array) {
 }
 
 /**
+ * Converts Uint32Array to Uint8Array
+ *
+ * @param {Uint32Array} u32Array Uint32Array to convert
+ * @returns {Uint8Array} - Required Uint8Array
+ */
+function u32ToU8(u32Array) {
+  const uint8Array = new Uint8Array(u32Array.length * 4)
+
+  for (let i = 0; i < u32Array.length; i++) {
+    uint8Array[i * 4] = u32Array[i] & 0xff
+    uint8Array[i * 4 + 1] = (u32Array[i] >> 8) & 0xff
+    uint8Array[i * 4 + 2] = (u32Array[i] >> 16) & 0xff
+    uint8Array[i * 4 + 3] = (u32Array[i] >> 24) & 0xff
+  }
+
+  return uint8Array
+}
+
+/**
  * Adds padding to the end of the given array
  *
  * @param {Uint8Array} u8Array Array to pad
@@ -129,7 +148,7 @@ function preProcess(message) {
  * For more info: https://en.wikipedia.org/wiki/MD5
  *
  * @param {Uint8Array} message - message to hash
- * @return {Uint32Array} - message digest (hash value)
+ * @return {Uint8Array} - message digest (hash value)
  */
 function MD5(message) {
   // Initialize variables:
@@ -179,7 +198,7 @@ function MD5(message) {
     d0 = (d0 + D) >>> 0
   })
 
-  return new Uint32Array([a0, b0, c0, d0])
+  return u32ToU8([a0, b0, c0, d0])
 }
 
 // export MD5 function
