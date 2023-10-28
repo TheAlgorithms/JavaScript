@@ -26,9 +26,9 @@ const K = [
 /**
  * Separates an array into equal sized chunks
  *
- * @param {Array} array - array to separate into chunks
- * @param {int} size - number of elements wanted in each chunk
- * @return {array} - array of original array split into chunks
+ * @param {Array|string} array - array or string to separate into chunks
+ * @param {number} size - number of elements wanted in each chunk
+ * @return {Array} - array of original array split into chunks
  *
  * @example
  *      chunkify("this is a test", 2)
@@ -45,11 +45,11 @@ function chunkify(array, size) {
  * Rotates the bits to the left
  *
  * @param {number} bits - 32 bit number
- * @param {int} turns - number of rotations to make
- * @return {string} - number after bits rotation
+ * @param {number} turns - number of rotations to make
+ * @return {number} - number after bits rotation
  *
  * @example
- *      rotateLeft("1011", 3); // "1101"
+ *      rotateLeft(0b1011, 3); // 0b1011000
  */
 function rotateLeft(bits, turns) {
   return (bits << turns) | (bits >>> (32 - turns))
@@ -99,7 +99,7 @@ function u32ToU8(u32Array) {
  * Adds padding to the end of the given array
  *
  * @param {Uint8Array} u8Array Array to pad
- * @param {Number} size Resulting size of the array
+ * @param {number} size Resulting size of the array
  */
 function padEnd(u8Array, size) {
   const result = new Uint8Array(size)
