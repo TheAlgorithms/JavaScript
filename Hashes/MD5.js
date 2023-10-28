@@ -133,7 +133,12 @@ function preProcess(message) {
  */
 function MD5(message) {
   // Initialize variables:
-  let [a0, b0, c0, d0] = [0x67452301, 0xefcdab89, 0x98badcfe, 0x10325476]
+  let [a0, b0, c0, d0] = [
+    0x67452301 >>> 0,
+    0xefcdab89 >>> 0,
+    0x98badcfe >>> 0,
+    0x10325476 >>> 0
+  ]
 
   // pre-process message and split into 512 bit chunks
   const words = Array.from(preProcess(message))
@@ -160,21 +165,21 @@ function MD5(message) {
         g = (7 * i) % 16
       }
 
-      F = F + A + K[i] + chunk[g]
+      F = (F + A + K[i] + chunk[g]) >>> 0
       A = D
       D = C
       C = B
-      B = (B + (rotateLeft(F, S[i]) % 0xFFFFFFFF)) >>> 0
+      B = ((B + rotateLeft(F, S[i])) & 0xffffffff) >>> 0
     }
 
     // add values for this chunk to main hash variables (unsigned)
-    a0 = a0 + A
-    b0 = b0 + B
-    c0 = c0 + C
-    d0 = d0 + D
+    a0 = (a0 + A) >>> 0
+    b0 = (b0 + B) >>> 0
+    c0 = (c0 + C) >>> 0
+    d0 = (d0 + D) >>> 0
   })
 
-  return [a0, b0, c0, d0]
+  return new Uint32Array([a0, b0, c0, d0])
 }
 
 // export MD5 function
