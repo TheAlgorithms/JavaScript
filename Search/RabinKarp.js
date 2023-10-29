@@ -50,7 +50,7 @@ function rabinKarpSearch(text, pattern) {
     }
   }
 
-  return indices.length > 0 ? indices : [] // Return an array of indices where the pattern is found or empty array if not found
+  return indices
 }
 
 function hash(str, length) {
