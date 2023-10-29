@@ -9,7 +9,7 @@ const microConvert = (n, base1, base2) => {
   return converted;
 };
 
-const convert = (num, frombase, tobase) => {
+const convertBase = (num, frombase, tobase) => {
   return microConvert(microConvert(num, frombase, 10), 10, tobase);
 };
 
