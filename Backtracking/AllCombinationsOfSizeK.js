@@ -20,32 +20,31 @@
   - Take one element, and make all them combinations for k-1 elements
   - Once we get all combinations of that element, pop it and do same for next element
 */
-
 function generateCombinations(n, k) {
-  let currentCombination = [] 
-  let allCombinations = [] // will be used for storing all combinations
-  let currentValue = 1
+  let currentCombination = [];
+  let allCombinations = []; // will be used for storing all combinations
+  let currentValue = 1;
 
   function findCombinations() {
     if (currentCombination.length === k) {
       // Add the array of size k to the allCombinations array
-      allCombinations.push([...currentCombination])
-      return
+      allCombinations.push([...currentCombination]);
+      return;
     }
     if (currentValue > n) {
       // Check for exceeding the range
-      return
+      return;
     }
-    currentCombination.push(currentValue++)
-    findCombinations()
-    currentCombination.pop()
-    findCombinations()
-    currentValue--
+    currentCombination.push(currentValue++);
+    findCombinations();
+    currentCombination.pop();
+    findCombinations();
+    currentValue--;
   }
 
-  findCombinations()
+  findCombinations();
 
-  return allCombinations
+  return allCombinations;
 }
 
-export { generateCombinations }
+export { generateCombinations };
