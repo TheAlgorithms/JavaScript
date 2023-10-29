@@ -2,9 +2,9 @@ import {
   convertBase
 } from '../ConvertBase'
 
-test('Converting number 10010 from base 4 to base 10 should be 272', () => {
+test('Converting number 10010 from base 4 to base 10 should be 260', () => {
   const res = convertBase(10010, 4, 10)
-  expect(res).toBe(272)
+  expect(res).toBe(260)
 })
 
 test('Converting number 1101 from base 2 to base 10 should be 13', () => {
