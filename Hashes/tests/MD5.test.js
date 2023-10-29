@@ -22,13 +22,13 @@ describe('Testing MD5 function', () => {
     expect(hash).toBe('9e107d9d372bb6826bd81d3542a419d6')
   })
 
-  it('should return the correct hash for "The quick brown fox jumps over the lazy dog."', () => {
+  it('should return the correct hash for "JavaScript!"', () => {
     const input = new TextEncoder().encode(
-      'The quick brown fox jumps over the lazy dog.'
+      'JavaScript!'
     )
     const hash = hexMD5(input)
 
-    expect(hash).toBe('e4d909c290d0fb1ca068ffaddf22cbd0')
+    expect(hash).toBe('209eddd6b61af0643907a8e069a08fb8')
   })
 
   it('should correctly hash an empty string', () => {
