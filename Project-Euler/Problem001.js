@@ -20,4 +20,4 @@ const multiplesThreeAndFive = num => {
 	return sum
 }
 
-export {multiplesThreeAndFive}
+export { multiplesThreeAndFive }
