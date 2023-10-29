@@ -1,13 +1,11 @@
 /**
  * A Dynamic Programming based solution for calculating Zero One Knapsack
  * https://en.wikipedia.org/wiki/Knapsack_problem
+ *
+ * Time and Space Complexity: O(n*cap)
  */
-
-// Memoization Approach (Top Down) for calculating Zero One Knapsack
-// Time Complexity: O(n*cap)
-// Space Complexity: O(n*cap)
 const zeroOneKnapsack = (arr, n, cap, cache) => {
-  // Base Case ()
+  // Base Case: No capacity or no items
   if (cap === 0 || n === 0) {
     cache[n][cap] = 0
     return cache[n][cap]
@@ -18,10 +16,10 @@ const zeroOneKnapsack = (arr, n, cap, cache) => {
     return cache[n][cap]
   }
 
-  // Exclude the nth item
+  // Profit when excluding the nth item
   let notPick = zeroOneKnapsack(arr, n - 1, cap, cache)
 
-  // Include the nth item
+  // Profit when including the nth item
   let pick = 0
   if (arr[n - 1][0] <= cap) {
     // If weight of the nth item is within the capacity
@@ -29,7 +27,7 @@ const zeroOneKnapsack = (arr, n, cap, cache) => {
       arr[n - 1][1] + zeroOneKnapsack(arr, n - 1, cap - arr[n - 1][0], cache)
   }
 
-  cache[n][cap] = Math.max(pick, notPick)
+  cache[n][cap] = Math.max(pick, notPick) // maximize profit
   return cache[n][cap]
 }
 
