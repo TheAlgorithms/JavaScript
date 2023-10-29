@@ -23,9 +23,7 @@ describe('Testing MD5 function', () => {
   })
 
   it('should return the correct hash for "JavaScript!"', () => {
-    const input = new TextEncoder().encode(
-      'JavaScript!'
-    )
+    const input = new TextEncoder().encode('JavaScript!')
     const hash = hexMD5(input)
 
     expect(hash).toBe('209eddd6b61af0643907a8e069a08fb8')
