@@ -303,6 +303,7 @@
   * [Palindrome](Recursive/Palindrome.js)
   * [SubsequenceRecursive](Recursive/SubsequenceRecursive.js)
   * [TowerOfHanoi](Recursive/TowerOfHanoi.js)
+  * [TugOfWar](Recursive/TugOfWar.js)
 * **Search**
   * [BinarySearch](Search/BinarySearch.js)
   * [ExponentialSearch](Search/ExponentialSearch.js)
