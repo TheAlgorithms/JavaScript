@@ -161,6 +161,7 @@
   * [NumberOfIslands](Graphs/NumberOfIslands.js)
   * [PrimMST](Graphs/PrimMST.js)
 * **Hashes**
+  * [MD5](Hashes/MD5.js)
   * [SHA1](Hashes/SHA1.js)
   * [SHA256](Hashes/SHA256.js)
 * **Maths**
