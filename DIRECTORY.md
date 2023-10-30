@@ -8,7 +8,6 @@
   * [RatInAMaze](Backtracking/RatInAMaze.js)
   * [Sudoku](Backtracking/Sudoku.js)
   * [SumOfSubset](Backtracking/SumOfSubset.js)
-  * [TugOfWar](Backtracking/TugOfWar.js)
 * **Bit-Manipulation**
   * [BinaryCountSetBits](Bit-Manipulation/BinaryCountSetBits.js)
   * [GenerateSubSets](Bit-Manipulation/GenerateSubSets.js)
