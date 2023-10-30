@@ -311,6 +311,7 @@
   * [LinearSearch](Search/LinearSearch.js)
   * [Minesweeper](Search/Minesweeper.js)
   * [QuickSelectSearch](Search/QuickSelectSearch.js)
+  * [RabinKarp](Search/RabinKarp.js)
   * [SlidingWindow](Search/SlidingWindow.js)
   * [StringSearch](Search/StringSearch.js)
   * [TernarySearch](Search/TernarySearch.js)
