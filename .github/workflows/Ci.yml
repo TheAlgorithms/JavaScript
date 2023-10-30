@@ -25,7 +25,7 @@ jobs:
         run: npm run test
 
       - name: 💄 Code style
-        run: npm run style
+        run: npm run check-style
 
   codespell:
     name: Check for spelling errors
