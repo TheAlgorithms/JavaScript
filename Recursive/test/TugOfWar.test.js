@@ -1,4 +1,4 @@
-import { tugOfWar } from '../TugOfWar';
+import { tugOfWar } from './tugOfWar';
 
 describe('tugOfWar', () => {
     it('should divide array into two subsets with minimized sum difference', () => {
@@ -6,6 +6,8 @@ describe('tugOfWar', () => {
         const [subset1, subset2] = tugOfWar(arr);
         const diff = Math.abs(subset1.reduce((a, b) => a + b, 0) - subset2.reduce((a, b) => a + b, 0));
         
-        expect(diff).toBeLessThanOrEqual(1);  // Here we assume that the difference could be 0 or 1 for this test case.
+        expect(diff).toBeLessThanOrEqual(1);  // Assume that the difference could be 0 or 1 for this test case.
     });
+
+    // You can add more test cases
 });
