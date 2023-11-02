@@ -1,46 +1,47 @@
 /**
  * @description
- * Given two strings, `a` and `b`, determine if it's possible to make `a` equal
- * to `b` You can perform the following operations on the string `a`:
- * 1. Capitalize zero or more of `a`'s lowercase letters.
- * 2. Delete all the remaining lowercase letters in `a`.
+ * Given two strings, `source` and `target`, determine if it's possible to make `source` equal
+ * to `target` You can perform the following operations on the string `source`:
+ * 1. Capitalize zero or more of `source`'s lowercase letters.
+ * 2. Delete all the remaining lowercase letters in `source`.
  *
- * ### Algorithm
- * The idea is in the problem statement itself: iterate through characters of
- * string `a` and `b` (for character indexes `i` and `j` respectively):
- * 1. If `a[i]` and `b[j]` are equal, then move to next position
- * 2. If `a[i]` is lowercase of `b[j]`, then explore two possibilities:
- * a) Capitalize `a[i]` or
- * b) Skip `a[i]`
- * 3. If the `a[i]` is not uppercase, just discard that character, else return
- * `false`
+ * Time Complexity: (O(|source|*|target|)) where `|source|` => length of string `source`
  *
- * Time Complexity: (O(|a|*|b|)) where `|a|` => length of string `a`
- *
- * @param {String} a
- * @param {String} b
- * @returns {Boolean}
+ * @param {String} source - The string to be transformed.
+ * @param {String} target - The string we want to transform `source` into.
+ * @returns {Boolean} - Whether the transformation is possible.
  * @see https://www.hackerrank.com/challenges/abbr/problem - Related problem on HackerRank.
  */
-export const abbreviation = (a, b) => {
-  const n = a.length
-  const m = b.length
+export const isAbbreviation = (source, target) => {
+  const sourceLength = source.length
+  const targetLength = target.length
 
-  let dp = Array.from({length: n + 1}, () => Array(m + 1).fill(false))
-  dp[0][0] = true
+  // Initialize a table to keep track of possible abbreviations
+  let canAbbreviate = Array.from({ length: sourceLength + 1 }, () =>
+    Array(targetLength + 1).fill(false)
+  )
+  // Empty strings are trivially abbreviatable
+  canAbbreviate[0][0] = true
 
-  for (let i = 0; i < n; i++) {
-    for (let j = 0; j <= m; j++) {
-      if (dp[i][j]) {
-        if (j < m && a[i].toUpperCase() === b[j]) {
-          dp[i + 1][j + 1] = true
+  for (let sourceIndex = 0; sourceIndex < sourceLength; sourceIndex++) {
+    for (let targetIndex = 0; targetIndex <= targetLength; targetIndex++) {
+      if (canAbbreviate[sourceIndex][targetIndex]) {
+        // If characters at the current position are equal, move to the next position in both strings.
+        if (
+          targetIndex < targetLength &&
+          source[sourceIndex].toUpperCase() === target[targetIndex]
+        ) {
+          canAbbreviate[sourceIndex + 1][targetIndex + 1] = true
         }
-        if (a[i] === a[i].toLowerCase()) {
-          dp[i + 1][j] = true
+        // If the current character in `source` is lowercase, explore two possibilities:
+        // a) Capitalize it (which is akin to "using" it in `source` to match `target`), or
+        // b) Skip it (effectively deleting it from `source`).
+        if (source[sourceIndex] === source[sourceIndex].toLowerCase()) {
+          canAbbreviate[sourceIndex + 1][targetIndex] = true
         }
       }
     }
   }
 
-  return dp[n][m]
+  return canAbbreviate[sourceLength][targetLength]
 }

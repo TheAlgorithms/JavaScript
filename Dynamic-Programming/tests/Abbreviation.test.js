@@ -1,20 +1,30 @@
-import { abbreviation } from '../Abbreviation.js'
+import { isAbbreviation } from '../Abbreviation.js'
 
-describe('Abbreviation', () => {
-  test('it can abbreviate string a to b', () => {
-    expect(abbreviation('', '')).toBe(true)
-    expect(abbreviation('a', '')).toBe(true)
-    expect(abbreviation('', 'A')).toBe(false)
-    expect(abbreviation('a', 'A')).toBe(true)
-    expect(abbreviation('abcDE', 'ABCDE')).toBe(true)
-    expect(abbreviation('ABcDE', 'ABCDE')).toBe(true)
-    expect(abbreviation('abcde', 'ABCDE')).toBe(true)
-    expect(abbreviation('abcde', 'ABC')).toBe(true)
-    expect(abbreviation('a', 'ABC')).toBe(false)
-    expect(abbreviation('abcXYdefghijKLmnopqrs', 'XYKL')).toBe(true)
-    expect(abbreviation('aBcXYdefghijKLmnOpqrs', 'XYKLOP')).toBe(false)
-    expect(abbreviation('abc123', 'ABC')).toBe(true)
-    expect(abbreviation('abc123', 'ABC123')).toBe(true)
-    expect(abbreviation('abc!@#def', 'ABC')).toBe(true)
+const expectPositive = (word, abbr) =>
+  expect(isAbbreviation(word, abbr)).toBe(true)
+const expectNegative = (word, abbr) =>
+  expect(isAbbreviation(word, abbr)).toBe(false)
+
+describe('Abbreviation - Positive Tests', () => {
+  test('it should correctly abbreviate or transform the source string to match the target string', () => {
+    expectPositive('', '')
+    expectPositive('a', '')
+    expectPositive('a', 'A')
+    expectPositive('abcDE', 'ABCDE')
+    expectPositive('ABcDE', 'ABCDE')
+    expectPositive('abcde', 'ABCDE')
+    expectPositive('abcde', 'ABC')
+    expectPositive('abcXYdefghijKLmnopqrs', 'XYKL')
+    expectPositive('abc123', 'ABC')
+    expectPositive('abc123', 'ABC123')
+    expectPositive('abc!@#def', 'ABC')
+  })
+})
+
+describe('Abbreviation - Negative Tests', () => {
+  test('it should fail to abbreviate or transform the source string when it is not possible to match the target string', () => {
+    expectNegative('', 'A')
+    expectNegative('a', 'ABC')
+    expectNegative('aBcXYdefghijKLmnOpqrs', 'XYKLOP')
   })
 })
