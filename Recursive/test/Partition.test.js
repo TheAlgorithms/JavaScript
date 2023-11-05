@@ -1,9 +1,9 @@
-import { tugOfWar } from '../TugOfWar';
+import { partition } from '../Partition';
 
-describe('tugOfWar', () => {
+describe('partition', () => {
   it('should divide array into two subsets with minimized sum difference', () => {
     const arr = [3, 4, 5, -3, 100, 1, 89, 54, 23, 20];
-    const [subset1, subset2] = tugOfWar(arr);
+    const [subset1, subset2] = partition(arr);
     const diff = Math.abs(
       subset1.reduce((a, b) => a + b, 0) - subset2.reduce((a, b) => a + b, 0)
     );
