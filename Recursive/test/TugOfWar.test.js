@@ -7,9 +7,6 @@ describe('tugOfWar', () => {
     const diff = Math.abs(
       subset1.reduce((a, b) => a + b, 0) - subset2.reduce((a, b) => a + b, 0)
     )
-
-    expect(diff).toBeLessThanOrEqual(1) // Assume that the difference could be 0 or 1 for this test case.
+    expect(diff).toBe(1)
   })
-
-  // You can add more test cases
 })
