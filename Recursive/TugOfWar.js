@@ -10,7 +10,7 @@ function tugOfWar(arr) {
   let minimumDiff = totalSum
   let result = [arr, []]
 
-  function backtrack(subset = [], index = 0) {
+  function recurse(subset, index) {
     if (index === arr.length) {
       const currentSubsetSum = subset.reduce((a, b) => a + b, 0)
       const otherSubsetSum = totalSum - currentSubsetSum
@@ -24,13 +24,13 @@ function tugOfWar(arr) {
     }
 
     // Include the current element.
-    backtrack([...subset, arr[index]], index + 1)
+    recurse([...subset, arr[index]], index + 1)
 
     // Exclude the current element.
-    backtrack([...subset], index + 1)
+    recurse([...subset], index + 1)
   }
 
-  backtrack()
+  recurse([], 0)
   return result
 }
 
