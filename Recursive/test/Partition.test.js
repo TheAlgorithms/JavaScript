@@ -1,12 +1,24 @@
-import { partition } from '../Partition';
+import { canPartition } from '../Partition';
 
-describe('partition', () => {
-  it('should divide array into two subsets with minimized sum difference', () => {
-    const arr = [3, 4, 5, -3, 100, 1, 89, 54, 23, 20];
-    const [subset1, subset2] = partition(arr);
-    const diff = Math.abs(
-      subset1.reduce((a, b) => a + b, 0) - subset2.reduce((a, b) => a + b, 0)
-    );
-    expect(diff).toBe(1);
+describe('Partition (Recursive)', () => {
+  it('expects to return true for an array that can be partitioned', () => {
+    const result = canPartition([1, 5, 11, 5]);
+    expect(result).toBe(true);
+  });
+
+  it('expects to return false for an array that cannot be partitioned', () => {
+    const result = canPartition([1, 2, 3, 5]);
+    expect(result).toBe(false);
+  });
+
+  it('expects to return true for an empty array (0 elements)', () => {
+    const result = canPartition([]);
+    expect(result).toBe(true);
+  });
+
+  it('Throw Error for Invalid Input', () => {
+    expect(() => canPartition(123)).toThrow('Invalid Input');
+    expect(() => canPartition(null)).toThrow('Invalid Input');
+    expect(() => canPartition(undefined)).toThrow('Invalid Input');
   });
 });

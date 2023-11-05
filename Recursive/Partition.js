@@ -1,40 +1,39 @@
 /**
- * @see https://www.geeksforgeeks.org/partition-problem-dp-18/
- * Divides the given array into two subsets such that the difference between their sums is minimized.
- * @param {number[]} arr - The array of integers.
- * @returns {Array.<number[]>} Two subsets with minimized sum difference.
+ * @function canPartition
+ * @description Check whether it is possible to partition the given array into two equal sum subsets using recursion.
+ * @param {number[]} nums - The input array of numbers.
+ * @param {number} index - The current index in the array being considered.
+ * @param {number} target - The target sum for each subset.
+ * @return {boolean}.
+ * @see [Partition Problem](https://en.wikipedia.org/wiki/Partition_problem)
  */
 
-function partition(arr) {
-  const totalSum = arr.reduce((a, b) => a + b, 0);
-  const targetSum = totalSum / 2; // The target sum for each subset
-  let minimumDiff = totalSum;
-  let result = [[], []];
-
-  function recurse(subset = [], index = 0, currentSum = 0) {
-    if (index === arr.length) {
-      const otherSubsetSum = totalSum - currentSum;
-      const currentDiff = Math.abs(currentSum - otherSubsetSum);
-
-      if (currentDiff < minimumDiff) {
-        minimumDiff = currentDiff;
-        result = [subset, arr.filter((x) => !subset.includes(x))];
-      }
-
-      return;
-    }
-
-    // Include the current element if it doesn't exceed the target sum
-    if (currentSum + arr[index] <= targetSum) {
-      recurse([...subset, arr[index]], index + 1, currentSum + arr[index]);
-    }
-
-    // Exclude the current element
-    recurse([...subset], index + 1, currentSum);
+const canPartition = (nums, index = 0, target = 0) => {
+  if (!Array.isArray(nums)) {
+    throw new TypeError('Invalid Input');
   }
 
-  recurse();
-  return result;
-}
+  const sum = nums.reduce((acc, num) => acc + num, 0);
 
-export default partition;
+  if (sum % 2 !== 0) {
+    return false;
+  }
+
+  if (target === sum / 2) {
+    return true;
+  }
+
+  if (index >= nums.length || target > sum / 2) {
+    return false;
+  }
+
+  // Include the current number in the first subset and check if a solution is possible.
+  const withCurrent = canPartition(nums, index + 1, target + nums[index]);
+
+  // Exclude the current number from the first subset and check if a solution is possible.
+  const withoutCurrent = canPartition(nums, index + 1, target);
+
+  return withCurrent || withoutCurrent;
+};
+
+export { canPartition };
