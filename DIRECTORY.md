@@ -301,6 +301,7 @@
   * [KochSnowflake](Recursive/KochSnowflake.js)
   * [LetterCombination](Recursive/LetterCombination.js)
   * [Palindrome](Recursive/Palindrome.js)
+  * [Partition](Recursive/Partition.js)
   * [SubsequenceRecursive](Recursive/SubsequenceRecursive.js)
   * [TowerOfHanoi](Recursive/TowerOfHanoi.js)
 * **Search**
