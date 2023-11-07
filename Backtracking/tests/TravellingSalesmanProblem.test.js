@@ -1,3 +1,5 @@
+import { tsp } from '../TravellingSalesmanProblem'
+
 describe('Traveling Salesman Problem (TSP)', () => {
   it('should find the optimal tour for a given distance graph', () => {
     const distanceGraph = [

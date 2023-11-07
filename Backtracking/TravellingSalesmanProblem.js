@@ -54,3 +54,5 @@ const distanceGraph = [
 const result = tsp(distanceGraph)
 console.log('Optimal Tour:', result.tour)
 console.log('Minimum Tour Cost:', result.cost)
+
+export { tsp }
