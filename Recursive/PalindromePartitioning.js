@@ -6,47 +6,6 @@
  * - https://www.cs.columbia.edu/~sedwards/classes/2021/4995-fall/proposals/Palindrome.pdf
  */
 
-// class PalindromePartitioning {
-//   partition(s) {
-//     const result = []
-//     this.backtrack(s, [], result)
-//     return result
-//   }
-
-//   backtrack(s, path, result) {
-//     if (s.length === 0) {
-//       result.push([...path])
-//       return
-//     }
-
-//     for (let i = 0; i < s.length; i++) {
-//       const prefix = s.substring(0, i + 1)
-//       if (this.isPalindrome(prefix)) {
-//         path.push(prefix)
-//         this.backtrack(s.substring(i + 1), path, result)
-//         path.pop()
-//       }
-//     }
-//   }
-
-//   isPalindrome(s) {
-//     let start = 0
-//     let end = s.length - 1
-//     while (start < end) {
-//       if (s.charAt(start) !== s.charAt(end)) {
-//         return false
-//       }
-//       start++
-//       end--
-//     }
-//     return true
-//   }
-// }
-
-// export default PalindromePartitioning
-
-// use a function instead of class and reuse existing palindrome function not isPalindrome function
-
 import { palindrome } from './Palindrome'
 
 const partitionPalindrome = (s) => {
