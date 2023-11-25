@@ -1,13 +1,10 @@
-/*
- * Problem Statement: Given a string s, partition s such that every substring of the partition is a palindrome. Return all possible palindrome partitioning of s.
- * what is palindrome partitioning?
- * - Palindrome partitioning means, partitioning a string into substrings such that every substring is a palindrome.
- * Reference to know more about palindrome partitioning:
- * - https://www.cs.columbia.edu/~sedwards/classes/2021/4995-fall/proposals/Palindrome.pdf
- */
-
 import { palindrome } from './Palindrome'
 
+/*
+ * Given a string s, return all possible palindrome partitionings of s.
+ * A palindrome partitioning partitions a string into palindromic substrings.
+ * @see https://www.cs.columbia.edu/~sedwards/classes/2021/4995-fall/proposals/Palindrome.pdf
+ */
 const partitionPalindrome = (s) => {
   const result = []
   backtrack(s, [], result)
