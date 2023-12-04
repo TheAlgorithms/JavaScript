@@ -1,15 +1,12 @@
 /**
- * A LinkedList based solution for Detecting a start node of the Cycle in a list.
- * https://en.wikipedia.org/wiki/Cycle_detection
+ * A LinkedList based solution for finding the starting node of the cycle in a list.
+ * @returns the node where cycle begins in the linked list. If there is no cycle present, returns null.
+ * @see https://en.wikipedia.org/wiki/Cycle_detection
+ * @see https://leetcode.com/problems/linked-list-cycle-ii/
  */
 
 function detectCycleNode(head) {
-  /*
-  Problem Statement:
-  Given the head of a linked list, return the node where the cycle begins. If there is no cycle, return null.
-  Link for the Problem: https://leetcode.com/problems/linked-list-cycle-ii/
-  */
-
+  
   let length = 0
   let fast = head
   let slow = head
@@ -25,14 +22,12 @@ function detectCycleNode(head) {
   }
 
   if (length === 0) {
-    // If length = 0, return null
+    // If there is no cycle, return null.
     return null
   }
 
-  //Point the nodes at head
-  fast = head
-  slow = head
-  // Move slow pointer ahead by 'length' of cycle times
+  fast = slow = head
+  // Move slow pointer ahead by 'length' (integer) of cycle times
   while (length > 0) {
     slow = slow.next
     length--
@@ -44,7 +39,7 @@ function detectCycleNode(head) {
     slow = slow.next
   }
 
-  // return the meeting node
+  // return the meeting node (fast/slow)
   return slow
 }
 
