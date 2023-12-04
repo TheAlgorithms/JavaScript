@@ -3,12 +3,14 @@
   * [generateParentheses](Backtracking/generateParentheses.js)
   * [GeneratePermutations](Backtracking/GeneratePermutations.js)
   * [KnightTour](Backtracking/KnightTour.js)
+  * [MColoringProblem](Backtracking/MColoringProblem.js)
   * [NQueens](Backtracking/NQueens.js)
   * [RatInAMaze](Backtracking/RatInAMaze.js)
   * [Sudoku](Backtracking/Sudoku.js)
   * [SumOfSubset](Backtracking/SumOfSubset.js)
 * **Bit-Manipulation**
   * [BinaryCountSetBits](Bit-Manipulation/BinaryCountSetBits.js)
+  * [GenerateSubSets](Bit-Manipulation/GenerateSubSets.js)
   * [GrayCodes](Bit-Manipulation/GrayCodes.js)
   * [IsPowerofFour](Bit-Manipulation/IsPowerofFour.js)
   * [IsPowerOfTwo](Bit-Manipulation/IsPowerOfTwo.js)
@@ -159,6 +161,7 @@
   * [NumberOfIslands](Graphs/NumberOfIslands.js)
   * [PrimMST](Graphs/PrimMST.js)
 * **Hashes**
+  * [MD5](Hashes/MD5.js)
   * [SHA1](Hashes/SHA1.js)
   * [SHA256](Hashes/SHA256.js)
 * **Maths**
@@ -167,6 +170,7 @@
   * [Area](Maths/Area.js)
   * [ArithmeticGeometricMean](Maths/ArithmeticGeometricMean.js)
   * [ArmstrongNumber](Maths/ArmstrongNumber.js)
+  * [AutomorphicNumber](Maths/AutomorphicNumber.js)
   * [AverageMean](Maths/AverageMean.js)
   * [AverageMedian](Maths/AverageMedian.js)
   * [BinaryConvert](Maths/BinaryConvert.js)
@@ -298,6 +302,7 @@
   * [KochSnowflake](Recursive/KochSnowflake.js)
   * [LetterCombination](Recursive/LetterCombination.js)
   * [Palindrome](Recursive/Palindrome.js)
+  * [Partition](Recursive/Partition.js)
   * [SubsequenceRecursive](Recursive/SubsequenceRecursive.js)
   * [TowerOfHanoi](Recursive/TowerOfHanoi.js)
 * **Search**
@@ -309,6 +314,7 @@
   * [LinearSearch](Search/LinearSearch.js)
   * [Minesweeper](Search/Minesweeper.js)
   * [QuickSelectSearch](Search/QuickSelectSearch.js)
+  * [RabinKarp](Search/RabinKarp.js)
   * [SlidingWindow](Search/SlidingWindow.js)
   * [StringSearch](Search/StringSearch.js)
   * [TernarySearch](Search/TernarySearch.js)

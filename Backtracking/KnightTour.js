@@ -2,12 +2,13 @@
 
 class OpenKnightTour {
   constructor(size) {
+    // Constructor to initialize the chessboard and size
     this.board = new Array(size).fill(0).map(() => new Array(size).fill(0))
     this.size = size
   }
 
   getMoves([i, j]) {
-    // helper function to get the valid moves of the knight from the current position
+    // Helper function to get the valid moves of the knight from the current position
     const moves = [
       [i + 2, j - 1],
       [i + 2, j + 1],
@@ -19,18 +20,19 @@ class OpenKnightTour {
       [i - 1, j + 2]
     ]
 
+    // Filter out moves that are within the board boundaries
     return moves.filter(
       ([y, x]) => y >= 0 && y < this.size && x >= 0 && x < this.size
     )
   }
 
   isComplete() {
-    // helper function to check if the board is complete
+    // Helper function to check if the board is complete
     return !this.board.map((row) => row.includes(0)).includes(true)
   }
 
   solve() {
-    // function to find the solution for the given board
+    // Function to find the solution for the given board
     for (let i = 0; i < this.size; i++) {
       for (let j = 0; j < this.size; j++) {
         if (this.solveHelper([i, j], 0)) return true
@@ -40,14 +42,15 @@ class OpenKnightTour {
   }
 
   solveHelper([i, j], curr) {
-    // helper function for the main computation
+    // Helper function for the main computation
     if (this.isComplete()) return true
 
+    // Iterate through possible moves and attempt to fill the board
     for (const [y, x] of this.getMoves([i, j])) {
       if (this.board[y][x] === 0) {
         this.board[y][x] = curr + 1
         if (this.solveHelper([y, x], curr + 1)) return true
-        // backtracking
+        // Backtracking: If the solution is not found, reset the cell to 0
         this.board[y][x] = 0
       }
     }
@@ -55,7 +58,7 @@ class OpenKnightTour {
   }
 
   printBoard(output = (value) => console.log(value)) {
-    // utility function to display the board
+    // Utility function to display the board
     for (const row of this.board) {
       let string = ''
       for (const elem of row) {

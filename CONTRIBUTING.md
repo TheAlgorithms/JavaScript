@@ -125,7 +125,7 @@ npm test -- koch
 You can also start Vitest in "watch" mode:
 
 ```bash
-npm test-watch
+npm run test-watch
 ```
 
 This will run all tests and watch source and test files for changes. When a change is made, the tests will run again.
