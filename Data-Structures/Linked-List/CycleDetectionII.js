@@ -6,7 +6,6 @@
  */
 
 function detectCycleNode(head) {
-  
   let length = 0
   let fast = head
   let slow = head
@@ -51,7 +50,7 @@ function lengthCycle(head) {
     fast = fast.next.next
     slow = slow.next
 
-    // if found a cycle, calculate the length
+    // when fast and slow meet inside the cycle, calculate the length
     if (fast === slow) {
       let temp = slow
       let length = 0

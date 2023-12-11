@@ -8,7 +8,7 @@ describe('Detect Cycle', () => {
 
     expect(detectCycleNode(head)).toBeNull()
   })
-  
+
   it('simple cycle', () => {
     const head = new Node(1)
     head.next = new Node(2)
