@@ -40,7 +40,7 @@ class GraphUnweightedUndirected {
         }
       }
     }
-    return false
+    return -1
   }
 }
 
