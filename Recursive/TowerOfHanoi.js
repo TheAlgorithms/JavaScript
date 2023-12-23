@@ -14,5 +14,5 @@ export function TowerOfHanoi(n, from, to, aux, output = []) {
 
 // Driver code (A, C, B are the name of rods)
 
-// const n = 4
-// TowerOfHanoi(n, 'A', 'C', 'B')
+const n = 4
+TowerOfHanoi(n, 'A', 'C', 'B')
