@@ -5,7 +5,7 @@
  * @see https://leetcode.com/problems/linked-list-cycle-ii/
  */
 
-function detectCycleNode(head) {
+function findCycleStart(head) {
   let length = 0
   let fast = head
   let slow = head
@@ -14,8 +14,7 @@ function detectCycleNode(head) {
     fast = fast.next.next
     slow = slow.next
     if (fast === slow) {
-      // Calculate length of the cycle
-      length = lengthCycle(slow)
+      length = cycleLength(slow)
       break
     }
   }
@@ -25,47 +24,34 @@ function detectCycleNode(head) {
     return null
   }
 
-  fast = slow = head
-  // Move slow pointer ahead by 'length' (integer) of cycle times
+  let ahead = head
+  let behind = head
+  // Move slow pointer ahead 'length' of cycle times
   while (length > 0) {
-    slow = slow.next
+    ahead = ahead.next
     length--
   }
 
   // Now move both pointers until they meet - this will be the start of cycle
-  while (fast !== slow) {
-    fast = fast.next
-    slow = slow.next
+  while (ahead !== behind) {
+    ahead = ahead.next
+    behind = behind.next
   }
 
-  // return the meeting node (fast/slow)
-  return slow
+  // return the meeting node
+  return ahead
 }
 
-function lengthCycle(head) {
-  let fast = head
-  let slow = head
-
-  while (fast !== null && fast.next !== null) {
-    fast = fast.next.next
-    slow = slow.next
-
-    // when fast and slow meet inside the cycle, calculate the length
-    if (fast === slow) {
-      let temp = slow
-      let length = 0
-
-      // Traverse until we reach initial cycle pointer again
-      do {
-        temp = temp.next
-        length++
-      } while (temp !== slow)
-
-      return length
-    }
-  }
-
-  return 0
+// head is a node on a cycle
+function cycleLength(head) {
+  // How long until we visit head again?
+  let cur = head
+  let len = 0
+  do {
+    cur = cur.next
+    len++
+  } while (cur != head)
+  return len
 }
 
-export { detectCycleNode }
+export { findCycleStart }
