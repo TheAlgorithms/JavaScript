@@ -25,8 +25,8 @@ jobs:
 
       - name: Configure Github Action
         run: |
-          git config --global user.name github-actions
-          git config --global user.email '${GITHUB_ACTOR}@users.noreply.github.com'
+          git config --global user.name "$GITHUB_ACTOR"
+          git config --global user.email "$GITHUB_ACTOR@users.noreply.github.com"
 
       - name: 🤓 Commit & push new Directory (if needed)
         run: |
