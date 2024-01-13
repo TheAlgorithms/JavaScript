@@ -104,6 +104,7 @@
   * **Vectors**
     * [Vector2](Data-Structures/Vectors/Vector2.js)
 * **Dynamic-Programming**
+  * [Abbreviation](Dynamic-Programming/Abbreviation.js)
   * [CatalanNumbers](Dynamic-Programming/CatalanNumbers.js)
   * [ClimbingStairs](Dynamic-Programming/ClimbingStairs.js)
   * [CoinChange](Dynamic-Programming/CoinChange.js)
@@ -302,6 +303,7 @@
   * [KochSnowflake](Recursive/KochSnowflake.js)
   * [LetterCombination](Recursive/LetterCombination.js)
   * [Palindrome](Recursive/Palindrome.js)
+  * [PalindromePartitioning](Recursive/PalindromePartitioning.js)
   * [Partition](Recursive/Partition.js)
   * [SubsequenceRecursive](Recursive/SubsequenceRecursive.js)
   * [TowerOfHanoi](Recursive/TowerOfHanoi.js)
