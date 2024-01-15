@@ -33,9 +33,9 @@ body:
       label: Steps to reproduce (if applicable)
       description: List steps to reproduce the behavior.
       placeholder: |
-        1. 
-        2. 
-        3. 
+        1.
+        2.
+        3.
         4.
     validations:
       required: false
