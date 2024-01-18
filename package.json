@@ -13,8 +13,11 @@
   "author": "TheAlgorithms",
   "license": "GPL-3.0",
   "devDependencies": {
+    "chai": "^4.3.10",
     "globby": "^13.2.2",
     "husky": "^8.0.3",
+    "jest": "^29.7.0",
+    "mocha": "^10.2.0",
     "prettier": "^3.0.3",
     "vitest": "^0.34.6"
   },
