@@ -14,3 +14,5 @@ yarn-error.log*
 
 # intelliJ workspace folder
 .idea
+
+/coverage

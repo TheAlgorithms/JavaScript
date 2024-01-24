@@ -1,0 +1,33 @@
+---
+name: UploadCoverageReport
+
+'on':
+  workflow_dispatch:
+  push:
+    branches:
+      - master
+  pull_request:
+
+jobs:
+  UploadCoverageReport:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Generate coverage report
+        run: npm test -- --coverage
+
+      - name: Upload coverage to codecov
+        uses: codecov/codecov-action@v3
+        with:
+          files: "coverage/coverage-final.json"
+          fail_ci_if_error: true
+...
