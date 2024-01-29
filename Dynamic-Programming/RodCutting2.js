@@ -1,6 +1,7 @@
 /*
  * You are given a rod of 'n' length and an array of prices associated with all the lengths less than 'n'.
  * Find the maximum profit possible by cutting the rod and selling the pieces.
+ * Read more about the problem here: https://kallalakshminarayana888.medium.com/rod-cutting-problem-using-top-down-dynamic-programming-me-ac4655139199
  */
 
 function memoizedCutRod(prices, n) {
