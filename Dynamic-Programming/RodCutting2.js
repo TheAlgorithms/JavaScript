@@ -5,27 +5,27 @@
  */
 
 function memoizedCutRod(prices, n) {
-    let memo = new Array(n + 1).fill(-1)
-    return memoizedCutRodAux(prices, n, memo)
+  let memo = new Array(n + 1).fill(-1)
+  return memoizedCutRodAux(prices, n, memo)
+}
+
+function memoizedCutRodAux(prices, n, memo) {
+  if (memo[n] >= 0) {
+    return memo[n]
   }
-  
-  function memoizedCutRodAux(prices, n, memo) {
-    if (memo[n] >= 0) {
-      return memo[n]
+  let maxVal = Number.MIN_VALUE
+  if (n == 0) {
+    maxVal = 0
+  } else {
+    for (let i = 0; i < n; i++) {
+      maxVal = Math.max(
+        maxVal,
+        prices[i] + memoizedCutRodAux(prices, n - i - 1, memo)
+      )
     }
-    let maxVal = Number.MIN_VALUE
-    if (n == 0) {
-      maxVal = 0
-    } else {
-      for (let i = 0; i < n; i++) {
-        maxVal = Math.max(
-          maxVal,
-          prices[i] + memoizedCutRodAux(prices, n - i - 1, memo)
-        )
-      }
-    }
-    memo[n] = maxVal
-    return maxVal
   }
-  
-  export { memoizedCutRod }
+  memo[n] = maxVal
+  return maxVal
+}
+
+export { memoizedCutRod }
