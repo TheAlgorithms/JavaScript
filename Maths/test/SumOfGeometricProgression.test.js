@@ -8,4 +8,8 @@ describe('Sum Of Geometric Progression', () => {
   it('should return the sum of an infinite GP', () => {
     expect(sumOfGeometricProgression(2, 0.5, Infinity)).toBe(4)
   })
+
+  it('should throw when series diverges', () => {
+    expect(() => sumOfGeometricProgression(1, 1, Infinity)).toThrowError()
+  })
 })
