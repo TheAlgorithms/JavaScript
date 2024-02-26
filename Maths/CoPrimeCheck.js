@@ -28,13 +28,13 @@ const GetEuclidGCD = (arg1, arg2) => {
 const CoPrimeCheck = (firstNumber, secondNumber) => {
   // firstly, check that input is a number or not.
   if (typeof firstNumber !== 'number' || typeof secondNumber !== 'number') {
-    return new TypeError('Argument is not a number.')
+    throw new TypeError('Argument is not a number.')
   }
   /*
     This is the most efficient algorithm for checking co-primes
     if the GCD of both the numbers is 1 that means they are co-primes.
     */
-  return GetEuclidGCD(firstNumber, secondNumber) === 1
+  return GetEuclidGCD(Math.abs(firstNumber), Math.abs(secondNumber)) === 1
 }
 
 export { CoPrimeCheck }
