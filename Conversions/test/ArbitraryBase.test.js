@@ -57,3 +57,4 @@ test('BigInt version with input string of arbitrary length', () => {
 
   expect(resBigIntVersion).toBe((10n ** 100n).toString(36))
 })
+hello, easy subject
