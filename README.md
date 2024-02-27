@@ -1,4 +1,4 @@
-hello 
+hello world
 # The Algorithms - JavaScript
 
 <!-- Front Matter -->
