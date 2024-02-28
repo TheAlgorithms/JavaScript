@@ -15,4 +15,8 @@ describe('checkCamelCase', () => {
     const result = checkCamelCase(value)
     expect(result).toBe(false)
   })
+
+  it('should throw when input is not a string', () => {
+    expect(() => checkCamelCase(100)).toThrowError()
+  })
 })

@@ -11,3 +11,7 @@ test('CheckKebabCase(The Algorithms) -> false', () => {
   const res = CheckKebabCase(word)
   expect(res).toBeFalsy()
 })
+
+test('CheckKebabCase throws when input is not a string', () => {
+  expect(() => CheckKebabCase(100)).toThrowError()
+})
