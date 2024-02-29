@@ -10,7 +10,7 @@
 const CheckPascalCase = (VarName) => {
   // firstly, check that input is a string or not.
   if (typeof VarName !== 'string') {
-    return new TypeError('Argument is not a string.')
+    throw new TypeError('Argument is not a string.')
   }
 
   const pat = /^[A-Z][A-Za-z]*$/
