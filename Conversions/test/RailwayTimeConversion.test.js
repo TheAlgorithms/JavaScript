@@ -19,3 +19,7 @@ test('The RailwayTimeConversion of 11:20:00PM is 23:20:00', () => {
   const res = RailwayTimeConversion('11:20:00PM')
   expect(res).toEqual('23:20:00')
 })
+
+test('The RailwayTimeConversion throws when input is not a string', () => {
+  expect(() => RailwayTimeConversion(1120)).toThrowError()
+})

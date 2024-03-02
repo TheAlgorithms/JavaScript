@@ -18,7 +18,7 @@
 const RailwayTimeConversion = (timeString) => {
   // firstly, check that input is a string or not.
   if (typeof timeString !== 'string') {
-    return new TypeError('Argument is not a string.')
+    throw new TypeError('Argument is not a string.')
   }
   // split the string by ':' character.
   const [hour, minute, secondWithShift] = timeString.split(':')
