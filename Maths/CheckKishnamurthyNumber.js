@@ -24,7 +24,10 @@ const factorial = (n) => {
 const CheckKishnamurthyNumber = (number) => {
   // firstly, check that input is a number or not.
   if (typeof number !== 'number') {
-    return new TypeError('Argument is not a number.')
+    throw new TypeError('Argument is not a number.')
+  }
+  if (number === 0) {
+    return false
   }
   // create a variable to store the sum of all digits factorial.
   let sumOfAllDigitFactorial = 0
