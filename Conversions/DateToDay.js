@@ -26,13 +26,13 @@ const daysNameArr = [
 const DateToDay = (date) => {
   // firstly, check that input is a string or not.
   if (typeof date !== 'string') {
-    return new TypeError('Argument is not a string.')
+    throw new TypeError('Argument is not a string.')
   }
   // extract the date
   let [day, month, year] = date.split('/').map((x) => Number(x))
   // check the data are valid or not.
   if (day < 1 || day > 31 || month > 12 || month < 1) {
-    return new TypeError('Date is not valid.')
+    throw new TypeError('Date is not valid.')
   }
 
   // In case of Jan and Feb:
