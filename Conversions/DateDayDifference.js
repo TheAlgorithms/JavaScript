@@ -14,21 +14,27 @@ const isLeap = (year) => {
   else return false
 }
 const DateToDay = (dd, mm, yyyy) => {
-  return Math.floor(
+  return (
     365 * (yyyy - 1) +
-      (yyyy - 1) / 4 -
-      (yyyy - 1) / 100 +
-      (yyyy - 1) / 400 +
-      dd +
-      (367 * mm - 362) / 12 +
-      (mm <= 2 ? 0 : isLeap(yyyy) ? -1 : -2)
+    Math.floor((yyyy - 1) / 4) -
+    Math.floor((yyyy - 1) / 100) +
+    Math.floor((yyyy - 1) / 400) +
+    dd +
+    Math.floor((367 * mm - 362) / 12) +
+    (mm <= 2 ? 0 : isLeap(yyyy) ? -1 : -2)
   )
+}
+
+const CheckDayAndMonth = (inDay, inMonth) => {
+  if (inDay <= 0 || inDay > 31 || inMonth <= 0 || inMonth > 12) {
+    throw new TypeError('Date is not valid.')
+  }
 }
 
 const DateDayDifference = (date1, date2) => {
   // firstly, check that both input are string or not.
   if (typeof date1 !== 'string' || typeof date2 !== 'string') {
-    return new TypeError('Argument is not a string.')
+    throw new TypeError('Argument is not a string.')
   }
   // extract the first date
   const [firstDateDay, firstDateMonth, firstDateYear] = date1
@@ -39,18 +45,9 @@ const DateDayDifference = (date1, date2) => {
     .split('/')
     .map((ele) => Number(ele))
   // check the both data are valid or not.
-  if (
-    firstDateDay < 0 ||
-    firstDateDay > 31 ||
-    firstDateMonth > 12 ||
-    firstDateMonth < 0 ||
-    secondDateDay < 0 ||
-    secondDateDay > 31 ||
-    secondDateMonth > 12 ||
-    secondDateMonth < 0
-  ) {
-    return new TypeError('Date is not valid.')
-  }
+  CheckDayAndMonth(firstDateDay, firstDateMonth)
+  CheckDayAndMonth(secondDateDay, secondDateMonth)
+
   return Math.abs(
     DateToDay(secondDateDay, secondDateMonth, secondDateYear) -
       DateToDay(firstDateDay, firstDateMonth, firstDateYear)
