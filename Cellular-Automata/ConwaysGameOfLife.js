@@ -11,7 +11,7 @@ The Game of Life is a cellular automaton devised by the British mathematician Jo
 /**
  * Generates the next generation for a given state of Conway's Game of Life.
  */
-export function newGeneration(cells) {
+export function newGeneration(cells) {a,b
   const nextGeneration = []
   for (let i = 0; i < cells.length; i++) {
     const nextGenerationRow = []
