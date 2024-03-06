@@ -30,7 +30,7 @@ JavaScript Repository of TheAlgorithms, which implements various algorithms and 
 
 <!-- Body -->
 
-Before contributing to this repository, make sure to read our [Contribution Guidelines](CONTRIBUTING.md). You can look
+         helooooooooBefore contributing to this repository, make sure to read our [Contribution Guidelines](CONTRIBUTING.md). You can look
 at other [TheAlgorithms Repositories][repositories] or the [issues with a "help wanted" label][help-wanted] for
 inspiration regarding what to implement. Our maintainers will guide you through how to make your contribution properly
 if you make any mistakes. The names of the maintainers of this repository are listed in the
