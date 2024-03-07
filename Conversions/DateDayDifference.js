@@ -6,13 +6,8 @@
     Algorithm & Explanation : https://ncalculators.com/time-date/date-difference-calculator.htm
 */
 
-// Internal method for make calculations easier
-const isLeap = (year) => {
-  if (year % 400 === 0) return true
-  else if (year % 100 === 0) return false
-  else if (year % 4 === 0) return true
-  else return false
-}
+import { isLeapYear } from '../Maths/LeapYear'
+
 const DateToDay = (dd, mm, yyyy) => {
   return (
     365 * (yyyy - 1) +
@@ -21,7 +16,7 @@ const DateToDay = (dd, mm, yyyy) => {
     Math.floor((yyyy - 1) / 400) +
     dd +
     Math.floor((367 * mm - 362) / 12) +
-    (mm <= 2 ? 0 : isLeap(yyyy) ? -1 : -2)
+    (mm <= 2 ? 0 : isLeapYear(yyyy) ? -1 : -2)
   )
 }
 
