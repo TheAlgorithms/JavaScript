@@ -1,10 +1,13 @@
 import { twinPrime } from '../TwinPrime.js'
 
-describe('Twin Primes', () => {
-  it('Should be valid twin primes', () => {
-    expect(twinPrime(3)).toBe(5)
-    expect(twinPrime(5)).toBe(7)
-    expect(twinPrime(4)).toBe(-1)
-    expect(twinPrime(17)).toBe(19)
+describe('twinPrime', () => {
+  it.each([
+    [3, 5],
+    [5, 7],
+    [7, -1],
+    [4, -1],
+    [17, 19]
+  ])('for input %i returns %i', (n, expected) => {
+    expect(twinPrime(n)).toBe(expected)
   })
 })
