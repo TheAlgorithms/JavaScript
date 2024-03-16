@@ -260,7 +260,6 @@
   * [SquareRootLogarithmic](Maths/SquareRootLogarithmic.js)
   * [SumOfDigits](Maths/SumOfDigits.js)
   * [SumOfGeometricProgression](Maths/SumOfGeometricProgression.js)
-  * [TwinPrime](Maths/TwinPrime.js)
   * [TwoSum](Maths/TwoSum.js)
   * [Volume](Maths/Volume.js)
   * [WhileLoopFactorial](Maths/WhileLoopFactorial.js)
@@ -296,7 +295,6 @@
 * **Recursive**
   * [BinaryEquivalent](Recursive/BinaryEquivalent.js)
   * [BinarySearch](Recursive/BinarySearch.js)
-  * [EucledianGCD](Recursive/EucledianGCD.js)
   * [Factorial](Recursive/Factorial.js)
   * [FibonacciNumberRecursive](Recursive/FibonacciNumberRecursive.js)
   * [FloodFill](Recursive/FloodFill.js)
