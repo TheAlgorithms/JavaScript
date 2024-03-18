@@ -7,6 +7,7 @@
 */
 
 import { isLeapYear } from '../Maths/LeapYear'
+import { parseDate } from '../Timing-Functions/ParseDate'
 
 const DateToDay = (dd, mm, yyyy) => {
   return (
@@ -20,32 +21,13 @@ const DateToDay = (dd, mm, yyyy) => {
   )
 }
 
-const CheckDayAndMonth = (inDay, inMonth) => {
-  if (inDay <= 0 || inDay > 31 || inMonth <= 0 || inMonth > 12) {
-    throw new TypeError('Date is not valid.')
-  }
-}
-
 const DateDayDifference = (date1, date2) => {
-  // firstly, check that both input are string or not.
-  if (typeof date1 !== 'string' || typeof date2 !== 'string') {
-    throw new TypeError('Argument is not a string.')
-  }
-  // extract the first date
-  const [firstDateDay, firstDateMonth, firstDateYear] = date1
-    .split('/')
-    .map((ele) => Number(ele))
-  // extract the second date
-  const [secondDateDay, secondDateMonth, secondDateYear] = date2
-    .split('/')
-    .map((ele) => Number(ele))
-  // check the both data are valid or not.
-  CheckDayAndMonth(firstDateDay, firstDateMonth)
-  CheckDayAndMonth(secondDateDay, secondDateMonth)
+  const firstDate = parseDate(date1)
+  const secondDate = parseDate(date2)
 
   return Math.abs(
-    DateToDay(secondDateDay, secondDateMonth, secondDateYear) -
-      DateToDay(firstDateDay, firstDateMonth, firstDateYear)
+    DateToDay(secondDate.day, secondDate.month, secondDate.year) -
+      DateToDay(firstDate.day, firstDate.month, firstDate.year)
   )
 }
 
