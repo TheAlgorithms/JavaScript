@@ -20,6 +20,17 @@ const neighbors = [
   [1, 1]
 ]
 
+function checkLocation(rgbData, location) {
+  if (
+    location[0] < 0 ||
+    location[0] >= rgbData.length ||
+    location[1] < 0 ||
+    location[1] >= rgbData[0].length
+  ) {
+    throw new Error('location should point to a pixel within the rgbData')
+  }
+}
+
 /**
  * Implements the flood fill algorithm through a breadth-first approach using a queue.
  *
@@ -34,14 +45,7 @@ export function breadthFirstSearch(
   targetColor,
   replacementColor
 ) {
-  if (
-    location[0] < 0 ||
-    location[0] >= rgbData.length ||
-    location[1] < 0 ||
-    location[1] >= rgbData[0].length
-  ) {
-    throw new Error('location should point to a pixel within the rgbData')
-  }
+  checkLocation(rgbData, location)
 
   const queue = []
   queue.push(location)
@@ -65,14 +69,7 @@ export function depthFirstSearch(
   targetColor,
   replacementColor
 ) {
-  if (
-    location[0] < 0 ||
-    location[0] >= rgbData.length ||
-    location[1] < 0 ||
-    location[1] >= rgbData[0].length
-  ) {
-    throw new Error('location should point to a pixel within the rgbData')
-  }
+  checkLocation(rgbData, location)
 
   depthFirstFill(rgbData, location, targetColor, replacementColor)
 }
