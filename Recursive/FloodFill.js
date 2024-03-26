@@ -20,13 +20,14 @@ const neighbors = [
   [1, 1]
 ]
 
+function isInside(rgbData, location) {
+  const x = location[0]
+  const y = location[1]
+  return x >= 0 && x < rgbData.length && y >= 0 && y < rgbData[0].length
+}
+
 function checkLocation(rgbData, location) {
-  if (
-    location[0] < 0 ||
-    location[0] >= rgbData.length ||
-    location[1] < 0 ||
-    location[1] >= rgbData[0].length
-  ) {
+  if (!isInside(rgbData, location)) {
     throw new Error('location should point to a pixel within the rgbData')
   }
 }
@@ -119,10 +120,12 @@ function depthFirstFill(rgbData, location, targetColor, replacementColor) {
     rgbData[location[0]][location[1]] = replacementColor
 
     for (let i = 0; i < neighbors.length; i++) {
-      const x = location[0] + neighbors[i][0]
-      const y = location[1] + neighbors[i][1]
-      if (x >= 0 && x < rgbData.length && y >= 0 && y < rgbData[0].length) {
-        depthFirstFill(rgbData, [x, y], targetColor, replacementColor)
+      const newLocation = [
+        location[0] + neighbors[i][0],
+        location[1] + neighbors[i][1]
+      ]
+      if (isInside(rgbData, newLocation)) {
+        depthFirstFill(rgbData, newLocation, targetColor, replacementColor)
       }
     }
   }
