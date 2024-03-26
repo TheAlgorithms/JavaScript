@@ -2,7 +2,7 @@ import { getMonthDays } from './GetMonthDays'
 
 function checkDate(date) {
   if (date.day < 1 || date.day > getMonthDays(date.month, date.year)) {
-    throw new Error('Indalid day value.')
+    throw new Error('Invalid day value.')
   }
 }
 
