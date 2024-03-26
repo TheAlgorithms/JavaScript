@@ -12,6 +12,8 @@
     Algorithm & Explanation : https://en.wikipedia.org/wiki/Zeller%27s_congruence
 */
 
+import { parseDate } from '../Timing-Functions/ParseDate'
+
 // Array holding name of the day: Saturday - Sunday - Friday => 0 - 1 - 6
 const daysNameArr = [
   'Saturday',
@@ -25,15 +27,10 @@ const daysNameArr = [
 
 const DateToDay = (date) => {
   // firstly, check that input is a string or not.
-  if (typeof date !== 'string') {
-    throw new TypeError('Argument is not a string.')
-  }
-  // extract the date
-  let [day, month, year] = date.split('/').map((x) => Number(x))
-  // check the data are valid or not.
-  if (day < 1 || day > 31 || month > 12 || month < 1) {
-    throw new TypeError('Date is not valid.')
-  }
+  const dateStruct = parseDate(date)
+  let year = dateStruct.year
+  let month = dateStruct.month
+  let day = dateStruct.day
 
   // In case of Jan and Feb:
   // Year: we consider it as previous year
