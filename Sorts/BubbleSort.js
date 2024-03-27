@@ -44,7 +44,7 @@ export function bubbleSort(items) {
 
 /**
  * Using a while loop and a for loop.
- * @param {number[]} 
+ * @param {number[]}
  * @returns {number[]} The sorted array.
  */
 export function alternativeBubbleSort(arr) {
