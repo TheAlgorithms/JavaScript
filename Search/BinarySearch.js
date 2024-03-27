@@ -13,7 +13,7 @@
  * @param {number} low - The lower bound index of the search interval (default is 0).
  * @param {number} high - The upper bound index of the search interval (default is arr.length - 1).
  * @returns {number} - The index of the found element if present, otherwise -1.
-*/
+ */
 function binarySearchRecursive(arr, x, low = 0, high = arr.length - 1) {
   const mid = Math.floor(low + (high - low) / 2)
 
@@ -41,7 +41,7 @@ function binarySearchRecursive(arr, x, low = 0, high = arr.length - 1) {
  * @param {number} low - The lower bound index of the search interval (default is 0).
  * @param {number} high - The upper bound index of the search interval (default is arr.length - 1).
  * @returns {number} - The index of the found element if present, otherwise -1.
-*/
+ */
 function binarySearchIterative(arr, x, low = 0, high = arr.length - 1) {
   while (high >= low) {
     const mid = Math.floor(low + (high - low) / 2)

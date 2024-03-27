@@ -38,13 +38,13 @@ function binarySearch(arr, value, floor, ceiling) {
     return binarySearch(arr, value, mid + 1, ceiling)
   }
 }
-/** 
-* Exponential Search
-* @param {number[]} arr - The array to search within.
-* @param {number} length - The length of the array.
-* @param {number} value - The value to search for in the array.
-* @returns {number} - The index of the found element if present, otherwise -1.
-*/
+/**
+ * Exponential Search
+ * @param {number[]} arr - The array to search within.
+ * @param {number} length - The length of the array.
+ * @param {number} value - The value to search for in the array.
+ * @returns {number} - The index of the found element if present, otherwise -1.
+ */
 function exponentialSearch(arr, length, value) {
   // If value is the first element of the array return this position
   if (arr[0] === value) {

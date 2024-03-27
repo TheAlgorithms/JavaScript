@@ -13,7 +13,7 @@
  * [Reference](https://en.wikipedia.org/wiki/Rabin%E2%80%93Karp_algorithm)
  */
 /**
-* @param {string} text - The text string in which to search for the pattern.
+ * @param {string} text - The text string in which to search for the pattern.
  * @param {string} pattern - The pattern string to search for in the text.
  * @returns {number[]} - An array of indices where the pattern is found in the text. Returns an empty array if the pattern is not found.
  *
@@ -26,7 +26,7 @@
  *
  * @see {@link https://en.wikipedia.org/wiki/Rabin%E2%80%93Karp_algorithm}
  */
- 
+
 const BASE = 256 // The number of characters in the alphabet
 const MOD = 997 // A prime number used for the hash function
 

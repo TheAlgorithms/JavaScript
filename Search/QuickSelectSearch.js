@@ -13,7 +13,7 @@
  */
 /**
  * @function quickSelectSearch
-* @param {number[]} array - The array of numbers to select the `k` smallest elements from.
+ * @param {number[]} array - The array of numbers to select the `k` smallest elements from.
  * @param {number} k - The number of smallest elements to select.
  * @returns {number[]} - A slice of the `k` smallest elements from the array.
  * @throws {Error} - Throws an error if the array is empty or if `k` is greater than or equal to the array length.
