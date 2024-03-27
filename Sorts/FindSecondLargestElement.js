@@ -8,7 +8,11 @@
  * Resources:
  * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set
  */
-
+/**
+ * Finds the second largest element in an array of numbers while filtering out duplicate values.
+ * @param {number[]} array The array of numbers.
+ * @returns {number} The second largest element in the array.
+ */
 const secondLargestElement = (array) => {
   const largestElement = Math.max(...array)
   let element = -Number.MAX_VALUE

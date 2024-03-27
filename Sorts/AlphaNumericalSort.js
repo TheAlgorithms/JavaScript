@@ -17,9 +17,14 @@
   2. z11
 
   P.S. use this function, as there are a lot of implementations on the stackoverflow and other forums, but many of them don't work correctly (can't pass all my tests)
-
+  
 */
-
+/**
+ * @param {string} a The first string to compare.
+ * @param {string} b The second string to compare.
+ * @returns {number} Returns a number indicating whether the first string comes before, after, or is the same as the second string in sort order.
+ *                   -1 if a comes before b, 1 if a comes after b, and 0 if they are the same.
+ */
 const alphaNumericalSort = (a, b) => {
   /*
     https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/String/localeCompare

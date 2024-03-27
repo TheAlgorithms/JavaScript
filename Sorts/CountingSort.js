@@ -6,6 +6,11 @@
  *
  * Wikipedia: https://en.wikipedia.org/wiki/Counting_sort
  * Animated Visual: https://www.cs.usfca.edu/~galles/visualization/CountingSort.html
+ *
+ * @param {number[]} arr The array to be sorted.
+ * @param {number} min The minimum value in the array.
+ * @param {number} max The maximum value in the array.
+ * @returns {number[]} The sorted array.
  */
 
 export const countingSort = (arr, min, max) => {
