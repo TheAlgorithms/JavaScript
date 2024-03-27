@@ -9,7 +9,7 @@
  * @see https://www.techiedelight.com/flood-fill-algorithm/
  */
 
-const neighbors = [
+const neighborOffsets = [
   [-1, -1],
   [-1, 0],
   [-1, 1],
@@ -29,6 +29,15 @@ function isInside(rgbData, location) {
 function checkLocation(rgbData, location) {
   if (!isInside(rgbData, location)) {
     throw new Error('location should point to a pixel within the rgbData')
+  }
+}
+
+function* neighbors(rgbData, location) {
+  for (const offset of neighborOffsets) {
+    const neighborLocation = [location[0] + offset[0], location[1] + offset[1]]
+    if (isInside(rgbData, neighborLocation)) {
+      yield neighborLocation
+    }
   }
 }
 
@@ -96,13 +105,8 @@ function breadthFirstFill(
 
   if (rgbData[currentLocation[0]][currentLocation[1]] === targetColor) {
     rgbData[currentLocation[0]][currentLocation[1]] = replacementColor
-
-    for (let i = 0; i < neighbors.length; i++) {
-      const x = currentLocation[0] + neighbors[i][0]
-      const y = currentLocation[1] + neighbors[i][1]
-      if (x >= 0 && x < rgbData.length && y >= 0 && y < rgbData[0].length) {
-        queue.push([x, y])
-      }
+    for (const neighborLocation of neighbors(rgbData, currentLocation)) {
+      queue.push(neighborLocation)
     }
   }
 }
@@ -118,15 +122,8 @@ function breadthFirstFill(
 function depthFirstFill(rgbData, location, targetColor, replacementColor) {
   if (rgbData[location[0]][location[1]] === targetColor) {
     rgbData[location[0]][location[1]] = replacementColor
-
-    for (let i = 0; i < neighbors.length; i++) {
-      const newLocation = [
-        location[0] + neighbors[i][0],
-        location[1] + neighbors[i][1]
-      ]
-      if (isInside(rgbData, newLocation)) {
-        depthFirstFill(rgbData, newLocation, targetColor, replacementColor)
-      }
+    for (const neighborLocation of neighbors(rgbData, location)) {
+      depthFirstFill(rgbData, neighborLocation, targetColor, replacementColor)
     }
   }
 }
