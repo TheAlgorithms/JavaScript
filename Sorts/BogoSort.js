@@ -1,6 +1,6 @@
 /**
  * Checks whether the given array is sorted in ascending order.
- * @param {number[]} array The array to be checked for sorted order.
+ * @param {String[]}
  * @returns {boolean} Returns true if the array is sorted in ascending order, false otherwise.
  */
 export function isSorted(array) {
@@ -15,7 +15,7 @@ export function isSorted(array) {
 
 /**
  * Shuffles the given array randomly in place.
- * @param {any[]} array The array to be shuffled.
+ * @param {any[]}
  */
 function shuffle(array) {
   for (let i = array.length - 1; i; i--) {

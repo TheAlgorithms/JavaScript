@@ -1,6 +1,4 @@
 /**
- * Shuffles the elements of the given array randomly in place.
- * @param {Array} array The array to be shuffled.
  * @returns {Array} The shuffled array.
  */
 export const shuffle = (array) => {

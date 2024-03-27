@@ -8,7 +8,7 @@
  * Wikipedia (Cocktail Shaker Sort): https://en.wikipedia.org/wiki/Cocktail_shaker_sort
  * Wikipedia (Bubble Sort): https://en.wikipedia.org/wiki/Bubble_sort
  *
- * @param {number[]} items The array of numbers to be sorted.
+ * @param {number[]}
  * @returns {number[]} The sorted array.
  */
 export function cocktailShakerSort(items) {
