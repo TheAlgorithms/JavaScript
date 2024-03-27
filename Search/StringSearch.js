@@ -1,7 +1,12 @@
 /*
  * String Search
  */
-
+/**
+ * Builds a prefix table for String where table[i] store prefix of lengest prefix of
+ * substring str[0..i]
+ * @param {string} str - The word to build the prefix table for.
+ * @returns {number[]} - The prefix table for the word.
+ */
 function makeTable(str) {
   // create a table of size equal to the length of `str`
   // table[i] will store the prefix of the longest prefix of the substring str[0..i]
@@ -35,6 +40,11 @@ function makeTable(str) {
 }
 
 // Find all the words that matches in a given string `str`
+/**
+ * @param {string} str - The main text string to search within.
+ * @param {string} word - The word to search for within the text.
+ * @returns {number[]} - An array of indices where the word matches occur in the text.
+ */
 export function stringSearch(str, word) {
   // find the prefix table in O(n)
   const prefixes = makeTable(word)
