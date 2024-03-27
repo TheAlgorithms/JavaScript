@@ -10,6 +10,14 @@
  *
  * Reference: https://www.geeksforgeeks.org/ternary-search/
  */
+/**
+ *
+ * @param {number[]} arr - The sorted array to search in.
+ * @param {number} key - The key to search for.
+ * @param {number} [low=0] - The lowest index of the search range.
+ * @param {number} [high=arr.length - 1] - The highest index of the search range.
+ * @returns {number} - The index of the key if found, otherwise -1.
+ */
 
 function ternarySearchRecursive(arr, key, low = 0, high = arr.length - 1) {
   if (high >= low) {
@@ -46,7 +54,13 @@ function ternarySearchRecursive(arr, key, low = 0, high = arr.length - 1) {
     return -1
   }
 }
-
+/**
+ * @param {number[]} arr - The sorted array to search in.
+ * @param {number} key - The key to search for.
+ * @param {number} [low=0] - The lowest index of the search range.
+ * @param {number} [high=arr.length - 1] - The highest index of the search range.
+ * @returns {number} - The index of the key if found, otherwise -1.
+ */
 function ternarySearchIterative(arr, key, low = 0, high = arr.length - 1) {
   while (high >= low) {
     // find the mid1 and mid2

@@ -8,7 +8,15 @@
  *
  *
  */
-
+/**
+ * Binary Search
+ *
+ * @param {number[]} arr - The array to search within.
+ * @param {number} value - The value to search for in the array.
+ * @param {number} floor - The lower bound index of the search range.
+ * @param {number} ceiling - The upper bound index of the search range.
+ * @returns {number} - The index of the found element if present, otherwise -1.
+ */
 function binarySearch(arr, value, floor, ceiling) {
   // Middle index
   const mid = Math.floor((floor + ceiling) / 2)
@@ -30,7 +38,13 @@ function binarySearch(arr, value, floor, ceiling) {
     return binarySearch(arr, value, mid + 1, ceiling)
   }
 }
-
+/**
+ * Exponential Search
+ * @param {number[]} arr - The array to search within.
+ * @param {number} length - The length of the array.
+ * @param {number} value - The value to search for in the array.
+ * @returns {number} - The index of the found element if present, otherwise -1.
+ */
 function exponentialSearch(arr, length, value) {
   // If value is the first element of the array return this position
   if (arr[0] === value) {

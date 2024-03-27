@@ -13,6 +13,8 @@
  * especially for register allocation problems.
  *
  * you can learn more on disjoint-set / union–find data structure at https://en.wikipedia.org/wiki/Disjoint-set_data_structure
+ * @param {number} n The number of distinct groups to initialize the Union Find data structure.
+ * @param {function(number): number} [key] Optional key function that maps indices of groups. Default is the identity function.
  */
 function UnionFind(n, key) {
   if (!(this instanceof UnionFind)) return new UnionFind(n)
