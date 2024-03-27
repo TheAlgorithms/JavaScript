@@ -21,6 +21,19 @@ describe('FloodFill', () => {
   })
 })
 
+describe.each([breadthFirstSearch, depthFirstSearch])('%o', (floodFillFun) => {
+  it.each([
+    [1, -1],
+    [-1, 1],
+    [0, 7],
+    [7, 0]
+  ])('throws for start position [%i, %i]', (location) => {
+    expect(() =>
+      floodFillFun(generateTestRgbData(), location, green, orange)
+    ).toThrowError()
+  })
+})
+
 /**
  * Utility-function to test the function "breadthFirstSearch".
  *
