@@ -1,9 +1,11 @@
-/*
-  Breadth First Tree Traversal or level order traversal implementation in javascript
-  Author: @GerardUbuntu
-*/
-
+/**
+ * Represents a node in a binary tree.
+ */
 class Node {
+  /**
+   * Creates a new node with the specified data.
+   * @param {*} data The data to be stored in the node.
+   */
   constructor(data) {
     this.data = data
     this.left = null
@@ -11,11 +13,21 @@ class Node {
   }
 }
 
+/**
+ * Represents a binary tree data structure.
+ */
 class BinaryTree {
+  /**
+   * Creates a new binary tree with an empty root.
+   */
   constructor() {
     this.root = null
   }
 
+  /**
+   * Performs breadth-first traversal of the binary tree iteratively.
+   * @returns {Array} An array containing the data of nodes visited in breadth-first order.
+   */
   breadthFirstIterative() {
     const traversal = []
     if (this.root) {
@@ -34,6 +46,10 @@ class BinaryTree {
     return traversal
   }
 
+  /**
+   * Performs breadth-first traversal of the binary tree recursively.
+   * @returns {Array} An array containing the data of nodes visited in breadth-first order.
+   */
   breadthFirstRecursive() {
     const traversal = []
     const h = this.getHeight(this.root)
@@ -43,7 +59,11 @@ class BinaryTree {
     return traversal
   }
 
-  // Computing the height of the tree
+  /**
+   * Computes the height of the tree starting from the specified node.
+   * @param {Node} node The node from which to compute the height.
+   * @returns {number} The height of the tree.
+   */
   getHeight(node) {
     if (node === null) {
       return 0
@@ -53,6 +73,12 @@ class BinaryTree {
     return lheight > rheight ? lheight + 1 : rheight + 1
   }
 
+  /**
+   * Traverses the specified level of the tree and adds nodes' data to the traversal array.
+   * @param {Node} node The current node being traversed.
+   * @param {number} levelRemaining The remaining level to traverse.
+   * @param {Array} traversal The array to store the traversal result.
+   */
   traverseLevel(node, levelRemaining, traversal) {
     if (node === null) {
       return
