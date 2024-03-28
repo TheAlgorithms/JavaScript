@@ -18,7 +18,14 @@
  * https://en.wikipedia.org/wiki/Subsequence
  * https://en.wikipedia.org/wiki/Lexicographic_order
  */
-
+/**
+ * Find all distinct, non-empty subsequences of a given string in lexicographical order using a recursive approach.
+ * @param {string} str
+ * @param {string} seq
+ * @param {number} low
+ * @param {string[]} [output=[]]
+ * @returns {string[]}
+ */
 export const subsequence = (str, seq, low, output = []) => {
   if (low <= str.length && str.length !== 0) {
     output.push(seq)
