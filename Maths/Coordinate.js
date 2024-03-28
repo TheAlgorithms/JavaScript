@@ -5,7 +5,7 @@
  Wikipedia reference: https://en.wikipedia.org/wiki/Geographical_distance#Flat-surface_formulae
 */
 /**
-* @param {number} longitude1 - The longitude of the first point.
+ * @param {number} longitude1 - The longitude of the first point.
  * @param {number} latitude1 - The latitude of the first point.
  * @param {number} longitude2 - The longitude of the second point.
  * @param {number} latitude2 - The latitude of the second point.
@@ -17,7 +17,7 @@ const euclideanDistance = (longitude1, latitude1, longitude2, latitude2) => {
   return Math.sqrt(width * width + height * height)
 }
 /*
-* @param {number} longitude1 - The longitude of the first point.
+ * @param {number} longitude1 - The longitude of the first point.
  * @param {number} latitude1 - The latitude of the first point.
  * @param {number} longitude2 - The longitude of the second point.
  * @param {number} latitude2 - The latitude of the second point.
