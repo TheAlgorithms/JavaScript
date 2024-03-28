@@ -23,7 +23,7 @@ const findRoot = (a, b, func, numberOfIterations) => {
 
   // Bolzano theorem
   const hasRoot = (a, b, func) => {
-    return func(a) * func(b) < 0
+    return func(a) * func(b) <= 0
   }
   if (hasRoot(a, b, func) === false) {
     throw Error(
@@ -45,10 +45,9 @@ const findRoot = (a, b, func, numberOfIterations) => {
   const prod2 = fm * func(b)
 
   // Depending on the sign of the products above, decide which position will m fill (a's or b's)
-  if (prod1 > 0 && prod2 < 0) return findRoot(m, b, func, --numberOfIterations)
-  else if (prod1 < 0 && prod2 > 0)
-    return findRoot(a, m, func, --numberOfIterations)
-  else throw Error('Unexpected behavior')
+  if (prod2 <= 0) return findRoot(m, b, func, --numberOfIterations)
+
+  return findRoot(a, m, func, --numberOfIterations)
 }
 
 export { findRoot }
