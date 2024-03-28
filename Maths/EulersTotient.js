@@ -7,10 +7,12 @@
   Complexity:
     O(sqrt(n))
 */
-
+/**
+ *
+ * @param {Number} n
+ * @returns {Number} count of numbers b/w 1 and n that are coprime to n
+ */
 export const EulersTotient = (n) => {
-  // input: n: int
-  // output: phi(n): count of numbers b/w 1 and n that are coprime to n
   let res = n
   for (let i = 2; i * i <= n; i++) {
     if (n % i === 0) {

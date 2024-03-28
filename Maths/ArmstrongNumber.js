@@ -5,7 +5,8 @@
  * An Armstrong number is equal to the sum of its own digits each raised to the power of the number of digits.
  * For example, 370 is an Armstrong number because 3*3*3 + 7*7*7 + 0*0*0 = 370.
  * An Armstrong number is often called Narcissistic number.
- *
+ * @param {number} num - The number to check if it is an Armstrong number.
+ * @returns {boolean} - True if the number is an Armstrong number, false otherwise.
  */
 
 const armstrongNumber = (num) => {
