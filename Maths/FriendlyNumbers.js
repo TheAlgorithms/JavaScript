@@ -4,7 +4,10 @@
   Source: https://en.wikipedia.org/wiki/Friendly_number
   See also: https://mathworld.wolfram.com/FriendlyNumber.html#:~:text=The%20numbers%20known%20to%20be,numbers%20have%20a%20positive%20density.
 */
-
+/**
+ * @param {Number} firstNumber,
+ * @param {Number} secondNumber
+ */
 export const FriendlyNumbers = (firstNumber, secondNumber) => {
   // input: two integers
   // output: true if the two integers are friendly numbers, false if they are not friendly numbers
@@ -22,11 +25,17 @@ export const FriendlyNumbers = (firstNumber, secondNumber) => {
 
   return abundancyIndex(firstNumber) === abundancyIndex(secondNumber)
 }
-
+/**
+ * @param {Number} number
+ */
 function abundancyIndex(number) {
   return sumDivisors(number) / number
 }
-
+/**
+ *
+ * @param {Number} number
+ * @returns
+ */
 function sumDivisors(number) {
   let runningSumDivisors = number
   for (let i = 0; i < number / 2; i++) {

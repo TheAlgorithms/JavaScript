@@ -6,7 +6,9 @@
  * -Worst case: O(n)
  * -O((log(log(n))) If the data are uniformly distributed
  *
- *
+ * @param {number[]} arr - The sorted array to search in.
+ * @param {number} key - The value to search for in the array.
+ * @returns {number} - The index of the value in the array if found, otherwise -1
  */
 
 export function interpolationSearch(arr, key) {

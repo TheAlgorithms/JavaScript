@@ -11,6 +11,20 @@
  *
  * [Reference](http://en.wikipedia.org/wiki/Quickselect)
  */
+/**
+ * @function quickSelectSearch
+ * @param {number[]} array - The array of numbers to select the `k` smallest elements from.
+ * @param {number} k - The number of smallest elements to select.
+ * @returns {number[]} - A slice of the `k` smallest elements from the array.
+ * @throws {Error} - Throws an error if the array is empty or if `k` is greater than or equal to the array length.
+ * @example
+ * const arr = [1121111, 21, 333, 41, 5, 66, 7777, 28, 19, 11110]
+ * const result1 = quickSelectSearch(arr, 5) // [19, 21, 28, 41, 5]
+ * const result2 = quickSelectSearch(arr, 2) // [19, 5]
+ * const result3 = quickSelectSearch(arr, 7) // [19, 5, 21, 41, 28, 66, 333]
+ *
+ * @see {@link http://en.wikipedia.org/wiki/Quickselect}
+ */
 export function quickSelectSearch(array, k) {
   if (!array || array.length <= k) {
     throw new Error('Invalid arguments')

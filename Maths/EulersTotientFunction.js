@@ -7,7 +7,12 @@
     so EulersTotientFunction(n) (or phi(n)) is the count of numbers in {1,2,3,....,n} that are relatively
     prime to n, i.e., the numbers whose GCD (Greatest Common Divisor) with n is 1.
 */
-
+/**
+ *
+ * @param {Number} x
+ * @param {Number} y
+ * @returns {Number} compute greatest common divisor for x and y
+ */
 const gcdOfTwoNumbers = (x, y) => {
   // x is smaller than y
   // let gcd of x and y is gcdXY

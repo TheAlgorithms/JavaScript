@@ -17,6 +17,11 @@
  *
  * We define a function fibonacciSearch() that takes an array of numbers,
  * the item (number) to be searched for and the length of the items in the array
+ * @function  fibonacciSearch
+ * @param {number[]} arr - The array of numbers to search within.
+ * @param {number} x - The number to search for in the array.
+ * @param {number} n - The length of the array.
+ * @returns {number} - The index of the found element if present, otherwise -1.
  ****************************************************************************/
 
 export const fibonacciSearch = (arr, x, n) => {

@@ -3,6 +3,7 @@
  * License: GPL-3.0 or later
  *
  * This uses `round` instead of `floor` or `trunc`, to guard against potential `cbrt` accuracy errors
+ * @param {Number} num
  */
 
 const perfectCube = (num) =>

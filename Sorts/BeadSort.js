@@ -7,6 +7,9 @@
  * NOTE: It only works for arrays of positive integers.
  *
  * Wikipedia: https://en.wikipedia.org/wiki/Bead_sort
+ * @param {number[]} sequence An array of positive integers to be sorted.
+ * @returns {number[]} Returns a sorted array of positive integers.
+ * @throws {RangeError} Throws a RangeError if the input sequence contains any negative integers.
  */
 export function beadSort(sequence) {
   /* Let's ensure our sequence has only Positive Integers */

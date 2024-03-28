@@ -6,7 +6,14 @@
  * to the lower half. Otherwise narrow it to the upper half. Repeatedly check until the
  * value is found or the interval is empty.
  */
-
+/**
+ * Binary Search (Recursive)
+ * @param {number[]} arr - The sorted array to search within.
+ * @param {number} x - The value to search for in the array.
+ * @param {number} low - The lower bound index of the search interval (default is 0).
+ * @param {number} high - The upper bound index of the search interval (default is arr.length - 1).
+ * @returns {number} - The index of the found element if present, otherwise -1.
+ */
 function binarySearchRecursive(arr, x, low = 0, high = arr.length - 1) {
   const mid = Math.floor(low + (high - low) / 2)
 
@@ -28,6 +35,13 @@ function binarySearchRecursive(arr, x, low = 0, high = arr.length - 1) {
     return -1
   }
 }
+/**
+ * @param {number[]} arr - The sorted array to search within.
+ * @param {number} x - The value to search for in the array.
+ * @param {number} low - The lower bound index of the search interval (default is 0).
+ * @param {number} high - The upper bound index of the search interval (default is arr.length - 1).
+ * @returns {number} - The index of the found element if present, otherwise -1.
+ */
 function binarySearchIterative(arr, x, low = 0, high = arr.length - 1) {
   while (high >= low) {
     const mid = Math.floor(low + (high - low) / 2)

@@ -5,7 +5,6 @@
   Explanation:
     https://en.wikipedia.org/wiki/Exponentiation_by_squaring
 */
-
 const modularBinaryExponentiation = (a, n, m) => {
   // input: a: int, n: int, m: int
   // returns: (a^n) % m: int

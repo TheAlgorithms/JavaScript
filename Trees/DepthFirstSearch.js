@@ -4,7 +4,12 @@
  * DFS Algorithm for traversing or searching graph data structures.
  */
 
-// traverses a give tree from specified root's value
+/**
+ * Traverses a given tree using Depth-First Search (DFS) algorithm from the specified root's value.
+ * @param {Array} tree The tree data structure represented as an array of nodes.
+ * @param {number} rootValue The value of the root node from which traversal starts.
+ * @returns {Array} An array containing the values of nodes traversed in DFS order.
+ */
 function traverseDFS(tree, rootValue) {
   const stack = []
   const res = []
@@ -23,7 +28,12 @@ function traverseDFS(tree, rootValue) {
   }
   return res.reverse()
 }
-
+/**
+ * Searches for a node with the specified value in the given tree using Depth-First Search (DFS) algorithm.
+ * @param {Array} tree The tree data structure represented as an array of nodes.
+ * @param {number} value The value to search for in the tree nodes.
+ * @returns {Object|null} The node object if found, or null if the value is not found in the tree.
+ */
 function searchDFS(tree, value) {
   const stack = []
   stack.push(tree[0])
