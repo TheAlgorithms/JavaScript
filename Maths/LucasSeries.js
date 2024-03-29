@@ -11,7 +11,7 @@
 */
 
 /**
- * @param {Number} index The position of the number you want to get from the Lucas series
+ * @param {Number} index The position of the number you want to get from the Lucas Series
  */
 function lucas(index) {
   // index can't be negative
