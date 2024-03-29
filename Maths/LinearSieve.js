@@ -1,7 +1,7 @@
 /**
  *
  * @param {Number} n
- * @returns {Number[]} array of prime numbers untill number n
+ * @returns {Number[]} array of prime numbers until number n
  */
 const LinearSieve = (n) => {
   /*
