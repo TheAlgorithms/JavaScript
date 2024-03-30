@@ -77,7 +77,11 @@ class CircularQueue {
 
   // Displays the length of queue
   length() {
-    return this.queue.length - 1
+    if (this.queue.length > 0) {
+      return this.queue.length - 1
+    } else {
+      return 0
+    }
   }
 
   // Display the top most value of queue
