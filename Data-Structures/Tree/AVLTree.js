@@ -32,23 +32,62 @@ let utils
  * If no argument is sent it uses utils.comparator
  */
 const AVLTree = (function () {
-  function _avl(comp) {
-    /** @public comparator function */
-    this._comp = undefined
-    this._comp = comp !== undefined ? comp : utils.comparator()
+  class _avl {
+    constructor(comp) {
+      /** @public comparator function */
+      this._comp = undefined
+      this._comp = comp !== undefined ? comp : utils.comparator()
 
-    /** @public root of the AVL Tree */
-    this.root = null
-    /** @public number of elements in AVL Tree */
-    this.size = 0
+      /** @public root of the AVL Tree */
+      this.root = null
+      /** @public number of elements in AVL Tree */
+      this.size = 0
+    }
+
+    /* Public Functions */
+    /**
+     * For Adding Elements to AVL Tree
+     * @param {any} _val
+     * Since in AVL Tree an element can only occur once so
+     * if a element exists it return false
+     * @returns {Boolean} element added or not
+     */
+    add(_val) {
+      const prevSize = this.size
+      this.root = insert(this.root, _val, this)
+      return this.size !== prevSize
+    }
+    /**
+     * TO check is a particular element exists or not
+     * @param {any} _val
+     * @returns {Boolean} exists or not
+     */
+    find(_val) {
+      const temp = searchAVLTree(this.root, _val, this)
+      return temp != null
+    }
+    /**
+     *
+     * @param {any} _val
+     * It is possible that element doesn't exists in tree
+     * in that case it return false
+     * @returns {Boolean} if element was found and deleted
+     */
+    remove(_val) {
+      const prevSize = this.size
+      this.root = deleteElement(this.root, _val, this)
+      return prevSize !== this.size
+    }
   }
 
   // creates new Node Object
-  const Node = function (val) {
-    this._val = val
-    this._left = null
-    this._right = null
-    this._height = 1
+  class Node {
+    constructor(val) {
+      this._val = val
+      this._left = null
+      this._right = null
+      this._height = 1
+    }
   }
 
   // get height of a node
@@ -199,40 +238,6 @@ const AVLTree = (function () {
     return searchAVLTree(root._left, val, tree)
   }
 
-  /* Public Functions */
-  /**
-   * For Adding Elements to AVL Tree
-   * @param {any} _val
-   * Since in AVL Tree an element can only occur once so
-   * if a element exists it return false
-   * @returns {Boolean} element added or not
-   */
-  _avl.prototype.add = function (_val) {
-    const prevSize = this.size
-    this.root = insert(this.root, _val, this)
-    return this.size !== prevSize
-  }
-  /**
-   * TO check is a particular element exists or not
-   * @param {any} _val
-   * @returns {Boolean} exists or not
-   */
-  _avl.prototype.find = function (_val) {
-    const temp = searchAVLTree(this.root, _val, this)
-    return temp != null
-  }
-  /**
-   *
-   * @param {any} _val
-   * It is possible that element doesn't exists in tree
-   * in that case it return false
-   * @returns {Boolean} if element was found and deleted
-   */
-  _avl.prototype.remove = function (_val) {
-    const prevSize = this.size
-    this.root = deleteElement(this.root, _val, this)
-    return prevSize !== this.size
-  }
   return _avl
 })()
 
