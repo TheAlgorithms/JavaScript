@@ -8,8 +8,8 @@
 // Functions: push, pop, peek, view, length
 
 // Creates a stack constructor
-const Stack = (function () {
-  function Stack() {
+class Stack {
+  constructor() {
     // The top of the Stack
     this.top = 0
     // The array representation of the stack
@@ -17,13 +17,13 @@ const Stack = (function () {
   }
 
   // Adds a value onto the end of the stack
-  Stack.prototype.push = function (value) {
+  push(value) {
     this.stack[this.top] = value
     this.top++
   }
 
   // Removes and returns the value at the end of the stack
-  Stack.prototype.pop = function () {
+  pop() {
     if (this.top === 0) {
       return 'Stack is Empty'
     }
@@ -35,23 +35,21 @@ const Stack = (function () {
   }
 
   // Returns the size of the stack
-  Stack.prototype.size = function () {
+  size() {
     return this.top
   }
 
   // Returns the value at the end of the stack
-  Stack.prototype.peek = function () {
+  peek() {
     return this.stack[this.top - 1]
   }
 
   // To see all the elements in the stack
-  Stack.prototype.view = function (output = (value) => console.log(value)) {
+  view(output = (value) => console.log(value)) {
     for (let i = 0; i < this.top; i++) {
       output(this.stack[i])
     }
   }
-
-  return Stack
-})()
+}
 
 export { Stack }
