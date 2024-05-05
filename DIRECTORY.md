@@ -397,6 +397,7 @@
 * **Timing-Functions**
   * [GetMonthDays](Timing-Functions/GetMonthDays.js)
   * [IntervalTimer](Timing-Functions/IntervalTimer.js)
+  * [ParseDate](Timing-Functions/ParseDate.js)
 * **Trees**
   * [BreadthFirstTreeTraversal](Trees/BreadthFirstTreeTraversal.js)
   * [DepthFirstSearch](Trees/DepthFirstSearch.js)
