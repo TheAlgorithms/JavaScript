@@ -9,7 +9,7 @@
  *
  * @author ddaniel27
  */
-import { sieveOfEratosthenes } from '../Maths/SieveOfEratosthenesIntArray'
+import { sieveOfEratosthenes } from '../Maths/SieveOfEratosthenes'
 
 function problem35(n) {
   if (n < 2) {
