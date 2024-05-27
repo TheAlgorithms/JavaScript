@@ -16,12 +16,7 @@
  *
  * @author ddaniel27
  */
-
-// Check if a year is a leap year
-// A leap year occurs on any year evenly divisible by 4, but not on a century unless it is divisible by 400.
-function isLeapYear(year) {
-  return (year % 4 === 0 && year % 100 !== 0) || year % 400 === 0
-}
+import { isLeapYear } from '../Maths/LeapYear'
 
 function problem19() {
   let sundaysCount = 0 // Count of Sundays
