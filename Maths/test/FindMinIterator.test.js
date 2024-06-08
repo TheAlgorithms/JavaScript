@@ -22,13 +22,12 @@ describe('FindMinIterator', () => {
   })
 
   test('given empty generator then min is undefined', () => {
-    const src = function* () {} // eslint-disable-line
+    const src = function* () {}
     expect(FindMinIterator(src())).toBeUndefined()
   })
 
   test('given generator then min is found', () => {
     const src = function* () {
-      // eslint-disable-line
       yield 1
       yield -1
       yield 0
@@ -38,7 +37,6 @@ describe('FindMinIterator', () => {
 
   test('given string generator then min string length is found', () => {
     const src = function* () {
-      // eslint-disable-line
       yield 'abc'
       yield 'de'
       yield 'qwerty'
