@@ -28,12 +28,12 @@ describe('LocalMaximumPoint tests', () => {
   })
 
   it('test with positive and negative numbers', () => {
-    const Array4 = [-4, -3, -2, -1, -5, 4, -1]
-    expect(LocalMaximomPoint(Array4)).toEqual(3)
+    const Array2 = [-4, -3, -2, -1, -5, 4, -1]
+    expect(LocalMaximomPoint(Array2)).toEqual(3)
   })
 
   it('test with floating-point numbers', () => {
-    const Array5 = [1.5, 3.5, 2.5, 0.5, -1.5, -3.5, -2.5]
-    expect(LocalMaximomPoint(Array5)).toEqual(1)
+    const Array2 = [1.5, 3.5, 2.5, 0.5, -1.5, -3.5, -2.5]
+    expect(LocalMaximomPoint(Array2)).toEqual(1)
   })
 })
