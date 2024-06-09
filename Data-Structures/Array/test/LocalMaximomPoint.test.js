@@ -12,7 +12,6 @@ describe('LocalMaximumPoint tests', () => {
   })
 
   it('test boundary maximum points - should find first maximom point from the top', () => {
-    // Test a mix of number types (i.e., positive/negative, numbers with decimals, fractions)
     const Array = [13, 2, 3, 4, 5, 6, 12]
     expect(LocalMaximomPoint(Array)).toEqual(6)
   })
