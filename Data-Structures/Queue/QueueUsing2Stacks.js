@@ -31,7 +31,7 @@ class Queue {
   }
 
   // display elements of the inputstack
-  listIn(output = (value) => console.log(value)) {
+  listInput(output = (value) => console.log(value)) {
     let i = 0
     while (i < this.inputStack.length) {
       output(this.inputStack[i])
@@ -40,7 +40,7 @@ class Queue {
   }
 
   // display element of the outputstack
-  listOut(output = (value) => console.log(value)) {
+  listOutput(output = (value) => console.log(value)) {
     let i = 0
     while (i < this.outputStack.length) {
       output(this.outputStack[i])
