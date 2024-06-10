@@ -26,13 +26,15 @@ describe('LocalMaximumPoint tests', () => {
     expect(LocalMaximomPoint(Array2)).toEqual(3)
   })
 
-  it('test with positive and negative numbers', () => {
-    const Array2 = [-4, -3, -2, -1, -5, 4, -1]
-    expect(LocalMaximomPoint(Array2)).toEqual(3)
+  it('test inner points - repeated local maxima', () => {
+    const Array2 = [1, 5, 5, 5, 3, 2, 1]
+    const result = LocalMaximomPoint(Array2)
+    expect([1, 2, 3]).toContain(result)
   })
 
-  it('test with floating-point numbers', () => {
-    const Array2 = [1.5, 3.5, 2.5, 0.5, -1.5, -3.5, -2.5]
-    expect(LocalMaximomPoint(Array2)).toEqual(1)
+  it('test inner points - alternating peaks and valleys', () => {
+    const Array2 = [1, 3, 2, 4, 3, 5, 4]
+    const result = LocalMaximomPoint(Array2)
+    expect([1, 3, 5]).toContain(result)
   })
 })
