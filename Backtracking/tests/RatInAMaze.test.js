@@ -6,7 +6,6 @@ describe('RatInAMaze', () => {
 
     for (const value of values) {
       // we deliberately want to check whether this constructor call fails or not
-      // eslint-disable-next-line no-new
       expect(() => {
         new RatInAMaze(value)
       }).toThrow()
@@ -15,7 +14,6 @@ describe('RatInAMaze', () => {
 
   it('should fail for an empty array', () => {
     // we deliberately want to check whether this constructor call fails or not
-    // eslint-disable-next-line no-new
     expect(() => {
       new RatInAMaze([])
     }).toThrow()
@@ -28,7 +26,6 @@ describe('RatInAMaze', () => {
     ]
 
     // we deliberately want to check whether this constructor call fails or not
-    // eslint-disable-next-line no-new
     expect(() => {
       new RatInAMaze(array)
     }).toThrow()
@@ -39,7 +36,6 @@ describe('RatInAMaze', () => {
 
     for (const value of values) {
       // we deliberately want to check whether this constructor call fails or not
-      // eslint-disable-next-line no-new
       expect(() => {
         new RatInAMaze(value)
       }).toThrow()
