@@ -23,9 +23,7 @@ function problem19() {
   let dayOfWeek = 2 // 1st Jan 1900 was a Monday, so 1st Jan 1901 was a Tuesday
 
   for (let year = 1901; year <= 2000; year++) {
-    // From 1901 to 2000
     for (let month = 1; month <= 12; month++) {
-      // From January to December
       if (dayOfWeek === 0) {
         // If it's a Sunday (0 is Sunday, 1 is Monday, ..., 6 is Saturday)
         sundaysCount++
