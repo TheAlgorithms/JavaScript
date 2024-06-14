@@ -27,7 +27,6 @@ const solved = [
 describe('Sudoku', () => {
   it('should create a valid board successfully', () => {
     // we deliberately want to check whether this constructor call fails or not
-    // eslint-disable-next-line no-new
     expect(() => {
       new Sudoku(data)
     }).not.toThrow()
