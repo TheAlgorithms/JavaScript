@@ -3,7 +3,12 @@
     More about HCF:
         https://en.wikipedia.org/wiki/Greatest_common_divisor
  */
-
+/**
+ *
+ * @param {Number} x
+ * @param {Number} y
+ * @returns {(string|number)}
+ */
 const findHCF = (x, y) => {
   // If the input numbers are less than 1 return an error message.
   if (x < 1 || y < 1) {

@@ -13,8 +13,17 @@
  * https://natureofcode.com/book/chapter-8-fractals/ #84-the-koch-curve-and-the-arraylist-technique).
  */
 
-/** Class to handle the vector calculations. */
+/** Class to handle the vector calculations.
+ * @class Vector2
+ */
 export class Vector2 {
+  /**
+   * Creates a new Vector2 instance.
+   * @constructor
+   * @param {number} x - The x component of the vector.
+   * @param {number} y - The y component of the vector.
+   */
+
   constructor(x, y) {
     this.x = x
     this.y = y

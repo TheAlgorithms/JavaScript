@@ -11,7 +11,7 @@
  *  More info: https://leetcode.com/problems/letter-combinations-of-a-phone-number/
  */
 
-/*
+/**
  * @param {string} digits
  * @returns {string[]} all the possible combinations
  */

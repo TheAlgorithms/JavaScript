@@ -6,6 +6,10 @@
 */
 
 // factorial utility method.
+/**
+ * @param {Number} n
+ * @returns {Number} the factiorial of n
+ */
 const factorial = (n) => {
   let fact = 1
   while (n !== 0) {

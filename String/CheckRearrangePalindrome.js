@@ -3,7 +3,9 @@
  * Receives a string and returns whether it can be rearranged to become a palindrome or not
  * The string can only be a palindrome if the count of ALL characters is even or if the ONLY ONE character count is odd
  * Input is a string
- *
+ * @param {string} str The input string to be checked for palindrome rearrangement.
+ * @returns {boolean|string} Returns true if the string can be rearranged to form a palindrome,
+ * false if it cannot, or an error message if the input is not a valid string.
  **/
 
 export const palindromeRearranging = (str) => {

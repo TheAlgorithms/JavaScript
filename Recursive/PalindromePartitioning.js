@@ -5,12 +5,23 @@ import { palindrome } from './Palindrome'
  * A palindrome partitioning partitions a string into palindromic substrings.
  * @see https://www.cs.columbia.edu/~sedwards/classes/2021/4995-fall/proposals/Palindrome.pdf
  */
+/**
+ * Returns all possible palindrome partitionings of a given string.
+ * @param {string} s
+ * @returns {string[][]} - Array of arrays containing all possible palindrome partitionings.
+ */
 const partitionPalindrome = (s) => {
   const result = []
   backtrack(s, [], result)
   return result
 }
 
+/**
+ * Backtracking function to find palindrome partitionings.
+ * @param {string} s - The remaining part of the string to be checked for partitioning.
+ * @param {string[]} path - Current partitioning path.
+ * @param {string[][]} result - Array to store all valid palindrome partitionings.
+ */
 const backtrack = (s, path, result) => {
   if (s.length === 0) {
     result.push([...path])

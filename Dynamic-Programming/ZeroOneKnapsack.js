@@ -3,6 +3,11 @@
  * https://en.wikipedia.org/wiki/Knapsack_problem
  *
  * Time and Space Complexity: O(n*cap)
+ * @param {Array<[number, number]>} arr - An array of tuples representing the weights and values of items.
+ * @param {number} n - The number of items available.
+ * @param {number} cap - The capacity of the thief's bag.
+ * @param {Array<Array<number>>} cache - A 2D array to cache computed values for dynamic programming.
+ * @returns {number} The maximum value that can be stolen.
  */
 const zeroOneKnapsack = (arr, n, cap, cache) => {
   // Base Case: No capacity or no items

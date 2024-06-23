@@ -12,7 +12,7 @@
  *  More info: https://leetcode.com/problems/unique-paths/
  */
 
-/*
+/**
  * @param {number} m
  * @param {number} n
  * @return {number}

@@ -1,7 +1,8 @@
 /**
  * Author: Adrito Mukherjee
+ * @class BinaryLifting
  * Binary Lifting implementation in Javascript
- * Binary Lifting is a technique that is used to find the kth ancestor of a node in a rooted tree with N nodes
+ * @classdesc Binary Lifting is a technique that is used to find the kth ancestor of a node in a rooted tree with N nodes
  * The technique requires preprocessing the tree in O(N log N) using dynamic programming
  * The technique can answer Q queries about kth ancestor of any node in O(Q log N)
  * It is faster than the naive algorithm that answers Q queries with complexity O(Q K)
@@ -10,6 +11,12 @@
  */
 
 export class BinaryLifting {
+  /**
+   * Creates an instance of BinaryLifting.
+   * @template T
+   * @param {T} root
+   * @param {Array<[T, T]>} tree - The edges of the tree represented as an array of pairs.
+   */
   constructor(root, tree) {
     this.root = root
     this.connections = new Map()

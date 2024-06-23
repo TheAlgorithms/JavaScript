@@ -1,3 +1,6 @@
+/**
+ * @returns {Array} The shuffled array.
+ */
 export const shuffle = (array) => {
   let maxLength = array.length
   let temp
