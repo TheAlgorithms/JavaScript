@@ -18,9 +18,9 @@ export function KahnsAlgorithm(graph, n) {
   if (n === null || n === undefined) throw Error('Invalid n was given')
   const inDegree = Array(n).fill(0)
   const result = []
-  for (const neigbhours of graph) {
-    for (const neigbhour of neigbhours) {
-      inDegree[neigbhour] += 1
+  for (const neighbours of graph) {
+    for (const neighbour of neighbours) {
+      inDegree[neighbour] += 1
     }
   }
   const queue = new Queue()
@@ -33,10 +33,10 @@ export function KahnsAlgorithm(graph, n) {
   while (queue.length !== 0) {
     const node = queue.dequeue()
     result.push(node)
-    for (const neigbhour of graph[node]) {
-      inDegree[neigbhour] -= 1
-      if (inDegree[neigbhour] == 0) {
-        queue.enqueue(neigbhour)
+    for (const neighbour of graph[node]) {
+      inDegree[neighbour] -= 1
+      if (inDegree[neighbour] == 0) {
+        queue.enqueue(neighbour)
       }
     }
   }
