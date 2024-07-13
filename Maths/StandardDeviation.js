@@ -1,7 +1,7 @@
 /*
  * Returns the standard deviation given an array of integers
- * @param  int[]   nums    array of integers
- * @return int             standard deviation
+ * @param  number[]   nums    array of integers
+ * @return number             standard deviation
  * @see https://en.wikipedia.org/wiki/Standard_deviation
  */
 function standardDeviation(nums) {
@@ -14,8 +14,8 @@ function standardDeviation(nums) {
 
   let sum = 0
   for (let i = 0; i < nums.length; i++) {
-    if (!Number.isInteger(nums[i])) {
-      throw new TypeError('Integer type required in array input!')
+    if (isNaN(nums[i])) {
+      throw new TypeError('Number type required in array input!')
     }
     sum += nums[i]
   }
