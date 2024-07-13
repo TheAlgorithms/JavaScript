@@ -14,7 +14,7 @@ function standardDeviation(nums) {
 
   let sum = 0
   for (let i = 0; i < nums.length; i++) {
-    if (isNaN(nums[i]) || Array.isArray(nums[i])) {
+    if (typeof (nums[i]) != 'number') {
       throw new TypeError('Number type required in array input!')
     }
     sum += nums[i]
