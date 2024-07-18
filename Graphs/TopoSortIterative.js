@@ -22,7 +22,7 @@ export function TopoSortIterative(graph) {
 
   for (const neighbors of graph) {
     for (const neighbor of neighbors) {
-      inDegree[neighbor] += 1
+      inDegree[neighbor]++
     }
   }
 
@@ -34,9 +34,9 @@ export function TopoSortIterative(graph) {
   while (queue.length !== 0) {
     const node = queue.dequeue()
     result[index] = node
-    index += 1
+    index++
     for (let neighbor of graph[node]) {
-      inDegree[neighbor] -= 1
+      inDegree[neighbor]--
       if (inDegree[neighbor] === 0) {
         queue.enqueue(neighbor)
       }

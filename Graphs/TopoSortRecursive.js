@@ -1,26 +1,35 @@
-function TopoSortRecursiveFunction(graph, visited, stack, path, vertex) {
-  //marking current vertex as visited
-  visited.add(vertex)
-
-  //marking current vertex as being part of current path
-  path[vertex] = 1
-  if (graph[vertex] && graph[vertex].length !== 0) {
+function TopoSort(graph) {
+  const n = graph.length
+  const result = []
+  const path = Array(n).fill(0)
+  const visited = Array(n).fill(0)
+  function preorder(vertex) {
+    visited[vertex] = 1
+    path[vertex] = 1
     for (const neighbor of graph[vertex]) {
-      //if neighbor is not visited then visit else continue
-      if (!visited.has(neighbor)) {
-        TopoSortRecursiveFunction(graph, visited, stack, path, neighbor)
-      } else if (path[neighbor] == 1) return
+      if (visited[neighbor] === 0) {
+        preorder(neighbor)
+      } else if (path[neighbor] === 1) {
+        throw new Error('Graph contsins a cycle')
+      }
     }
+    path[vertex] = 0
+    result.push(vertex)
   }
-
-  //unmarking vertex
-  path[vertex] = 0
-
-  //visited all vertex coming after the current vertex
-  //so added to stack
-  stack.push(vertex)
+  return function () {
+    for (let i = 0; i < n; i++) {
+      if (visited[i] === 0) {
+        try {
+          preorder(i)
+        } catch (err) {
+          console.log(err)
+          return null
+        }
+      }
+    }
+    return result.reverse()
+  }
 }
-
 /**
  *
  * @author {RaviSadam}
@@ -36,24 +45,6 @@ function TopoSortRecursiveFunction(graph, visited, stack, path, vertex) {
  *
  */
 export function TopoSortRecursive(graph) {
-  const n = graph.length
-  const stack = []
-  //visited set for keep tracking of visited vertises
-  const visited = new Set()
-
-  //path array for keep tacking of vertices
-  //visited in current path
-
-  const path = Array(n).fill(0)
-  for (let i = 0; i < n; i++) {
-    if (!visited.has(i)) {
-      TopoSortRecursiveFunction(graph, visited, stack, path, i)
-    }
-  }
-  for (const value of path) {
-    if (value === 1) return null
-  }
-  //reverse the stack for getting exact topological order
-  stack.reverse()
-  return stack
+  const topoSort = TopoSort(graph)
+  return topoSort()
 }
