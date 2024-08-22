@@ -39,7 +39,7 @@ if you make any mistakes. The names of the maintainers of this repository are li
 You can find a list of the algorithms currently in the repository in the [directory](DIRECTORY.md). Explanations of
 many of the algorithms can be found in the [wiki][explanation].
 
----
+--- stand out for reason
 
 <!-- Banner Image -->
 
