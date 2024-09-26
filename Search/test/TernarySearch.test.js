@@ -29,13 +29,13 @@ test('should return the index of a number in an array of numbers:', () => {
 test('should return the index of a string in an array of strings:', () => {
   const indexNumber = ternarySearchRecursive(
     ['Ali', 'Cathrynli', 'Josuke', 'Thomas'],
-    'Cathrynli'
+    'Josuke'
   )
-  expect(indexNumber).toBe(1)
+  expect(indexNumber).toBe(2)
 })
 
 test('should return the index of a string in an array of strings:', () => {
-  const indexNumber = ternarySearchRecursive(
+  const indexNumber = ternarySearchIterative(
     ['Ali', 'Cathrynli', 'Josuke', 'Thomas'],
     'Josuke'
   )
@@ -44,6 +44,14 @@ test('should return the index of a string in an array of strings:', () => {
 
 test('should return the index of a string in an array of strings:', () => {
   const indexNumber = ternarySearchRecursive(
+    ['Ali', 'Cathrynli', 'Josuke', 'Thomas'],
+    'Angela'
+  )
+  expect(indexNumber).toBe(-1)
+})
+
+test('should return the index of a string in an array of strings:', () => {
+  const indexNumber = ternarySearchIterative(
     ['Ali', 'Cathrynli', 'Josuke', 'Thomas'],
     'Angela'
   )
