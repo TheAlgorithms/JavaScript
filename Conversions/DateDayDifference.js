@@ -6,54 +6,28 @@
     Algorithm & Explanation : https://ncalculators.com/time-date/date-difference-calculator.htm
 */
 
-// Internal method for make calculations easier
-const isLeap = (year) => {
-  if (year % 400 === 0) return true
-  else if (year % 100 === 0) return false
-  else if (year % 4 === 0) return true
-  else return false
-}
+import { isLeapYear } from '../Maths/LeapYear'
+import { parseDate } from '../Timing-Functions/ParseDate'
+
 const DateToDay = (dd, mm, yyyy) => {
-  return Math.floor(
+  return (
     365 * (yyyy - 1) +
-      (yyyy - 1) / 4 -
-      (yyyy - 1) / 100 +
-      (yyyy - 1) / 400 +
-      dd +
-      (367 * mm - 362) / 12 +
-      (mm <= 2 ? 0 : isLeap(yyyy) ? -1 : -2)
+    Math.floor((yyyy - 1) / 4) -
+    Math.floor((yyyy - 1) / 100) +
+    Math.floor((yyyy - 1) / 400) +
+    dd +
+    Math.floor((367 * mm - 362) / 12) +
+    (mm <= 2 ? 0 : isLeapYear(yyyy) ? -1 : -2)
   )
 }
 
 const DateDayDifference = (date1, date2) => {
-  // firstly, check that both input are string or not.
-  if (typeof date1 !== 'string' || typeof date2 !== 'string') {
-    return new TypeError('Argument is not a string.')
-  }
-  // extract the first date
-  const [firstDateDay, firstDateMonth, firstDateYear] = date1
-    .split('/')
-    .map((ele) => Number(ele))
-  // extract the second date
-  const [secondDateDay, secondDateMonth, secondDateYear] = date2
-    .split('/')
-    .map((ele) => Number(ele))
-  // check the both data are valid or not.
-  if (
-    firstDateDay < 0 ||
-    firstDateDay > 31 ||
-    firstDateMonth > 12 ||
-    firstDateMonth < 0 ||
-    secondDateDay < 0 ||
-    secondDateDay > 31 ||
-    secondDateMonth > 12 ||
-    secondDateMonth < 0
-  ) {
-    return new TypeError('Date is not valid.')
-  }
+  const firstDate = parseDate(date1)
+  const secondDate = parseDate(date2)
+
   return Math.abs(
-    DateToDay(secondDateDay, secondDateMonth, secondDateYear) -
-      DateToDay(firstDateDay, firstDateMonth, firstDateYear)
+    DateToDay(secondDate.day, secondDate.month, secondDate.year) -
+      DateToDay(firstDate.day, firstDate.month, firstDate.year)
   )
 }
 

@@ -15,4 +15,8 @@ describe('checkFlatCase function', () => {
     const actual = checkFlatCase('abcdefghijklmnopqrstuvwxyz')
     expect(actual).toBe(true)
   })
+
+  it('should throw when input is not a string', () => {
+    expect(() => checkFlatCase(100)).toThrowError()
+  })
 })

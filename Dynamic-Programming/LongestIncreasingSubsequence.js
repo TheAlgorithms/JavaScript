@@ -6,6 +6,9 @@
 // Return the length of the Longest Increasing Subsequence, given array x
 function longestIncreasingSubsequence(x) {
   const length = x.length
+  if (length == 0) {
+    return 0
+  }
   const dp = Array(length).fill(1)
 
   let res = 1

@@ -10,7 +10,7 @@
 const ReverseNumber = (number) => {
   // firstly, check that input is a number or not.
   if (typeof number !== 'number') {
-    return new TypeError('Argument is not a number.')
+    throw new TypeError('Argument is not a number.')
   }
   // A variable for storing the reversed number.
   let reverseNumber = 0

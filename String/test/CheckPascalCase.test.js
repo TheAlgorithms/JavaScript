@@ -17,3 +17,7 @@ test('CheckPascalCase(The Algorithms) -> false', () => {
   const res = CheckPascalCase(word)
   expect(res).toBeFalsy()
 })
+
+test('CheckPascalCase throws when input is not a string', () => {
+  expect(() => CheckPascalCase(100)).toThrowError()
+})

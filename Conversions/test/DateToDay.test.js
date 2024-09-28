@@ -1,35 +1,28 @@
 import { DateToDay } from '../DateToDay'
 
-test('The date 18/02/2001 is Sunday', () => {
-  const res = DateToDay('18/02/2001')
-  expect(res).toBe('Sunday')
-})
+describe('DateToDay', () => {
+  it.each([
+    ['18/02/2001', 'Sunday'],
+    ['18/12/2020', 'Friday'],
+    ['12/12/2012', 'Wednesday'],
+    ['01/01/2001', 'Monday'],
+    ['1/1/2020', 'Wednesday'],
+    ['2/3/2014', 'Sunday'],
+    ['28/2/2017', 'Tuesday'],
+    ['02/03/2024', 'Saturday'],
+    ['29/02/2024', 'Thursday']
+  ])('%s is %s', (date, day) => {
+    expect(DateToDay(date)).toBe(day)
+  })
 
-test('The date 18/12/2020 is Friday', () => {
-  const res = DateToDay('18/12/2020')
-  expect(res).toBe('Friday')
-})
+  it('should throw when input is not a string', () => {
+    expect(() => DateToDay(100)).toThrowError()
+  })
 
-test('The date 12/12/2012 is Wednesday', () => {
-  const res = DateToDay('12/12/2012')
-  expect(res).toBe('Wednesday')
-})
-test('The date 01/01/2001 is Monday', () => {
-  const res = DateToDay('01/01/2001')
-  expect(res).toBe('Monday')
-})
-
-test('The date 1/1/2020 is Wednesday', () => {
-  const res = DateToDay('1/1/2020')
-  expect(res).toBe('Wednesday')
-})
-
-test('The date 2/3/2014 is Sunday', () => {
-  const res = DateToDay('2/3/2014')
-  expect(res).toBe('Sunday')
-})
-
-test('The date 28/2/2017 is Tuesday', () => {
-  const res = DateToDay('28/2/2017')
-  expect(res).toBe('Tuesday')
+  it.each(['32/01/2000', '00/01/2000', '15/00/2000', '15/13/2000'])(
+    'should throw when input is not a correct date %s',
+    (wrongDate) => {
+      expect(() => DateToDay(wrongDate)).toThrowError()
+    }
+  )
 })

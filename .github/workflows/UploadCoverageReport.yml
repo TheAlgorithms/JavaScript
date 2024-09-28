@@ -1,0 +1,45 @@
+---
+name: UploadCoverageReport
+
+'on':
+  workflow_dispatch:
+  push:
+    branches:
+      - master
+  pull_request:
+
+env:
+  REPORT_PATH: "coverage/coverage-final.json"
+
+jobs:
+  UploadCoverageReport:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Generate coverage report
+        run: npm test -- --coverage
+
+      - name: Upload coverage to codecov (tokenless)
+        if: github.event_name == 'pull_request' && github.event.pull_request.head.repo.full_name != github.repository
+        uses: codecov/codecov-action@v4
+        with:
+          files: "${{ env.REPORT_PATH }}"
+          fail_ci_if_error: true
+
+      - name: Upload coverage to codecov (with token)
+        if: "! github.event.pull_request.head.repo.fork "
+        uses: codecov/codecov-action@v4
+        with:
+          token: ${{ secrets.CODECOV_TOKEN }}
+          files: "${{ env.REPORT_PATH }}"
+          fail_ci_if_error: true
+...
