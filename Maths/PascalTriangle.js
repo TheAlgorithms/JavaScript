@@ -17,8 +17,6 @@ const generate = (numRows) => {
     return []
   } else if (numRows === 1) {
     return [[1]]
-  } else if (numRows === 2) {
-    return [[1], [1, 1]]
   } else {
     for (let i = 2; i < numRows; i++) {
       addRow(triangle)

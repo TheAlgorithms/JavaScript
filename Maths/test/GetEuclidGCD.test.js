@@ -1,12 +1,22 @@
-import { GetEuclidGCD } from '../GetEuclidGCD'
+import { GetEuclidGCD, GetEuclidGCDRecursive } from '../GetEuclidGCD'
 
-function testEuclidGCD(n, m, expected) {
-  test('Testing on ' + n + ' and ' + m + '!', () => {
-    expect(GetEuclidGCD(n, m)).toBe(expected)
+describe.each([GetEuclidGCD, GetEuclidGCDRecursive])('%o', (gcdFunction) => {
+  it.each([
+    [5, 20, 5],
+    [109, 902, 1],
+    [290, 780, 10],
+    [104, 156, 52],
+    [0, 100, 100],
+    [-5, 50, 5],
+    [0, 0, 0],
+    [1, 1234567, 1]
+  ])('returns correct result for %i and %j', (inputA, inputB, expected) => {
+    expect(gcdFunction(inputA, inputB)).toBe(expected)
+    expect(gcdFunction(inputB, inputA)).toBe(expected)
   })
-}
 
-testEuclidGCD(5, 20, 5)
-testEuclidGCD(109, 902, 1)
-testEuclidGCD(290, 780, 10)
-testEuclidGCD(104, 156, 52)
+  it('should throw when any of the inputs is not a number', () => {
+    expect(() => gcdFunction('1', 2)).toThrowError()
+    expect(() => gcdFunction(1, '2')).toThrowError()
+  })
+})

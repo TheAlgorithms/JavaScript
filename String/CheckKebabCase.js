@@ -10,7 +10,7 @@
 const CheckKebabCase = (varName) => {
   // firstly, check that input is a string or not.
   if (typeof varName !== 'string') {
-    return new TypeError('Argument is not a string.')
+    throw new TypeError('Argument is not a string.')
   }
 
   const pat = /(\w+)-(\w)([\w-]*)/

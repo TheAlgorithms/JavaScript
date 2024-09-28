@@ -18,14 +18,14 @@
 const RailwayTimeConversion = (timeString) => {
   // firstly, check that input is a string or not.
   if (typeof timeString !== 'string') {
-    return new TypeError('Argument is not a string.')
+    throw new TypeError('Argument is not a string.')
   }
   // split the string by ':' character.
   const [hour, minute, secondWithShift] = timeString.split(':')
   // split second and shift value.
   const [second, shift] = [
-    secondWithShift.substr(0, 2),
-    secondWithShift.substr(2)
+    secondWithShift.substring(0, 2),
+    secondWithShift.substring(2)
   ]
   // convert shifted time to not-shift time(Railway time) by using the above explanation.
   if (shift === 'PM') {

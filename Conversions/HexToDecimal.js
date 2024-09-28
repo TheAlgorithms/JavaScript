@@ -1,4 +1,7 @@
 function hexToInt(hexNum) {
+  if (!/^[0-9A-F]+$/.test(hexNum)) {
+    throw new Error('Invalid hex string.')
+  }
   const numArr = hexNum.split('') // converts number to array
   return numArr.map((item, index) => {
     switch (item) {
@@ -29,4 +32,4 @@ function hexToDecimal(hexNum) {
   }, 0)
 }
 
-export { hexToInt, hexToDecimal }
+export { hexToDecimal }

@@ -7,6 +7,7 @@
     "test": "vitest run",
     "test-watch": "vitest",
     "style": "npx prettier . --write",
+    "check-style": "npx prettier . --check",
     "prepare": "husky install"
   },
   "author": "TheAlgorithms",
@@ -15,7 +16,8 @@
     "globby": "^13.2.2",
     "husky": "^8.0.3",
     "prettier": "^3.0.3",
-    "vitest": "^0.34.6"
+    "vitest": "^1.2.1",
+    "@vitest/coverage-v8": "^1.2.1"
   },
   "engines": {
     "node": ">=20.6.0"

@@ -11,11 +11,11 @@ jobs:
     name: Code style and tests
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
-      - uses: actions/setup-node@v3
+      - uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 22
           cache: npm
 
       - name: 📦 Install dependencies
@@ -25,13 +25,13 @@ jobs:
         run: npm run test
 
       - name: 💄 Code style
-        run: npm run style
+        run: npm run check-style
 
   codespell:
     name: Check for spelling errors
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - uses: codespell-project/actions-codespell@master
         with:
           # file types to ignore

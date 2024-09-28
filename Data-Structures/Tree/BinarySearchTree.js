@@ -13,77 +13,79 @@
 // class Node
 const Node = (function Node() {
   // Node in the tree
-  function Node(val) {
-    this.value = val
-    this.left = null
-    this.right = null
-  }
-
-  // Search the tree for a value
-  Node.prototype.search = function (val) {
-    if (this.value === val) {
-      return this
-    } else if (val < this.value && this.left !== null) {
-      return this.left.search(val)
-    } else if (val > this.value && this.right !== null) {
-      return this.right.search(val)
+  class Node {
+    constructor(val) {
+      this.value = val
+      this.left = null
+      this.right = null
     }
-    return null
-  }
 
-  // Visit a node
-  Node.prototype.visit = function (output = (value) => console.log(value)) {
-    // Recursively go left
-    if (this.left !== null) {
-      this.left.visit()
-    }
-    // Print out value
-    output(this.value)
-    // Recursively go right
-    if (this.right !== null) {
-      this.right.visit()
-    }
-  }
-
-  // Add a node
-  Node.prototype.addNode = function (n) {
-    if (n.value < this.value) {
-      if (this.left === null) {
-        this.left = n
-      } else {
-        this.left.addNode(n)
+    // Search the tree for a value
+    search(val) {
+      if (this.value === val) {
+        return this
+      } else if (val < this.value && this.left !== null) {
+        return this.left.search(val)
+      } else if (val > this.value && this.right !== null) {
+        return this.right.search(val)
       }
-    } else if (n.value > this.value) {
-      if (this.right === null) {
-        this.right = n
-      } else {
-        this.right.addNode(n)
+      return null
+    }
+
+    // Visit a node
+    visit(output = (value) => console.log(value)) {
+      // Recursively go left
+      if (this.left !== null) {
+        this.left.visit()
+      }
+      // Print out value
+      output(this.value)
+      // Recursively go right
+      if (this.right !== null) {
+        this.right.visit()
       }
     }
-  }
 
-  // remove a node
-  Node.prototype.removeNode = function (val) {
-    if (val === this.value) {
-      if (!this.left && !this.right) {
-        return null
-      } else {
-        if (this.left) {
-          const leftMax = maxVal(this.left)
-          this.value = leftMax
-          this.left = this.left.removeNode(leftMax)
+    // Add a node
+    addNode(n) {
+      if (n.value < this.value) {
+        if (this.left === null) {
+          this.left = n
         } else {
-          const rightMin = minVal(this.right)
-          this.value = rightMin
-          this.right = this.right.removeNode(rightMin)
+          this.left.addNode(n)
+        }
+      } else if (n.value > this.value) {
+        if (this.right === null) {
+          this.right = n
+        } else {
+          this.right.addNode(n)
         }
       }
-    } else if (val < this.value) {
-      this.left = this.left && this.left.removeNode(val)
-    } else if (val > this.value) {
-      this.right = this.right && this.right.removeNode(val)
     }
-    return this
+
+    // remove a node
+    removeNode(val) {
+      if (val === this.value) {
+        if (!this.left && !this.right) {
+          return null
+        } else {
+          if (this.left) {
+            const leftMax = maxVal(this.left)
+            this.value = leftMax
+            this.left = this.left.removeNode(leftMax)
+          } else {
+            const rightMin = minVal(this.right)
+            this.value = rightMin
+            this.right = this.right.removeNode(rightMin)
+          }
+        }
+      } else if (val < this.value) {
+        this.left = this.left && this.left.removeNode(val)
+      } else if (val > this.value) {
+        this.right = this.right && this.right.removeNode(val)
+      }
+      return this
+    }
   }
 
   // find maximum value in the tree
@@ -107,44 +109,46 @@ const Node = (function Node() {
 
 // class Tree
 const Tree = (function () {
-  function Tree() {
-    // Just store the root
-    this.root = null
-  }
-
-  // Inorder traversal
-  Tree.prototype.traverse = function () {
-    if (!this.root) {
-      // No nodes are there in the tree till now
-      return
+  class Tree {
+    constructor() {
+      // Just store the root
+      this.root = null
     }
-    this.root.visit()
-  }
 
-  // Start by searching the root
-  Tree.prototype.search = function (val) {
-    const found = this.root.search(val)
-    if (found !== null) {
-      return found.value
+    // Inorder traversal
+    traverse() {
+      if (!this.root) {
+        // No nodes are there in the tree till now
+        return
+      }
+      this.root.visit()
     }
-    // not found
-    return null
-  }
 
-  // Add a new value to the tree
-  Tree.prototype.addValue = function (val) {
-    const n = new Node(val)
-    if (this.root === null) {
-      this.root = n
-    } else {
-      this.root.addNode(n)
+    // Start by searching the root
+    search(val) {
+      const found = this.root.search(val)
+      if (found !== null) {
+        return found.value
+      }
+      // not found
+      return null
     }
-  }
 
-  // remove a value from the tree
-  Tree.prototype.removeValue = function (val) {
-    // remove something if root exists
-    this.root = this.root && this.root.removeNode(val)
+    // Add a new value to the tree
+    addValue(val) {
+      const n = new Node(val)
+      if (this.root === null) {
+        this.root = n
+      } else {
+        this.root.addNode(n)
+      }
+    }
+
+    // remove a value from the tree
+    removeValue(val) {
+      // remove something if root exists
+      this.root = this.root && this.root.removeNode(val)
+    }
   }
 
   // returns the constructor
