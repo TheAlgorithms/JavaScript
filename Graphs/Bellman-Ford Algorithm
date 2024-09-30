@@ -1,0 +1,59 @@
+class Solution {
+    // Function to implement Bellman Ford
+    // edges: array of arrays which represents the graph
+    // S: source vertex to start traversing graph with
+    // V: number of vertices
+    bellmanFord(V, edges, S) {
+        // Initialize distance array with a large value (1e8)
+        let dis = new Array(V).fill(1e8);
+        dis[S] = 0;
+
+        // Bellman Ford algorithm
+        for (let i = 0; i < V - 1; i++) {
+            for (let edge of edges) {
+                let u = edge[0];
+                let v = edge[1];
+                let wt = edge[2];
+
+                // If you have not reached 'u' till now, move forward
+                if (dis[u] !== 1e8 && dis[u] + wt < dis[v]) {
+                    // Update distance array
+                    dis[v] = dis[u] + wt;
+                }
+            }
+        }
+
+        // Checking for negative cycle
+        // Check for nth relaxation
+        for (let edge of edges) {
+            let u = edge[0];
+            let v = edge[1];
+            let wt = edge[2];
+
+            if (dis[u] !== 1e8 && dis[u] + wt < dis[v]) {
+                // If the distance array gets reduced for the nth iteration
+                // It means a negative cycle exists
+                return [-1];
+            }
+        }
+
+        return dis;
+    }
+}
+
+// Example usage:
+let solution = new Solution();
+let V = 5; // Number of vertices
+let edges = [
+    [0, 1, -1],
+    [0, 2, 4],
+    [1, 2, 3],
+    [1, 3, 2],
+    [1, 4, 2],
+    [3, 2, 5],
+    [3, 1, 1],
+    [4, 3, -3]
+];
+let S = 0; // Source vertex
+
+console.log(solution.bellmanFord(V, edges, S));
