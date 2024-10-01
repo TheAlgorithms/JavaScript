@@ -1,6 +1,6 @@
 /**
  * This class represents a Trapezoid and provides methods to calculate its area and perimeter.
- * @see {@link https://en.wikipedia.org/wiki/Trapezoid|Trapezoid}
+ * @see {@link https://en.wikipedia.org/wiki/Trapezoid}
  * @class
  */
 export default class Trapezoid {
