@@ -41,6 +41,7 @@
   * [Base64ToArrayBuffer](Conversions/Base64ToArrayBuffer.js)
   * [BinaryToDecimal](Conversions/BinaryToDecimal.js)
   * [BinaryToHex](Conversions/BinaryToHex.js)
+  * [CamelPascalToSnakeCase](Conversions/CamelPascalToSnakeCase.js)
   * [DateDayDifference](Conversions/DateDayDifference.js)
   * [DateToDay](Conversions/DateToDay.js)
   * [DecimalToBinary](Conversions/DecimalToBinary.js)
