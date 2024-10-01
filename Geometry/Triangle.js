@@ -1,7 +1,7 @@
 /**
- * Represents a Triangle and provides methods to calculate its area and perimeter
+ * This class represents a Triangle and provides methods to calculate its area and perimeter
  * based on either all three sides or the base and height.
- * @see {@link https://en.wikipedia.org/wiki/Triangle|Triangle}
+ * @see {@link https://en.wikipedia.org/wiki/Triangle}
  * @class
  */
 export default class Triangle {
