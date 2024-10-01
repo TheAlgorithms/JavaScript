@@ -1,6 +1,6 @@
 /**
- * Represents a rectangle and provides methods to calculate its perimeter and area.
- * @see {@link https://en.wikipedia.org/wiki/Rectangle|Rectangle}
+ * This class represents a rectangle and provides methods to calculate its perimeter and area.
+ * @see {@link https://en.wikipedia.org/wiki/Rectangle}
  */
 export default class Rectangle {
   /** @private */
