@@ -10,12 +10,12 @@
  */
 function quickSort(items, left = 0, right = items.length - 1) {
   if (left < right) {
-    let pivotIndex = partition(items, left, right);
+    let pivotIndex = partition(items, left, right)
 
-    quickSort(items, left, pivotIndex - 1);
-    quickSort(items, pivotIndex + 1, right);
+    quickSort(items, left, pivotIndex - 1)
+    quickSort(items, pivotIndex + 1, right)
   }
-  return items;
+  return items
 }
 
 /**
@@ -29,18 +29,18 @@ function quickSort(items, left = 0, right = items.length - 1) {
  * @return {number} - The index of the pivot element after partitioning.
  */
 function partition(items, left, right) {
-  const pivot = items[right];  
-  let i = left - 1;            
+  const pivot = items[right]
+  let i = left - 1
 
   for (let j = left; j < right; j++) {
     if (items[j] <= pivot) {
-      i++;
-      [items[i], items[j]] = [items[j], items[i]];
+      i++
+      ;[items[i], items[j]] = [items[j], items[i]]
     }
   }
 
-  [items[i + 1], items[right]] = [items[right], items[i + 1]];
-  return i + 1;  
+  ;[items[i + 1], items[right]] = [items[right], items[i + 1]]
+  return i + 1
 }
 
-export { quickSort };
+export { quickSort }
