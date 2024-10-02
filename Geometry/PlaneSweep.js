@@ -42,7 +42,7 @@ export default class PlaneSweep {
       !segments.every((seg) => seg.start && seg.end)
     ) {
       throw new Error(
-        'segments must be a non-empty array of objects with both start and end properties.'
+        'segments must be a non-empty array of objects with start and end properties.'
       )
     }
   }
@@ -79,22 +79,35 @@ export default class PlaneSweep {
     })
   }
 
-  /**
-   * Checks if two line segments intersect.
-   * @private
-   * @param {{start: {x: number, y: number}, end: {x: number, y: number}}} seg1 - The first segment.
-   * @param {{start: {x: number, y: number}, end: {x: number, y: number}}} seg2 - The second segment.
-   * @returns {boolean} True if the segments intersect, otherwise false.
-   */
   #doSegmentsIntersect(seg1, seg2) {
-    const ccw = (A, B, C) =>
-      (C.y - A.y) * (B.x - A.x) > (B.y - A.y) * (C.x - A.x)
-    return (
-      ccw(seg1.start, seg2.start, seg2.end) !==
-        ccw(seg1.end, seg2.start, seg2.end) &&
-      ccw(seg1.start, seg1.end, seg2.start) !==
-        ccw(seg1.start, seg1.end, seg2.end)
-    )
+    const ccw = (A, B, C) => {
+      const val = (C.y - A.y) * (B.x - A.x) - (B.y - A.y) * (C.x - A.x)
+      if (Math.abs(val) < Number.EPSILON) return 0 // Collinear
+      return val > 0 ? 1 : -1 // Clockwise or counterclockwise
+    }
+
+    const onSegment = (p, q, r) => {
+      return (
+        q.x <= Math.max(p.x, r.x) &&
+        q.x >= Math.min(p.x, r.x) &&
+        q.y <= Math.max(p.y, r.y) &&
+        q.y >= Math.min(p.y, r.y)
+      )
+    }
+
+    const o1 = ccw(seg1.start, seg1.end, seg2.start)
+    const o2 = ccw(seg1.start, seg1.end, seg2.end)
+    const o3 = ccw(seg2.start, seg2.end, seg1.start)
+    const o4 = ccw(seg2.start, seg2.end, seg1.end)
+
+    // General case of intersection
+    if (o1 !== o2 && o3 !== o4) return true
+
+    // Special cases: collinear segments that may touch
+    if (o1 === 0 && onSegment(seg1.start, seg2.start, seg1.end)) return true
+    if (o2 === 0 && onSegment(seg1.start, seg2.end, seg1.end)) return true
+    if (o3 === 0 && onSegment(seg2.start, seg1.start, seg2.end)) return true
+    return o4 === 0 && onSegment(seg2.start, seg1.end, seg2.end)
   }
 
   /**

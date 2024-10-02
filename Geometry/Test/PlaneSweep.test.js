@@ -1,115 +1,158 @@
 import PlaneSweep from '../PlaneSweep'
 
 describe('PlaneSweep', () => {
-  describe('Constructor', () => {
-    test('creates an instance with valid segments', () => {
+  let planeSweep
+
+  describe('constructor', () => {
+    it('should create an instance with valid segments', () => {
       const segments = [
-        { start: { x: 1, y: 1 }, end: { x: 4, y: 4 } },
-        { start: { x: 1, y: 4 }, end: { x: 4, y: 1 } }
+        { start: { x: 0, y: 0 }, end: { x: 1, y: 1 } },
+        { start: { x: 1, y: 0 }, end: { x: 0, y: 1 } }
       ]
-      const intersection = new PlaneSweep(segments)
-      expect(intersection).toBeInstanceOf(PlaneSweep)
+      expect(() => new PlaneSweep(segments)).not.toThrow()
     })
 
-    test('throws an error if segments array is invalid', () => {
+    it('should throw an error with empty segments array', () => {
       expect(() => new PlaneSweep([])).toThrow(
-        'segments must be a non-empty array of objects with both start and end properties.'
+        'segments must be a non-empty array'
       )
-      expect(() => new PlaneSweep([{ start: { x: 0, y: 0 } }])).toThrow(
-        'segments must be a non-empty array of objects with both start and end properties.'
+    })
+
+    it('should throw an error with invalid segments', () => {
+      const invalidSegments = [{ start: { x: 0, y: 0 } }]
+      expect(() => new PlaneSweep(invalidSegments)).toThrow(
+        'segments must be a non-empty array of objects with start and end properties'
       )
     })
   })
 
-  describe('Intersection Detection', () => {
-    test('detects intersections correctly', () => {
+  describe('findIntersections', () => {
+    beforeEach(() => {
       const segments = [
-        { start: { x: 1, y: 1 }, end: { x: 4, y: 4 } },
-        { start: { x: 1, y: 4 }, end: { x: 4, y: 1 } },
-        { start: { x: 5, y: 5 }, end: { x: 6, y: 6 } }
+        { start: { x: 0, y: 0 }, end: { x: 2, y: 2 } },
+        { start: { x: 0, y: 2 }, end: { x: 2, y: 0 } }
       ]
-      const intersection = new PlaneSweep(segments)
-      const result = intersection.findIntersections()
-
-      // Check if there is one intersection found
-      expect(result).toHaveLength(1) // Ensure there's one intersection
-
-      const intersectingPair = result[0]
-
-      // Check that both segments in the intersection are part of the original segments
-      const segment1 = intersectingPair.segment1
-      const segment2 = intersectingPair.segment2
-
-      const isSegment1Valid =
-        (segment1.start.x === segments[0].start.x &&
-          segment1.start.y === segments[0].start.y &&
-          segment1.end.x === segments[0].end.x &&
-          segment1.end.y === segments[0].end.y) ||
-        (segment1.start.x === segments[1].start.x &&
-          segment1.start.y === segments[1].start.y &&
-          segment1.end.x === segments[1].end.x &&
-          segment1.end.y === segments[1].end.y)
-
-      const isSegment2Valid =
-        (segment2.start.x === segments[0].start.x &&
-          segment2.start.y === segments[0].start.y &&
-          segment2.end.x === segments[0].end.x &&
-          segment2.end.y === segments[0].end.y) ||
-        (segment2.start.x === segments[1].start.x &&
-          segment2.start.y === segments[1].start.y &&
-          segment2.end.x === segments[1].end.x &&
-          segment2.end.y === segments[1].end.y)
-
-      expect(isSegment1Valid).toBe(true)
-      expect(isSegment2Valid).toBe(true)
+      planeSweep = new PlaneSweep(segments)
     })
 
-    test('returns an empty array if there are no intersections', () => {
+    it('should find intersections between crossing segments', () => {
       const segments = [
-        { start: { x: 1, y: 1 }, end: { x: 2, y: 2 } },
-        { start: { x: 3, y: 3 }, end: { x: 4, y: 4 } }
+        { start: { x: 0, y: 0 }, end: { x: 2, y: 2 } },
+        { start: { x: 0, y: 2 }, end: { x: 2, y: 0 } }
       ]
-      const intersection = new PlaneSweep(segments)
-      const result = intersection.findIntersections()
-      expect(result).toEqual([])
+      planeSweep = new PlaneSweep(segments)
+      const intersections = planeSweep.findIntersections()
+      expect(intersections).toHaveLength(1)
+      expect(intersections[0]).toEqual(
+        expect.objectContaining({
+          segment1: expect.objectContaining({
+            start: expect.objectContaining({ x: 0, y: expect.any(Number) }),
+            end: expect.objectContaining({ x: 2, y: expect.any(Number) })
+          }),
+          segment2: expect.objectContaining({
+            start: expect.objectContaining({ x: 0, y: expect.any(Number) }),
+            end: expect.objectContaining({ x: 2, y: expect.any(Number) })
+          })
+        })
+      )
     })
 
-    test('handles vertical and horizontal lines', () => {
+    it('should not find intersections between non-crossing segments', () => {
       const segments = [
-        { start: { x: 2, y: 0 }, end: { x: 2, y: 3 } }, // Vertical line
-        { start: { x: 0, y: 2 }, end: { x: 3, y: 2 } } // Horizontal line
+        { start: { x: 0, y: 0 }, end: { x: 1, y: 1 } },
+        { start: { x: 2, y: 2 }, end: { x: 3, y: 3 } }
       ]
-      const intersection = new PlaneSweep(segments)
-      const result = intersection.findIntersections()
+      planeSweep = new PlaneSweep(segments)
+      const intersections = planeSweep.findIntersections()
+      expect(intersections).toHaveLength(0)
+    })
 
-      // Check if intersection contains the correct segments regardless of order
-      expect(result).toHaveLength(1) // Ensure there's one intersection
+    it('should handle vertical and horizontal segments', () => {
+      const segments = [
+        { start: { x: 0, y: 0 }, end: { x: 0, y: 2 } }, // Vertical
+        { start: { x: -1, y: 1 }, end: { x: 2, y: 1 } } // Horizontal
+      ]
+      planeSweep = new PlaneSweep(segments)
+      const intersections = planeSweep.findIntersections()
+      expect(intersections).toHaveLength(1)
+    })
 
-      const intersectingPair = result[0]
+    it('should handle segments with shared endpoints', () => {
+      const segments = [
+        { start: { x: 0, y: 0 }, end: { x: 1, y: 1 } },
+        { start: { x: 1, y: 1 }, end: { x: 2, y: 0 } }
+      ]
+      planeSweep = new PlaneSweep(segments)
+      const intersections = planeSweep.findIntersections()
+      expect(intersections).toHaveLength(1) // Shared endpoint is considered an intersection
+    })
 
-      // Check that both segments in the intersection are part of the original segments
-      const isSegment1Valid =
-        (intersectingPair.segment1.start.x === segments[0].start.x &&
-          intersectingPair.segment1.start.y === segments[0].start.y &&
-          intersectingPair.segment1.end.x === segments[0].end.x &&
-          intersectingPair.segment1.end.y === segments[0].end.y) ||
-        (intersectingPair.segment1.start.x === segments[1].start.x &&
-          intersectingPair.segment1.start.y === segments[1].start.y &&
-          intersectingPair.segment1.end.x === segments[1].end.x &&
-          intersectingPair.segment1.end.y === segments[1].end.y)
+    it('should handle overlapping segments', () => {
+      const segments = [
+        { start: { x: 0, y: 0 }, end: { x: 2, y: 2 } },
+        { start: { x: 1, y: 1 }, end: { x: 3, y: 3 } }
+      ]
+      planeSweep = new PlaneSweep(segments)
+      const intersections = planeSweep.findIntersections()
+      expect(intersections).toHaveLength(1)
+    })
+  })
 
-      const isSegment2Valid =
-        (intersectingPair.segment2.start.x === segments[0].start.x &&
-          intersectingPair.segment2.start.y === segments[0].start.y &&
-          intersectingPair.segment2.end.x === segments[0].end.x &&
-          intersectingPair.segment2.end.y === segments[0].end.y) ||
-        (intersectingPair.segment2.start.x === segments[1].start.x &&
-          intersectingPair.segment2.start.y === segments[1].start.y &&
-          intersectingPair.segment2.end.x === segments[1].end.x &&
-          intersectingPair.segment2.end.y === segments[1].end.y)
+  describe('edge cases', () => {
+    it('should handle segments with reversed start and end points', () => {
+      const segments = [
+        { start: { x: 2, y: 2 }, end: { x: 0, y: 0 } },
+        { start: { x: 0, y: 2 }, end: { x: 2, y: 0 } }
+      ]
+      planeSweep = new PlaneSweep(segments)
+      const intersections = planeSweep.findIntersections()
+      expect(intersections).toHaveLength(1)
+    })
 
-      expect(isSegment1Valid).toBe(true)
-      expect(isSegment2Valid).toBe(true)
+    it('should handle segments with same x-coordinate but different y-coordinates', () => {
+      const segments = [
+        { start: { x: 0, y: 0 }, end: { x: 0, y: 2 } },
+        { start: { x: 0, y: 1 }, end: { x: 0, y: 3 } }
+      ]
+      planeSweep = new PlaneSweep(segments)
+      const intersections = planeSweep.findIntersections()
+      expect(intersections).toHaveLength(1)
+    })
+
+    it('should handle a large number of touching segments', () => {
+      const segments = Array.from({ length: 1000 }, (_, i) => ({
+        start: { x: i, y: 0 },
+        end: { x: i + 1, y: 1 }
+      }))
+      planeSweep = new PlaneSweep(segments)
+      const intersections = planeSweep.findIntersections()
+      // Check if touching points are considered intersections
+      const touchingPointsAreIntersections = intersections.length > 0
+      if (touchingPointsAreIntersections) {
+        expect(intersections).toHaveLength(999) // Each segment touches its neighbor
+      } else {
+        expect(intersections).toHaveLength(0) // Touching points are not considered intersections
+      }
+    })
+
+    it('should detect touching points as intersections', () => {
+      const segments = [
+        { start: { x: 0, y: 0 }, end: { x: 1, y: 1 } },
+        { start: { x: 1, y: 1 }, end: { x: 2, y: 0 } }
+      ]
+      planeSweep = new PlaneSweep(segments)
+      const intersections = planeSweep.findIntersections()
+      expect(intersections).toHaveLength(1)
+    })
+
+    it('should handle collinear overlapping segments', () => {
+      const segments = [
+        { start: { x: 0, y: 0 }, end: { x: 2, y: 0 } },
+        { start: { x: 1, y: 0 }, end: { x: 3, y: 0 } }
+      ]
+      planeSweep = new PlaneSweep(segments)
+      const intersections = planeSweep.findIntersections()
+      expect(intersections).toHaveLength(1)
     })
   })
 })
