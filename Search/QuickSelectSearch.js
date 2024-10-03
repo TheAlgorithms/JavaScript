@@ -21,7 +21,6 @@ export function quickSelectSearch(array, k) {
   while (from < to) {
     let left = from
     let right = to
-
     const pivot = array[Math.ceil((left + right) * 0.5)]
 
     while (left < right) {
