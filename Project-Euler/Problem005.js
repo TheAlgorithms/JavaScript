@@ -6,9 +6,6 @@ What is the smallest positive number that is evenly divisible by all of the numb
 */
 
 export const findSmallestMultiple = (maxDivisor) => {
-  if (isNaN(maxDivisor)) {
-    return 0
-  }
   const divisors = Array.from({ length: maxDivisor }, (_, i) => i + 1)
   let num = maxDivisor + 1
   let result
