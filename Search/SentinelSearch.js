@@ -1,8 +1,5 @@
 /**
- * @function sentinelSearch
- * @description Sentinel search algorithm for array.
- *
- * Sentinel linear search is a variation of the standard linear search algorithm used to
+ * @description Sentinel linear search is a variation of the standard linear search algorithm used to
  * find a target value in an array or list. The basic idea behind this algorithm is to add a
  * sentinel value at the end of the array which is equal to the target value we are looking for.
  * This helps to avoid checking the array boundary condition during each iteration of the loop,
@@ -15,10 +12,7 @@
  * @example sentinelSearch([1,2,3], 2) => 1
  * @example sentinelSearch([4,5,6], 2) => null
  * @complexity_analysis
- * Time Complexity :
- * Worst Case -> The time complexity of the Sentinel Linear Search algorithm is O(n) in the worst case.
- * Best Case -> In the best case, when the key is found in the first iteration, the time complexity will be O(1).
- * Average Case -> However, the average time complexity is still O(n).
+ * Time Complexity : O(n)
  * Auxiliary Space: O(1)
  */
 
