@@ -1,4 +1,4 @@
-import { rungeKuttaStep, rungeKuttaFull } from '../RungeKuttaMethod';
+import { rungeKuttaStep, rungeKuttaFull } from '../RungaKutta';
 
 describe('rungeKuttaStep', () => {
   it('should calculate the next y value correctly for trigonometric function', () => {
