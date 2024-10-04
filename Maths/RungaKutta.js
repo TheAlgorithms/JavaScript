@@ -44,7 +44,13 @@ export function rungeKuttaFull(xStart, xEnd, stepSize, yStart, differentialEquat
     let xCurrent = xStart;
   
     while (xCurrent < xEnd) {
-      // Runge-Kutta method for the next step
+        // Runge-Kutta method for the next step
+        
+        // Check if the next step will exceed xEnd and adjust the stepSize accordingly 
+        if (xCurrent + stepSize > xEnd) {
+            stepSize = xEnd - xCurrent;
+        }
+
       yCurrent = rungeKuttaStep(xCurrent, stepSize, yCurrent, differentialEquation);
       xCurrent += stepSize;
   
