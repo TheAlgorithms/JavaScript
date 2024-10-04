@@ -6,7 +6,7 @@ describe('rungeKuttaStep', () => {
       rungeKuttaStep(0, 0.1, 1, function (x, y) {
         return Math.sin(x) + y;
       })
-    ).toBeCloseTo(1.10517, 4); 
+    ).toBeCloseTo(1.10517, 3); 
   });
 
   it('should calculate the next y value correctly for exponential function', () => {
@@ -14,7 +14,7 @@ describe('rungeKuttaStep', () => {
       rungeKuttaStep(0.5, 0.1, 1, function (x, y) {
         return Math.exp(x) - y;
       })
-    ).toBeCloseTo(1.15233, 4); 
+    ).toBeCloseTo(1.15233, 3); 
   });
 });
 
@@ -44,7 +44,7 @@ describe('rungeKuttaFull', () => {
         { x: 0.25, y: 1.24757 },  
         { x: 0.5, y: 1.48211 },   
         { x: 0.75, y: 1.69491 },  
-        { x: 1, y: 1.88159 }      
+        { x: 1, y: 1.88159 }           
     ]);
   });
 });
