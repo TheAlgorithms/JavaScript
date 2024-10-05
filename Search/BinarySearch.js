@@ -52,49 +52,49 @@ function binarySearchIterative(arr, x, low = 0, high = arr.length - 1) {
 /* binary search for unsorted arrays, returns original index. */
 function binarySearchOrigin(arr, target) {
   // check if all elements in the array are of the same type
-  const firstType = typeof arr[0];
-  const allSameType = arr.every((item) => typeof item === firstType);
+  const firstType = typeof arr[0]
+  const allSameType = arr.every((item) => typeof item === firstType)
 
   if (!allSameType) {
-    return "Cannot perform search: Array contains elements of different types.";
+    return 'Cannot perform search: Array contains elements of different types.'
   }
 
   const originalArrayWithIndices = arr.map((value, index) => ({
     value,
-    index,
-  }));
+    index
+  }))
 
   // sorting function based on type (number or string)
   const sortedArrayWithIndices = originalArrayWithIndices.sort((a, b) => {
-    if (typeof a.value === "number" && typeof b.value === "number") {
-      return a.value - b.value; // sort numbers
-    } else if (typeof a.value === "string" && typeof b.value === "string") {
-      return a.value.localeCompare(b.value); // sort strings
+    if (typeof a.value === 'number' && typeof b.value === 'number') {
+      return a.value - b.value // sort numbers
+    } else if (typeof a.value === 'string' && typeof b.value === 'string') {
+      return a.value.localeCompare(b.value) // sort strings
     }
-  });
+  })
 
-  let start = 0;
-  let end = sortedArrayWithIndices.length - 1;
+  let start = 0
+  let end = sortedArrayWithIndices.length - 1
 
   // binary search loop
   while (start <= end) {
-    const midIndex = Math.floor((start + end) / 2);
-    const mid = sortedArrayWithIndices[midIndex].value;
+    const midIndex = Math.floor((start + end) / 2)
+    const mid = sortedArrayWithIndices[midIndex].value
 
     if (mid === target) {
       // return the original index if the target is found
-      return sortedArrayWithIndices[midIndex].index;
+      return sortedArrayWithIndices[midIndex].index
     }
 
     if (mid < target) {
-      start = midIndex + 1;
+      start = midIndex + 1
     } else {
-      end = midIndex - 1;
+      end = midIndex - 1
     }
   }
 
   // return -1 if target is not found
-  return -1;
+  return -1
 }
 
 export { binarySearchIterative, binarySearchRecursive, binarySearchOrigin }

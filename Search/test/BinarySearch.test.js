@@ -1,4 +1,8 @@
-import { binarySearchIterative, binarySearchRecursive, binarySearchOrigin } from '../BinarySearch'
+import {
+  binarySearchIterative,
+  binarySearchRecursive,
+  binarySearchOrigin
+} from '../BinarySearch'
 
 const arr = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 const stringArr = [
@@ -31,7 +35,11 @@ const stringArr = [
 ]
 
 describe('Binary Search', () => {
-  const funcs = [binarySearchIterative, binarySearchRecursive, binarySearchOrigin]
+  const funcs = [
+    binarySearchIterative,
+    binarySearchRecursive,
+    binarySearchOrigin
+  ]
   for (const func of funcs) {
     test('expect to return the index of the item in the array', () => {
       expect(func(arr, 3)).toBe(2)
