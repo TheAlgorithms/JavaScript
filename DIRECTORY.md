@@ -161,6 +161,8 @@
   * [NodeNeighbors](Graphs/NodeNeighbors.js)
   * [NumberOfIslands](Graphs/NumberOfIslands.js)
   * [PrimMST](Graphs/PrimMST.js)
+* **Greedy**
+  * [GaleShapley](Greedy/GaleShapley.js)
 * **Hashes**
   * [MD5](Hashes/MD5.js)
   * [SHA1](Hashes/SHA1.js)
