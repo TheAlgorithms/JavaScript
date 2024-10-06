@@ -22,7 +22,7 @@ function twoSum(nums, target) {
         map.set(nums[i], i);
     }
     
-    return null; // No two sum solution
+    return []; // Return an empty array when no solution is found
 }
 
 export { twoSum }
