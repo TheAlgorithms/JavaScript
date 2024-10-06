@@ -1,44 +1,25 @@
+// FindIntersectionPoint.test.js
 
-import { findIntersection } from '../FindIntersectionPoint';
+import { ListNode, findIntersection } from '../FindIntersectionPoint.js'; // Ensure the path is correct
+import { createLinkedList } from '../SlowFast.js'; // Ensure the path is correct
 
-function runTests() {
-    const tests = [
-        {
-            desc: 'Intersecting lines',
-            input: [0, 0, 2, 2, 0, 2, 2, 0],
-            expected: { x: 1, y: 1 }
-        },
-        {
-            desc: 'Parallel lines (no intersection)',
-            input: [0, 0, 2, 2, 0, 1, 2, 3],
-            expected: null
-        },
-        {
-            desc: 'Overlap lines (fully overlapping)',
-            input: [0, 0, 2, 2, 1, 1, 3, 3],
-            expected: { x: 1, y: 1 }
-        },
-        {
-            desc: 'Non-intersecting lines (far apart)',
-            input: [0, 0, 1, 1, 2, 2, 3, 3],
-            expected: null
-        },
-        {
-            desc: 'Intersecting at an endpoint',
-            input: [0, 0, 2, 2, 2, 0, 0, 2],
-            expected: { x: 2, y: 2 }
-        }
-    ];
+describe('Find Intersection Point', () => {
+  it('should find the intersection point in two linked lists', () => {
+    // Create linked list 1: 1 -> 2 -> 3 -> 6 -> 7
+    const list1 = createLinkedList([1, 2, 3]);
+    const intersection = new ListNode(6); // ListNode should be correctly imported
+    intersection.next = new ListNode(7);
+    list1.next.next.next = intersection; // Connect 3 -> 6
 
-    tests.forEach(({ desc, input, expected }, index) => {
-        const result = findIntersection(...input);
-        const isPassed = JSON.stringify(result) === JSON.stringify(expected);
-        console.log(`Test ${index + 1}: ${desc} - ${isPassed ? 'Passed' : 'Failed'}`);
-        if (!isPassed) {
-            console.log(`  Expected: ${JSON.stringify(expected)}, Got: ${JSON.stringify(result)}`);
-        }
-    });
-}
+    // Create linked list 2: 4 -> 5 -> 6 -> 7
+    const list2 = createLinkedList([4, 5]);
+    list2.next.next = intersection; // Connect 5 -> 6
 
-// Run the tests
-runTests();
+    const expected = intersection; // We expect the intersection node
+
+    const result = findIntersection(list1, list2);
+    expect(result).toBe(expected); // Check if the result matches the expected output
+  });
+
+  // Additional test cases can be added here
+});

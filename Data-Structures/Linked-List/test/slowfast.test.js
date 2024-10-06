@@ -1,49 +1,32 @@
-// test.js
+// slowfast.test.js
 
-import { ListNode, hasCycle, findMiddle, detectCycle } from '../SlowFast.js';
+import { ListNode, hasCycle, createLinkedList } from '../SlowFast.js'; // Adjust the path as necessary
 
-function createLinkedList(arr) {
-    let head = null;
-    let current = null;
+describe('Slow and Fast Pointer', () => {
+  it('should detect if a linked list has a cycle', () => {
+    // Create a linked list: 1 -> 2 -> 3 -> 4 -> 5 -> (cycle to 3)
+    const node1 = new ListNode(1);
+    const node2 = new ListNode(2);
+    const node3 = new ListNode(3);
+    const node4 = new ListNode(4);
+    const node5 = new ListNode(5);
+    
+    node1.next = node2;
+    node2.next = node3;
+    node3.next = node4;
+    node4.next = node5;
+    node5.next = node3; // Create a cycle here
 
-    for (let value of arr) {
-        const newNode = new ListNode(value);
-        if (!head) {
-            head = newNode;
-            current = newNode;
-        } else {
-            current.next = newNode;
-            current = newNode;
-        }
-    }
+    const result = hasCycle(node1);
+    expect(result).toBe(true); // Expecting a cycle
+  });
 
-    return head;
-}
+  it('should not detect a cycle in a linear linked list', () => {
+    // Create a linked list: 1 -> 2 -> 3
+    const head = createLinkedList([1, 2, 3]);
 
-function runTests() {
-    // Test Case 1: Cycle detection
-    const cycleList = createLinkedList([1, 2, 3]);
-    cycleList.next.next.next = cycleList.next; // Creates a cycle (3 -> 2)
-    console.log(`Test 1: Cycle exists - ${hasCycle(cycleList) ? 'Passed' : 'Failed'}`);
+    const result = hasCycle(head);
+    expect(result).toBe(false); // Expecting no cycle
+  });
+});
 
-    // Test Case 2: No cycle
-    const noCycleList = createLinkedList([1, 2, 3]);
-    console.log(`Test 2: No cycle - ${!hasCycle(noCycleList) ? 'Passed' : 'Failed'}`);
-
-    // Test Case 3: Finding the middle element
-    const midList = createLinkedList([1, 2, 3, 4, 5]);
-    const midNode = findMiddle(midList);
-    console.log(`Test 3: Middle element - Expected: 3, Got: ${midNode.value} - ${midNode.value === 3 ? 'Passed' : 'Failed'}`);
-
-    // Test Case 4: Finding the start of the cycle
-    const cycleStartList = createLinkedList([1, 2, 3]);
-    cycleStartList.next.next.next = cycleStartList.next; // Creates a cycle (3 -> 2)
-    const startNode = detectCycle(cycleStartList);
-    console.log(`Test 4: Start of cycle - Expected: 2, Got: ${startNode ? startNode.value : 'null'} - ${startNode && startNode.value === 2 ? 'Passed' : 'Failed'}`);
-
-    // Test Case 5: No cycle in detectCycle
-    console.log(`Test 5: No cycle - Expected: null, Got: ${detectCycle(noCycleList) ? detectCycle(noCycleList).value : 'null'} - ${detectCycle(noCycleList) === null ? 'Passed' : 'Failed'}`);
-}
-
-// Run the tests
-runTests();

@@ -11,7 +11,7 @@ Space Complexity: O(n) — In the worst case, we store all elements in the hash 
  * @param {number} target - The target sum.
  * @returns {number[]|null} - Indices of the two numbers or null if not found.
  */
-export function twoSum(nums, target) {
+function twoSum(nums, target) {
     const map = new Map();
 
     for (let i = 0; i < nums.length; i++) {
@@ -24,3 +24,5 @@ export function twoSum(nums, target) {
     
     return null; // No two sum solution
 }
+
+export { twoSum }

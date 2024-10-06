@@ -9,7 +9,7 @@ Space Complexity: O(1) — The output list is the only extra space used (not cou
  * @param {number[]} nums - An array of numbers.
  * @returns {number[][]} - A list of unique triplets.
  */
-export function threeSum(nums) {
+function threeSum(nums) {
     const result = [];
     nums.sort((a, b) => a - b); // Sort the array
 
@@ -39,3 +39,5 @@ export function threeSum(nums) {
 
     return result; // Return the list of triplets
 }
+
+export { threeSum }

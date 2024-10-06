@@ -1,4 +1,4 @@
-// slowFast.js
+// SlowFast.js
 
 // Definition for singly-linked list node
 class ListNode {
@@ -13,7 +13,7 @@ class ListNode {
  * @param {ListNode} head - The head of the linked list.
  * @returns {boolean} - True if there's a cycle, false otherwise.
  */
-export function hasCycle(head) {
+function hasCycle(head) {
     let slow = head;
     let fast = head;
 
@@ -29,49 +29,21 @@ export function hasCycle(head) {
 }
 
 /**
- * Finds the middle element of a linked list.
- * @param {ListNode} head - The head of the linked list.
- * @returns {ListNode|null} - The middle node or null if the list is empty.
+ * Creates a linked list from an array of values.
+ * @param {Array<number>} values - The values to create the linked list from.
+ * @returns {ListNode|null} - The head of the created linked list.
  */
-export function findMiddle(head) {
-    if (!head) return null;
-    
-    let slow = head;
-    let fast = head;
+function createLinkedList(values) {
+    const dummyHead = new ListNode(0);
+    let current = dummyHead;
 
-    while (fast && fast.next) {
-        slow = slow.next;        // Move slow pointer one step
-        fast = fast.next.next;   // Move fast pointer two steps
+    for (const value of values) {
+        current.next = new ListNode(value);
+        current = current.next;
     }
-    return slow;                 // Slow pointer is at the middle
+
+    return dummyHead.next; // Return the head of the created linked list
 }
 
-/**
- * Detects the start of the cycle in a linked list.
- * @param {ListNode} head - The head of the linked list.
- * @returns {ListNode|null} - The node where the cycle starts or null if there is no cycle.
- */
-export function detectCycle(head) {
-    let slow = head;
-    let fast = head;
-
-    // First phase: determine if a cycle exists
-    while (fast && fast.next) {
-        slow = slow.next;
-        fast = fast.next.next;
-
-        if (slow === fast) {
-            // Cycle detected
-            let entry = head;
-            while (entry !== slow) {
-                entry = entry.next;  // Move entry pointer
-                slow = slow.next;     // Move slow pointer
-            }
-            return entry;           // Start of the cycle
-        }
-    }
-    return null;                 // No cycle
-}
-
-// Exporting the ListNode class for testing
-export { ListNode };
+// Exporting the ListNode class and functions for testing
+export { ListNode, hasCycle, createLinkedList }; // Ensure ListNode is exported

@@ -12,7 +12,7 @@ Space Complexity: O(1) — Only a constant amount of additional space is used.
  * @param {number[]} nums - An array of numbers.
  * @returns {number} - The maximum sum of the contiguous subarray.
  */
-export function maxSubArray(nums) {
+function kadane(nums) {
     let maxSoFar = nums[0];
     let maxEndingHere = nums[0];
 
@@ -23,3 +23,5 @@ export function maxSubArray(nums) {
 
     return maxSoFar; // Return the maximum sum
 }
+
+export { kadane }
