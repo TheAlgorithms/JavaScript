@@ -1,0 +1,24 @@
+var maxProfit = function(prices) {
+    const memo = {}; // Initialize memoization object
+    return _maxProfit(prices, 0, false, memo); // Start the recursion with buy index 0 and no stock in hand
+}
+
+var _maxProfit = function(prices, day, hasStock, memo) {
+    if (day >= prices.length) return 0; // Base case: no more days left
+
+    const key = day + '_' + hasStock; // Using both day and stock status as the key for memoization
+    if (key in memo) return memo[key]; // Return memoized result if available
+
+    let maxProfit = 0;
+    // If we have the stock, we can either sell it or continue holding
+    if (hasStock) {
+        // Sell the stock and go to the next day with no stock
+        maxProfit = Math.max(prices[day] + _maxProfit(prices, day + 2, false, memo), _maxProfit(prices, day + 1, true, memo));
+    } else {
+        // If we don't have the stock, we can either buy it or skip the current day
+        maxProfit = Math.max(-prices[day] + _maxProfit(prices, day + 1, true, memo), _maxProfit(prices, day + 1, false, memo));
+    }
+
+    memo[key] = maxProfit; // Memoize the result
+    return maxProfit;
+};
