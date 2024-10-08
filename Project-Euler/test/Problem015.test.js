@@ -5,6 +5,7 @@ describe('Finding total numbers of Latice Paths', () => {
   test.each([
     [2, 6],
     [4, 70],
+    [5, 252],
     [10, 184756],
     [20, 137846528820]
   ])('If Grid Size: %i, then Latice Paths count: %i', (a, expected) => {
