@@ -32,11 +32,11 @@ const caesarCipher = (str, rotation, alphabet = 'abcdefghijklmnopqrstuvwxyz') =>
     if (cipherMap.has(lowerChar)) {
       const cipheredChar = cipherMap.get(lowerChar);
       return isUpperCase ? cipheredChar.toUpperCase() : cipheredChar;
-    }
+  }
+  
+  return cipherMap.get(char);
+});
 
-    // Return non-alphabetic characters unchanged
-    return char;
-  });
 };
 
 // Example usage:
