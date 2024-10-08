@@ -1,14 +1,15 @@
+import { expect } from 'vitest'
 import { findLongestCollatzSequence } from '../Problem014.js'
 
 describe('Longest Collatz Sequence', () => {
-  test('if limit is 2', () => {
-    expect(findLongestCollatzSequence(2)).toBe(1)
-  })
-  test('if limit is 13', () => {
-    expect(findLongestCollatzSequence(13)).toBe(9)
-  })
-  // Project Euler Condition Check
-  test('if limit is 1000000', () => {
-    expect(findLongestCollatzSequence(1000000)).toBe(837799)
-  })
+  test.each([
+    [2, 1],
+    [13, 9],
+    [1000000, 837799]
+  ])(
+    'if limit is %i, then the Longest Collatz Sequence will be %i',
+    (a, expected) => {
+      expect(findLongestCollatzSequence(a)).toBe(expected)
+    }
+  )
 })
