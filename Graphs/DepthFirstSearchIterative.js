@@ -23,6 +23,11 @@ class GraphUnweightedUndirected {
 
   DFSIterative(node, value) {
     // DFS Function to search if a node with the given value is present in the graph
+   if (!(node in this.connections)) { // Changed 'startNode' to 'node'
+     console.log(`Start node ${node} does not exist in the graph.`); // Updated the log message
+     return false; // Early return if the node doesn't exist
+   }
+    
     const stack = [node]
     const visited = new Set()
     while (stack.length > 0) {
