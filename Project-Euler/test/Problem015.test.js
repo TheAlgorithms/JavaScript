@@ -1,0 +1,13 @@
+import { expect } from 'vitest'
+import { latticePath } from '../Problem015'
+
+describe('Finding total numbers of Latice Paths', () => {
+  test.each([
+    [2, 6],
+    [4, 70],
+    [10, 184756],
+    [20, 137846528820]
+  ])('If Grid Size: %i, then Latice Paths count: %i', (a, expected) => {
+    expect(latticePath(a)).toBe(expected)
+  })
+})
