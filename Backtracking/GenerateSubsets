@@ -1,0 +1,26 @@
+function generateSubsets(nums) {
+    const subsets = [];
+    
+    function backtrack(start = 0, currentSubset = []) {
+        // Add the currentSubset to the subsets array
+        subsets.push([...currentSubset]);
+
+        // Explore all possible subsets by backtracking
+        for (let i = start; i < nums.length; i++) {
+            currentSubset.push(nums[i]);
+            backtrack(i + 1, currentSubset);
+            currentSubset.pop();
+        }
+    }
+
+    backtrack();
+    return subsets;
+}
+
+const inputSet = [1, 2, 3];
+const allSubsets = generateSubsets(inputSet);
+
+console.log("All Subsets:");
+for (const subset of allSubsets) {
+    console.log(subset);
+}
