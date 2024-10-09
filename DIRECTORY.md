@@ -35,6 +35,8 @@
   * [ROT13](Ciphers/ROT13.js)
   * [VigenereCipher](Ciphers/VigenereCipher.js)
   * [XORCipher](Ciphers/XORCipher.js)
+* **Compression**
+  * [RLE](Compression/RLE.js)
 * **Conversions**
   * [ArbitraryBase](Conversions/ArbitraryBase.js)
   * [ArrayBufferToBase64](Conversions/ArrayBufferToBase64.js)
@@ -285,6 +287,7 @@
   * [Problem016](Project-Euler/Problem016.js)
   * [Problem017](Project-Euler/Problem017.js)
   * [Problem018](Project-Euler/Problem018.js)
+  * [Problem019](Project-Euler/Problem019.js)
   * [Problem020](Project-Euler/Problem020.js)
   * [Problem021](Project-Euler/Problem021.js)
   * [Problem023](Project-Euler/Problem023.js)
