@@ -13,7 +13,7 @@ const mean = (nums) => {
     throw new TypeError('Invalid Input')
   }
 
-  return nums.reduce((sum, cur) => sum + cur / nums.length, 0)
+  return nums.reduce((sum, cur) => sum + cur, 0) / nums.length
 }
 
 export { mean }
