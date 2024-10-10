@@ -13,7 +13,7 @@ const mean = (nums) => {
     throw new TypeError('Invalid Input')
   }
 
-  // This loop sums all values in the 'nums' array using forEach loop
+  // This calculates the sum of all values in the 'nums' array using reduce method.
   const sum = nums.reduce((sum, cur) => sum + cur, 0)
 
   // Divide sum by the length of the 'nums' array.
