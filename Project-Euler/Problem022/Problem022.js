@@ -15,8 +15,8 @@ export const getAlphabeticalValue = (name) => {
 }
 
 export const calculateTotalNameScore = (filePath) => {
-  return new Promise((resolve, reject) => {
-    fs.readFile(filePath, 'utf8', (err, data) => {
+  return new Promise((resolve) => {
+    fs.readFile(filePath, 'utf8', (_, data) => {
       const names = data.replace(/"/g, '').split(',').sort()
 
       const totalScore = names.reduce((total, name, index) => {
