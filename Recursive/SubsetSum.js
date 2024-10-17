@@ -26,6 +26,7 @@
  * Algorithm:
  * Recursively explore all subsets, either including or excluding each element of the array, here inclusion means subtracting the sum by the element included, finally check if sum equals zero, this would indicate that the sum of all the elements included is equal to the target sum.
  *
+ * @see [Subset Sum Problem](https://en.wikipedia.org/wiki/Subset_sum_problem)
  */
 
 /**
@@ -36,10 +37,11 @@
  * @param {number} ind - The current index.
  * @return {number} The count of subsets whose sum equals the target sum.
  *
+ * @throws {TypeError} If the input `arr` is not an array of numbers or if the `sum` is not a number.
  */
 
 export function subsetSum(arr, sum, ind = 0) {
-  //input validation only in the inital call
+  //input validation only in the initial call
   if (
     ind === 0 &&
     (!Array.isArray(arr) || !arr.every((elem) => typeof elem === 'number'))
