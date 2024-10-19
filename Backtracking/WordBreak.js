@@ -1,3 +1,11 @@
+/**
+ * Determines if the input string can be segmented into words from the provided dictionary.
+ * @param {string} s - The input string to be segmented.
+ * @param {string[]} wordDict - An array of valid words for segmentation.
+ * @returns {boolean} True if the string can be segmented into valid words, false otherwise.
+ * @see https://www.geeksforgeeks.org/word-break-problem-using-backtracking/
+ */
+
 export class WordBreakSolution {
   // Function to determine if the input string 's' can be segmented into words from the 'wordDict'
   wordBreak(s, wordDict) {
