@@ -17,45 +17,35 @@
  * and the product of coefficients a and b.
  */
 function findMaxConsecutivePrimes() {
-  /**
-   * Checks if a number is prime.
-   *
-   * @param {number} n - The number to check for primality.
-   * @returns {boolean} True if n is a prime number, false otherwise.
-   */
   function isPrime(n) {
-    if (n < 2) return false // 0 and 1 are not prime numbers
-    if (n === 2) return true // 2 is a prime number
-    if (n % 2 === 0) return false // Exclude even numbers
+    if (n < 2) return false
+    if (n === 2) return true
+    if (n % 2 === 0) return false
     for (let i = 3; i <= Math.sqrt(n); i += 2) {
-      // Check odd divisors only
-      if (n % i === 0) return false // Divisible by i, so not prime
+      if (n % i === 0) return false
     }
-    return true // No divisors found, so it is prime
+    return true
   }
 
-  let maxPrimes = 0 // Store the maximum number of primes found
-  let product = 0 // Store the product of coefficients a and b
+  let maxPrimes = 0
+  let product = 0
 
   for (let a = -999; a < 1000; a++) {
     for (let b = -1000; b <= 1000; b++) {
       let n = 0
-      let consecutivePrimes = 0
       while (true) {
-        const result = n * n + a * n + b // Evaluate the quadratic expression
-        if (result < 0 || !isPrime(result)) break // Stop if the result is negative or not prime
-        consecutivePrimes++
+        const result = n * n + a * n + b
+        if (result < 0 || !isPrime(result)) break
         n++
       }
-      if (consecutivePrimes > maxPrimes) {
-        maxPrimes = consecutivePrimes
-        product = a * b // Calculate product of coefficients a and b
+      if (n > maxPrimes) {
+        maxPrimes = n
+        product = a * b
       }
     }
   }
 
-  return { maxPrimes, product } // Return the results
+  return { maxPrimes, product }
 }
 
-// Exporting the main function for use in other modules
 export { findMaxConsecutivePrimes }
