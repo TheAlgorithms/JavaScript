@@ -77,8 +77,8 @@ function createGraph(V, E) {
     return [] // Return empty path if there's no path to the target
   }
   
-  export { createGraph, aStar }
-  
+  module.exports = { createGraph, aStar }
+
   // const V = 9
   // const E = [
   //   [0, 1, 4],
