@@ -74,7 +74,6 @@ class PriorityQueue {
       }
 
       if (swapIndex === null) break
-
       ;[this.elements[index], this.elements[swapIndex]] = [
         this.elements[swapIndex],
         this.elements[index]
