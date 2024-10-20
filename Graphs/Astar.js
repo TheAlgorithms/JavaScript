@@ -1,107 +1,154 @@
 /**
- * Author: Mathang Peddi
- * A* Search Algorithm implementation in JavaScript
+ * @author Mathang Peddi
  * A* Algorithm calculates the minimum cost path between two nodes.
  * It is used to find the shortest path using heuristics.
  * It uses graph data structure.
  */
 
-function createGraph(V, E) {
-  // V - Number of vertices in graph
-  // E - Number of edges in graph (u,v,w)
-  const adjList = [] // Adjacency list
-  for (let i = 0; i < V; i++) {
-    adjList.push([])
+// Euclidean distance heuristic for 2D points
+function euclideanHeuristic(pointA, pointB) {
+    const dx = pointA[0] - pointB[0];
+    const dy = pointA[1] - pointB[1];
+    return Math.sqrt(dx * dx + dy * dy);
   }
-  for (let i = 0; i < E.length; i++) {
-    adjList[E[i][0]].push([E[i][1], E[i][2]])
-    adjList[E[i][1]].push([E[i][0], E[i][2]])
-  }
-  return adjList
-}
-
-// Heuristic function to estimate the cost to reach the goal
-// You can modify this based on your specific problem, for now, we're using Manhattan distance
-function heuristic(a, b) {
-  return Math.abs(a - b)
-}
-
-function aStar(graph, V, src, target) {
-  const openSet = new Set([src]) // Nodes to explore
-  const cameFrom = Array(V).fill(-1) // Keep track of path
-  const gScore = Array(V).fill(Infinity) // Actual cost from start to a node
-  gScore[src] = 0
-
-  const fScore = Array(V).fill(Infinity) // Estimated cost from start to goal (g + h)
-  fScore[src] = heuristic(src, target)
-
-  while (openSet.size > 0) {
-    // Get the node in openSet with the lowest fScore
-    let current = -1
-    openSet.forEach((node) => {
-      if (current === -1 || fScore[node] < fScore[current]) {
-        current = node
-      }
-    })
-
-    // If the current node is the target, reconstruct the path and return
-    if (current === target) {
-      const path = []
-      while (cameFrom[current] !== -1) {
-        path.push(current)
-        current = cameFrom[current]
-      }
-      path.push(src)
-      return path.reverse()
+  
+  // Priority Queue (Min-Heap) implementation
+  class PriorityQueue {
+    constructor() {
+      this.elements = [];
     }
-
-    openSet.delete(current)
-
-    // Explore neighbors
-    for (let i = 0; i < graph[current].length; i++) {
-      const neighbor = graph[current][i][0]
-      const tentative_gScore = gScore[current] + graph[current][i][1]
-
-      if (tentative_gScore < gScore[neighbor]) {
-        cameFrom[neighbor] = current
-        gScore[neighbor] = tentative_gScore
-        fScore[neighbor] = gScore[neighbor] + heuristic(neighbor, target)
-
-        if (!openSet.has(neighbor)) {
-          openSet.add(neighbor)
+  
+    enqueue(node, priority) {
+      this.elements.push({ node, priority });
+      this.bubbleUp();
+    }
+  
+    bubbleUp() {
+      let index = this.elements.length - 1;
+      while (index > 0) {
+        let parentIndex = Math.floor((index - 1) / 2);
+        if (this.elements[index].priority >= this.elements[parentIndex].priority) break;
+        [this.elements[index], this.elements[parentIndex]] = [this.elements[parentIndex], this.elements[index]];
+        index = parentIndex;
+      }
+    }
+  
+    dequeue() {
+      if (this.elements.length === 1) {
+        return this.elements.pop().node;
+      }
+  
+      const node = this.elements[0].node;
+      this.elements[0] = this.elements.pop();
+      this.sinkDown(0);
+      return node;
+    }
+  
+    sinkDown(index) {
+      const length = this.elements.length;
+      const element = this.elements[index];
+      while (true) {
+        let leftChildIndex = 2 * index + 1;
+        let rightChildIndex = 2 * index + 2;
+        let swapIndex = null;
+  
+        if (leftChildIndex < length && this.elements[leftChildIndex].priority < element.priority) {
+          swapIndex = leftChildIndex;
+        }
+  
+        if (rightChildIndex < length && this.elements[rightChildIndex].priority < (swapIndex === null ? element.priority : this.elements[leftChildIndex].priority)) {
+          swapIndex = rightChildIndex;
+        }
+  
+        if (swapIndex === null) break;
+  
+        [this.elements[index], this.elements[swapIndex]] = [this.elements[swapIndex], this.elements[index]];
+        index = swapIndex;
+      }
+    }
+  
+    isEmpty() {
+      return this.elements.length === 0;
+    }
+  }
+  
+  function aStar(graph, src, target, points) {
+    const openSet = new PriorityQueue(); // Priority queue to explore nodes
+    openSet.enqueue(src, 0);
+  
+    const cameFrom = Array(graph.length).fill(null); // Keep track of path
+    const gScore = Array(graph.length).fill(Infinity); // Actual cost from start to a node
+    gScore[src] = 0;
+  
+    const fScore = Array(graph.length).fill(Infinity); // Estimated cost from start to goal (g + h)
+    fScore[src] = euclideanHeuristic(points[src], points[target]);
+  
+    while (!openSet.isEmpty()) {
+      // Get the node in openSet with the lowest fScore
+      const current = openSet.dequeue();
+  
+      // If the current node is the target, reconstruct the path and return
+      if (current === target) {
+        const path = [];
+        while (cameFrom[current] !== -1) {
+          path.push(current);
+          current = cameFrom[current];
+        }
+        path.push(src);
+        return path.reverse();
+      }
+  
+      // Explore neighbors using destructuring for cleaner code
+      for (const [neighbor, weight] of graph[current]) {
+        const tentative_gScore = gScore[current] + weight;
+  
+        if (tentative_gScore < gScore[neighbor]) {
+          cameFrom[neighbor] = current;
+          gScore[neighbor] = tentative_gScore;
+          const priority = gScore[neighbor] + euclideanHeuristic(points[neighbor], points[target]);
+          fScore[neighbor] = priority;
+  
+          openSet.enqueue(neighbor, priority);
         }
       }
     }
+  
+    return null; // Return null if there's no path to the target
   }
-
-  return [] // Return empty path if there's no path to the target
-}
-
-module.exports = { createGraph, aStar }
-
-// const V = 9
-// const E = [
-//   [0, 1, 4],
-//   [0, 7, 8],
-//   [1, 7, 11],
-//   [1, 2, 8],
-//   [7, 8, 7],
-//   [6, 7, 1],
-//   [2, 8, 2],
-//   [6, 8, 6],
-//   [5, 6, 2],
-//   [2, 5, 4],
-//   [2, 3, 7],
-//   [3, 5, 14],
-//   [3, 4, 9],
-//   [4, 5, 10]
-// ]
-
-// const graph = createGraph(V, E)
-// const path = aStar(graph, V, 0, 4) // Find path from node 0 to node 4
-// console.log(path)
-
-/**
- * The function returns the optimal path from the source to the target node.
- * The heuristic used is Manhattan distance but it can be modified.
- */
+  
+  // Define the graph as an adjacency list
+  const graph = [
+    [[1, 4], [7, 8]],   // Node 0 connects to node 1 (weight 4), node 7 (weight 8)
+    [[0, 4], [2, 8], [7, 11]],  // Node 1 connects to node 0, node 2, node 7
+    [[1, 8], [3, 7], [5, 4], [8, 2]],  // Node 2 connects to several nodes
+    [[2, 7], [4, 9], [5, 14]],   // Node 3 connects to nodes 2, 4, 5
+    [[3, 9], [5, 10]],           // Node 4 connects to nodes 3 and 5
+    [[2, 4], [3, 14], [4, 10], [6, 2]], // Node 5 connects to several nodes
+    [[5, 2], [7, 1], [8, 6]],    // Node 6 connects to nodes 5, 7, 8
+    [[0, 8], [1, 11], [6, 1], [8, 7]],  // Node 7 connects to several nodes
+    [[2, 2], [6, 6], [7, 7]]     // Node 8 connects to nodes 2, 6, 7
+  ];
+  
+  // Define 2D coordinates for each node (these can be changed based on actual node positions)
+  const points = [
+    [0, 0],   // Point for node 0
+    [1, 2],   // Point for node 1
+    [2, 1],   // Point for node 2
+    [3, 5],   // Point for node 3
+    [4, 3],   // Point for node 4
+    [5, 6],   // Point for node 5
+    [6, 8],   // Point for node 6
+    [7, 10],  // Point for node 7
+    [8, 12]   // Point for node 8
+  ];
+  
+  // Call the aStar function with the graph, source node (0), and target node (4)
+  const path = aStar(graph, 0, 4, points);
+  
+  console.log('Shortest path from node 0 to node 4:', path);
+  
+  /**
+   * The function returns the optimal path from the source to the target node.
+   * The heuristic used is Euclidean distance between nodes' 2D coordinates.
+   */
+  
