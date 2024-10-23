@@ -31,3 +31,4 @@ const MooreVotingAlgorithm = (arr) => {
   
     return count > arr.length / 2 ? candidate : null;
   };
+  export { MooreVotingAlgorithm };
