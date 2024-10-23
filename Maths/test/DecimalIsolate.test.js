@@ -1,5 +1,5 @@
 import { describe } from 'node:test'
-import { decimalIsolate } from '../decimalIsolate'
+import { decimalIsolate } from '../DecimalIsolate'
 
 const invalidInputs = [
   { input: NaN, description: 'NaN' },
