@@ -1,4 +1,4 @@
-const canMeasureWater = require('../Recursive/Water_jug_Problem');
+const canMeasureWater = require('./Recursive/Water_jug_Problem');
 
 describe('Water Jug Problem', () => {
     test('should return true when target amount is achievable', () => {
