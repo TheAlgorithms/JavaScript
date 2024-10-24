@@ -26,5 +26,7 @@ describe('Water Jug Problem', () => {
         expect(() => canMeasureWater(-1, 5, 3)).toThrow('Invalid input: capacities must be non-negative.');
         expect(() => canMeasureWater(3, -2, 1)).toThrow('Invalid input: capacities must be non-negative.');
         expect(() => canMeasureWater(3, 5, -1)).toThrow('Invalid input: target amount must be non-negative.');
+
+         
     });
 });
