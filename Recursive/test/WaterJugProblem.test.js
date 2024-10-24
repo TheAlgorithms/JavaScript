@@ -1,27 +1,46 @@
-const canMeasureWater = require('./Recursive/Water_jug_Problem');
+import { canMeasureWater } from '../WaterJugProblem'
 
 describe('Water Jug Problem', () => {
-    test('should return true when target amount is achievable', () => {
-        expect(canMeasureWater(3, 5, 4)).toBe(true); // Known solution exists
-    });
+  
+  // Test case 1: Valid input where water can be measured
+  it('should return true for values x=3, y=5, z=4', () => {
+    expect(canMeasureWater(3, 5, 4)).toBe(true)
+  })
 
-    test('should return false when target amount is not achievable', () => {
-        expect(canMeasureWater(2, 6, 5)).toBe(false); // Impossible to measure 5 using 2 and 6
-    });
+  // Test case 2: Valid input where water cannot be measured
+  it('should return false for values x=2, y=6, z=5', () => {
+    expect(canMeasureWater(2, 6, 5)).toBe(false)
+  })
 
-    test('should return true when one of the jugs exactly matches the target', () => {
-        expect(canMeasureWater(3, 5, 5)).toBe(true); // Exact match with jug 2
-    });
+  // Test case 3: Measure exact amount of water in one jug
+  it('should return true for values x=5, y=3, z=5', () => {
+    expect(canMeasureWater(5, 3, 5)).toBe(true)
+  })
 
-    test('should return true when both jugs are enough to make the target', () => {
-        expect(canMeasureWater(4, 3, 7)).toBe(true); // Combined total equals target
-    });
+  // Test case 4: Invalid inputs (negative or non-integer)
+  it('Throw Error for Invalid Input', () => {
+    expect(() => canMeasureWater(-3, 5, 4)).toThrow(
+      'Input should be non-negative whole numbers'
+    )
+    expect(() => canMeasureWater(3, null, 4)).toThrow(
+      'Input should be non-negative whole numbers'
+    )
+    expect(() => canMeasureWater(3, 5, 2.5)).toThrow(
+      'Input should be non-negative whole numbers'
+    )
+    expect(() => canMeasureWater('a', 5, 4)).toThrow(
+      'Input should be non-negative whole numbers'
+    )
+  })
 
-    test('should return false when target amount exceeds both jug capacities combined', () => {
-        expect(canMeasureWater(3, 5, 9)).toBe(false); // 9 exceeds the total capacity (3 + 5)
-    });
+  // Test case 5: Edge case where z is 0
+  it('should return true for values x=3, y=5, z=0', () => {
+    expect(canMeasureWater(3, 5, 0)).toBe(true)
+  })
 
-    test('should return true for zero target', () => {
-        expect(canMeasureWater(3, 5, 0)).toBe(true); // It's always possible to measure 0
-    });
-});
+  // Test case 6: Edge case where z equals the sum of both jugs
+  it('should return true for values x=3, y=5, z=8', () => {
+    expect(canMeasureWater(3, 5, 8)).toBe(true)
+  })
+
+})
