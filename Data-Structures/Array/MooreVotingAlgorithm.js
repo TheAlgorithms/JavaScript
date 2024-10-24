@@ -6,29 +6,24 @@
  * @returns {Number} majority element or null if no majority exists
  */
 const MooreVotingAlgorithm = (arr) => {
-    let candidate = null;
-    let count = 0;
-  
-    // Phase 1: Finding the candidate
-    for (let num of arr) {
-      if (count === 0) {
-        candidate = num;
-        count = 1;
-      } else if (num === candidate) {
-        count++;
-      } else {
-        count--;
-      }
+  let candidate = null
+  let count = 0
+
+  // Phase 1: Find the candidate for majority element
+  for (let num of arr) {
+    if (count === 0) {
+      candidate = num
     }
-  
-    // Phase 2: Validate the candidate
-    count = 0;
-    for (let num of arr) {
-      if (num === candidate) {
-        count++;
-      }
+    count += num === candidate ? 1 : -1
+  }
+
+  // Phase 2: Verify if the candidate is actually the majority element
+  count = 0
+  for (let num of arr) {
+    if (num === candidate) {
+      count++
     }
-  
-    return count > arr.length / 2 ? candidate : null;
-  };
-  export { MooreVotingAlgorithm };
+  }
+  return count > arr.length / 2 ? candidate : null
+}
+export { MooreVotingAlgorithm }
