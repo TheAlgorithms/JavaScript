@@ -1,15 +1,14 @@
 // WaterJugProblem.js
 
-/**
- * Function to determine if it is possible to measure exactly targetAmount
- * using two jugs of capacity jug1Capacity and jug2Capacity.
- * 
- * @param {number} jug1Capacity - Capacity of the first jug
- * @param {number} jug2Capacity - Capacity of the second jug
- * @param {number} targetAmount - Target amount of water
- * @returns {boolean}
- */
 export function canMeasureWater(jug1Capacity, jug2Capacity, targetAmount) {
+    // Input validation
+    if (jug1Capacity < 0 || jug2Capacity < 0) {
+        throw new Error('Invalid input: capacities must be non-negative.');
+    }
+    if (targetAmount < 0) {
+        throw new Error('Invalid input: target amount must be non-negative.');
+    }
+
     // Base case: If the target amount is greater than the sum of both jugs, it's not possible.
     if (targetAmount > jug1Capacity + jug2Capacity) return false;
 
