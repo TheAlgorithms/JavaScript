@@ -31,7 +31,4 @@ const digitalRootRecursive = (num) => {
   return digitalRootRecursive(sum); // Call digitalRoot recursively to reduce to single digit
 };
 
-export {
-  digitalRoot,
-  digitalRootRecursive
-}
+export { digitalRoot, digitalRootRecursive };
