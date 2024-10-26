@@ -1,4 +1,4 @@
-export const digitalRoot = (num: number): number => {
+export const digitalRoot = (num) => {
   /**
  * Calculates the digital root of a number in constant time.
  * @param {number} num - The number to compute the digital root for.
@@ -14,7 +14,7 @@ export const digitalRoot = (num: number): number => {
 };
 /*------------------------------------------------------------------------------------*/
 
-export const digitalRootRecursive = (num: number): number => {
+export const digitalRootRecursive = (num) => {
   /**
  * Calculates the digital root of a number using recursion.
  * @param {number} num - The number to compute the digital root for.
