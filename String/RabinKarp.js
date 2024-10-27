@@ -1,6 +1,7 @@
 /**
  * Rabin-Karp algorithm for finding all occurrences of a pattern in a text.
  * It uses hashing to efficiently find substrings.
+ * For More https://en.wikipedia.org/wiki/Rabin%E2%80%93Karp_algorithm
  *
  * Time Complexity:
  * - Average: O(n + m)
