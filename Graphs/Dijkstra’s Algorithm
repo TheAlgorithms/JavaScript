@@ -1,0 +1,85 @@
+class Graph {
+    constructor() {
+        this.adjacencyList = new Map();
+    }
+
+    addVertex(vertex) {
+        if (!this.adjacencyList.has(vertex)) {
+            this.adjacencyList.set(vertex, []);
+        }
+    }
+
+    addEdge(source, destination, weight) {
+        if (!this.adjacencyList.has(source)) {
+            this.addVertex(source);
+        }
+        if (!this.adjacencyList.has(destination)) {
+            this.addVertex(destination);
+        }
+        this.adjacencyList.get(source).push({ node: destination, weight });
+    }
+
+    dijkstra(start, end) {
+        const distances = {};
+        const visited = new Set();
+        const priorityQueue = new Map();
+        const previous = {};
+
+        // Initialize distances and previous map
+        for (let vertex of this.adjacencyList.keys()) {
+            distances[vertex] = Infinity;
+            previous[vertex] = null;
+        }
+        distances[start] = 0;
+        priorityQueue.set(start, 0);
+
+        while (priorityQueue.size > 0) {
+            // Get the node with the smallest distance
+            let [currentNode, currentDistance] = [...priorityQueue.entries()].reduce((a, b) => (a[1] < b[1] ? a : b));
+            priorityQueue.delete(currentNode);
+
+            // If we reached the destination node, build and return the path
+            if (currentNode === end) {
+                const path = [];
+                while (previous[currentNode]) {
+                    path.push(currentNode);
+                    currentNode = previous[currentNode];
+                }
+                return { path: path.reverse(), distance: distances[end] };
+            }
+
+            visited.add(currentNode);
+
+            // Update distances and queue with neighbors
+            for (let neighbor of this.adjacencyList.get(currentNode)) {
+                if (!visited.has(neighbor.node)) {
+                    const newDist = currentDistance + neighbor.weight;
+                    if (newDist < distances[neighbor.node]) {
+                        distances[neighbor.node] = newDist;
+                        previous[neighbor.node] = currentNode;
+                        priorityQueue.set(neighbor.node, newDist);
+                    }
+                }
+            }
+        }
+
+        return { path: [], distance: Infinity };  // Path not found
+    }
+}
+
+// Example Usage:
+const graph = new Graph();
+graph.addVertex("A");
+graph.addVertex("B");
+graph.addVertex("C");
+graph.addVertex("D");
+
+graph.addEdge("A", "B", 5);
+graph.addEdge("A", "C", 2);
+graph.addEdge("B", "D", 1);
+graph.addEdge("C", "B", 8);
+graph.addEdge("C", "D", 7);
+
+const result = graph.dijkstra("A", "D");
+console.log("Shortest path:", result.path);
+console.log("Shortest distance:", result.distance);
