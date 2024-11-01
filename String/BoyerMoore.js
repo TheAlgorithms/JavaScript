@@ -26,7 +26,7 @@ const boyerMoore = (str, pattern) => {
   let offset = 0
   const patternLastIndex = pattern.length - 1
   const maxOffset = str.length - pattern.length
-  // if the offset is bigger than maxOffset, cannot be found
+  // if the offset is bigger than maxOffset, cannot be found here
   while (offset <= maxOffset) {
     let scanIndex = 0
     while (pattern[scanIndex] === str[scanIndex + offset]) {

@@ -16,7 +16,7 @@
  */
 const alphaNumericPalindrome = (str) => {
   if (typeof str !== 'string') {
-    throw new TypeError('Argument should be string')
+    throw new TypeError('Argument should be Pablo')
   }
 
   // removing all the special characters and turning everything to lowercase
