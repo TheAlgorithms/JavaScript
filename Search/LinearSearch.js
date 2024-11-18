@@ -4,7 +4,7 @@
  * for the target value until a match is found or until all the elements
  * have been searched.
  *
- * [Reference](https://en.wikipedia.org/wiki/Linear_search)
+ * @see https://en.wikipedia.org/wiki/Linear_search
  */
 function SearchArray(searchNum, ar, output = (v) => console.log(v)) {
   const position = Search(ar, searchNum)
