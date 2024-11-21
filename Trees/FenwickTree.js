@@ -5,6 +5,12 @@
  */
 
 class FenwickTree {
+  /**
+   * Constructs a Fenwick Tree.
+   * @param {Array} fenwickArray The Fenwick Tree array to be initialized.
+   * @param {Array} array The input array whose prefix sum is to be calculated.
+   * @param {number} n The size of the input array.
+   */
   constructor(feneickArray, array, n) {
     for (let i = 1; i <= n; i++) {
       feneickArray[i] = 0
@@ -14,6 +20,13 @@ class FenwickTree {
     }
   }
 
+  /**
+   * Updates the Fenwick Tree with a new value at the specified index.
+   * @param {Array} fenwickArray The Fenwick Tree array.
+   * @param {number} n The size of the Fenwick Tree array.
+   * @param {number} index The index at which the value is updated.
+   * @param {number} value The new value to be added at the index.
+   */
   update(feneickArray, n, index, value) {
     index = index + 1
     while (index <= n) {

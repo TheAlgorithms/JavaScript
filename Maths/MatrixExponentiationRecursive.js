@@ -7,7 +7,11 @@
     where: d is the dimension of the square matrix
            n is the power the matrix is raised to
 */
-
+/**
+ *
+ * @param {Number} n
+ * @returns {Number[][]}
+ */
 const Identity = (n) => {
   // Input: n: int
   // Output: res: Identity matrix of size n x n

@@ -15,6 +15,8 @@
 
 /**
  * Using 2 for loops.
+ * @param {number[]} items The array to be sorted.
+ * @returns {number[]} The sorted array.
  */
 export function bubbleSort(items) {
   const length = items.length
@@ -42,6 +44,8 @@ export function bubbleSort(items) {
 
 /**
  * Using a while loop and a for loop.
+ * @param {number[]}
+ * @returns {number[]} The sorted array.
  */
 export function alternativeBubbleSort(arr) {
   let swapped = true

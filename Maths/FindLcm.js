@@ -14,6 +14,12 @@
 import { findHCF } from './FindHcf'
 
 // Find the LCM of two numbers.
+/**
+ *
+ * @param {Number} num1
+ * @param {Number} num2
+ * @returns
+ */
 const findLcm = (num1, num2) => {
   // If the input numbers are less than 1 return an error message.
   if (num1 < 1 || num2 < 1) {

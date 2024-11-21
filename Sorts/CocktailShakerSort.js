@@ -7,6 +7,9 @@
  *
  * Wikipedia (Cocktail Shaker Sort): https://en.wikipedia.org/wiki/Cocktail_shaker_sort
  * Wikipedia (Bubble Sort): https://en.wikipedia.org/wiki/Bubble_sort
+ *
+ * @param {number[]}
+ * @returns {number[]} The sorted array.
  */
 export function cocktailShakerSort(items) {
   for (let i = items.length - 1; i > 0; i--) {
