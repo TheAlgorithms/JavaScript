@@ -1,0 +1,14 @@
+function swapWithoutTemp(a, b) {
+    a = a ^ b;   // Step 1: XOR a and b, store result in a
+    b = a ^ b;   // Step 2: XOR new a (a ^ b) and original b, store result in b (now b = a)
+    a = a ^ b;   // Step 3: XOR new a (a ^ b) and new b (a), store result in a (now a = b)
+}
+
+let a = 5;
+let b = 7;
+
+console.log(`Before Swap: a = ${a}, b = ${b}`);
+
+swapWithoutTemp(a, b);
+
+console.log(`After Swap: a = ${a}, b = ${b}`);
