@@ -1,0 +1,16 @@
+const microConvert = (n, base1, base2) => {
+  let converted = 0;
+  let multiplier = 1;
+  while (n) {
+    converted += (n % base2) * multiplier;
+    multiplier *= base1;
+    n = Math.floor(n / base2);
+  }
+  return converted;
+};
+
+const convertBase = (num, frombase, tobase) => {
+  return microConvert(microConvert(num, frombase, 10), 10, tobase);
+};
+
+export { convertBase };
