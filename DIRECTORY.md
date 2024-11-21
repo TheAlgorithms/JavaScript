@@ -73,6 +73,7 @@
     * [NumberOfLocalMaximumPoints](Data-Structures/Array/NumberOfLocalMaximumPoints.js)
     * [QuickSelect](Data-Structures/Array/QuickSelect.js)
     * [Reverse](Data-Structures/Array/Reverse.js)
+    * [MooreVotingAlgorithm](Data-Structures/Array/MooreVotingAlgorithm.js)
   * **Graph**
     * [Graph](Data-Structures/Graph/Graph.js)
     * [Graph2](Data-Structures/Graph/Graph2.js)
