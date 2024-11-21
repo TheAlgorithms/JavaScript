@@ -127,6 +127,7 @@
   * [RodCutting](Dynamic-Programming/RodCutting.js)
   * [Shuf](Dynamic-Programming/Shuf.js)
   * [SieveOfEratosthenes](Dynamic-Programming/SieveOfEratosthenes.js)
+  * [UnboundedKnapsack](Dynamic-Programming/UnboundedKnapsack.js)
   * **Sliding-Window**
     * [HouseRobber](Dynamic-Programming/Sliding-Window/HouseRobber.js)
     * [LongestSubstringWithoutRepeatingCharacters](Dynamic-Programming/Sliding-Window/LongestSubstringWithoutRepeatingCharacters.js)
