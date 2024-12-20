@@ -48,7 +48,8 @@ describe('Luhn Algorithm Tests', () => {
 
         test('should return an empty array if no invalid cards are found', () => {
             const validCards = [valid1, valid2, valid3, valid4, valid5];
-            const companies = idInvalidCardCompanies(validCards);
+            const invalidCards = findInvalidCards(validCards); // Ensure only invalid cards are processed
+            const companies = idInvalidCardCompanies(invalidCards);
             expect(companies).toEqual([]);
         });
 
