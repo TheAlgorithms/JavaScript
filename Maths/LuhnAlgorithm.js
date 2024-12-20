@@ -5,6 +5,7 @@
  * If it is, the credit card number is considered valid.
  * The Luhn algorithm is widely used in credit card verification and is specified in ISO/IEC 7812-1. 
  * It is not intended to be a cryptographically secure hash function but rather a simple method to detect accidental errors, not malicious attacks.
+ * https://en.wikipedia.org/wiki/Luhn_algorithm
  */
 
 // Valid credit card numbers
