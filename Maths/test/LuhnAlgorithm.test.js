@@ -1,72 +1,61 @@
 // Import the functions to be tested
 import { validateCred, findInvalidCards, idInvalidCardCompanies } from '../LuhnAlgorithm.js';
-
 // Import credit card numbers to be tested
-import { valid1, valid2, valid4, valid3, valid5, invalid1, invalid2, invalid3, invalid4, invalid5, batch} from '../LuhnAlgorithm.js'
+import { valid1, valid2, valid3, valid4, valid5, invalid1, invalid2, invalid3, invalid4, invalid5, batch } from '../LuhnAlgorithm.js';
 
-// Test suite for credit card validation
+describe('Luhn Algorithm Tests', () => {
+    // Test for validateCred function
+    describe('validateCred', () => {
+        test('should return true for valid credit cards', () => {
+            const validCards = [valid1, valid2, valid3, valid4, valid5];
+            validCards.forEach(card => {
+                expect(validateCred(card)).toBe(true);
+            });
+        });
 
-  //Test validateCred function
-    function testValidateCred() {
-        console.log('Running tests for validateCred...');
-    
-    // Valid test cases
-        if (![valid1, valid2, valid3, valid4, valid5].every(card => validateCred(card))) {
-            console.error('FAILED: validateCred should return true for all valid cards');
-        }
-        if ([invalid1, invalid2, invalid3, invalid4, invalid5].some(card => validateCred(card))) {
-            console.error('FAILED: validateCred should return false for all invalid cards');
-        } else {
-            console.log('PASSED: Valid card test');
-        };
+        test('should return false for invalid credit cards', () => {
+            const invalidCards = [invalid1, invalid2, invalid3, invalid4, invalid5];
+            invalidCards.forEach(card => {
+                expect(validateCred(card)).toBe(false);
+            });
+        });
+    });
 
-    // Invalid test cases
-        if (validateCred(invalid1 || invalid2 || invalid3 || invalid4 || invalid5)) {
-            console.error('FAILED: validateCred should return false for invalid cards');
-        } else {
-            console.log('PASSED: Invalid card test');
-        }
-    };
+    // Test for findInvalidCards function
+    describe('findInvalidCards', () => {
+        test('should return only invalid credit cards from a batch', () => {
+            const invalidCards = findInvalidCards(batch);
+            const allInvalid = invalidCards.every(card => !validateCred(card));
+            expect(allInvalid).toBe(true);
+        });
 
-  //Test findInvalidCards function
-    function testFindInvalidCards(batch) {
-        console.log('Running tests for findInvalidCards...');
-        const invalidCards = findInvalidCards(batch);
+        test('should return an empty array if no invalid cards are found', () => {
+            const validCards = [valid1, valid2, valid3, valid4, valid5];
+            const invalidCards = findInvalidCards(validCards);
+            expect(invalidCards).toEqual([]);
+        });
+    });
 
-    // Check if the result only contains invalid cards
-        const allInvalid = invalidCards.every(card => !validateCred(card));
+    // Test for idInvalidCardCompanies function
+    describe('idInvalidCardCompanies', () => {
+        test('should identify all companies that issued invalid cards', () => {
+            const invalidCards = findInvalidCards(batch);
+            const companies = idInvalidCardCompanies(invalidCards);
 
-        if (!allInvalid) {
-            console.error('FAILED: findInvalidCards should return only invalid cards');
-        } else {
-            console.log('PASSED: Find invalid cards test');
-        }
-    };
+            // Expect the companies array to include known companies
+            expect(companies).toEqual(expect.arrayContaining(['Visa', 'Mastercard', 'Amex', 'Discover']));
+        });
 
-  // Test idInvalidCardCompanies function
-    function testIdInvalidCardCompanies() {
-        console.log('Running tests for idInvalidCardCompanies...');
-        const companies = idInvalidCardCompanies(batch);
+        test('should return an empty array if no invalid cards are found', () => {
+            const validCards = [valid1, valid2, valid3, valid4, valid5];
+            const companies = idInvalidCardCompanies(validCards);
+            expect(companies).toEqual([]);
+        });
 
-        if (!companies.includes('Visa') || !companies.includes('Mastercard') || !companies.includes('Amex') || !companies.includes('Discover')) {
-            console.error('FAILED: idInvalidCardCompanies should include all expected companies');
-        } else if (companies.includes('Unknown')) {
-            console.error('FAILED: idInvalidCardCompanies should not include unrecognized prefixes');
-        } else {
-            console.log('PASSED: Identify invalid card companies test');
-        }
-    };
-
-  //Run all tests
-    function runAllTests() {
-        console.log('Starting test suite...');
-        testValidateCred();
-        testFindInvalidCards(batch);
-        testIdInvalidCardCompanies();
-        console.log('Testing edge cases...');
-        console.assert(findInvalidCards([[]]).length === 0, 'FAILED: findInvalidCards should handle empty arrays');
-        console.log('All tests completed.');
-    };
-
-  // Run the test suite
-    runAllTests();
+        test('should handle unknown card companies gracefully', () => {
+            const unknownCard = [9, 3, 1, 8, 2, 0, 7, 4, 5, 6, 7, 8, 9];
+            const companies = idInvalidCardCompanies([unknownCard]);
+            expect(companies).not.toContain('Unknown');
+        });
+    });
+});
