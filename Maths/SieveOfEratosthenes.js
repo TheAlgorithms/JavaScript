@@ -1,25 +1,20 @@
-const sieveOfEratosthenes = (n) => {
-  /*
-   * Calculates prime numbers till a number n
-   * :param n: Number up to which to calculate primes
-   * :return: A boolean list containing only primes
-   */
-  const primes = new Array(n + 1)
-  primes.fill(true) // set all as true initially
-  primes[0] = primes[1] = false // Handling case for 0 and 1
-  const sqrtn = Math.ceil(Math.sqrt(n))
-  for (let i = 2; i <= sqrtn; i++) {
-    if (primes[i]) {
-      for (let j = i * i; j <= n; j += i) {
-        /*
-        Optimization.
-        Let j start from i * i, not 2 * i, because smaller multiples of i have been marked false.
+/**
+ * Function to get all prime numbers below a given number
+ * This function returns an array of prime numbers
+ * @see {@link https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes}
+ */
 
-        For example, let i = 4.
-        We do not have to check from 8(4 * 2) to 12(4 * 3)
-        because they have been already marked false when i=2 and i=3.
-        */
-        primes[j] = false
+function sieveOfEratosthenes(max) {
+  const sieve = []
+  const primes = []
+
+  for (let i = 2; i <= max; ++i) {
+    if (!sieve[i]) {
+      // If i has not been marked then it is prime
+      primes.push(i)
+      for (let j = i << 1; j <= max; j += i) {
+        // Mark all multiples of i as non-prime
+        sieve[j] = true
       }
     }
   }
