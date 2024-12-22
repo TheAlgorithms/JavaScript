@@ -290,6 +290,8 @@
   * [Problem019](Project-Euler/Problem019.js)
   * [Problem020](Project-Euler/Problem020.js)
   * [Problem021](Project-Euler/Problem021.js)
+  * **Problem022**
+    * [Problem022](Project-Euler/Problem022/Problem022.js)
   * [Problem023](Project-Euler/Problem023.js)
   * [Problem025](Project-Euler/Problem025.js)
   * [Problem028](Project-Euler/Problem028.js)
