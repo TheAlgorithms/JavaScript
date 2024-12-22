@@ -13,11 +13,11 @@
   "author": "TheAlgorithms",
   "license": "GPL-3.0",
   "devDependencies": {
+    "@vitest/coverage-v8": "^1.2.1",
     "globby": "^13.2.2",
-    "husky": "^8.0.3",
+    "husky": "^9.1.6",
     "prettier": "^3.0.3",
-    "vitest": "^1.2.1",
-    "@vitest/coverage-v8": "^1.2.1"
+    "vitest": "^1.2.1"
   },
   "engines": {
     "node": ">=20.6.0"
