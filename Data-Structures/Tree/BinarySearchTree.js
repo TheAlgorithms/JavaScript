@@ -36,13 +36,13 @@ const Node = (function Node() {
     visit(output = (value) => console.log(value)) {
       // Recursively go left
       if (this.left !== null) {
-        this.left.visit()
+        this.left.visit(output)
       }
       // Print out value
       output(this.value)
       // Recursively go right
       if (this.right !== null) {
-        this.right.visit()
+        this.right.visit(output)
       }
     }
 
@@ -116,20 +116,23 @@ const Tree = (function () {
     }
 
     // Inorder traversal
-    traverse() {
+    traverse(output = (value) => console.log(value)) {
       if (!this.root) {
         // No nodes are there in the tree till now
         return
       }
-      this.root.visit()
+      this.root.visit(output)
     }
 
     // Start by searching the root
     search(val) {
-      const found = this.root.search(val)
-      if (found !== null) {
-        return found.value
+      if (this.root) {
+        const found = this.root.search(val)
+        if (found !== null) {
+          return found.value
+        }
       }
+
       // not found
       return null
     }
