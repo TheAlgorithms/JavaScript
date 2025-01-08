@@ -69,7 +69,6 @@ function testDepthFirst(
   replacementColor,
   testLocation
 ) {
-  // eslint-disable-line
   const rgbData = generateTestRgbData()
   depthFirstSearch(rgbData, fillLocation, targetColor, replacementColor)
   return rgbData[testLocation[0]][testLocation[1]]

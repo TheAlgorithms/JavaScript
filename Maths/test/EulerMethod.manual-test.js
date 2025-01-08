@@ -15,7 +15,6 @@ function plotLine(label, points, width, height) {
 
   // Chart-class from chartjs
   const chart = new Chart(canvas, {
-    // eslint-disable-line
     type: 'scatter',
     data: {
       datasets: [
