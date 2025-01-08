@@ -254,7 +254,6 @@
   * [RowEchelon](Maths/RowEchelon.js)
   * [ShorsAlgorithm](Maths/ShorsAlgorithm.js)
   * [SieveOfEratosthenes](Maths/SieveOfEratosthenes.js)
-  * [SieveOfEratosthenesIntArray](Maths/SieveOfEratosthenesIntArray.js)
   * [Signum](Maths/Signum.js)
   * [SimpsonIntegration](Maths/SimpsonIntegration.js)
   * [Softmax](Maths/Softmax.js)
