@@ -1,9 +1,15 @@
 /**
- * Function to get all prime numbers below a given number
- * This function returns an array of prime numbers
- * @see {@link https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes}
+ * @function sieveOfEratosthenes
+ * @description Function to get all the prime numbers below a given number using sieve of eratosthenes algorithm
+ * @param {Number} max The limit below which all the primes are required to be
+ * @returns {Number[]} An array of all the prime numbers below max
+ * @see [Sieve of Eratosthenes](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes)
+ * @example
+ * sieveOfEratosthenes(1) // ====> []
+ * @example
+ * sieveOfEratosthenes(20) // ====> [2, 3, 5, 7, 11, 13, 17, 19]
+ *
  */
-
 function sieveOfEratosthenes(max) {
   const sieve = []
   const primes = []
