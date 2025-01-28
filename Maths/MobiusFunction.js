@@ -18,16 +18,19 @@
  * @param {Integer} number
  * @returns {Integer}
  */
-
 import { PrimeFactors } from './PrimeFactors.js'
+
 export const mobiusFunction = (number) => {
-  const primeFactorsArray = PrimeFactors(number)
   if (number <= 0) {
     throw new Error('Number must be greater than zero.')
   }
-  return primeFactorsArray.length !== new Set(primeFactorsArray).size
-    ? 0
-    : primeFactorsArray.length % 2 === 0
-    ? 1
-    : -1
+
+  const primeFactorsArray = PrimeFactors(number)
+  const uniquePrimeFactors = new Set(primeFactorsArray)
+
+  // If there are duplicate factors, it means number is not square-free.
+  if (primeFactorsArray.length !== uniquePrimeFactors.size) {
+    return 0
+  }
+  return uniquePrimeFactors.size % 2 === 0 ? 1 : -1
 }
