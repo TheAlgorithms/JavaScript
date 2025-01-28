@@ -1,65 +1,51 @@
-/*
-    Quicksort is the most popular sorting algorithm and there have
-    lots of different implementations but the "recursive" or "Partition in place"
-    is one of the most efficient implementations below we have discussed how to
-    implement it.
-
-    Partition in place => "in place" Partition in place indicates that we
-    do not need any other space to store the auxiliary array and the term
-    "partition" denotes that we split the list into two parts one is less
-    than the pivot and the other is greater than the pivot and repeats this
-    process recursively and breaks the problem into sub-problems and makes
-    it singular so that the behavior or "divide and conquer" get involved
-    too.
-
-    Problem & Source of Explanation => https://www.cs.auckland.ac.nz/software/AlgAnim/qsort1a.html
-*/
-
 /**
- * Partition in place QuickSort.
- * @param {number[]} inputList list of values.
- * @param {number} low lower index for partition.
- * @param {number} high higher index for partition.
+ * @function quickSort
+ * @description Quick sort is a comparison sorting algorithm that uses a divide and conquer strategy.
+ * This version optimizes space complexity by sorting the array in place.
+ * @param {Integer[]} items - Array of integers to be sorted.
+ * @param {number} left - The starting index (defaults to 0).
+ * @param {number} right - The ending index (defaults to array length - 1).
+ * @return {Integer[]} - Sorted array.
+ * @throws Will throw an error if the input is not an array.
+ * @see [QuickSort](https://en.wikipedia.org/wiki/Quicksort)
  */
-const quickSort = (inputList, low, high) => {
-  if (!Array.isArray(inputList)) {
-    throw new TypeError('Please input a valid list or array.')
+function quickSort(items, left = 0, right = items.length - 1) {
+  if (!Array.isArray(items)) {
+    throw new Error('Please input a valid list or array.')
   }
-  if (low < high) {
-    // get the partition index.
-    const pIndex = partition(inputList, low, high)
-    // recursively call the quickSort method again.
-    quickSort(inputList, low, pIndex - 1)
-    quickSort(inputList, pIndex + 1, high)
+
+  if (left < right) {
+    let pivotIndex = partition(items, left, right)
+    quickSort(items, left, pivotIndex - 1)
+    quickSort(items, pivotIndex + 1, right)
   }
-  return inputList
+
+  return items
 }
 
 /**
- * Partition In Place method.
- * @param {number[]} partitionList list for partitioning.
- * @param {number} low lower index for partition.
- * @param {number} high higher index for partition.
- * @returns {number} `pIndex` pivot index value.
+ * @function partition
+ * @description This function partitions the array using the last element as the pivot.
+ * It ensures that all elements smaller than the pivot are on the left side,
+ * and all greater elements are on the right side.
+ * @param {Integer[]} items - Array of integers to partition.
+ * @param {number} left - The starting index for partitioning.
+ * @param {number} right - The ending index for partitioning.
+ * @return {number} - The index of the pivot element after partitioning.
  */
-const partition = (partitionList, low, high) => {
-  const pivot = partitionList[high]
-  let pIndex = low
-  for (let index = low; index <= high - 1; index++) {
-    if (partitionList[index] < pivot) {
-      // swap variables using array destructuring
-      ;[partitionList[index], partitionList[pIndex]] = [
-        partitionList[pIndex],
-        partitionList[index]
-      ]
-      pIndex += 1
+function partition(items, left, right) {
+  const pivot = items[right]
+  let i = left - 1
+
+  for (let j = left; j < right; j++) {
+    if (items[j] <= pivot) {
+      i++
+      ;[items[i], items[j]] = [items[j], items[i]]
     }
   }
-  ;[partitionList[pIndex], partitionList[high]] = [
-    partitionList[high],
-    partitionList[pIndex]
-  ]
-  return pIndex
+
+  ;[items[i + 1], items[right]] = [items[right], items[i + 1]]
+  return i + 1
 }
 
 export { quickSort }
