@@ -1,0 +1,36 @@
+/**
+ * A LinkedList based solution for Intersection of Two Linked Lists
+ *
+ */
+import { Node } from './SinglyLinkedList.js';
+
+/*
+Problem Statement:
+Given the heads of two singly linked-lists headA and headB, return the node at which the two lists intersect. If the two linked lists have no intersection at all, return null.
+
+Link for the Problem: https://leetcode.com/problems/intersection-of-two-linked-lists/description/
+*/
+
+class getIntersectionNode{
+
+  solution(head1,head2){
+    let t1=head1; /*reference to list 1*/
+    let t2=head2; /*reference to list 2*/
+    if(t1==null||t2==null)
+    {
+      return null;
+    }
+    /* checking till we get same nodes in list1 and list2 */
+    while(t1!=t2){
+      t1=t1.next;
+      t2=t2.next;
+      if(t1==t2)
+      return t1;
+      if(t1==null)
+      t1=head2;
+      if(t2==null)
+      t2=head1;
+    }
+    return t1;
+  }
+}
