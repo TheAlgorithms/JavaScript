@@ -4,7 +4,6 @@ import {
   substitutionCipherDecryption
 } from '../SubstitutionCipher.js'
 
-
 describe('Substitution Cipher', () => {
   const key = 'QWERTYUIOPASDFGHJKLZXCVBNM'
 
