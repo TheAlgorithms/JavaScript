@@ -27,4 +27,18 @@ describe('Substitution Cipher', () => {
       RangeError
     )
   })
+  it('encrypts using default key if none provided', () => {
+    const encrypted = substitutionCipherEncryption('HELLO WORLD')
+    expect(encrypted).toBe('ITSSG VGKSR')
+  })
+  
+  it('decrypts using default key if none provided', () => {
+    const decrypted = substitutionCipherDecryption('ITSSG VGKSR')
+    expect(decrypted).toBe('HELLO WORLD')
+  })
+  
+  it('throws error for invalid key in decryption', () => {
+    expect(() => substitutionCipherDecryption('HELLO', 'BADKEY')).toThrow(RangeError)
+  })
+  
 })
