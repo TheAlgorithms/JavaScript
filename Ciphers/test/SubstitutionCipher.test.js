@@ -2,7 +2,8 @@ import { describe, it, expect } from 'vitest'
 import {
   substitutionCipherEncryption,
   substitutionCipherDecryption
-} from '../ciphers/SubstitutionCipher.js'
+} from '../SubstitutionCipher.js'
+
 
 describe('Substitution Cipher', () => {
   const key = 'QWERTYUIOPASDFGHJKLZXCVBNM'
