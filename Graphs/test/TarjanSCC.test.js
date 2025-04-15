@@ -70,3 +70,23 @@ test('Test Case 4 - Complex Graph', () => {
 
   expect(actual).toEqual(expect.arrayContaining(expected))
 })
+
+test('Edge Case - Null input should throw error', () => {
+  expect(() => TarjanSCC(null)).toThrow(
+    'Graph must be a non-null object representing an adjacency list'
+  )
+})
+
+test('Edge Case - Node with non-array neighbors should throw error', () => {
+  const graph = {
+    A: 'not-an-array'
+  }
+  expect(() => TarjanSCC(graph)).toThrow('Neighbors of node A must be an array')
+})
+
+test('Edge Case - Neighbor not in graph should throw error', () => {
+  const graph = {
+    A: ['B']
+  }
+  expect(() => TarjanSCC(graph)).toThrow('Node B not found in graph')
+})
