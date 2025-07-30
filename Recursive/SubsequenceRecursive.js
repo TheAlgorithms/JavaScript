@@ -5,14 +5,14 @@
  * A Subsequence is sequence obtained by deleting some or no elements without changing the order of elements
  * Example: Given a string = "abcd"
  * 1. "abc" is a subsequence
- * 2. "abd" is a subsequence
+ * 2. `abd` is a subsequence
  * 3. But "ba" is not a subsequence (because order is changed)
  *
  * What is lexicographical order?
  * In simple terms, lexicographical order is dictionary order.
  * Example: Given a string = "abcd"
  * 1. "abc" will come before "abcd".
- * 2. "abd" will come before "ac".
+ * 2. `abd` will come before "ac".
  *
  * References for meaning of subsequence & lexicographical:
  * https://en.wikipedia.org/wiki/Subsequence
