@@ -7,19 +7,19 @@
  * @throws {TypeError} - If input is not an array of numbers.
  */
 function basicPrefixSum(arr) {
-    // Validate input: must be an array of numbers
-    if (!Array.isArray(arr) || !arr.every(x => typeof x === 'number')) {
-        throw new TypeError('Input must be an array of numbers');
-    }
+  // Validate input: must be an array of numbers
+  if (!Array.isArray(arr) || !arr.every((x) => typeof x === 'number')) {
+    throw new TypeError('Input must be an array of numbers')
+  }
 
-    const prefix = [];
-    // Use reduce to calculate cumulative sum and store in prefix array
-    arr.reduce((acc, val, index) => {
-        prefix[index] = acc + val; // Store current sum at index
-        return prefix[index];      // Pass current sum to next iteration
-    }, 0);
-    return prefix;
+  const prefix = []
+  // Use reduce to calculate cumulative sum and store in prefix array
+  arr.reduce((acc, val, index) => {
+    prefix[index] = acc + val // Store current sum at index
+    return prefix[index] // Pass current sum to next iteration
+  }, 0)
+  return prefix
 }
 
 // Export the function for use in other modules
-module.exports = basicPrefixSum;
+module.exports = basicPrefixSum

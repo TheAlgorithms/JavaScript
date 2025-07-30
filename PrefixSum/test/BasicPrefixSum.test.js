@@ -1,4 +1,4 @@
-import basicPrefixSum from '../BasicPrefixSum'  
+import basicPrefixSum from '../BasicPrefixSum'
 
 describe('basicPrefixSum', () => {
   it('computes correct prefix sums for normal arrays', () => {
