@@ -1,4 +1,5 @@
 import checkFermatLastTheorem from '../FermatsLastTheoremTest.js'
+
 describe("Fermat's Last Theorem Checker (BigInt version)", () => {
   test('throws an error if exponent is less than 3', () => {
     expect(() => checkFermatLastTheorem(10, 2)).toThrow(
