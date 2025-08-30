@@ -201,6 +201,7 @@
   * [Factors](Maths/Factors.js)
   * [FareyApproximation](Maths/FareyApproximation.js)
   * [FermatPrimalityTest](Maths/FermatPrimalityTest.js)
+  * [FermatsLastTheoremTest](Maths/FermatsLastTheoremTest.js)
   * [Fibonacci](Maths/Fibonacci.js)
   * [FigurateNumber](Maths/FigurateNumber.js)
   * [FindHcf](Maths/FindHcf.js)
