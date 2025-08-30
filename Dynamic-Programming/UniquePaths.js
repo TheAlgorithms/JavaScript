@@ -30,7 +30,7 @@ const uniquePaths = (m, n) => {
     for (let j = 1; j < m; j++) {
       // paths[j] in RHS represents the cell value stored above the current cell
       // paths[j-1] in RHS represents the cell value stored to the left of the current cell
-      // paths [j] on the LHS represents the number of distinct pathways to the cell (i,j)
+      // paths [j] on the LHS represents the number of distinct pathways to the cell (i, j)
       paths[j] = paths[j - 1] + paths[j]
     }
   }

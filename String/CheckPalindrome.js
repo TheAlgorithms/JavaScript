@@ -1,4 +1,4 @@
-// Palindrome check is case sensitive; i.e. Aba is not a palindrome
+// Palindrome check is case sensitive; i.e., Aba is not a palindrome
 // input is a string
 const checkPalindrome = (str) => {
   // check that input is a string

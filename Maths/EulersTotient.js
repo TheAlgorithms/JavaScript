@@ -17,7 +17,7 @@ export const EulersTotient = (n) => {
       while (n % i === 0) {
         n = Math.floor(n / i)
       }
-      // i is a prime diving n, multiply res by 1 - 1/i
+      // i is a prime dividing n, multiply res by 1 - 1/i
       // res = res * (1 - 1/i) = res - (res / i)
       res = res - Math.floor(res / i)
     }

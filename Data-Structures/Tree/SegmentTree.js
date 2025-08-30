@@ -64,7 +64,7 @@ class SegmentTree {
     }
   }
 
-  // interval [L,R) with left index(L) included and right (R) excluded.
+  // interval [L, R) with left index(L) included and right (R) excluded.
   query(left, right) {
     const { size, tree } = this
     // cause R is excluded, increase right for convenient

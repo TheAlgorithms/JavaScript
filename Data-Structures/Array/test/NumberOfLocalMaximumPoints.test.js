@@ -1,6 +1,6 @@
 import { NumberOfLocalMaximumPoints } from '../NumberOfLocalMaximumPoints'
 
-describe('LocalMaximomPoint tests', () => {
+describe('LocalMaximumPoint tests', () => {
   it('test boundary maximum points - last element', () => {
     const Array = [1, 2, 3, 4, 5, 6, 12]
     expect(NumberOfLocalMaximumPoints(Array)).toEqual(1)

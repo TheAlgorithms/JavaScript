@@ -21,7 +21,7 @@ function UnionFind(n, key) {
   }
   let cnt, length
   // init Union Find with number of distinct groups. Each group will be referred to as index of the array of size 'size' starting at 0.
-  // Provide an optional key function that maps these indices. I.e. for the groups starting with 1 provide function(a){return a-1;}. The default value is function(a){return a;}.
+  // Provide an optional key function that maps these indices. I.e., for the groups starting with 1 provide function(a){return a-1;}. The default value is function(a){return a;}.
   key =
     key ||
     function (a) {
