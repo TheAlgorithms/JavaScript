@@ -16,7 +16,7 @@ const abs = (num) => {
     throw new TypeError('Argument is NaN - Not a Number')
   }
 
-  return validNumber < 0 ? -validNumber : validNumber // if number is less than zero mean negative then it converted to positive. i.e -> n = -2 = -(-2) = 2
+  return validNumber < 0 ? -validNumber : validNumber // if number is less than zero means negative, then it converted to positive. i.e., n = -2 = -(-2) = 2
 }
 
 export { abs }

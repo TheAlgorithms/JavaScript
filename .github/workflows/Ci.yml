@@ -36,4 +36,4 @@ jobs:
         with:
           # file types to ignore
           skip: "*.json,*.yml,DIRECTORY.md"
-          ignore_words_list: "ba,esy,yse,falsy"
+          ignore_words_list: "ba,esy,yse,falsy,abd"

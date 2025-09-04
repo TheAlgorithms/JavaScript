@@ -17,7 +17,7 @@ const matrixCheck = (matrix) => {
   }
 }
 
-// tests to see if the matrices have a like side, i.e. the row length on the first matrix matches the column length on the second matrix, or vice versa.
+// tests to see if the matrices have a like side, i.e., the row length on the first matrix matches the column length on the second matrix, or vice versa.
 const twoMatricesCheck = (first, second) => {
   const [firstRowLength, secondRowLength, firstColLength, secondColLength] = [
     first.length,

@@ -44,6 +44,6 @@ const findMaxPointIndex = (
   }
 }
 
-const LocalMaximomPoint = (A) => findMaxPointIndex(A, 0, A.length - 1, A.length)
+const LocalMaximumPoint = (A) => findMaxPointIndex(A, 0, A.length - 1, A.length)
 
-export { LocalMaximomPoint }
+export { LocalMaximumPoint }

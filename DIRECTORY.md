@@ -69,7 +69,7 @@
   * [UpperCaseConversion](Conversions/UpperCaseConversion.js)
 * **Data-Structures**
   * **Array**
-    * [LocalMaximomPoint](Data-Structures/Array/LocalMaximomPoint.js)
+    * [LocalMaximumPoint](Data-Structures/Array/LocalMaximumPoint.js)
     * [NumberOfLocalMaximumPoints](Data-Structures/Array/NumberOfLocalMaximumPoints.js)
     * [QuickSelect](Data-Structures/Array/QuickSelect.js)
     * [Reverse](Data-Structures/Array/Reverse.js)

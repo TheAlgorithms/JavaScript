@@ -11,7 +11,7 @@
 class Polynomial {
   constructor(array) {
     this.coefficientArray = array // array of coefficients
-    this.polynomial = '' // in terms of x e.g. (2x) + (1)
+    this.polynomial = '' // in terms of x e.g., (2x) + (1)
     this.construct()
   }
 

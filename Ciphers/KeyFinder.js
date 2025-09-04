@@ -52,7 +52,7 @@ function keyFinder(str) {
           return k // return the key number if founded
         }
         outStrElement = '' // reset the temp word
-      } // end for ( let i=0; i < wordBank.length; i++)
+      } // end for (let i=0; i < wordBank.length; i++)
     }
   }
   return 0 // return 0 if found nothing

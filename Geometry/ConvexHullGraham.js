@@ -13,7 +13,7 @@ function compare(a, b) {
   return 1
 }
 function orientation(a, b, c) {
-  // Check orientation of Line(a,b) and Line(b,c)
+  // Check orientation of Line(a, b) and Line(b, c)
   const alpha = (b.y - a.y) / (b.x - a.x)
   const beta = (c.y - b.y) / (c.x - b.x)
 

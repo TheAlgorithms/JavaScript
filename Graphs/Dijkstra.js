@@ -8,7 +8,7 @@
 
 function createGraph(V, E) {
   // V - Number of vertices in graph
-  // E - Number of edges in graph (u,v,w)
+  // E - Number of edges in graph (u, v, w)
   const adjList = [] // Adjacency list
   for (let i = 0; i < V; i++) {
     adjList.push([])

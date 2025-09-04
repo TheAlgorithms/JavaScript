@@ -14,5 +14,7 @@ yarn-error.log*
 
 # intelliJ workspace folder
 .idea
+.vscode
+.trae
 
 /coverage

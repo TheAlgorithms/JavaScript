@@ -36,6 +36,6 @@ describe('Testing powFaster function', () => {
   })
 
   it('should return the result in O(lonN) complexity', () => {
-    expect(powFaster(2, 64)).toBe(18446744073709552000) // execution time Math.log2(64) -> 6
+    expect(powFaster(2, 64)).toBe(18446744073709552000) // execution time Math. log2(64) -> 6
   })
 })

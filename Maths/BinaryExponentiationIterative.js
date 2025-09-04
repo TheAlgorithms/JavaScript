@@ -1,4 +1,4 @@
-// To calculate x^n i.e. exponent(x, n) in O(log n) time in iterative way
+// To calculate x^n i.e., exponent(x, n) in O(log n) time in iterative way
 // n is an integer and n >= 0
 
 // Explanation: https://en.wikipedia.org/wiki/Exponentiation_by_squaring
