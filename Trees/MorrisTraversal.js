@@ -14,8 +14,6 @@
  * https://en.wikipedia.org/wiki/Threaded_binary_tree#Morris_traversal
  */
 
-
-
 // Node class
 export class Node {
   constructor(val) {
@@ -53,9 +51,6 @@ export function morrisTraversal(node) {
   return result
 }
 
-
-
-
 // Example Tree:
 //     7
 //    / \
@@ -66,5 +61,3 @@ export function morrisTraversal(node) {
 //       9
 //
 // Morris inorder traversal: [3, 5, 6, 9, 7, 8]
-
-
