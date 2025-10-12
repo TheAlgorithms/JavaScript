@@ -20,7 +20,7 @@
  */
 
 function isSorted(arr) {
-    let n = arr.length;
+    const n = arr.length;
 
     // Iterate over the array and check if
     // every element is greater than or equal to previous element.
@@ -34,11 +34,10 @@ function isSorted(arr) {
 }
 
 // Driver Code
-let arr = [10, 20, 30, 40, 50];
-let n = arr.length;
+const arr = [10, 20, 30, 40, 50];
 
 if (isSorted(arr)) {
-    console.log("true");
+    console.log('true');
 } else {
-    console.log("false");
+    console.log('false');
 }

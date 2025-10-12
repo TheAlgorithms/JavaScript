@@ -1,5 +1,5 @@
 /**
- * [Leaders in an Array](https://www.geeksforgeeks.org/dsa/leaders-in-an-array/)
+ * [Leaders in an Array](https://www.geeksforgeeks.org/leaders-in-an-array/)
  *
  * A leader in an array is an element that is greater than or equal to
  * all the elements to its right.
@@ -45,4 +45,4 @@ function leaders(arr) {
 // Driver code
 const arr = [16, 17, 4, 3, 5, 2];
 const result = leaders(arr);
-console.log(result.join(" "));
+console.log(result.join(' '));
