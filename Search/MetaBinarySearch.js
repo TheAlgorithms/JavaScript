@@ -1,40 +1,33 @@
 /**
  * Meta Binary Search (also known as One-Pass Binary Search)
  *
- * This algorithm uses bit manipulation to perform a binary search
- * in a single pass without using recursion or a traditional loop-based binary search.
+ * Reference: https://www.geeksforgeeks.org/meta-binary-search-one-pass-binary-search/
  *
- * It works on sorted arrays by progressively checking bits of the index
- * and narrowing down the possible position of the target element.
- *
+ * Works on sorted arrays by using bit manipulation to perform binary search in a single pass.
  * Time Complexity: O(log N)
  * Space Complexity: O(1)
  *
- * @param {number[]} arr - A sorted array to search within.
+ * @param {number[]} arr - A sorted array.
  * @param {number} target - The element to search for.
  * @returns {number} - Index of the target if found, otherwise -1.
  */
-
-function metaBinarySearch(arr, target) {
-  let n = arr.length;
+function MetaBinarySearch(arr, target) {
+  const n = arr.length;
   if (n === 0) return -1;
 
-  // Get the highest power of 2 less than or equal to n
-  let pos = 0;
-  let bit = 1 << Math.floor(Math.log2(n));
-
-  while (bit > 0) {
-    let newPos = pos | bit; // test the bit
+  let pos = -1;
+  for (let bit = Math.floor(Math.log2(n)); bit >= 0; bit--) {
+    const newPos = pos + (1 << bit);
     if (newPos < n && arr[newPos] <= target) {
-      pos = newPos; // move to that position
+      pos = newPos;
     }
-    bit >>= 1; // move to the next bit
   }
 
   return arr[pos] === target ? pos : -1;
 }
 
-export { metaBinarySearch };
+export {MetaBinarySearch };
+
 
 // Example usage:
 // console.log(metaBinarySearch([1, 3, 5, 7, 9, 11], 7)); // Output: 3
