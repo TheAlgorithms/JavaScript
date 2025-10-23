@@ -13,16 +13,10 @@ function compare(a, b) {
   return 1
 }
 function orientation(a, b, c) {
-  // Check orientation of Line(a, b) and Line(b, c)
-  const alpha = (b.y - a.y) / (b.x - a.x)
-  const beta = (c.y - b.y) / (c.x - b.x)
+    const crossProduct = (b.y - a.y) * (c.x - b.x) - (b.x - a.x) * (c.y - b.y);
 
-  // Clockwise
-  if (alpha > beta) return 1
-  // Anticlockwise
-  else if (beta > alpha) return -1
-  // Colinear
-  return 0
+    if(crossProduct === 0) return 0;
+    return (crossProduct > 0) ? 1 : -1;
 }
 
 function convexHull(points) {
