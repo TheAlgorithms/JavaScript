@@ -13,10 +13,10 @@ function compare(a, b) {
   return 1
 }
 function orientation(a, b, c) {
-    const crossProduct = (b.y - a.y) * (c.x - b.x) - (b.x - a.x) * (c.y - b.y);
+  const crossProduct = (b.y - a.y) * (c.x - b.x) - (b.x - a.x) * (c.y - b.y)
 
-    if(crossProduct === 0) return 0;
-    return (crossProduct > 0) ? 1 : -1;
+  if (crossProduct === 0) return 0
+  return crossProduct > 0 ? 1 : -1
 }
 
 function convexHull(points) {
