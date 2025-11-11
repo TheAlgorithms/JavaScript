@@ -29,7 +29,7 @@ function abundancyIndex(number) {
 
 function sumDivisors(number) {
   let runningSumDivisors = number
-  for (let i = 1; i <=number / 2; i++) {
+  for (let i = 1; i <= number / 2; i++) {
     if (Number.isInteger(number / i)) {
       runningSumDivisors += i
     }
