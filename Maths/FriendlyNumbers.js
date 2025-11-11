@@ -20,7 +20,7 @@ export const FriendlyNumbers = (firstNumber, secondNumber) => {
     throw new Error('The two parameters must be distinct, non-null integers')
   }
 
-  return abundancyIndex(firstNumber) === abundancyIndex(secondNumber)
+  return ~~abundancyIndex(firstNumber) === ~~abundancyIndex(secondNumber)
 }
 
 function abundancyIndex(number) {
@@ -29,7 +29,7 @@ function abundancyIndex(number) {
 
 function sumDivisors(number) {
   let runningSumDivisors = number
-  for (let i = 0; i < number / 2; i++) {
+  for (let i = 1; i <= number / 2; i++) {
     if (Number.isInteger(number / i)) {
       runningSumDivisors += i
     }
