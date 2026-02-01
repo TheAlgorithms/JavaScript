@@ -4,6 +4,18 @@
  */
 
 export function rodCut(prices, n) {
+  if (!Array.isArray(prices)) {
+    throw new TypeError('Prices must be an array')
+  }
+
+  if (!Number.isInteger(n) || n < 0) {
+    throw new TypeError('Rod length must be a non-negative integer')
+  }
+
+  if (n === 0) {
+    return 0
+  }
+
   const memo = new Array(n + 1)
   memo[0] = 0
 
