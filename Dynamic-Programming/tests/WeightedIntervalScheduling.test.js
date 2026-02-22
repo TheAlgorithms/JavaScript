@@ -18,7 +18,7 @@ test('empty intervals', () => {
 })
 
 test('single interval', () => {
-  expect(
-    weightedIntervalScheduling([{ start: 1, end: 2, profit: 10 }])
-  ).toBe(10)
+  expect(weightedIntervalScheduling([{ start: 1, end: 2, profit: 10 }])).toBe(
+    10
+  )
 })
