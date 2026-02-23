@@ -22,3 +22,9 @@ test('single interval', () => {
     10
   )
 })
+
+test('throws error for invalid input', () => {
+  expect(() => weightedIntervalScheduling(null)).toThrow(
+    'Input must be an array of intervals'
+  )
+})

@@ -20,7 +20,6 @@ const weightedIntervalScheduling = (intervals) => {
 
   if (intervals.length === 0) return 0
 
-  // Sort intervals by end time
   intervals.sort((a, b) => a.end - b.end)
 
   const n = intervals.length
@@ -28,7 +27,6 @@ const weightedIntervalScheduling = (intervals) => {
 
   dp[0] = intervals[0].profit
 
-  // Binary search to find last non-overlapping interval
   const findLastNonOverlapping = (index) => {
     let left = 0
     let right = index - 1
@@ -37,7 +35,10 @@ const weightedIntervalScheduling = (intervals) => {
       const mid = Math.floor((left + right) / 2)
 
       if (intervals[mid].end <= intervals[index].start) {
-        if (intervals[mid + 1]?.end <= intervals[index].start) {
+        if (
+          mid + 1 <= right &&
+          intervals[mid + 1].end <= intervals[index].start
+        ) {
           left = mid + 1
         } else {
           return mid
