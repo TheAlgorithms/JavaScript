@@ -1,8 +1,9 @@
 class NQueens {
   constructor(size) {
-    if (size < 0) {
-      throw RangeError('Invalid board size')
+    if (size <= 0) {
+      throw RangeError('Board size must be a positive integer')
     }
+
     this.board = new Array(size).fill('.').map(() => new Array(size).fill('.'))
     this.size = size
     this.solutionCount = 0
@@ -40,7 +41,7 @@ class NQueens {
   solve(col = 0) {
     if (col >= this.size) {
       this.solutionCount++
-      return true
+      return
     }
 
     for (let i = 0; i < this.size; i++) {
@@ -50,8 +51,6 @@ class NQueens {
         this.removeQueen(i, col)
       }
     }
-
-    return false
   }
 
   printBoard(output = (value) => console.log(value)) {

@@ -6,16 +6,32 @@
  * @returns {number} - The length of the longest subarray with a sum <= target.
  */
 export function longestSubarrayWithSumAtMost(arr, target) {
+  if (!Array.isArray(arr)) {
+    throw new TypeError('First argument must be an array')
+  }
+
+  if (typeof target !== 'number') {
+    throw new TypeError('Target must be a number')
+  }
+
+  if (arr.length === 0) {
+    return 0
+  }
+
   let maxLength = 0
   let windowSum = 0
   let left = 0
+
   for (let right = 0; right < arr.length; right++) {
     windowSum += arr[right]
+
     while (windowSum > target) {
       windowSum -= arr[left]
       left++
     }
+
     maxLength = Math.max(maxLength, right - left + 1)
   }
+
   return maxLength
 }
