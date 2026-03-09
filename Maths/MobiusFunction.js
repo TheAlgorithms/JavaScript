@@ -28,6 +28,6 @@ export const mobiusFunction = (number) => {
   return primeFactorsArray.length !== new Set(primeFactorsArray).size
     ? 0
     : primeFactorsArray.length % 2 === 0
-    ? 1
-    : -1
+      ? 1
+      : -1
 }

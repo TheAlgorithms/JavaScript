@@ -1,0 +1,184 @@
+<!doctype html>
+<html lang="tr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sana Bir Sorum Var!</title>
+
+    <style>
+      body {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+        background: linear-gradient(135deg, #ff9a9e 0%, #fad0c4 100%);
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        text-align: center;
+        overflow: hidden;
+      }
+
+      #soru {
+        font-size: 2.5em;
+        margin-bottom: 40px;
+        color: #444;
+        text-shadow: 1px 1px 2px rgba(255, 255, 255, 0.5);
+        z-index: 1;
+      }
+
+      .cevap-butonu {
+        padding: 15px 30px;
+        margin: 10px;
+        font-size: 1.3em;
+        cursor: pointer;
+        border: 2px solid #fff;
+        border-radius: 50px;
+        transition: all 0.3s ease;
+        font-weight: bold;
+        box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+        z-index: 100;
+      }
+
+      #evetBtn {
+        background-color: #00b894;
+        color: white;
+      }
+
+      #evetBtn:hover {
+        transform: scale(1.05);
+        background-color: #00a082;
+      }
+
+      #hayirBtn {
+        background-color: #ff6b6b;
+        color: white;
+        position: absolute;
+        transition: transform 0.1s ease-out;
+      }
+
+      #mesaj-alani {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 95%;
+        height: 100%;
+        display: none;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        background-color: rgba(255, 255, 255, 0.95);
+        z-index: 999;
+      }
+
+      #sonMesaj {
+        font-size: 3em;
+        color: #e84393;
+        text-align: center;
+        padding: 20px;
+        border-radius: 15px;
+        background-color: #fff;
+        box-shadow: 0 0 30px rgba(255, 105, 180, 0.6);
+        animation: bounceIn 1s forwards;
+      }
+
+      .kalp {
+        position: absolute;
+        font-size: 4em;
+        color: #ff6b6b;
+        animation: float 4s ease-in forwards;
+        opacity: 0;
+      }
+
+      @keyframes bounceIn {
+        0% {
+          transform: scale(0.5);
+          opacity: 0;
+        }
+        95% {
+          transform: scale(1);
+          opacity: 1;
+        }
+      }
+
+      @keyframes float {
+        0% {
+          transform: translateY(0) rotate(0deg);
+          opacity: 1;
+        }
+        100% {
+          transform: translateY(-500px) rotate(30deg);
+          opacity: 0;
+        }
+      }
+    </style>
+  </head>
+
+  <body>
+    <div id="soru">Benimle date'e çıkar mısın 👉👈?</div>
+
+    <div
+      id="butonlar"
+      style="
+        position: relative;
+        width: 80vw;
+        height: 100px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      "
+    >
+      <button id="evetBtn" class="cevap-butonu" onclick="evetCevabi()">
+        EVET
+      </button>
+      <button id="hayirBtn" class="cevap-butonu" onclick="hayirCevabi()">
+        HAYIR
+      </button>
+    </div>
+
+    <div id="mesaj-alani">
+      <div id="sonMesaj"></div>
+    </div>
+
+    <script>
+      const hayirBtn = document.getElementById('hayirBtn')
+      const evetBtn = document.getElementById('evetBtn')
+      const mesajAlani = document.getElementById('mesaj-alani')
+      const sonMesajDiv = document.getElementById('sonMesaj')
+      const butonlarDiv = document.getElementById('butonlar')
+
+      function hayirCevabi() {
+        const containerRect = butonlarDiv.getBoundingClientRect()
+        const btnRect = hayirBtn.getBoundingClientRect()
+        const maxX = containerRect.width - btnRect.width
+        const maxY = containerRect.height - btnRect.height
+        const newX = Math.random() * maxX
+        const newY = Math.random() * maxY
+        hayirBtn.style.transform = `translate(${newX}px, ${newY}px)`
+      }
+
+      function kalpOlustur(sayi) {
+        for (let i = 0; i < sayi; i++) {
+          const kalp = document.createElement('div')
+          kalp.textContent = '🫶'
+          kalp.className = 'kalp'
+          kalp.style.left = Math.random() * 100 + 'vw'
+          kalp.style.bottom = '-50px'
+          kalp.style.animationDelay = Math.random() * 1 + 's'
+          mesajAlani.appendChild(kalp)
+        }
+      }
+
+      function evetCevabi() {
+        evetBtn.style.display = 'none'
+        hayirBtn.style.display = 'none'
+        document.getElementById('soru').style.display = 'none'
+        mesajAlani.style.display = 'flex'
+        kalpOlustur(20)
+        sonMesajDiv.innerHTML =
+          'Ufak bir şaka yapmak istedim gül diye 🌹🥰<br><br>(Anlayışın için teşekkür ederim 😉)'
+        setTimeout(() => {}, 3000)
+      }
+    </script>
+  </body>
+</html>
