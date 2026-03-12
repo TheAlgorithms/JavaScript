@@ -1,45 +1,63 @@
-/*
- * Odd Number: https://simple.wikipedia.org/wiki/Odd_number
- * function to check if number is odd.
- * return true if number is odd.
- * else false
+/**
+ * @license             GPL-3.0 or later
+ *
+ * @description         Checking if number is odd
  */
 
 /**
- * @function isOdd
- * @description -> Checking if number is odd using not divisibility by 2
- * If number is not divisible by 2 i.e remainder = 1, then it is odd
- * therefore, the function will return true
+ * @function            isOdd
+ * @description         Checking if number is odd
  *
- * If number is divisible by 2 i.e remainder != 1, then it is even
- * therefore, the function will return false
- * @param {number} number
- * @returns {boolean}
+ * If the division: number / 2 results in remainder being
+ * different from 0 the number is odd, otherwise it's even
+ *
+ * @param {number}      number - Value to check
+ * @return {boolean}    True if number is odd else False
+ *
+ * @see https://simple.wikipedia.org/wiki/Odd_number to get
+ * more details on odd numbers
  */
-const isOdd = (number) => Boolean(number % 2) // 1 -> true, 0 -> false
+const isOdd = (number) => {
+  if (typeof number !== 'number' || Number.isNaN(number))
+    throw new TypeError('Argument is Not a Number')
+
+  return Boolean(number % 2) === true
+}
+
 /**
- * @function isOddBitwise
- * @description -> Checking if number is even using bitwise operator
- * Bitwise AND (&) compares the bits of the 32
- * bit binary representations of the number and
- * returns a number after comparing each bit:
+ * @function            isOddBitwise
+ * @description         Checking if number is odd using bitwise
+ *                      operation
  *
- * 0 & 0 -> 0
- * 0 & 1 -> 0
- * 1 & 0 -> 0
- * 1 & 1 -> 1
+ * Bitwise AND (&) compares the bits of the 32 bit binary
+ * representations of the number and returns a number after
+ * comparing each bit:
+ *  0 & 0 -> 0
+ *  0 & 1 -> 0
+ *  1 & 0 -> 0
+ *  1 & 1 -> 1
+ * For odd numbers, the LSB (Least Significant Bit) will be 1
+ * and for even numbers, the LSB will be 0. As the number is
+ * compared to one, all other bits will become 0
+ *  0 1 1 1 = 7
+ *  & & & &
+ *  0 0 0 1 = 1
+ *  ↓ ↓ ↓ ↓
+ *  0 0 0 1 = odd since LSB is equal to 1
  *
- * For every odd numbers, the last binary bit will be 1
- * and for even numbers, the last binary bit will be 0.
+ * @param {number}      number - Value to check
+ * @return {boolean}    True if number is odd else False
  *
- * As the number is compared with one, all the
- * other bits except the last will become 0. The
- * last bit will be 0 for even numbers and 1 for
- * odd numbers.
- * @see https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Bitwise_AND
- * @param {number} number
- * @returns {boolean}
+ * @see https://en.wikipedia.org/wiki/Bit_numbering to get
+ * details on LSB (Least Significant Bit) and
+ * https://en.wikipedia.org/wiki/Bitwise_operation#AND
+ * to get details on bitwise AND operator
  */
-const isOddBitwise = (number) => Boolean(number & 1) // 1 -> true, 0 -> false
+const isOddBitwise = (number) => {
+  if (typeof number !== 'number' || Number.isNaN(number))
+    throw new TypeError('Argument is Not a Number')
+
+  return Boolean(number & 1) === true
+}
 
 export { isOdd, isOddBitwise }
