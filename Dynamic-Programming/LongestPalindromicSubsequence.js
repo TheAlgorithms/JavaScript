@@ -7,13 +7,19 @@
 */
 
 export const longestPalindromeSubsequence = function (s) {
+  if (typeof s !== 'string') {
+    throw new TypeError('Input must be a string')
+  }
+
   const n = s.length
 
-  const dp = new Array(n)
-    .fill(0)
-    .map((item) => new Array(n).fill(0).map((item) => 0))
+  if (n === 0) {
+    return 0
+  }
 
-  // fill predefined for single character
+  const dp = new Array(n).fill(0).map(() => new Array(n).fill(0))
+
+  // single character palindromes
   for (let i = 0; i < n; i++) {
     dp[i][i] = 1
   }

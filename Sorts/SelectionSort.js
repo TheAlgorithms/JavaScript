@@ -12,7 +12,13 @@ export const selectionSort = (list) => {
   if (!Array.isArray(list)) {
     throw new TypeError('Given input is not an array')
   }
-  const items = [...list] // We don't want to modify the original array
+
+  if (list.length === 0) {
+    return []
+  }
+
+  const items = [...list]
+
   const length = items.length
   for (let i = 0; i < length - 1; i++) {
     if (typeof items[i] !== 'number') {
