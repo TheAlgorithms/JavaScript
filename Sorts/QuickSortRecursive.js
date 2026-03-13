@@ -16,21 +16,36 @@
 */
 
 /**
- * Partition in place QuickSort.
- * @param {number[]} inputList list of values.
- * @param {number} low lower index for partition.
- * @param {number} high higher index for partition.
+ * Sorts the input list using the quicksort algorithm.
+ *
+ * @param {Array} inputList - the list to be sorted
+ * @return {Array} the sorted list
  */
-const quickSort = (inputList, low, high) => {
+// encapsulate the main function to to be the interface of our module
+const quickSort = (inputList) => {
   if (!Array.isArray(inputList)) {
     throw new TypeError('Please input a valid list or array.')
   }
+  if (inputList.length <= 1) {
+    return inputList
+  }
+  return quickSortHelper(inputList, 0, inputList.length - 1)
+}
+
+/**
+ * Recursively sorts the input list using the quicksort algorithm.
+ *
+ * @param {number[]} inputList - the list to be sorted
+ * @param {number} low - the lower index of the current partition
+ * @param {number} high - the higher index of the current partition
+ * @return {number[]} the sorted list
+ */
+
+const quickSortHelper = (inputList, low, high) => {
   if (low < high) {
-    // get the partition index.
-    const pIndex = partition(inputList, low, high)
-    // recursively call the quickSort method again.
-    quickSort(inputList, low, pIndex - 1)
-    quickSort(inputList, pIndex + 1, high)
+    const pIndex = partition(inputList, low, high) // Partition the array
+    quickSortHelper(inputList, low, pIndex - 1) // Sort left subarray
+    quickSortHelper(inputList, pIndex + 1, high) // Sort right subarray
   }
   return inputList
 }
@@ -43,23 +58,55 @@ const quickSort = (inputList, low, high) => {
  * @returns {number} `pIndex` pivot index value.
  */
 const partition = (partitionList, low, high) => {
-  const pivot = partitionList[high]
+  const mid = Math.floor((low + high) / 2)
+  // get the median of three is good technique for partitioning to be sure that the 2 sub-arrays will be almost equal or nearly equal in size
+  const pivot = medianOfThree(partitionList, low, mid, high) // Find the pivot element
+
+  // Move pivot to the end
+  let pivotIndex = partitionList.indexOf(pivot)
+  ;[partitionList[pivotIndex], partitionList[high]] = [
+    partitionList[high],
+    partitionList[pivotIndex]
+  ]
+
   let pIndex = low
-  for (let index = low; index <= high - 1; index++) {
-    if (partitionList[index] < pivot) {
-      // swap variables using array destructuring
-      ;[partitionList[index], partitionList[pIndex]] = [
+
+  // Perform the partitioning
+  for (let i = low; i < high; i++) {
+    if (partitionList[i] < pivot) {
+      ;[partitionList[i], partitionList[pIndex]] = [
         partitionList[pIndex],
-        partitionList[index]
+        partitionList[i]
       ]
-      pIndex += 1
+      pIndex++
     }
   }
+  // Swap the pivot element back to its correct position
   ;[partitionList[pIndex], partitionList[high]] = [
     partitionList[high],
     partitionList[pIndex]
   ]
-  return pIndex
+
+  return pIndex // Return the partition index
+}
+/**
+ * Returns the median value of three elements in an array.
+ *
+ * @param {number[]} arr - the input array
+ * @param {number} low - the index of the first element
+ * @param {number} mid - the index of the second element
+ * @param {number} high - the index of the third element
+ * @return {number} the median value of the three elements
+ */
+
+const medianOfThree = (partitionList, low, mid, high) => {
+  const a = partitionList[low]
+  const b = partitionList[mid]
+  const c = partitionList[high]
+
+  if (a > b !== a > c) return a
+  else if (b > a !== b > c) return b
+  else return c
 }
 
 export { quickSort }
