@@ -1,0 +1,23 @@
+
+/**
+ * @param {number[]} nums
+ * @param {number} k
+ * @return {void} Do not return anything, modify nums in-place instead.
+ */
+var sumOddLengthSubarrays = function (arr) {
+    let oddsum = 0;
+
+    for (let i = 0; i < arr.length; i++) {
+        let prevsum = 0;
+        for (let j = i; j < arr.length; j++) {
+            prevsum = prevsum + arr[j];
+
+            let length = j-i + 1;
+
+            if (length % 2 === 1) {
+                oddsum = oddsum + prevsum;
+            }
+        }
+    }
+        return oddsum;
+}
