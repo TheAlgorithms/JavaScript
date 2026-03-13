@@ -16,13 +16,13 @@ class BinaryHeap {
      * The heap array that stores elements.
      * @member {Array}
      */
-    this.heap = []
+    this.heap = [];
 
     /**
      * The comparator function used for ordering elements in the heap.
      * @member {Function}
      */
-    this.comparator = comparatorFunction
+    this.comparator = comparatorFunction;
   }
 
   /**
@@ -30,8 +30,8 @@ class BinaryHeap {
    * @param {*} value - The value to be inserted into the heap.
    */
   insert(value) {
-    this.heap.push(value)
-    this.#bubbleUp(this.heap.length - 1)
+    this.heap.push(value);
+    this.#bubbleUp(this.heap.length - 1);
   }
 
   /**
@@ -39,7 +39,7 @@ class BinaryHeap {
    * @returns {number} - The number of elements in the heap.
    */
   size() {
-    return this.heap.length
+    return this.heap.length;
   }
 
   /**
@@ -47,7 +47,7 @@ class BinaryHeap {
    * @returns {boolean} - True if the heap is empty, false otherwise.
    */
   empty() {
-    return this.size() === 0
+    return this.size() === 0;
   }
 
   /**
@@ -56,15 +56,15 @@ class BinaryHeap {
    * @private
    */
   #bubbleUp(currIdx) {
-    let parentIdx = Math.floor((currIdx - 1) / 2)
+    let parentIdx = Math.floor((currIdx - 1) / 2);
 
     while (
       currIdx > 0 &&
       this.comparator(this.heap[currIdx], this.heap[parentIdx])
     ) {
-      this.#swap(currIdx, parentIdx)
-      currIdx = parentIdx
-      parentIdx = Math.floor((currIdx - 1) / 2)
+      this.#swap(currIdx, parentIdx);
+      currIdx = parentIdx;
+      parentIdx = Math.floor((currIdx - 1) / 2);
     }
   }
 
@@ -74,22 +74,23 @@ class BinaryHeap {
    * @private
    */
   #sinkDown(currIdx) {
-    let childOneIdx = currIdx * 2 + 1
+    let childOneIdx = currIdx * 2 + 1;
 
     while (childOneIdx < this.size()) {
-      const childTwoIdx = childOneIdx + 1 < this.size() ? childOneIdx + 1 : -1
+      const childTwoIdx =
+        childOneIdx + 1 < this.size() ? childOneIdx + 1 : -1;
       const swapIdx =
         childTwoIdx !== -1 &&
         this.comparator(this.heap[childTwoIdx], this.heap[childOneIdx])
           ? childTwoIdx
-          : childOneIdx
+          : childOneIdx;
 
       if (this.comparator(this.heap[swapIdx], this.heap[currIdx])) {
-        this.#swap(currIdx, swapIdx)
-        currIdx = swapIdx
-        childOneIdx = currIdx * 2 + 1
+        this.#swap(currIdx, swapIdx);
+        currIdx = swapIdx;
+        childOneIdx = currIdx * 2 + 1;
       } else {
-        return
+        return;
       }
     }
   }
@@ -99,7 +100,7 @@ class BinaryHeap {
    * @returns {*} - The top element of the heap.
    */
   peek() {
-    return this.heap[0]
+    return this.heap[0];
   }
 
   /**
@@ -107,15 +108,15 @@ class BinaryHeap {
    * @returns {*} - The top element of the heap.
    */
   extractTop() {
-    const top = this.peek()
-    const last = this.heap.pop()
+    const top = this.peek();
+    const last = this.heap.pop();
 
     if (!this.empty()) {
-      this.heap[0] = last
-      this.#sinkDown(0)
+      this.heap[0] = last;
+      this.#sinkDown(0);
     }
 
-    return top
+    return top;
   }
 
   /**
@@ -125,10 +126,10 @@ class BinaryHeap {
    * @private
    */
   #swap(index1, index2) {
-    ;[this.heap[index1], this.heap[index2]] = [
+    [this.heap[index1], this.heap[index2]] = [
       this.heap[index2],
-      this.heap[index1]
-    ]
+      this.heap[index1],
+    ];
   }
 }
 
@@ -138,7 +139,7 @@ class BinaryHeap {
  * @param {*} b - The second element to compare.
  * @returns {boolean} - True if 'a' should have higher priority than 'b' in the Min Heap, false otherwise.
  */
-const minHeapComparator = (a, b) => a < b
+const minHeapComparator = (a, b) => a < b;
 
 /**
  * Comparator function for creating a Max Heap.
@@ -146,6 +147,6 @@ const minHeapComparator = (a, b) => a < b
  * @param {*} b - The second element to compare.
  * @returns {boolean} - True if 'a' should have higher priority than 'b' in the Max Heap, false otherwise.
  */
-const maxHeapComparator = (a, b) => a > b
+const maxHeapComparator = (a, b) => a > b;
 
-export { BinaryHeap, minHeapComparator, maxHeapComparator }
+export { BinaryHeap, minHeapComparator, maxHeapComparator };
