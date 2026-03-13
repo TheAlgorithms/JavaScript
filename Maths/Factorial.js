@@ -11,6 +11,12 @@
         https://en.wikipedia.org/wiki/factorial
 */
 
+/**
+ * Returns the factorial of a number n.
+ * Factorial is the product of all positive integers up to n.
+ * Example: factorial(5) = 5 × 4 × 3 × 2 × 1 = 120
+ */
+
 'use strict'
 
 const calcRange = (num) => {
