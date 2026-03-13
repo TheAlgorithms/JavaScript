@@ -13,9 +13,6 @@ class Graph {
   // addEdge(v, w)
   // printGraph()
 
-  // bfs(v)
-  // dfs(v)
-
   // add vertex to the graph
   addVertex(v) {
     // initialize the adjacent list with a
