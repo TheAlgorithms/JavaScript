@@ -163,6 +163,7 @@
   * [NodeNeighbors](Graphs/NodeNeighbors.js)
   * [NumberOfIslands](Graphs/NumberOfIslands.js)
   * [PrimMST](Graphs/PrimMST.js)
+  * [TarjanSCC](Graphs/TarjanSCC.js)
 * **Hashes**
   * [MD5](Hashes/MD5.js)
   * [SHA1](Hashes/SHA1.js)
