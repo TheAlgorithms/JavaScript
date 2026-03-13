@@ -1,30 +1,28 @@
 /**
- * @function QuickSort
- * @description Quick sort is a comparison sorting algorithm that uses a divide and conquer strategy.
- * @param {Integer[]} items - Array of integers
- * @return {Integer[]} - Sorted array.
- * @see [QuickSort](https://en.wikipedia.org/wiki/Quicksort)
+ * @function quickSort
+ * @description Quick Sort is a divide-and-conquer comparison-based sorting algorithm.
+ * @param {number[]} items - Array of integers
+ * @returns {number[]} - Sorted array
+ * @timecomplexity Average: O(n log n), Worst: O(n²)
+ * @spacecomplexity O(n)
+ * @see https://en.wikipedia.org/wiki/Quicksort
  */
 function quickSort(items) {
-  const length = items.length
+  if (items.length <= 1) return items
 
-  if (length <= 1) {
-    return items
-  }
-  const PIVOT = items[0]
-  const GREATER = []
-  const LESSER = []
+  const pivotIndex = Math.floor(items.length / 2)
+  const pivot = items[pivotIndex]
 
-  for (let i = 1; i < length; i++) {
-    if (items[i] > PIVOT) {
-      GREATER.push(items[i])
-    } else {
-      LESSER.push(items[i])
-    }
+  const lesser = []
+  const greater = []
+
+  for (let i = 0; i < items.length; i++) {
+    if (i === pivotIndex) continue
+    if (items[i] < pivot) lesser.push(items[i])
+    else greater.push(items[i])
   }
 
-  const sorted = [...quickSort(LESSER), PIVOT, ...quickSort(GREATER)]
-  return sorted
+  return [...quickSort(lesser), pivot, ...quickSort(greater)]
 }
 
 export { quickSort }
