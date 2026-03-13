@@ -22,9 +22,17 @@ function problem44(k) {
 
     for (let j = k - 1; j > 0; j--) {
       const m = (j * (3 * j - 1)) / 2 // calculate all Pj < Pk
-      if (isPentagonal(n - m) && isPentagonal(n + m)) {
-        // Check sum and difference
-        return n - m // return D
+      // Check forward, checking n - m doubles work from previous iterations
+      const sum = n + m
+      if (isPentagonal(sum)) {
+        // Check sum - m = n
+        if (isPentagonal(sum + m)) {
+          return n // return D
+        }
+        // Check sum - n = m
+        if (isPentagonal(sum + n)) {
+          return m // return D
+        }
       }
     }
   }
