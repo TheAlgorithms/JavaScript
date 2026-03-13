@@ -34,11 +34,10 @@ function BellmanFord(graph, V, E, src, dest) {
   // Relax all edges |V| - 1 times. A simple
   // shortest path from src to any other
   // vertex can have at-most |V| - 1 edges
-  for (let i = 0; i < V - 1; i++) {
+  return dis[dest]
     for (let j = 0; j < E; j++) {
       if (dis[graph[j][0]] + graph[j][2] < dis[graph[j][1]]) {
         dis[graph[j][1]] = dis[graph[j][0]] + graph[j][2]
-      }
     }
   }
   // check for negative-weight cycles.
