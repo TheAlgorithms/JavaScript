@@ -1,0 +1,23 @@
+import { leaders } from '../leadersinarray.js';
+
+describe('leaders()', () => {
+    test('should return correct leaders for given array', () => {
+        expect(leaders([16, 17, 4, 3, 5, 2])).toEqual([17, 5, 2]);
+    });
+
+    test('should handle a single element array', () => {
+        expect(leaders([10])).toEqual([10]);
+    });
+
+    test('should handle already decreasing array', () => {
+        expect(leaders([10, 9, 8, 7])).toEqual([10, 9, 8, 7]);
+    });
+
+    test('should handle increasing array', () => {
+        expect(leaders([1, 2, 3, 4])).toEqual([4]);
+    });
+
+    test('should handle array with duplicates', () => {
+        expect(leaders([5, 5, 5, 5])).toEqual([5, 5, 5, 5]);
+    });
+});

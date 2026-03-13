@@ -1,0 +1,23 @@
+import { isSorted } from '../checkarraysortedornot.js';
+
+describe('isSorted()', () => {
+    test('should return true for sorted array', () => {
+        expect(isSorted([10, 20, 30, 40, 50])).toBe(true);
+    });
+
+    test('should return false for unsorted array', () => {
+        expect(isSorted([10, 50, 30, 20])).toBe(false);
+    });
+
+    test('should return true for array with equal elements', () => {
+        expect(isSorted([5, 5, 5, 5])).toBe(true);
+    });
+
+    test('should return true for single element array', () => {
+        expect(isSorted([100])).toBe(true);
+    });
+
+    test('should return true for empty array', () => {
+        expect(isSorted([])).toBe(true);
+    });
+});
