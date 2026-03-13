@@ -7,16 +7,18 @@
  */
 const fibonacci = (N) => {
   if (!Number.isInteger(N)) {
-    throw new TypeError('Input should be integer')
+    throw new TypeError('Input should be an integer')
   }
 
-  // memoize the last two numbers
+  if (N < 0) {
+    throw new RangeError('Input should be a non-negative integer')
+  }
+
   let firstNumber = 0
   let secondNumber = 1
 
   for (let i = 1; i < N; i++) {
     const sumOfNumbers = firstNumber + secondNumber
-    // update last two numbers
     firstNumber = secondNumber
     secondNumber = sumOfNumbers
   }
