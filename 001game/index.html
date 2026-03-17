@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>算法可视化挑战</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div id="app">
+        <header class="header">
+            <h1>🎮 算法可视化挑战</h1>
+            <div class="stats">
+                <span class="score">得分: <span id="score">0</span></span>
+                <span class="level">关卡: <span id="level">1</span></span>
+            </div>
+        </header>
+
+        <main id="main-content">
+            <div id="home-screen" class="screen active">
+                <div class="welcome">
+                    <h2>欢迎来到算法世界！</h2>
+                    <p>通过可视化学习各种经典算法，挑战你的算法思维！</p>
+                </div>
+                <div class="category-grid" id="category-grid">
+                </div>
+            </div>
+
+            <div id="level-select" class="screen">
+                <button class="back-btn" onclick="showHome()">← 返回</button>
+                <h2 id="category-title"></h2>
+                <div class="level-grid" id="level-grid">
+                </div>
+            </div>
+
+            <div id="game-screen" class="screen">
+                <div class="game-header">
+                    <button class="back-btn" onclick="showLevelSelect()">← 返回</button>
+                    <h2 id="game-title"></h2>
+                    <div class="game-controls">
+                        <button id="start-btn" onclick="startVisualization()">开始</button>
+                        <button id="reset-btn" onclick="resetVisualization()">重置</button>
+                        <button id="speed-btn" onclick="toggleSpeed()">速度: 1x</button>
+                    </div>
+                </div>
+                <div class="game-info">
+                    <p id="algorithm-description"></p>
+                    <div class="complexity">
+                        <span>时间复杂度: <span id="time-complexity"></span></span>
+                        <span>空间复杂度: <span id="space-complexity"></span></span>
+                    </div>
+                </div>
+                <div id="visualization-area" class="visualization-area">
+                </div>
+                <div class="game-footer">
+                    <div id="step-info" class="step-info"></div>
+                    <div id="challenge-area" class="challenge-area hidden">
+                        <p id="challenge-question"></p>
+                        <div id="challenge-options" class="challenge-options"></div>
+                    </div>
+                </div>
+            </div>
+
+            <div id="result-screen" class="screen">
+                <div class="result-content">
+                    <h2 id="result-title"></h2>
+                    <div class="stars" id="stars"></div>
+                    <p id="result-message"></p>
+                    <div class="result-stats">
+                        <p>完成时间: <span id="completion-time"></span></p>
+                        <p>获得分数: <span id="earned-score"></span></p>
+                    </div>
+                    <div class="result-buttons">
+                        <button onclick="retryLevel()">再试一次</button>
+                        <button onclick="nextLevel()">下一关</button>
+                        <button onclick="showLevelSelect()">选择关卡</button>
+                    </div>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <script src="algorithms/sorting.js"></script>
+    <script src="algorithms/searching.js"></script>
+    <script src="algorithms/graph.js"></script>
+    <script src="algorithms/dynamic-programming.js"></script>
+    <script src="algorithms/backtracking.js"></script>
+    <script src="algorithms/math.js"></script>
+    <script src="algorithms/cipher.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
