@@ -322,8 +322,8 @@
   * [TernarySearch](Search/TernarySearch.js)
   * [UnionFind](Search/UnionFind.js)
 * **Sliding-Windows**
-  * [MaxSumSubarrayFixed](Sliding-Windows/MaxSumSubarrayFixed.js)
   * [LongestSubarrayWithSumAtMost](Sliding-Windows/LongestSubarrayWithSumAtMost.js)
+  * [MaxSumSubarrayFixed](Sliding-Windows/MaxSumSubarrayFixed.js)
 * **Sorts**
   * [AlphaNumericalSort](Sorts/AlphaNumericalSort.js)
   * [BeadSort](Sorts/BeadSort.js)
