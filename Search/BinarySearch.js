@@ -8,7 +8,8 @@
  */
 
 function binarySearchRecursive(arr, x, low = 0, high = arr.length - 1) {
-  const mid = Math.floor(low + (high - low) / 2)
+  // Using optimized mid calculation to prevent overflow
+  const mid = low + Math.floor((high - low) / 2);
 
   if (high >= low) {
     if (arr[mid] === x) {
