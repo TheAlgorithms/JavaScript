@@ -31,4 +31,18 @@ describe('RepunitTheorem', () => {
     expect(repunitMod(6, 11n)).toBe(0n)
     expect(repunitMod(7, 13n)).toBe(1n)
   })
+
+  it('validates multiplicative order input', () => {
+    expect(() => multiplicativeOrder10(1n)).toThrow(RangeError)
+    expect(() => multiplicativeOrder10(10n)).toThrow(RangeError)
+  })
+
+  it('validates repunitMod input', () => {
+    expect(() => repunitMod(0, 7n)).toThrow(RangeError)
+    expect(() => repunitMod(5, 0n)).toThrow(RangeError)
+  })
+
+  it('validates repunit divisibility input length', () => {
+    expect(() => isRepunitDivisibleByPrime(0, 7n)).toThrow(RangeError)
+  })
 })
