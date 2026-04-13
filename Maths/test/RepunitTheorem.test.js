@@ -21,6 +21,8 @@ describe('RepunitTheorem', () => {
   })
 
   it('returns false when divisibility condition does not hold', () => {
+    expect(isRepunitDivisibleByPrime(1, 3n)).toBe(false)
+    expect(isRepunitDivisibleByPrime(3, 3n)).toBe(true)
     expect(isRepunitDivisibleByPrime(6, 19n)).toBe(false)
     expect(isRepunitDivisibleByPrime(9, 2n)).toBe(false)
     expect(isRepunitDivisibleByPrime(9, 5n)).toBe(false)

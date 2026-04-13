@@ -4,7 +4,7 @@
  * A repunit of length n is:
  *   R_n = (10^n - 1) / 9
  *
- * For a prime p (p != 2, 5), p divides R_n iff ord_p(10) divides n.
+ * For a prime p (p != 2, 3, 5), p divides R_n iff ord_p(10) divides n.
  * Reference: https://en.wikipedia.org/wiki/Repunit
  */
 
@@ -69,6 +69,7 @@ const isRepunitDivisibleByPrime = (length, prime) => {
 
   const p = BigInt(prime)
   if (p === 2n || p === 5n) return false
+  if (p === 3n) return BigInt(length) % 3n === 0n
   if (gcd(10n, p) !== 1n) return false
 
   const order = multiplicativeOrder10(p)
