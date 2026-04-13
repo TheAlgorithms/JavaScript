@@ -249,6 +249,7 @@
   * [PrimeFactors](Maths/PrimeFactors.js)
   * [QuadraticRoots](Maths/QuadraticRoots.js)
   * [RadianToDegree](Maths/RadianToDegree.js)
+  * [RepunitTheorem](Maths/RepunitTheorem.js)
   * [ReverseNumber](Maths/ReverseNumber.js)
   * [ReversePolishNotation](Maths/ReversePolishNotation.js)
   * [RowEchelon](Maths/RowEchelon.js)
@@ -322,8 +323,8 @@
   * [TernarySearch](Search/TernarySearch.js)
   * [UnionFind](Search/UnionFind.js)
 * **Sliding-Windows**
-  * [MaxSumSubarrayFixed](Sliding-Windows/MaxSumSubarrayFixed.js)
   * [LongestSubarrayWithSumAtMost](Sliding-Windows/LongestSubarrayWithSumAtMost.js)
+  * [MaxSumSubarrayFixed](Sliding-Windows/MaxSumSubarrayFixed.js)
 * **Sorts**
   * [AlphaNumericalSort](Sorts/AlphaNumericalSort.js)
   * [BeadSort](Sorts/BeadSort.js)
