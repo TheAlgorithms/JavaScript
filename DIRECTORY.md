@@ -314,6 +314,7 @@
   * [InterpolationSearch](Search/InterpolationSearch.js)
   * [JumpSearch](Search/JumpSearch.js)
   * [LinearSearch](Search/LinearSearch.js)
+  * [MetaBinarySearch](Search/MetaBinarySearch.js)
   * [Minesweeper](Search/Minesweeper.js)
   * [QuickSelectSearch](Search/QuickSelectSearch.js)
   * [RabinKarp](Search/RabinKarp.js)
@@ -322,8 +323,8 @@
   * [TernarySearch](Search/TernarySearch.js)
   * [UnionFind](Search/UnionFind.js)
 * **Sliding-Windows**
-  * [MaxSumSubarrayFixed](Sliding-Windows/MaxSumSubarrayFixed.js)
   * [LongestSubarrayWithSumAtMost](Sliding-Windows/LongestSubarrayWithSumAtMost.js)
+  * [MaxSumSubarrayFixed](Sliding-Windows/MaxSumSubarrayFixed.js)
 * **Sorts**
   * [AlphaNumericalSort](Sorts/AlphaNumericalSort.js)
   * [BeadSort](Sorts/BeadSort.js)
