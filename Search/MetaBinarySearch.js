@@ -12,11 +12,11 @@ function metaBinarySearch(sortedArray, target) {
   }
 
   const n = sortedArray.length
-  const maxBit = Math.floor(Math.log2(n - 1 < 0 ? 0 : n - 1))
+  const maxBit = Math.floor(Math.log2(Math.max(1, n - 1)))
 
   let position = 0
   for (let bit = maxBit; bit >= 0; bit--) {
-    const candidate = position | (1 << bit)
+    const candidate = position + 2 ** bit
     if (candidate < n && sortedArray[candidate] <= target) {
       position = candidate
     }

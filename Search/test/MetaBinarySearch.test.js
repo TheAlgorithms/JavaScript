@@ -18,4 +18,8 @@ describe('Meta Binary Search', () => {
   test('returns -1 on empty input', () => {
     expect(metaBinarySearch([], 1)).toBe(-1)
   })
+
+  test('returns index for a matching element in a single-element array', () => {
+    expect(metaBinarySearch([7], 7)).toBe(0)
+  })
 })
