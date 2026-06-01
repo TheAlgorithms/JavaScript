@@ -23,7 +23,7 @@ function integralEvaluation(N, a, b, func) {
     throw new TypeError('Expected integer N and finite a, b')
   }
   if (N <= 0) {
-    throw Error('N has to be >= 2')
+    throw Error('N has to be > 0')
   } // check if N > 0
   if (a > b) {
     throw Error('a must be less or equal than b')
