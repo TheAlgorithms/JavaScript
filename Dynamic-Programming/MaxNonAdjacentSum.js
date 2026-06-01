@@ -5,7 +5,7 @@ function maximumNonAdjacentSum(nums) {
    * :return: The maximum non-adjacent sum
    */
 
-  if (nums.length < 0) return 0
+  if (nums.length === 0) return 0
 
   let maxIncluding = nums[0]
   let maxExcluding = 0
