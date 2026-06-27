@@ -22,7 +22,7 @@ const rgbToHsl = (colorRgb) => {
     throw new Error('Input is not a valid RGB color.')
   }
 
-  let colorHsl = colorRgb
+  let colorHsl = [...colorRgb]
 
   let red = Math.round(colorRgb[0])
   let green = Math.round(colorRgb[1])
