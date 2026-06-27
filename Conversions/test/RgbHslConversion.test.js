@@ -40,4 +40,11 @@ describe('RgbHslConversion', () => {
   ])('Should return the error message.', (colorRgb, expected) => {
     expect(() => rgbToHsl(colorRgb)).toThrowError(expected)
   })
+
+  test('Should not mutate the input array.', () => {
+    const colorRgb = [24, 98, 118]
+    const result = rgbToHsl(colorRgb)
+    expect(colorRgb).toEqual([24, 98, 118])
+    expect(result).not.toBe(colorRgb)
+  })
 })
