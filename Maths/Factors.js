@@ -7,10 +7,30 @@
  *
  */
 
+/**
+ * Finds every positive factor of a number in ascending order.
+ *
+ * Time complexity: O(sqrt(number))
+ * Space complexity: O(k), where k is the number of factors
+ */
 const factorsOfANumber = (number = 0) => {
-  return Array.from(Array(number + 1).keys()).filter(
-    (num) => number % num === 0
-  )
+  if (!Number.isInteger(number) || number <= 0) return []
+
+  const lowerFactors = []
+  const upperFactors = []
+
+  for (let divisor = 1; divisor <= number / divisor; divisor++) {
+    if (number % divisor !== 0) continue
+
+    lowerFactors.push(divisor)
+
+    const pairedDivisor = number / divisor
+    if (pairedDivisor !== divisor) {
+      upperFactors.push(pairedDivisor)
+    }
+  }
+
+  return lowerFactors.concat(upperFactors.reverse())
 }
 
 export { factorsOfANumber }
