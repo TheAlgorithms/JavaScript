@@ -1,10 +1,19 @@
 import { factorsOfANumber } from '../Factors'
 
 describe('Factors', () => {
-  factorsOfANumber(50).forEach((num) => {
-    it(`${num} is a factor of 50`, () => {
-      const isFactor = 50 % num === 0
-      expect(isFactor).toBeTruthy()
-    })
+  it.each([
+    [1, [1]],
+    [16, [1, 2, 4, 8, 16]],
+    [50, [1, 2, 5, 10, 25, 50]],
+    [97, [1, 97]]
+  ])('returns every factor of %i in ascending order', (number, expected) => {
+    expect(factorsOfANumber(number)).toEqual(expected)
   })
+
+  it.each([0, -1, 1.5])(
+    'returns an empty array for invalid input %s',
+    (number) => {
+      expect(factorsOfANumber(number)).toEqual([])
+    }
+  )
 })
