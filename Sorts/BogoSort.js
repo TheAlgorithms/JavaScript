@@ -16,7 +16,7 @@ export function isSorted(array) {
  */
 function shuffle(array) {
   for (let i = array.length - 1; i; i--) {
-    const m = Math.floor(Math.random() * i)
+    const m = Math.floor(Math.random() * (i + 1))
     const n = array[i - 1]
     array[i - 1] = array[m]
     array[m] = n
