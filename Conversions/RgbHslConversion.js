@@ -22,7 +22,8 @@ const rgbToHsl = (colorRgb) => {
     throw new Error('Input is not a valid RGB color.')
   }
 
-  let colorHsl = colorRgb
+  // Work on a copy so the caller's RGB array is not mutated
+  let colorHsl = colorRgb.slice()
 
   let red = Math.round(colorRgb[0])
   let green = Math.round(colorRgb[1])
