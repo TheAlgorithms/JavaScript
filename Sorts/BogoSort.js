@@ -12,14 +12,13 @@ export function isSorted(array) {
 }
 
 /**
- * Shuffles the given array randomly in place.
+ * Unbiased Fisher–Yates shuffle of the given array in place.
+ * Each permutation is equally likely.
  */
 function shuffle(array) {
-  for (let i = array.length - 1; i; i--) {
-    const m = Math.floor(Math.random() * i)
-    const n = array[i - 1]
-    array[i - 1] = array[m]
-    array[m] = n
+  for (let i = array.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1))
+    ;[array[i], array[j]] = [array[j], array[i]]
   }
 }
 
