@@ -176,6 +176,7 @@
   * [AutomorphicNumber](Maths/AutomorphicNumber.js)
   * [AverageMean](Maths/AverageMean.js)
   * [AverageMedian](Maths/AverageMedian.js)
+  * [BabyStepGiantStep](Maths/BabyStepGiantStep.js)
   * [BinaryConvert](Maths/BinaryConvert.js)
   * [BinaryExponentiationIterative](Maths/BinaryExponentiationIterative.js)
   * [BinaryExponentiationRecursive](Maths/BinaryExponentiationRecursive.js)
