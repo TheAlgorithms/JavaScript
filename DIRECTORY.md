@@ -259,6 +259,7 @@
   * [Softmax](Maths/Softmax.js)
   * [SquareRoot](Maths/SquareRoot.js)
   * [SquareRootLogarithmic](Maths/SquareRootLogarithmic.js)
+  * [TonelliShanks](Maths/TonelliShanks.js)
   * [SumOfDigits](Maths/SumOfDigits.js)
   * [SumOfGeometricProgression](Maths/SumOfGeometricProgression.js)
   * [TwoSum](Maths/TwoSum.js)
