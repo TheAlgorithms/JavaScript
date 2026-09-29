@@ -18,6 +18,11 @@ export function interpolationSearch(arr, key) {
 
   // Because the array is sorted the key must be between low and high
   while (low <= high && key >= arr[low] && key <= arr[high]) {
+    // Equal endpoints mean every remaining element matches the key.
+    if (arr[low] === arr[high]) {
+      return low
+    }
+
     delta = (key - arr[low]) / (arr[high] - arr[low])
     position = low + Math.floor((high - low) * delta)
 
