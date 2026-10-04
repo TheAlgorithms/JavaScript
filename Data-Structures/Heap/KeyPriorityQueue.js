@@ -126,7 +126,7 @@ class KeyPriorityQueue {
     let child2Priority = this._getPriorityOrInfinite(child2Pos)
     let currPriority = this._getPriorityOrInfinite(currPos)
 
-    if (currPriority === Infinity) {
+    if (currPos >= this._heap.length) {
       return
     }
 
