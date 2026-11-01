@@ -1,4 +1,26 @@
 /**
+ * @function isArmstrongNumber
+ * @description An Armstrong number (also known as a narcissistic number) is a
+ *   number that is equal to the sum of its own digits each raised to the power
+ *   of the number of digits. For example, 153 = 1³ + 5³ + 3³ = 153.
+ * @param {number} n - A positive integer
+ * @returns {boolean} - True if n is an Armstrong number, false otherwise
+ * @see https://en.wikipedia.org/wiki/Narcissistic_number
+ * @example isArmstrongNumber(153) => true
+ * @example isArmstrongNumber(9474) => true
+ * @example isArmstrongNumber(10) => false
+ */
+const isArmstrongNumber = (n) => {
+  if (!Number.isInteger(n) || n < 0) {
+    throw new TypeError('Input must be a non-negative integer')
+  }
+  const digits = String(n).split('')
+  const power = digits.length
+  const sum = digits.reduce((acc, d) => acc + Math.pow(Number(d), power), 0)
+  return sum === n
+}
+
+export { isArmstrongNumber }/**
  * Author: dephraiim
  * License: GPL-3.0 or later
  *
