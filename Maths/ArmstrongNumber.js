@@ -20,7 +20,7 @@ const isArmstrongNumber = (n) => {
   return sum === n
 }
 
-export { isArmstrongNumber }/**
+export { isArmstrongNumber } /**
  * Author: dephraiim
  * License: GPL-3.0 or later
  *
