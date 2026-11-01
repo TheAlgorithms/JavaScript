@@ -1,30 +1,28 @@
 /**
- * Author: dephraiim
- * License: GPL-3.0 or later
- *
- * == Perfect Number ==
- * In number theory, a perfect number is a positive integer that is equal to the sum of
- * its positive divisors(factors), excluding the number itself.
- * For example: 6 ==> divisors[1, 2, 3, 6]
- *      Excluding 6, the sum(divisors) is 1 + 2 + 3 = 6
- *      So, 6 is a Perfect Number
- * Other examples of Perfect Numbers: 28, 486, ...
- *
- * More on Perfect Number:
- *      https://en.wikipedia.org/wiki/Perfect_number
- *
+ * @function isPerfectNumber
+ * @description A perfect number is a positive integer that is equal to the sum
+ *   of its positive divisors, excluding the number itself. For example, 28 is
+ *   perfect because 1 + 2 + 4 + 7 + 14 = 28.
+ * @param {number} n - A positive integer
+ * @returns {boolean} - True if n is a perfect number, false otherwise
+ * @see https://en.wikipedia.org/wiki/Perfect_number
+ * @example isPerfectNumber(6) => true
+ * @example isPerfectNumber(28) => true
+ * @example isPerfectNumber(12) => false
  */
-
-const factorsExcludingNumber = (n) => {
-  return [...Array(n).keys()].filter((num) => n % num === 0)
+const isPerfectNumber = (n) => {
+  if (!Number.isInteger(n) || n < 1) {
+    throw new TypeError('Input must be a positive integer')
+  }
+  if (n === 1) return false
+  let sum = 1
+  for (let i = 2; i <= Math.sqrt(n); i++) {
+    if (n % i === 0) {
+      sum += i
+      if (i !== n / i) sum += n / i
+    }
+  }
+  return sum === n
 }
 
-const perfectNumber = (n) => {
-  const factorSum = factorsExcludingNumber(n).reduce((num, initialValue) => {
-    return num + initialValue
-  }, 0)
-
-  return factorSum === n
-}
-
-export { perfectNumber }
+export { isPerfectNumber }
