@@ -1,17 +1,21 @@
-// Palindrome check is case sensitive; i.e., Aba is not a palindrome
-// input is a string
+/**
+ * @function checkPalindrome
+ * @description A palindrome is a word, phrase, or sequence that reads the
+ *   same backwards as forwards. This function checks if a given string
+ *   is a palindrome, ignoring case and non-alphanumeric characters.
+ * @param {string} str - The input string to check
+ * @returns {boolean} - True if the string is a palindrome, false otherwise
+ * @see https://en.wikipedia.org/wiki/Palindrome
+ * @example checkPalindrome("racecar") => true
+ * @example checkPalindrome("hello") => false
+ * @example checkPalindrome("A man a plan a canal Panama") => true
+ */
 const checkPalindrome = (str) => {
-  // check that input is a string
   if (typeof str !== 'string') {
-    return 'Not a string'
+    throw new TypeError('Input must be a string')
   }
-  if (str.length === 0) {
-    return 'Empty string'
-  }
-  // Reverse only works with array, thus convert the string to array, reverse it and convert back to string
-  // return as palindrome if the reversed string is equal to the input string
-  const reversed = [...str].reverse().join('')
-  return str === reversed ? 'Palindrome' : 'Not a Palindrome'
+  const cleaned = str.toLowerCase().replace(/[^a-z0-9]/g, '')
+  return cleaned === cleaned.split('').reverse().join('')
 }
 
 export { checkPalindrome }
