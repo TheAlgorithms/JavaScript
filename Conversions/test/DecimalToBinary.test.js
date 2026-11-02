@@ -1,26 +1,39 @@
-import { decimalToBinary } from '../DecimalToBinary'
+import { decimalToBinary } from '../DecimalToBinary.js'
 
-test('The Binary representation of 35 is 100011', () => {
-  const res = decimalToBinary(35)
-  expect(res).toBe('100011')
-})
+describe('decimalToBinary', () => {
+  test("decimalToBinary(0) returns '0'", () => {
+    expect(decimalToBinary(0)).toBe('0')
+  })
 
-test('The Binary representation of 1 is 1', () => {
-  const res = decimalToBinary(1)
-  expect(res).toBe('1')
-})
+  test("decimalToBinary(1) returns '1'", () => {
+    expect(decimalToBinary(1)).toBe('1')
+  })
 
-test('The Binary representation of 1000 is 1111101000', () => {
-  const res = decimalToBinary(1000)
-  expect(res).toBe('1111101000')
-})
+  test("decimalToBinary(10) returns '1010'", () => {
+    expect(decimalToBinary(10)).toBe('1010')
+  })
 
-test('The Binary representation of 2 is 10', () => {
-  const res = decimalToBinary(2)
-  expect(res).toBe('10')
-})
+  test("decimalToBinary(15) returns '1111'", () => {
+    expect(decimalToBinary(15)).toBe('1111')
+  })
 
-test('The Binary representation of 17 is 10001', () => {
-  const res = decimalToBinary(17)
-  expect(res).toBe('10001')
+  test("decimalToBinary(32) returns '100000'", () => {
+    expect(decimalToBinary(32)).toBe('100000')
+  })
+
+  test("decimalToBinary(255) returns '11111111'", () => {
+    expect(decimalToBinary(255)).toBe('11111111')
+  })
+
+  test('throws TypeError for negative input', () => {
+    expect(() => decimalToBinary(-1)).toThrow(TypeError)
+  })
+
+  test('throws TypeError for float input', () => {
+    expect(() => decimalToBinary(1.5)).toThrow(TypeError)
+  })
+
+  test('throws TypeError for non-number input', () => {
+    expect(() => decimalToBinary('10')).toThrow(TypeError)
+  })
 })
