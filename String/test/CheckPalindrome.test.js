@@ -1,16 +1,39 @@
-import { checkPalindrome } from '../CheckPalindrome'
+import { checkPalindrome } from '../CheckPalindrome.js'
 
 describe('checkPalindrome', () => {
-  it('expects to return "Palindrome" if the given string is a palindrome', () => {
-    const SUT = checkPalindrome('madam')
-    expect(SUT).toBe('Palindrome')
+  test('racecar is a palindrome', () => {
+    expect(checkPalindrome('racecar')).toBe(true)
   })
-  it('expects to return "Empty string" if the given string is empty', () => {
-    const SUT = checkPalindrome('')
-    expect(SUT).toBe('Empty string')
+
+  test('hello is NOT a palindrome', () => {
+    expect(checkPalindrome('hello')).toBe(false)
   })
-  it('expects to return "Not a string" if the given string is not a string', () => {
-    const SUT = checkPalindrome(123)
-    expect(SUT).toBe('Not a string')
+
+  test('A man a plan a canal Panama is a palindrome', () => {
+    expect(checkPalindrome('A man a plan a canal Panama')).toBe(true)
+  })
+
+  test('empty string is a palindrome', () => {
+    expect(checkPalindrome('')).toBe(true)
+  })
+
+  test('single character is a palindrome', () => {
+    expect(checkPalindrome('a')).toBe(true)
+  })
+
+  test('madam is a palindrome', () => {
+    expect(checkPalindrome('madam')).toBe(true)
+  })
+
+  test('12321 is a palindrome', () => {
+    expect(checkPalindrome('12321')).toBe(true)
+  })
+
+  test('12345 is NOT a palindrome', () => {
+    expect(checkPalindrome('12345')).toBe(false)
+  })
+
+  test('throws TypeError for non-string input', () => {
+    expect(() => checkPalindrome(123)).toThrow(TypeError)
   })
 })
