@@ -1,40 +1,24 @@
 /**
- * @function isAutomorphic
- * @author [SilverDragonOfR] (https://github.com/SilverDragonOfR)
- *
- * @see [Automorphic] (https://en.wikipedia.org/wiki/Automorphic_number)
- * @description This script will check whether a number is Automorphic or not
- * @description A number n is said to be a Automorphic number if the square of n ends in the same digits as n itself.
- *
- * @param {Integer} n - the n for nth Catalan Number
- * @return {Integer} - the nth Catalan Number
- * @complexity Time: O(log10(n)) , Space: O(1)
- *
- * @convention We define Automorphic only for whole number integers. For negetive integer we return False. For float or String we show error.
- * @examples 0, 1, 5, 6, 25, 76, 376, 625, 9376 are some Automorphic numbers
+ * @function isAutomorphicNumber
+ * @description An automorphic number is a number whose square ends
+ *   in the same digits as the number itself.
+ *   For example, 5² = 25, 6² = 36, 76² = 5776.
+ * @param {number} n - A positive integer
+ * @returns {boolean} - True if n is an automorphic number, false otherwise
+ * @see https://en.wikipedia.org/wiki/Automorphic_number
+ * @example isAutomorphicNumber(5) => true
+ * @example isAutomorphicNumber(6) => true
+ * @example isAutomorphicNumber(76) => true
+ * @example isAutomorphicNumber(7) => false
  */
-
-// n is the number to be checked
-export const isAutomorphic = (n) => {
-  if (typeof n !== 'number') {
-    throw new Error('Type of n must be number')
+const isAutomorphicNumber = (n) => {
+  if (!Number.isInteger(n) || n < 1) {
+    throw new TypeError('Input must be a positive integer')
   }
-  if (!Number.isInteger(n)) {
-    throw new Error('n cannot be a floating point number')
-  }
-  if (n < 0) {
-    return false
-  }
-
-  // now n is a whole number integer >= 0
-  let n_sq = n * n
-  while (n > 0) {
-    if (n % 10 !== n_sq % 10) {
-      return false
-    }
-    n = Math.floor(n / 10)
-    n_sq = Math.floor(n_sq / 10)
-  }
-
-  return true
+  const square = n * n
+  const digits = String(n).length
+  const lastDigits = square % Math.pow(10, digits)
+  return lastDigits === n
 }
+
+export { isAutomorphicNumber }
