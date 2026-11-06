@@ -1,36 +1,47 @@
-import { sqrt } from '../SquareRoot'
+import { squareRoot } from '../SquareRoot.js'
 
-test('Check SquareRoot of 4 is 2', () => {
-  const res = sqrt(4, 10)
-  expect(res).toBeCloseTo(2)
-})
+describe('squareRoot', () => {
+  test('squareRoot(0) returns 0', () => {
+    expect(squareRoot(0)).toBe(0)
+  })
 
-test('Check SquareRoot of 2 is 1.4142135', () => {
-  const res = sqrt(2, 10)
-  expect(res).toBeCloseTo(1.4142135)
-})
+  test('squareRoot(1) returns 1', () => {
+    expect(squareRoot(1)).toBe(1)
+  })
 
-test('Check SquareRoot of 3.2 is 1.788854381999832', () => {
-  const res = sqrt(3.2, 10)
-  expect(res).toBeCloseTo(1.788854381999832)
-})
+  test('squareRoot(4) returns 2', () => {
+    expect(squareRoot(4)).toBe(2)
+  })
 
-test('Check SquareRoot of 1 is 1', () => {
-  const res = sqrt(1, 10)
-  expect(res).toBe(1)
-})
+  test('squareRoot(9) returns 3', () => {
+    expect(squareRoot(9)).toBe(3)
+  })
 
-test('Check SquareRoot of 144 is 12', () => {
-  const res = sqrt(144, 10)
-  expect(res).toBeCloseTo(12)
-})
+  test('squareRoot(16) returns 4', () => {
+    expect(squareRoot(16)).toBe(4)
+  })
 
-test('Check SquareRoot of 0 is 0', () => {
-  const res = sqrt(0, 10)
-  expect(res).toBeCloseTo(0)
-})
+  test('squareRoot(100) returns 10', () => {
+    expect(squareRoot(100)).toBe(10)
+  })
 
-test('Check SquareRoot of 1000 is 31.62277', () => {
-  const res = sqrt(1000, 10)
-  expect(res).toBeCloseTo(31.62277)
+  test('squareRoot(2) returns approximately 1.4142135624', () => {
+    expect(squareRoot(2)).toBeCloseTo(1.4142135624, 5)
+  })
+
+  test('squareRoot(0.25) returns 0.5', () => {
+    expect(squareRoot(0.25)).toBeCloseTo(0.5, 5)
+  })
+
+  test('throws TypeError for negative input', () => {
+    expect(() => squareRoot(-1)).toThrow(TypeError)
+  })
+
+  test('throws TypeError for non-number input', () => {
+    expect(() => squareRoot('4')).toThrow(TypeError)
+  })
+
+  test('throws TypeError for NaN', () => {
+    expect(() => squareRoot(NaN)).toThrow(TypeError)
+  })
 })
