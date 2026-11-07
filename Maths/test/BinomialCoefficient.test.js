@@ -1,37 +1,51 @@
-import { findBinomialCoefficient } from '../BinomialCoefficient.js'
+import { binomialCoefficient } from '../BinomialCoefficient.js'
 
-describe('Testing findBinomialCoefficient function', () => {
-  it('should return 56', () => {
-    const binomialCoefficient = findBinomialCoefficient(8, 3)
-    expect(binomialCoefficient).toBe(56)
+describe('binomialCoefficient', () => {
+  test('binomialCoefficient(5, 0) returns 1', () => {
+    expect(binomialCoefficient(5, 0)).toBe(1)
   })
 
-  it('should return 10', () => {
-    const binomialCoefficient = findBinomialCoefficient(5, 2)
-    expect(binomialCoefficient).toBe(10)
+  test('binomialCoefficient(5, 5) returns 1', () => {
+    expect(binomialCoefficient(5, 5)).toBe(1)
   })
 
-  it('should throw error when supplied arguments other than number', () => {
-    expect(() => {
-      findBinomialCoefficient('eight', 'three')
-    }).toThrow(Error)
+  test('binomialCoefficient(5, 1) returns 5', () => {
+    expect(binomialCoefficient(5, 1)).toBe(5)
   })
 
-  it('should throw error when n is less than zero', () => {
-    expect(() => {
-      findBinomialCoefficient(-1, 3)
-    }).toThrow(Error)
+  test('binomialCoefficient(5, 2) returns 10', () => {
+    expect(binomialCoefficient(5, 2)).toBe(10)
   })
 
-  it('should throw error when k is less than zero', () => {
-    expect(() => {
-      findBinomialCoefficient(1, -3)
-    }).toThrow(Error)
+  test('binomialCoefficient(10, 3) returns 120', () => {
+    expect(binomialCoefficient(10, 3)).toBe(120)
   })
 
-  it('should throw error when n and k are less than zero', () => {
-    expect(() => {
-      findBinomialCoefficient(-1, -3)
-    }).toThrow(Error)
+  test('binomialCoefficient(6, 3) returns 20', () => {
+    expect(binomialCoefficient(6, 3)).toBe(20)
+  })
+
+  test('binomialCoefficient(k > n) returns 0', () => {
+    expect(binomialCoefficient(3, 5)).toBe(0)
+  })
+
+  test('binomialCoefficient(0, 0) returns 1', () => {
+    expect(binomialCoefficient(0, 0)).toBe(1)
+  })
+
+  test('binomialCoefficient(10, 10) returns 1', () => {
+    expect(binomialCoefficient(10, 10)).toBe(1)
+  })
+
+  test('throws TypeError for negative n', () => {
+    expect(() => binomialCoefficient(-5, 2)).toThrow(TypeError)
+  })
+
+  test('throws TypeError for negative k', () => {
+    expect(() => binomialCoefficient(5, -2)).toThrow(TypeError)
+  })
+
+  test('throws TypeError for float input', () => {
+    expect(() => binomialCoefficient(5.5, 2)).toThrow(TypeError)
   })
 })
