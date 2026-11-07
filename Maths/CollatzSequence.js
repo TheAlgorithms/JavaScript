@@ -1,30 +1,26 @@
 /**
- * @function collatz
- * @description Applies the Collatz Sequence on a specified number.
- * The Collatz Sequence states that every natural number will always fall in a 1, 2, 4 loop when iterated under the following function:
- * If the number is even, divide by 2, and if its odd, multiply it by 3 and add 1.
- *
- * @parama {Integer} n The number to apply the Collatz Sequence to.
- *
- * @return An array of steps and the final result..
- *
- * @see [Collatz Conjecture](https://en.wikipedia.org/wiki/Collatz_conjecture)
- *
- * @example collatz(1) = { result: 1, steps: [] }
- * @example collatz(5) = { result: 1, steps: [16, 8, 4, 2, 1] }
+ * @function collatzSequence
+ * @description The Collatz conjecture states that for any positive integer n,
+ *   if n is even divide by 2, if n is odd multiply by 3 and add 1.
+ *   Repeating this process will eventually reach 1.
+ *   This function returns the full Collatz sequence for a given number.
+ * @param {number} n - A positive integer
+ * @returns {number[]} - The Collatz sequence starting from n
+ * @see https://en.wikipedia.org/wiki/Collatz_conjecture
+ * @example collatzSequence(6) => [6, 3, 10, 5, 16, 8, 4, 2, 1]
+ * @example collatzSequence(1) => [1]
  */
-export function collatz(n) {
-  const steps = []
-
-  while (n !== 1) {
-    if (n % 2 === 0) {
-      n = n / 2
-    } else {
-      n = 3 * n + 1
-    }
-
-    steps.push(n)
+const collatzSequence = (n) => {
+  if (!Number.isInteger(n) || n < 1) {
+    throw new TypeError('Input must be a positive integer')
   }
-
-  return { result: n, steps }
+  const sequence = [n]
+  let current = n
+  while (current !== 1) {
+    current = current % 2 === 0 ? current / 2 : 3 * current + 1
+    sequence.push(current)
+  }
+  return sequence
 }
+
+export { collatzSequence }
