@@ -1,21 +1,23 @@
-import { mean } from './AverageMean.js'
 /**
- *@function meanAbsoluteDeviation
- *@description Calculates the mean absolute deviation of list of numbers
- * @param {Integer} data
- * @returns meanAbsoluteDeviation([2,34,5,0,-2]) = 10.480
- * @url https://en.wikipedia.org/wiki/Average_absolute_deviation
+ * @function meanAbsoluteDeviation
+ * @description Calculates the mean absolute deviation (MAD) of an array
+ *   of numbers. MAD is the average of the absolute differences between
+ *   each value and the mean of the dataset.
+ * @param {number[]} arr - An array of numbers
+ * @returns {number} - The mean absolute deviation
+ * @see https://en.wikipedia.org/wiki/Average_absolute_deviation
+ * @example meanAbsoluteDeviation([2, 2, 3, 4, 14]) => 3.6
+ * @example meanAbsoluteDeviation([1, 1, 1]) => 0
  */
-function meanAbsoluteDeviation(data) {
-  if (!Array.isArray(data)) {
-    throw new TypeError('Invalid Input')
+const meanAbsoluteDeviation = (arr) => {
+  if (!Array.isArray(arr) || arr.length === 0) {
+    throw new TypeError('Input must be a non-empty array')
   }
-  let absoluteSum = 0
-  const meanValue = mean(data)
-  for (const dataPoint of data) {
-    absoluteSum += Math.abs(dataPoint - meanValue)
+  if (!arr.every((n) => typeof n === 'number' && !isNaN(n))) {
+    throw new TypeError('All elements must be numbers')
   }
-  return absoluteSum / data.length
+  const mean = arr.reduce((sum, n) => sum + n, 0) / arr.length
+  return arr.reduce((sum, n) => sum + Math.abs(n - mean), 0) / arr.length
 }
 
 export { meanAbsoluteDeviation }
