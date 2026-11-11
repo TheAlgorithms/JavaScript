@@ -1,0 +1,15 @@
+{
+  "status": "PASSED",
+  "task": "R50-T023",
+  "precondition_line": "Dynamic-Programming/RodCutting.js:6",
+  "smallest_valid_input": {
+    "prices": [1],
+    "n": 1,
+    "expected": 1
+  },
+  "ordinary_input": {
+    "prices": [1, 5, 8, 9, 10, 17, 17, 20],
+    "n": 8,
+    "expected": 22
+  }
+}
