@@ -44,6 +44,14 @@ const hexLookup = (bin) => {
   }
 }
 const binaryToHex = (binaryString) => {
+  if (typeof binaryString !== 'string') {
+    throw new TypeError('Argument is not a string type')
+  }
+
+  if (!/^[01]+$/.test(binaryString)) {
+    throw new Error('Argument is not a valid binary string!')
+  }
+
   /*
   Function for converting Binary to Hex
 
