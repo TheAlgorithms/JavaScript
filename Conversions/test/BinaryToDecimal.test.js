@@ -12,4 +12,15 @@ describe('BinaryToDecimal', () => {
   it('expects to return correct hexadecimal value for padding-required binary', () => {
     expect(binaryToDecimal('1000101')).toBe(69)
   })
+
+  it('expects to throw for a non-string argument', () => {
+    expect(() => binaryToDecimal(1000)).toThrowError()
+    expect(() => binaryToDecimal(null)).toThrowError()
+  })
+
+  it('expects to throw for a non-binary string', () => {
+    expect(() => binaryToDecimal('2')).toThrowError()
+    expect(() => binaryToDecimal('102')).toThrowError()
+    expect(() => binaryToDecimal('')).toThrowError()
+  })
 })
