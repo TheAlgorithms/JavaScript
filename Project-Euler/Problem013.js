@@ -13,7 +13,7 @@ export function largeSum(bignum) {
   let num = 0
 
   while (pos--) {
-    for (let i = nums.length; i--; ) {
+    for (let i = nums.length; i--;) {
       num += +nums[i].charAt(pos)
     }
     ret = (num % 10) + ret

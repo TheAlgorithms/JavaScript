@@ -117,7 +117,7 @@ const rowEchelon = (matrix) => {
   let result = matrix
 
   // Iterate through the rows (i) and columns (j) of the matrix.
-  for (let i = 0, j = 0; i < numRows && j < numCols; ) {
+  for (let i = 0, j = 0; i < numRows && j < numCols;) {
     // If the current column has all zero elements below the current row,
     // move to the next column.
     if (!checkNonZero(i, j, result)) {
