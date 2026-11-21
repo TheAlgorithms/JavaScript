@@ -11,4 +11,9 @@ describe('PrimeCheck', () => {
     expect(PrimeCheck(1)).toBeFalsy()
     expect(PrimeCheck(0)).toBeFalsy()
   })
+  it('should return false for negative numbers', () => {
+    expect(PrimeCheck(-1)).toBeFalsy()
+    expect(PrimeCheck(-3)).toBeFalsy()
+    expect(PrimeCheck(-7)).toBeFalsy()
+  })
 })
