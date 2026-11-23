@@ -26,25 +26,18 @@ const FibonacciGenerator = function* (neg) {
   }
 }
 
-const list = []
 const FibonacciRecursive = (num) => {
   const isNeg = num < 0
   if (isNeg) num *= -1
-  return (() => {
-    switch (list.length) {
-      case 0:
-        list.push(0)
-        return FibonacciRecursive(num)
-      case 1:
-        list.push(1)
-        return FibonacciRecursive(num)
-      case num + 1:
-        return list
-      default:
-        list.push(list.at(-1) + list.at(-2))
-        return FibonacciRecursive(num)
+  const list = num === 0 ? [0] : [0, 1]
+  const buildSequence = () => {
+    if (list.length === num + 1) {
+      return list
     }
-  })().map((fib, i) => fib * (isNeg ? (-1) ** (i + 1) : 1))
+    list.push(list.at(-1) + list.at(-2))
+    return buildSequence()
+  }
+  return buildSequence().map((fib, i) => fib * (isNeg ? (-1) ** (i + 1) : 1))
 }
 
 const dict = new Map()
@@ -81,8 +74,8 @@ const FibonacciDpWithoutRecursion = (num) => {
   const isNeg = num < 0
   if (isNeg) num *= -1
   const table = [0]
-  table.push(1)
-  table.push(isNeg ? -1 : 1)
+  if (num >= 1) table.push(1)
+  if (num >= 2) table.push(isNeg ? -1 : 1)
   for (let i = 2; i < num; ++i) {
     table.push(isNeg ? table[i - 1] - table[i] : table[i] + table[i - 1])
   }
