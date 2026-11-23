@@ -9,6 +9,26 @@ import {
 } from '../Fibonacci'
 
 describe('Fibonacci', () => {
+  it('should build recursive sequences independently of earlier calls', () => {
+    expect(FibonacciRecursive(6)).toEqual([0, 1, 1, 2, 3, 5, 8])
+    expect(FibonacciRecursive(2)).toEqual([0, 1, 1])
+    expect(FibonacciRecursive(8)).toEqual([0, 1, 1, 2, 3, 5, 8, 13, 21])
+    expect(FibonacciRecursive(1)).toEqual([0, 1])
+    expect(FibonacciRecursive(-3)).toEqual([-0, 1, -1, 2])
+  })
+
+  it('should return only zero for the recursive sequence at index zero', () => {
+    expect(FibonacciRecursive(0)).toEqual([0])
+  })
+
+  it.each([
+    [0, [0]],
+    [1, [0, 1]],
+    [-1, [0, 1]]
+  ])('should stop the iterative DP sequence at index %i', (n, expected) => {
+    expect(FibonacciDpWithoutRecursion(n)).toEqual(expected)
+  })
+
   it('should return an array of numbers for FibonacciIterative', () => {
     expect(FibonacciIterative(6)).toEqual(
       expect.arrayContaining([0, 1, 1, 2, 3, 5, 8])
