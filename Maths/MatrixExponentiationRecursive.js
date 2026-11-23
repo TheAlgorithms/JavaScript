@@ -59,7 +59,7 @@ export const MatrixExponentiationRecursive = (mat, m) => {
     return MatMult(tmp, mat)
   } else {
     // tmp = mat ^ m/2
-    const tmp = MatrixExponentiationRecursive(mat, m >> 1)
+    const tmp = MatrixExponentiationRecursive(mat, Math.floor(m / 2))
     // return tmp * tmp = (mat ^ m/2) ^ 2 = mat ^ m
     return MatMult(tmp, tmp)
   }
