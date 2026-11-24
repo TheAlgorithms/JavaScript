@@ -46,13 +46,12 @@ const alphabet = [
 ]
 
 function checkKeywordValidity(keyword) {
-  keyword.split('').forEach((char, index) => {
-    const rest = keyword.slice(0, index) + keyword.slice(index + 1)
-    if (rest.indexOf(char) !== -1) {
-      return false
-    }
-  })
-  return true
+  // Compare case-insensitively: the translation table is built from the
+  // lowercased keyword, so 'Kk' would collapse to a duplicate there.
+  const chars = keyword.toLowerCase().split('')
+  // forEach cannot return early, so use every: each character must be the
+  // first occurrence of itself.
+  return chars.every((char, index) => chars.indexOf(char) === index)
 }
 
 function getEncryptedAlphabet(keyword) {
