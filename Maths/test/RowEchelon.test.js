@@ -86,4 +86,16 @@ describe('Determinant', () => {
   ])('Should return the error message.', (matrix, expected) => {
     expect(() => rowEchelon(matrix)).toThrowError(expected)
   })
+
+  test('Should not mutate the input matrix.', () => {
+    const matrix = [
+      [1, 2, 3],
+      [4, 5, 6],
+      [7, 8, 10]
+    ]
+    const original = matrix.map((row) => [...row])
+    const result = rowEchelon(matrix)
+    expect(matrix).toEqual(original)
+    expect(result).not.toBe(matrix)
+  })
 })
