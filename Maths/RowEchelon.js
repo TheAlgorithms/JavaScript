@@ -114,7 +114,7 @@ const rowEchelon = (matrix) => {
 
   let numRows = matrix.length
   let numCols = matrix[0].length
-  let result = matrix
+  let result = matrix.map((row) => [...row])
 
   // Iterate through the rows (i) and columns (j) of the matrix.
   for (let i = 0, j = 0; i < numRows && j < numCols; ) {
