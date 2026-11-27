@@ -17,3 +17,15 @@ test('Should return the distance for strings with different length', () => {
   const to = 'saturday'
   expect(calculateLevenshteinDp(from, to)).toBe(3)
 })
+
+test('Should return the right distance when two of the three options tie', () => {
+  expect(calculateLevenshteinDp('aabaab', 'aaba')).toBe(2)
+  expect(calculateLevenshteinDp('baab', 'cac')).toBe(3)
+})
+
+test('Should return the distance for equal and empty strings', () => {
+  expect(calculateLevenshteinDp('abc', 'abc')).toBe(0)
+  expect(calculateLevenshteinDp('', 'abc')).toBe(3)
+  expect(calculateLevenshteinDp('abc', '')).toBe(3)
+  expect(calculateLevenshteinDp('', '')).toBe(0)
+})
