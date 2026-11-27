@@ -26,10 +26,23 @@ function rabinKarpSearch(text, pattern) {
   // Calculate the hash of the first substring in the text
   hashText[0] = hash(text, patternLength)
 
-  // Precompute BASE^(patternLength-1) % MOD
-  const basePow = Math.pow(BASE, patternLength - 1) % MOD
+  // Precompute BASE^(patternLength-1) % MOD step by step, so that it stays exact
+  // (Math.pow loses precision once BASE^(patternLength-1) exceeds 2^53)
+  let basePow = 1
+  for (let i = 1; i < patternLength; i++) {
+    basePow = (basePow * BASE) % MOD
+  }
 
-  for (let i = 1; i <= textLength - patternLength + 1; i++) {
+  // The first window (index 0) has to be checked as well
+  if (
+    textLength >= patternLength &&
+    hashText[0] === hashPattern &&
+    text.substring(0, patternLength) === pattern
+  ) {
+    indices.push(0)
+  }
+
+  for (let i = 1; i <= textLength - patternLength; i++) {
     // Update the rolling hash by removing the first character
     // and adding the next character in the text
     hashText[i] =
