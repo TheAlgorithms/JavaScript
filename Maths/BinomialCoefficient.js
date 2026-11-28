@@ -14,8 +14,6 @@
  * @returns {number}
  */
 
-import { calcFactorial } from './Factorial'
-
 export const findBinomialCoefficient = (n, k) => {
   if (typeof n !== 'number' || typeof k !== 'number') {
     throw Error('Type of arguments must be number.')
@@ -23,9 +21,19 @@ export const findBinomialCoefficient = (n, k) => {
   if (n < 0 || k < 0) {
     throw Error('Arguments must be greater than zero.')
   }
-  let product = 1
-  for (let i = n; i > k; i--) {
-    product *= i
+  if (k > n) {
+    return 0
   }
-  return product / calcFactorial(n - k)
+  // Multiplicative formula in exact integer arithmetic: after step i the
+  // running value is exactly C(n, i + 1), since C(n, i) * (n - i) is always
+  // divisible by (i + 1). BigInt keeps every intermediate exact, unlike the
+  // factorial formula n! / (k! * (n - k)!), whose large intermediates lose
+  // integer precision in floating point even for small answers
+  // (e.g. C(25, 2) evaluated to 299.99999999999994).
+  const steps = Math.min(k, n - k)
+  let result = 1n
+  for (let i = 0; i < steps; i++) {
+    result = (result * BigInt(n - i)) / BigInt(i + 1)
+  }
+  return Number(result)
 }
